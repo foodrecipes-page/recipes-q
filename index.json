@@ -1,9 +1,14 @@
-{
-  "version": 1,
-  "shard": "q",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'q''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-q@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "quicksweetpoach",
+    "title": "QuickSweetPoach",
+    "tags": [
+      "quick-sweet-poach",
+      "sour-gooey-dish",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 8,
+    "shard": "q"
+  }
+]

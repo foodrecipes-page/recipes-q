@@ -1,0 +1,72 @@
+{
+  "title": "QuickSweetPoach",
+  "description": "A quick and easy diabetic-friendly dessert featuring sweet smoked paprika, poached in a minimal amount of time.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet smoked paprika",
+      "amount": "1 tsp",
+      "notes": "For added sweetness and smokiness."
+    },
+    {
+      "name": "Sugar-free fruit jam",
+      "amount": "2 tbsp",
+      "notes": "Use a sugar-free variety to keep it diabetic-friendly."
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50 ml",
+      "notes": "Full-fat for richer flavor and texture."
+    },
+    {
+      "name": "Whole milk yogurt",
+      "amount": "100 ml",
+      "notes": "Reduced fat or plain, as desired."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": "For a touch of sweetness and depth."
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the sweet smoked paprika, sugar-free fruit jam, heavy cream, and vanilla extract.",
+    "Heat over medium heat until just boiling but not simmering. Stir occasionally to prevent burning.",
+    "Reduce heat to low and let the mixture simmer gently for 1-2 minutes, allowing flavors to meld together.",
+    "Remove from heat and stir in whole milk yogurt to thicken slightly if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-sweet-poach",
+    "sour-gooey-dish",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 37,
+    "fat": 8
+  },
+  "slug": "quicksweetpoach",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quicksweetpoach",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:31:42Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "diabetic-friendly",
+    "region": null
+  }
+}
