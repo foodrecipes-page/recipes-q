@@ -74,9 +74,9 @@
     "carbs": 6,
     "fat": 7
   },
-  "slug": "quickkneadpro",
+  "slug": "quick-knead-pro",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/quickkneadpro",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-knead-pro",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T12:58:48Z",
   "axes": {

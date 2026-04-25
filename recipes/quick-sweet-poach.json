@@ -55,9 +55,9 @@
     "carbs": 37,
     "fat": 8
   },
-  "slug": "quicksweetpoach",
+  "slug": "quick-sweet-poach",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/quicksweetpoach",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sweet-poach",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T10:31:42Z",
   "axes": {
