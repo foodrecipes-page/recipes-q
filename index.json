@@ -1,5 +1,19 @@
 [
   {
+    "slug": "quickkneadpro",
+    "title": "QuickKneadPro",
+    "tags": [
+      "quick",
+      "fermented",
+      "gooey",
+      "paella",
+      "protein"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quicksweetpoach",
     "title": "QuickSweetPoach",
     "tags": [

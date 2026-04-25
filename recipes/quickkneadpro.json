@@ -1,0 +1,91 @@
+{
+  "title": "QuickKneadPro",
+  "description": "A quick-fix Brazilian dish featuring fermented and gooey paella rice kneaded with high-protein-friendly ingredients for a healthy meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "high-protein",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cooked paella rice",
+      "amount": "",
+      "notes": "Use pre-cooked or quick-cooking variety"
+    },
+    {
+      "name": "2 eggs",
+      "amount": "3",
+      "notes": "Crack into a bowl and beat well before use"
+    },
+    {
+      "name": "Half cup of chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Quarter cup of grated parmesan cheese",
+      "amount": "",
+      "notes": "Optional, for extra flavor"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "1/4 cup of olive oil",
+      "amount": "",
+      "notes": "For kneading and serving"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the cooked paella rice, beaten eggs, parsley, parmesan cheese (if using), and salt in a large mixing bowl.",
+    "Add minced garlic and smoked paprika to the mixture and stir well until all ingredients are evenly distributed.",
+    "Transfer the mixture into a shallow dish or pan. Let it sit at room temperature for 10-20 minutes to allow the egg mixture to set slightly.",
+    "Knead the mixture by hand for about 3-5 minutes, using a small amount of olive oil if needed to prevent sticking.",
+    "Serve immediately as is or with additional toppings like fresh herbs and more parmesan cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "fermented",
+    "gooey",
+    "paella",
+    "protein"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "quickkneadpro",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickkneadpro",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:58:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "knead",
+    "primaryIngredient": "paella rice",
+    "diet": "high-protein",
+    "region": null
+  }
+}
