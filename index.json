@@ -14,6 +14,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-nutty-crunch-stir-fry",
+    "title": "QuickFix Nutty Crunch Stir-Fry",
+    "tags": [
+      "quickfix",
+      "nutty",
+      "juicy",
+      "british",
+      "lowcarb",
+      "stir-fry"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
     "slug": "quick-knead-pro",
     "title": "QuickKneadPro",
     "tags": [

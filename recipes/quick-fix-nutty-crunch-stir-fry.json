@@ -1,0 +1,90 @@
+{
+  "title": "QuickFix Nutty Crunch Stir-Fry",
+  "description": "A quick-fix British dish featuring nutty crunch and juicy tomato ketchup in a low-carb-friendly twist.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomato Ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mixed Nuts (e.g., Almonds, Hazelnuts)",
+      "amount": "30g",
+      "notes": "Chopped and toasted"
+    },
+    {
+      "name": "Fresh Vegetables (e.g., Bell Peppers, Carrots)",
+      "amount": "1/2 cup",
+      "notes": "Sliced thinly for a crunchier texture"
+    },
+    {
+      "name": "Low-Sodium Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix tomato ketchup with almond flour and water until smooth. Set aside.",
+    "Toast mixed nuts in a dry pan for about 2 minutes or until fragrant. Allow to cool slightly before chopping them into small pieces.",
+    "Slice fresh vegetables thinly and set aside.",
+    "Mix together the prepared tomato ketchup mixture, soy sauce, and garlic powder in a large frying pan over medium heat.",
+    "Once the mixture is heated through, add chopped nuts and sliced vegetables. Stir-fry for about 2-3 minutes until vegetables are tender but still crisp.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quickfix",
+    "nutty",
+    "juicy",
+    "british",
+    "lowcarb",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 4
+  },
+  "slug": "quick-fix-nutty-crunch-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-nutty-crunch-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T12:06:40Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "nuts",
+    "descriptor": "QuickFix",
+    "dishForm": "Stir-fry"
+  }
+}
