@@ -1,0 +1,97 @@
+{
+  "title": "Quick-Fix Brazilian Chorizo Wrap",
+  "description": "A rich, chewy quick-fix dish featuring tomato juice and grill-fried chorizo for a low-sodium-friendly lunch option.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 wrap",
+      "amount": "one",
+      "notes": "Whole wheat or any preferred type"
+    },
+    {
+      "name": "2 slices of low-sodium ham",
+      "amount": "optional, see notes for substitution",
+      "notes": "Use turkey or chicken if vegetarian option is needed"
+    },
+    {
+      "name": "1 cup finely chopped tomatoes",
+      "amount": "chopped fresh",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp tomato juice concentrate",
+      "amount": "undiluted",
+      "notes": "Water can be added for diluted version"
+    },
+    {
+      "name": "4-6 slices low-sodium chorizo sausage",
+      "amount": "skinless, sliced into rounds",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup finely chopped red onion",
+      "amount": "chopped fresh",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "squeezed from one lime",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or pan to medium-high heat.",
+    "Slice chorizo into thin rounds. Season with salt and pepper lightly.",
+    "Lightly toast wrap in a toaster oven or on a skillet until warm.",
+    "Place sliced chorizo, red onion, chopped tomatoes, and tomato juice concentrate on the bottom half of the wrap.",
+    "If using ham, place it on top of the fillings. Add any additional desired toppings like avocado slices or lettuce.",
+    "Fold the top half of the wrap over the fillings to seal.",
+    "Place wrapped sandwich on grill for 2-3 minutes per side, until heated through and slightly crispy on outside.",
+    "Lime-slice ends (optional) to serve immediately with a squeeze of fresh lime juice over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "brazilian",
+    "chorizo",
+    "wrap",
+    "tomato-juice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "quick-fix-brazilian-chorizo-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-brazilian-chorizo-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:11:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Chorizo",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Wrap"
+  }
+}

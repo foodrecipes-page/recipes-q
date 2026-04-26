@@ -1,5 +1,19 @@
 [
   {
+    "slug": "quick-fix-brazilian-chorizo-wrap",
+    "title": "Quick-Fix Brazilian Chorizo Wrap",
+    "tags": [
+      "quick-fix",
+      "brazilian",
+      "chorizo",
+      "wrap",
+      "tomato-juice"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-knead-pro",
     "title": "QuickKneadPro",
     "tags": [
