@@ -1,0 +1,75 @@
+{
+  "title": "Quick-Fix Nutty Almond Tartare",
+  "description": "A quick-fix Mediterranean dish featuring nutty almond muffins and a dash-friendly broil for a tender mediterranean twist.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Muffins",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nutty Almond Butter",
+      "amount": "2 tablespoons",
+      "notes": "Optional for spreading or adding extra nuttiness"
+    },
+    {
+      "name": "Fresh Herbs (e.g., parsley, dill)",
+      "amount": "a handful"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dashes of Olive Oil and Salt",
+      "amount": "",
+      "notes": "For finishing the tartare"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat.",
+    "Toast the almond muffins in a toaster oven or skillet until lightly golden brown, about 2 minutes per side.",
+    "Place toasted almond muffins on a plate and drizzle with balsamic vinegar. Add a few fresh herbs for freshness.",
+    "For an extra nutty flavor, spread some nutty almond butter evenly over the toasts.",
+    "Sprinkle salt on top and lightly brush with olive oil. Place under broiler for 30 seconds per side or until golden brown and bubbly.",
+    "Remove from oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 2,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "nutty",
+    "tender",
+    "mediterranean",
+    "almond-tartare"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "quick-fix-nutty-almond-tartare",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-nutty-almond-tartare",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T14:46:55Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "muffins",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Almond",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Tartare"
+  }
+}
