@@ -1,0 +1,88 @@
+{
+  "title": "Quick Fix Malaysian Tomato Crumble",
+  "description": "A quick and easy umami-rich dish featuring English mustard for a tangy kick, perfect as a low-fat-friendly side or main course.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "english mustard sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain low-fat yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "handful, finely chopped"
+    },
+    {
+      "name": "low-fat cottage cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter or oil",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high.",
+    "Mix together the tomato paste, English mustard sauce, plain low-fat yogurt, fresh basil leaves, and a pinch of salt and pepper in a bowl. Stir well until smooth and well combined.",
+    "In another bowl, whisk together the all-purpose flour with a few drops of butter or oil to create a crumb mixture. The mixture should be thick but spreadable.",
+    "Place half of the tomato sauce mixture onto a baking dish, then top it evenly with the crumble mixture. Repeat layers until all ingredients are used.",
+    "Sprinkle the remaining tablespoon of flour over the top layer and gently press into place for an extra crunch.",
+    "Broil in the preheated oven for about 5 minutes or until golden brown on top. Watch closely to avoid burning.",
+    "Remove from oven once golden, let it cool slightly before serving as a side dish with rice or as the main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "malaysian",
+    "umami",
+    "low-fat-friendly",
+    "english-mustard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 17,
+    "fat": 8
+  },
+  "slug": "quick-fix-malaysian-tomato-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-malaysian-tomato-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:52:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "english mustard",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Tomato",
+    "descriptor": "Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
