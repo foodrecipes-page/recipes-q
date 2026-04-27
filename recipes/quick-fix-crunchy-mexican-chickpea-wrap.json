@@ -1,0 +1,97 @@
+{
+  "title": "Quick-Fix Crunchy Mexican Chickpea Wrap",
+  "description": "A quick-fix dish featuring rich, crunchy flavors of a Mexican dish, incorporating green salsa for freshness and vegetarians in mind.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "2 cans (15 oz each)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium ripe avocado"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large tomatoes, diced"
+    },
+    {
+      "name": "Green Salsa",
+      "amount": "1/2 cup store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon fresh squeezed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful, chopped for garnish"
+    },
+    {
+      "name": "Whole Wheat Tortilla Wraps",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix chickpeas with avocado, red onion, tomatoes, green salsa, olive oil, lime juice, cumin, and salt. Stir well until combined.",
+    "Divide the mixture evenly among the tortilla wraps. Top each wrap with a spoonful of the vegetable mixture.",
+    "Heat the remaining olive oil in a non-stick pan over medium-high heat. Place a wrapped tortilla on the heated pan, cooking for about 2 minutes per side or until golden brown and warm.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "crunchy",
+    "mexican",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 9,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "quick-fix-crunchy-mexican-chickpea-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-crunchy-mexican-chickpea-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:38:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "green salsa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Quick-Fix Crunchy",
+    "dishForm": "Wrap"
+  }
+}
