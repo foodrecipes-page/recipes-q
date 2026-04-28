@@ -1,0 +1,67 @@
+{
+  "title": "Quick-Fix Flaky Pepper Crumble",
+  "description": "A floral and flaky Brazilian dish featuring roasted bell peppers as the star ingredient, egg-free-friendly for a quick-fix meal.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 medium roasted bell pepper",
+      "amount": "medium"
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "juice"
+    },
+    {
+      "name": "4 tbsp fresh parsley leaves",
+      "amount": "fresh"
+    },
+    {
+      "name": "Salt and black pepper to taste",
+      "notes": "Use sea salt for a healthier option."
+    }
+  ],
+  "instructions": [
+    "Remove the stem, seeds, and white membrane from the bell pepper. Remove any tough parts.",
+    "Squeeze the juice of two limes into a bowl. Add the removed bell pepper pieces and chopped parsley leaves.",
+    "Mix well with salt and black pepper to taste. Adjust seasoning if necessary.",
+    "Taste test for balance and adjust seasonings as needed. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "flaky",
+    "brazilian",
+    "pepper-crumble",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 48,
+    "protein": 3,
+    "carbs": 5,
+    "fat": 1
+  },
+  "slug": "quick-fix-flaky-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-flaky-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:30:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "roasted pepper",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Flaky Quick-Fix",
+    "dishForm": "Crumble"
+  }
+}
