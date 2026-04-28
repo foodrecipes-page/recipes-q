@@ -1,0 +1,86 @@
+{
+  "title": "Quick-fix Earthly Flax Eggs Stir-fry",
+  "description": "A quick and easy Filipino dish featuring flax eggs that are dense and perfect for a meal on-the-go, suitable for nut-free diets.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flax eggs",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "1 cup, fresh or canned"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons, low-sodium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat. Add vegetable oil and swirl to coat.",
+    "Add finely chopped onion and minced garlic to the skillet. Sauté until onions are translucent, about 3 minutes.",
+    "In a mixing bowl, lightly beat flax eggs with a pinch of salt and pepper. Pour beaten flax eggs into the skillet evenly.",
+    "Stir gently for about 1-2 minutes or until flax eggs start to set on top.",
+    "Add chopped tomatoes to the skillet and let cook for an additional minute.",
+    "Pour in soy sauce, ensuring it is well mixed with the flax egg mixture. Toss to combine thoroughly.",
+    "Remove from heat immediately. Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "filipino",
+    "earthly",
+    "flax-eggs",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "quick-fix-earthly-flax-eggs-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-earthly-flax-eggs-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:41:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "flax eggs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "flax eggs",
+    "descriptor": "quick-fix",
+    "dishForm": "Stir-fry"
+  }
+}
