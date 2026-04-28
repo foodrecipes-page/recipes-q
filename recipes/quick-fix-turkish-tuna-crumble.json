@@ -1,0 +1,82 @@
+{
+  "title": "Quick-Fix Turkish Tuna Crumble",
+  "description": "A quick and easy gluten-free-friendly dish featuring tuna that is bitter, flaky, and perfect for a quick lunch or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (5 oz)",
+      "notes": "Drain and flake the tuna into small pieces."
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": "For tossing the crumble together."
+    },
+    {
+      "name": "Fresh dill (chopped)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "To taste for a slight kick of heat."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a mixing bowl, combine the flaked tuna with Greek yogurt, olive oil, chopped dill, red pepper flakes, and garlic powder. Mix well until the mixture is evenly combined.",
+    "Transfer the mixture into a baking dish or shallow pan that can be used for serving.",
+    "Bake in the preheated oven for about 10-12 minutes or until the tuna crumble becomes golden brown on top and heated through.",
+    "Serve immediately while hot. This snack is best enjoyed as a side with whole wheat crackers, cucumber slices, or green vegetables."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix-turkish-dish",
+    "bitter-flaky-tuna-crumble",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 4,
+    "carbs": 2,
+    "fat": 3
+  },
+  "slug": "quick-fix-turkish-tuna-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-turkish-tuna-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:21:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "tuna",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Tuna",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Crumble"
+  }
+}
