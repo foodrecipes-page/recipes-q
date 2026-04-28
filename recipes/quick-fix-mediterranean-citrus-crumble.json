@@ -1,0 +1,82 @@
+{
+  "title": "Quick Fix Mediterranean Citrus Crumble",
+  "description": "A citrusy, dense dish that combines fresh herbs and zest with baking powder for a quick-fix recipe perfect for breakfast or a light meal.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons grated orange zest",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon garlic powder",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "1 cup diced canned sweet peaches",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons honey or agave nectar",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour, orange zest, cumin, garlic powder, and salt.",
+    "Add in the diced sweet peaches and honey or agave nectar. Mix until well combined.",
+    "Transfer mixture into an air fryer safe dish.",
+    "Spray inside with cooking spray or lightly grease if using a baking dish.",
+    "Bake for 15-20 minutes, stirring halfway through.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 15,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "mediterranean",
+    "citrusy",
+    "dense",
+    "egg-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 2
+  },
+  "slug": "quick-fix-mediterranean-citrus-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-mediterranean-citrus-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:39:41Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "baking powder",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Citrus",
+    "descriptor": "Quick Fix",
+    "dishForm": "Crumble"
+  }
+}
