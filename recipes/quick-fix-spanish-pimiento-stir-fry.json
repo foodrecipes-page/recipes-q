@@ -1,0 +1,77 @@
+{
+  "title": "Quick-Fix Spanish Pimiento Stir-fry",
+  "description": "A quick-fix dish featuring fresh and chewy pimientos, seasoned with white wine vinegar and pickled vegetables for a tangy vegetarian-friendly meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pimiento",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle slices (such as sweet pickle or capers)",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "1-2"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat.",
+    "Add garlic and sauté for about 30 seconds until fragrant.",
+    "Add pimiento, white wine vinegar, and salt. Stir well to combine.",
+    "Garnish with pickle slices if using.",
+    "Cook until the pimientos are tender and slightly crispy, around 5-7 minutes.",
+    "Serve hot as a side dish or with rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pimiento",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 3
+  },
+  "slug": "quick-fix-spanish-pimiento-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-spanish-pimiento-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:15:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pimiento",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Stir-fry"
+  }
+}
