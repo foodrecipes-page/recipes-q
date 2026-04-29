@@ -1,0 +1,80 @@
+{
+  "title": "Quick Fix Irish Squash Stir-fry",
+  "description": "A quick and easy meal rich in flavor with a mix of savory vegetables like squash, pumpkin, and dumplings, perfect for those on the go or looking for a paleo-friendly option.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large butternut squash",
+      "amount": "peeled and diced"
+    },
+    {
+      "name": "2 cups pumpkin puree (ensure it’s paleo-friendly)",
+      "amount": "",
+      "notes": "Make sure to check for hidden sugars or additives."
+    },
+    {
+      "name": "6 oz dumplings, gluten-free",
+      "amount": "",
+      "notes": "Ensure they are paleo-friendly and gluten-free."
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp coconut oil (or your preferred cooking oil)",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add diced butternut squash and sauté until tender, about 5-7 minutes.",
+    "Stir in pumpkin puree, minced garlic, salt, and pepper. Let cook for another minute to allow flavors to meld together.",
+    "Gently fold dumplings into the mixture, reducing heat to low if necessary to prevent overcooking.",
+    "Cook for an additional 3-5 minutes until dumplings are heated through but still slightly firm.",
+    "Serve hot as a side dish or main course. Can be served with a dollop of full-fat coconut yogurt and fresh herbs like parsley for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick-fix",
+    "irish-dish",
+    "paleo-friendly",
+    "squash-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 18
+  },
+  "slug": "quick-fix-irish-squash-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-irish-squash-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:10:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "squash",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "squash",
+    "descriptor": "Quick Fix",
+    "dishForm": "Stir-fry"
+  }
+}
