@@ -1,5 +1,19 @@
 [
   {
+    "slug": "quenched-croatian-corn-salad",
+    "title": "Quenched Croatian Corn Salad",
+    "tags": [
+      "croatian-dish",
+      "fresh",
+      "quick",
+      "salad",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [

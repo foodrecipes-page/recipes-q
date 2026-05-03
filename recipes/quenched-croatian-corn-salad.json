@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Croatian Corn Salad",
+  "description": "A salty, crisp, romantic salad that blends fresh corn, vegetables, and a touch of butter for a uniquely Croatian twist.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "20 g"
+    },
+    {
+      "name": "fresh corn kernels",
+      "amount": "250 g",
+      "notes": "from 2 ears"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "15 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    }
+  ],
+  "instructions": [
+    "Melt the unsalted butter in a small pan over low heat until foamy.",
+    "Add the diced red onion and sauté for 2 minutes until translucent.",
+    "Stir in the fresh corn kernels and cook for 5 minutes, stirring occasionally.",
+    "Remove the pan from heat and let the mixture cool to room temperature.",
+    "In a large bowl, combine the cooled corn mixture, diced red bell pepper, cucumber, and parsley.",
+    "Drizzle olive oil and lemon juice over the salad, then season with salt and pepper.",
+    "Gently fold all ingredients together until evenly coated.",
+    "Chill the salad in the refrigerator for 30 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-dish",
+    "fresh",
+    "quick",
+    "salad",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 144,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "quenched-croatian-corn-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-croatian-corn-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:42:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "cure",
+    "primaryIngredient": "unsalted butter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Corn",
+    "descriptor": "Quenched",
+    "dishForm": "Salad"
+  }
+}
