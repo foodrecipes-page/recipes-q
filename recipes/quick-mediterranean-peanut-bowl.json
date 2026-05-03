@@ -1,0 +1,109 @@
+{
+  "title": "Quick Mediterranean Peanut Bowl",
+  "description": "Creamy Mediterranean bowl with roasted peanuts, quinoa, steamed zucchini, and tangy feta for a buttery, ovo-vegetarian solo dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw peanuts",
+      "amount": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "quinoa",
+      "amount": "100g dry"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium (about 300g)",
+      "notes": "spiralized into noodles"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "30g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F and spread 30g raw peanuts with 1 tsp olive oil, 1/4 tsp salt, and 1/4 tsp pepper on a baking sheet, then roast for 8 minutes until fragrant.",
+    "While the peanuts roast, rinse 100g quinoa under cold water, then simmer in 200ml water for 15 minutes until fluffy.",
+    "Slice 2 medium zucchini into noodles using a spiralizer, then steam in a steamer basket for 3 minutes until just tender.",
+    "In a large bowl, combine cooked quinoa, roasted peanuts, and steamed zucchini noodles.",
+    "Whisk together 1 tbsp olive oil, 1 tsp butter, 1 tbsp lemon juice, minced garlic clove, and 1 tsp smoked paprika until smooth.",
+    "Pour the dressing over the quinoa mixture and toss until everything is evenly coated.",
+    "Sprinkle 30g crumbled feta cheese and 10g chopped parsley over the bowl.",
+    "Serve warm as a buttery, Mediterranean solo dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "nutty",
+    "one-pot",
+    "ovo-vegetarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 910,
+    "protein": 27,
+    "carbs": 84,
+    "fat": 46
+  },
+  "slug": "quick-mediterranean-peanut-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-mediterranean-peanut-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:22:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "roasted peanut",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "peanut",
+    "descriptor": "Quick",
+    "dishForm": "Bowl"
+  }
+}
