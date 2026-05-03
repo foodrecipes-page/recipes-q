@@ -354,6 +354,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-greek-chicken-salad",
+    "title": "Quick Greek Chicken Salad",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "mediterranean",
+      "no-waste",
+      "post-workout",
+      "quick"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-herbal-irish-potato-dumplings",
     "title": "Quick Herbal Irish Potato Dumplings",
     "tags": [

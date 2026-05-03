@@ -1,0 +1,110 @@
+{
+  "title": "Quick Greek Chicken Salad",
+  "description": "A salty, light, post-workout Greek dish featuring romano pepper, temper, dash-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": "200 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "150 g",
+      "notes": "halved"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "35 g",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "125 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Red onion",
+      "amount": "2 tbsp",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Heat olive oil in a skillet over medium-high heat and cook the chicken for 4-5 minutes per side until golden and cooked through.",
+    "Let the chicken rest for 2 minutes before slicing it into strips.",
+    "In a large bowl, combine romaine lettuce, cucumber, cherry tomatoes, olives, feta cheese, and red onion.",
+    "Add the sliced chicken on top of the salad.",
+    "Drizzle lemon juice and the remaining olive oil over the salad.",
+    "Toss gently to coat all ingredients evenly.",
+    "Serve immediately for a fresh, salty, and light post-workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "no-waste",
+    "post-workout",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "quick-greek-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-greek-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:47:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "romano pepper",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quick",
+    "dishForm": "Salad"
+  }
+}
