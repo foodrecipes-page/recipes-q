@@ -68,6 +68,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-kebab-aubergine-quesadilla",
+    "title": "Quick-fix Kebab Aubergine Quesadilla",
+    "tags": [
+      "aubergine",
+      "kebab",
+      "quick-fix",
+      "kenyan",
+      "chewy",
+      "earthly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-malaysian-tomato-crumble",
     "title": "Quick Fix Malaysian Tomato Crumble",
     "tags": [

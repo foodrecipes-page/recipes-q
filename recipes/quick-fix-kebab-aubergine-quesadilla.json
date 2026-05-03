@@ -1,0 +1,80 @@
+{
+  "title": "Quick-fix Kebab Aubergine Quesadilla",
+  "description": "An earthy and chewy quick-fix Kenyan dish featuring baby aubergines that are boiled, halal-friendly and quick to prepare.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baby Aubergine",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Salt",
+      "amount": "a little bit"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chicken Kebab Mix (optional)",
+      "notes": "For a more traditional kebab flavor, you can add this"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed for frying"
+    }
+  ],
+  "instructions": [
+    "Wash and dry the baby aubergine. Cut into rounds about half an inch thick.",
+    "Season both sides of the aubergine with salt. Set aside to soften, typically around 15 minutes.",
+    "In a small bowl, mix flour with water until you get a smooth batter. Adjust consistency as needed for frying.",
+    "Heat olive oil in a large pan over medium heat. Dip each side of the aubergine into the flour mixture and fry until golden brown on both sides, about 2-3 minutes per side. Remove from pan and drain excess oil.",
+    "If using chicken kebab mix, sprinkle it evenly over one half of the fried aubergine and place in another part of the pan for a few seconds to toast lightly.",
+    "Serve hot with your favorite dipping sauce or as is."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "aubergine",
+    "kebab",
+    "quick-fix",
+    "kenyan",
+    "chewy",
+    "earthly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "quick-fix-kebab-aubergine-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-kebab-aubergine-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:14:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "baby aubergine",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kebabs",
+    "mainIngredient": "aubergine",
+    "descriptor": "Quick-fix",
+    "dishForm": "Quesadilla"
+  }
+}
