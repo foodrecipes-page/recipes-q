@@ -1,0 +1,116 @@
+{
+  "title": "Quenched Smoky Uruguayan Beef Stew",
+  "description": "A dense, midnight-craving stew that blends smoky flavors, sous‑vide tenderness, and a creamy semi‑skimmed milk reduction for a comforting Uruguayan experience.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef chuck roast",
+      "amount": "800g",
+      "notes": "cut into 3cm cubes"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "fresh thyme sprigs",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Pat the beef cubes dry with paper towels.",
+    "In a bowl, combine beef cubes with smoked paprika, liquid smoke, minced garlic, salt, and pepper; let marinate for 15 minutes.",
+    "Heat olive oil in a large skillet over medium‑high heat; sear beef cubes until browned on all sides, then remove and set aside.",
+    "In the same skillet, sauté diced onion until translucent, then stir in tomato paste and cook for 2 minutes.",
+    "Add semi‑skimmed milk and beef stock, whisking to combine, and bring to a gentle simmer.",
+    "Transfer the beef, onion, and sauce mixture into a vacuum‑sealed bag, add thyme sprigs and bay leaves, and seal.",
+    "Place the bag in a sous‑vide water bath set to 57°C (135°F) and cook for 24 hours.",
+    "After sous‑vide, remove the bag, squeeze out excess liquid, and return the beef to the skillet.",
+    "Simmer the stew over low heat for 30 minutes to reduce and thicken slightly.",
+    "Taste and adjust seasoning with salt and pepper if needed.",
+    "Divide the stew among four plates and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 1440,
+  "totalTimeMin": 1460,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense-dinner",
+    "midnight-craving",
+    "smoky",
+    "sous-vide",
+    "uruguayan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 605,
+    "protein": 53,
+    "carbs": 3,
+    "fat": 34
+  },
+  "slug": "quenched-smoky-uruguayan-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-uruguayan-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:54:09Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Beef",
+    "descriptor": "Quenched Smoky",
+    "dishForm": "Stew"
+  }
+}
