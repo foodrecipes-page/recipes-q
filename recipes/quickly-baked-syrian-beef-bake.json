@@ -1,0 +1,107 @@
+{
+  "title": "Quickly Baked Syrian Beef Bake",
+  "description": "A flavorful and quick-fix Syrian dish featuring beef flank steak, salt-bake, and a hint of spices.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef flank steak with salt, black pepper, garlic powder, and paprika.",
+    "Heat the olive oil in a skillet over medium-high heat and sear the beef flank steak for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake the beef flank steak for 15-20 minutes or until it reaches your desired level of doneness.",
+    "While the beef is baking, mix together the chopped parsley, mint, lemon juice, and feta cheese (if using) in a small bowl.",
+    "Remove the skillet from the oven and let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "Serve the sliced beef with the parsley-mint mixture spooned over the top.",
+    "Garnish with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-dinner",
+    "flavorful",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quickly-baked-syrian-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-baked-syrian-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:37:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "beef flank steak",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beef",
+    "descriptor": "Quickly Baked",
+    "dishForm": "Bake"
+  }
+}
