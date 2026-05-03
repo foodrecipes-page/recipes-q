@@ -233,6 +233,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-french-beans-pie",
+    "title": "Quick French Beans Pie",
+    "tags": [
+      "flaky-crust",
+      "low-sodium",
+      "one-pan",
+      "quick-prepare",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-knead-pro",
     "title": "QuickKneadPro",
     "tags": [
