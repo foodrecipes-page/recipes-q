@@ -1,0 +1,106 @@
+{
+  "title": "Quick Japanese Chicken Fritters",
+  "description": "Crispy, protein-packed chicken fritters with fresh basil and a hint of sweet soy glaze.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "10g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "40g"
+    },
+    {
+      "name": "corn starch",
+      "amount": "20g"
+    },
+    {
+      "name": "dashi stock powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Pound the chicken into thin strips.",
+    "Toss the chicken with chopped basil, salt, pepper, and a splash of soy sauce.",
+    "Whisk the egg in a shallow bowl; in another bowl combine flour, corn starch, dashi powder, mirin, and sugar.",
+    "Dip each chicken strip first in the egg, then coat evenly with the flour mixture.",
+    "Heat oil in a deep pan to 180°C and test with a small breadcrumb piece; it should bubble immediately.",
+    "Fry the coated strips in batches for 2-3 minutes per side until golden and crispy.",
+    "Remove with a slotted spoon and drain on paper towels.",
+    "Serve hot with a drizzle of extra soy sauce or a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "agemono",
+    "basil",
+    "deep-fry",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 22,
+    "carbs": 18,
+    "fat": 12
+  },
+  "slug": "quick-japanese-chicken-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-japanese-chicken-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:16:06Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "basil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quick",
+    "dishForm": "Fritters"
+  }
+}
