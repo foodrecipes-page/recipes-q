@@ -1,5 +1,20 @@
 [
   {
+    "slug": "quenched-brazilian-lentil-salad",
+    "title": "Quenched Brazilian Lentil Salad",
+    "tags": [
+      "gluten-free",
+      "lentils",
+      "low-fat",
+      "quick",
+      "tangy",
+      "vegan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 65,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-croatian-corn-salad",
     "title": "Quenched Croatian Corn Salad",
     "tags": [

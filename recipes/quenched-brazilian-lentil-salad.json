@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Brazilian Lentil Salad",
+  "description": "A bright, tangy lentil salad with a hint of cocoa, pickles, and Mediterranean herbs, perfect for a quick, energizing lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried brown lentils"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp extra virgin olive oil"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp red wine vinegar"
+    },
+    {
+      "name": "Unsweetened cocoa powder",
+      "amount": "1 tsp unsweetened cocoa powder"
+    },
+    {
+      "name": "Pickled red onions",
+      "amount": "1/4 cup pickled red onions"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup diced cherry tomatoes"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup diced cucumber"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove garlic, minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped fresh cilantro"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp freshly ground black pepper"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp fresh lemon juice"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until clear.",
+    "In a medium saucepan, combine the lentils with 2 cups of water, bring to a boil, then reduce heat to a simmer and cook for 18-20 minutes until tender.",
+    "Drain the lentils and let them cool to room temperature.",
+    "In a large bowl, whisk together olive oil, red wine vinegar, cocoa powder, pickled red onions, minced garlic, sea salt, black pepper, and lemon juice to make the dressing.",
+    "Toss the cooled lentils with the dressing until well coated.",
+    "Fold in diced cherry tomatoes, cucumber, and chopped cilantro until evenly distributed.",
+    "Chill the salad in the refrigerator for at least 30 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lentils",
+    "low-fat",
+    "quick",
+    "tangy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 20,
+    "carbs": 48,
+    "fat": 28
+  },
+  "slug": "quenched-brazilian-lentil-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-brazilian-lentil-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:28:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "pickle",
+    "primaryIngredient": "cocoa powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quenched",
+    "dishForm": "Salad"
+  }
+}
