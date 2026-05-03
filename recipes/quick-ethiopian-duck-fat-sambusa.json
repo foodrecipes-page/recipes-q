@@ -1,0 +1,96 @@
+{
+  "title": "Quick Ethiopian Duck Fat Sambusa",
+  "description": "Buttery and silky, this quick-fix Ethiopian dish features duck fat and is suitable for diabetic diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Spice mix",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Potato starch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tandoor bread",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor oven or a conventional oven to 425°F (220°C).",
+    "Mix together the chopped onion, minced garlic, grated ginger, and spice mix in a bowl.",
+    "Heat the duck fat in a small pan over medium heat and add the onion mixture; cook for 2 minutes.",
+    "Add the chopped cilantro and cook for another minute, stirring constantly.",
+    "Stir in the potato starch to thicken the mixture.",
+    "Brush the tandoor bread with the remaining duck fat and place in the preheated oven.",
+    "Spoon the onion mixture onto the bread and cook for 2-3 minutes, or until the bread is toasted and the filling is heated through.",
+    "Serve the Sambusa immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-servings",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-ethiopian-duck-fat-sambusa",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-ethiopian-duck-fat-sambusa",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:10:51Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "duck fat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "duck fat",
+    "descriptor": "Quick",
+    "dishForm": "Sambusa"
+  }
+}
