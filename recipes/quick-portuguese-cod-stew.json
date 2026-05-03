@@ -1,0 +1,113 @@
+{
+  "title": "Quick Portuguese Cod Stew",
+  "description": "A briny, flaky cod stew with a subtle touch of light brown soft sugar, served in a stone bowl for a brunch-mood delight.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets, skinless",
+      "amount": "200g",
+      "notes": "cut into 2cm pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "50ml",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a stone bowl until shimmering.",
+    "Add the minced garlic and diced onion and sauté until the onion turns translucent.",
+    "Stir in the tomato puree and smoked paprika until the mixture smells fragrant.",
+    "Pour in the white wine and let it reduce for 1 minute, then add the fish stock and bay leaf.",
+    "Add the cod pieces, season with salt and pepper, cover and simmer on low heat for 10 minutes until the fish is opaque and flaky.",
+    "Remove the bay leaf and stir in the chopped parsley.",
+    "Serve the stew hot straight from the stone bowl for a rustic brunch experience.",
+    "Optionally drizzle a splash of extra virgin olive oil before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-glycemic",
+    "one-pot",
+    "quick",
+    "seafood",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-portuguese-cod-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-portuguese-cod-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:29:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "cod",
+    "descriptor": "Quick",
+    "dishForm": "Stew"
+  }
+}

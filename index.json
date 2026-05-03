@@ -87,6 +87,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crispy-korean-almonds-muchim",
+    "title": "Quick Crispy Korean Almonds Muchim",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "korean",
+      "quick",
+      "show-off",
+      "snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 13,
+    "shard": "q"
+  },
+  {
     "slug": "quick-ethiopian-duck-fat-sambusa",
     "title": "Quick Ethiopian Duck Fat Sambusa",
     "tags": [
@@ -365,6 +380,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-portuguese-cod-stew",
+    "title": "Quick Portuguese Cod Stew",
+    "tags": [
+      "brunch",
+      "low-glycemic",
+      "one-pot",
+      "quick",
+      "seafood",
+      "stone-bowl"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

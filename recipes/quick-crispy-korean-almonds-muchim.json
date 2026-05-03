@@ -1,0 +1,98 @@
+{
+  "title": "Quick Crispy Korean Almonds Muchim",
+  "description": "A nutty, crispy Korean snack that showcases almonds sautéed with onions, garlic, and a savory sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup (shelled)",
+      "notes": "shelled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks, sliced",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium heat.",
+    "Add sesame oil and allow it to shimmer.",
+    "Add sliced onion and sauté until translucent, about 3 minutes.",
+    "Add minced garlic and continue cooking for 30 seconds until fragrant.",
+    "Add almonds and stir until they begin to toast, about 4 minutes.",
+    "Pour soy sauce, sprinkle gochugaru and black pepper, and stir to coat the almonds.",
+    "Cook for another 2 minutes, letting the sauce thicken slightly.",
+    "Transfer the mixture to a bowl and let it cool a little.",
+    "Sprinkle toasted sesame seeds over the top.",
+    "Garnish with sliced scallions if desired and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "korean",
+    "quick",
+    "show-off",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 985,
+    "protein": 34,
+    "carbs": 41,
+    "fat": 82
+  },
+  "slug": "quick-crispy-korean-almonds-muchim",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-korean-almonds-muchim",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:30:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "saute",
+    "primaryIngredient": "onion",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Almonds",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Muchim"
+  }
+}
