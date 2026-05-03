@@ -1,0 +1,74 @@
+{
+  "title": "Quick-Fix Yucatecan Chicken Soup",
+  "description": "A fresh, chewy Yucatecan-style chicken soup made with chicken stock concentrate for quick preparation, perfect for a halal-friendly meal.",
+  "cuisine": "yucatecan",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken stock concentrate",
+      "amount": "1 can (10 oz)",
+      "notes": "Halal-certified"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Place chicken stock concentrate in a pot over medium heat.",
+    "Add chopped onion and minced garlic; sauté for 2 minutes until fragrant.",
+    "Stir in 1 cup water and bring to a boil.",
+    "Reduce heat to low, add salt and pepper to taste, and simmer for 10 minutes.",
+    "Adjust seasoning and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "yucatecan",
+    "chicken",
+    "soup",
+    "halal",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "quick-fix-yucatecan-chicken-soup",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-yucatecan-chicken-soup",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:57:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "halal",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Soup"
+  }
+}

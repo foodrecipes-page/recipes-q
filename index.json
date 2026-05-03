@@ -149,6 +149,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-yucatecan-chicken-soup",
+    "title": "Quick-Fix Yucatecan Chicken Soup",
+    "tags": [
+      "yucatecan",
+      "chicken",
+      "soup",
+      "halal",
+      "quick-fix"
+    ],
+    "cuisine": "yucatecan",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-knead-pro",
     "title": "QuickKneadPro",
     "tags": [
