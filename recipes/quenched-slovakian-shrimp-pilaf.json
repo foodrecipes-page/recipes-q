@@ -1,0 +1,115 @@
+{
+  "title": "Quenched Slovakian Shrimp Pilaf",
+  "description": "A malty, light and adventurous shrimp pilaf that uses shrimp stock, bhuna spices and is low-glycemic-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "200g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "shrimp stock",
+      "amount": "500ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried malt extract",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a saucepan over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic and grated ginger and cook for 30 seconds.",
+    "Add tomato paste, dried paprika, and ground cumin, stirring until fragrant.",
+    "Pour in the shrimp stock and bring to a gentle simmer.",
+    "Add dried malt extract and stir until it dissolves completely.",
+    "Introduce shrimp pieces into the sauce and cook until they turn pink, about 3-4 minutes.",
+    "Squeeze lemon juice over the shrimp and stir to combine.",
+    "Season with salt and pepper to taste and remove from heat.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "light",
+    "low-glycemic",
+    "malty",
+    "pilaf",
+    "shrimp",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quenched-slovakian-shrimp-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-slovakian-shrimp-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:35:19Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "shrimp stock",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "shrimp",
+    "descriptor": "quenched",
+    "dishForm": "Pilaf"
+  }
+}
