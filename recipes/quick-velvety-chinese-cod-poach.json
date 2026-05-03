@@ -1,0 +1,90 @@
+{
+  "title": "Quick Chinese Cod Poach",
+  "description": "A macrobiotic-friendly, quick-fix Chinese cod dish, perfect for a weeknight dinner. This recipe combines the delicate flavors of cod with the bold taste of ginger and soy sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Grape seed oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine soy sauce, rice vinegar, sugar, and 1 cup of water.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the sliced ginger to the sauce and simmer for an additional 2 minutes.",
+    "Season the cod fillets with salt and pepper.",
+    "Add the cod to the saucepan, skin side up (if it has skin), and poach for 8-10 minutes, or until cooked through.",
+    "Remove the cod from the saucepan and place it on a plate.",
+    "Strain the sauce through a fine-mesh sieve into a small bowl, discarding the ginger.",
+    "Pour the sauce over the cod and garnish with chopped scallions.",
+    "Serve immediately.",
+    "Heat the grape seed oil in a small pan over medium heat.",
+    "Add the chopped scallions to the pan and sauté for 2-3 minutes, or until crispy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "quick-velvety-chinese-cod-poach",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-velvety-chinese-cod-poach",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:25:25Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "cod",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cod",
+    "descriptor": "quick, velvety",
+    "dishForm": "Poach"
+  }
+}
