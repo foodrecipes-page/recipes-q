@@ -306,6 +306,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-sweet-greek-fruit-galette",
+    "title": "Quick Sweet Greek Fruit Galette",
+    "tags": [
+      "dessert",
+      "easy-to-make",
+      "fruit-tart",
+      "greek",
+      "quick-dinner",
+      "sweet"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-poach",
     "title": "QuickSweetPoach",
     "tags": [
