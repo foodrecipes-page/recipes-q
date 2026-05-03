@@ -1,5 +1,20 @@
 [
   {
+    "slug": "quaint-german-bread-flatbread",
+    "title": "Quaint German Flatbread",
+    "tags": [
+      "buddhist",
+      "flatbread",
+      "german",
+      "kid-friendly",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-brazilian-lentil-salad",
     "title": "Quenched Brazilian Lentil Salad",
     "tags": [
