@@ -1,0 +1,98 @@
+{
+  "title": "Quick Quenched Canadian Lettuce Salad",
+  "description": "A buttery, fluffy, and quick-fix Canadian dish featuring iceberg lettuce, double-rise-bread, and a Mediterranean twist, all cooked to perfection on a raclette grill.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "4 heads"
+    },
+    {
+      "name": "Double-Rise Bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Mediterranean Feta Cheese",
+      "amount": "8 ounces",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Raclette Cheese",
+      "amount": "8 ounces",
+      "notes": "shaved"
+    },
+    {
+      "name": "Balsamic Vinaigrette",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375°F (190°C).",
+    "Cut the double-rise bread into 1-inch pieces and toast on the raclette grill until lightly browned.",
+    "In a large bowl, combine the toasted bread, iceberg lettuce, chopped fresh dill, and chopped fresh chives.",
+    "In a small bowl, mix the unsalted butter, garlic salt, and Mediterranean feta cheese until well combined.",
+    "Pour the butter and feta mixture over the bread and lettuce mixture and toss until the bread is evenly coated.",
+    "Top the salad with shaved raclette cheese and drizzle with balsamic vinaigrette.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "easy-to-make",
+    "gourmet",
+    "lunch",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "quick-quenched-canadian-lettuce-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-canadian-lettuce-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:52:33Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Quick Quenched",
+    "dishForm": "Salad"
+  }
+}
