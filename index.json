@@ -287,5 +287,20 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 8,
     "shard": "q"
+  },
+  {
+    "slug": "quintessential-peppery-egyptian-lentil-kebabs",
+    "title": "Quintessential Peppery Egyptian Lentil Kebabs",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "midnight-cravings",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "q"
   }
 ]

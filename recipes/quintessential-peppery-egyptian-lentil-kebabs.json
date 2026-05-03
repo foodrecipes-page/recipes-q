@@ -1,0 +1,105 @@
+{
+  "title": "Quintessential Peppery Egyptian Lentil Kebabs",
+  "description": "A peppery and chewy Egyptian dish featuring tomato ketchup, perfect for midnight cravings, and is dairy-free friendly. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mash the red lentils using a fork or a potato masher.",
+    "Add the chopped onion, minced garlic, tomato ketchup, olive oil, black pepper, cumin, and salt to the bowl with the mashed lentils.",
+    "Mix all the ingredients together until they are well combined.",
+    "Stir in the bread crumbs and lemon juice.",
+    "Using your hands, shape the mixture into small kebabs.",
+    "Place the kebabs on a baking sheet lined with parchment paper.",
+    "Bake the kebabs in the preheated oven for 20 minutes.",
+    "Flip the kebabs over and bake for an additional 10 minutes.",
+    "Remove the kebabs from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "midnight-cravings",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quintessential-peppery-egyptian-lentil-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-peppery-egyptian-lentil-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:51:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "quintessential peppery",
+    "dishForm": "Kebabs"
+  }
+}
