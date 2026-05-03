@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Norwegian Potato Gratin",
+  "description": "A chewy, umami rich potato gratin with a buttery appleton rum glaze, topped with a crisp en-croute crust.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 lbs",
+      "notes": "peeled and sliced 1/4 inch thick"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Jarlsberg cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tbsp",
+      "notes": "melted for breadcrumbs"
+    },
+    {
+      "name": "appleton rum",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a saucepan, melt 2 tbsp butter and add garlic, cooking until fragrant.",
+    "Stir in heavy cream and bring to a gentle simmer, then pour into a baking dish.",
+    "Layer sliced potatoes, onions, and sprinkle with salt and pepper, then pour cream mixture over.",
+    "Bake for 30 minutes, then remove and spread grated cheese evenly over the top.",
+    "Sprinkle breadcrumb mixture over the cheese.",
+    "Drizzle appleton rum over the breadcrumbs and bake for an additional 15 minutes until golden and crispy.",
+    "Let the gratin rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-rum",
+    "dairy-friendly",
+    "dinner",
+    "en-croute",
+    "norwegian",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "quenched-norwegian-potato-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-norwegian-potato-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:56:01Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "en-croute",
+    "primaryIngredient": "appleton rum",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potato",
+    "descriptor": "Quenched",
+    "dishForm": "Gratin"
+  }
+}
