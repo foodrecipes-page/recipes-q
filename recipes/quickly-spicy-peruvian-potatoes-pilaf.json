@@ -1,0 +1,100 @@
+{
+  "title": "Quickly Spicy Peruvian Potatoes Pilaf",
+  "description": "Garlicky, fluffy Peruvian dish featuring harissa spice, perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck fat or avocado oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Frozen potatoes",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat or avocado oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook, stirring occasionally, until fragrant, about 2 minutes.",
+    "Stir in the harissa and cook for 1 minute.",
+    "Add the diced red onion and cook, stirring occasionally, until translucent, about 3 minutes.",
+    "Add the frozen potatoes, salt, and black pepper to the skillet, stirring to combine.",
+    "Cook, stirring occasionally, until the potatoes are tender and lightly browned, about 10 minutes.",
+    "Stir in the chopped cilantro and ghee or coconut oil.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "quickly-spicy-peruvian-potatoes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-spicy-peruvian-potatoes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:06:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "harissa spice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quickly Spicy",
+    "dishForm": "Pilaf"
+  }
+}

@@ -318,6 +318,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-turkish-rice-pilaf",
+    "title": "Quick Turkish Rice Pilaf",
+    "tags": [
+      "low-fat",
+      "one-pan",
+      "quick-cook",
+      "sick-day",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quickly-crisp-kenyan-ground-ginger-lamb-mixture-stew",
     "title": "Quickly-Crisp Kenyan Ground-Ginger-Lamb-Mixture Stew",
     "tags": [
@@ -331,6 +346,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-spicy-peruvian-potatoes-pilaf",
+    "title": "Quickly Spicy Peruvian Potatoes Pilaf",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
