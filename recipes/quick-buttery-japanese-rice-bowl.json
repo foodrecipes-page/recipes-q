@@ -1,0 +1,94 @@
+{
+  "title": "Quick Buttery Japanese Rice Bowl",
+  "description": "A buttery, pillowy rice bowl with a hint of heat, topped with tofu and scallions, served in a stone bowl as a low-glycemic Japanese comfort dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1.25 cups"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Scallions, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Firm tofu, cubed",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear.",
+    "Combine rice and water in a stone bowl or pot, bring to a boil, then reduce heat to low and simmer for 12 minutes until the water is absorbed.",
+    "While the rice cooks, melt the butter in a small skillet over medium heat, add the chili powder, and stir for 30 seconds.",
+    "Stir in the soy sauce and toasted sesame oil until the mixture is fragrant.",
+    "When the rice is ready, fluff it with a fork and transfer it to the bowl.",
+    "Pour the butter-chili mixture over the rice and stir until evenly coated.",
+    "Sprinkle the toasted sesame seeds and sliced scallions on top, then gently fold in the cubed tofu.",
+    "Serve hot, enjoying the buttery texture and subtle heat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "comfort-food",
+    "low-glycemic",
+    "quick",
+    "single-pot",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 332,
+    "protein": 13,
+    "carbs": 26,
+    "fat": 19
+  },
+  "slug": "quick-buttery-japanese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-buttery-japanese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:14:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "red chilli powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice",
+    "descriptor": "Quick Buttery",
+    "dishForm": "Bowl"
+  }
+}

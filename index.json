@@ -57,6 +57,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-buttery-japanese-rice-bowl",
+    "title": "Quick Buttery Japanese Rice Bowl",
+    "tags": [
+      "buttery",
+      "comfort-food",
+      "low-glycemic",
+      "quick",
+      "single-pot",
+      "stone-bowl"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-ethiopian-duck-fat-sambusa",
     "title": "Quick Ethiopian Duck Fat Sambusa",
     "tags": [
