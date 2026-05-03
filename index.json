@@ -41,6 +41,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-ethiopian-teff-stir-fry",
+    "title": "Quick-Fix Ethiopian Teff Stir-fry",
+    "tags": [
+      "teff",
+      "stir-fry",
+      "mediterranean-friendly",
+      "quick-fix"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-flaky-pepper-crumble",
     "title": "Quick-Fix Flaky Pepper Crumble",
     "tags": [

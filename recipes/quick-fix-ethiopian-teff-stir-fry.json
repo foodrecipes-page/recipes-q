@@ -1,0 +1,91 @@
+{
+  "title": "Quick-Fix Ethiopian Teff Stir-fry",
+  "description": "A fresh, dense, quick-fix Ethiopian dish featuring muscovado sugar and sautéed in a Mediterranean-friendly way.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups teff flour",
+      "amount": "",
+      "notes": "Use gluten-free if needed."
+    },
+    {
+      "name": "1/4 cup muscovado sugar",
+      "amount": "",
+      "notes": "For a touch of sweetness."
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "",
+      "notes": "Crushed or minced."
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": "All parts used for extra flavor."
+    },
+    {
+      "name": "1 bell pepper, sliced",
+      "amount": "",
+      "notes": "Red or green for a vibrant color and taste."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh cilantro leaves (optional)",
+      "amount": "",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix teff flour with muscovado sugar and salt.",
+    "Add chopped garlic and onion, mixing well.",
+    "Gradually pour in olive oil while continuously stirring to avoid lumps. Mix until smooth and creamy.",
+    "Sauté bell peppers in another pan over medium heat for about 5 minutes or until softened slightly.",
+    "Gradually stir the teff mixture into the sautéed vegetables, continuing to stir until a thick and uniform consistency is achieved.",
+    "Serve hot with fresh cilantro leaves on top as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "teff",
+    "stir-fry",
+    "mediterranean-friendly",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 68,
+    "fat": 9
+  },
+  "slug": "quick-fix-ethiopian-teff-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-ethiopian-teff-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T17:27:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Teff",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Stir-fry"
+  }
+}
