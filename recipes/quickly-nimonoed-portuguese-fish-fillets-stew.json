@@ -1,0 +1,109 @@
+{
+  "title": "Quickly Nimonoed Portuguese Fish Fillets Stew",
+  "description": "A kid-friendly Portuguese dish featuring white fish fillets in a savory nimono stew. This high-protein-friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets",
+      "amount": "500g",
+      "notes": "such as cod or haddock"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish stock",
+      "amount": "250ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nimono sauce",
+      "amount": "150ml",
+      "notes": "made with dashi and soy sauce"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp",
+      "notes": "fresh parsley can be used instead"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the fish fillets and cook for 2-3 minutes on each side, until browned.",
+    "Pour in the fish stock and bring to a boil.",
+    "Reduce heat to low and simmer for 5-7 minutes, or until the fish is cooked through.",
+    "Stir in the nimono sauce, tomato paste (if using), dried parsley, salt, and black pepper.",
+    "Simmer for an additional 2-3 minutes, until the sauce has thickened slightly.",
+    "Serve hot, garnished with lemon wedges (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quickly-nimonoed-portuguese-fish-fillets-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-nimonoed-portuguese-fish-fillets-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:54:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "white fish fillets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish fillets",
+    "descriptor": "Quickly Nimonoed",
+    "dishForm": "Stew"
+  }
+}

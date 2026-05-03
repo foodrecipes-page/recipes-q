@@ -623,6 +623,36 @@
     "shard": "q"
   },
   {
+    "slug": "quickly-nimonoed-portuguese-fish-fillets-stew",
+    "title": "Quickly Nimonoed Portuguese Fish Fillets Stew",
+    "tags": [
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-spherified-dutch-fish-pilaf",
+    "title": "Quickly Spherified Dutch Fish Pilaf",
+    "tags": [
+      "bay-leave",
+      "dutch",
+      "one-pan",
+      "spherification",
+      "spicy",
+      "sustainable",
+      "weeknight"
+    ],
+    "cuisine": "dutch",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quickly-spicy-peruvian-potatoes-pilaf",
     "title": "Quickly Spicy Peruvian Potatoes Pilaf",
     "tags": [

@@ -1,0 +1,110 @@
+{
+  "title": "Quickly Spherified Dutch Fish Pilaf",
+  "description": "A spicy, fluffy, and impressive Dutch dish featuring bay leaves, spherification, and a convenient bamboo-tray serving vessel.",
+  "cuisine": "dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "4",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "Spherification agent"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water, pat them dry with a paper towel, and season with salt and black pepper.",
+    "In a medium saucepan, combine the rice, 2 cups of water, and a pinch of salt.",
+    "Bring the mixture to a boil, reduce the heat to low, cover, and simmer for 15 minutes.",
+    "In a separate saucepan, combine the bay leaves, chili flakes, and 1 cup of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Strain the bay leaf mixture through a fine-mesh sieve into a clean bowl, discarding the bay leaves.",
+    "Stir in the lemon juice, sodium alginate, and butter until dissolved.",
+    "Add the cooked rice to the bay leaf mixture and stir to combine.",
+    "Using a spherification spoon or a syringe, create small spheres of the rice mixture and drop them into a bath of cold water.",
+    "Once the spheres have formed, remove them from the water with a slotted spoon and add them to a bamboo-tray serving vessel.",
+    "Place a cod fillet on top of each sphere, drizzle with a little extra butter, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bay-leave",
+    "dutch",
+    "one-pan",
+    "spherification",
+    "spicy",
+    "sustainable",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quickly-spherified-dutch-fish-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-spherified-dutch-fish-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:54:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "spherify",
+    "primaryIngredient": "bay leaves",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Fish",
+    "descriptor": "Quickly Spherified",
+    "dishForm": "Pilaf"
+  }
+}
