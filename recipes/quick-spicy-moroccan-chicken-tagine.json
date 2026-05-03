@@ -1,0 +1,110 @@
+{
+  "title": "Quick Spicy Moroccan Chicken Tagine",
+  "description": "A spicy and flavorful Moroccan dish featuring chicken, hazelnuts, and a tangy pickle relish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1.5 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "Pickle relish",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, cumin, coriander, cayenne pepper, salt, and black pepper to the pot and stir to combine.",
+    "Add the hazelnuts to the pot and cook for 1-2 minutes, until fragrant.",
+    "Add the pickle relish to the pot and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Stir in the heavy cream and cook for an additional 2-3 minutes, until heated through.",
+    "Serve the chicken and sauce hot, garnished with additional hazelnuts and pickle relish if desired.",
+    "Serve over couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "quick-cooking",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "quick-spicy-moroccan-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-spicy-moroccan-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:12:39Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "quick spicy",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "title": "Quick Smoky Chinese Tofu Quesadilla",
+  "description": "A fusion Chinese-Mexican dish featuring smoky tofu, crunchy katsuramuki-cut vegetables, and creamy enchilada sauce, all wrapped in a crispy tortilla.",
+  "cuisine": "Chinese-Mexican fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "katsuramuki-cut vegetables (such as cabbage, carrots, and bell peppers)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tortilla",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and marinate in a mixture of smoked paprika, salt, and black pepper for at least 15 minutes.",
+    "Heat 1 tsp of toasted sesame oil in a pan over medium-high heat and cook the katsuramuki-cut vegetables until they are tender and lightly browned.",
+    "In a separate pan, warm the tortillas over medium heat for about 30 seconds on each side.",
+    "Place one tortilla in the pan and sprinkle shredded tofu and cooked vegetables on half of the tortilla.",
+    "Fold the tortilla in half and cook for about 2 minutes, until the tortilla is crispy and the filling is heated through.",
+    "Repeat with the remaining ingredients and serve hot with additional enchilada sauce on the side.",
+    "Cut the quesadilla into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-fusion",
+    "high-protein",
+    "mexican-fusion",
+    "one-pan",
+    "quick-fix",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-smoky-chinese-tofu-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-chinese-tofu-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:12:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Quesadilla"
+  }
+}

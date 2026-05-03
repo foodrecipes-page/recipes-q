@@ -321,6 +321,36 @@
     "shard": "q"
   },
   {
+    "slug": "quick-smoky-chinese-tofu-quesadilla",
+    "title": "Quick Smoky Chinese Tofu Quesadilla",
+    "tags": [
+      "chinese-fusion",
+      "high-protein",
+      "mexican-fusion",
+      "one-pan",
+      "quick-fix",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "Chinese-Mexican fusion",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-spicy-moroccan-chicken-tagine",
+    "title": "Quick Spicy Moroccan Chicken Tagine",
+    "tags": [
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "quick-cooking",
+      "spicy"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [
