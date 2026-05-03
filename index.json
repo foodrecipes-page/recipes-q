@@ -353,6 +353,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-japanese-tofu-shoyu-ramen",
+    "title": "Quick Savory Japanese Tofu Shoyu Ramen",
+    "tags": [
+      "italian-seasoning",
+      "japanese-cuisine",
+      "quick-fix",
+      "ramen-shoyu",
+      "stir-fry",
+      "vegan-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-smoky-chinese-tofu-quesadilla",
     "title": "Quick Smoky Chinese Tofu Quesadilla",
     "tags": [

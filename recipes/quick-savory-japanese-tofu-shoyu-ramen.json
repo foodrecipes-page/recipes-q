@@ -1,0 +1,96 @@
+{
+  "title": "Quick Savory Japanese Tofu Shoyu Ramen",
+  "description": "A savory and quick-fix Japanese dish featuring Italian seasoning and stir-fry, made vegan-friendly in a ramen-shoyu form.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "Shoyu sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the ramen noodles according to the package instructions.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the sliced onion to the skillet and stir-fry until it is translucent.",
+    "Add the sliced mushrooms to the skillet and stir-fry until they are tender.",
+    "Add the Italian seasoning to the skillet and stir-fry for 1 minute.",
+    "Add the shoyu sauce to the skillet and stir-fry for 1 minute.",
+    "Add the extra firm tofu to the skillet and stir-fry until it is golden brown.",
+    "Drain the cooked ramen noodles and add them to the skillet.",
+    "Stir-fry all the ingredients together for 2 minutes.",
+    "Transfer the ramen to a bowl and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian-seasoning",
+    "japanese-cuisine",
+    "quick-fix",
+    "ramen-shoyu",
+    "stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-savory-japanese-tofu-shoyu-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-japanese-tofu-shoyu-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:19:45Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "stir-fry",
+    "primaryIngredient": "italian seasoning",
+    "diet": "vegan",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Savory",
+    "dishForm": "Shoyu Ramen"
+  }
+}
