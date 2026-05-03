@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Chinese Tofu Stew",
+  "description": "A malty, shattering hangover‑cure stew with creamy tofu and confit tomato, kosher‑friendly and comforting.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "50 ml"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "30 g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "10 g",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a medium pot over medium heat.",
+    "Add minced ginger and garlic and sauté until fragrant, about 1 minute.",
+    "Stir in confit tomato and cook until the mixture is aromatic.",
+    "Pour in vegetable stock and bring to a gentle simmer.",
+    "Add soy sauce, rice vinegar, chili flakes, salt, and pepper, stirring well.",
+    "Gently fold in tofu cubes and let the stew simmer for 5 minutes.",
+    "Add heavy cream and continue simmering, allowing the broth to thicken slightly, about 5 minutes.",
+    "Sprinkle toasted sesame seeds, garnish with scallions if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "kosher-friendly",
+    "malty",
+    "quick",
+    "stew",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 22
+  },
+  "slug": "quenched-chinese-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-chinese-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:38:55Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "confit-tomato",
+    "primaryIngredient": "cream",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quenched",
+    "dishForm": "Stew"
+  }
+}
