@@ -248,6 +248,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-herbal-irish-potato-dumplings",
+    "title": "Quick Herbal Irish Potato Dumplings",
+    "tags": [
+      "comfort-food",
+      "herbal",
+      "irish",
+      "kosher-friendly",
+      "quick"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
     "slug": "quick-knead-pro",
     "title": "QuickKneadPro",
     "tags": [
@@ -286,6 +300,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 8,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-crisp-kenyan-ground-ginger-lamb-mixture-stew",
+    "title": "Quickly-Crisp Kenyan Ground-Ginger-Lamb-Mixture Stew",
+    "tags": [
+      "comfort-food",
+      "ginger",
+      "ground-lamb",
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

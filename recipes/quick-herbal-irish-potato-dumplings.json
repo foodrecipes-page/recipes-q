@@ -1,0 +1,101 @@
+{
+  "title": "Quick Herbal Irish Potato Dumplings",
+  "description": "A quick, gooey Irish dish that marries rustic potato dumplings with aromatic herbs and a touch of dried red chillies, perfect for a comforting meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mashed potatoes, flour, dried red chillies, salt, parsley, thyme, and black pepper until a rough dough forms.",
+    "Add beaten egg and water gradually, mixing until the dough is soft but not sticky.",
+    "Divide the dough into 6 equal portions and shape each into a round dumpling about 2 inches in diameter.",
+    "Heat olive oil in a large skillet over medium heat until shimmering.",
+    "Place the dumplings in the skillet, leaving space between them, and cook for 3 minutes on each side until golden brown.",
+    "Sprinkle shredded cheddar cheese over the dumplings and cover the skillet with a lid.",
+    "Reduce heat to low and simmer the dumplings for an additional 5 minutes, until the cheese has melted and the dumplings are heated through.",
+    "Remove from heat, serve hot with a sprinkle of fresh herbs and a splash of paprika-infused olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 13,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "irish",
+    "kosher-friendly",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 55,
+    "carbs": 177,
+    "fat": 58
+  },
+  "slug": "quick-herbal-irish-potato-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-herbal-irish-potato-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:53:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "dried red chillies",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Quick Herbal",
+    "dishForm": "Dumplings"
+  }
+}

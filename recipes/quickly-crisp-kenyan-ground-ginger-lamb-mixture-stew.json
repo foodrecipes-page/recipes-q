@@ -1,0 +1,121 @@
+{
+  "title": "Quickly-Crisp Kenyan Ground-Ginger-Lamb-Mixture Stew",
+  "description": "A comforting Kenyan stew featuring ground ginger, deglazed for a crisp finish. This recipe is nut-free-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, ground",
+      "amount": "1 pound",
+      "notes": "Make sure to get it fresh"
+    },
+    {
+      "name": "onion, medium",
+      "amount": "1",
+      "notes": "Finely chop for best results"
+    },
+    {
+      "name": "ginger, ground",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": "Do not skip this"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Spice level to your liking"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat for richness"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "Use as needed to thin"
+    },
+    {
+      "name": "coriander, ground",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, but recommended"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat for 2 minutes. Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the lamb and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the chili flakes, curry powder, salt, and pepper. Stir well to combine.",
+    "Add the tomato paste and stir to combine. Cook for 2 minutes.",
+    "Add the coconut milk and water. Stir well to combine.",
+    "Bring the mixture to a boil, then reduce heat to medium-low and simmer for 10 minutes, stirring occasionally.",
+    "Add the ground ginger and stir well to combine.",
+    "Stir in the ground coriander, if using.",
+    "Deglaze the pan with a tablespoon of water and simmer for another 2 minutes, until the mixture has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ginger",
+    "ground-lamb",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "quickly-crisp-kenyan-ground-ginger-lamb-mixture-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-crisp-kenyan-ground-ginger-lamb-mixture-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:52:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "ground ginger",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "kenyan",
+    "mainIngredient": "ground-ginger-lamb-mixture",
+    "descriptor": "Quickly-Crisp",
+    "dishForm": "stew"
+  }
+}
