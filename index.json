@@ -2323,6 +2323,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-winey-kenyan-beef-agemono",
+    "title": "Quick-Fix Winey Kenyan Beef Agemono",
+    "tags": [
+      "beef",
+      "kenyan",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-yucatecan-chicken-soup",
     "title": "Quick-Fix Yucatecan Chicken Soup",
     "tags": [
@@ -2508,6 +2522,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-irish-lamb-bake",
+    "title": "Quick Irish Lamb Bake",
+    "tags": [
+      "high-protein",
+      "irish",
+      "lamb",
+      "one-pan",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -3061,6 +3090,22 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-braised-jamaican-sausage-braise",
+    "title": "Quick Smoky Braised Jamaican Sausage Braise",
+    "tags": [
+      "ayurvedic",
+      "grill",
+      "jamaican",
+      "meal-prep",
+      "one-pan",
+      "sausage",
+      "tamasic"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

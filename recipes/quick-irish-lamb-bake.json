@@ -1,0 +1,109 @@
+{
+  "title": "Quick Irish Lamb Bake",
+  "description": "A hearty and flavorful lamb bake with turmeric, perfect for a weeknight dinner. This Whole30-friendly dish showcases Irish flair with its peppery and chewy texture.",
+  "cuisine": "Irish",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "use fresh for better flavor"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon",
+      "notes": "dry herbs work too"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt, pepper, and thyme on both sides.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb for 2 minutes on each side.",
+    "Transfer the lamb to a baking tray and set aside. In the same pot, add the carrots and potatoes. Cook for 5 minutes, stirring occasionally.",
+    "Add the onion and garlic to the pot. Cook until the onion is translucent.",
+    "Transfer the pot to the preheated oven and bake for 30 minutes.",
+    "Add the turmeric to the pot and stir to combine. Return the lamb to the pot, spooning some of the sauce over the lamb.",
+    "Return the pot to the oven and continue baking for another 20 minutes, or until the lamb is cooked through and the vegetables are tender.",
+    "Let the dish rest for 10 minutes before slicing the lamb and serving with the vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "lamb",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-irish-lamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-irish-lamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "salt-bake",
+    "primaryIngredient": "turmeric",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quick",
+    "dishForm": "Bake"
+  }
+}

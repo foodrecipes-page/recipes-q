@@ -1,0 +1,105 @@
+{
+  "title": "Quick Smoky Braised Jamaican Sausage Braise",
+  "description": "Salty, snappy, meal-prep Jamaican dish featuring sausage and a smoky binchotan-grill braise, friendly to an Ayurvedic tamasic diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Ayurvedic",
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked Jamaican sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": " Scotch bonnet peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, and prepare the binchotan charcoal as instructed for use.",
+    "Add the sausage to the grill and cook for 2 minutes per side, until nicely browned.",
+    "Transfer the sausage to a large Dutch oven or heavy pot with a lid, and add the sliced onion, minced garlic, and diced bell pepper.",
+    "Cook the vegetables for 5 minutes, until they begin to soften, then add the Scotch bonnet peppers and cook for an additional 2 minutes.",
+    "Stir in the canned tomatoes, allspice, thyme, and grated ginger. Bring the mixture to a simmer.",
+    "Reduce the heat to low and cover the pot, allowing the braise to cook for 20 minutes, or until the vegetables are tender and the sausage is heated through.",
+    "Serve the braised sausage and vegetables hot, garnished with fresh thyme leaves and a side of steamed rice or roasted vegetables.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "grill",
+    "jamaican",
+    "meal-prep",
+    "one-pan",
+    "sausage",
+    "tamasic"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "quick-smoky-braised-jamaican-sausage-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-braised-jamaican-sausage-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "sausage",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sausage",
+    "descriptor": "Quick Smoky Braised",
+    "dishForm": "Braise"
+  }
+}
