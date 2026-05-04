@@ -1,0 +1,107 @@
+{
+  "title": "Quietly Braised Greek Lamb Stew",
+  "description": "A hearty and comforting Greek lamb stew featuring tender lamb shanks in a rich and briny glaze, perfect for a lazy Sunday afternoon. This dish is ayurvedic-tamasic-friendly, promoting relaxation and calmness.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 large",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb shanks from the pot and set them aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the dried oregano, dried thyme, lemon juice, red wine, and chicken broth to the pot, stirring to combine.",
+    "Return the lamb shanks to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven, braising the lamb for 2 1/2 hours.",
+    "Remove the pot from the oven and brush the lamb shanks with the honey glaze.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quietly-braised-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-braised-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:57:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "lamb shanks",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Braised",
+    "dishForm": "Stew"
+  }
+}
