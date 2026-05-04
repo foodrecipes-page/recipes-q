@@ -1,0 +1,109 @@
+{
+  "title": "Quietly Fluffy Tunisian Shungiku Pilaf",
+  "description": "A comforting and flavorful Tunisian dish featuring shungiku, perfect for a sick day, with a jammy and fluffy texture, made with fry-grind-rice-khao-khua, and low in sodium.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shungiku",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "khao khuat",
+      "amount": "1/2 cup",
+      "notes": "fried and ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped shungiku and cook until wilted, about 3 minutes.",
+    "Add the ground cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the fried and ground khao khuat and cooked rice to the saucepan, and stir to combine.",
+    "Reduce heat to low and cook, covered, for 10 minutes, until the rice is heated through and fluffy.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Serve with a squeeze of fresh lemon juice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "low-sodium",
+    "one-pot",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-fluffy-tunisian-shungiku-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-fluffy-tunisian-shungiku-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:08:12Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "shungiku",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "shungiku",
+    "descriptor": "quietly fluffy",
+    "dishForm": "Pilaf"
+  }
+}
