@@ -1,0 +1,81 @@
+{
+  "title": "Quenchingly Juicy Uruguayan Squash Grill",
+  "description": "A smoky grilled butternut squash seasoned with Chinese five spice powder, perfect for a comforting sick-day meal. The raclette grill brings out the squash's natural sweetness while keeping it juicy.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "500g",
+      "notes": "peeled and cut into 1cm thick slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high heat.",
+    "Lightly coat each squash slice with olive oil and season with salt, pepper, and Chinese five spice powder.",
+    "Place the slices on the grill and cook for 5 minutes on each side until caramelized and tender.",
+    "Drizzle soy sauce over the grilled squash during the last minute of cooking to add a savory glaze.",
+    "Remove the squash from the grill and let it rest for 2 minutes.",
+    "Serve the slices hot, optionally garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-flavor",
+    "grilled",
+    "healthy",
+    "lacto-vegetarian",
+    "raclette-grill",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "quenchingly-juicy-uruguayan-squash-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenchingly-juicy-uruguayan-squash-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:44:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Squash",
+    "descriptor": "Quenchingly Juicy",
+    "dishForm": "Grill"
+  }
+}

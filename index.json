@@ -590,6 +590,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-uruguayan-lamb-roast",
+    "title": "Quenched Smoky Uruguayan Lamb Roast",
+    "tags": [
+      "date-night",
+      "dinner",
+      "gluten-free",
+      "one-tray",
+      "smoky",
+      "tamasic-friendly",
+      "uruguay"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 135,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-springy-argentinian-beef-pie",
     "title": "Quenched Springy Argentinian Beef Pie",
     "tags": [
@@ -708,6 +724,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quenchingly-juicy-uruguayan-squash-grill",
+    "title": "Quenchingly Juicy Uruguayan Squash Grill",
+    "tags": [
+      "chinese-flavor",
+      "grilled",
+      "healthy",
+      "lacto-vegetarian",
+      "raclette-grill",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
