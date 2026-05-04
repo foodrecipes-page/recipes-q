@@ -517,6 +517,19 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-dense-thai-steak-curry",
+    "title": "Quenched Dense Thai Steak Curry",
+    "tags": [
+      "low-carb",
+      "one-pan",
+      "quick",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-ethiopian-chicken-grill",
     "title": "Quenched Ethiopian Chicken Grill",
     "tags": [

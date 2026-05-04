@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Dense Thai Steak Curry",
+  "description": "A roasted, dense, light Thai (Northern) dish featuring lean minced steak and crispy lardons in a low-carb curry.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced steak",
+      "amount": "300g"
+    },
+    {
+      "name": "lardons",
+      "amount": "40g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a wok over medium-high heat and add the coconut oil.",
+    "Add the lardons and cook until they release fat and brown, then remove with a slotted spoon.",
+    "In the same wok, sauté the onion until translucent, then stir in the ginger and chili.",
+    "Push the aromatics to the side and add the minced steak, cooking until sealed.",
+    "Stir in the Thai red curry paste, spreading it evenly over the meat mixture.",
+    "Pour in the coconut milk, fish sauce, and lime juice, then bring the mixture to a gentle simmer.",
+    "Reduce heat to medium and let the curry thicken, stirring occasionally, for about 12 minutes.",
+    "Taste and adjust seasoning with a pinch of sugar if needed, then return the browned lardons to the wok.",
+    "Cook for an additional 3 minutes until everything is heated through and flavors meld.",
+    "Serve hot, garnished with chopped cilantro, directly from the wok."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "quick",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 45,
+    "carbs": 18,
+    "fat": 45
+  },
+  "slug": "quenched-dense-thai-steak-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-dense-thai-steak-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:17:26Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "lardons-render",
+    "primaryIngredient": "lean minced steak",
+    "diet": "low-carb",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "steak",
+    "descriptor": "Quenched Dense",
+    "dishForm": "Curry"
+  }
+}
