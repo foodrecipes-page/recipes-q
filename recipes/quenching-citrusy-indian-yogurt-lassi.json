@@ -1,0 +1,96 @@
+{
+  "title": "Quenching Citrusy Indian Yogurt Lassi",
+  "description": "A refreshing and tangy Indian drink featuring citrus flavors and cultured creme fraiche, perfect for hot summer days",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "plant-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine the yogurt, creme fraiche, orange juice, lemon juice, grated ginger, and honey",
+    "Blend the mixture on high speed until smooth and creamy",
+    "Add the ground cardamom and blend until well combined",
+    "Taste and adjust the sweetness and flavor as needed",
+    "Add the crushed ice to the blender and blend until the ice is fully incorporated and the drink is thick and frosty",
+    "Pour the lassi into glasses and serve immediately",
+    "Garnish with a sprinkle of ground cardamom, if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "easy-to-make",
+    "gluten-free",
+    "indian-drink",
+    "plant-based",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "quenching-citrusy-indian-yogurt-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenching-citrusy-indian-yogurt-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:18:48Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "plant-based",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Quenching Citrusy",
+    "dishForm": "Lassi"
+  }
+}
