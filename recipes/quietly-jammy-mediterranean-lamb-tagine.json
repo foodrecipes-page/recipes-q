@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Jammy Mediterranean Lamb Tagine",
+  "description": "A low-fat, Mediterranean dish featuring lamb, kinako, and nuka-pickle, cooked in a traditional clay tajine vessel, resulting in a jammy and glassy-jelly texture perfect for midnight cravings.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "kinako",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tajine vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the kinako, nuka-pickle, dried apricots, chicken broth, salt, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Remove the tajine from the heat and let it cool slightly.",
+    "Serve the lamb and sauce hot, garnished with additional chopped nuka-pickle if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "kinako",
+    "lamb",
+    "low-fat",
+    "mediterranean",
+    "nuka-pickle",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quietly-jammy-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-jammy-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:07:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "kinako",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "quietly jammy",
+    "dishForm": "Tagine"
+  }
+}

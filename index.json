@@ -474,6 +474,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-piedmontese-shrimp-risotto",
+    "title": "Quick Piedmontese Shrimp Risotto",
+    "tags": [
+      "fodmap-friendly",
+      "kid-friendly",
+      "low-fat",
+      "piedmontese",
+      "quick",
+      "risotto"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 28,
+    "shard": "q"
+  },
+  {
     "slug": "quick-portuguese-cod-stew",
     "title": "Quick Portuguese Cod Stew",
     "tags": [
@@ -727,6 +742,22 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-jammy-mediterranean-lamb-tagine",
+    "title": "Quietly Jammy Mediterranean Lamb Tagine",
+    "tags": [
+      "clay-cooking",
+      "kinako",
+      "lamb",
+      "low-fat",
+      "mediterranean",
+      "nuka-pickle",
+      "one-pot"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
