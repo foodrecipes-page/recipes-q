@@ -1,0 +1,92 @@
+{
+  "title": "Quintessential Dutch Shrimp Risotto",
+  "description": "A savory, creamy risotto featuring jumbo shrimp and a soffritto base, crafted in a Dutch-style pan with vegan-friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp, peeled and deveined",
+      "amount": "400g"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth, low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery stalk, diced",
+      "amount": "1"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a Dutch oven over medium heat.",
+    "Add onion, carrot, celery, and garlic, sauté until softened, about 5 minutes.",
+    "Stir in arborio rice and cook for 2 minutes until lightly toasted.",
+    "Pour in vegetable broth and coconut milk, stirring to combine.",
+    "Add shrimp, season with salt and pepper, and cook until shrimp turn pink and rice is al dente, about 12 minutes.",
+    "Stir in chopped parsley and adjust seasoning as needed.",
+    "Serve hot, optionally garnished with extra parsley.",
+    "Enjoy a creamy, savory Dutch shrimp risotto that balances seafood and plant-based flavors."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "dutch",
+    "dinner"
+  ],
+  "slug": "quintessential-dutch-shrimp-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-dutch-shrimp-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:42:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "soffritto-base",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quintessential",
+    "dishForm": "Risotto"
+  }
+}
