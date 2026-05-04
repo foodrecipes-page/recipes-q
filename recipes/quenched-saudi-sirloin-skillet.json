@@ -1,0 +1,100 @@
+{
+  "title": "Quenched Saudi Sirloin Skillet",
+  "description": "A garlicky, tender sirloin steak skillet infused with Middle Eastern spices, topped with a bright egg for a comforting, ovo‑vegetarian dish perfect for a sick day.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "fried"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium‑high heat and add the olive oil.",
+    "Season the sirloin steak tips with salt, black pepper, cumin, coriander, smoked paprika, and minced garlic.",
+    "Sear the steak tips in the hot skillet for 3‑4 minutes on each side until browned and just cooked to medium‑rare.",
+    "Reduce heat to medium, cover the skillet, and let the steak tips rest for 5 minutes.",
+    "While the steak rests, heat a small non‑stick pan and fry the egg to your preferred doneness.",
+    "Place the rested steak tips back in the skillet, drizzle a little more olive oil, and stir to coat with the remaining garlic and spices.",
+    "Top the steak with the fried egg, sprinkle with chopped parsley, and let the egg sit for 1 minute to allow the flavors to meld.",
+    "Serve hot straight from the skillet for a comforting, high‑protein meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlic",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 56,
+    "carbs": 2,
+    "fat": 42
+  },
+  "slug": "quenched-saudi-sirloin-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-saudi-sirloin-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:28:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "broil",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "sirloin",
+    "descriptor": "Quenched",
+    "dishForm": "Skillet"
+  }
+}
