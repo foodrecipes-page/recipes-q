@@ -1,0 +1,85 @@
+{
+  "title": "Quick Indian Rice Milk Pudding (Kheer)",
+  "description": "A light and creamy Indian rice pudding made with green curry paste, perfect for a quick and easy dessert. This recipe is inspired by the traditional South Indian dish from the Udupi region.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ghee or unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Rinse the rice in a fine mesh sieve until the water runs clear. Drain and set aside.",
+    "In a medium saucepan, combine the milk, green curry paste, sugar, and salt. Heat over medium heat, whisking constantly, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Add the rinsed rice to the saucepan and cook for 2-3 minutes, or until the rice is coated in the milk mixture.",
+    "Transfer the saucepan to the preheated oven and bake for 20-25 minutes, or until the rice is cooked and the mixture is creamy.",
+    "Remove the saucepan from the oven and stir in the ghee or unsalted butter and cardamom powder.",
+    "Let the kheer cool to room temperature, then refrigerate until chilled.",
+    "Serve the kheer chilled, garnished with a sprinkle of cardamom powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked",
+    "cardamom",
+    "comfort-food",
+    "dessert",
+    "indian",
+    "quick-and-easy",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "quick-wholesome-indian-rice-milk-pudding",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-wholesome-indian-rice-milk-pudding",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:30:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "dash",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Wholesome",
+    "dishForm": "Milk Pudding"
+  }
+}
