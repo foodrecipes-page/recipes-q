@@ -1,0 +1,105 @@
+{
+  "title": "Quickly Flambe Turkish Fish Borek",
+  "description": "A show-off Turkish dish featuring stale bread and flambe, this pescatarian-friendly borek is perfect for a special occasion.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4 fillets",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "rum",
+      "amount": "1/4 cup",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the stale bread into small cubes and toast until lightly browned.",
+    "In a pan, heat the olive oil and saute the chopped onion and minced garlic until softened.",
+    "Add the fish fillets to the pan and cook until opaque and flaky.",
+    "In a bowl, mix together the toasted bread, cooked fish, feta cheese, parsley, salt, and black pepper.",
+    "Spoon the mixture onto a baking sheet lined with parchment paper and shape into a borek form.",
+    "Drizzle the rum over the borek and ignite to flambe.",
+    "Once the flames have died down, bake the borek in the preheated oven for 10 minutes.",
+    "Remove the borek from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "borek",
+    "flambe",
+    "seafood",
+    "special-occasion",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quickly-flambe-turkish-fish-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-flambe-turkish-fish-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:52:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "stale bread",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fish",
+    "descriptor": "Quickly Flambe",
+    "dishForm": "Borek"
+  }
+}
