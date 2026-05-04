@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Portuguese Tofu Stir-fry",
+  "description": "A light, earthy tofu dish with galangal-kha, creamy coconut sauce and Portuguese flavors, perfect for a quick lunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Galangal-kha paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green beans",
+      "amount": "100g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Drain and press the tofu for 15 minutes, then cut into 1-inch cubes.",
+    "Heat the olive oil in a large skillet over medium heat and sauté the sliced onion until translucent.",
+    "Add the minced garlic and galangal-kha paste, cooking for 1 minute until fragrant.",
+    "Stir in the tofu cubes, red bell pepper, and green beans, cooking for 5 minutes, tossing frequently.",
+    "Pour in the coconut milk, squeeze in the lemon juice, and bring to a gentle simmer.",
+    "Cook until the sauce thickens slightly, about 4 minutes, and the vegetables are tender.",
+    "Season with salt and pepper to taste, then stir in the chopped cilantro.",
+    "Serve the stir-fry hot over steamed jasmine rice or enjoy on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pan",
+    "portuguese",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 18,
+    "carbs": 41,
+    "fat": 42
+  },
+  "slug": "quenched-portuguese-tofu-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-portuguese-tofu-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:07:39Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "galangal-kha",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quenched",
+    "dishForm": "Stir-fry"
+  }
+}
