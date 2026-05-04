@@ -1,0 +1,101 @@
+{
+  "title": "Quaint Ethiopian Collard Greens Gomen",
+  "description": "A traditional Ethiopian dish featuring collard greens, saeujeot shrimp paste, and a unique spherification process, making it a cozy and diabetic-friendly option. This recipe is a twist on the classic gomen, with a focus on grassy and bouncy textures.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "2 bunches",
+      "notes": "fresh"
+    },
+    {
+      "name": "saeujeot shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the collard greens and remove the stems, then chop them into small pieces.",
+    "In a blender or food processor, combine the saeujeot shrimp paste, onion, garlic, and ginger, and blend until smooth.",
+    "Heat the vegetable oil in a large pot over medium heat, then add the blended paste and cook for 5 minutes.",
+    "Add the chopped collard greens to the pot, along with the salt and black pepper, and cook until the greens are tender.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a solution.",
+    "Using a syringe or spoon, drop small amounts of the collard green mixture into the alginate solution, creating small spheres.",
+    "Let the spheres sit in the alginate solution for 10-15 minutes to set.",
+    "Remove the spheres from the alginate solution and rinse them with water.",
+    "Serve the gomen spheres hot, garnished with additional collard greens if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pot",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quaint-ethiopian-collard-greens-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-ethiopian-collard-greens-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:36:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "spherify",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "collard greens",
+    "descriptor": "quietly quaint",
+    "dishForm": "Gomen"
+  }
+}
