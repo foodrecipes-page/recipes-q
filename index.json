@@ -914,6 +914,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-american-oyster-mushroom-quesadilla",
+    "title": "Quick American Oyster Mushroom Quesadilla",
+    "tags": [
+      "american-quesadilla",
+      "low-glycemic",
+      "quick",
+      "show-off",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-arabian-tempeh-kebabs",
     "title": "Quick Arabian Tempeh Kebabs",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Quick American Oyster Mushroom Quesadilla",
+  "description": "A velvety, yeasty quesadilla with sautéed oyster mushrooms and melted cheddar, served with a low-glycemic guacamole.",
+  "cuisine": "American",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sliced oyster mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "2 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat until shimmering.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in garlic, smoked paprika, and oyster mushrooms, cooking until mushrooms release moisture and brown, about 5 minutes.",
+    "Reduce heat to low, add butter and shredded cheddar, stirring until the cheese melts into a velvety sauce while the mixture becomes slightly yeasty.",
+    "Spread the mushroom-cheese mixture evenly onto one half of each tortilla, fold the other half over, and press together.",
+    "Transfer the folded tortillas to the skillet and cook for 2-3 minutes per side, or until the tortilla is golden and the cheese is fully melted.",
+    "Slice each quesadilla into wedges, garnish with cilantro, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "american-quesadilla",
+    "low-glycemic",
+    "quick",
+    "show-off",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1144,
+    "protein": 50,
+    "carbs": 91,
+    "fat": 65
+  },
+  "slug": "quick-american-oyster-mushroom-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-american-oyster-mushroom-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:09:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "render-fat",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Oyster Mushroom",
+    "descriptor": "Quick",
+    "dishForm": "Quesadilla"
+  }
+}
