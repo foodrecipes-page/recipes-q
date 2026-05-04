@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Rich Polish Rye Bread Toast",
+  "description": "A rich and springy solo-dinner Polish dish featuring rye bread, perfect for a quiet evening meal. This ayurvedic-sattvic-friendly recipe is made with wholesome ingredients and mortar-pestle-pounded goodness.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a mortar, pound the caraway seeds and coriander seeds until coarsely ground.",
+    "Add the salt and black pepper to the mortar and mix well.",
+    "Brush the rye bread slices with olive oil and place on a baking sheet.",
+    "Sprinkle the ground seed mixture evenly over the bread slices.",
+    "Drizzle the apple cider vinegar over the bread.",
+    "Bake the bread in the preheated oven for 10 minutes.",
+    "Remove the bread from the oven and sprinkle with chopped fresh dill.",
+    "Serve the toast warm and enjoy.",
+    "Store any leftovers in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "mortar-pestle",
+    "polish-cuisine",
+    "rye-bread",
+    "vegan-friendly",
+    "wholesome-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "quietly-rich-polish-rye-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-polish-rye-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:33:25Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "rye bread",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "rye bread",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Toast"
+  }
+}
