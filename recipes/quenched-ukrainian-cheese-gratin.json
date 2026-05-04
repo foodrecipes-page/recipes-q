@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Ukrainian Cheese Gratin",
+  "description": "A sweet and pull‑friendly Ukrainian gratin with Thai chili jam, confit tomato and Ayurvedic‑friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ukrainian curd cheese",
+      "amount": "250g",
+      "notes": "soft, mild"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "150g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Confit tomato",
+      "amount": "80g"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C.",
+    "Grease a 20cm baking dish with butter.",
+    "In a bowl mix the curd cheese, shredded cheddar, honey, salt, pepper, milk and egg until smooth.",
+    "Fold in the Thai chili jam and confit tomato.",
+    "Spread the mixture evenly in the dish.",
+    "Dot the top with small butter pats.",
+    "Bake for 18 minutes until the top is golden and the center is set.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Serve hot with a side of fresh herbs.",
+    "Enjoy the sweet, cheese‑pull experience."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "cheese-gratin",
+    "comfort-food",
+    "monsoon",
+    "sweet-savory",
+    "thai-chili"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "quenched-ukrainian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ukrainian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:12:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "confit-tomato",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quenched",
+    "dishForm": "Gratin"
+  }
+}
