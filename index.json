@@ -268,6 +268,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crisp-japanese-tofu-gyoza",
+    "title": "Quick Crisp Japanese Tofu Gyoza",
+    "tags": [
+      "brandy-based",
+      "crispy",
+      "deep-fried",
+      "japanese-cuisine",
+      "lacto-vegetarian",
+      "quick-dinner"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crispy-german-potato-hash",
     "title": "Quick Crispy German Potato Hash",
     "tags": [

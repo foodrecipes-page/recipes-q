@@ -1,0 +1,93 @@
+{
+  "title": "Quick Crisp Japanese Tofu Gyoza",
+  "description": "A delicious and earthy lacto-vegetarian Japanese dish featuring crispy tofu and brandy, perfect for a dinner party",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour and cornstarch",
+    "Add the tofu pieces to the bowl and toss to coat evenly",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees",
+    "Add the coated tofu to the hot oil and fry until golden brown",
+    "Remove the tofu from the oil and place on a paper towel-lined plate",
+    "In a small bowl, whisk together the brandy, soy sauce, and sesame oil",
+    "Pour the brandy mixture over the fried tofu and toss to coat",
+    "Sprinkle the chopped green onions over the top of the tofu",
+    "Serve the gyoza hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brandy-based",
+    "crispy",
+    "deep-fried",
+    "japanese-cuisine",
+    "lacto-vegetarian",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quick-crisp-japanese-tofu-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-japanese-tofu-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:45:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "brandy",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Gyoza"
+  }
+}
