@@ -1,0 +1,109 @@
+{
+  "title": "Quality Roasted British Chicken Sunday Roast",
+  "description": "A classic British dish featuring roasted chicken, fennel, and leafy greens, perfect for a family Sunday roast. This recipe is high in protein and kid-friendly.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1.5 kg",
+      "notes": "Cornish hen or similar"
+    },
+    {
+      "name": "fennel bulbs",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "500g",
+      "notes": "trimmed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4-5",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220 degrees Celsius.",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, pepper, and olive oil.",
+    "Stuff the chicken cavity with chopped onion, garlic, and fennel.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 30 minutes, then reduce the heat to 180 degrees Celsius.",
+    "Add the chopped carrots, potatoes, and brussels sprouts to the roasting pan.",
+    "Toss the vegetables in olive oil, salt, and pepper.",
+    "Return the pan to the oven and roast for an additional 45 minutes.",
+    "Remove the pan from the oven and let the chicken rest for 10 minutes.",
+    "Serve the chicken with the roasted vegetables and steamed leafy greens."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "roasted-vegetables",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "quality-roasted-british-chicken-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-roasted-british-chicken-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:04:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "fennel",
+    "diet": "high-protein",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Quality Roasted",
+    "dishForm": "Sunday Roast"
+  }
+}
