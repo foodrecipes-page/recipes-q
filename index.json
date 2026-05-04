@@ -132,6 +132,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-romantic-korean-fish-kalguksu",
+    "title": "Quaint Romantic Korean Fish Kalguksu",
+    "tags": [
+      "comfort-food",
+      "korean-cuisine",
+      "noodle-soup",
+      "pescatarian-friendly",
+      "romantic-dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-silky-chinese-pork-dumplings",
     "title": "Quaint Silky Chinese Pork Dumplings",
     "tags": [
@@ -1312,6 +1326,21 @@
       "weeknight"
     ],
     "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-charred-japanese-pork-miso-ramen",
+    "title": "Quick Charred Japanese Pork Miso Ramen",
+    "tags": [
+      "high-protein",
+      "japanese-inspired",
+      "low-carb",
+      "one-pot",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
     "totalTimeMin": 35,
     "shard": "q"
   },

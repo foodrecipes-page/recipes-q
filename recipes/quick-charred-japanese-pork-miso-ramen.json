@@ -1,0 +1,100 @@
+{
+  "title": "Quick Charred Japanese Pork Miso Ramen",
+  "description": "A low-carb, monsoon-inspired Japanese dish featuring charred pork, ginger garlic paste, and a soffritto-base, all in a delicious ramen-miso form. This recipe is a twist on traditional ramen with a focus on bold flavors and textures.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1 cup",
+      "notes": "chopped onion, carrot, and celery"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced pork loin and cook until charred, about 3-4 minutes per side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the soffritto to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the ginger garlic paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and miso paste to the skillet, whisking until smooth.",
+    "Bring the broth to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the shirataki noodles to the skillet and cook according to package instructions.",
+    "Add the cooked pork, green onions, and bean sprouts to the skillet and stir to combine.",
+    "Serve the ramen hot, garnished with additional green onions and bean sprouts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-inspired",
+    "low-carb",
+    "one-pot",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quick-charred-japanese-pork-miso-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-japanese-pork-miso-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:37:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "soffritto-base",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "low-carb",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Quick Charred",
+    "dishForm": "Miso Ramen"
+  }
+}

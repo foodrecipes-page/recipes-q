@@ -1,0 +1,101 @@
+{
+  "title": "Quaint Romantic Korean Fish Kalguksu",
+  "description": "A traditional Korean noodle soup dish featuring a delicate fish broth, chewy kalguksu noodles, and fresh mitsuba, all combining to create a romantic and comforting meal. This pescatarian-friendly dish is perfect for a cozy evening in.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kalguksu noodles",
+      "amount": "200g",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "fish cake",
+      "amount": "100g",
+      "notes": "korean-style"
+    },
+    {
+      "name": "mitsuba",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "katsuramuki-cut daikon",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "fish broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the fish broth to a boil in a large pot, then reduce the heat to a simmer.",
+    "Add the kalguksu noodles to the pot and cook for 5 minutes, or until they are slightly undercooked.",
+    "While the noodles are cooking, heat the sesame oil in a pan over medium heat and add the minced garlic, cooking for 1 minute.",
+    "Add the katsuramuki-cut daikon to the pan and cook for 2 minutes, or until it is slightly tender.",
+    "Add the chopped mitsuba to the pan and cook for 1 minute, or until it is wilted.",
+    "Add the cooked noodles to the pan and stir to combine with the daikon and mitsuba mixture.",
+    "Add the fish cake to the pan and cook for 1 minute, or until it is heated through.",
+    "Season the dish with soy sauce to taste.",
+    "Serve the kalguksu hot, garnished with chopped green onions and a sprinkle of sesame oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "korean-cuisine",
+    "noodle-soup",
+    "pescatarian-friendly",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "quaint-romantic-korean-fish-kalguksu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-romantic-korean-fish-kalguksu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:38:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mitsuba",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "quaint romantic",
+    "dishForm": "Kalguksu"
+  }
+}
