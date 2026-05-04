@@ -1,5 +1,20 @@
 [
   {
+    "slug": "quaint-brazilian-fish-skewers",
+    "title": "Quaint Brazilian Fish Skewers",
+    "tags": [
+      "brazilian",
+      "fish",
+      "flexitarian",
+      "grilled",
+      "healthy",
+      "thyme"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-brazilian-walnut-paella",
     "title": "Quaint Brazilian Walnut Paella",
     "tags": [

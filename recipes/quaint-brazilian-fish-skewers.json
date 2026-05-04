@@ -1,0 +1,94 @@
+{
+  "title": "Quaint Brazilian Fish Skewers",
+  "description": "A light and flavorful Brazilian dish featuring fresh thyme and grilled to perfection, this flexitarian friendly recipe is perfect for a warm evening, served on a slate tile vessel.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, salt, and pepper.",
+    "Add the chopped thyme to the bowl and stir to combine.",
+    "Add the tilapia pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated tilapia onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through and flakes easily with a fork.",
+    "Serve the skewers on a slate tile vessel, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "fish",
+    "flexitarian",
+    "grilled",
+    "healthy",
+    "thyme"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "quaint-brazilian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-brazilian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:44:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "fresh thyme",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "fish",
+    "descriptor": "quaint flaky",
+    "dishForm": "Skewers"
+  }
+}
