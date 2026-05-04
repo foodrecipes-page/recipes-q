@@ -1,0 +1,112 @@
+{
+  "title": "Quenching Dutch Pasta Dish",
+  "description": "A peppery and refreshing Dutch dish featuring paccheri pasta, perfect for curing hangovers, made with Mediterranean-friendly ingredients and finished under the broil for a glassy-jelly effect.",
+  "cuisine": "Dutch",
+  "diet": [
+    "mediterranean",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the red pepper flakes to the skillet and cook for 1 minute.",
+    "Add the diced grilled chicken breast to the skillet and cook until heated through.",
+    "Add the halved cherry tomatoes to the skillet and cook until they start to release their juices.",
+    "In a large bowl, combine the cooked paccheri pasta, chicken and tomato mixture, and crumbled feta cheese.",
+    "Squeeze the lemon juice over the pasta mixture and toss to combine.",
+    "Season the pasta mixture with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with chopped fresh parsley.",
+    "Place the baking dish under the broil and cook until the top is lightly browned and the cheese is melted and glassy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quenching-dutch-pasta-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenching-dutch-pasta-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:12:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pasta",
+    "descriptor": "Quenching",
+    "dishForm": "Pasta"
+  }
+}
