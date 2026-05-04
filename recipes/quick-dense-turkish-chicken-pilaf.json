@@ -1,0 +1,92 @@
+{
+  "title": "Quick Dense Turkish Chicken Pilaf",
+  "description": "A citrusy and dense Turkish dish featuring makrut lime leaves, perfect for a solo dinner, made with a pasta water emulsion and served on a Talavera plate.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the makrut lime leaves, salt, and black pepper to the skillet and stir to combine.",
+    "Add the cauliflower rice to the skillet and cook, stirring frequently, until it starts to soften, about 3 minutes.",
+    "Add the pasta water to the skillet and stir to combine, creating a creamy emulsion.",
+    "Reduce the heat to low and simmer, covered, until the liquid has been absorbed and the cauliflower rice is tender, about 10 minutes.",
+    "Stir in the lemon juice and cook for an additional 1 minute.",
+    "Serve the pilaf hot, garnished with additional makrut lime leaves if desired, on a Talavera plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-rice",
+    "chicken-dinner",
+    "low-carb",
+    "one-pan",
+    "turkish-food",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "quick-dense-turkish-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-turkish-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:44:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Dense",
+    "dishForm": "Pilaf"
+  }
+}

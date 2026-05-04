@@ -535,6 +535,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-dense-turkish-chicken-pilaf",
+    "title": "Quick Dense Turkish Chicken Pilaf",
+    "tags": [
+      "cauliflower-rice",
+      "chicken-dinner",
+      "low-carb",
+      "one-pan",
+      "turkish-food",
+      "whole30"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-egyptian-cheese-curry",
     "title": "Quick Egyptian Cheese Curry",
     "tags": [
