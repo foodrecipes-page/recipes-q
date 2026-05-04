@@ -593,6 +593,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fried-peruvian-sweet-potato-churros",
+    "title": "Quick-Fried Peruvian Sweet Potato Churros",
+    "tags": [
+      "churros",
+      "diabetic-friendly",
+      "one-pan",
+      "peruvian",
+      "sweet-potato",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-portuguese-chicken-tacos",
     "title": "Quick Gooey Portuguese Chicken Tacos",
     "tags": [
@@ -789,6 +804,21 @@
     ],
     "cuisine": "Chinese-Mexican fusion",
     "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-snappy-russian-gherkin-skewers",
+    "title": "Quick Snappy Russian Gherkin Skewers",
+    "tags": [
+      "garlicky",
+      "grilled-vegetables",
+      "jain-friendly",
+      "quick-snack",
+      "russian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

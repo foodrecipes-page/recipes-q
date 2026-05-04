@@ -1,0 +1,105 @@
+{
+  "title": "Quick Snappy Russian Gherkin Skewers",
+  "description": "A garlicky and energizing Russian dish featuring gherkin relish and lardons-render, perfect for a quick snack, this recipe is Jain-friendly and made with simple ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gherkin relish",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "1/2 cup",
+      "notes": "vegetarian alternative to bacon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 small",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread a gherkin, a piece of onion, a slice of bell pepper, a cherry tomato, and a sprinkle of parsley onto each skewer.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 5-7 minutes, turning occasionally, until the vegetables are tender.",
+    "Meanwhile, heat the lardons-render in a small pan over medium heat.",
+    "Add the minced garlic to the pan and cook for 1 minute, until fragrant.",
+    "Stir in the gherkin relish and cook for an additional 2 minutes.",
+    "Serve the skewers hot with the garlicky gherkin relish spooned over the top.",
+    "Squeeze a sliver of lemon juice over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "grilled-vegetables",
+    "jain-friendly",
+    "quick-snack",
+    "russian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-snappy-russian-gherkin-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-snappy-russian-gherkin-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:01:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "gherkin relish",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "gherkin",
+    "descriptor": "Quick snappy",
+    "dishForm": "Skewers"
+  }
+}
