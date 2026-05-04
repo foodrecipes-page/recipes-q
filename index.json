@@ -1148,5 +1148,19 @@
     "cuisine": "Egyptian",
     "totalTimeMin": 50,
     "shard": "q"
+  },
+  {
+    "slug": "quintessential-pillowy-venezuelan-thai-eggplant-pilaf",
+    "title": "Venezuelan Thai Eggplant Pilaf",
+    "tags": [
+      "one-pot",
+      "plant-based",
+      "thai-inspired",
+      "venezuelan-cuisine",
+      "weeknight-meal"
+    ],
+    "cuisine": "Venezuelan Thai",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
