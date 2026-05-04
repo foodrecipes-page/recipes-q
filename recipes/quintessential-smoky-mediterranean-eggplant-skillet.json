@@ -1,0 +1,121 @@
+{
+  "title": "Quintessential Smoky Mediterranean Eggplant Skillet",
+  "description": "A cozy, crispy dish of eggplant infused with smoky paprika and brightened by apple cider vinegar and lemon, finished with chickpeas and feta for a flexitarian twist.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium (400g)",
+      "notes": "diced into 1/2-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for smokiness"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "cooked, drained"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "adds acidity"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "brightens dish"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add 1 tablespoon of olive oil to warm.",
+    "Add the diced eggplant to the skillet and sauté until it begins to brown, about 5 minutes.",
+    "Stir in the minced garlic, black pepper, and sea salt, cooking until fragrant, about 1 minute.",
+    "Sprinkle the smoked paprika over the vegetables and toss to coat evenly.",
+    "Add the halved cherry tomatoes and continue cooking until the tomatoes soften, about 3 minutes.",
+    "Pour in the apple cider vinegar and lemon juice, stirring to combine and deglaze the pan.",
+    "Fold in the cooked chickpeas and crumbled feta cheese, allowing the mixture to simmer for 4 minutes.",
+    "Reduce the heat to low, cover the skillet, and let the flavors meld for 6 minutes, stirring occasionally.",
+    "Once the eggplant is tender and the sauce has thickened slightly, remove the skillet from heat.",
+    "Sprinkle the chopped fresh parsley over the top and serve hot, optionally with crusty bread for scooping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "easy",
+    "flexitarian",
+    "mediterranean",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 207,
+    "protein": 5,
+    "carbs": 13,
+    "fat": 10
+  },
+  "slug": "quintessential-smoky-mediterranean-eggplant-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-smoky-mediterranean-eggplant-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:26:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Quintessential Smoky",
+    "dishForm": "Skillet"
+  }
+}
