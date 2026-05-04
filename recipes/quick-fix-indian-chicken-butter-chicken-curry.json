@@ -1,0 +1,70 @@
+{
+  "title": "Quick Fix Indian Chicken Butter Chicken Curry",
+  "description": "A tangy and silky Udupi-inspired dish that combines chicken with a rich and creamy butter chicken sauce. This quick-fix recipe is a great weeknight option, ready in under an hour.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "60g",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, and thyme in a large bowl. Cover the bowl with plastic wrap and refrigerate for 15 minutes.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat. Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Add the chicken to the skillet and cook until browned on both sides and cooked through, about 6-8 minutes. Transfer the chicken to a plate and set aside.",
+    "Melt the butter in the same skillet over medium heat. Add the tomato puree, heavy cream, garam masala, cumin, coriander, and cayenne pepper. Simmer the sauce for 5 minutes, stirring occasionally.",
+    "Add the cooked chicken back to the skillet and toss to coat with the sauce. Cook for an additional 2-3 minutes, until the chicken is fully coated.",
+    "Serve the butter chicken hot, garnished with cilantro and a dollop of raita if desired.",
+    "Steam the chicken in a papillote with the butter and spices for 15-20 minutes, or until the chicken is cooked through.",
+    "Finely chop the cilantro and mix with yogurt, cumin, coriander, and cayenne pepper to make the raita. Refrigerate until ready to serve.",
+    "Mix the tomato puree, heavy cream, garam masala, cumin, coriander, and cayenne pepper in a bowl, then melt the butter and stir in the spice mixture.",
+    "Add the cooked chicken to the bowl with the sauce and toss to coat, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "easy-dinner",
+    "indian",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quick-fix-indian-chicken-butter-chicken-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-indian-chicken-butter-chicken-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "thyme",
+    "diet": "dash",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Fix",
+    "dishForm": "Butter Chicken Curry"
+  }
+}

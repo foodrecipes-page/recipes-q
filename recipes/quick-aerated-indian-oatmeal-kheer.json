@@ -1,0 +1,99 @@
+{
+  "title": "Quick Aerated Indian Oatmeal Kheer",
+  "description": "A weeknight Indian dessert made with oatmeal, milk, and cardamom, featuring a smoky element from a grilled spice blend.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": " Rolled Oats",
+      "amount": "1 cup (80g)",
+      "notes": ""
+    },
+    {
+      "name": "Full-fat Milk",
+      "amount": "2 cups (475ml)",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Ground Cardamom",
+      "amount": "1/4 tsp (1g)",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Cumin Powder (from grill)",
+      "amount": "1/2 tsp (2g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 tsp (0.5g)",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups (475ml)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill a small pan with 1 tsp of ghee over medium heat until it starts to smoke.",
+    "Add the cumin seeds and cook for 30 seconds until they release their aroma.",
+    "Grind the cumin seeds into a fine powder using a spice grinder or mortar and pestle.",
+    "In a medium saucepan, combine the milk, sugar, ground cardamom, and smoked cumin powder.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the oats and salt to the saucepan and stir to combine.",
+    "Continue to simmer for another 5 minutes, stirring frequently, until the oats have absorbed most of the liquid and the mixture is creamy.",
+    "Remove the saucepan from the heat and stir in the water.",
+    "Let the kheer cool to room temperature, then cover it and refrigerate for at least 2 hours or overnight.",
+    "Serve the kheer chilled, garnished with a sprinkle of cardamom powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy",
+    "desert",
+    "high-carb",
+    "indian",
+    "kheer",
+    "oatmeal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-aerated-indian-oatmeal-kheer",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-aerated-indian-oatmeal-kheer",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "oatmeal",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "oatmeal",
+    "descriptor": "Quick Aerated",
+    "dishForm": "Kheer"
+  }
+}

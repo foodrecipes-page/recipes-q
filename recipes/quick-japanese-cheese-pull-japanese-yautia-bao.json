@@ -1,0 +1,130 @@
+{
+  "title": "Quick Japanese Yautia Bao with Cheese Pull",
+  "description": "A vegetarian Japanese Hokkaido-inspired dish featuring yautia and a gooey cheese pull. Perfect for a quick weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yautia (Cassava)",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Softened butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Hokkaido milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Yeast starter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix yautia, flour, baking powder, salt, and yeast together in a bowl.",
+    "Add grated Parmesan cheese, mozzarella cheese, soy sauce, and sesame oil to the yautia mixture.",
+    "Mix well to combine.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Heat a skillet over medium heat and cook the bao for 2-3 minutes on each side.",
+    "Once the bao are cooked, brush with soft butter and sprinkle with sesame seeds.",
+    "Add a dollop of Hokkaido milk to each bao and use a spatula to create a cheese pull.",
+    "Serve immediately and garnish with scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "easy-dinner",
+    "japanese",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "quick-japanese-cheese-pull-japanese-yautia-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-japanese-cheese-pull-japanese-yautia-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:11Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "yautia",
+    "diet": "vegetarian",
+    "region": "hokkaido",
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "yautia",
+    "descriptor": "quick japanese cheese-pull",
+    "dishForm": "bao"
+  }
+}

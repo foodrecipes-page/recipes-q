@@ -1,0 +1,112 @@
+{
+  "title": "Quick-Fix Korean Chicken Bowl",
+  "description": "A quick and delicious Korean-inspired dish featuring sous-vide chicken and a spicy sauce. This recipe is perfect for a weeknight meal or a Buddhist temple-friendly gathering.",
+  "cuisine": "Korean",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "sous vide bag",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chili sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "cooked",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and black pepper.",
+    "Seal the chicken in a sous vide bag with the garlic and a splash of sesame oil.",
+    "Cook the chicken in a water bath at 145°F for 1 hour.",
+    "While the chicken is cooking, whisk together the chili sauce, gochujang, and brown sugar in a small bowl.",
+    "Once the chicken is cooked, remove it from the bag and slice it into thin strips.",
+    "Heat a small amount of oil in a pan over medium-high heat.",
+    "Add the sliced chicken to the pan and cook for 2-3 minutes, until browned.",
+    "Stir in the chili sauce mixture and cook for an additional 1-2 minutes.",
+    "Serve the chicken over cooked rice with green onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 80,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "korean",
+    "one-pan",
+    "quick-fix",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-fix-korean-chicken-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-korean-chicken-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:16Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "chilli sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Bowl"
+  }
+}

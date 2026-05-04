@@ -1,0 +1,101 @@
+{
+  "title": "Quick Uruguayan Trout Grilled",
+  "description": "Funky, light, cozy Uruguayan dish featuring trout, dashi-extract and herbs.",
+  "cuisine": "Uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-Extract",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Slices",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the trout fillets under cold water and pat them dry with paper towels.",
+    "In a small bowl, mix together the dashi-extract, olive oil, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto both sides of the trout fillets, then place them on the preheated grill.",
+    "Grill the trout for 8 minutes per side, or until they flake easily with a fork.",
+    "Meanwhile, toast the lemon slices on the grill for 1-2 minutes, or until fragrant.",
+    "Once the trout is cooked, serve it on a plate with the toasted lemon slices and garnished with parsley and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "quick-uruguayan-trout-grilled",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-uruguayan-trout-grilled",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "trout",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "trout",
+    "descriptor": "Quick",
+    "dishForm": "Grilled"
+  }
+}
