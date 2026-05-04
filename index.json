@@ -741,6 +741,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-jamaican-grape-leaf-wrap",
+    "title": "Quenched Jamaican Grape Leaf Wrap",
+    "tags": [
+      "fermented-food",
+      "gluten-free",
+      "grilled",
+      "jamaican",
+      "quick",
+      "wrap"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [

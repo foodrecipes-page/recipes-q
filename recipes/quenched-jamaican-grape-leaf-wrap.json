@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Jamaican Grape Leaf Wrap",
+  "description": "A fermented, creamy, crowd‑pleaser Jamaican wrap featuring grape leaves, grill, and gluten‑free-friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "1 bundle",
+      "notes": "fresh or jarred, thawed if frozen"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store‑bought or homemade"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime, juiced",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fermented cabbage slaw",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Rinse grape leaves under cold water, then blanch them in boiling water for 30 seconds to soften and remove bitterness.",
+    "Meanwhile, combine coconut cream, jerk seasoning, minced garlic, chopped onion, lime juice, salt and pepper in a bowl; whisk until smooth.",
+    "Place a spoonful of the coconut mixture onto the center of each leaf, add a drizzle of fermented cabbage slaw, then roll leaf tightly and secure with a toothpick.",
+    "Preheat grill to medium‑high, brush leaves lightly with oil, and grill for 3‑4 minutes per side until leaves are charred and filling heated.",
+    "Remove from grill, let rest 2 minutes, then serve wrapped or chopped over a bed of fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "grilled",
+    "jamaican",
+    "quick",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "quenched-jamaican-grape-leaf-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-jamaican-grape-leaf-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:46:24Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "grape leaves",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Quenched",
+    "dishForm": "Wrap"
+  }
+}
