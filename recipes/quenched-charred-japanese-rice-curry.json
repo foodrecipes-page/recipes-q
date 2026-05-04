@@ -1,0 +1,115 @@
+{
+  "title": "Quenched Charred Japanese Rice Curry",
+  "description": "A smoky, one-pot rice curry with madras paste, charred on a skillet for a crunchy crust, served egg-free and vegetarian.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "madras curry paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the vegetable oil until shimmering.",
+    "Add the diced onion and minced garlic, sautéing for 2 minutes until fragrant.",
+    "Stir in the sliced carrot and bell pepper, cooking until they begin to soften, about 3 minutes.",
+    "Sprinkle the madras curry paste over the vegetables, stirring to coat and allowing the flavors to bloom for 1 minute.",
+    "Add the cubed tofu and cook, turning occasionally, until the tofu starts to brown, about 4 minutes.",
+    "Pour in the vegetable broth, soy sauce, and mirin, bringing the mixture to a gentle simmer.",
+    "Reduce heat to medium and let the curry reduce slightly, about 5 minutes, while stirring occasionally.",
+    "Fold in the cooked rice, stirring to combine, then press the mixture into a flat layer in the pan.",
+    "Allow the rice to char for 2-3 minutes on each side, using a spatula to flip only once, until a crispy crust forms.",
+    "Serve hot, optionally garnishing with fresh cilantro or sliced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "egg-free",
+    "one-pot",
+    "quick",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quenched-charred-japanese-rice-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-charred-japanese-rice-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:06:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "madras paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Quenched Charred",
+    "dishForm": "Curry"
+  }
+}

@@ -172,6 +172,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-charred-japanese-rice-curry",
+    "title": "Quenched Charred Japanese Rice Curry",
+    "tags": [
+      "charred",
+      "egg-free",
+      "one-pot",
+      "quick",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-chinese-tofu-stew",
     "title": "Quenched Chinese Tofu Stew",
     "tags": [
