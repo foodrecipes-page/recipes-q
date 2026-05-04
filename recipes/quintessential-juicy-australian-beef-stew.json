@@ -1,0 +1,104 @@
+{
+  "title": "Quintessential Juicy Australian Beef Stew",
+  "description": "A hearty and adventurous Australian dish featuring ground ginger and tender beef, cooked to perfection in a Dutch oven. This stew is buttery, juicy, and full of flavor.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the ground ginger, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the beef broth and tomato paste, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Use a meat thermometer to ensure the beef is cooked to a safe internal temperature of 160 degrees.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "beef-recipes",
+    "comfort-food",
+    "dutch-oven",
+    "hearty-stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quintessential-juicy-australian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-juicy-australian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:34:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "ground ginger",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "quintessential juicy",
+    "dishForm": "Stew"
+  }
+}
