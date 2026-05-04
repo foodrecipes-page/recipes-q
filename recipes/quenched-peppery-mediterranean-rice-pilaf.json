@@ -1,0 +1,106 @@
+{
+  "title": "Quenched Peppery Mediterranean Rice Pilaf",
+  "description": "A fluffy, peppery rice pilaf infused with dashi and rice syrup, perfect for a soothing sick day Mediterranean meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long grain white rice",
+      "amount": "1 cup",
+      "notes": "rinsed until water runs clear"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice syrup (jocheong)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "freshly cracked peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until water runs clear, then drain.",
+    "Heat the lazy susan spinner on medium, add olive oil and let it swirl.",
+    "Add minced garlic and diced onion to the oil, sauté until translucent, about 3 minutes.",
+    "Stir in the cracked peppercorns, salt, oregano, and lemon zest, cooking for another minute to release aromas.",
+    "Place the rinsed rice into the vessel, swirling to coat each grain with the seasoned oil.",
+    "Pour in the dashi extract and rice syrup, then cover and bring to a rolling boil.",
+    "Reduce heat to low, cover, and simmer for 18 minutes, or until rice is tender and liquid absorbed.",
+    "Remove from heat, fluff the rice with a fork, sprinkle chopped parsley, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "fluffy",
+    "lazy-susan",
+    "mediterranean",
+    "peppery",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 7,
+    "carbs": 85,
+    "fat": 13
+  },
+  "slug": "quenched-peppery-mediterranean-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peppery-mediterranean-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:28:30Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Rice",
+    "descriptor": "Quenched Peppery",
+    "dishForm": "Pilaf"
+  }
+}

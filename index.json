@@ -238,6 +238,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peppery-mediterranean-rice-pilaf",
+    "title": "Quenched Peppery Mediterranean Rice Pilaf",
+    "tags": [
+      "flexitarian",
+      "fluffy",
+      "lazy-susan",
+      "mediterranean",
+      "peppery",
+      "sick-day"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-slovakian-lentils-soup",
     "title": "Quenched Slovakian Lentils Soup",
     "tags": [
@@ -369,6 +384,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-charred-kenyan-cheese-casserole",
+    "title": "Quick Charred Kenyan Cheese Casserole",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "kenyan-cuisine",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -724,6 +754,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-galician-potatoes-stew",
+    "title": "Quick Galician Potatoes Stew",
+    "tags": [
+      "one-pot",
+      "potato",
+      "quick",
+      "sattvic",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

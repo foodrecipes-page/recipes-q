@@ -1,0 +1,106 @@
+{
+  "title": "Quick Galician Potatoes Stew",
+  "description": "A fragrant, herbaceous potato stew with a touch of smoked paprika, perfect for a festive Galician lunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "800g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500 ml"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Peel and dice potatoes into 1-inch cubes.",
+    "Slice onion and mince garlic.",
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Stir in garlic and smoked paprika, cooking for 1 minute.",
+    "Add potatoes, bay leaves, salt, pepper, vegetable broth, and water, bring to a simmer.",
+    "Cover and cook for 20 minutes, stirring occasionally, until potatoes are tender.",
+    "Remove bay leaves, garnish with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pot",
+    "potato",
+    "quick",
+    "sattvic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 15,
+    "carbs": 173,
+    "fat": 28
+  },
+  "slug": "quick-galician-potatoes-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-galician-potatoes-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:28:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "potatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Quick",
+    "dishForm": "Stew"
+  }
+}

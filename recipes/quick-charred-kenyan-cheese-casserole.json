@@ -1,0 +1,100 @@
+{
+  "title": "Quick Charred Kenyan Cheese Casserole",
+  "description": "A lacto-vegetarian friendly Kenyan dish featuring chilli powder and lardons-render, perfect for a weeknight dinner. This monsoon Kenyan dish is charred to perfection with a cheese-pull.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "elbow macaroni"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 oz",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "chilli powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cheese",
+      "amount": "2 cups",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to the package instructions until al dente.",
+    "In a pan, heat the oil and saute the chopped onion until translucent.",
+    "Add the lardons to the pan and cook until crispy.",
+    "In a large bowl, combine the cooked macaroni, tomato sauce, chilli powder, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, arrange half of the macaroni mixture.",
+    "Top with half of the shredded cheese and half of the crispy lardons.",
+    "Repeat the layers and top with the remaining cheese.",
+    "Bake in the preheated oven for 25 minutes or until the top is charred and the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "kenyan-cuisine",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quick-charred-kenyan-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-kenyan-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:28:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "lardons-render",
+    "primaryIngredient": "chilli powder",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick charred",
+    "dishForm": "Casserole"
+  }
+}
