@@ -1,0 +1,97 @@
+{
+  "title": "Quietly adventurous Egyptian vine leaves Wrap",
+  "description": "A grassy and flaky Egyptian dish featuring vine leaves and double-rise-bread, perfect for those seeking a shojin-friendly meal. This dish combines the freshness of vine leaves with the comfort of warm bread.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 1-inch thick slices and toast until lightly browned.",
+    "Prepare the vine leaves by rinsing them in cold water and removing the stems.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stuff each vine leaf with a slice of toasted bread, a spoonful of the onion and garlic mixture, and a sprinkle of salt and black pepper.",
+    "Roll the vine leaves tightly and place them seam-side down in a baking dish.",
+    "Drizzle the lemon juice over the rolled vine leaves and cover the dish with aluminum foil.",
+    "Bake the vine leaves in the preheated oven for 20 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Serve the quietly adventurous Egyptian vine leaves wrap warm, garnished with fresh parsley or thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-rise-bread",
+    "egyptian-cuisine",
+    "middle-eastern",
+    "shojin-friendly",
+    "vegetarian",
+    "vine-leaves"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-adventurous-egyptian-vine-leaves-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-adventurous-egyptian-vine-leaves-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:39:52Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "vine leaves",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Quietly adventurous",
+    "dishForm": "Wrap"
+  }
+}
