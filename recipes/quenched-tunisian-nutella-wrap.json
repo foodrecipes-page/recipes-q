@@ -1,0 +1,97 @@
+{
+  "title": "Quenched Tunisian Nutella Wrap",
+  "description": "A malty, silky Tunisian-inspired wrap that blends Nutella with tahini, honey, and harissa. The wrap is deep-fried in a lotus leaf for a quick, dash-friendly snack.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lotus leaf",
+      "amount": "1 medium",
+      "notes": "rinse and soak"
+    },
+    {
+      "name": "Nutella",
+      "amount": "45 g"
+    },
+    {
+      "name": "Honey",
+      "amount": "15 g"
+    },
+    {
+      "name": "Tahini",
+      "amount": "15 g"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "5 g"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "5 g"
+    },
+    {
+      "name": "Milk",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10 ml",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Soak lotus leaf in warm water for 2 minutes to soften.",
+    "In a small bowl whisk Nutella, honey, tahini, almond butter, milk, and harissa paste until smooth.",
+    "Pat the softened lotus leaf dry and lay on a clean cloth.",
+    "Spread 2 tsp of the Nutella mixture evenly over the leaf, leaving a small border.",
+    "Sprinkle toasted sesame seeds over the spread.",
+    "Fold the leaf into a wrap by bringing the sides together and rolling tightly.",
+    "Heat olive oil in a deep pan to 180°C (350°F).",
+    "Carefully place the wrapped lotus leaf into the hot oil, frying for 2-3 minutes until golden and crisp.",
+    "Remove with a slotted spoon and drain excess oil on paper towels.",
+    "Let cool for 1 minute, then slice into bite-sized pieces for serving."
+  ],
+  "prepTimeMin": 12,
+  "cookTimeMin": 5,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "deep-fry",
+    "lotus-leaf",
+    "quick",
+    "sick-day",
+    "sweet",
+    "tunisian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 11,
+    "carbs": 44,
+    "fat": 45
+  },
+  "slug": "quenched-tunisian-nutella-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-tunisian-nutella-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:35:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "nutella",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "nutella",
+    "descriptor": "Quenched",
+    "dishForm": "Wrap"
+  }
+}
