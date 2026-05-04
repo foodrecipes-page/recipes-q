@@ -666,6 +666,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-indian-rice-biryani",
+    "title": "Quenched Indian Rice Biryani",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "one-pot",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-irish-peanut-cake",
     "title": "Quenched Irish Peanut Cake",
     "tags": [

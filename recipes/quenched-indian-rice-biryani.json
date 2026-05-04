@@ -1,0 +1,130 @@
+{
+  "title": "Quenched Indian Rice Biryani",
+  "description": "A fresh, light Gujarati-style biryani with char-grilled vegetables, unwaxed lemon zest, and cooked in a traditional dolsot stone bowl.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "250g"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1 large",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4"
+    },
+    {
+      "name": "cloves",
+      "amount": "4"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice until the water runs clear and soak for 20 minutes.",
+    "Heat 1 tablespoon of oil in a dolsot stone bowl and add cumin, cardamom, cloves, and cinnamon, sautéing until aromatic.",
+    "Add sliced onions, garlic paste, ginger paste, and green chili; cook until onions are golden.",
+    "Stir in tomato puree and cook for 3 minutes, then add the soaked rice and gently fold to coat the grains.",
+    "Pour in water, season with salt, and bring to a boil, then reduce heat to low and cover with the dolsot lid.",
+    "Cook for 15 minutes until the rice is tender and the steam escapes, then remove the lid and fluff with a fork.",
+    "Sprinkle fresh lemon zest, lemon juice, coriander, and mint over the rice, stirring to combine.",
+    "Transfer the biryani to a serving dish, drizzle ghee on top, and let it rest for 5 minutes to set the flavors.",
+    "Serve warm, optionally with a side of cucumber raita or a fresh salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quenched-indian-rice-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-indian-rice-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:27:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "mediterranean",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice",
+    "descriptor": "Quenched",
+    "dishForm": "Biryani"
+  }
+}
