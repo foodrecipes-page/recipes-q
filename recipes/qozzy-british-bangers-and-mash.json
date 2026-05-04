@@ -1,0 +1,84 @@
+{
+  "title": "Qozzy British Bangers And Mash",
+  "description": "A spicy and gooey hangover-cure dish with pink food coloring, lamination-puff, and anti-inflammatory-friendly bangers and mash.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef mince",
+      "amount": 500
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chicken stock cube",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Lamination-puff cheese sauce mix",
+      "amount": "4 packets"
+    },
+    {
+      "name": "Pink food coloring (optional)",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Sauté onion and garlic in olive oil until translucent.",
+    "Add beef mince to the pot, breaking it up with a wooden spoon. Cook until browned.",
+    "Stir in salt, pepper, and chicken stock cube. Simmer for about 20 minutes or until meat is tender.",
+    "Pour mixture into a blender, add pink food coloring (if using), blend until smooth, then pour back into pot. Mix well to combine.",
+    "Preheat oven to 160°C (320°F). Divide the bangers and mash mix evenly between 4 lamination-puff cups.",
+    "Bake in preheated oven for 15 minutes or until puffs are golden brown and cheese sauce is bubbly.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "qozzy-british-bangers-and-mash",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qozzy-british-bangers-and-mash",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:03:21Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pink food colouring",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Bangers",
+    "descriptor": "Qozzy",
+    "dishForm": "Qozzy Bangers And Mash"
+  }
+}
