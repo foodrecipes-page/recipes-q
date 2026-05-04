@@ -1,0 +1,98 @@
+{
+  "title": "Quick Quenched Uruguayan Melon Salad",
+  "description": "A funky, crisp, plant‑based Uruguay‑inspired melon salad that quenches summer heat with a zesty lime twist and a splash of olive oil.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cantaloupe, diced",
+      "amount": "1 cup",
+      "notes": "ripe, seed removed"
+    },
+    {
+      "name": "honeydew, diced",
+      "amount": "1/2 cup",
+      "notes": "ripe, seed removed"
+    },
+    {
+      "name": "red onion, finely diced",
+      "amount": "1/4 cup",
+      "notes": "remove skins"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "roughly 5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "1 tsp",
+      "notes": "optional, for balance"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash all produce and pat dry.",
+    "Dice cantaloupe and honeydew into bite‑sized cubes and place in a bowl.",
+    "Add diced red onion and chopped cilantro to the bowl.",
+    "Pour olive oil and lime juice over the mix and drizzle agave syrup if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "melons",
+    "plant-based",
+    "quick",
+    "salad",
+    "uruguay"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "quick-quenched-uruguayan-melon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-uruguayan-melon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:49:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "melons",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Melon",
+    "descriptor": "Quick Quenched",
+    "dishForm": "Salad"
+  }
+}
