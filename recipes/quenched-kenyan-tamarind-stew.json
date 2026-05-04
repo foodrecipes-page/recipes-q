@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Kenyan Tamarind Stew",
+  "description": "A rich, crumbly, comforting Kenyan dish featuring a tamarind ball, nimono-simmer, and an ovo-vegetarian-friendly twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind ball",
+      "amount": "50 g",
+      "notes": "about 50 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups (480 ml)"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "1 cup (125 g)"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "1 cup (150 g)"
+    },
+    {
+      "name": "green beans, chopped",
+      "amount": "1/2 cup (75 g)"
+    },
+    {
+      "name": "onions, chopped",
+      "amount": "1/2 cup (75 g)"
+    },
+    {
+      "name": "roasted peanuts, crushed",
+      "amount": "2 tbsp (30 g)"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 tbsp (15 ml)"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp (5 g)"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5 g)",
+      "notes": "optional to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp (2 g)"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large pot over medium heat and sauté the onions until translucent.",
+    "Add the diced carrots, sweet potato, and green beans and cook for 5 minutes, stirring occasionally.",
+    "Stir in the smoked paprika, salt, and pepper, then pour in the vegetable broth and bring to a boil.",
+    "Place the tamarind ball into the pot, break it with a spoon, and let the mixture simmer for 15 minutes.",
+    "Crack the egg into a small bowl and whisk; then slowly pour the beaten egg into the stew while stirring to create ribbons.",
+    "Stir in the crushed peanuts and coconut milk, and simmer for an additional 5 minutes until the stew thickens slightly.",
+    "Taste and adjust seasoning if needed, then remove from heat.",
+    "Ladle the stew into bowls, garnish with a sprinkle of peanuts if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "quenched-kenyan-tamarind-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-kenyan-tamarind-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:30:17Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "tamarind ball",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "tamarind",
+    "descriptor": "Quenched",
+    "dishForm": "Stew"
+  }
+}
