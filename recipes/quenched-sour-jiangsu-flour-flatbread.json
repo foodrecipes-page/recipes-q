@@ -1,0 +1,99 @@
+{
+  "title": "Quenched Sour Jiangsu Flour Flatbread",
+  "description": "A sour, crumbly flatbread flavored with rice vinegar and soy sauce, finished with melted butter for a cozy Jiangsu-inspired bite.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120g"
+    },
+    {
+      "name": "salt",
+      "amount": "4g"
+    },
+    {
+      "name": "sugar",
+      "amount": "4g"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "10g"
+    },
+    {
+      "name": "melted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1g"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "10g"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Combine wholemeal flour, salt, sugar, and ground ginger in a mixing bowl.",
+    "Add rice vinegar and soy sauce to the dry mix and stir to distribute liquids evenly.",
+    "Pour in water gradually while mixing until a shaggy dough forms.",
+    "Knead the dough on a lightly floured surface for about 5 minutes until smooth.",
+    "Form the dough into a ball, wrap it in plastic wrap, and let it rest at room temperature for 30 minutes.",
+    "Divide the rested dough into 4 equal portions and roll each into a thin round.",
+    "Heat a non-stick skillet over medium heat, melt butter in it, and pour a thin layer of melted butter over the skillet.",
+    "Cook each flatbread for about 2 minutes on each side until golden brown, then slide onto a cooling rack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 8,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beurre-monte",
+    "flatbread",
+    "jinju",
+    "quick",
+    "sour",
+    "vegetarian",
+    "wholemeal"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 16,
+    "carbs": 72,
+    "fat": 8
+  },
+  "slug": "quenched-sour-jiangsu-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-sour-jiangsu-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:32:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "raw",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "Flour",
+    "descriptor": "Quenched Sour",
+    "dishForm": "Flatbread"
+  }
+}
