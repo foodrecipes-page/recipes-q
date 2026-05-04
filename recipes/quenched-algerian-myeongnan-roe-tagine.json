@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Algerian Myeongnan Roe Tagine",
+  "description": "A briny, crumbly midnight craving dish that blends smoky grilled fish roe with savory spices and a hint of citrus, served in a traditional tagine. The egg‑free recipe highlights a delicate balance of textures and flavors.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeongnan roe",
+      "amount": "200 g",
+      "notes": "fresh, gutted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the roe with salt, pepper, smoked paprika, and cumin.",
+    "Heat a grill pan and brush with olive oil, then lay the roe on the hot surface and grill for 2 minutes on each side until lightly charred.",
+    "Remove the roe and place it in a shallow, heat‑proof tagine or bowl.",
+    "Add the sliced onion, fish stock, and a pinch of sea salt to the tagine, then cover and simmer for 15 minutes.",
+    "Stir in the grilled roe, lemon zest, and crumbled feta, then reduce heat to low and simmer for an additional 10 minutes.",
+    "Taste and adjust seasoning with extra salt or pepper as needed.",
+    "Remove from heat, sprinkle with chopped parsley, and serve immediately with flatbread or couscous."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dinner"
+  ],
+  "slug": "quenched-algerian-myeongnan-roe-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-algerian-myeongnan-roe-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:17:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Myeongnan Roe",
+    "descriptor": "Quenched",
+    "dishForm": "Tagine"
+  }
+}

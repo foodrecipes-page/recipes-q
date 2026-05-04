@@ -1,0 +1,105 @@
+{
+  "title": "Quick Egyptian Cheese Curry",
+  "description": "A floral, gooey brunch dish that blends panang paste and shio-koji with creamy Egyptian cheese for a satisfying, satvik-friendly breakfast.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Panang curry paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Egyptian cheese",
+      "amount": "200 g",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Stir in minced garlic and grated ginger, cooking for 30 seconds until fragrant.",
+    "Add panang curry paste and cook, stirring, for 1 minute to release its flavors.",
+    "Pour in coconut milk and shio-koji, bringing the mixture to a gentle simmer.",
+    "Add the cheese cubes and let them melt into the sauce, stirring until the mixture is gooey.",
+    "Squeeze in lemon juice and adjust seasoning with salt if needed.",
+    "Reduce heat to low and let the curry simmer for 3 minutes, allowing the flavors to blend.",
+    "Transfer the curry to a serving dish and garnish with chopped parsley.",
+    "Serve immediately with warm pita or toast for a brunch-ready meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cheese-curry",
+    "easy",
+    "panang",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "quick-egyptian-cheese-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-egyptian-cheese-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:17:11Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "panang-paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Quick",
+    "dishForm": "Curry"
+  }
+}

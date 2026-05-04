@@ -1,0 +1,113 @@
+{
+  "title": "Quenched Slovakian Lentils Soup",
+  "description": "A jammy, aerated Slovakian lentil soup that blends ginger paste and coconut milk for a bright, adventurous flavor. Perfect for a wholesome lunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "200g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "In a bamboo steamer, heat the vegetable stock until it begins to simmer.",
+    "Add the rinsed lentils to the stock and cook for 15 minutes until they soften.",
+    "In a small bowl, whisk the coconut milk with ginger paste, cumin seeds, coriander powder, and turmeric powder.",
+    "Pour the coconut milk mixture into the steamer, stir gently, and add the diced tomato and bell pepper.",
+    "Continue to simmer for an additional 10 minutes, allowing the flavors to meld and the soup to become jammy.",
+    "Stir in the chopped spinach, cooking until just wilted, about 2 minutes.",
+    "Finish with lemon juice, cilantro, and a pinch of salt, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "bamboo-steamer",
+    "jain-friendly",
+    "jammy",
+    "one-pot",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 48,
+    "fat": 12
+  },
+  "slug": "quenched-slovakian-lentils-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-slovakian-lentils-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:16:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "ginger paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quenched",
+    "dishForm": "Soup"
+  }
+}

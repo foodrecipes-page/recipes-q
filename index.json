@@ -15,6 +15,17 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-algerian-myeongnan-roe-tagine",
+    "title": "Quenched Algerian Myeongnan Roe Tagine",
+    "tags": [
+      "algerian",
+      "dinner"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-bitter-arabian-butter-pudding",
     "title": "Quenched Bitter Arabian Butter Pudding",
     "tags": [
@@ -150,6 +161,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-slovakian-lentils-soup",
+    "title": "Quenched Slovakian Lentils Soup",
+    "tags": [
+      "aerated",
+      "bamboo-steamer",
+      "jain-friendly",
+      "jammy",
+      "one-pot",
+      "slovakian",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-slovakian-shrimp-pilaf",
     "title": "Quenched Slovakian Shrimp Pilaf",
     "tags": [
@@ -236,6 +263,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 13,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-egyptian-cheese-curry",
+    "title": "Quick Egyptian Cheese Curry",
+    "tags": [
+      "breakfast",
+      "cheese-curry",
+      "easy",
+      "panang",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
