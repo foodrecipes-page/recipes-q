@@ -1,0 +1,60 @@
+{
+  "title": "Quick Fried Southern-Thai Fettuccine Kadhai-Style Fettuccine",
+  "description": "A decadent and satisfying dish that combines the creaminess of Southern-Thai flavors with the crunch of deep-fried fettuccine, all in a quick and easy format. This dish is a twist on traditional Thai street food, with a focus on paleo-friendly ingredients and a spicy kick from the chili peppers.",
+  "cuisine": "Southern-Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz",
+      "notes": "paleo-friendly, made from rice flour"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of coconut oil in a kadhai or deep frying pan over medium-high heat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried",
+    "high-fat",
+    "keto",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "_nutrition": {
+    "calories": 840,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 68
+  },
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quick-fried-southern-thai-fettuccine-kadhai-style-fettuccine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-southern-thai-fettuccine-kadhai-style-fettuccine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fettuccine",
+    "diet": "paleo",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern-Thai",
+    "mainIngredient": "Fettuccine",
+    "descriptor": "Quick Fried",
+    "dishForm": "Kadhai-Style Fettuccine"
+  }
+}
