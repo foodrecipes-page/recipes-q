@@ -1,0 +1,97 @@
+{
+  "title": "Quick Energizing Thai Veal Kanom Jeen",
+  "description": "A cultured and energizing Thai dish featuring veal and toast in a glassy-jelly kanom jeen form, perfect for a quick and raw-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "veal",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "kanom jeen curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "glass noodles",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    }
+  ],
+  "instructions": [
+    "Cook the glass noodles according to package instructions and set aside.",
+    "In a large pan, heat the kanom jeen curry paste over medium heat for 1 minute.",
+    "Add the sliced veal to the pan and cook until browned, about 3-4 minutes.",
+    "Add the coconut milk, fish sauce, lime juice, and palm sugar to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes or until the sauce has thickened.",
+    "Stir in the chopped Thai basil and cook for an additional 1 minute.",
+    "To assemble the dish, place a slice of toast on a plate and top with a portion of the veal and sauce mixture.",
+    "Add a scoop of the cooked glass noodles on top of the veal and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "quick-meal",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-energizing-thai-veal-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-thai-veal-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:56:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "veal",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "veal",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Kanom Jeen"
+  }
+}

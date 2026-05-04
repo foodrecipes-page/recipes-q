@@ -782,6 +782,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-energizing-thai-veal-kanom-jeen",
+    "title": "Quick Energizing Thai Veal Kanom Jeen",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "quick-meal",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-ethiopian-duck-fat-sambusa",
     "title": "Quick Ethiopian Duck Fat Sambusa",
     "tags": [
