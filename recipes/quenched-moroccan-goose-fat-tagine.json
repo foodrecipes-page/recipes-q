@@ -1,0 +1,99 @@
+{
+  "title": "Quenched Moroccan Goose Fat Tagine",
+  "description": "A fermented, crumbly and light Moroccan tagine made with goose fat and low-carb vegetables.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose fat",
+      "amount": "200g"
+    },
+    {
+      "name": "dried tomato paste",
+      "amount": "30g"
+    },
+    {
+      "name": "fermented olive brine",
+      "amount": "100ml"
+    },
+    {
+      "name": "red onion, sliced",
+      "amount": "100g"
+    },
+    {
+      "name": "carrots, sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "120g"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "5g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "5g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "3g"
+    },
+    {
+      "name": "black pepper, cracked",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Heat the stone bowl over medium flame until hot.",
+    "Add the goose fat and let it melt completely.",
+    "Stir in the dried tomato paste until it coats the fat evenly.",
+    "Pour in the fermented olive brine and bring to a gentle simmer.",
+    "Add sliced onion, carrots, zucchini, rosemary, cumin, salt, and pepper.",
+    "Cover the tagine and cook for 45 minutes, stirring occasionally.",
+    "Remove the lid and reduce the sauce until it is slightly thickened.",
+    "Serve hot, garnished with a sprinkle of fresh rosemary."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dholsot",
+    "fermented-olive",
+    "gluten-free",
+    "goose-fat",
+    "low-carb",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 5,
+    "carbs": 3,
+    "fat": 50
+  },
+  "slug": "quenched-moroccan-goose-fat-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-moroccan-goose-fat-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:13:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "goose fat",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Goose Fat",
+    "descriptor": "Quenched",
+    "dishForm": "Tagine"
+  }
+}
