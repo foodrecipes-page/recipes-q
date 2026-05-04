@@ -1,0 +1,107 @@
+{
+  "title": "Quaint Sour British Cod Cornish Pasty",
+  "description": "A traditional British dish featuring cod in a sour and springy filling, wrapped in a Cornish pasty and cooked in a cataplana vessel, inspired by ttukbaegi earthenware cookware and following ayurvedic sattvic friendly principles",
+  "cuisine": "British",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "swede",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, salt, and black pepper.",
+    "Add the sliced onion, diced potato, and diced swede to the bowl and mix until they are well coated with the lemon juice mixture.",
+    "Cut the cod fillets into small pieces and add them to the bowl, mixing gently to combine.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the cod and vegetable mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Use a knife to cut a few slits in the top of the pastry to allow steam to escape.",
+    "Place the pasty in a cataplana vessel and cook for 25 minutes.",
+    "Remove the pasty from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quaint-sour-british-cod-cornish-pasty",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-sour-british-cod-cornish-pasty",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:57:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cod",
+    "descriptor": "Quaint Sour",
+    "dishForm": "Cornish Pasty"
+  }
+}

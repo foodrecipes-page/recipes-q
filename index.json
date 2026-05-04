@@ -102,6 +102,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-sour-british-cod-cornish-pasty",
+    "title": "Quaint Sour British Cod Cornish Pasty",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-springy-ukrainian-pork-dumplings",
     "title": "Quaint Springy Ukrainian Pork Dumplings",
     "tags": [
@@ -1665,6 +1679,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-melted-portuguese-cheese-quesadilla",
+    "title": "Quick Melted Portuguese Cheese Quesadilla",
+    "tags": [
+      "citrusy",
+      "kid-friendly",
+      "melted-cheese",
+      "portuguese-food",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
