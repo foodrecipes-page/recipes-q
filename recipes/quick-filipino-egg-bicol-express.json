@@ -1,0 +1,104 @@
+{
+  "title": "Quick Filipino Egg Bicol Express",
+  "description": "A grassy, springy, kid-friendly Filipino dish that uses cream of tartar to fluff eggs and en-croute shrimp for a tender bite, all cooked in one skillet for a quick lunch.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8 large eggs"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml coconut milk"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp fish sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small onion, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves garlic, minced"
+    },
+    {
+      "name": "chili",
+      "amount": "1 small red chili, sliced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "200 g shrimp, peeled and deveined"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 tsp cream of tartar"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp cornstarch"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp vegetable oil"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime",
+      "amount": "1 lime, cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a skillet over medium heat.",
+    "Add diced onion and minced garlic, sauté until fragrant and translucent, about 2 minutes.",
+    "Stir in sliced chili and shrimp, coat shrimp with cornstarch, and cook until shrimp are pink, about 3 minutes.",
+    "Pour in coconut milk and fish sauce, bring to a gentle simmer, letting flavors meld for 2 minutes.",
+    "In a bowl, whisk together eggs, cream of tartar, salt, and pepper until frothy.",
+    "Pour the egg mixture into the skillet, stirring gently, allowing the eggs to set into soft curds while still moist.",
+    "Remove from heat when the eggs are fully cooked but still springy, about 2 minutes.",
+    "Serve the dish immediately, topping with fresh lime wedges for a bright finish.",
+    "Enjoy the grassy, springy Quick Filipino Egg Bicol Express with a kid-friendly twist."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-based",
+    "filipino",
+    "kid-friendly",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 19
+  },
+  "slug": "quick-filipino-egg-bicol-express",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-filipino-egg-bicol-express",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:20:06Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "en-croute",
+    "primaryIngredient": "cream of tartar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "egg",
+    "descriptor": "Quick",
+    "dishForm": "Bicol Express"
+  }
+}

@@ -1907,6 +1907,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-filipino-egg-bicol-express",
+    "title": "Quick Filipino Egg Bicol Express",
+    "tags": [
+      "egg-based",
+      "filipino",
+      "kid-friendly",
+      "one-pot",
+      "quick"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-filipino-rice-noodles-noodles",
     "title": "Quick Filipino Rice Noodles",
     "tags": [
