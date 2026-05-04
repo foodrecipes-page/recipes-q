@@ -1,0 +1,105 @@
+{
+  "title": "Quick Japanese Bread Flour Casserole",
+  "description": "A fresh, molten one-pot casserole that blends bread flour with Japanese seasonings and a lacquer‑glaze finish.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "120 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "mirin",
+      "amount": "15 ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mozzarella cheese, shredded",
+      "amount": "50 g"
+    },
+    {
+      "name": "nori flakes, toasted",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallion, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C and lightly oil a 20 cm square baking dish.",
+    "In a bowl, dissolve the yeast and sugar in the dashi stock and let sit for 5 minutes until frothy.",
+    "Whisk the flour and salt together, then add the yeast mixture and soy sauce to form a loose dough.",
+    "Knead the dough on a floured surface for 2 minutes until smooth, then transfer it to the prepared dish.",
+    "Roll the mozzarella into thin ribbons and lay them across the dough for a molten center.",
+    "Sprinkle the toasted nori flakes, sliced scallion, and grated ginger over the dough.",
+    "Drizzle the vegetable oil over the top and bake for 20 minutes until the edges are golden and the cheese is bubbling.",
+    "Remove the casserole from the oven and let it rest for 3 minutes before slicing.",
+    "Serve warm, optionally drizzle extra soy‑mirin glaze on top for added shine.",
+    "Enjoy the chewy bread base with a silky, molten cheese core and fragrant Japanese flavors."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "molten",
+    "nut-free",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 30,
+    "carbs": 140,
+    "fat": 25
+  },
+  "slug": "quick-japanese-bread-flour-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-japanese-bread-flour-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:51:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "bread flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bread flour",
+    "descriptor": "quick",
+    "dishForm": "casserole"
+  }
+}
