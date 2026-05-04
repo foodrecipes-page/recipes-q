@@ -1,0 +1,88 @@
+{
+  "title": "Quenched Crispy Polish Fromage-Blanc Bowl",
+  "description": "A salty, crispy, and satisfying Polish-inspired dish featuring fromage-blanc, confit-tomato, and crispy garlic. Perfect for a solo dinner.",
+  "cuisine": "Polish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fromage-Blanc (Polish White Cheese)",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Confit Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Korean-Brass Bowl",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "fromage-blanc",
+    "korean-brass-bowl",
+    "pescatarian",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "quenched-crispy-polish-fromage-blanc-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-crispy-polish-fromage-blanc-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:51:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "confit-tomato",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "quenched crispy",
+    "dishForm": "Bowl"
+  }
+}

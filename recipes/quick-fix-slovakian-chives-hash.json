@@ -1,0 +1,87 @@
+{
+  "title": "quick-fix Slovakian chives Hash",
+  "description": "A simple Slovakian dish made with crispy pan-fried onions and chives, perfect for a quick breakfast or lunch.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "0",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat broiler.",
+    "Cut the smoked bacon into small pieces and cook in a pan over medium heat until crispy.",
+    "Add the diced onions to the pan and cook until they start to caramelize.",
+    "Add the chopped chives to the pan and stir to combine with the onions and bacon."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "hash",
+    "quick-fix",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "quick-fix-slovakian-chives-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-slovakian-chives-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "chives",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chives",
+    "descriptor": "quick-fix",
+    "dishForm": "Hash"
+  }
+}
