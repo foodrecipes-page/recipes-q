@@ -1,0 +1,137 @@
+{
+  "title": "Quenched Aerated Slovakian Spring Onions Pilaf",
+  "description": "A romantic Slovakian dish featuring spring onions and a flambe finish, aerated for a light and flavorful experience.",
+  "cuisine": "slovakian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "scallion oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sour milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "flambeed aquavit",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over a medium-high flame. ",
+    "Add the unsalted butter and saut\t6e until it melts. ",
+    "Stir in the flour and cook for 1-2 minutes. ",
+    "Slowly add in the sour milk, whisking continuously. ",
+    "Bring the mixture to a simmer and cook until it thickens. ",
+    "Stir in the dijon mustard and remove the skillet from the heat. ",
+    "Crack open the scallop shells and divide the pilaf mixture evenly between them. ",
+    "Add a sprinkle of salt and black pepper to each shell. ",
+    "Drizzle a spoonful of scallion oil over the top of each dish. ",
+    "Sprinkle with chopped parsley and a pinch of cayenne pepper. ",
+    "Place the shells under the broiler and flambe with aquavit until golden brown. ",
+    "Serve immediately, garnished with additional parsley if desired. ",
+    "Garnish with scallion slices, if desired. ",
+    "Stir the pilaf to finish with a sprinkle of black pepper. ",
+    "Drizzle a spoonful of sour cream over the top of each serving. ",
+    "Sprinkle a pinch of ras el hanout over the top of each serving. ",
+    "Stir the pilaf to combine. ",
+    "Add a dollop of sour cream to the center of each dish. ",
+    "Sprinkle with chopped parsley and a pinch of cayenne pepper. ",
+    "Serve immediately and enjoy!",
+    "Stir in the chopped parsley. "
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "flambe",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "romantic",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "quenched-aerated-slovakian-spring-onions-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-aerated-slovakian-spring-onions-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "spring onions",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Spring Onions",
+    "descriptor": "Quenched Aerated",
+    "dishForm": "Pilaf"
+  }
+}
