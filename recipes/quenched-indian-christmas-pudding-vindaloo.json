@@ -1,0 +1,112 @@
+{
+  "title": "Quenched Indian Christmas Pudding Vindaloo",
+  "description": "A yeasty, snappy vindaloo that marries the sweet depth of Christmas pudding with the fiery spice of Udupi cuisine, served in a kadhai for a Mediterranean-friendly twist.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "50 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "150 g",
+      "notes": "cooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "150 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "100 g"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "30 g"
+    },
+    {
+      "name": "Vindaloo spice paste",
+      "amount": "20 g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 g"
+    },
+    {
+      "name": "Fresh coriander",
+      "amount": "15 g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a kadhai over medium heat.",
+    "Add the minced garlic and grated ginger and sauté until fragrant.",
+    "Add the sliced onion and cook until translucent.",
+    "Stir in the tomato puree and brown sugar, cooking for 3 minutes.",
+    "Add the vindaloo spice paste and mix well.",
+    "Pour in the diced Christmas pudding and chopped nuka-pickle, tossing to coat with the sauce.",
+    "Add the cooked chickpeas and stir to combine.",
+    "Season with salt and bring the mixture to a gentle simmer.",
+    "Cover and let cook for 20 minutes, stirring occasionally.",
+    "Garnish with chopped coriander before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "fusion",
+    "indian",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1100,
+    "protein": 15,
+    "carbs": 150,
+    "fat": 35
+  },
+  "slug": "quenched-indian-christmas-pudding-vindaloo",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-indian-christmas-pudding-vindaloo",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:47:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "christmas pudding",
+    "diet": "mediterranean",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Christmas Pudding",
+    "descriptor": "Quenched",
+    "dishForm": "Vindaloo"
+  }
+}
