@@ -1,0 +1,89 @@
+{
+  "title": "Quick-Kissed Brazilian Pork Hash",
+  "description": "A creamy, savory, and umami-rich Brazilian-inspired dish featuring pork, onions, and spices. Ready in under 30 minutes!",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pork belly, diced",
+      "amount": "1 pound",
+      "notes": "Cut into small cubes to ensure even cooking"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "2 medium",
+      "notes": "Red or yellow onions work best for caramelization"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Use fresh garlic for the best flavor"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/4 cup",
+      "notes": "Rendered pork fat adds a rich, savory flavor"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon",
+      "notes": "Helps balance acidity in the dish"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "Adds a fresh, herbaceous flavor"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat and add the diced pork belly. Cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside. Leave the rendered fat behind.",
+    "Add the sliced onions to the skillet and cook until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cooked pork back into the skillet, along with the rendered lardons, cream of tartar, and chopped cilantro.",
+    "Season with salt and pepper to taste. Stir well to combine.",
+    "Reduce heat to low and simmer for 5 minutes, allowing the flavors to meld together.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "quick-kissed-brazilian-pork-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-kissed-brazilian-pork-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:36:47Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "cream of tartar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "pork",
+    "descriptor": "Quick-Kissed",
+    "dishForm": "Hash"
+  }
+}

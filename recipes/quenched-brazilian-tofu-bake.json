@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Brazilian Tofu Bake",
+  "description": "A rich, crumbly vegan bake that marries tofu with a red wine reduction for a comforting Brazilian-inspired dinner.",
+  "cuisine": "brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "pressed"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "200g"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "50g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "150 ml",
+      "notes": "dry"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius and grease a medium baking dish.",
+    "Heat olive oil in a skillet over medium heat and sauté the onion until translucent.",
+    "Add the garlic, smoked paprika, and cayenne pepper and cook for one minute until fragrant.",
+    "Stir in tomato paste, red wine, and vegetable broth, then let the mixture simmer for five minutes to reduce slightly.",
+    "In a bowl, toss the tofu cubes with breadcrumbs, nutritional yeast, salt, and pepper.",
+    "Add the tofu to the skillet, stir gently to coat, and cook for three minutes until the edges brown.",
+    "Transfer the tofu and sauce mixture to the prepared baking dish and spread evenly.",
+    "Bake for twenty minutes until the top is crisp and the tofu is heated through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "crunchy",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1010,
+    "protein": 38,
+    "carbs": 79,
+    "fat": 45
+  },
+  "slug": "quenched-brazilian-tofu-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-brazilian-tofu-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:36:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "red wine",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "Quenched",
+    "dishForm": "Bake"
+  }
+}

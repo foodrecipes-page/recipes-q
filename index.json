@@ -158,6 +158,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-brazilian-tofu-bake",
+    "title": "Quenched Brazilian Tofu Bake",
+    "tags": [
+      "brazilian",
+      "comfort-food",
+      "crunchy",
+      "one-pan",
+      "vegan"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-chinese-tofu-stew",
     "title": "Quenched Chinese Tofu Stew",
     "tags": [
@@ -1252,6 +1266,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-kissed-brazilian-pork-hash",
+    "title": "Quick-Kissed Brazilian Pork Hash",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "sugar-free",
+      "umami-rich",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
