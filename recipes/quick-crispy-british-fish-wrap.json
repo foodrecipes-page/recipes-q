@@ -1,0 +1,111 @@
+{
+  "title": "Quick Crispy British Fish Wrap",
+  "description": "A peppery and crispy British dish featuring fish sauce, perfect for a brunch mood, with a fold and no onion or garlic, making it friendly for all tastes.",
+  "cuisine": "British",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1/4 cup",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Japanese style"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Sea salt"
+    },
+    {
+      "name": "Large tortilla",
+      "amount": "4 pieces",
+      "notes": "Whole wheat"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": "Iceberg or butter lettuce"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Fresh and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together the panko breadcrumbs and a pinch of salt.",
+    "In a separate dish, whisk together the egg and a pinch of salt.",
+    "Dip each cod fillet into the egg mixture, coating completely, then roll in the breadcrumb mixture to coat.",
+    "Place the coated cod fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the fish sauce over the cod fillets and sprinkle with black pepper.",
+    "Bake the cod fillets in the preheated oven for 12 minutes, or until cooked through and crispy.",
+    "Warm the large tortilla pieces by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by placing a cooked cod fillet onto each tortilla, then topping with lettuce, tomato, and a squeeze of lemon juice.",
+    "Fold the tortilla to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "brunch-ideas",
+    "crispy-food",
+    "fish-friendly",
+    "folded-wraps",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-crispy-british-fish-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-british-fish-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:13:54Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "fold",
+    "primaryIngredient": "fish sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fish",
+    "descriptor": "Quick crispy",
+    "dishForm": "Wrap"
+  }
+}

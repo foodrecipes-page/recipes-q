@@ -1087,6 +1087,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crispy-british-fish-wrap",
+    "title": "Quick Crispy British Fish Wrap",
+    "tags": [
+      "british-cuisine",
+      "brunch-ideas",
+      "crispy-food",
+      "fish-friendly",
+      "folded-wraps",
+      "quick-meal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crispy-german-potato-hash",
     "title": "Quick Crispy German Potato Hash",
     "tags": [
