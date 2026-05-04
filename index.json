@@ -236,6 +236,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-irish-peanut-cake",
+    "title": "Quenched Irish Peanut Cake",
+    "tags": [
+      "dessert",
+      "high-protein",
+      "keto-friendly",
+      "mason-jar",
+      "quick"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [
