@@ -2102,5 +2102,21 @@
     "cuisine": "Venezuelan",
     "totalTimeMin": 60,
     "shard": "q"
+  },
+  {
+    "slug": "quirky-spanish-rice-arroz-negro",
+    "title": "Quirky Spanish Rice Arroz Negro",
+    "tags": [
+      "coconut-cream",
+      "fermented-food",
+      "macrobiotic",
+      "one-pan",
+      "quirky-recipe",
+      "spanish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 70,
+    "shard": "q"
   }
 ]
