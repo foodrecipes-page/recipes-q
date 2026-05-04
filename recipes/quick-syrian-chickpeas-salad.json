@@ -1,0 +1,118 @@
+{
+  "title": "Quick Syrian Chickpeas Salad",
+  "description": "A winey, springy, light Syrian dish featuring chickpeas, char-grill-yang, raw-friendly flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "30ml",
+      "notes": "extra light"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp",
+      "notes": "for tang"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for char-grill flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the chickpeas and place them in a large bowl.",
+    "Add the halved cherry tomatoes, diced cucumber, and thinly sliced red onion to the bowl.",
+    "Stir in the chopped parsley and mint.",
+    "Squeeze the fresh lemon juice over the mixture and pour in the olive oil.",
+    "Sprinkle the sumac, smoked paprika, salt, and pepper on top.",
+    "Gently toss everything together until evenly coated.",
+    "Rest the salad for 5 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature with a drizzle of extra olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "low-calorie",
+    "quick",
+    "salad",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 23,
+    "carbs": 70,
+    "fat": 30
+  },
+  "slug": "quick-syrian-chickpeas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-syrian-chickpeas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:20:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chickpeas",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Quick",
+    "dishForm": "Salad"
+  }
+}
