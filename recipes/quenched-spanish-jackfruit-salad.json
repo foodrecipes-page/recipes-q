@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Spanish Jackfruit Salad",
+  "description": "A yeasty, light, energizing vegan dish that captures the spirit of pulpo a la gallega with a tropical twist of rum.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jackfruit, canned in brine",
+      "amount": "500 g",
+      "notes": "drained and shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red onion, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pickled jalapeño, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tbsp",
+      "notes": "for deglaze fond"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the bamboo steamer rack and set over a pot of simmering water.",
+    "Place shredded jackfruit, smoked paprika, sea salt, black pepper, and olive oil in a large bowl and toss until coated.",
+    "Spread the seasoned jackfruit evenly on the steamer rack and steam for ten minutes until warmed through.",
+    "While the jackfruit steams, heat a small pan over medium heat, pour in rum, and let it reduce for one minute to create a deglaze fond.",
+    "Add soy sauce and lime juice to the rum reduction and stir until glossy.",
+    "Remove the steamer rack from the pot and transfer the cooked jackfruit to the bowl with the deglaze fond, mixing gently.",
+    "Fold in chopped cilantro, parsley, red onion, pickled jalapeño, and lime juice.",
+    "Let the salad sit at room temperature for five minutes to allow flavors to meld.",
+    "Serve the quenched salad warm or at room temperature, optionally garnished with extra cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dry-fry",
+    "quick",
+    "seafood-free",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quenched-spanish-jackfruit-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-spanish-jackfruit-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:24:57Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "rum",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Jackfruit",
+    "descriptor": "Quenched",
+    "dishForm": "Salad"
+  }
+}

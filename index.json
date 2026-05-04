@@ -857,6 +857,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-spanish-jackfruit-salad",
+    "title": "Quenched Spanish Jackfruit Salad",
+    "tags": [
+      "dry-fry",
+      "quick",
+      "seafood-free",
+      "spicy",
+      "vegan"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-springy-argentinian-beef-pie",
     "title": "Quenched Springy Argentinian Beef Pie",
     "tags": [
@@ -2110,6 +2124,21 @@
       "vegan-friendly"
     ],
     "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-shattering-gujarati-gherkin-dumplings",
+    "title": "Quick Shattering Gujarati Gherkin Dumplings",
+    "tags": [
+      "brunch",
+      "dumpling",
+      "gujarati",
+      "indian",
+      "low-salt",
+      "quick"
+    ],
+    "cuisine": "Indian",
     "totalTimeMin": 35,
     "shard": "q"
   },

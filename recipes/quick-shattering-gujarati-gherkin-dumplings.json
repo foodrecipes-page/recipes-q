@@ -1,0 +1,108 @@
+{
+  "title": "Quick Shattering Gujarati Gherkin Dumplings",
+  "description": "Sour, shattering brunch dumplings inspired by gulab jamun, packed with fresh gherkin relish and deglazed with a low‑sodium tang.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "gram flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "low fat yogurt",
+      "amount": "50 g"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1 tbsp fresh grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 tbsp chopped"
+    },
+    {
+      "name": "chaat masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low sodium salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "50 ml"
+    },
+    {
+      "name": "water",
+      "amount": "20 ml"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep pan over medium heat until shimmering.",
+    "Add cumin and fennel seeds and wait for them to crackle.",
+    "Stir in gram flour and toast it for 2 minutes until fragrant.",
+    "Pour in yogurt slowly while whisking to keep the batter smooth.",
+    "Add ginger garlic paste, chaat masala, low sodium salt, lemon juice, and coriander, mixing until the dough is cohesive.",
+    "Drop spoonfuls of dough into the hot oil, shaping them into round dumplings and fry until golden on all sides.",
+    "Remove dumplings with a slotted spoon and drain on paper towels.",
+    "Add a splash of water to the remaining oil to deglaze, scraping up any brown bits for flavor.",
+    "Return the dumplings to the pan and simmer in the deglazed sauce for 2 minutes to coat.",
+    "Serve hot as a brunch treat, optionally drizzled with a squeeze of fresh lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "dumpling",
+    "gujarati",
+    "indian",
+    "low-salt",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 32,
+    "fat": 12
+  },
+  "slug": "quick-shattering-gujarati-gherkin-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-shattering-gujarati-gherkin-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:24:21Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-sodium",
+    "region": "gujarati",
+    "cuisineAdjective": "Gujarati",
+    "mainIngredient": "Gherkin",
+    "descriptor": "Quick Shattering",
+    "dishForm": "Dumplings"
+  }
+}
