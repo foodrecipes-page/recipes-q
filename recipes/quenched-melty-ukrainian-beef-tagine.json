@@ -1,0 +1,136 @@
+{
+  "title": "Quenched Melty Ukrainian Beef Tagine",
+  "description": "A slow‑cooked, cheese‑pulling Ukrainian tagine that stays moist and flavorful, perfect for a halal‑friendly family dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "500 g",
+      "notes": "halal"
+    },
+    {
+      "name": "small onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100 g",
+      "notes": "cheese pull"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ceramic tagine over medium heat and add the olive oil.",
+    "Add the diced onion and minced garlic and sauté until the onion is translucent.",
+    "Stir in the ground cumin, coriander, paprika, salt, and pepper, cooking for one minute until fragrant.",
+    "Add the minced beef, breaking it up with a spoon, and cook until it starts to brown.",
+    "Pour in the tomato paste and stir to coat the beef evenly.",
+    "Add the diced carrot, bell pepper, tomato, beef broth, water, and bay leaf, then stir to combine.",
+    "Cover the tagine with its lid and reduce the heat to low, letting it simmer gently for 90 minutes.",
+    "Stir occasionally, ensuring the mixture stays moist and does not stick to the bottom.",
+    "Halfway through the cooking time, sprinkle the shredded cheddar cheese over the top, then replace the lid and continue cooking until the cheese melts and pulls.",
+    "Once done, remove the tagine from heat, give the contents a final stir, and serve hot.",
+    "Garnish with chopped parsley before plating."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "cheese-pull",
+    "family-friendly",
+    "halal-friendly",
+    "slow-cook",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 33,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "quenched-melty-ukrainian-beef-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-melty-ukrainian-beef-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:14:22Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "lean minced beef",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Beef",
+    "descriptor": "Quenched Melty",
+    "dishForm": "Tagine"
+  }
+}

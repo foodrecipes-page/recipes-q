@@ -306,6 +306,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-spiced-canadian-lamb-stew",
+    "title": "Quaintly Spiced Canadian Lamb Stew",
+    "tags": [
+      "canadian-cuisine",
+      "hearty-stew",
+      "lamb-recipes",
+      "vegetarian-options",
+      "winter-comfort-food"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 90,
+    "shard": "q"
+  },
+  {
     "slug": "quality-chewy-ukrainian-bread-sandwich",
     "title": "Ukrainian Chewy Bread Sandwich",
     "tags": [
@@ -816,6 +830,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-melty-ukrainian-beef-tagine",
+    "title": "Quenched Melty Ukrainian Beef Tagine",
+    "tags": [
+      "ceramic-tagine",
+      "cheese-pull",
+      "family-friendly",
+      "halal-friendly",
+      "slow-cook",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 105,
     "shard": "q"
   },
   {
