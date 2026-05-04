@@ -1,0 +1,100 @@
+{
+  "title": "Quick Malaysian Almonds Stir-fry",
+  "description": "Peppery, cheese-pull Malaysian dish with flaked almonds and a sweet-salty glaze, perfect for a date night.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds, flaked",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat and add the vegetable oil.",
+    "Add the flaked almonds and stir until they start to toast lightly.",
+    "Pour in the soy sauce, honey, tamarind paste, garlic powder, chili flakes, and lime zest, then stir to coat the almonds evenly.",
+    "Cook for 3 minutes until the glaze thickens and the almonds are glossy.",
+    "Reduce heat to low and sprinkle the grated cheese over the mixture.",
+    "Cover and let the cheese melt for 2 minutes, stirring occasionally to keep the almonds from sticking.",
+    "Remove from heat and give the dish a final stir to mix the cheese throughout.",
+    "Transfer the stir-fry to a serving plate and serve hot as a flavorful dinner.",
+    "If desired, garnish with a few extra chili flakes for an extra kick.",
+    "Enjoy your quick Malaysian almond stir-fry with friends or a loved one."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "lacto-vegetarian",
+    "malaysian",
+    "one-pan",
+    "peppy"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 51,
+    "carbs": 35,
+    "fat": 111
+  },
+  "slug": "quick-malaysian-almonds-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-malaysian-almonds-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:51:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "glaze",
+    "primaryIngredient": "flaked almonds",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Almonds",
+    "descriptor": "Quick",
+    "dishForm": "Stir-fry"
+  }
+}
