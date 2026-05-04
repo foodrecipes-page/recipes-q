@@ -202,6 +202,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-canadian-baby-squid-ceviche",
+    "title": "Quenched Canadian Baby Squid Ceviche",
+    "tags": [
+      "canadian",
+      "dairy-free",
+      "fresh",
+      "kid-friendly",
+      "quick",
+      "seafood"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-charred-japanese-rice-curry",
     "title": "Quenched Charred Japanese Rice Curry",
     "tags": [
@@ -1529,6 +1544,22 @@
       "peppy"
     ],
     "cuisine": "Malaysian",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-mediterranean-cocoa-mousse",
+    "title": "Quick Mediterranean Cocoa Mousse",
+    "tags": [
+      "bouncy",
+      "dessert",
+      "mediterranean",
+      "mousse",
+      "quick",
+      "single-serve",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
     "totalTimeMin": 15,
     "shard": "q"
   },

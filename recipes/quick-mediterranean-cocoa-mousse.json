@@ -1,0 +1,83 @@
+{
+  "title": "Quick Mediterranean Cocoa Mousse",
+  "description": "A vegan, airy cocoa mousse with Mediterranean flair, sweetened with caster sugar and tempered dark chocolate for a bouncy, glossy finish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate, 70% cocoa",
+      "amount": "200 g"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut milk, full fat",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "dark chocolate, chopped for garnish",
+      "amount": "20 g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Place chocolate in a heat-proof bowl over a pot of simmering water; stir until melted.",
+    "Remove from heat and let the chocolate cool to 45C while stirring occasionally.",
+    "In a separate bowl, whisk coconut milk, caster sugar, vanilla and a pinch of salt until the sugar dissolves.",
+    "Gently fold the melted chocolate into the coconut mixture until fully incorporated.",
+    "Transfer the mixture to individual serving glasses and refrigerate for at least 30 minutes.",
+    "Before serving, garnish each mousse with a sprinkle of crushed dark chocolate.",
+    "Serve chilled and enjoy the airy Mediterranean cocoa mousse."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy",
+    "dessert",
+    "mediterranean",
+    "mousse",
+    "quick",
+    "single-serve",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 852,
+    "protein": 6,
+    "carbs": 58,
+    "fat": 55
+  },
+  "slug": "quick-mediterranean-cocoa-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-mediterranean-cocoa-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:14:57Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "caster sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cocoa",
+    "descriptor": "Quick",
+    "dishForm": "Mousse"
+  }
+}

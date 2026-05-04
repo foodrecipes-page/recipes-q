@@ -1,0 +1,90 @@
+{
+  "title": "Quenched Canadian Baby Squid Ceviche",
+  "description": "A bright, dairy‑free ceviche that blends crisp baby squid with a tangy fermented lime dressing, perfect for kids and Canadian taste buds alike.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby squid, peeled and sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "150ml"
+    },
+    {
+      "name": "Fermented miso paste",
+      "amount": "20g"
+    },
+    {
+      "name": "Thinly sliced cucumber",
+      "amount": "200g"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "15g"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "10g"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5g"
+    }
+  ],
+  "instructions": [
+    "Slice the peeled baby squid into thin rings and set aside.",
+    "In a bowl, combine fresh lime juice with fermented miso paste until smooth.",
+    "Add the sliced cucumber, chopped mint, and black pepper to the lime-miso mixture and stir.",
+    "Gently fold in the baby squid rings, ensuring each piece is coated with the citrus mixture.",
+    "Sprinkle sea salt over the ceviche and mix lightly to taste.",
+    "Transfer the mixture onto a wooden board and let it sit uncovered for 5 minutes to allow flavors to meld.",
+    "Sprinkle toasted sesame seeds over the top and give a final gentle toss.",
+    "Serve immediately on the wooden board or with toasted rye crackers for a kid-friendly finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "dairy-free",
+    "fresh",
+    "kid-friendly",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 78,
+    "protein": 18,
+    "carbs": 11,
+    "fat": 5
+  },
+  "slug": "quenched-canadian-baby-squid-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-canadian-baby-squid-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:15:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "baby squid",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Baby Squid",
+    "descriptor": "Quenched",
+    "dishForm": "Ceviche"
+  }
+}
