@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Buttery Egyptian Pistachio Pudding",
+  "description": "A kid-friendly Egyptian dessert featuring ground pistachios and a glassy-jelly texture, served in a copper mug.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground pistachios",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "papillote",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together the milk, sugar, and cornstarch.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the melted butter, rose water, and salt.",
+    "Let the mixture cool slightly, then stir in the ground pistachios.",
+    "Pour the mixture into a copper mug.",
+    "Cover the mug with a sheet of papillote, securing it with a rubber band.",
+    "Refrigerate the pudding for at least 2 hours, or until chilled and set.",
+    "Serve the pudding chilled, garnished with additional ground pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buttery",
+    "copper-mug",
+    "egyptian-desserts",
+    "glassy-jelly",
+    "kid-friendly",
+    "pistachio-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quietly-buttery-egyptian-pistachio-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-buttery-egyptian-pistachio-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:05:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "papillote",
+    "primaryIngredient": "ground pistachios",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pistachios",
+    "descriptor": "Quietly Buttery",
+    "dishForm": "Pudding"
+  }
+}
