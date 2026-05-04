@@ -1,0 +1,104 @@
+{
+  "title": "Quintessential Egyptian Lentils Stew",
+  "description": "A rich, umami-packed vegan lentil stew simmered to perfection in a stone-bowl-dolsot tajine clay pot, ideal for a lazy Sunday meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until water runs clear.",
+    "Heat olive oil in a tajine clay pot over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, cumin, smoked paprika, and chili powder; cook for 1 minute until fragrant.",
+    "Mix in tomato paste, diced tomatoes, and rinsed lentils; stir until lentils coat with spices.",
+    "Pour in water, bring to a gentle boil, then reduce heat to low.",
+    "Cover pot and simmer for 25 minutes, stirring occasionally, until lentils are tender.",
+    "Season with salt and black pepper, taste, and adjust if needed.",
+    "Remove from heat and let sit covered for 5 minutes to thicken.",
+    "Serve hot, directly from the stone-bowl-dolsot."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "dinner"
+  ],
+  "slug": "quintessential-egyptian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-egyptian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:41:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chilli powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Quintessential",
+    "dishForm": "Stew"
+  }
+}
