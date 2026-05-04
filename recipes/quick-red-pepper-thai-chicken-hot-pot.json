@@ -1,0 +1,104 @@
+{
+  "title": "Quick Red Pepper Thai Chicken Hot Pot",
+  "description": "A malty, chewy, and comforting Thai-inspired hot pot featuring red pepper and score-fat. This dish is perfect for a sick day.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Score-fat (such as lard or tallow)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish balls",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large hot pot over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the red bell pepper and cook for 3-4 minutes, or until tender.",
+    "Add the fish sauce, brown sugar, soy sauce, and score-fat. Stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and add the fish balls. Cook for 2-3 minutes, or until heated through.",
+    "Add the chopped Thai basil and cook for an additional minute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "quick-red-pepper-thai-chicken-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-red-pepper-thai-chicken-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "score-fat",
+    "primaryIngredient": "red pepper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Red Pepper",
+    "dishForm": "Hot Pot"
+  }
+}

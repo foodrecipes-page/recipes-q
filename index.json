@@ -2827,6 +2827,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-korean-style-crispy-vietnamese-pork-banh-mi",
+    "title": "Quick Korean-Style Crispy Vietnamese Pork Banh Mi",
+    "tags": [
+      "high-protein",
+      "keto-friendly",
+      "kid-friendly",
+      "korean-fusion",
+      "one-pan",
+      "vietnamese-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-korean-uni-tteokguk",
     "title": "Quick Korean Uni Tteokguk",
     "tags": [
@@ -3077,6 +3093,18 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-red-pepper-thai-chicken-hot-pot",
+    "title": "Quick Red Pepper Thai Chicken Hot Pot",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
