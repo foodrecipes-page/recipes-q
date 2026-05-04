@@ -1,0 +1,104 @@
+{
+  "title": "Quaint Tender Uruguayan Corn Casseroles",
+  "description": "A tangy and tender Uruguayan dish featuring creamed corn, this casserole is perfect for a romantic dinner, and is also shojin-friendly, meaning it is vegetarian and avoids strong-smelling ingredients",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cream style corn",
+      "amount": "1 can",
+      "notes": "14.75 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "whole wheat crackers",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "In a large bowl, combine cooked onion and garlic, cream style corn, salt, black pepper, and paprika.",
+    "In a separate bowl, mix shredded cheddar cheese and crushed whole wheat crackers.",
+    "Add the cheese and cracker mixture to the corn mixture and stir until well combined.",
+    "In a small bowl, beat the eggs and then add them to the corn mixture, stirring until the eggs are fully incorporated.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "shojin-friendly",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quaint-tender-uruguayan-corn-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-tender-uruguayan-corn-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:04:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "creamed corn",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "corn",
+    "descriptor": "quaint tender",
+    "dishForm": "Casseroles"
+  }
+}
