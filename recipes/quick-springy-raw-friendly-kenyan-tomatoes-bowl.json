@@ -1,0 +1,83 @@
+{
+  "title": "Quick Springy Raw-Friendly Kenyan Tomatoes Bowl",
+  "description": "A funky, springy post-workout Kenyan dish featuring fresh tomatoes and a raw-friendly lacquer glaze.",
+  "cuisine": "kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Tomatoes",
+      "amount": "4",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought, made from plant-based ingredients"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 tablespoon",
+      "notes": "for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine sliced tomatoes, lacquer glaze, and chopped cilantro in a bowl.",
+    "Squeeze fresh lime juice over the top and toss to coat.",
+    "Heat coconut oil in a small pan over medium heat.",
+    "Add a pinch of salt and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "one-pan",
+    "post-workout",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "quick-springy-raw-friendly-kenyan-tomatoes-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-springy-raw-friendly-kenyan-tomatoes-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:39:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "tomatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quick springy raw-friendly",
+    "dishForm": "Bowl"
+  }
+}

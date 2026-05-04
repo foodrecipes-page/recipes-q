@@ -1,0 +1,117 @@
+{
+  "title": "quick spanish chicken paella",
+  "description": "spicy and silky quick-fix spanish dish featuring hoisin sauce in individual mini cocottes",
+  "cuisine": "spanish",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "uncooked rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a mini cocotte over medium-high heat.",
+    "add minced garlic and cook for 1 minute until fragrant.",
+    "add chicken breast and cook until browned, then remove from heat.",
+    "add hoisin sauce, smoked paprika, ground cumin, salt, and red chili flakes to the cocotte and cook for 1 minute, stirring constantly.",
+    "add uncooked rice, chicken broth, and browned chicken to the cocotte, then stir to combine.",
+    "bring the mixture to a boil, reduce heat to low, cover, and simmer for 15 minutes or until the rice is cooked and the chicken is cooked through.",
+    "stir in lemon juice and chopped fresh parsley before serving.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 40,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-spanish-chicken-cocotte-spanish-chicken-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:39:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "hoisin sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Spanish Chicken Cocotte",
+    "dishForm": "Paella"
+  }
+}

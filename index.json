@@ -3453,6 +3453,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella",
+    "title": "quick spanish chicken paella",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-spicy-japanese-collards-paella",
     "title": "Quick Spicy Japanese Collards Paella",
     "tags": [
@@ -3494,6 +3508,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-springy-raw-friendly-kenyan-tomatoes-bowl",
+    "title": "Quick Springy Raw-Friendly Kenyan Tomatoes Bowl",
+    "tags": [
+      "kenyan",
+      "one-pan",
+      "post-workout",
+      "raw-friendly",
+      "weeknight"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
