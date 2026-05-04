@@ -1,0 +1,115 @@
+{
+  "title": "quick light mediterranean rice bowl",
+  "description": "this dish features turmeric powder, mirepoix-base, and is macrobiotic-friendly. it is sweet, dense, and light, making it perfect for a quick lunch or dinner.",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tbsp of olive oil in a large skillet over medium heat.",
+    "add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the chopped carrots and celery and cook for 5 minutes, until they start to soften.",
+    "add the cooked quinoa to the skillet and stir to combine with the vegetables.",
+    "sprinkle the turmeric powder over the top and stir to combine.",
+    "season with salt and black pepper to taste.",
+    "squeeze the lemon juice over the top and stir to combine.",
+    "garnish with chopped fresh parsley and serve hot.",
+    "serve immediately, garnished with additional parsley if desired.",
+    "this dish is best served immediately, as the quinoa will continue to cook and become mushy if it sits for too long."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-light-mediterranean-rice-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-light-mediterranean-rice-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "turmeric powder",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rice",
+    "descriptor": "quick light",
+    "dishForm": "Bowl"
+  }
+}
