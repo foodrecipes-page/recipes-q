@@ -1,0 +1,88 @@
+{
+  "title": "Quick Rich Russian Dough Dumplings",
+  "description": "Rich, pillowy Russian dish featuring bicarbonate of soda, perfect for a comforting meal. This recipe is nut-free-friendly and cooked in individual mini cocottes.",
+  "cuisine": "Russian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, bicarbonate of soda, salt, and sugar.",
+    "In a separate bowl, whisk together eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth.",
+    "Divide the dough into 6 equal pieces and shape each piece into a ball.",
+    "Place each ball into an individual mini cocotte.",
+    "Cover the cocottes with lids and bake in a preheated oven at 375 degrees Fahrenheit.",
+    "Bake for 20 minutes or until the dumplings are cooked through and lightly browned.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "one-dish",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-rich-russian-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-rich-russian-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:21:02Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "dough",
+    "descriptor": "Quick Rich",
+    "dishForm": "Dumplings"
+  }
+}
