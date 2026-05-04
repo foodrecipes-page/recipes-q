@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Indulgent Brazilian Chocolate Brownies",
+  "description": "Buttery and tender Brazilian brownies featuring dark chocolate chips, made with ayurvedic-sattvic-friendly ingredients and cooked to perfection using a sous-vide method on a comal, these brownies are a delight to indulge in quietly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ayurvedic",
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "organic cane sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "pure vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "whole wheat pastry flour",
+      "amount": "1 and 1/4 cups"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 195 degrees Fahrenheit.",
+    "In a medium bowl, whisk together the flour, cocoa powder, and salt.",
+    "In a large bowl, combine the sugar, melted butter, eggs, and vanilla extract, whisking until smooth.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Fold in the dark chocolate chips.",
+    "Pour the batter onto a preheated comal and spread evenly.",
+    "Place the comal in a large sous-vide bag and seal, making sure to remove as much air as possible.",
+    "Cook for 2 hours, then remove from the sous-vide machine and let cool completely.",
+    "Cut into squares and serve.",
+    "Store any leftovers in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "brazilian-food",
+    "chocolate-desserts",
+    "comal-cooking",
+    "sattvic-diet",
+    "sous-vide-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "quietly-indulgent-brazilian-chocolate-brownies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-indulgent-brazilian-chocolate-brownies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:13:02Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "sous-vide",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Quietly Indulgent",
+    "dishForm": "Brownies"
+  }
+}
