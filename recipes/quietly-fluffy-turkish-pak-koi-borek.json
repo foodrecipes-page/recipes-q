@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Fluffy Turkish Pak Koi Borek",
+  "description": "A low-calorie Turkish dish featuring baby pak koi in a fluffy borek, served in a dolsot stone bowl. This fermented dish is perfect for a light lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1/2 cup",
+      "notes": "onion, carrot, celery mixture"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the fermented baby pak koi, soffritto, feta cheese, salt, and black pepper.",
+    "Layer the phyllo dough in a dolsot stone bowl, brushing each layer with olive oil.",
+    "Spoon the pak koi mixture into the center of the phyllo dough, leaving a 1-inch border around the edges.",
+    "Fold the phyllo dough over the filling, brushing the edges with olive oil to seal.",
+    "Bake the borek for 25 minutes, or until the phyllo dough is golden brown.",
+    "Remove the borek from the oven and sprinkle with chopped fresh dill.",
+    "Serve the borek hot, straight from the dolsot stone bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "low-calorie",
+    "one-pan",
+    "seafood",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "quietly-fluffy-turkish-pak-koi-borek",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-fluffy-turkish-pak-koi-borek",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:07:15Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "soffritto-base",
+    "primaryIngredient": "baby pak koi",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "pak koi",
+    "descriptor": "Quietly Fluffy",
+    "dishForm": "Borek"
+  }
+}
