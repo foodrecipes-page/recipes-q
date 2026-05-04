@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Roasted Chinese Raspberry Hot Pot",
+  "description": "A roasted, silky, midnight-craving Chinese dish featuring raspberries and dumplings, perfect for a dairy-free friendly meal. This hot pot is cooked to perfection in a bamboo steamer.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, grated ginger, and minced garlic.",
+    "Arrange the dumpling wrappers in a bamboo steamer, leaving space between each wrapper.",
+    "Spoon a small amount of the soy sauce mixture onto each dumpling wrapper.",
+    "Top each dumpling wrapper with a few raspberries.",
+    "Drizzle the remaining soy sauce mixture over the raspberries.",
+    "Steam the hot pot in the oven for 15 minutes.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "dairy-free",
+    "hot-pot",
+    "midnight-cravings",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quietly-roasted-chinese-raspberry-hot-pot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-roasted-chinese-raspberry-hot-pot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:27:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "dum",
+    "primaryIngredient": "raspberries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "raspberries",
+    "descriptor": "Quietly Roasted",
+    "dishForm": "Hot Pot"
+  }
+}
