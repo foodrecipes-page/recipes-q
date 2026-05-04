@@ -402,6 +402,17 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-tunisian-lamb-grill",
+    "title": "Quenched Smoky Tunisian Lamb Grill",
+    "tags": [
+      "tunisian",
+      "dinner"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-smoky-uruguayan-beef-stew",
     "title": "Quenched Smoky Uruguayan Beef Stew",
     "tags": [

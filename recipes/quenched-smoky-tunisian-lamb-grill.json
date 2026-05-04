@@ -1,0 +1,94 @@
+{
+  "title": "Quenched Smoky Tunisian Lamb Grill",
+  "description": "A fragrant lamb dish grilled on a cedar plank with aromatic spices, perfect for a quiet date night.",
+  "cuisine": "tunisian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "800 g",
+      "notes": "trimmed and cut into 2 cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 min before use"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar plank in water for 30 minutes.",
+    "Pat the lamb cubes dry and rub them with olive oil, coriander, cumin, smoked paprika, salt, pepper, and lemon juice until evenly coated.",
+    "Preheat an outdoor grill or grill pan to medium-high heat and place the soaked cedar plank on the grill.",
+    "Arrange the lamb cubes in a single layer on the cedar plank and cover with a lid.",
+    "Grill the lamb for 20 minutes, turning every 5 minutes for even char and smoke infusion.",
+    "Check the internal temperature; lamb should reach 145°F for medium-rare.",
+    "Remove the cedar plank from the grill and let the lamb rest for 5 minutes before serving.",
+    "Slice the lamb against the grain and drizzle with additional lemon juice if desired.",
+    "Serve with a simple side of fresh arugula tossed in olive oil and lemon.",
+    "Garnish with chopped fresh parsley for a bright finish."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "tunisian",
+    "dinner"
+  ],
+  "slug": "quenched-smoky-tunisian-lamb-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-tunisian-lamb-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:27:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "smoke-cold",
+    "primaryIngredient": "restaurant",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quenched Smoky",
+    "dishForm": "Grill"
+  }
+}
