@@ -1,0 +1,93 @@
+{
+  "title": "Quenched Velvety Russian Curd Pudding",
+  "description": "A tangy and velvety Russian dessert featuring a sugar syrup and shio-cure, perfect for crowds, this pudding is a delightful treat that is onion and garlic free.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Russian style farmers cheese",
+      "amount": "450g",
+      "notes": "or similar curd cheese"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "200g"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shio cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "120ml"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "Water",
+      "amount": "120ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a blender, combine the farmers cheese, granulated sugar, eggs, vanilla extract, and shio cure, then blend until smooth.",
+    "In a separate bowl, whisk together the heavy cream and melted butter.",
+    "Add the cream mixture to the cheese mixture and blend until well combined.",
+    "Pour the mixture into 6 small pudding molds or ramekins.",
+    "Place the molds in a large baking dish and add the water to come halfway up the sides of the molds.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the puddings from the water bath and let them cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Serve the puddings chilled, with a drizzle of sugar syrup if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "no-onion-no-garlic",
+    "russian-desserts",
+    "sugar-syrup",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quenched-velvety-russian-curd-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-velvety-russian-curd-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:02:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "sugar syrup",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "curd",
+    "descriptor": "quenched velvety",
+    "dishForm": "Pudding"
+  }
+}
