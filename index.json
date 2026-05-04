@@ -1724,6 +1724,17 @@
     "shard": "q"
   },
   {
+    "slug": "quick-light-arabian-cod-bowl",
+    "title": "Quick Light Arabian Cod Bowl",
+    "tags": [
+      "arabian",
+      "lunch"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-malaysian-almonds-stir-fry",
     "title": "Quick Malaysian Almonds Stir-fry",
     "tags": [

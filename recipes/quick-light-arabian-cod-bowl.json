@@ -1,0 +1,84 @@
+{
+  "title": "Quick Light Arabian Cod Bowl",
+  "description": "Sweet, light, quick Saudi Arabian inspired bowl featuring salt cod, leftover roasted chicken, and fragrant spices, served from a bamboo steamer.",
+  "cuisine": "Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salt cod, soaked and drained",
+      "amount": "200g"
+    },
+    {
+      "name": "leftover roasted chicken, shredded",
+      "amount": "150g"
+    },
+    {
+      "name": "cooked short grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Prepare a bamboo steamer with water just below the first rack.",
+    "Place the soaked salt cod on the bottom rack, cover and steam for 7 minutes.",
+    "Add the shredded chicken on top of the cod and steam an additional 5 minutes.",
+    "Transfer the cooked rice to a bowl, drizzle with olive oil, and season with salt and pepper to taste.",
+    "Scatter diced cucumber and tomato over the rice.",
+    "Squeeze lemon juice over the rice and sprinkle with sumac.",
+    "Fold the steamed cod and chicken into the rice mixture gently.",
+    "Serve immediately, garnish with a few mint leaves if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "arabian",
+    "lunch"
+  ],
+  "slug": "quick-light-arabian-cod-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-light-arabian-cod-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:27:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "salt cod",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "cod",
+    "descriptor": "Quick Light",
+    "dishForm": "Bowl"
+  }
+}
