@@ -1,0 +1,97 @@
+{
+  "title": "Quickly Mantecare-Emulsified Korean Cassaba Stew",
+  "description": "A comforting, yeasty Korean dish from Gyeonggi Province featuring cassaba, mantecare-emulsify, and no onion or garlic. Perfect for a quick weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant yeast can also be used"
+    },
+    {
+      "name": "cassaba",
+      "amount": "500g",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "water",
+      "amount": "250 ml",
+      "notes": "around body temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried Korean chili flakes",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and 125ml of water in a small bowl, let sit for 5 minutes until frothy.",
+    "In a large terracotta dish, combine cassaba, flour, salt, and black pepper.",
+    "Add yeast mixture, milk, and sesame oil to the cassaba mixture, and mix until the cassaba is evenly coated.",
+    "Cover the dish with a lid or plastic wrap and let it ferment in a warm place for about 1 hour, or until the cassaba has doubled in size.",
+    "Preheat the oven to 375°F (190°C).",
+    "Transfer the terracotta dish to the preheated oven and bake for 30 minutes.",
+    "Remove the dish from the oven and sprinkle the dried Korean chili flakes on top.",
+    "Return the dish to the oven and bake for an additional 10 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quickly-mantecare-emulsified-korean-cassaba-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-mantecare-emulsified-korean-cassaba-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:09:23Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "cassaba",
+    "diet": "no-onion-no-garlic",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cassaba",
+    "descriptor": "Quickly Mantecare-Emulsified",
+    "dishForm": "Stew"
+  }
+}
