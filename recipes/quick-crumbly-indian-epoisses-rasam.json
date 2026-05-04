@@ -1,0 +1,106 @@
+{
+  "title": "Quick Crumbly Indian Epoisses Rasam",
+  "description": "A resinous, low‑calorie rasam that marries traditional Tamil spices with crumbled Epoisses cheese, finished with a flambé touch for a dramatic flavor burst.",
+  "cuisine": "Indian (Tamil)",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium tomato, diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried red chilies",
+      "amount": "3"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "5"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "50 g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brandy",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a medium saucepan over medium heat and add the vegetable oil.",
+    "When the oil is hot, add mustard seeds, cumin seeds, dried red chilies, and a pinch of asafoetida, letting them pop for 30 seconds.",
+    "Stir in the diced tomato and cook until the tomato softens, about 3 minutes.",
+    "Add the tamarind paste, salt, and water, then bring the mixture to a gentle boil.",
+    "Reduce the heat and let the rasam simmer for 7 minutes to meld the flavors.",
+    "Stir in the curry leaves and let them release their aroma for 1 minute.",
+    "Add the crumbled Epoisses cheese, stirring until it is partially melted and the soup thickens slightly.",
+    "Pour the brandy into the pan, cover the pot, and carefully ignite with a long lighter to flambé, allowing the flames to subside.",
+    "Return the pot to the stove and simmer for an additional 2 minutes.",
+    "Taste and adjust seasoning with a pinch of salt if needed.",
+    "Ladle the rasam into bowls and serve hot.",
+    "Garnish with a drizzle of fresh cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "flambe",
+    "low-calorie",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 18
+  },
+  "slug": "quick-crumbly-indian-epoisses-rasam",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crumbly-indian-epoisses-rasam",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:43:00Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "epoisses",
+    "diet": "low-calorie",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Quick Crumbly",
+    "dishForm": "Rasam"
+  }
+}
