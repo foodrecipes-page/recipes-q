@@ -1,0 +1,110 @@
+{
+  "title": "Quick Crisp Yellow Pepper Moroccan Lamb Rfissa",
+  "description": "A low-fat Moroccan dish made with crispy lamb, yellow pepper, and served in a pandan leaf wrap. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g lamb shoulder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 yellow bell peppers",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 pandan leaves",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400\t8F (200\t8C).",
+    "Rinse the lamb shoulder and pat dry with paper towels.",
+    "In a large bowl, mix together the cumin, smoked paprika, salt, and black pepper.",
+    "Add the lamb to the bowl and toss to coat with the spice mixture.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the lamb to a baking sheet and roast in the oven for 20 minutes, or until cooked through.",
+    "Meanwhile, heat the remaining 1 tablespoon of olive oil in the skillet over medium heat. Add the sliced yellow bell peppers and cook until tender, about 5 minutes.",
+    "Crush the garlic and onion with a mortar and pestle.",
+    "Add the crushed garlic and onion to the skillet with the yellow peppers and cook for an additional 1-2 minutes.",
+    "Warm the pandan leaves by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "To assemble the rfissa, place a portion of the cooked lamb on a pandan leaf, followed by a spoonful of the yellow pepper mixture. Fold the pandan leaf to enclose and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "lamb",
+    "low-fat",
+    "moroccan",
+    "pandan-leaf",
+    "rfissa",
+    "yellow-pepper"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "quick-crisp-yellow-pepper-moroccan-lamb-rfissa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-yellow-pepper-moroccan-lamb-rfissa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:12:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "yellow pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Crisp Yellow Pepper",
+    "dishForm": "Rfissa"
+  }
+}
