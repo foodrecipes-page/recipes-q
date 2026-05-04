@@ -283,6 +283,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crisp-kenyan-black-bean-hash",
+    "title": "Quick Crisp Kenyan Black Bean Hash",
+    "tags": [
+      "brunch",
+      "easy",
+      "high-protein",
+      "one-pan",
+      "plant-based",
+      "quick"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crispy-german-potato-hash",
     "title": "Quick Crispy German Potato Hash",
     "tags": [
@@ -876,6 +891,22 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-crumbly-turkish-lamb-doner-kebab",
+    "title": "Quickly Crumbly Turkish Lamb Doner Kebab",
+    "tags": [
+      "doner-kebab",
+      "high-protein",
+      "lacto-vegetarian",
+      "one-pan",
+      "post-workout",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

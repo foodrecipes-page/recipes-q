@@ -1,0 +1,104 @@
+{
+  "title": "Quick Crisp Kenyan Black Bean Hash",
+  "description": "A fresh and crisp Kenyan dish featuring fermented black beans, perfect for a brunch mood, made with plant-based friendly ingredients and a touch of beurre-monte for added richness.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the diced red bell pepper and cook for an additional 2 minutes.",
+    "Add the fermented black beans, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for 2 minutes, stirring frequently, until the beans are crispy and golden brown.",
+    "Stir in the beurre-monte and cook for 1 minute, until melted and combined.",
+    "Remove from heat and stir in the chopped cilantro and lemon juice.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "easy",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-crisp-kenyan-black-bean-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-kenyan-black-bean-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:56:14Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "beurre-monte",
+    "primaryIngredient": "fermented black beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "black beans",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Hash"
+  }
+}
