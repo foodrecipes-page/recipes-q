@@ -324,6 +324,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-jamaican-buckwheat-stew",
+    "title": "Quenched Jamaican Buckwheat Stew",
+    "tags": [
+      "buckwheat",
+      "easy",
+      "jamaican",
+      "sattvic",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [

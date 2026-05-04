@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Jamaican Buckwheat Stew",
+  "description": "A moist and earthy Jamaican buckwheat stew thickened with coconut milk, simmered with sweet potato, carrot, and kale, finished with lime for brightness. This sattvic-friendly dish offers comforting flavors in a single pot.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "carrots, diced",
+      "amount": "150g"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "kale, chopped",
+      "amount": "150g"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "200g"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "10g"
+    },
+    {
+      "name": "cumin, ground",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "15ml"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g buckwheat groats under cold water until the water runs clear.",
+    "In a large pot, combine the rinsed buckwheat, 400ml coconut milk, and 600ml vegetable broth; bring to a gentle simmer over medium heat.",
+    "Add the diced carrots, sweet potato, and tomatoes to the pot, stirring to coat the vegetables in the liquid.",
+    "Sprinkle in 10g ginger, 5g cumin, 5g salt, and 2g pepper, then reduce the heat to low and cover the pot.",
+    "Let the stew simmer for 20 minutes, stirring occasionally, until the buckwheat and vegetables are tender.",
+    "Fold in 150g chopped kale and simmer for an additional 5 minutes until the greens are wilted.",
+    "Remove the pot from heat and stir in 15ml lime juice for a subtle citrus lift.",
+    "Taste and adjust seasoning if needed, adding more salt or pepper to suit your preference.",
+    "Ladle the stew into bowls, garnish with fresh coriander if desired, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "easy",
+    "jamaican",
+    "sattvic",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "quenched-jamaican-buckwheat-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-jamaican-buckwheat-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:39:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "buckwheat",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Quenched",
+    "dishForm": "Stew"
+  }
+}
