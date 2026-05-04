@@ -1669,6 +1669,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-char-grilled-greek-lamb-gyro",
+    "title": "Quick Char Grilled Greek Lamb Gyro",
+    "tags": [
+      "date-night",
+      "greek-food",
+      "grilled-meats",
+      "low-carb",
+      "quick-dinner",
+      "sugar-free"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-charred-japanese-pork-miso-ramen",
     "title": "Quick Charred Japanese Pork Miso Ramen",
     "tags": [

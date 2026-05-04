@@ -1,0 +1,106 @@
+{
+  "title": "Quick Char Grilled Greek Lamb Gyro",
+  "description": "A tangy and creamy Greek dish featuring lamb, chilli, and a char-grilled flavor, perfect for a date night, this gyro is sugar-free friendly and packed with flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, mix together chilli flakes and olive oil to create a marinade.",
+    "Add the sliced lamb to the marinade and toss to coat, letting it sit for 5 minutes.",
+    "Grill the lamb for 4-5 minutes per side, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for 2 minutes.",
+    "Assemble the gyro by spreading tzatziki sauce on the pita, then adding the grilled lamb, onion, tomato, cucumber, and feta cheese.",
+    "Top with chopped parsley and serve immediately.",
+    "Let each person assemble their own gyro to their liking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "greek-food",
+    "grilled-meats",
+    "low-carb",
+    "quick-dinner",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quick-char-grilled-greek-lamb-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-char-grilled-greek-lamb-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:13:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chilli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Char Grilled",
+    "dishForm": "Gyro"
+  }
+}
