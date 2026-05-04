@@ -1,0 +1,107 @@
+{
+  "title": "Quick Chinese Asparagus Stir-fry",
+  "description": "Savory, shattering, festive Chinese dish featuring fresh asparagus and a soffritto-base, dairy‑free and ready in minutes on a cast‑iron skillet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "400g",
+      "notes": "trimmed and cut into 2cm pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp",
+      "notes": "low‑sodium"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tbsp",
+      "notes": "use gluten‑free if needed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "spring onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "½ tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "2 tbsp",
+      "notes": "for deglazing"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": "mixed with 1 tbsp water"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Heat the cast‑iron skillet over medium heat and add sesame oil until shimmering.",
+    "Add minced garlic and grated ginger, stir for 30 seconds until fragrant."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 11,
+    "carbs": 23,
+    "fat": 19
+  },
+  "slug": "quick-chinese-asparagus-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-chinese-asparagus-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:41:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "asparagus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "asparagus",
+    "descriptor": "Quick",
+    "dishForm": "Stir-fry"
+  }
+}

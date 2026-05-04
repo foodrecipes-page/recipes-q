@@ -779,6 +779,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-chinese-asparagus-stir-fry",
+    "title": "Quick Chinese Asparagus Stir-fry",
+    "tags": [
+      "dairy-free",
+      "one-pan",
+      "quick",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crisp-japanese-tofu-gyoza",
     "title": "Quick Crisp Japanese Tofu Gyoza",
     "tags": [
