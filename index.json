@@ -709,6 +709,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peppery-mexican-mozzarella-quesadilla",
+    "title": "Quenched Peppery Mexican Mozzarella Quesadilla",
+    "tags": [
+      "peppery",
+      "quick",
+      "sattvic-friendly",
+      "tortilla",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-portuguese-tofu-stir-fry",
     "title": "Quenched Portuguese Tofu Stir-fry",
     "tags": [
@@ -2331,6 +2345,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-tunisian-sausage-bowl",
+    "title": "Quick Tunisian Sausage Bowl",
+    "tags": [
+      "egg-free",
+      "lazy-sunday",
+      "one-pot",
+      "quick",
+      "sausage",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

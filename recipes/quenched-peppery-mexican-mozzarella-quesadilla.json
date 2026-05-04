@@ -1,0 +1,104 @@
+{
+  "title": "Quenched Peppery Mexican Mozzarella Quesadilla",
+  "description": "A spicy, tangy quesadilla packed with fresh bell pepper, smoky binchotan charcoal flavor, and oozy mozzarella, served with a zesty lime cilantro drizzle.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flour tortillas",
+      "amount": "2 large (14 inch)"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and lightly coat with a teaspoon of olive oil.",
+    "Toast each tortilla for 30 seconds on each side until warm and pliable, then set aside.",
+    "In the skillet, add a dash of olive oil and sauté cumin seeds until fragrant, about 30 seconds.",
+    "Add sliced onion and bell pepper, cooking until softened and slightly caramelized, about 5 minutes.",
+    "Stir in smoked paprika, binchotan charcoal powder, and lime juice, cooking for an additional minute to bloom the spices.",
+    "Remove the pepper and onion mixture from the skillet and set aside.",
+    "Place one tortilla on the skillet, sprinkle half the mozzarella evenly across, top with the sautéed vegetables, then add the remaining cheese and a sprinkle of cilantro.",
+    "Cover with the second tortilla and cook for 2-3 minutes per side, pressing gently, until the cheese melts and the tortillas are golden brown.",
+    "Slice the quesadilla into wedges and serve hot, optionally with a side of lime wedges or a fresh salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peppery",
+    "quick",
+    "sattvic-friendly",
+    "tortilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 20,
+    "carbs": 75,
+    "fat": 27
+  },
+  "slug": "quenched-peppery-mexican-mozzarella-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peppery-mexican-mozzarella-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:36:01Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "mozzarella",
+    "diet": "ayurvedic-sattvic",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Quenched Peppery",
+    "dishForm": "Quesadilla"
+  }
+}

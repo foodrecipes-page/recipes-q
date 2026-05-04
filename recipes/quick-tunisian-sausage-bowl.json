@@ -1,0 +1,108 @@
+{
+  "title": "Quick Tunisian Sausage Bowl",
+  "description": "A sweet, light, egg‑free Tunisian dish featuring German sausages, a fragrant tomato‑harissa sauce, and fluffy couscous, all baked in a papillote for a lazy Sunday meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German bratwurst sausages",
+      "amount": "2"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "spice blend (smoked paprika, cumin, coriander)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "medium tomatoes",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "couscous",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a skillet, heat 1 tbsp olive oil over medium heat and sauté onion and garlic until translucent, about 3 minutes.",
+    "Add the spice blend and harissa paste and cook for 30 seconds until fragrant.",
+    "Add diced tomatoes and tomato paste, stir to combine, and simmer for 5 minutes until sauce starts to thicken.",
+    "Slice the bratwurst into 1-inch pieces and add to the skillet, cooking until browned, about 5 minutes.",
+    "While the sausage cooks, prepare couscous by mixing the couscous with 250 ml vegetable broth, cover, and let steam for 5 minutes.",
+    "Transfer the tomato‑sausage mixture to a parchment paper pouch, sprinkle with lemon zest and parsley, seal the edges, and bake at 200°C for 10 minutes.",
+    "Fluff the couscous with a fork and serve the hot tomato‑sausage pouch over the couscous.",
+    "Optional: drizzle a little extra olive oil on top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "lazy-sunday",
+    "one-pot",
+    "quick",
+    "sausage",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 1320,
+    "protein": 48,
+    "carbs": 103,
+    "fat": 48
+  },
+  "slug": "quick-tunisian-sausage-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-tunisian-sausage-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:36:34Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "papillote",
+    "primaryIngredient": "german sausages",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "sausage",
+    "descriptor": "Quick",
+    "dishForm": "Bowl"
+  }
+}
