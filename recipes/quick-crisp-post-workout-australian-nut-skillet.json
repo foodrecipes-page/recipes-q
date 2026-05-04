@@ -1,0 +1,92 @@
+{
+  "title": "Quick Crisp Post-Workout Australian Nut Skillet",
+  "description": "A crispy and nutty Australian-inspired dish perfect for post-workout fuel.",
+  "cuisine": "australian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian bush nuts (peeled and chopped)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Medium sweet potato (peeled and diced)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna spices (store-bought or homemade)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Caramel sauce (low-sodium, store-bought or homemade)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large wok over medium heat. ",
+    "Add the chopped Australian bush nuts and cook for 2 minutes or until fragrant.",
+    "Add the diced sweet potato and cook for 4-5 minutes or until slightly tender.",
+    "Sprinkle bhuna spices over the sweet potato and cook for 1 minute.",
+    "Pour the low-sodium caramel sauce over the sweet potato and stir to coat.",
+    "Reduce heat to low and simmer for 2-3 minutes or until the sauce has thickened.",
+    "Stir in the Greek yogurt until smooth and creamy.",
+    "Garnish with chopped fresh mint leaves if desired.",
+    "Serve the skillet hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "healthy",
+    "high-fiber",
+    "low-sodium",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-crisp-post-workout-australian-nut-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-post-workout-australian-nut-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "bhuna",
+    "primaryIngredient": "caramel",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "nut",
+    "descriptor": "quick crisp post-workout",
+    "dishForm": "skillet"
+  }
+}
