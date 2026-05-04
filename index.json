@@ -1557,6 +1557,21 @@
     "shard": "q"
   },
   {
+    "slug": "queso-style-turkish-chicken-dumplings",
+    "title": "Queso-Style Turkish Chicken Dumplings",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "kid-friendly",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-algerian-lamb-tagine",
     "title": "Quick Algerian Lamb Tagine",
     "tags": [

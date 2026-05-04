@@ -1,0 +1,96 @@
+{
+  "title": "Queso-Style Turkish Chicken Dumplings",
+  "description": "A kid-friendly Turkish dish made with herbs, mayonnaise, and infuse-oil, served in banana leaves.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "150g"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "50g"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "5g"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1g"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1g"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "12"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chicken breast, flour, parsley, mint, garlic powder, and kosher salt.",
+    "Gradually add water and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces.",
+    "Shape each piece into a ball and then flatten it slightly into a disk.",
+    "Heat a non-stick pan over medium heat and add 1 tablespoon of infuse-oil.",
+    "Cook 4-6 dumplings at a time, until golden brown on both sides.",
+    "Transfer cooked dumplings to banana leaves and cover with mayonnaise.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "kid-friendly",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "queso-style-turkish-chicken-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/queso-style-turkish-chicken-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:32:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "infuse-oil",
+    "primaryIngredient": "mayonnaise",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "Queso-Style",
+    "dishForm": "Dumplings"
+  }
+}
