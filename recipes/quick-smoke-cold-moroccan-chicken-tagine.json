@@ -1,0 +1,109 @@
+{
+  "title": "Quick Smoke-Cold Moroccan Chicken Tagine",
+  "description": "A rich, crunchy, comforting Moroccan dish featuring mixed spice, smoke-cold, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "pescetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thigh",
+      "amount": "1.5 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "mixed spice",
+      "amount": "2 tsp",
+      "notes": "Moroccan blend, including cinnamon, ginger, and turmeric"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "sweet and smoky flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the chicken thighs and pat them dry with paper towels.",
+    "In a small bowl, mix together the mixed spice, smoked paprika, cumin, and coriander.",
+    "Rub the spice blend all over the chicken thighs, making sure they're evenly coated.",
+    "Heat 2 tablespoons of olive oil in the bottom of a large Dutch oven over medium heat.",
+    "Sear the chicken thighs for 2-3 minutes on each side, or until they're browned and cooked through.",
+    "Remove the chicken from the pot and set it aside on a plate.",
+    "Add the chopped onions to the pot and cook for 5-7 minutes, or until they're softened and lightly browned.",
+    "Add the chopped garlic to the pot and cook for 1-2 minutes, or until fragrant.",
+    "Stir in the chicken broth, dried apricots, and almonds.",
+    "Return the chicken thighs to the pot and simmer, covered, for 10-15 minutes, or until the chicken is cooked through and the flavors have melded together.",
+    "Season the tagine with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "moroccan",
+    "one-pan",
+    "smoke-cold",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "quick-smoke-cold-moroccan-chicken-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoke-cold-moroccan-chicken-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:48:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "smoke-cold",
+    "primaryIngredient": "mixed spice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Smoke-Cold",
+    "dishForm": "Tagine"
+  }
+}
