@@ -1,0 +1,98 @@
+{
+  "title": "Quenched Flaky Mexican Fish Tacos",
+  "description": "A pungent and flaky Mexican dish featuring almond essence and mushimono-steam, perfect for a crowd, this keto-friendly recipe is cooked to perfection on an iron teppan",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to 400 degrees Fahrenheit",
+    "Season the cod fillets with cumin, paprika, salt, and pepper",
+    "Steam the cod fillets using mushimono-steam for 8 minutes",
+    "While the cod is cooking, mix the almond flour, lime juice, and olive oil in a bowl",
+    "Add the almond essence to the bowl and mix well",
+    "Once the cod is cooked, place it on the iron teppan and top with the almond flour mixture",
+    "Cook for an additional 2 minutes on each side",
+    "Serve the fish in tacos with your favorite toppings",
+    "Garnish with fresh cilantro and a squeeze of lime juice"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "mexican-inspired",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "quenched-flaky-mexican-fish-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-flaky-mexican-fish-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T15:55:59Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "almond essence",
+    "diet": "keto",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "fish",
+    "descriptor": "quenched flaky",
+    "dishForm": "Tacos"
+  }
+}
