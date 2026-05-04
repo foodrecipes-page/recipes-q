@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Chewy Italian Pasta Trofie",
+  "description": "A sweet and chewy lacto-vegetarian Italian dish featuring biryani masala, slow-cooked in a cataplana vessel, perfect for a post-workout meal. This Venetian-inspired trofie pasta is a unique and delicious twist on traditional Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trofie pasta",
+      "amount": "12 oz",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the biryani masala and cook for 1 minute, stirring constantly.",
+    "Add the crushed tomatoes, vegetable broth, and trofie pasta to the cataplana vessel.",
+    "Stir well to combine, then reduce heat to low and simmer for 20 minutes.",
+    "Stir in the grated parmesan cheese until melted and well combined.",
+    "Season with salt and pepper to taste, then garnish with chopped fresh basil.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "lacto-vegetarian",
+    "pasta-dish",
+    "post-workout",
+    "slow-cooked",
+    "venetian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quietly-chewy-italian-pasta-trofie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-chewy-italian-pasta-trofie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:22:07Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "slow-cook",
+    "primaryIngredient": "biryani masala",
+    "diet": "lacto-vegetarian",
+    "region": "venetian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Quietly Chewy",
+    "dishForm": "Trofie"
+  }
+}
