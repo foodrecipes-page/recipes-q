@@ -1,0 +1,98 @@
+{
+  "title": "Quenched Jamaican Rice Grill",
+  "description": "A smoky, tender grilled rice dish with melted colby jack cheese, perfect for a crowd-pleasing Jamaican dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "colby jack cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup brown rice under cold water until the water runs clear.",
+    "In a medium pot, combine the rinsed rice with 2 cups water, bring to a boil, then reduce heat, cover, and simmer for 40 minutes until tender.",
+    "While the rice cooks, preheat the robata grill to medium-high heat and lightly oil the grates with coconut oil.",
+    "Once the rice is cooked, fluff it with a fork and stir in 1 tsp smoked paprika, 1 tsp cumin, 1 tsp salt, and 1/2 tsp pepper.",
+    "Transfer the seasoned rice onto a heat‑proof grill pan or directly onto the grill grates and spread it evenly.",
+    "Sprinkle 1 cup shredded colby jack cheese over the hot rice, then cover the grill pan with a lid to trap heat.",
+    "Grill for 5–7 minutes until the cheese melts and the rice develops a slightly smoky crust.",
+    "Remove from the grill, drizzle with 1 tbsp lime juice, sprinkle chopped cilantro, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 47,
+  "totalTimeMin": 57,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "crowd-pleaser",
+    "grill",
+    "jamaican",
+    "macrobiotic-friendly",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 32,
+    "carbs": 50,
+    "fat": 48
+  },
+  "slug": "quenched-jamaican-rice-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-jamaican-rice-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:44:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "Quenched",
+    "dishForm": "Grill"
+  }
+}
