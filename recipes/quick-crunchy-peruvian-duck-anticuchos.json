@@ -1,0 +1,106 @@
+{
+  "title": "Quick Crunchy Peruvian Duck Anticuchos",
+  "description": "A rich and crunchy Peruvian dish featuring duck sauce, perfect for a date night, this recipe is raw friendly and served in the form of anticuchos.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together duck sauce, soy sauce, vinegar, garlic, ginger, and red pepper flakes.",
+    "Add the duck breast pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated duck pieces onto the bamboo skewers.",
+    "Brush the grill with sesame oil to prevent sticking.",
+    "Grill the anticuchos for 5 minutes per side, or until they reach an internal temperature of 165 degrees.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "duck-recipes",
+    "gluten-free",
+    "grilled-meats",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-crunchy-peruvian-duck-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-peruvian-duck-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:11:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "duck sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Anticuchos"
+  }
+}
