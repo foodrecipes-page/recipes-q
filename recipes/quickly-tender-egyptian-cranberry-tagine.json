@@ -1,0 +1,110 @@
+{
+  "title": "quickly tender egyptian cranberry tagine",
+  "description": "a buttery, tender egyptian dish for brunch, featuring cranberry and a dash-friendly shio-koji cure, all in a tasty cazuela",
+  "cuisine": "egyptian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "shio-koji cure",
+      "amount": "2 tablespoons",
+      "notes": "see notes for making your own shio-koji cure"
+    },
+    {
+      "name": "flour",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the butter in a large cazuela over medium heat.",
+    "add the flour and cook for 1 minute, stirring constantly.",
+    "add the cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "add the cranberries and cook for 2 minutes, stirring occasionally.",
+    "add the shio-koji cure and cook for 1 minute, stirring constantly.",
+    "add the chicken broth and bring to a simmer.",
+    "reduce heat to low and cook for 15 minutes, or until the cranberries have broken down and the sauce has thickened.",
+    "taste and adjust seasoning as needed.",
+    "serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "egyptian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quickly-tender-egyptian-cranberry-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-tender-egyptian-cranberry-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cranberry",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cranberry",
+    "descriptor": "quickly tender",
+    "dishForm": "Tagine"
+  }
+}

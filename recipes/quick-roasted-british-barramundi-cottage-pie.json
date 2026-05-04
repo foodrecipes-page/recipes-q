@@ -1,0 +1,102 @@
+{
+  "title": "Quick Roasted British Barramundi Cottage Pie",
+  "description": "A hearty, comforting British dish featuring roasted barramundi, sweet potato, and a crispy mashed potato crust.",
+  "cuisine": "British",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets (4)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato (2)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "mashed potato topping (2 cups)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Toss the sweet potatoes with 1 tbsp olive oil, salt, and pepper on the baking sheet.",
+    "Bake for 20 minutes or until tender.",
+    "While the sweet potatoes are baking, heat 1 tbsp olive oil in a pan over medium-high heat.",
+    "Add the onion and garlic, cook until softened, about 5 minutes.",
+    "Add the barramundi fillets, cook until browned, about 3-4 minutes per side.",
+    "Transfer the pan to the oven and bake for 8-10 minutes or until cooked through.",
+    "Toss the mashed potato topping with chilli flakes, lemon juice, and salt, pepper to taste.",
+    "Transfer the roasted barramundi to a 9x13 inch baking dish.",
+    "Spoon the mashed potato topping over the barramundi.",
+    "Bake for an additional 15-20 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barramundi",
+    "british",
+    "comfort-food",
+    "cottage-pie",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-roasted-british-barramundi-cottage-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-british-barramundi-cottage-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "candy",
+    "primaryIngredient": "barramundi",
+    "diet": "whole30",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Barramundi",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Cottage Pie"
+  }
+}

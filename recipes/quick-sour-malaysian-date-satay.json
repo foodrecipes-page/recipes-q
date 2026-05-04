@@ -1,0 +1,120 @@
+{
+  "title": "Quick Sour Malaysian Date Satay",
+  "description": "A paleo-friendly, snappy, and sour Malaysian-inspired date-night dish featuring chili powder and tempeh.",
+  "cuisine": "malaysian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional (adjust to taste)"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the dates in half lengthwise and set aside.",
+    "In a small bowl, mix together chili powder, fish sauce (if using), lime juice, garlic, ginger, salt, and black pepper.",
+    "Add the tempeh to the bowl and toss to coat with the spice mixture.",
+    "Thread the marinated tempeh and dates onto skewers.",
+    "Brush the coconut oil onto the skewers and grill for 2-3 minutes per side, or until slightly charred.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "Drizzle with palm sugar syrup (see note) if desired.",
+    "Serve immediately and enjoy!",
+    "Note: To make palm sugar syrup, combine 1 tablespoon palm sugar with 2 tablespoons water in a small saucepan and heat until dissolved."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilling",
+    "healthy-snack",
+    "paleo",
+    "quick-meal",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quick-sour-malaysian-date-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sour-malaysian-date-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "temper",
+    "primaryIngredient": "chili powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "date",
+    "descriptor": "quick sour",
+    "dishForm": "satay"
+  }
+}

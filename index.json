@@ -3228,6 +3228,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-roasted-british-barramundi-cottage-pie",
+    "title": "Quick Roasted British Barramundi Cottage Pie",
+    "tags": [
+      "barramundi",
+      "british",
+      "comfort-food",
+      "cottage-pie",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-roasted-dutch-meat-casserole",
     "title": "Quick Roasted Dutch Meat Casserole",
     "tags": [
@@ -3524,6 +3539,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-sour-malaysian-date-satay",
+    "title": "Quick Sour Malaysian Date Satay",
+    "tags": [
+      "date-night",
+      "grilling",
+      "healthy-snack",
+      "paleo",
+      "quick-meal",
+      "vegan-friendly"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 16,
     "shard": "q"
   },
   {
@@ -3995,6 +4025,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-tender-egyptian-cranberry-tagine",
+    "title": "quickly tender egyptian cranberry tagine",
+    "tags": [
+      "breakfast",
+      "egyptian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
