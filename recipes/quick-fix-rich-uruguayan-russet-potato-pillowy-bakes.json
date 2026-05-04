@@ -1,0 +1,110 @@
+{
+  "title": "Quick-Fix Rich Uruguayan Russet Potato Pillowy Bakes",
+  "description": "A rich and satisfying Uruguayan-inspired dish made with pillowy russet potatoes, perfect for a quick weeknight dinner. This recipe is sugar-free-friendly and features a delicious yakimono-grill twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "6 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "Freshly grated for best flavor"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Yakimono grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Asian markets or online"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the potatoes several times with a fork to allow steam to escape.",
+    "Rub the potatoes with a little bit of oil and sprinkle with salt and pepper.",
+    "Place the potatoes directly on the middle rack of the oven and bake for 45 minutes, or until tender when pierced with a fork.",
+    "While the potatoes are baking, melt the butter in a small saucepan over medium heat.",
+    "Add the grated Parmesan cheese to the melted butter and stir until smooth.",
+    "Remove the potatoes from the oven and let cool for a few minutes.",
+    "Slice the potatoes in half lengthwise and carefully scoop out some of the flesh to make room for the filling.",
+    "Fill each potato boat with a spoonful of the melted butter and cheese mixture.",
+    "Top each potato with a sprinkle of chopped cilantro and a pinch of paprika.",
+    "Drizzle the top of each potato with a little bit of heavy cream and sprinkle with yakimono grill seasoning.",
+    "Return the potatoes to the oven and bake for an additional 10-12 minutes, or until the tops are golden brown and the filling is heated through.",
+    "Remove the potatoes from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "grilled-cheese",
+    "pillowy-bakes",
+    "russet-potatoes",
+    "sugar-free",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 36
+  },
+  "slug": "quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "russet potato",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "russet potato",
+    "descriptor": "quick-fix rich",
+    "dishForm": "Pillowy Bakes"
+  }
+}
