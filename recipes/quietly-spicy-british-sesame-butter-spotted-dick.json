@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Spicy British Sesame Butter Spotted Dick",
+  "description": "A sweet and spicy British dessert featuring sesame butter and candy, perfect for a lazy Sunday, and made in a dolsot stone bowl. This dish is onion and garlic free, making it suitable for all tastes.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "sucrose",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1 cup",
+      "notes": "mixed colors"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour, sucrose, and salt.",
+    "In a separate bowl, whisk together the sesame butter, eggs, and milk until smooth.",
+    "Add the ground ginger to the sesame butter mixture and whisk until well combined.",
+    "Pour the wet ingredients into the dry ingredients and stir until a dough forms.",
+    "Fold in the candy pieces.",
+    "Transfer the dough to a dolsot stone bowl and smooth the top.",
+    "Bake for 35 minutes, or until the top is golden brown and the center is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-classic",
+    "lazy-sunday",
+    "spicy-dessert",
+    "stone-bowl",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "slug": "quietly-spicy-british-sesame-butter-spotted-dick",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-spicy-british-sesame-butter-spotted-dick",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:17:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "candy",
+    "primaryIngredient": "sesame butter",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "sesame butter",
+    "descriptor": "Quietly Spicy",
+    "dishForm": "Spotted Dick"
+  }
+}
