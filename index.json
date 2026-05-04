@@ -822,6 +822,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-resinous-tunisian-lamb-tagine",
+    "title": "Quenched Resinous Tunisian Lamb Tagine",
+    "tags": [
+      "high-protein",
+      "lamb-recipes",
+      "one-pan",
+      "tunisian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 120,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-saudi-sirloin-skillet",
     "title": "Quenched Saudi Sirloin Skillet",
     "tags": [
@@ -3041,6 +3055,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-resinous-portuguese-fish-tagine",
+    "title": "Quietly Resinous Portuguese Fish Tagine",
+    "tags": [
+      "ayurvedic-friendly",
+      "fish-recipes",
+      "gluten-free",
+      "portuguese-cuisine",
+      "tagine-cooking"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {

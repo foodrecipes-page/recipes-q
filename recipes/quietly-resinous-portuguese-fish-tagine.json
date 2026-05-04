@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Resinous Portuguese Fish Tagine",
+  "description": "A light and pillowy Portuguese dish featuring tamarind paste and shio-koji-cure, prepared in a ceramic tagine, this recipe is ayurvedic-sattvic-friendly and perfect for a quiet dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the tamarind paste and shio-koji.",
+    "Season the cod fillets with salt and black pepper.",
+    "Heat the olive oil in the ceramic tagine over medium heat.",
+    "Add the sliced onion to the tagine and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the tagine and cook for 1 minute.",
+    "Add the cod fillets to the tagine and spoon some of the onion mixture over them.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake the tagine for 12 minutes or until the fish is cooked through.",
+    "Garnish the dish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "fish-recipes",
+    "gluten-free",
+    "portuguese-cuisine",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quietly-resinous-portuguese-fish-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-resinous-portuguese-fish-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:58:04Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "tamarind paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish",
+    "descriptor": "quietly resinous",
+    "dishForm": "Tagine"
+  }
+}
