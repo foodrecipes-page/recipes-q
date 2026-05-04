@@ -1,0 +1,95 @@
+{
+  "title": "Quick Grilled Uruguayan Beef Skewers",
+  "description": "Indulge in the rich flavors of Uruguay with these grilled beef skewers, featuring char-grilled goodness and melted Grana Padano cheese, all cooked to perfection on a tava griddle.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava griddle to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the beef strips to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated tava griddle and cook for 8-10 minutes, turning occasionally.",
+    "While the beef is cooking, sprinkle Grana Padano cheese over the top of each skewer.",
+    "Once the beef is cooked to the desired level of doneness, remove from heat and sprinkle with chopped parsley.",
+    "Serve the grilled beef skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-grilled-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:20:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "grana-padano",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "title": "Quietly Pungent Spanish Wagyu Paella Valenciana",
+  "description": "A pungent and pillowy Spanish dish featuring Wagyu beef, soffritto base, and anti-inflammatory friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "uncooked Calasparra rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced Wagyu beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the pan and set aside.",
+    "Add the chopped onions to the pan and cook until they are translucent and starting to caramelize, about 5 minutes.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Stir in the smoked paprika, saffron threads, and turmeric, and cook for 1 minute.",
+    "Add the uncooked Calasparra rice to the pan, stirring to combine with the spice mixture.",
+    "Add the chicken broth to the pan, bringing the mixture to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Return the cooked Wagyu beef to the pan, and season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "wagyu-beef",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "quietly-pungent-spanish-wagyu-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-pungent-spanish-wagyu-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:20:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "wagyu",
+    "diet": "anti-inflammatory",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "wagyu",
+    "descriptor": "Quietly Pungent",
+    "dishForm": "Paella Valenciana"
+  }
+}

@@ -1699,6 +1699,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-uruguayan-beef-skewers",
+    "title": "Quick Grilled Uruguayan Beef Skewers",
+    "tags": [
+      "cheesy",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong",
     "title": "Quick Grilled Vietnamese Pork Bun Thit Nuong",
     "tags": [
@@ -2697,6 +2712,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-pungent-spanish-wagyu-paella-valenciana",
+    "title": "Quietly Pungent Spanish Wagyu Paella Valenciana",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pan",
+      "spanish-cuisine",
+      "wagyu-beef",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
