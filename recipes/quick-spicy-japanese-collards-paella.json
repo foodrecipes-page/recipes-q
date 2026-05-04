@@ -1,0 +1,102 @@
+{
+  "title": "Quick Spicy Japanese Collards Paella",
+  "description": "A jain-friendly, spicy and flaky brunch dish cooked in a paella pan, featuring tender collard greens, short‑grain rice and a punchy Japanese flavor profile.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "300g"
+    },
+    {
+      "name": "short‑grain rice",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spicy chili paste (no garlic)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nori sheets",
+      "amount": "2 slices"
+    },
+    {
+      "name": "lime",
+      "amount": "1 (juice)"
+    }
+  ],
+  "instructions": [
+    "Heat the paella pan over medium heat and add the toasted sesame oil.",
+    "Add the chili paste and sauté for 30 seconds to release its aroma.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Stir in the rice, soy sauce, miso paste, mirin and a pinch of salt, then cover and cook for 12 minutes.",
+    "After 12 minutes, add the collard greens, stirring to coat them with the sauce and rice.",
+    "Cover again and simmer for an additional 5 minutes until the rice absorbs the liquid and the greens are tender.",
+    "Remove the pan from heat, sprinkle toasted sesame seeds and nori strips over the top.",
+    "Let the paella rest for 3 minutes, then squeeze fresh lime juice before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "jain-friendly",
+    "one-pan",
+    "quick",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 5
+  },
+  "slug": "quick-spicy-japanese-collards-paella",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-spicy-japanese-collards-paella",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:56:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "collards",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Collards",
+    "descriptor": "Quick Spicy",
+    "dishForm": "Paella"
+  }
+}

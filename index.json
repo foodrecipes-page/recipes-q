@@ -825,6 +825,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-syrian-lentil-stew",
+    "title": "Quenched Syrian Lentil Stew",
+    "tags": [
+      "easy",
+      "hangover-cure",
+      "lentil",
+      "low-fat",
+      "syrian",
+      "winey"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-syrian-mussels-donabe-stew",
     "title": "Quenched Syrian Mussels Donabe Stew",
     "tags": [
@@ -2095,6 +2110,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-spicy-japanese-collards-paella",
+    "title": "Quick Spicy Japanese Collards Paella",
+    "tags": [
+      "breakfast",
+      "easy",
+      "jain-friendly",
+      "one-pan",
+      "quick",
+      "spicy"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
