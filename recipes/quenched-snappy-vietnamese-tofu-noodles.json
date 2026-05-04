@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Snappy Vietnamese Tofu Noodles",
+  "description": "A refreshing Vietnamese dish featuring snappy noodles, briny flavors, and vegetarian-friendly ingredients, perfect for a brunch mood",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the rice noodles to the pot and cook according to package instructions.",
+    "In a separate pan, heat some oil over medium heat and add the cubed tofu.",
+    "Cook the tofu until it is golden brown and crispy on all sides.",
+    "In a small bowl, whisk together the soy sauce, smoked paprika, and lime juice.",
+    "Add the grated carrot to the pan with the tofu and cook until it is slightly tender.",
+    "Add the cooked noodles to the pan with the tofu and carrot, and pour in the soy sauce mixture.",
+    "Stir everything together and season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "noodle-dishes",
+    "quick-meals",
+    "vegetarian-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quenched-snappy-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-snappy-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:57:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "smoke-cold",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "quenched snappy",
+    "dishForm": "Noodles"
+  }
+}

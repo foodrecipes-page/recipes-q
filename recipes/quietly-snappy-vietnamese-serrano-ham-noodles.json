@@ -1,0 +1,110 @@
+{
+  "title": "Quietly Snappy Vietnamese Serrano Ham Noodles",
+  "description": "A lazy Sunday Vietnamese dish featuring serrano ham and umami flavors, made with ayurvedic-tamasic-friendly ingredients for a comforting meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "Drain and set the noodles aside.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Add the serrano ham and cook for 2 minutes.",
+    "Add the soy sauce, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce and ham mixture.",
+    "Add the bean sprouts and chopped scallions to the skillet and stir to combine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pan",
+    "umami-flavors",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quietly-snappy-vietnamese-serrano-ham-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-snappy-vietnamese-serrano-ham-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:58:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "serrano ham",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "serrano ham",
+    "descriptor": "quietly snappy",
+    "dishForm": "Noodles"
+  }
+}

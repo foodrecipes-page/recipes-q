@@ -1292,6 +1292,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-snappy-vietnamese-tofu-noodles",
+    "title": "Quenched Snappy Vietnamese Tofu Noodles",
+    "tags": [
+      "brunch-ideas",
+      "noodle-dishes",
+      "quick-meals",
+      "vegetarian-friendly",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-sour-jiangsu-flour-flatbread",
     "title": "Quenched Sour Jiangsu Flour Flatbread",
     "tags": [
@@ -3882,6 +3896,21 @@
       "uruguayan"
     ],
     "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-snappy-vietnamese-serrano-ham-noodles",
+    "title": "Quietly Snappy Vietnamese Serrano Ham Noodles",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "lazy-sunday",
+      "one-pan",
+      "umami-flavors",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
     "totalTimeMin": 35,
     "shard": "q"
   },
