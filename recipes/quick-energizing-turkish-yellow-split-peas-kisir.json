@@ -1,0 +1,104 @@
+{
+  "title": "Quick Energizing Turkish Yellow Split Peas Kisir",
+  "description": "A yeasty and crispy Turkish dish featuring yellow split peas, this kisir is a high-protein friendly option for a quick snack or lunch. It is made with katsuramuki-cut vegetables for added crunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried mint",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    }
+  ],
+  "instructions": [
+    "Rinse the yellow split peas and soak them in water for 30 minutes.",
+    "Drain and chop the onion and carrot into katsuramuki-cut pieces.",
+    "Heat the olive oil in a pan over medium heat and saute the onion and carrot until they are tender.",
+    "Add the tomato paste, pomegranate molasses, salt, black pepper, and dried mint to the pan and stir well.",
+    "Add the soaked and drained yellow split peas to the pan and stir to combine.",
+    "Cook for 10 minutes or until the peas are tender.",
+    "Stir in the yeast and cook for an additional 2 minutes.",
+    "Serve the kisir hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "quick",
+    "turkish",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-energizing-turkish-yellow-split-peas-kisir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-turkish-yellow-split-peas-kisir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:18:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "yellow split peas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Kisir"
+  }
+}
