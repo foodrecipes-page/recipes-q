@@ -1,0 +1,94 @@
+{
+  "title": "Quaint Croatian Red Pepper Skewers",
+  "description": "A crunchy and energizing Croatian dish featuring red pepper and nuka-pickle, perfect for a snack or light meal. This shojin-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bell peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the red bell peppers into large chunks and thread them onto skewers.",
+    "In a small bowl, whisk together the nuka-pickle, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the mixture onto the bell peppers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with chopped fresh parsley.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve with additional nuka-pickle on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "grilled-vegetables",
+    "healthy-eating",
+    "quick-snack",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quaint-croatian-red-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-croatian-red-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:20:44Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "red pepper",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "red pepper",
+    "descriptor": "quaint crunchy",
+    "dishForm": "Skewers"
+  }
+}

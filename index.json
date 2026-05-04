@@ -14,6 +14,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-croatian-red-pepper-skewers",
+    "title": "Quaint Croatian Red Pepper Skewers",
+    "tags": [
+      "croatian-cuisine",
+      "grilled-vegetables",
+      "healthy-eating",
+      "quick-snack",
+      "vegetarian-option"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-ethiopian-collard-greens-gomen",
     "title": "Quaint Ethiopian Collard Greens Gomen",
     "tags": [
