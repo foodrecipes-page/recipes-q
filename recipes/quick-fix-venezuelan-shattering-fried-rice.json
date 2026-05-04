@@ -1,0 +1,114 @@
+{
+  "title": "Quick-Fix Venezuelan Shattering Fried Rice",
+  "description": "A sweet and crispy Venezuelan-inspired dish made with dry sherry and low-calorie-friendly rice.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dry Sherry",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fry Grind Rice Khao Khua",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Chicken",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 pinch",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cherry tomatoes and cook until they start to release their juices, 2-3 minutes.",
+    "Add the shredded chicken and cook until heated through, 2-3 minutes.",
+    "Add the dry sherry and cook until the liquid is almost completely absorbed, 1-2 minutes.",
+    "Add the cooked rice and stir to combine with the chicken and vegetables.",
+    "Transfer the rice mixture to a serving platter and garnish with cilantro and sesame seeds if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-fix-venezuelan-shattering-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-venezuelan-shattering-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "dry sherry",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "shattering",
+    "descriptor": "quick-fix",
+    "dishForm": "fried-rice"
+  }
+}
