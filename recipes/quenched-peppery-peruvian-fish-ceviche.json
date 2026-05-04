@@ -1,0 +1,100 @@
+{
+  "title": "Quenched Peppery Peruvian Fish Ceviche",
+  "description": "A bright, peppery ceviche with a velvety citrus base and a touch of honey, finished with a quick broil for a subtle char.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "200ml"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red onion",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cilantro",
+      "amount": "30g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh chili",
+      "amount": "5 slices"
+    }
+  ],
+  "instructions": [
+    "Cut the sea bass fillets into 1/2 inch cubes and place them in a glass bowl.",
+    "Pour the fresh lime juice over the fish, ensuring all cubes are coated, and stir gently.",
+    "Add the honey, black pepper, sea salt, minced garlic, and finely chopped red onion to the bowl and mix well.",
+    "Sprinkle the chopped cilantro and sliced chili over the mixture, then stir again.",
+    "Cover the bowl with plastic wrap and refrigerate for 15 minutes to allow the fish to \"cook\" in the citrus.",
+    "While the fish marinates, preheat the oven broiler on high and line a baking sheet with foil.",
+    "Once chilled, spread the marinated fish evenly on the baking sheet and broil for 2 minutes until the edges are slightly caramelized.",
+    "Remove the sheet from the oven, let it cool for a minute, then transfer the ceviche to a serving dish.",
+    "Garnish with a drizzle of honey and a sprinkle of fresh cilantro before serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "halal",
+    "lunch",
+    "monsoon",
+    "peppery",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 227,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 1
+  },
+  "slug": "quenched-peppery-peruvian-fish-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peppery-peruvian-fish-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:33:06Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "clear honey",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Fish",
+    "descriptor": "Quenched Peppery",
+    "dishForm": "Ceviche"
+  }
+}
