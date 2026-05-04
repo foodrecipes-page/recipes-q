@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Festive Middle-Eastern Applesauce Skewers",
+  "description": "A peppery, creamy, festive dish featuring applesauce, lacquer-glaze, and Middle-Eastern spices, best served at room temperature.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Applesauce",
+      "amount": "3/4",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "available at Middle-Eastern markets or online"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/8 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "1/2 cup",
+      "notes": "small pieces, toasted for skewer support"
+    },
+    {
+      "name": "Unsalted almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Thread a small piece of toasted pita bread onto a skewer, followed by a small spoonful of applesauce, a sprinkle of garam masala, and a few pieces of unsalted almonds.",
+    "Repeat the pattern, leaving a small space between each section.",
+    "Brush the lacquer glaze over the applesauce section, then sprinkle with red pepper flakes if using.",
+    "Repeat the pattern until the skewer is full, finishing with toasted pita bread on top.",
+    "Place the skewers on a roasting pan or a robata grill and cook over medium heat.",
+    "Turn frequently until the lacquer glaze is caramelized and the pita bread is toasted.",
+    "Garnish with chopped fresh parsley and serve at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "festive",
+    "gluten-free",
+    "lacto-vegetarian",
+    "middle-eastern",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quenched-festive-middle-eastern-applesauce-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-festive-middle-eastern-applesauce-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:10Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "applesauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "applesauce",
+    "descriptor": "Quenched Festive",
+    "dishForm": "Skewers"
+  }
+}

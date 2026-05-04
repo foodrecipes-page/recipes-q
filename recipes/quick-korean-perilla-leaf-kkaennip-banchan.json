@@ -1,0 +1,96 @@
+{
+  "title": "Quick Korean Perilla-Leaf-Kkaennip Banchan",
+  "description": "A refreshing and easy-to-make Korean banchan dish featuring perilla leaves, perfect for a quick snack or side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "perilla leaves (kkaennip)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red pepper flakes (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Hull and tear the perilla leaves into bite-sized pieces.",
+    "Wash the perilla leaves in cold water, then drain well.",
+    "In a large skillet or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "Add the garlic and sauté for 1 minute, until fragrant.",
+    "Add the green chili flakes and sauté for an additional minute.",
+    "Add the perilla leaves, sugar, soy sauce, and water to the skillet.",
+    "Stir-fry for 3-5 minutes, until the perilla leaves are slightly wilted.",
+    "Season with red pepper flakes to taste, if desired.",
+    "Transfer the perilla mixture to a serving dish.",
+    "Garnish with toasted sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "banchan",
+    "korean",
+    "low-fat",
+    "one-pan",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "quick-korean-perilla-leaf-kkaennip-banchan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-korean-perilla-leaf-kkaennip-banchan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "candy",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "perilla-leaf-kkaennip",
+    "descriptor": "Quick",
+    "dishForm": "Banchan"
+  }
+}

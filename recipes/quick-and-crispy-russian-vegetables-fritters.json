@@ -1,0 +1,112 @@
+{
+  "title": "Quick and Crispy Russian Vegetables Fritters",
+  "description": "A flavorful, crispy, and quick-fix Russian dish featuring sautéed vegetables, plant-based-friendly, and a sweet surprise from raspberry jam.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "plant-based",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 large"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1 flax egg"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of olive oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the grated carrots and zucchini, cook until the vegetables are tender, about 5 minutes.",
+    "In a large bowl, whisk together the gluten-free flour, bread crumbs, egg replacement, water, salt, and black pepper.",
+    "Gently add the cooked vegetables to the bowl and mix until combined.",
+    "Heat the remaining 1 tablespoon of olive oil in the same pan over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the vegetable mixture into the pan.",
+    "Press the mixture down to form a flat patty.",
+    "Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Serve the fritters hot with a dollop of raspberry jam.",
+    "Garnish with additional chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "easily-veganizable",
+    "european",
+    "gluten-free",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "quick-and-crispy-russian-vegetables-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-and-crispy-russian-vegetables-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "raspberry jam",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick and Crispy",
+    "dishForm": "Fritters"
+  }
+}

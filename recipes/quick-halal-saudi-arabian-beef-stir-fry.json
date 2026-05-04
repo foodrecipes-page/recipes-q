@@ -1,0 +1,110 @@
+{
+  "title": "quick halal saudi-arabian beef stir-fry",
+  "description": "a quick and delicious stir-fry dish inspired by saudi-arabian cuisine, using halal-friendly ingredients and a single vessel for easy cleanup.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (sirloin or ribeye)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef stock cubes (halal)",
+      "amount": "2 cubes",
+      "notes": "dissolve in 200ml water"
+    },
+    {
+      "name": "creme fraiche or plain yogurt",
+      "amount": "100g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat ghee or oil in a large skillet or wok over medium-high heat.",
+    "add beef strips and cook until browned, about 3-4 minutes.",
+    "remove beef from skillet and set aside.",
+    "add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "add cumin, coriander, salt, and black pepper to skillet and cook for 1 minute, stirring constantly.",
+    "add beef back to skillet and stir to combine with spice mixture.",
+    "dissolve beef stock cubes in 200ml water and add to skillet.",
+    "bring mixture to a boil, then reduce heat to low and simmer for 5-7 minutes, or until sauce has thickened.",
+    "stir in creme fraiche or plain yogurt and cook for an additional 2-3 minutes, or until heated through.",
+    "serve hot over rice or with flatbread, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stir-fry",
+    "halal",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "quick-halal-saudi-arabian-beef-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-halal-saudi-arabian-beef-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Halal",
+    "dishForm": "Stir-fry"
+  }
+}

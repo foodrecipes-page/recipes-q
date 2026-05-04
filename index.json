@@ -621,6 +621,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-festive-middle-eastern-applesauce-skewers",
+    "title": "Quenched Festive Middle-Eastern Applesauce Skewers",
+    "tags": [
+      "easy-to-make",
+      "festive",
+      "gluten-free",
+      "lacto-vegetarian",
+      "middle-eastern",
+      "vegan-friendly"
+    ],
+    "cuisine": "Middle-Eastern",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-flaky-mexican-fish-tacos",
     "title": "Quenched Flaky Mexican Fish Tacos",
     "tags": [
@@ -1631,6 +1646,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-and-crispy-russian-vegetables-fritters",
+    "title": "Quick and Crispy Russian Vegetables Fritters",
+    "tags": [
+      "crispy",
+      "easily-veganizable",
+      "european",
+      "gluten-free",
+      "quick-fix",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-arabian-tempeh-kebabs",
     "title": "Quick Arabian Tempeh Kebabs",
     "tags": [
@@ -2585,6 +2616,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-halal-saudi-arabian-beef-stir-fry",
+    "title": "quick halal saudi-arabian beef stir-fry",
+    "tags": [
+      "beef-stir-fry",
+      "halal",
+      "high-protein",
+      "one-pan",
+      "quick-meal",
+      "saudi-arabian"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-herbal-irish-potato-dumplings",
     "title": "Quick Herbal Irish Potato Dumplings",
     "tags": [
@@ -2702,6 +2748,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-korean-perilla-leaf-kkaennip-banchan",
+    "title": "Quick Korean Perilla-Leaf-Kkaennip Banchan",
+    "tags": [
+      "banchan",
+      "korean",
+      "low-fat",
+      "one-pan",
+      "quick",
+      "snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
