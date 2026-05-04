@@ -1,0 +1,108 @@
+{
+  "title": "Quick Crunchy Jiangsu Squid Stir-fry",
+  "description": "A bold, salt-and-pepper style squid dish with bitter tamarind balls that delivers a crunchy, indulgent bite in minutes.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh squid",
+      "amount": "400g",
+      "notes": "sliced lengthwise into thin strips"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Sichuan peppercorn",
+      "amount": "1tsp",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "white sesame seeds",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1tsp"
+    }
+  ],
+  "instructions": [
+    "Blend tamarind paste, sugar, water, and a pinch of salt to form a thick paste.",
+    "Roll the paste into 1cm diameter balls and set aside.",
+    "Heat sunflower oil in a wok over high heat until shimmering.",
+    "Add garlic, ginger, and ground Sichuan peppercorn and stir for 10 seconds until fragrant.",
+    "Add the squid strips, stirring quickly so the meat stays firm and cooks in 1 minute.",
+    "Toss in the tamarind balls, salt, and pepper, cooking for an additional 30 seconds.",
+    "Scatter scallions and sesame seeds over the dish and give one final quick stir.",
+    "Serve immediately with a side of steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "quick",
+    "salt-and-pepper",
+    "seafood",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-crunchy-jiangsu-squid-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-jiangsu-squid-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:22:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "tamarind ball",
+    "diet": "raw",
+    "region": "jiangsu",
+    "cuisineAdjective": "Jiangsu",
+    "mainIngredient": "Squid",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
