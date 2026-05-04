@@ -1,0 +1,93 @@
+{
+  "title": "Quick Middle Eastern Lamb Kibbeh",
+  "description": "A funky, molten, quick-fix Middle Eastern dish featuring smoked paprika and ferment-jang, served in scallop shells.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1/2 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees.",
+    "In a large bowl, combine ground lamb, smoked paprika, ferment-jang, onion, bulgur, salt, and black pepper.",
+    "Mix well with your hands until just combined.",
+    "Divide the mixture into 12 equal parts and shape each into a ball.",
+    "Flatten each ball slightly into a disk shape.",
+    "Place a disk into each scallop shell.",
+    "Bake for 15 minutes or until the lamb is cooked through.",
+    "Serve immediately in the scallop shells."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "low-carb",
+    "middle-eastern",
+    "quick-fix",
+    "scallop-shells"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "quick-middle-eastern-lamb-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-middle-eastern-lamb-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:44:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "smoked paprika",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Molten",
+    "dishForm": "Kibbeh"
+  }
+}
