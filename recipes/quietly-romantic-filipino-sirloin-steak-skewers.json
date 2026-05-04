@@ -1,0 +1,101 @@
+{
+  "title": "Quietly Romantic Filipino Sirloin Steak Skewers",
+  "description": "A romantic Filipino dish featuring sirloin steak tips, infused with herbal flavors and served on a tagliere, perfect for a quiet dinner",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, garlic, and ginger",
+    "Add the sirloin steak tips to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated steak tips onto skewers, leaving a small space between each piece",
+    "Brush the skewers with olive oil and season with salt and black pepper",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the steak is cooked to 130 degrees Fahrenheit",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers on a tagliere, garnished with bruised lemongrass and your choice of sides"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "grilled-meat",
+    "herbal-flavors",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quietly-romantic-filipino-sirloin-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-romantic-filipino-sirloin-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:27:17Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "quietly romantic",
+    "dishForm": "Skewers"
+  }
+}
