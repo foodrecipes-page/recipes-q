@@ -1,0 +1,104 @@
+{
+  "title": "Quietly Quintessential Russian Saskatoon Berries Pilaf",
+  "description": "A tangy and flaky Russian dish featuring Saskatoon berries, with a romantic twist, served in a bento box.",
+  "cuisine": "Russian",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Brown rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large wok or skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the brown rice to the wok or skillet, stirring to combine with the onion and spice mixture.",
+    "Add the water to the wok or skillet, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the water is absorbed and the rice is tender.",
+    "Stir in the Saskatoon berries and lemon juice.",
+    "Cook for an additional 2-3 minutes, or until the berries are heated through and the pilaf is fluffy.",
+    "Serve the pilaf in a bento box, garnished with additional Saskatoon berries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "berry-based",
+    "one-pot",
+    "romantic",
+    "russian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "quietly-quintessential-russian-saskatoon-berries-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quintessential-russian-saskatoon-berries-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:12:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Quietly quintessential",
+    "dishForm": "Pilaf"
+  }
+}
