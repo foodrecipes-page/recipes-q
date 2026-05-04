@@ -1,0 +1,88 @@
+{
+  "title": "Quenched Bitter Arabian Butter Pudding",
+  "description": "A lazy-sunday, gooey dessert that marries the richness of butter with the depth of bitter spices, all cooked gently in a bain-marie.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "250g"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "50g"
+    },
+    {
+      "name": "brewed strong coffee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground black tea leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried nettle powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Place a stainless steel saucepan in a larger pot of simmering water for bain-marie.",
+    "Add the butter to the saucepan and melt over low heat, stirring until smooth.",
+    "Stir in the cocoa powder, cardamom, black tea leaves, and nettle powder, whisking until fully incorporated.",
+    "Pour in the brewed coffee and continue to stir until the mixture thickens to a pourable consistency.",
+    "Remove the saucepan from the bain-marie and let it cool for 5 minutes, then stir in a pinch of sea salt.",
+    "Grease four ramekins with a small amount of butter, then pour the pudding mixture evenly into each.",
+    "Place the filled ramekins in a preheated oven at 160°C and bake for 15 minutes until a thin crust forms.",
+    "Remove the ramekins from the oven and allow the puddings to cool to room temperature, then refrigerate for at least 2 hours.",
+    "Serve chilled, garnished with crushed pistachios and a light drizzle of lemon juice for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "bain-marie",
+    "bitter",
+    "butter-rich",
+    "dessert",
+    "lazy-sunday",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1900,
+    "protein": 5,
+    "carbs": 27,
+    "fat": 216
+  },
+  "slug": "quenched-bitter-arabian-butter-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-bitter-arabian-butter-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:12:45Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "melted butter",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Butter",
+    "descriptor": "Quenched Bitter",
+    "dishForm": "Pudding"
+  }
+}
