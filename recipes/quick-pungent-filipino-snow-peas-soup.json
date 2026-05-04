@@ -1,0 +1,117 @@
+{
+  "title": "Quick Pungent Filipino Snow Peas Soup",
+  "description": "A velvety, pungent soup that brightens any sick day, featuring snow peas, coconut milk, and a touch of soy sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300ml"
+    },
+    {
+      "name": "coconut milk light",
+      "amount": "200ml"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "cilantro",
+      "amount": "to garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat and sauté onion, garlic, ginger, and carrot until fragrant.",
+    "Add the snow peas, soy sauce, and fish sauce to the pot and cook for 2 minutes.",
+    "Pour in the vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and let the mixture simmer for 6 minutes until the vegetables are tender.",
+    "Place a heatproof bowl over a pot of simmering water, creating a bain-marie, and gently warm the coconut milk.",
+    "Carefully pour the warm coconut milk into the pot, stirring to combine.",
+    "Add the bay leaf, salt, and pepper, and simmer for an additional 4 minutes.",
+    "Remove the pot from heat and stir in the lemon juice.",
+    "Use an immersion blender to purée the soup until velvety smooth, or transfer to a blender in batches.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "mediterranean-friendly",
+    "pungent",
+    "quick",
+    "soup",
+    "vegetarian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 11,
+    "carbs": 48,
+    "fat": 34
+  },
+  "slug": "quick-pungent-filipino-snow-peas-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pungent-filipino-snow-peas-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:54:19Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "bain-marie",
+    "primaryIngredient": "snow peas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "snow peas",
+    "descriptor": "Quick Pungent",
+    "dishForm": "Soup"
+  }
+}

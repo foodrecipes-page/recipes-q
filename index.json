@@ -1099,6 +1099,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-egyptian-lentil-stew",
+    "title": "Quenched Smoky Egyptian Lentil Stew",
+    "tags": [
+      "egyptian",
+      "flexitarian",
+      "late-night",
+      "lentils",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-smoky-tunisian-lamb-grill",
     "title": "Quenched Smoky Tunisian Lamb Grill",
     "tags": [
@@ -2476,6 +2491,22 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-pungent-filipino-snow-peas-soup",
+    "title": "Quick Pungent Filipino Snow Peas Soup",
+    "tags": [
+      "filipino",
+      "mediterranean-friendly",
+      "pungent",
+      "quick",
+      "soup",
+      "vegetarian",
+      "velvety"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

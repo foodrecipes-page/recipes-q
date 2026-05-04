@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Smoky Egyptian Lentil Stew",
+  "description": "A smoky, fluffy lentil stew with a hint of vanilla, perfect for midnight cravings.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pot over medium heat until shimmering.",
+    "Add the chopped onion and sauté until translucent, about 3 minutes.",
+    "Stir in garlic, smoked paprika, cumin, and cinnamon; cook until fragrant, about 1 minute.",
+    "Mix in tomato paste and vanilla extract, cooking for 2 minutes to develop depth.",
+    "Add the rinsed lentils, vegetable broth, and water, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer until lentils are soft and stew is thick, about 20 minutes.",
+    "Season with salt and pepper, adjust consistency with extra water if needed.",
+    "Serve hot garnished with a drizzle of olive oil and a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "flexitarian",
+    "late-night",
+    "lentils",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "quenched-smoky-egyptian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-egyptian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:54:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "deglaze",
+    "primaryIngredient": "vanilla extract",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quenched Smoky",
+    "dishForm": "Stew"
+  }
+}
