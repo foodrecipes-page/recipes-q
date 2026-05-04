@@ -1,0 +1,102 @@
+{
+  "title": "Quietly Quenched Portuguese Pasta",
+  "description": "A traditional Portuguese dish featuring chilli flakes and a pasta water emulsion, cooked in an iron teppan, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "anti-inflammatory"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium heat.",
+    "Add the olive oil and saute the onion until translucent.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chilli flakes and cook for 1 minute.",
+    "Add the canned tomatoes and cook for 5 minutes.",
+    "Add the pasta water and stir to combine.",
+    "Add the cooked pasta and stir to combine.",
+    "Season with salt and turmeric.",
+    "Simmer for 5 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-quenched-portuguese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-portuguese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:53:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "nostalgic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chilli flakes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pasta",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Pasta"
+  }
+}

@@ -131,6 +131,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-sweet-malaysian-cherry-stir-fry",
+    "title": "Quaint Sweet Malaysian Cherry Stir Fry",
+    "tags": [
+      "fruit-based",
+      "malaysian-cuisine",
+      "romantic-dinner",
+      "stir-fry",
+      "sugar-free",
+      "sweet-dishes"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-sweet-russian-pork-belly-bowl",
     "title": "Quaint Sweet Russian Pork Belly Bowl",
     "tags": [
@@ -2575,6 +2590,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-portuguese-pasta",
+    "title": "Quietly Quenched Portuguese Pasta",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
