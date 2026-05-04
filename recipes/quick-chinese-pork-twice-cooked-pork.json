@@ -1,0 +1,109 @@
+{
+  "title": "Quick Chinese Pork Twice-Cooked-Pork",
+  "description": "A quick-fix Chinese dish featuring pork, glace cherry, and a peppery sauce, served in a pillowy format, free from nuts, easy to prepare and cook, suitable for weeknights, and ideal for a satisfying dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Glace cherry",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the pork shoulder and cook until browned, about 3-4 minutes per side.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet and saut\t7 the garlic and ginger until fragrant, about 30 seconds.",
+    "Add the soy sauce, oyster sauce, hoisin sauce, and rice vinegar to the skillet and stir to combine.",
+    "Add the browned pork back to the skillet and stir to coat with the sauce.",
+    "In a small bowl, mix together the cornstarch and a small amount of water until smooth, then add to the skillet and stir to thicken the sauce.",
+    "Add the glace cherry to the skillet and stir to combine.",
+    "Return the pork to the skillet and cook until the sauce has thickened and the pork is cooked through, about 2-3 minutes.",
+    "Transfer the pork to a serving platter and spoon some of the sauce over the top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-chinese-pork-twice-cooked-pork",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-chinese-pork-twice-cooked-pork",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "glace cherry",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Quick",
+    "dishForm": "Twice-cooked-pork"
+  }
+}

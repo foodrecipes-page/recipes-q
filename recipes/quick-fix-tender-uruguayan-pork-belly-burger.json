@@ -1,0 +1,109 @@
+{
+  "title": "Quick-Fix Tender Uruguayan Pork Belly Burger",
+  "description": "A quick and flavorful Uruguayan-style burger featuring pork belly slices, bhuna, and macrobiotic-friendly ingredients. Perfect for a weeknight dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly slices",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "macrobiotic-friendly buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Uruguayan-style sausage",
+      "amount": "2 sausages",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the pork belly slices in a skillet over medium-high heat for 4-5 minutes per side, or until crispy and golden brown.",
+    "In a separate skillet, add 1 tablespoon of olive oil and sauté the red onion and garlic until softened.",
+    "Add the bhuna sauce to the skillet and stir to combine with the onion and garlic mixture.",
+    "Split the macrobiotic-friendly buns in half and toast them in the oven for 2-3 minutes.",
+    "Assemble the burgers by placing a few slices of the cooked pork belly on the bottom bun, followed by a spoonful of the bhuna sauce mixture, a few slices of the Uruguayan-style sausage, and finally the top bun.",
+    "Drizzle with lemon juice and sprinkle with chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Reheat the bhuna sauce in the microwave for 10-15 seconds if needed before serving.",
+    "Store any leftover burgers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "pork",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 38
+  },
+  "slug": "quick-fix-tender-uruguayan-pork-belly-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-tender-uruguayan-pork-belly-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:24Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "pork belly slices",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork belly",
+    "descriptor": "quick-fix tender",
+    "dishForm": "Burger"
+  }
+}

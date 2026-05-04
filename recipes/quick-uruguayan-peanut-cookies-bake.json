@@ -1,0 +1,109 @@
+{
+  "title": "quick uruguayan peanut cookies bake",
+  "description": "quick-fix uruguayan dish featuring peanut cookies and coconut cream crack, paleo-friendly",
+  "cuisine": "south american",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 350f",
+    "line a baking sheet with parchment paper",
+    "mix peanut butter, coconut sugar, eggs, vanilla extract, and salt in a large bowl",
+    "add chopped peanuts and mix until combined",
+    "drop spoonfuls of the mixture onto the prepared baking sheet",
+    "bake for 12 minutes or until the edges are lightly golden",
+    "remove from oven and sprinkle with flaky sea salt",
+    "let cool for 5 minutes before transferring to a wire rack",
+    "serve warm with a dollop of coconut cream crack",
+    "serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-crack",
+    "paleo-friendly",
+    "peanut-butter-cookies",
+    "quick-fix",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "quick-uruguayan-peanut-cookies-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-uruguayan-peanut-cookies-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "peanut cookies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "peanut cookies",
+    "descriptor": "quick",
+    "dishForm": "Bake"
+  }
+}

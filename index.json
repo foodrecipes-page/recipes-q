@@ -1835,6 +1835,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-chinese-pork-twice-cooked-pork",
+    "title": "Quick Chinese Pork Twice-Cooked-Pork",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-cooked-malaysian-chinese-long-beans-noodles",
     "title": "Quick Cooked Malaysian Chinese Long Beans Noodles",
     "tags": [
@@ -2449,6 +2462,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-tender-uruguayan-pork-belly-burger",
+    "title": "Quick-Fix Tender Uruguayan Pork Belly Burger",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "pork",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -3714,6 +3741,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-uruguayan-peanut-cookies-bake",
+    "title": "quick uruguayan peanut cookies bake",
+    "tags": [
+      "coconut-cream-crack",
+      "paleo-friendly",
+      "peanut-butter-cookies",
+      "quick-fix",
+      "south-american"
+    ],
+    "cuisine": "south american",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
