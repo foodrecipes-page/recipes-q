@@ -1,0 +1,103 @@
+{
+  "title": "Quenched French Apple Tarte Tatin",
+  "description": "A dense, grassy-tasting tarte tatin with caramelized cox apples and a bright yuzu finish, cooked entirely in a single tava griddle.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cox apple",
+      "amount": "4 medium (about 900g)",
+      "notes": "peeled, cored, sliced into 1/2 inch thick"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "pure, raw"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "2 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a tava griddle over medium heat.",
+    "Melt coconut oil and sunflower oil together in the griddle; add yuzu zest, yuzu juice, thyme, salt, and pepper, then stir for 30 seconds.",
+    "Add sliced apples to the griddle, cooking until lightly browned on all sides, about 8 minutes.",
+    "Drizzle maple syrup over the apples, stir to coat evenly, and allow the syrup to reduce and caramelize for another 5 minutes.",
+    "Reduce heat to low, cover the griddle with a lid, and cook for 10 minutes until apples are tender and the caramel thickened.",
+    "Remove the griddle from heat, carefully flip the tarte tatin onto a serving platter, letting the caramelous side rest for 2 minutes.",
+    "Sprinkle chopped mint on top for a fresh, grassy note, and serve immediately.",
+    "Optionally drizzle a thin swirl of yuzu reduction over the top for added citrus brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "dessert",
+    "french",
+    "macrobiotic",
+    "one-pan",
+    "veg",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 760,
+    "protein": 4,
+    "carbs": 130,
+    "fat": 27
+  },
+  "slug": "quenched-french-apple-tarte-tatin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-french-apple-tarte-tatin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:31:52Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cox-apple",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "apple",
+    "descriptor": "Quenched",
+    "dishForm": "Tarte Tatin"
+  }
+}
