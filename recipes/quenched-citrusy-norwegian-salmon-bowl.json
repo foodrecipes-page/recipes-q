@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Citrusy Norwegian Salmon Bowl",
+  "description": "A citrusy and springy Norwegian dish featuring salmon, celery salt, and a mediterranean twist, served in a beautiful lacquerware bowl. This recipe combines the freshness of citrus with the indulgence of salmon.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4 pieces",
+      "notes": "wild-caught Norwegian salmon"
+    },
+    {
+      "name": "celery salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 tsp",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper and place the salmon fillets on it.",
+    "Drizzle the olive oil over the salmon and sprinkle with garlic, salt, and black pepper.",
+    "Bake the salmon in the oven for 12 minutes or until cooked through.",
+    "While the salmon is cooking, mix the lemon juice and water in a bowl.",
+    "Add the sodium alginate to the lemon juice mixture and stir well.",
+    "Using a syringe or spoon, drop small amounts of the lemon juice mixture into a bath of cold water to create citrus spheres.",
+    "Once the salmon is cooked, remove it from the oven and let it rest for a few minutes.",
+    "To serve, place a salmon fillet in each lacquerware bowl, sprinkle with celery salt, parsley, and dill, and top with citrus spheres.",
+    "Drizzle any remaining lemon juice over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "food-technology",
+    "healthy-dinner",
+    "mediterranean-inspired",
+    "norwegian-cuisine",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quenched-citrusy-norwegian-salmon-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-citrusy-norwegian-salmon-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:06:54Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "celery salt",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "quenched citrusy",
+    "dishForm": "Bowl"
+  }
+}
