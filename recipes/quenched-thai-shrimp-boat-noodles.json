@@ -1,0 +1,115 @@
+{
+  "title": "Quenched Thai Shrimp Boat Noodles",
+  "description": "Savory, pillowy noodles folded into a boat shape, accented with Cajun spice, a touch of tempered dark chocolate, and Mediterranean herbs for a quick weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "200g"
+    },
+    {
+      "name": "rice noodles, dry",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "peanuts, roasted",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "cajun seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dark chocolate, tempered",
+      "amount": "30g"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring the coconut milk and water to a simmer in a medium pot.",
+    "Add the fish sauce, lime juice, minced garlic, minced ginger, sliced chili, and cajun seasoning to the broth and stir until the aromatics are fragrant.",
+    "Place the rice noodles in the simmering broth, then cover and cook for 3 to 4 minutes until they soften.",
+    "Drain the noodles and arrange them into small boat shapes on a plate, securing with a toothpick if needed.",
+    "In a small bowl, melt the tempered dark chocolate with a splash of coconut milk until glossy.",
+    "Toss the cooked noodles in the broth, then drizzle the chocolate sauce over each boat and garnish with basil, cilantro, peanuts, and scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajun-flavor",
+    "mediterranean-friendly",
+    "one-pan",
+    "pillowy",
+    "savory",
+    "thai-noodles",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1120,
+    "protein": 55,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "quenched-thai-shrimp-boat-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-thai-shrimp-boat-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:37:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "cajun",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Quenched",
+    "dishForm": "Boat Noodles"
+  }
+}
