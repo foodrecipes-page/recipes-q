@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Quenched Thai Saskatoon Berry Curry",
+  "description": "A cultured and creamy Thai dish featuring saskatoon berries and nuka-pickle, perfect for a romantic dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a blender or food processor, combine coconut milk, curry paste, fish sauce, and lime juice, and blend until smooth",
+    "In a large skillet, heat the coconut oil over medium heat",
+    "Add the blended curry mixture to the skillet and bring to a simmer",
+    "Add the chopped nuka-pickle and cook for 2 minutes",
+    "Add the saskatoon berries and cook for an additional 2 minutes",
+    "Season the curry with salt to taste",
+    "Divide the curry among individual mini cocottes",
+    "Bake the curry in the preheated oven for 15 minutes",
+    "Garnish with chopped fresh basil and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "gluten-free",
+    "one-pot",
+    "romantic-dinner",
+    "thai-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quietly-quenched-thai-saskatoon-berry-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-thai-saskatoon-berry-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:24:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "saskatoon berries",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Curry"
+  }
+}
