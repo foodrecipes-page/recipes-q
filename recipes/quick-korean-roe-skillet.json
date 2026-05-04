@@ -1,0 +1,97 @@
+{
+  "title": "Quick Korean Roe Skillet",
+  "description": "A fresh, low-carb solo dinner featuring chewy Korean roe marinated in miso and pan‑seared to gooey perfection. It cooks in under 10 minutes and is perfect for one person.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Myeongnan-roe (fresh Korean roe)",
+      "amount": "60 g"
+    },
+    {
+      "name": "White miso paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Green onion, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds, toasted",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together miso paste, soy sauce, rice vinegar, sesame oil, gochujang (if using), and minced garlic until smooth.",
+    "Gently fold the fresh roe into the miso mixture, letting it marinate for 2 minutes while you heat the skillet.",
+    "Heat a non-stick skillet over medium-high heat and add 1 teaspoon of sesame oil, swirling to coat.",
+    "When the oil shimmers, pour the marinated roe mixture into the skillet, spreading it evenly.",
+    "Cook for 2-3 minutes, pressing down lightly with a spatula to form a thin, golden crust.",
+    "Flip the roe layer and cook for an additional 1 minute, until the other side is lightly browned and the roe is set but still gooey.",
+    "Sprinkle toasted sesame seeds over the skillet and let them toast for 30 seconds.",
+    "Remove from heat, garnish with chopped green onion, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "low-carb",
+    "one-pan",
+    "pescatarian",
+    "quick",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 14,
+    "carbs": 2,
+    "fat": 13
+  },
+  "slug": "quick-korean-roe-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-korean-roe-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:16:30Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "roe",
+    "descriptor": "Quick",
+    "dishForm": "Skillet"
+  }
+}

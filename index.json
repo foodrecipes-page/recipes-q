@@ -811,6 +811,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-dense-japanese-scallion-gyoza",
+    "title": "Quick Dense Japanese Scallion Gyoza",
+    "tags": [
+      "japanese-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight-meal"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-dense-turkish-chicken-pilaf",
     "title": "Quick Dense Turkish Chicken Pilaf",
     "tags": [
@@ -1224,6 +1238,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-korean-roe-skillet",
+    "title": "Quick Korean Roe Skillet",
+    "tags": [
+      "korean",
+      "low-carb",
+      "one-pan",
+      "pescatarian",
+      "quick",
+      "seafood"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Quick Dense Japanese Scallion Gyoza",
+  "description": "A fresh and dense Japanese dish featuring scallions, this recipe is a nostalgic take on traditional gyoza, made keto-friendly with careful ingredient selection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably pasture-raised"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "make sure it is sugar-free"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1/2 teaspoon",
+      "notes": "for emulsification"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 pieces",
+      "notes": "low-carb, made from almond flour or similar"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, chopped scallions, grated ginger, and minced garlic, mixing well with your hands or a wooden spoon until just combined.",
+    "Add the soy sauce, sesame oil, and xanthan gum to the pork mixture, mixing until the ingredients are evenly distributed.",
+    "Lay a wonton wrapper on a clean surface, placing a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wonton wrapper, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point, pressing the edges together to seal the gyoza.",
+    "Repeat the process with the remaining wonton wrappers and filling, making sure to seal the gyoza tightly to prevent leakage during cooking.",
+    "Heat the coconut oil in a large skillet over medium-high heat, then add the gyoza to the skillet, being careful not to overcrowd it.",
+    "Cook the gyoza for 2-3 minutes on each side, until they are golden brown and crispy, adjusting the heat as necessary to prevent burning.",
+    "Serve the gyoza hot with your favorite dipping sauce, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "quick-dense-japanese-scallion-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-japanese-scallion-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:16:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "scallions",
+    "diet": "keto",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "scallions",
+    "descriptor": "Quick Dense",
+    "dishForm": "Gyoza"
+  }
+}
