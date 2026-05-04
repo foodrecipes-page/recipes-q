@@ -1,0 +1,118 @@
+{
+  "title": "Quenched Syrian Mussels Donabe Stew",
+  "description": "A fatty, crunchy, romantic Syrian stew with mussels, candied orange peel, and aromatic spices cooked in a traditional donabe.",
+  "cuisine": "Syrian",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh mussels",
+      "amount": "500g",
+      "notes": "cleaned and debearded"
+    },
+    {
+      "name": "candied orange peel",
+      "amount": "80g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "to toast"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "for color"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "low-fat variety"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp",
+      "notes": "for tang"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 tbsp",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe over medium heat.",
+    "Add sesame oil and swirl to coat the bottom.",
+    "Stir in cumin seeds until they begin to crackle.",
+    "Add ground coriander, cardamom, and turmeric and sauté for 30 seconds.",
+    "Pour in coconut milk and vegetable broth, then stir in tamarind paste.",
+    "Bring the mixture to a gentle simmer while covering the donabe.",
+    "Add the mussels and candied orange peel, then simmer until the mussels open, about 6 minutes.",
+    "Season with salt, remove from heat, garnish with fresh coriander, and serve hot directly from the donabe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "one-pot",
+    "quick",
+    "romantic",
+    "satvik-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 885,
+    "protein": 34,
+    "carbs": 133,
+    "fat": 50
+  },
+  "slug": "quenched-syrian-mussels-donabe-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-syrian-mussels-donabe-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:44:02Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "mussels",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "mussels",
+    "descriptor": "Quenched",
+    "dishForm": "Stew"
+  }
+}
