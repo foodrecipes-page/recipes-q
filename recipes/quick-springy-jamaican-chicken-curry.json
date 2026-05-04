@@ -1,0 +1,106 @@
+{
+  "title": "Quick Springy Jamaican Chicken Curry",
+  "description": "A savory and springy Jamaican dish featuring almond milk and wok-hei, perfect for meal prep, made in a hot pot vessel and friendly to those with nut allergies by using sunflower seeds as a substitute.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/4 cup",
+      "notes": "as a nut substitute"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the hot pot vessel over medium-high heat.",
+    "Add the chopped onion and saute until it starts to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the chicken to the hot pot vessel and cook until it is browned on all sides and cooked through.",
+    "Add the curry powder, salt, and black pepper, and stir to combine.",
+    "Pour in the almond milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed, adding the scotch bonnet pepper if desired for extra heat.",
+    "Stir in the sunflower seeds and let the curry simmer for another 2 minutes.",
+    "Serve the Quick Springy Jamaican Chicken Curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "jamaican-cuisine",
+    "meal-prep",
+    "nut-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-springy-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-springy-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:14:22Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "almond milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Springy",
+    "dishForm": "Curry"
+  }
+}
