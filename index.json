@@ -667,6 +667,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-algerian-lamb-tagine",
+    "title": "Quick Algerian Lamb Tagine",
+    "tags": [
+      "lamb-based",
+      "low-sodium",
+      "north-african",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-arabian-tempeh-kebabs",
     "title": "Quick Arabian Tempeh Kebabs",
     "tags": [
