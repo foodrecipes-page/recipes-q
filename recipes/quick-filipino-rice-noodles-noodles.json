@@ -1,0 +1,128 @@
+{
+  "title": "Quick Filipino Rice Noodles",
+  "description": "A kid-friendly, pungent pancit bihon made in a Korean brass bowl using simple no-onion-no-garlic ingredients.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli (bihon)",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "600ml"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "100g",
+      "notes": "peeled"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "julienned"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Frozen peas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Calamansi juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Spring onions (green parts only)",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Boil 600ml of water in a saucepan until rolling boil.",
+    "Add the rice vermicelli to the boiling water and cook for 3 minutes, then drain and set aside in the Korean brass bowl.",
+    "Heat 1 tbsp of vegetable oil in a skillet over medium heat and add the diced chicken, cooking until no longer pink.",
+    "Add the shrimp to the skillet and cook until shrimp turn pink, about 2 minutes.",
+    "Stir in the julienned carrot, shredded cabbage, and frozen peas, sautéing until vegetables soften, about 3 minutes.",
+    "Pour in the soy sauce, fish sauce, and calamansi juice, then sprinkle the sugar, salt, and pepper, stirring to combine.",
+    "Add the drained noodles to the skillet, tossing everything together so the noodles absorb the sauces.",
+    "Reduce heat to low, then pour 1 tbsp of sesame oil over the noodles, and stir until the mixture is glossy and heated through.",
+    "Garnish with sliced spring onions, giving the dish a fresh, crunchy finish.",
+    "Serve immediately while hot, allowing the flavors to mingle in the Korean brass bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "kid-friendly",
+    "korean-brass-bowl",
+    "nogarlic",
+    "noonion",
+    "pancit-bihon",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 30,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "quick-filipino-rice-noodles-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-filipino-rice-noodles-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:05:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "boiling water",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Quick",
+    "dishForm": "Noodles"
+  }
+}

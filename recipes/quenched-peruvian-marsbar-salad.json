@@ -1,0 +1,111 @@
+{
+  "title": "Quenched Peruvian Marsbar Salad",
+  "description": "A light, earthy Peruvian salad that blends savory quinoa, tender chicken, and roasted sweet potato with a surprising sweet twist from a Mars bar.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "cooked quinoa",
+      "amount": "100g",
+      "notes": "cooked in 200ml water"
+    },
+    {
+      "name": "diced sweet potato",
+      "amount": "150g",
+      "notes": "roasted"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "100g",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "50g"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2"
+    },
+    {
+      "name": "Mars bar",
+      "amount": "1/4 bar",
+      "notes": "chopped into cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "seasoning",
+      "amount": "1 tsp",
+      "notes": "soy sauce, pinch of salt and pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and roast 150g diced sweet potato with 1/4 tbsp olive oil for 20 minutes until tender.",
+    "Season 200g chicken breast with salt and pepper, then grill or pan‑sear it over medium heat until fully cooked, about 7 minutes per side, and slice into strips.",
+    "Cook 100g quinoa in 200ml water, bring to a boil, reduce heat, cover, and simmer for 15 minutes until fluffy.",
+    "In a skillet, heat 1 tbsp olive oil over medium heat and sauté the cooked quinoa until lightly browned, about 3 minutes.",
+    "Add the roasted sweet potato, 100g cherry tomatoes, 100g sliced cucumber, and 50g shredded carrot to the skillet, tossing gently.",
+    "Stir in the sliced chicken, 1 tbsp lime juice, 1 tbsp rice vinegar, and 1 tsp seasoning mixture, then season with additional salt and pepper if desired.",
+    "Fold in the chopped 1/4 Mars bar, allowing it to slightly melt into the mixture for a sweet contrast.",
+    "Serve the warm salad over 1/2 sliced avocado, garnishing with extra cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-calorie",
+    "one-pot",
+    "peruvian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 526,
+    "protein": 38,
+    "carbs": 47,
+    "fat": 23
+  },
+  "slug": "quenched-peruvian-marsbar-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peruvian-marsbar-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:05:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "mars bar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Marsbar",
+    "descriptor": "Quenched",
+    "dishForm": "Salad"
+  }
+}

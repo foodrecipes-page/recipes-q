@@ -1026,6 +1026,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peruvian-marsbar-salad",
+    "title": "Quenched Peruvian Marsbar Salad",
+    "tags": [
+      "healthy",
+      "low-calorie",
+      "one-pot",
+      "peruvian",
+      "quick"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-portuguese-tofu-stir-fry",
     "title": "Quenched Portuguese Tofu Stir-fry",
     "tags": [
@@ -1875,6 +1889,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-filipino-rice-noodles-noodles",
+    "title": "Quick Filipino Rice Noodles",
+    "tags": [
+      "flaky",
+      "kid-friendly",
+      "korean-brass-bowl",
+      "nogarlic",
+      "noonion",
+      "pancit-bihon",
+      "quick"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
