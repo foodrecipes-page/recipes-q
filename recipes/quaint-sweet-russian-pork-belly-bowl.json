@@ -1,0 +1,89 @@
+{
+  "title": "Quaint Sweet Russian Pork Belly Bowl",
+  "description": "A cozy, sweet and springy Russian bowl featuring char‑grilled pork belly, caramelized onions, and a subtle citrus glaze.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly slices",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the olive oil.",
+    "Place the pork belly slices in the skillet and sear until golden brown on both sides, about 5 minutes per side.",
+    "Add the sliced onion to the skillet and cook until softened and caramelized, about 8 minutes.",
+    "Stir in the brown sugar, soy sauce, and lemon juice until the mixture thickens and coats the pork and onions, about 3 minutes.",
+    "Sprinkle black sesame seeds over the mixture and toss to combine.",
+    "Transfer the contents to a heat‑proof bowl and garnish with chopped dill.",
+    "Serve immediately while hot, accompanied by a side of steamed rice or a crisp green salad.",
+    "Enjoy the comforting flavors of this sweet Russian classic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled",
+    "comforting",
+    "cozy",
+    "russian",
+    "sweet-springy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 23
+  },
+  "slug": "quaint-sweet-russian-pork-belly-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-sweet-russian-pork-belly-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:24:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "pork belly slices",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork belly",
+    "descriptor": "Quaint Sweet",
+    "dishForm": "Bowl"
+  }
+}

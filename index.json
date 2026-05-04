@@ -131,6 +131,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-sweet-russian-pork-belly-bowl",
+    "title": "Quaint Sweet Russian Pork Belly Bowl",
+    "tags": [
+      "char-grilled",
+      "comforting",
+      "cozy",
+      "russian",
+      "sweet-springy"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-tender-uruguayan-corn-casseroles",
     "title": "Quaint Tender Uruguayan Corn Casseroles",
     "tags": [
@@ -243,6 +257,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-cheesy-algerian-almond-tagine",
+    "title": "Quenched Cheesy Algerian Almond Tagine",
+    "tags": [
+      "cheese",
+      "malty",
+      "nut-free-friendly",
+      "savory",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 75,
     "shard": "q"
   },
   {
@@ -1143,6 +1171,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-slovakian-tofu-wrap",
+    "title": "Quick Crispy Slovakian Tofu Wrap",
+    "tags": [
+      "easy",
+      "en-croute",
+      "plant-based",
+      "quick",
+      "slovakian",
+      "smoky-paprika",
+      "wrap"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

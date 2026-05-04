@@ -1,0 +1,114 @@
+{
+  "title": "Quick Crispy Slovakian Tofu Wrap",
+  "description": "A plant‑based, umami‑rich wrap featuring smoky paprika, crispy tofu en‑croute, and fresh Slovakian cabbage slaw for a quick fix meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "30g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "10g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red cabbage",
+      "amount": "50g"
+    },
+    {
+      "name": "carrot",
+      "amount": "30g"
+    },
+    {
+      "name": "lettuce",
+      "amount": "20g"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1 (70g)",
+      "notes": "10 inch size"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture and cut into 1cm cubes.",
+    "In a bowl whisk flour, cornstarch, smoked paprika, salt, and pepper.",
+    "Toss tofu cubes in flour mixture until well coated.",
+    "Heat olive oil in a skillet over medium‑high heat and pan‑fry tofu until crisp, about 6‑7 minutes, flipping once.",
+    "While tofu cooks, shred red cabbage, grate carrot, and tear lettuce into bite‑size pieces.",
+    "Warm the whole wheat tortilla in a dry pan for 30 seconds on each side.",
+    "Drizzle sweet chili sauce onto the tortilla, then evenly distribute tofu, cabbage, carrot, lettuce, and a sprinkle of sesame seeds.",
+    "Fold the sides of the tortilla over the filling and roll tightly into a wrap.",
+    "Slice the wrap diagonally and serve immediately with extra sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "en-croute",
+    "plant-based",
+    "quick",
+    "slovakian",
+    "smoky-paprika",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 94,
+    "fat": 35
+  },
+  "slug": "quick-crispy-slovakian-tofu-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-slovakian-tofu-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:25:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "smoky paprika",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Wrap"
+  }
+}
