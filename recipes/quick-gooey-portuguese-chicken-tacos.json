@@ -1,0 +1,96 @@
+{
+  "title": "Quick Gooey Portuguese Chicken Tacos",
+  "description": "A garlicky and gooey Portuguese dish featuring chicken, served in hard taco shells, made in one pot and air fried for a crispy touch, following ayurvedic tamasic friendly principles",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "8-10 shells"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes",
+    "Add the garlic, onion, and portuguese sausage to the skillet and cook until the onion is translucent",
+    "Add the chili powder and paprika to the skillet and stir to combine",
+    "Cook for an additional 2 minutes, until the flavors are combined",
+    "Use an air fryer to crisp the hard taco shells, cooking at 375 degrees for 2-3 minutes",
+    "Assemble the tacos by spooning the chicken mixture into the taco shells",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "chicken",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "portuguese",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-gooey-portuguese-chicken-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-portuguese-chicken-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:50:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "hard taco shells",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Tacos"
+  }
+}

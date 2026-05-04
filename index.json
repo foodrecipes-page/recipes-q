@@ -578,6 +578,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-gooey-portuguese-chicken-tacos",
+    "title": "Quick Gooey Portuguese Chicken Tacos",
+    "tags": [
+      "air-fry",
+      "chicken",
+      "dairy-free",
+      "gluten-free",
+      "one-pot",
+      "portuguese",
+      "tacos"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-greek-chicken-salad",
     "title": "Quick Greek Chicken Salad",
     "tags": [
