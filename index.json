@@ -58,6 +58,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-irish-potato-pie",
+    "title": "Quaint Flaky Irish Potato Pie",
+    "tags": [
+      "comfort-food",
+      "flaky-crust",
+      "irish-cuisine",
+      "sweet-chilli",
+      "vegetarian"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-garlicky-british-sausages-toad-in-the-hole",
     "title": "Quaint Garlicky British Sausages Toad In The Hole",
     "tags": [

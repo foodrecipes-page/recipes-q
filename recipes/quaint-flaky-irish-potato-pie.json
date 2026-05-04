@@ -1,0 +1,92 @@
+{
+  "title": "Quaint Flaky Irish Potato Pie",
+  "description": "A festive Irish dish featuring sweet chilli sauce and flaky crust, perfect for a special occasion. This pie is bitter, flaky, and full of flavor.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced potatoes, sweet chilli sauce, and infuse oil, and mix well.",
+    "In a separate bowl, whisk together the flour, salt, and black pepper.",
+    "Add the cold butter to the flour mixture and use a pastry blender to work it into a crumbly mixture.",
+    "Gradually add the eggs to the flour mixture, stirring with a fork until the dough comes together.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Spoon the potato mixture into the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Brush the top of the pie with a little bit of infuse oil.",
+    "Bake the pie for 40 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flaky-crust",
+    "irish-cuisine",
+    "sweet-chilli",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaint-flaky-irish-potato-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-irish-potato-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:06:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potato",
+    "descriptor": "Quaint Flaky",
+    "dishForm": "Pie"
+  }
+}
