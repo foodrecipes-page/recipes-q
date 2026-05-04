@@ -1,0 +1,103 @@
+{
+  "title": "Quick Crunchy Ukrainian Vegetable Stew",
+  "description": "A bitter, crunchy, and indulgent Ukrainian dish featuring Thai chilli jam, this stew is a unique blend of flavors and textures, reduced to perfection in a hot pot vessel, suitable for vegetarians.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Thai chilli jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the hot pot vessel over medium heat.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the sliced carrots and cubed potatoes, cook for 5 minutes, stirring occasionally.",
+    "Add the vegetable broth, Thai chilli jam, salt, and black pepper, stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped parsley and serve hot.",
+    "Serve the stew in bowls and enjoy the combination of bitter, crunchy, and indulgent flavors."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "one-pot",
+    "spicy",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-crunchy-ukrainian-vegetable-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-ukrainian-vegetable-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:45:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "reduce",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Stew"
+  }
+}
