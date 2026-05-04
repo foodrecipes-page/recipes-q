@@ -2032,6 +2032,20 @@
     "shard": "q"
   },
   {
+    "slug": "quintessential-gooey-middle-eastern-lentil-stew",
+    "title": "Quintessential Gooey Middle Eastern Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lentil-dish",
+      "middle-eastern",
+      "vegetarian-option"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quintessential-juicy-australian-beef-stew",
     "title": "Quintessential Juicy Australian Beef Stew",
     "tags": [
@@ -2073,6 +2087,20 @@
     ],
     "cuisine": "Venezuelan Thai",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-venezuelan-chicken-stew",
+    "title": "Quintessential Venezuelan Chicken Stew",
+    "tags": [
+      "fluffy",
+      "garlicky",
+      "low-glycemic",
+      "one-pot",
+      "showcase"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
     "shard": "q"
   }
 ]

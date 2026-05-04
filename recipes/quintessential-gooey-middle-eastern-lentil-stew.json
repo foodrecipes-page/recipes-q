@@ -1,0 +1,103 @@
+{
+  "title": "Quintessential Gooey Middle Eastern Lentil Stew",
+  "description": "A hearty and comforting stew featuring fermented lentils, pancetta, and Middle Eastern spices, perfect for a sick day. This vegetarian-friendly dish is made with ferment-jang for added depth of flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pancetta",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    }
+  ],
+  "instructions": [
+    "In a large pot, cook the diced pancetta over medium heat until crispy, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Stir in the cumin, coriander, and ferment-jang, cooking for 1 minute.",
+    "Add the rinsed lentils, vegetable broth, and tomato paste to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Use an immersion blender to puree the stew to desired consistency, or leave chunky.",
+    "Stir in the cooked pancetta and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lentil-dish",
+    "middle-eastern",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quintessential-gooey-middle-eastern-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-gooey-middle-eastern-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:07:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "ferment-jang",
+    "primaryIngredient": "pancetta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Quintessential Gooey",
+    "dishForm": "Stew"
+  }
+}
