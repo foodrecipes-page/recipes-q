@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Simmered Korean Pork Stew",
+  "description": "A Whole30-friendly Korean stew made with fermented doenjang and confit tomatoes, perfect for a lazy Sunday. This dish is a fusion of Korean and Malaysian flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "doenjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the pork shoulder pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the doenjang, confit tomatoes, fish sauce, and black pepper, and stir to combine.",
+    "Pour in enough water to cover the pork and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Serve the stew hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-food",
+    "lazy-sunday",
+    "pork-recipes",
+    "stew",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quietly-simmered-korean-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-korean-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:20:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "confit-tomato",
+    "primaryIngredient": "doenjang",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pork",
+    "descriptor": "Quietly Simmered",
+    "dishForm": "Stew"
+  }
+}
