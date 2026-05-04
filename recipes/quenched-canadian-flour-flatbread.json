@@ -1,0 +1,98 @@
+{
+  "title": "Quenched Canadian Flour Flatbread",
+  "description": "A fluffy yeast flatbread infused with umami-rich nuka-pickle brine, perfect for gatherings.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian all-purpose flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "7 g"
+    },
+    {
+      "name": "Warm water",
+      "amount": "180 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "White sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "Nuka-pickle brine",
+      "amount": "30 ml"
+    },
+    {
+      "name": "Lactose-free yogurt",
+      "amount": "60 ml",
+      "notes": "adds a creamy tang and keeps dough moist"
+    },
+    {
+      "name": "Dried rosemary",
+      "amount": "1 g",
+      "notes": "for subtle herb flavor"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "10 g",
+      "notes": "boosts umami and protein"
+    }
+  ],
+  "instructions": [
+    "In a large bowl combine flour, yeast, salt, and sugar.",
+    "Add warm water and olive oil, then stir until a shaggy dough forms.",
+    "Fold in the nuka-pickle brine and yogurt, mixing until the dough is smooth and elastic.",
+    "Cover the bowl with a damp cloth and let the dough rise for 45 minutes, or until doubled in size.",
+    "Punch down the dough and divide it into six equal portions.",
+    "Roll each portion into a flat circle about 1.5 cm thick.",
+    "Heat a dry skillet over medium heat and cook each flatbread for 2-3 minutes per side, until golden and puffy.",
+    "Serve warm with additional nuka-pickle or your favorite toppings."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "canadian",
+    "lunch"
+  ],
+  "slug": "quenched-canadian-flour-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-canadian-flour-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:51:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "yeast",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "flour",
+    "descriptor": "Quenched",
+    "dishForm": "Flatbread"
+  }
+}

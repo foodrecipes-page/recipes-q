@@ -304,6 +304,17 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-canadian-flour-flatbread",
+    "title": "Quenched Canadian Flour Flatbread",
+    "tags": [
+      "canadian",
+      "lunch"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-charred-japanese-rice-curry",
     "title": "Quenched Charred Japanese Rice Curry",
     "tags": [
@@ -941,6 +952,17 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-syrian-peanut-butter-tagine",
+    "title": "Quenched Syrian Peanut Butter Tagine",
+    "tags": [
+      "syrian",
+      "dinner"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -1735,6 +1757,17 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-pretzel-wrap",
+    "title": "Quick German Pretzel Wrap",
+    "tags": [
+      "german",
+      "lunch"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
