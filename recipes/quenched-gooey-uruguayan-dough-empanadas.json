@@ -1,0 +1,93 @@
+{
+  "title": "Quenched Gooey Uruguayan Dough Empanadas",
+  "description": "A malty, gooey, crowd-pleaser Uruguayan dish featuring ground cinnamon, perfect for flexitarian diets. This empanada recipe is a unique twist on traditional Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, cinnamon, and salt.",
+    "Add malt syrup, vegetable oil, and sugar to the bowl and mix until a dough forms.",
+    "Gradually add water to the dough and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of filling in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Brush the tops with egg and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "flexitarian-friendly",
+    "gooey-pastry",
+    "malty-flavors",
+    "snack-time",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "quenched-gooey-uruguayan-dough-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-gooey-uruguayan-dough-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:56:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dough",
+    "descriptor": "quenched gooey",
+    "dishForm": "Empanadas"
+  }
+}

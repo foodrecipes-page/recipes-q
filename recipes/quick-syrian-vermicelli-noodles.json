@@ -1,0 +1,95 @@
+{
+  "title": "Quick Syrian Vermicelli Noodles",
+  "description": "Butter‑rich, springy rice vermicelli cooked in a quick bain‑marie for a comforting Syrian lunch. Simple, flavorful, and ready in minutes.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "200g"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "10g"
+    },
+    {
+      "name": "Water",
+      "amount": "400ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Set a saucepan of water to boil, then place a heatproof bowl on top to create a bain‑marie.",
+    "Add the butter to the bowl and let it melt, stirring constantly.",
+    "Stir in the ground cumin, coriander, and paprika until the spices become fragrant.",
+    "Add the rice vermicelli to the bowl and pour 400ml of hot water over it, then cover and let the vermicelli steam for 3 minutes.",
+    "After 3 minutes, stir the vermicelli gently to prevent clumping.",
+    "Season with 1 tsp of salt, and continue to simmer in the bain‑marie for another 2 minutes until the noodles are tender but springy.",
+    "Remove the bowl from the saucepan, let it sit for 1 minute to settle, then stir in chopped parsley and adjust seasoning if needed.",
+    "Serve immediately, optionally garnishing with extra parsley or a drizzle of olive oil."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lunch",
+    "quick",
+    "rice-vermicelli",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 36,
+    "fat": 10
+  },
+  "slug": "quick-syrian-vermicelli-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-syrian-vermicelli-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:55:43Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Quick",
+    "dishForm": "Noodles"
+  }
+}

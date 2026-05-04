@@ -219,6 +219,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-gooey-uruguayan-dough-empanadas",
+    "title": "Quenched Gooey Uruguayan Dough Empanadas",
+    "tags": [
+      "crowd-pleaser",
+      "flexitarian-friendly",
+      "gooey-pastry",
+      "malty-flavors",
+      "snack-time",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-greek-giant-beans-gigantes-plaki",
     "title": "Quenched Greek Giant Beans Gigantes Plaki",
     "tags": [
@@ -1360,6 +1375,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 8,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-syrian-vermicelli-noodles",
+    "title": "Quick Syrian Vermicelli Noodles",
+    "tags": [
+      "easy",
+      "lunch",
+      "quick",
+      "rice-vermicelli",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
