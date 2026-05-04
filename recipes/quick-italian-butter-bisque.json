@@ -1,0 +1,99 @@
+{
+  "title": "Quick Italian Butter Bisque",
+  "description": "A quick-fix Italian dish featuring melted butter, yuzu-cure, and a jammy, snappy twist. Perfect for a weeknight dinner.",
+  "cuisine": "piedmontese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu-cured ham",
+      "amount": "4 slices"
+    },
+    {
+      "name": "dried porcini mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated romano cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the yuzu-cured ham and cook until crispy, about 2 minutes.",
+    "Add the dried porcini mushrooms and cook until fragrant, about 1 minute.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Pour in the lemon juice and cook until the liquid has almost completely evaporated, about 2 minutes.",
+    "Stir in the olive oil and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and grated romano cheese.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "italian",
+    "jammy",
+    "quick-weeknight",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "quick-italian-butter-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-italian-butter-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "melted butter",
+    "diet": "diabetic-friendly",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "butter",
+    "descriptor": "Quick",
+    "dishForm": "Bisque"
+  }
+}

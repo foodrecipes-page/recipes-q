@@ -1,0 +1,78 @@
+{
+  "title": "Quick Silky Moroccan Chicken Tagine",
+  "description": "A flavorful and kid-friendly Moroccan dish featuring a smooth, slightly spicy sauce and a crunchy green salsa.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Halal",
+    "Gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground cumin, paprika, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the chicken breasts and cook until browned, about 5-6 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "Add the chopped onion, green salsa, nuka-pickle, and chicken broth to the skillet.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened slightly.",
+    "Stir in the yogurt and cook for an additional 2 minutes.",
+    "Return the chicken to the skillet and simmer for 2-3 minutes, or until heated through.",
+    "Sprinkle with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "easy-weeknight-dinner",
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-silky-moroccan-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-silky-moroccan-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:33:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "green salsa",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "quick silky",
+    "dishForm": "Tagine"
+  }
+}

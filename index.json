@@ -2544,6 +2544,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-glassy-tunisian-dishes-pilaf",
+    "title": "quick glassy tunisian pilaf",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "paleo",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-chinese-morning-glory-casserole",
     "title": "Quick Gooey Chinese Morning Glory Casserole",
     "tags": [
@@ -2674,6 +2688,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-italian-butter-bisque",
+    "title": "Quick Italian Butter Bisque",
+    "tags": [
+      "diabetic-friendly",
+      "easy-to-make",
+      "italian",
+      "jammy",
+      "quick-weeknight",
+      "snappy"
+    ],
+    "cuisine": "piedmontese",
+    "totalTimeMin": 13,
     "shard": "q"
   },
   {
@@ -3209,6 +3238,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-silky-moroccan-chicken-tagine",
+    "title": "Quick Silky Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "easy-weeknight-dinner",
+      "gluten-free",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

@@ -1,0 +1,109 @@
+{
+  "title": "quick glassy tunisian pilaf",
+  "description": "umami, glassy-jelly tunisian dish featuring chilli flakes, ice-bath-shock, paleo-friendly. a flavorful and quick weeknight meal",
+  "cuisine": "tunisian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality oil for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "use sea salt or kosher salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice is best for this dish"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced and toasted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the diced onion and cook until translucent, about 5 minutes.",
+    "add the minced garlic and cook for another minute, until fragrant.",
+    "add the chilli flakes and cook for 1-2 minutes, until fragrant.",
+    "add the chicken broth, salt, and black pepper. bring to a boil, then reduce heat to low and cover.",
+    "add the rice and sliced almonds to the skillet, stirring to combine.",
+    "increase heat to high and bring to a boil, then reduce heat to low, cover, and simmer for 10-15 minutes, or until the liquid is absorbed and the rice is tender.",
+    "remove the skillet from the heat and stir in the lemon juice.",
+    "transfer the pilaf to a heat-proof bowl and plunge into an ice bath to stop the cooking process."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 64,
+    "fat": 24
+  },
+  "slug": "quick-glassy-tunisian-dishes-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-glassy-tunisian-dishes-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:34Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chilli flakes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dishes",
+    "descriptor": "Quick Glassy",
+    "dishForm": "Pilaf"
+  }
+}
