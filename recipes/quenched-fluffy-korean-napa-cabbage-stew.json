@@ -1,0 +1,112 @@
+{
+  "title": "Quenched Fluffy Korean Napa Cabbage Stew",
+  "description": "A sweet and comforting pressure-cooked stew that turns napa cabbage into a fluffy, silky broth. Egg-free and packed with flavor, it pairs perfectly with steamed rice.",
+  "cuisine": "korean",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 medium (about 500g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "shiitake mushrooms, dried",
+      "amount": "200g",
+      "notes": "rehydrated and sliced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoon",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "white sugar"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups (720ml)"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "100g",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Rinse and slice the napa cabbage into bite sized pieces.",
+    "Soak the dried shiitake mushrooms in warm water for 15 minutes, then slice.",
+    "Heat the sesame oil in the pressure cooker on sauté mode, then add the minced garlic and ginger; cook until fragrant, about 30 seconds.",
+    "Stir in the sliced mushrooms, napa cabbage, gochujang, soy sauce, rice vinegar, and sugar until the cabbage is slightly wilted, about 2 minutes.",
+    "Pour in 3 cups of water, close the lid, and set the pressure cooker to high pressure for 5 minutes.",
+    "Release the pressure naturally for 5 minutes, then quick release the remaining pressure.",
+    "Open the lid, stir in the cubed silken tofu, and let the stew simmer for an additional 2 minutes on the sauté setting.",
+    "Taste and adjust seasoning with salt or additional soy sauce if needed.",
+    "Ladle the stew into bowls, garnish with sliced green onions, and serve hot with steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fluffy",
+    "korean",
+    "pressure-cooker",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 19,
+    "fat": 6
+  },
+  "slug": "quenched-fluffy-korean-napa-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-fluffy-korean-napa-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:17:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "napa cabbage",
+    "diet": "egg-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Quenched Fluffy",
+    "dishForm": "Stew"
+  }
+}
