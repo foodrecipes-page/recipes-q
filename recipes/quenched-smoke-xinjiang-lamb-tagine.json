@@ -1,0 +1,123 @@
+{
+  "title": "Quenched Smoke Xinjiang Lamb Tagine",
+  "description": "A rich and aromatic Xinjiang-inspired lamb stew with a sticky, caramelized sauce, featuring vanilla extract and a smoky depth of flavor.",
+  "cuisine": "Xinjiang",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "browned lamb shoulder",
+      "amount": "1.5 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Brown the lamb shoulder in coconut oil until nicely browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the diced onion to the pot and cook until it's lightly caramelized, about 8 minutes.",
+    "Add the sliced ginger and minced garlic to the pot and cook for 1-2 minutes, until fragrant.",
+    "Stir in the smoked paprika, ground cumin, ground coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the browned lamb, apple cider vinegar, and vanilla extract to the pot.",
+    "Bring the mixture to a simmer, then cover the pot and transfer it to the preheated oven.",
+    "Bake the tagine for 2.5 hours, or until the lamb is tender and the sauce has thickened.",
+    "Stir in the chopped dried apricots and continue to cook for another 15-20 minutes, until the sauce has reached your desired consistency.",
+    "Serve the tagine hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "low-fodmap",
+    "one-pan",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 63,
+    "carbs": 30,
+    "fat": 45
+  },
+  "slug": "quenched-smoke-xinjiang-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoke-xinjiang-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:19:00Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "smoke",
+    "primaryIngredient": "vanilla extract",
+    "diet": "fodmap",
+    "region": "xinjiang",
+    "cuisineAdjective": "Xinjiang",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quenched Smoke",
+    "dishForm": "Tagine"
+  }
+}
