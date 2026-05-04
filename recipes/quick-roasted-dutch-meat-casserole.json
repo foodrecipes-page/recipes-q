@@ -1,0 +1,111 @@
+{
+  "title": "Quick Roasted Dutch Meat Casserole",
+  "description": "A hearty and flavorful Dutch dish featuring roasted meat and white wine, perfect for a weeknight dinner. This recipe is kid-friendly and anti-inflammatory-friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "rest meat, 90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped carrots and potatoes, and cook for an additional 5 minutes.",
+    "In a small bowl, whisk together the white wine, beef broth, and tomato paste.",
+    "Pour the wine mixture over the meat and vegetables, and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to 6 ramekins and roast in the preheated oven for 20 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-roasted-dutch-meat-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-dutch-meat-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:58:57Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "rest-meat",
+    "primaryIngredient": "white wine",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "meat",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Casserole"
+  }
+}
