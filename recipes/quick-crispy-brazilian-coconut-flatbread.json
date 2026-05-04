@@ -1,0 +1,96 @@
+{
+  "title": "Quick Crispy Brazilian Coconut Flatbread",
+  "description": "Savory and crisp Brazilian flatbread with desiccated coconut, perfect for a romantic or temple-friendly snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons (optional)"
+    }
+  ],
+  "instructions": [
+    "Combine flour, desiccated coconut, baking powder, salt, and sugar in a large bowl.",
+    "Stir in active dry yeast until evenly distributed.",
+    "Add warm water and olive oil and mix until a sticky dough forms.",
+    "Turn dough onto a floured surface and knead for 5 minutes until smooth.",
+    "Return dough to the bowl, cover with a damp cloth, and let rise for 30 minutes at room temperature.",
+    "Punch down the dough, divide into eight equal portions, and roll each into a thin circle about 4 inches in diameter.",
+    "Preheat oven to 425°F and line a baking sheet with parchment paper.",
+    "Place the dough circles on the preheated Lazy Susan Spinner, ensuring they are separated, and bake for 10 minutes until golden and crisp.",
+    "Remove from oven, sprinkle with chopped cilantro if desired, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "crisp",
+    "flatbread",
+    "one-pan",
+    "quick-cooking",
+    "savory",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "quick-crispy-brazilian-coconut-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-brazilian-coconut-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:10:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Flatbread"
+  }
+}
