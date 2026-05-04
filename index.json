@@ -175,6 +175,22 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-russian-bread-flatbread",
+    "title": "Quaint Russian Bread Flatbread",
+    "tags": [
+      "crisp",
+      "family-friendly",
+      "flatbread",
+      "paleo-friendly",
+      "romantic",
+      "russian",
+      "yeasty"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-silky-chinese-pork-dumplings",
     "title": "Quaint Silky Chinese Pork Dumplings",
     "tags": [
@@ -3607,6 +3623,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-norwegian-prosciutto-soup",
+    "title": "Quintessential Norwegian Prosciutto Soup",
+    "tags": [
+      "airy",
+      "donabe",
+      "light",
+      "macrobiotic-friendly",
+      "norwegian",
+      "nutty",
+      "solo-dinner"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

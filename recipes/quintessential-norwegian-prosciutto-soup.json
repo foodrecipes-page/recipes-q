@@ -1,0 +1,99 @@
+{
+  "title": "Quintessential Norwegian Prosciutto Soup",
+  "description": "A light, nutty Norwegian soup that balances the savory depth of prosciutto with the earthy complexity of miso and toasted almonds, served hot from a traditional donabe.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prosciutto",
+      "amount": "50 g"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "water",
+      "amount": "1 l"
+    },
+    {
+      "name": "leek",
+      "amount": "1/2"
+    },
+    {
+      "name": "toasted almond flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "seaweed sheet",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat and add the water to create a gentle simmer.",
+    "Add the prosciutto slices, letting them soften for about 5 minutes while releasing flavor into the broth.",
+    "Stir in the miso paste and soy sauce until evenly dissolved.",
+    "Add the chopped onion, minced garlic, and sliced leek, cooking until the vegetables become translucent, about 7 minutes.",
+    "Fold in the toasted almond flakes, seaweed sheet, and a pinch of salt, simmering for another 5 minutes until the seaweed is tender.",
+    "Taste the soup and adjust seasoning with more salt or soy sauce if desired.",
+    "Turn off the heat, ladle the soup into a bowl, and serve hot from the donabe.",
+    "Finish with a sprinkle of fresh herbs or a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "airy",
+    "donabe",
+    "light",
+    "macrobiotic-friendly",
+    "norwegian",
+    "nutty",
+    "solo-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "quintessential-norwegian-prosciutto-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-norwegian-prosciutto-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:00:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "poach",
+    "primaryIngredient": "prosciutto",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "prosciutto",
+    "descriptor": "Quintessential",
+    "dishForm": "Soup"
+  }
+}

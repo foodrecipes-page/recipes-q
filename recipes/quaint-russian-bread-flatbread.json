@@ -1,0 +1,99 @@
+{
+  "title": "Quaint Russian Bread Flatbread",
+  "description": "A yeasty, crisp, romantic flatbread that balances the earthy flavor of celery salt with the buttery touch of beurre-monte, perfect for a paleo-friendly gathering.",
+  "cuisine": "Russian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 cup",
+      "notes": "120g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "60g"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": "180ml"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp",
+      "notes": "3g"
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tbsp",
+      "notes": "30g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": "2g"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine buckwheat flour, almond flour, and celery salt.",
+    "Sprinkle yeast over warm water and stir until dissolved.",
+    "Pour the yeast mixture into the dry ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise for 45 minutes until doubled in size.",
+    "Punch down the dough, divide it into four equal portions, and roll each into a flat circle about 1 inch thick.",
+    "Preheat a dry skillet over medium-high heat and brush with olive oil.",
+    "Cook each flatbread for 3 minutes on each side until crisp and golden, brushing with beurre-monte on the second side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crisp",
+    "family-friendly",
+    "flatbread",
+    "paleo-friendly",
+    "romantic",
+    "russian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "quaint-russian-bread-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-russian-bread-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:59:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "beurre-monte",
+    "primaryIngredient": "celery salt",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bread",
+    "descriptor": "Quaint",
+    "dishForm": "Flatbread"
+  }
+}
