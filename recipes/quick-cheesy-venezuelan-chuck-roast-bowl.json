@@ -1,0 +1,111 @@
+{
+  "title": "Quick Cheesy Venezuelan Chuck Roast Bowl",
+  "description": "A midnight-craving bowl of jammy, cheese-pull roasted chuck with vibrant Venezuelan flavors, served in a Korean brass bowl for a dramatic finish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lb chuck roast",
+      "amount": "1.5 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the robata grill to medium-high and brush the grates with olive oil.",
+    "Season the chuck cubes with black pepper, smoked paprika, cumin, oregano, and minced garlic.",
+    "Place the seasoned cubes onto the grill and sear each side until brown, about 2 minutes per side.",
+    "Add sliced bell pepper, onion, and canned diced tomatoes to the grill, cooking until vegetables are softened, about 5 minutes.",
+    "Transfer the roast and vegetables onto a preheated Korean brass bowl.",
+    "Pour 1/4 cup water over the contents to create steam and help melt the cheeses.",
+    "Sprinkle shredded mozzarella evenly over the top and cover the bowl with a lid or foil to trap heat.",
+    "Cook for an additional 5 minutes, or until the cheese melts and pulls into a creamy blanket.",
+    "Serve immediately, letting the cheese pull form a glossy topping that guests can spoon over each bite.",
+    "Optional: squeeze a dash of lime juice before serving for brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "korean-brass-bowl",
+    "low-sodium",
+    "quick",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 28,
+    "fat": 22
+  },
+  "slug": "quick-cheesy-venezuelan-chuck-roast-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-cheesy-venezuelan-chuck-roast-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:42:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "chuck roast",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Quick Cheesy",
+    "dishForm": "Bowl"
+  }
+}
