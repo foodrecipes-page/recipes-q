@@ -1,0 +1,117 @@
+{
+  "title": "Quenched Mediterranean Quinoa Bowl",
+  "description": "A smoky, fluffy, crowd-pleaser Mediterranean quinoa bowl infused with allspice, fermented kimchi, and Ayurvedic sattvic-friendly flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking quinoa"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "2 tbsp",
+      "notes": "fermented, chopped"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olives",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa under cold water until clear.",
+    "In a medium saucepan, bring 2 cups of water to a boil, add quinoa, reduce heat, cover, and simmer for 15 minutes until fluffy.",
+    "While quinoa cooks, heat 1 tbsp olive oil in a skillet over medium heat and sauté diced eggplant until golden and soft, about 8 minutes.",
+    "Add 1 tsp allspice to the eggplant, stir for 30 seconds to release flavors.",
+    "Add chopped spinach to the skillet and cook until wilted, about 2 minutes.",
+    "Once quinoa is ready, fluff with a fork and transfer to a bowl.",
+    "Top the quinoa with sautéed eggplant-spinach mixture, crumbled feta, a dollop of hummus, chopped kimchi, and sliced olives.",
+    "Drizzle 1 tbsp lemon juice and the remaining olive oil over the bowl.",
+    "Season with a pinch of salt if desired and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "allspice",
+    "crowd-pleaser",
+    "fluffy",
+    "kimchi",
+    "mediterranean",
+    "quinoa-bowl",
+    "sattvic",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 587,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 26
+  },
+  "slug": "quenched-mediterranean-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mediterranean-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:58:40Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "allspice",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "quinoa",
+    "descriptor": "Quenched",
+    "dishForm": "Bowl"
+  }
+}

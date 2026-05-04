@@ -1,0 +1,88 @@
+{
+  "title": "Quaint Silky Dutch Meat Skewers",
+  "description": "A peppery and silky Dutch dish featuring marjoram, this crowd-pleaser is perfect for any occasion, made with agemono-deep-fry method and served in a terracotta dish.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the deep fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together marjoram, black pepper, salt, garlic powder, and onion powder.",
+    "Add the pork tenderloin pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated pork pieces onto skewers, leaving a small space between each piece.",
+    "Deep fry the skewers in the preheated oil for 5-6 minutes, or until cooked through.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the skewers hot in a terracotta dish.",
+    "Garnish with fresh marjoram leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "deep-fried",
+    "dutch-cuisine",
+    "meat-skewers",
+    "paleo-friendly",
+    "terracotta-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 32
+  },
+  "slug": "quaint-silky-dutch-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-silky-dutch-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:57:46Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "marjoram",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "meat",
+    "descriptor": "Quaint Silky",
+    "dishForm": "Skewers"
+  }
+}
