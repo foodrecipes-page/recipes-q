@@ -1,0 +1,108 @@
+{
+  "title": "Quick Korean Uni Tteokguk",
+  "description": "A yeasty, cheese-pull, hangover-cure Korean Busan dish featuring uni and sous-vide eggs-free method in form of guk.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tteok (Korean rice cakes)",
+      "amount": "200g"
+    },
+    {
+      "name": "Uni (Sea Urchin)",
+      "amount": "100g"
+    },
+    {
+      "name": "Sous Vide Egg Yolks",
+      "amount": "4"
+    },
+    {
+      "name": "Korean Chili Flake (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Korean Chili Paste (gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cheese (Monterey Jack or Mozzarella)",
+      "amount": "1 cup shredded"
+    }
+  ],
+  "instructions": [
+    "Place the tteok in a large pot and cover with water.",
+    "Bring to a boil and cook for 10 minutes or until the tteok is tender.",
+    "While the tteok is cooking, combine the soy sauce, brown sugar, ginger, garlic, and chili paste in a blender and blend until smooth.",
+    "Heat the sesame oil in a pan over medium heat and add the blended soy sauce mixture.",
+    "Cook for 2 minutes or until the mixture thickens and turns dark brown.",
+    "Add the cooked tteok to the pan and stir to coat with the soy sauce mixture.",
+    "Add the uni and stir to combine.",
+    "Using a slotted spoon, place the uni and tteok mixture into individual bowls.",
+    "Top each bowl with a sous vide egg yolk and a sprinkle of cheese.",
+    "Place the bowls under the broiler for 2-3 minutes or until the cheese is melted and bubbly.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "hangover-cure",
+    "korean",
+    "seafood",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-korean-uni-tteokguk",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-korean-uni-tteokguk",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:33:00Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "uni",
+    "diet": "egg-free",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "uni",
+    "descriptor": "Quick",
+    "dishForm": "Tteokguk"
+  }
+}

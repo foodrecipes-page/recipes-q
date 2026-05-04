@@ -608,6 +608,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-korean-uni-tteokguk",
+    "title": "Quick Korean Uni Tteokguk",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "hangover-cure",
+      "korean",
+      "seafood",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-mediterranean-peanut-bowl",
     "title": "Quick Mediterranean Peanut Bowl",
     "tags": [
