@@ -1,0 +1,109 @@
+{
+  "title": "Quick Steamed Greek Cabbage Salad",
+  "description": "A refreshing and light salad featuring steamed savoy cabbage, cherry tomatoes, and a zesty Greek vinaigrette.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 small head",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "4 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "4 ounces",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Bring 2 cups of water to a boil in a medium saucepan over high heat.",
+    "Add 1 tablespoon of lemon juice and 1 tablespoon of olive oil to the water.",
+    "Reduce the heat to medium-low and add the sliced red onion to the saucepan.",
+    "Steam the onion for 3-5 minutes, or until slightly softened.",
+    "Add the cabbage to the saucepan and steam for an additional 3-5 minutes, or until slightly tender.",
+    "Remove the saucepan from the heat and let it cool for 1 minute.",
+    "Transfer the cabbage and onion to a large bowl.",
+    "Add the chopped parsley, dill, cherry tomatoes, feta cheese, kosher salt, and black pepper to the bowl.",
+    "Toss the salad gently to combine.",
+    "Serve immediately, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "mediterranean",
+    "one-pan",
+    "quick-and-easy",
+    "salad",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-steamed-greek-cabbage-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-greek-cabbage-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T02:42:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cabbage",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Salad"
+  }
+}

@@ -1044,6 +1044,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-steamed-greek-cabbage-salad",
+    "title": "Quick Steamed Greek Cabbage Salad",
+    "tags": [
+      "greek",
+      "mediterranean",
+      "one-pan",
+      "quick-and-easy",
+      "salad",
+      "summer",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [
