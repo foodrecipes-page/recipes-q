@@ -1,0 +1,121 @@
+{
+  "title": "Quick-Fix Italian pasta Risotto",
+  "description": "A quick and easy Italian-inspired dish featuring green chili and low-fat friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lombardy Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Low-fat chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Green chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Low-fat butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and saut\u00125 for 1 minute, until fragrant.",
+    "Add the Arborio rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the white wine and cook until the liquid is almost completely absorbed.",
+    "Add 1 cup of the chicken broth and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process, adding the chicken broth in 1/2 cup increments, and waiting for it to be absorbed before adding more.",
+    "When the rice is cooked and creamy, stir in the green chili, Parmesan cheese, low-fat butter, salt, and black pepper.",
+    "Stir in the fresh parsley and basil.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "lombard",
+    "low-fat",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quick-fix-italian-pasta-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-italian-pasta-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "green chilli",
+    "diet": "low-fat",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Risotto"
+  }
+}

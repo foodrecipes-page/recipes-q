@@ -2302,6 +2302,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-italian-pasta-risotto",
+    "title": "Quick-Fix Italian pasta Risotto",
+    "tags": [
+      "high-protein",
+      "italian",
+      "lombard",
+      "low-fat",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-kebab-aubergine-quesadilla",
     "title": "Quick-fix Kebab Aubergine Quesadilla",
     "tags": [
@@ -3564,6 +3580,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-thai-papaya-som-tum",
+    "title": "Quick Thai Papaya Som-Tum",
+    "tags": [
+      "quick-meal",
+      "salad",
+      "snack",
+      "street-food",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "thaifood",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

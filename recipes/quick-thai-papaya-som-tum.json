@@ -1,0 +1,101 @@
+{
+  "title": "Quick Thai Papaya Som-Tum",
+  "description": "A tangy, ovo-vegetarian-friendly Thai salad made with crispy pastry, fermented papaya, and a hint of citrus.",
+  "cuisine": "thaifood",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 x 250g ready rolled shortcrust pastry",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup fermented long-fermentation-dough papaya",
+      "amount": "",
+      "notes": "shop-bought or homemade"
+    },
+    {
+      "name": "2 tablespoons lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon fish sauce",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1 teaspoon palm sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon grated garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon grated ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped peanuts",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat an oven to 200°C.",
+    "Unroll the shortcrust pastry and place it on a baking sheet.",
+    "Bake the pastry for 10 minutes, or until crispy and golden.",
+    "Meanwhile, peel and remove the seeds from the fermented papaya.",
+    "Chop the papaya into small pieces and place it in a large bowl.",
+    "Add the lime juice, fish sauce, palm sugar, garlic, and ginger to the bowl with the papaya.",
+    "Mix the dressing until the papaya is well-coated.",
+    "Crush the baked pastry into small pieces and add it to the bowl with the papaya.",
+    "Stir in the chopped peanuts.",
+    "Taste and adjust the dressing as needed.",
+    "Serve the som-tum immediately, garnished with extra peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quick-meal",
+    "salad",
+    "snack",
+    "street-food",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-thai-papaya-som-tum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-papaya-som-tum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:37:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "ovo-vegetarian",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Quick",
+    "dishForm": "Som-Tum"
+  }
+}
