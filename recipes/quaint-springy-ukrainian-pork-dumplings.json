@@ -1,0 +1,100 @@
+{
+  "title": "Quaint Springy Ukrainian Pork Dumplings",
+  "description": "Fatty and springy Ukrainian dish featuring pork and romantic flavors, made with a Cajun twist and cooked in a bain-marie, perfect for a special occasion, this nut-free-friendly recipe is sure to delight",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "fatty cuts work best"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cajun seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, chopped onion, minced garlic, Cajun seasoning, salt, and black pepper, and mix well with your hands until just combined.",
+    "Gradually add the flour to the pork mixture, and mix until a dough forms.",
+    "Beat in the eggs until the dough is smooth and elastic.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes shiny and springy.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Bring a large pot of water to a boil, and reduce the heat to a simmer.",
+    "Gently add the dumplings to the pot, and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon, and serve hot.",
+    "To cook in a bain-marie, place the dumplings in a heatproof bowl, and set the bowl over a pot of simmering water, covering the bowl with a lid.",
+    "Steam the dumplings for 10-12 minutes, or until they are cooked through and fluffy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cajun-twist",
+    "dumplings",
+    "pork-dishes",
+    "romantic-dinner",
+    "special-occasion",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "quaint-springy-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-springy-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:22:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "cajun",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "quaint springy",
+    "dishForm": "Dumplings"
+  }
+}
