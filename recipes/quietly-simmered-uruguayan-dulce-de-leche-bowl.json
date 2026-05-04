@@ -1,0 +1,84 @@
+{
+  "title": "Quietly Simmered Uruguayan Dulce De Leche Bowl",
+  "description": "A traditional Uruguayan dessert featuring caramel sauce, this dish is perfect for a lazy Sunday, its yeasty and molten texture sure to satisfy any sweet tooth, and its gentle preparation method makes it suitable for a Buddhist temple setting, served in an earthenware bowl.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, whisk together the yeast, salt, and 1 tablespoon of warm water to activate the yeast.",
+    "In a large earthenware bowl, combine the sweetened condensed milk, water, vanilla extract, and yeast mixture.",
+    "Add the unsalted butter to the bowl and stir until it is fully incorporated.",
+    "Cover the bowl with aluminum foil and place it in the oven.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and simmer the mixture for 45 minutes.",
+    "Remove the bowl from the oven and let it cool slightly.",
+    "Remove the aluminum foil and whisk the mixture until it is smooth and creamy.",
+    "Return the bowl to the oven and simmer for an additional 10 minutes, or until the mixture has thickened into a caramel sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "caramel-sauce",
+    "lazy-sunday",
+    "molten-delights",
+    "uruguayan-dishes",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quietly-simmered-uruguayan-dulce-de-leche-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-uruguayan-dulce-de-leche-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:30:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "simmer",
+    "primaryIngredient": "caramel sauce",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dulce de leche",
+    "descriptor": "quietly simmered",
+    "dishForm": "Bowl"
+  }
+}
