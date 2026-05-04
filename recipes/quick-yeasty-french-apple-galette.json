@@ -1,0 +1,95 @@
+{
+  "title": "Quick Yeasty French Apple Galette",
+  "description": "A crispy and indulgent French dish featuring applesauce and roast apples, perfect for dessert. This galette is made with a yeasty crust and can be enjoyed raw or roasted.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roast apples",
+      "amount": "2 cups",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Add the melted butter and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Spread the applesauce over the center of the dough, leaving a 1 inch border.",
+    "Arrange the roast apples over the applesauce.",
+    "Fold the edges of the dough over the apples to form a crust.",
+    "Brush the crust with the beaten egg.",
+    "Bake the galette in a preheated oven at 375 degrees for 25 minutes.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-galette",
+    "crispy-pastry",
+    "french-dessert",
+    "vegetarian-dessert",
+    "yeasty-crust"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quick-yeasty-french-apple-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-yeasty-french-apple-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:30:02Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "applesauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "apples",
+    "descriptor": "Quick Yeasty",
+    "dishForm": "Galette"
+  }
+}

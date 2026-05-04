@@ -2573,6 +2573,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-yeasty-french-apple-galette",
+    "title": "Quick Yeasty French Apple Galette",
+    "tags": [
+      "apple-galette",
+      "crispy-pastry",
+      "french-dessert",
+      "vegetarian-dessert",
+      "yeasty-crust"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-yeasty-portuguese-pak-choi-skillet",
     "title": "Quick Yeasty Portuguese Pak Choi Skillet",
     "tags": [
