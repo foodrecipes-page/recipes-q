@@ -1,0 +1,106 @@
+{
+  "title": "Quaint Nutty Peruvian Potatoes Causa Limena",
+  "description": "A romantic Peruvian dish featuring orange blossom water and flambe, this nutty causa limena is a unique and delicious experience. It is egg-free-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "preferably yellow potatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "rum",
+      "amount": "1 tablespoon",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the potatoes until they are tender, then let them cool.",
+    "Mash the potatoes in a bowl with a fork until they are mostly smooth.",
+    "Heat the olive oil in a pan over medium heat and saute the onion and garlic until the onion is translucent.",
+    "Add the chopped aji amarillo pepper to the pan and cook for 1 minute.",
+    "Stir in the orange blossom water and cook for 1 minute.",
+    "Add the mashed potatoes to the pan and stir until they are well combined with the onion and pepper mixture.",
+    "Stir in the chopped walnuts and season with salt and black pepper to taste.",
+    "Transfer the potato mixture to a serving dish and flambe with rum.",
+    "Let the dish cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "gluten-free",
+    "peruvian-cuisine",
+    "romantic-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaint-nutty-peruvian-potatoes-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-nutty-peruvian-potatoes-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:03:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "flambe",
+    "primaryIngredient": "orange blossom water",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "quaint nutty",
+    "dishForm": "Causa Limena"
+  }
+}
