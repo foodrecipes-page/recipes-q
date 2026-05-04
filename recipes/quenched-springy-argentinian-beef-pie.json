@@ -1,0 +1,104 @@
+{
+  "title": "Quenched Springy Argentinian Beef Pie",
+  "description": "A fragrant, jammy beef pie with a springy, laminated puff crust, infused with doenjang for a savory depth, perfect for a solo Argentinian dinner.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal ground beef",
+      "amount": "200 g"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "50 g"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "5 g"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "30 g"
+    },
+    {
+      "name": "Celery stalk, diced",
+      "amount": "20 g"
+    },
+    {
+      "name": "Doenjang",
+      "amount": "20 g"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "20 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5 g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2 g"
+    },
+    {
+      "name": "Butter",
+      "amount": "15 g"
+    },
+    {
+      "name": "Puff pastry sheet",
+      "amount": "200 g"
+    }
+  ],
+  "instructions": [
+    "Season the ground beef with salt and pepper and brown it in a skillet over medium heat.",
+    "Add the chopped onion, garlic, carrot, and celery and cook until the vegetables soften.",
+    "Stir in the doenjang and pour in the beef broth, then simmer for 10 minutes until the liquid reduces.",
+    "Whisk the flour into the mixture to thicken the sauce and let it simmer for another 2 minutes.",
+    "Pat the beef mixture into a 20 cm square baking dish and cover with the puff pastry sheet, sealing the edges.",
+    "Brush the pastry with melted butter and bake at 190°C for 20 minutes until the crust puffs and turns golden.",
+    "Remove the pie from the oven and let it rest for 5 minutes before serving.",
+    "Slice the pie into four equal portions and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-pie",
+    "halal-friendly",
+    "korean-asiatic",
+    "puff-pastry",
+    "single-dish"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "quenched-springy-argentinian-beef-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-springy-argentinian-beef-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:31:58Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "doenjang",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Quenched Springy",
+    "dishForm": "Pie"
+  }
+}

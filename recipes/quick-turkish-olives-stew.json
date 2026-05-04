@@ -1,0 +1,109 @@
+{
+  "title": "Quick Turkish Olives Stew",
+  "description": "A fragrant one-pot stew bursting with herbs and the brine of black olives, perfect for a speedy dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "diced tomatoes, canned",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons olive oil in a lacquerware bowl over medium heat.",
+    "Add diced onion, minced garlic, sliced carrot, and diced bell pepper, sautéing until softened, about 5 minutes.",
+    "Stir in 1 cup diced tomatoes, 2 cups chicken broth, 1 teaspoon dried oregano, 1 teaspoon dried thyme, 1/2 teaspoon salt, and 1/4 teaspoon black pepper, bringing the mixture to a simmer.",
+    "Reduce heat to low and add 1 cup pitted black olives, allowing the stew to gently simmer for 15 minutes to meld flavors.",
+    "Sprinkle in 1 teaspoon lemon zest and stir to combine.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Remove from heat and let the stew sit for 2 minutes to thicken slightly.",
+    "Serve hot as a hearty lunch or dinner, optionally garnished with fresh parsley or extra lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "herbaceous",
+    "one-pot",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 15
+  },
+  "slug": "quick-turkish-olives-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-turkish-olives-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:31:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pitted black olives",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Olives",
+    "descriptor": "Quick",
+    "dishForm": "Stew"
+  }
+}

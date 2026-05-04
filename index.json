@@ -442,6 +442,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-springy-argentinian-beef-pie",
+    "title": "Quenched Springy Argentinian Beef Pie",
+    "tags": [
+      "argentinian",
+      "beef-pie",
+      "halal-friendly",
+      "korean-asiatic",
+      "puff-pastry",
+      "single-dish"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-thai-shrimp-boat-noodles",
     "title": "Quenched Thai Shrimp Boat Noodles",
     "tags": [
@@ -1243,6 +1258,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 8,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-turkish-olives-stew",
+    "title": "Quick Turkish Olives Stew",
+    "tags": [
+      "gluten-free",
+      "herbaceous",
+      "one-pot",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
