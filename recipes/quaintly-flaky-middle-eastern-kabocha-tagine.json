@@ -1,0 +1,105 @@
+{
+  "title": "Quaintly Flaky Middle Eastern Kabocha Tagine",
+  "description": "A nostalgic Middle Eastern dish featuring kabocha, with a flaky texture and a hint of mustard, made with mortar-pestle-pound technique, shojin-friendly. It is a hearty and comforting meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large mortar, pound the onion and garlic until well combined.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the mortar and pound until well combined.",
+    "In a large bowl, toss the kabocha squash with the mortar mixture until the squash is well coated.",
+    "Roll out the pastry dough to a large rectangle, about 1/4 inch thick.",
+    "Spread the dijon mustard evenly over the center of the dough, leaving a 1 inch border around the edges.",
+    "Arrange the kabocha squash mixture over the mustard, leaving a 1 inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with olive oil and cut a few slits in the top to allow steam to escape.",
+    "Bake the tagine for 40 minutes, or until the pastry is golden brown and the squash is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumnal",
+    "comfort-food",
+    "flaky-pastry",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaintly-flaky-middle-eastern-kabocha-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-flaky-middle-eastern-kabocha-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:48:57Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "kabocha",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "kabocha",
+    "descriptor": "Quaintly Flaky",
+    "dishForm": "Tagine"
+  }
+}
