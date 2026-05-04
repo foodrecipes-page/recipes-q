@@ -1892,6 +1892,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-smoky-ethiopian-beef-stew",
+    "title": "Quick Smoky Ethiopian Beef Stew",
+    "tags": [
+      "beef",
+      "lazy-sunday",
+      "one-pot",
+      "quick",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-snappy-russian-gherkin-skewers",
     "title": "Quick Snappy Russian Gherkin Skewers",
     "tags": [

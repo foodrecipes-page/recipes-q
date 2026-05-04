@@ -1,0 +1,114 @@
+{
+  "title": "Quick Smoky Ethiopian Beef Stew",
+  "description": "A charred, smoky beef stew packed with Ethiopian flavors, served straight from a mason jar for a lazy Sunday meal.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef chuck, cubed",
+      "amount": "1.5 lb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": "use smoked salt for extra depth"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "Bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a cast iron skillet over medium-high heat and add olive oil.",
+    "Sear the beef cubes until browned on all sides, then remove and set aside.",
+    "In the same skillet, add onions and cook until translucent.",
+    "Stir in minced garlic, grated ginger, and tomato paste, letting it cook for 2 minutes.",
+    "Add berbere, smoked paprika, salt, pepper, and bay leaf, stirring to coat the aromatics.",
+    "Transfer the beef, aromatics, and liquid to the mason jar, adding beef broth and water.",
+    "Seal the jar, shake gently, and place it in a preheated oven at 400°F for 20 minutes to simmer and infuse flavors.",
+    "Remove from oven, open the jar, stir, and serve hot garnished with cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "lazy-sunday",
+    "one-pot",
+    "quick",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-smoky-ethiopian-beef-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-ethiopian-beef-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:04:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "seasoning",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Beef",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Stew"
+  }
+}
