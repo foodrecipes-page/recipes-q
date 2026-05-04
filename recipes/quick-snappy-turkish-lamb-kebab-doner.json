@@ -1,0 +1,109 @@
+{
+  "title": "Quick Snappy Turkish Lamb Kebab Doner",
+  "description": "A fatty and snappy Turkish dish featuring lamb, Sichuan pepper, and beurre-monte, perfect for a weeknight dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "warm"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or doner kebab pan over medium-high heat",
+    "In a small bowl, mix together Sichuan pepper, paprika, salt, and black pepper",
+    "Add the sliced lamb to the bowl and toss to coat with the spice mixture",
+    "Add the melted beurre-monte to the skillet and swirl to coat the bottom",
+    "Add the sliced onion to the skillet and cook until caramelized, about 5 minutes",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant",
+    "Add the coated lamb to the skillet and cook for 5-7 minutes, until cooked through",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes",
+    "Assemble the doner kebab by slicing the cooked lamb and serving it in the warm pita bread with diced tomato and caramelized onion"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "lamb-based",
+    "middle-eastern",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "quick-snappy-turkish-lamb-kebab-doner",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-snappy-turkish-lamb-kebab-doner",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:42:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "beurre-monte",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Snappy",
+    "dishForm": "Kebab Doner"
+  }
+}

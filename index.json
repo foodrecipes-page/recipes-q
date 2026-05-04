@@ -2368,6 +2368,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-snappy-turkish-lamb-kebab-doner",
+    "title": "Quick Snappy Turkish Lamb Kebab Doner",
+    "tags": [
+      "flexitarian",
+      "lamb-based",
+      "middle-eastern",
+      "one-pan",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-spicy-japanese-collards-paella",
     "title": "Quick Spicy Japanese Collards Paella",
     "tags": [
