@@ -1,0 +1,106 @@
+{
+  "title": "Quick Fix Turkish Wagyu Kebabs",
+  "description": "A quick-fix Turkish dish featuring Wagyu beef, resting meat, and a sweet glaze that's sugar-free friendly.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu beef",
+      "amount": "1 pound",
+      "notes": "preferably thinly sliced"
+    },
+    {
+      "name": "resting meat",
+      "amount": "1 cup",
+      "notes": "such as lamb, beef, or turkey"
+    },
+    {
+      "name": "sweet paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, around 400°F (200°C).",
+    "Thread the Wagyu beef and resting meat onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the sweet paprika, cumin, salt, and black pepper.",
+    "Brush the skewers with olive oil and sprinkle with the spice mixture.",
+    "Place the skewers on the grill and cook for 8-10 minutes, or until cooked to your desired level of doneness.",
+    "While the skewers are cooking, mix together the brown sugar, apple cider vinegar, and a pinch of salt in a small bowl.",
+    "After 8 minutes, brush the skewers with the sweet glaze and cook for an additional 2-3 minutes.",
+    "Remove the skewers from the grill and garnish with chopped parsley.",
+    "Serve immediately and enjoy!",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "sugar-free",
+    "turkish",
+    "wagyu"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-fix-turkish-wagyu-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-turkish-wagyu-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "rest-meat",
+    "primaryIngredient": "wagyu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Quick Fix",
+    "dishForm": "Kebabs"
+  }
+}

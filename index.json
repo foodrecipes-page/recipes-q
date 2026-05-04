@@ -2594,6 +2594,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-turkish-wagyu-kebabs",
+    "title": "Quick Fix Turkish Wagyu Kebabs",
+    "tags": [
+      "kebabs",
+      "sugar-free",
+      "turkish",
+      "wagyu"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-winey-kenyan-beef-agemono",
     "title": "Quick-Fix Winey Kenyan Beef Agemono",
     "tags": [
