@@ -1,0 +1,98 @@
+{
+  "title": "Quenched Italian Jerusalem Artichokes Cake",
+  "description": "A light, resinous panforte-inspired cake with caramelized Jerusalem artichokes, finished with a deglaze fond, served solo in an agave leaf vessel.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "300 g",
+      "notes": "peeled and sliced 5 mm thick"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "100 g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and line a round panforte mold with parchment.",
+    "Whisk together whole wheat flour, almond flour, salt, and cinnamon in a bowl.",
+    "Heat coconut oil in a skillet over medium heat and add sliced Jerusalem artichokes, cooking until golden brown.",
+    "Stir in maple syrup and a splash of apple cider vinegar, letting the mixture reduce to a thick glaze.",
+    "Fold the cooked artichokes into the dry flour mixture until well coated.",
+    "Press the batter into the prepared mold, smoothing the top with a spatula.",
+    "Bake for 30 minutes until the cake is firm and a toothpick comes out clean.",
+    "Remove from oven and let cool in the mold for 10 minutes.",
+    "Slice the cake and drizzle with remaining maple syrup glaze before serving.",
+    "Serve the cake warm, plated inside a sliced agave leaf for a rustic touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf",
+    "jerusalem-artichokes",
+    "light",
+    "panforte",
+    "resinous",
+    "solo-dinner",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "quenched-italian-jerusalem-artichokes-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-italian-jerusalem-artichokes-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:55:16Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Quenched",
+    "dishForm": "Cake"
+  }
+}
