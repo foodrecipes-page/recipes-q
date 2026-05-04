@@ -1,0 +1,124 @@
+{
+  "title": "Quenched Pillow French Nduja Tatin",
+  "description": "A plant-based French dish inspired by Tatin, featuring nduja and a crispy, pillowy texture. This date-night classic from Lyon is sure to impress.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "date jam",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "canned red pepper",
+      "amount": "1",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "canned artichoke",
+      "amount": "1",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1/2 cup",
+      "notes": "plant-based, crumbled"
+    },
+    {
+      "name": "plant-based cream cheese",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "render-fat",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425\t8F.",
+    "In a small bowl, mix together the nduja, date jam, and thyme.",
+    "In a large ceramic tagine, heat the olive oil over medium heat. Add the sliced red onion and cook until caramelized.",
+    "Add the chopped red pepper and artichoke to the tagine, cooking for an additional 2-3 minutes.",
+    "Spread the nduja-date jam mixture evenly over the top of the vegetables.",
+    "Crumble the cottage cheese and plant-based cream cheese over the nduja mixture.",
+    "Drizzle the render-fat over the top of the cheese mixture.",
+    "Transfer the tagine to the preheated oven and bake for 15-20 minutes, or until the top is golden brown and the cheese is melted.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving.",
+    "Serve the Quenched Pillow French Nduja Tatin hot, garnished with fresh thyme if desired.",
+    "Garnish with a sprinkle of black pepper and a dollop of plant-based cream cheese, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "french",
+    "lyon",
+    "nduja",
+    "one-pan",
+    "plant-based",
+    "ratatouille",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 42,
+    "carbs": 60,
+    "fat": 48
+  },
+  "slug": "quenched-pillow-french-nduja-tatin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-pillow-french-nduja-tatin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "nduja",
+    "diet": "plant-based",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "nduja",
+    "descriptor": "Quenched Pillow",
+    "dishForm": "Tatin"
+  }
+}

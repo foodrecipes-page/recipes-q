@@ -1176,6 +1176,23 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-pillow-french-nduja-tatin",
+    "title": "Quenched Pillow French Nduja Tatin",
+    "tags": [
+      "date-night",
+      "french",
+      "lyon",
+      "nduja",
+      "one-pan",
+      "plant-based",
+      "ratatouille",
+      "vegan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-portuguese-tofu-stir-fry",
     "title": "Quenched Portuguese Tofu Stir-fry",
     "tags": [
@@ -3436,6 +3453,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-wilted-northern-thai-vermicelli-tom-kha",
+    "title": "Quick Smoky Wilted Northern Thai Vermicelli Tom Kha",
+    "tags": [
+      "high-protein",
+      "no-onion-no-garlic",
+      "northern-thai",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
