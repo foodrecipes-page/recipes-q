@@ -1,0 +1,108 @@
+{
+  "title": "Quick-Fix German Long Beans Hash",
+  "description": "A rich, molten, quick-fix German dish featuring Chinese long beans, dehydrated for a Mediterranean twist. Serve as a side or main course.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese Long Beans",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced bacon and cook until crispy, about 5 minutes.",
+    "Add the Chinese long beans and cook for 5 minutes, or until they start to soften.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Sprinkle the flour over the vegetables and cook for 1 minute, stirring constantly.",
+    "Gradually add the chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes, or until the liquid has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "one-pan",
+    "quick-fix",
+    "veggie-forward",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-fix-german-long-beans-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-german-long-beans-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "dehydrate",
+    "primaryIngredient": "chinese long beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "long beans",
+    "descriptor": "quick-fix",
+    "dishForm": "Hash"
+  }
+}
