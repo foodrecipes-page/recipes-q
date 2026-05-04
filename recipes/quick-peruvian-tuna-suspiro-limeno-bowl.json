@@ -1,0 +1,105 @@
+{
+  "title": "Quick Peruvian Tuna Suspiro Limeno Bowl",
+  "description": "A tangy, silky bowl of seared tuna, sesame butter sauce, and fluffy rice, inspired by Peruvian flavors and the light texture of suspiro limeno.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steak",
+      "amount": "200 g",
+      "notes": "fresh, 1 inch thick"
+    },
+    {
+      "name": "sesame butter",
+      "amount": "30 g",
+      "notes": "butter blended with toasted sesame paste"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tbsp",
+      "notes": "shoyu based stock powder"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for umami"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "rice",
+      "amount": "200 g",
+      "notes": "cooked jasmine rice"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain the jasmine rice, then cook according to package instructions.",
+    "In a small bowl whisk together sesame butter, dashi extract, low sodium soy sauce, lime juice, minced garlic, and grated ginger until smooth.",
+    "Pat the tuna steak dry with paper towels and season lightly with salt and cracked pepper.",
+    "Heat a nonstick skillet over high heat and sear the tuna steak for 1 minute on each side for medium-rare.",
+    "Slice the seared tuna into thin strips and transfer to a serving bowl.",
+    "Pour the tangy sesame sauce over the tuna strips, then add the cooked rice at the bottom of the bowl.",
+    "Garnish with sliced green onion, toasted sesame seeds, and a squeeze of fresh lime for extra brightness.",
+    "Serve immediately while the tuna is still warm, and enjoy the silky, tangy flavors of this Peruvian inspired bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy",
+    "low-sodium",
+    "peruvian",
+    "quick",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-peruvian-tuna-suspiro-limeno-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-peruvian-tuna-suspiro-limeno-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:23:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "dashi-extract",
+    "primaryIngredient": "sesame butter",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tuna",
+    "descriptor": "Quick",
+    "dishForm": "Suspiro Limeno Bowl"
+  }
+}
