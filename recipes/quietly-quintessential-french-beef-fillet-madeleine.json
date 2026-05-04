@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Quintessential French Beef Fillet Madeleine",
+  "description": "A savory French dish featuring beef fillet, made in a madeleine form and served on a wooden board, perfect for a lazy Sunday lunch. This pescatarian-friendly dish has a unique tadka flavor.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 pound",
+      "notes": "tied with kitchen twine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef fillet with salt, black pepper, and thyme.",
+    "Heat the olive oil in a skillet over medium-high heat and sear the beef fillet until browned on all sides.",
+    "Transfer the beef fillet to a madeleine mold and set aside.",
+    "In the same skillet, add the butter and cook until melted, then add the sliced onion and cook until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Sprinkle the flour over the onion mixture and cook for 1 minute.",
+    "Gradually add the shredded gruyere cheese to the skillet and stir until melted and smooth.",
+    "Pour the cheese mixture over the beef fillet in the madeleine mold.",
+    "Bake the madeleine in the preheated oven for 25 minutes or until the beef is cooked to 130 degrees Fahrenheit for medium-rare."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "french-cuisine",
+    "lazy-sunday",
+    "madeleine-recipes",
+    "pescatarian-friendly",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quietly-quintessential-french-beef-fillet-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quintessential-french-beef-fillet-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:16:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "tadka",
+    "primaryIngredient": "beef fillet",
+    "diet": "pescatarian",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Quietly Quintessential",
+    "dishForm": "Madeleine"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Light Algerian Chicken Liver Wrap",
+  "description": "A pungent and light Algerian dish featuring chicken liver, served in a mason jar with ssam wrap, ovo-vegetarian friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "egg",
+      "amount": "1 hard boiled",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together olive oil, cumin, paprika, salt, and black pepper.",
+    "Add the sliced chicken liver to the bowl and toss to coat.",
+    "Spread the chicken liver mixture on a baking sheet and bake for 15 minutes.",
+    "While the chicken liver is cooking, heat a pan over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic to the pan and cook for an additional minute.",
+    "Once the chicken liver is done, let it cool for a few minutes.",
+    "Assemble the wrap by placing a piece of ssam wrap in the bottom of a mason jar, followed by a slice of chicken liver, some sauteed onion and garlic, and a slice of hard boiled egg.",
+    "Repeat the layers until the jar is full, ending with a piece of ssam wrap on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "high-protein",
+    "mason-jar",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quaint-light-algerian-chicken-liver-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-light-algerian-chicken-liver-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:16:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chicken liver",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "quaint light",
+    "dishForm": "Wrap"
+  }
+}

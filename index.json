@@ -132,6 +132,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-light-algerian-chicken-liver-wrap",
+    "title": "Quaint Light Algerian Chicken Liver Wrap",
+    "tags": [
+      "algerian-cuisine",
+      "high-protein",
+      "mason-jar",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-malty-ukrainian-pork-dumplings",
     "title": "Quaint Malty Ukrainian Pork Dumplings",
     "tags": [
@@ -3634,6 +3649,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quintessential-french-beef-fillet-madeleine",
+    "title": "Quietly Quintessential French Beef Fillet Madeleine",
+    "tags": [
+      "beef-recipes",
+      "french-cuisine",
+      "lazy-sunday",
+      "madeleine-recipes",
+      "pescatarian-friendly",
+      "wooden-board-presentation"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
