@@ -465,6 +465,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-buttery-romantic-vietnamese-bacon-nem-nuong",
+    "title": "Quenched Buttery Romantic Vietnamese Bacon Nem Nuong",
+    "tags": [
+      "bacon",
+      "one-pan",
+      "romantic",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-canadian-baby-squid-ceviche",
     "title": "Quenched Canadian Baby Squid Ceviche",
     "tags": [
@@ -2027,6 +2041,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-energizing-middle-eastern-greens-tabbouleh",
+    "title": "Quick,Energizing Middle-Eastern Greens Tabbouleh",
+    "tags": [
+      "gluten-free",
+      "green-salad",
+      "middle-eastern",
+      "one-pan",
+      "paleo",
+      "quick-and-easy",
+      "vegan"
+    ],
+    "cuisine": "Middle-Eastern",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-energizing-thai-veal-kanom-jeen",
     "title": "Quick Energizing Thai Veal Kanom Jeen",
     "tags": [
@@ -3309,6 +3339,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-warm-crispy-vietnamese-paprika-banh-mi-wraps",
+    "title": "Quick Crispy Vietnamese Paprika Bánh Mì Wraps",
+    "tags": [
+      "easy-weeknight",
+      "quick-meal",
+      "street-food",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {

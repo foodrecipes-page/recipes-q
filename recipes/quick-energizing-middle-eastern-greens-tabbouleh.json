@@ -1,0 +1,99 @@
+{
+  "title": "Quick,Energizing Middle-Eastern Greens Tabbouleh",
+  "description": "A crisp, energizing middle-eastern salad made with parsley, mint, and bulgur, served in a cataplana. This dish is perfect for a quick lunch or snack.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parsley",
+      "amount": "1 bunch",
+      "notes": "Fresh parsley is a must for this tabbouleh."
+    },
+    {
+      "name": "Mint",
+      "amount": "1/4 cup",
+      "notes": "Add a few sprigs of fresh mint for flavor and zest."
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": "Use fine-grained bulgur for a quicker cooking time."
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Melt the ghee in the cataplana before adding the bulgur."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Add a squeeze of fresh lemon juice to the salad."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Mince the garlic and mix with the parsley and mint."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season the salad with salt and pepper to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add a few grinds of black pepper for extra flavor."
+    }
+  ],
+  "instructions": [
+    "Combine bulgur, ghee, and a pinch of salt in a sous-vide water bath at 180\u000530F for 30 minutes.",
+    "Drain the bulgur and let it cool to room temperature.",
+    "Chop the parsley and mint and mix with the cooled bulgur.",
+    "Add the lemon juice, garlic, salt, and black pepper, and mix well.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tabbouleh in a cataplana, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "green-salad",
+    "middle-eastern",
+    "one-pan",
+    "paleo",
+    "quick-and-easy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quick-energizing-middle-eastern-greens-tabbouleh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-middle-eastern-greens-tabbouleh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "sous-vide",
+    "primaryIngredient": "ghee",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "greens",
+    "descriptor": "Quick, Energizing",
+    "dishForm": "Tabbouleh"
+  }
+}

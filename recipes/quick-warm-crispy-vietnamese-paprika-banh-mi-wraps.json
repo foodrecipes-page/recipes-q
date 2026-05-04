@@ -1,0 +1,120 @@
+{
+  "title": "Quick Crispy Vietnamese Paprika Bánh Mì Wraps",
+  "description": "Umami, velvety, quick-fix Vietnamese dish featuring paprika and long-fermentation-dough. A Buddhist-temple-friendly option for a satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Fermented fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soft long-fermentation dough",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Pickled carrots and daikon",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced pork belly",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix paprika, grated ginger, garlic, fermented fish sauce, soy sauce, sugar, and rice vinegar in a bowl.",
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add the sliced pork belly to the pan and cook for 2 minutes on each side.",
+    "Soften the long-fermentation dough in a separate pan with a little water.",
+    "Assemble the bánh mì wraps by placing a piece of dough on a plate, adding some pickled carrots and daikon, sliced cucumber, and a few slices of pork belly.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "quick-meal",
+    "street-food",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 26
+  },
+  "slug": "quick-warm-crispy-vietnamese-paprika-banh-mi-wraps",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-warm-crispy-vietnamese-paprika-banh-mi-wraps",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:17:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "paprika",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "paprika",
+    "descriptor": "quick warm crispy",
+    "dishForm": "Bánh Mì- Wraps"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Quenched Buttery Romantic Vietnamese Bacon Nem Nuong",
+  "description": "This aerated, buttery nem nuong dish is a delicious twist on traditional Vietnamese cuisine, featuring crispy bacon and a rich, velvety sauce.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rice paper wrappers",
+      "amount": "12 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine fish sauce, soy sauce, hoisin sauce, sugar, and 1 tablespoon of butter. Heat over medium heat, whisking constantly, until the butter has melted and the sauce is smooth.",
+    "Remove the sauce from the heat and stir in the egg yolks. Set aside.",
+    "In a large skillet or wok, cook the bacon over medium-high heat until crispy. Remove the bacon from the skillet and set aside.",
+    "Add the remaining 3 tablespoons of butter to the skillet and cook until melted. Add the shallots and cook until softened, about 2 minutes.",
+    "Add the grated ginger and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the cooked pork to the skillet and cook until heated through.",
+    "Add the cooked bacon, sauce, and 1/4 cup of chopped cilantro to the pork mixture. Stir to combine.",
+    "Soak the rice paper wrappers in warm water for about 30 seconds, until pliable.",
+    "Assemble the nem nuong by placing a few tablespoons of the pork mixture onto a wrapper, then folding the wrapper into a triangle and securing with a toothpick. Repeat with the remaining ingredients.",
+    "Serve the nem nuong hot, garnished with additional cilantro and sauce if desired.",
+    "To serve, place a few nem nuong on a plate, spoon some of the sauce over the top, and garnish with a sprinkle of chopped cilantro and a dash of sesame oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bacon",
+    "one-pan",
+    "romantic",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 38
+  },
+  "slug": "quenched-buttery-romantic-vietnamese-bacon-nem-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-buttery-romantic-vietnamese-bacon-nem-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:26Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "bacon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Romantic Vietnamese",
+    "mainIngredient": "Bacon",
+    "descriptor": "Quenched buttery",
+    "dishForm": "Nem Nuong"
+  }
+}
