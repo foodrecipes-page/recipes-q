@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Fluffy Ukrainian Ackee Pilaf",
+  "description": "A flavorful and nutritious post-workout Ukrainian dish featuring ackee, this pilaf is both umami and fluffy, making it a great ovo-vegetarian-friendly option.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup",
+      "notes": "canned or fresh, drained and chopped"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and saute until translucent.",
+    "Add sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add minced garlic and cook for 1 minute, stirring constantly.",
+    "Add cooked brown rice, chopped ackee, vegetable broth, smoked paprika, and beaten egg to the skillet.",
+    "Stir everything together, then reduce heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Use a kitchen torch to flambe the top of the pilaf, if desired.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "one-pan",
+    "ovo-vegetarian",
+    "post-workout",
+    "ukrainian-cuisine",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quenched-fluffy-ukrainian-ackee-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-fluffy-ukrainian-ackee-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:48:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "ackee",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "ackee",
+    "descriptor": "quenched fluffy",
+    "dishForm": "Pilaf"
+  }
+}
