@@ -1,0 +1,113 @@
+{
+  "title": "Quenched Greek Giant Beans Gigantes Plaki",
+  "description": "A savory, dense Greek bean stew featuring beef stock and a soffritto base, perfect for a brunch mood.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "giant cannellini beans",
+      "amount": "8 cups cooked",
+      "notes": "use dried beans soaked overnight and boiled until tender"
+    },
+    {
+      "name": "beef stock",
+      "amount": "8 cups",
+      "notes": "low sodium if desired"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4 cloves minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and sauté onion, carrot, and celery until softened, about 5 minutes.",
+    "Add minced garlic and cook another minute until fragrant.",
+    "Stir in tomato paste and cook 2 minutes to develop flavor.",
+    "Pour in beef stock, add cooked beans, oregano, bay leaf, salt, and pepper; bring to a simmer.",
+    "Reduce heat to low, cover, and let the mixture gently simmer for 30 minutes, stirring occasionally.",
+    "Remove bay leaf, taste, and adjust seasoning if needed.",
+    "Transfer the beans to a baking dish, sprinkle chopped parsley on top, and bake at 350°F for 10 minutes to meld flavors.",
+    "Serve hot with crusty bread or a side salad for a hearty brunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stock",
+    "brunch",
+    "dense",
+    "gourmet",
+    "hearty",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "quenched-greek-giant-beans-gigantes-plaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-greek-giant-beans-gigantes-plaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:45:34Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "beef stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "giant beans",
+    "descriptor": "Quenched",
+    "dishForm": "Gigantes Plaki"
+  }
+}
