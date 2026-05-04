@@ -1,0 +1,109 @@
+{
+  "title": "Quick Cooked Malaysian Chinese Long Beans Noodles",
+  "description": "A light and yeasty one-pot Malaysian dish featuring Chinese long beans, served with al-dente noodles.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Chinese long beans",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Shrimp paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground white pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger; stir-fry until fragrant.",
+    "Add Chinese long beans; stir-fry until tender.",
+    "Add shrimp paste, tamarind paste, soy sauce, palm sugar, white pepper, and salt; stir-fry until combined.",
+    "Add noodles; stir-fry until coated with the sauce.",
+    "Remove from heat; garnish with cilantro."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "gluten-free-friendly",
+    "high-fiber",
+    "one-pan",
+    "quick-cook",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "quick-cooked-malaysian-chinese-long-beans-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-cooked-malaysian-chinese-long-beans-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T07:22:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chinese long beans",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Chinese long beans",
+    "descriptor": "Quick-cooked",
+    "dishForm": "Noodles"
+  }
+}
