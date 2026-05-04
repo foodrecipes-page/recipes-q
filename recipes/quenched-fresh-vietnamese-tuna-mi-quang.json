@@ -1,0 +1,107 @@
+{
+  "title": "quenched fresh vietnamese tuna mi quang",
+  "description": "a paleo-friendly, steam-cooked dish featuring tuna, glassy-jelly texture, and a fresh, adventurous flavor.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "2"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "steamed bok choy",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "coconut water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Steam the bok choy for 3 minutes until tender.",
+    "Season the tuna steaks with salt and pepper.",
+    "In a large pan, mix together coconut milk, fish sauce, lime juice, and palm sugar.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Add the steamed bok choy to the pan and stir to combine.",
+    "Add the tuna steaks to the pan and cook for 2 minutes per side.",
+    "Stir in sesame oil and cook for an additional minute.",
+    "Transfer the tuna and sauce to a serving dish.",
+    "Garnish with fresh basil and a sprinkle of salt.",
+    "Serve immediately with a side of steamed coconut water.",
+    "Quench the tuna in the coconut water for 1 minute to achieve the glassy-jelly texture.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "gluten-free",
+    "high-protein",
+    "paleo",
+    "seafood",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 70,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quenched-fresh-vietnamese-tuna-mi-quang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-fresh-vietnamese-tuna-mi-quang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:10:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "tuna",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tuna",
+    "descriptor": "Quenched Fresh",
+    "dishForm": "Mi Quang"
+  }
+}

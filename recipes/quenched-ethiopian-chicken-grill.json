@@ -1,0 +1,104 @@
+{
+  "title": "Quenched Ethiopian Chicken Grill",
+  "description": "A rich, snappy brunch style Ethiopian chicken grill packed with berbere spice, soy sauce, and fresh herbs.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, boneless skinless",
+      "amount": "800g",
+      "notes": "4 pieces, about 200g each"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Tamari soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "Pat the chicken thighs dry and place them in a bowl.",
+    "In a small bowl mix berbere, minced garlic, grated ginger, salt, pepper, and coconut oil to form a paste.",
+    "Coat each chicken piece with the spice paste, ensuring even coverage.",
+    "Let the marinated chicken rest for 15 minutes at room temperature.",
+    "Preheat a grill or grill pan to medium-high heat (about 200°C).",
+    "Grill the chicken thighs for 6-7 minutes per side, or until the internal temperature reaches 74°C.",
+    "During the last minute of cooking, baste the chicken with tamari soy sauce.",
+    "Remove the chicken from the grill and let it rest for 5 minutes.",
+    "Sprinkle fresh lemon juice over the thighs and garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 14,
+  "totalTimeMin": 34,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-idea",
+    "ethiopian",
+    "high-protein",
+    "paleo-friendly",
+    "quick-grill",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 1970,
+    "protein": 157,
+    "carbs": 7,
+    "fat": 126
+  },
+  "slug": "quenched-ethiopian-chicken-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ethiopian-chicken-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:10:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "soy sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quenched",
+    "dishForm": "Grill"
+  }
+}

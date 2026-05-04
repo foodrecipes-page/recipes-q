@@ -1,0 +1,95 @@
+{
+  "title": "Quick Crispy German Potato Hash",
+  "description": "Jammy, crispy potatoes tossed in salted butter and paprika, finished in an air fryer for a low‑fat, cozy German twist.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "500g",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "Salted butter",
+      "amount": "1 tbsp",
+      "notes": "12g"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "2g"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "½ tsp",
+      "notes": "1g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "¼ tsp",
+      "notes": "1g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "5g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C.",
+    "Toss the diced potatoes with salted butter, paprika, thyme, pepper, and a pinch of salt.",
+    "Spread the potatoes in a single layer in the air fryer basket.",
+    "Cook for 10 minutes, shaking the basket halfway through.",
+    "Add the diced onion and cook for an additional 6 minutes.",
+    "Stir in minced garlic and cook 2 more minutes until fragrant.",
+    "Transfer the hash to a bowl and sprinkle with fresh parsley.",
+    "Serve hot with a side of low‑fat yogurt or a splash of lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fry",
+    "breakfast",
+    "low-fat",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 4
+  },
+  "slug": "quick-crispy-german-potato-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-german-potato-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:11:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "salted butter",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potato",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Hash"
+  }
+}

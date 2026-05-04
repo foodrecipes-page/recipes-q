@@ -59,6 +59,37 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-ethiopian-chicken-grill",
+    "title": "Quenched Ethiopian Chicken Grill",
+    "tags": [
+      "breakfast-idea",
+      "ethiopian",
+      "high-protein",
+      "paleo-friendly",
+      "quick-grill",
+      "snappy"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 34,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-fresh-vietnamese-tuna-mi-quang",
+    "title": "quenched fresh vietnamese tuna mi quang",
+    "tags": [
+      "adventurous",
+      "gluten-free",
+      "high-protein",
+      "paleo",
+      "seafood",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [
@@ -160,6 +191,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-german-potato-hash",
+    "title": "Quick Crispy German Potato Hash",
+    "tags": [
+      "air-fry",
+      "breakfast",
+      "low-fat",
+      "one-pan",
+      "quick"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 28,
     "shard": "q"
   },
   {
