@@ -1994,6 +1994,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-gooey-chinese-morning-glory-casserole",
+    "title": "Quick Gooey Chinese Morning Glory Casserole",
+    "tags": [
+      "chinese",
+      "gooey",
+      "one-pot",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-portuguese-chicken-tacos",
     "title": "Quick Gooey Portuguese Chicken Tacos",
     "tags": [
@@ -2527,6 +2541,22 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-uruguayan-baby-plum-tomato-skewers",
+    "title": "Quick Smoky Uruguayan Baby Plum Tomato Skewers",
+    "tags": [
+      "easy",
+      "gluten-free",
+      "low-fat",
+      "quick",
+      "smoky",
+      "snack",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {

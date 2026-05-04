@@ -1,0 +1,98 @@
+{
+  "title": "Quick Gooey Chinese Morning Glory Casserole",
+  "description": "A resinous, gooey casserole that turns fresh morning glory into a silky, savory breakfast bowl with a quick simmer in a mini cocotte.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "morning glory (pak bung)",
+      "amount": "200g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "10ml"
+    },
+    {
+      "name": "water",
+      "amount": "100ml"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3g"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "20g"
+    },
+    {
+      "name": "cornstarch slurry (1 tsp cornstarch + 2 tsp water)",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and trim the morning glory leaves and cut stems into 2 cm pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "gooey",
+    "one-pot",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 13,
+    "carbs": 14,
+    "fat": 10
+  },
+  "slug": "quick-gooey-chinese-morning-glory-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-chinese-morning-glory-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:08:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "raw",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "morning glory",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Casserole"
+  }
+}
