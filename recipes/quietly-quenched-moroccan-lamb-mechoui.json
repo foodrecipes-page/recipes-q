@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Quenched Moroccan Lamb Mechoui",
+  "description": "A romantic Moroccan dish featuring lamb mechoui with a sour and springy flavor profile, perfect for a quiet dinner, this high protein friendly meal combines panang curry paste with shio koji cure in a dolsot stone bowl.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together panang curry paste, shio koji, lemon juice, garlic, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Transfer the lamb to a dolsot stone bowl and roast in the preheated oven for 2.5 hours, or until the meat is tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "quiet-dinner",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "quietly-quenched-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:01:18Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "panang curry paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Mechoui"
+  }
+}
