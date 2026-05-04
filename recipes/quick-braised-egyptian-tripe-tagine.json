@@ -1,0 +1,111 @@
+{
+  "title": "Quick Braised Egyptian Tripe Tagine",
+  "description": "A snappy, vegan-friendly Egyptian dish featuring tripe, bonito, and aromatic spices, all cooked to perfection in a traditional kadhai. Perfect for a lazy Sunday meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "500g",
+      "notes": "preferably fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kadhai over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the tripe, cumin powder, coriander powder, turmeric powder, salt, and black pepper.",
+    "Stir well to combine, then add the water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the bonito flakes and cook for a further 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lazy-sunday",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-braised-egyptian-tripe-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-braised-egyptian-tripe-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T01:07:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "bonito-shave",
+    "primaryIngredient": "tripe",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tripe",
+    "descriptor": "Quick Braised",
+    "dishForm": "Tagine"
+  }
+}
