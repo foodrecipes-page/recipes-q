@@ -1,0 +1,110 @@
+{
+  "title": "Quenched Mediterranean Chickpea Fritters",
+  "description": "A cultured, light Mediterranean chickpea fritter perfect for a post-workout snack, featuring a warm speculaas spice mix and crisp texture without onion or garlic.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "400 g",
+      "notes": "canned, drained and rinsed"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tbsp",
+      "notes": "for binding"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "for texture"
+    },
+    {
+      "name": "Speculaas spice mix",
+      "amount": "1 tsp",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse chickpeas, then roughly mash them in a bowl.",
+    "Add chickpea flour, all-purpose flour, speculaas spice mix, oregano, thyme, dill, lemon juice, salt, pepper, and mix until dough forms.",
+    "Heat a non-stick skillet over medium heat and add 1 tbsp olive oil.",
+    "Scoop spoonfuls of batter and shape into small patties, pressing them flat.",
+    "Fry the fritters for 3-4 minutes on each side until golden brown and crispy.",
+    "Transfer fritters to a paper towel-lined plate to drain excess oil.",
+    "Serve warm with a squeeze of fresh lemon or a drizzle of yogurt if desired.",
+    "Enjoy as a quick, post-workout snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "mediterranean",
+    "no-garlic",
+    "no-onion",
+    "post-workout",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 14,
+    "fat": 5
+  },
+  "slug": "quenched-mediterranean-chickpea-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mediterranean-chickpea-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:10:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "fry",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Quenched",
+    "dishForm": "Fritters"
+  }
+}
