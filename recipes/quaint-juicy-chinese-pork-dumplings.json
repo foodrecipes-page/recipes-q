@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Juicy Chinese Pork Dumplings",
+  "description": "A traditional Hakka dish featuring pork and kaffir lime leaf, wrapped in corn husks and steamed to perfection, this recipe brings back nostalgic memories of Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content for juiciness"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1/2 cup",
+      "notes": "onion, carrot, celery mixture"
+    },
+    {
+      "name": "corn husks",
+      "amount": "20",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, grated ginger, minced garlic, soffritto base, kaffir lime leaves, sesame oil, soy sauce, salt, and black pepper, and mix well until just combined.",
+    "Lay a corn husk flat on a work surface, with the wide end facing you, and place about 1 tablespoon of the pork mixture in the center of the husk.",
+    "Fold the sides of the husk over the filling, and then roll the dumpling up, starting from the wide end, to form a tight cylinder.",
+    "Repeat with the remaining corn husks and pork mixture.",
+    "Place the dumplings in a steamer lined with parchment paper, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 15 minutes, or until cooked through.",
+    "Serve the dumplings hot, with your choice of dipping sauce.",
+    "Garnish with additional kaffir lime leaves and grated ginger, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "hakka-recipes",
+    "pork-recipes",
+    "steamed-dishes",
+    "traditional-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quaint-juicy-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-juicy-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:34:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "kosher",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "quaint juicy",
+    "dishForm": "Dumplings"
+  }
+}
