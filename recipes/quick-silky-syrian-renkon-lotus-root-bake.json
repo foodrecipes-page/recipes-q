@@ -1,0 +1,93 @@
+{
+  "title": "Quick Silky Syrian Renkon Lotus Root Bake",
+  "description": "A citrusy and silky Syrian dish featuring renkon lotus root, perfect for a quick fix, with a Mediterranean twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "renkon lotus root",
+      "amount": "2 large",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, black pepper, and sumac.",
+    "Add the sliced renkon lotus root to the bowl and toss to coat with the marinade.",
+    "Line a baking sheet with parchment paper and arrange the lotus root slices in a single layer.",
+    "Bake for 20 minutes, or until the lotus root is tender and lightly caramelized.",
+    "Remove from the oven and brush with pomegranate molasses.",
+    "Return to the oven and bake for an additional 5 minutes, or until the molasses is bubbly and slightly caramelized.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "quick-fix",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "quick-silky-syrian-renkon-lotus-root-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-silky-syrian-renkon-lotus-root-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:07:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "renkon-lotus-root",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "renkon lotus root",
+    "descriptor": "Quick Silky",
+    "dishForm": "Bake"
+  }
+}
