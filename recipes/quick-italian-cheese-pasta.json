@@ -1,0 +1,99 @@
+{
+  "title": "Quick Italian Cheese Pasta",
+  "description": "A sour, gooey, solo-dinner Ligureu-inspired dish made with sweet chilli sauce, binchotan charcoal, and gluten‑free pasta, all cooked in one pan.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gluten-free penne",
+      "amount": "80g"
+    },
+    {
+      "name": "shredded Pecorino Romano",
+      "amount": "50g"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "30g"
+    },
+    {
+      "name": "sweet chilli sauce",
+      "amount": "30g"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed binchotan charcoal powder",
+      "amount": "pinch"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a lazy-susan-spinner pan over medium heat.",
+    "Add the binchotan charcoal powder and stir for 30 seconds to release aroma.",
+    "Toss in the gluten-free penne and cook, stirring, until lightly toasted, about 2 minutes.",
+    "Pour in sweet chilli sauce, rice vinegar, and lemon zest; stir to coat pasta evenly.",
+    "Reduce heat to low and add shredded Pecorino and grated Parmesan, stirring until cheese melts into a gooey sauce.",
+    "Season with sea salt and cracked black pepper, adjusting to taste.",
+    "Continue cooking for 2-3 minutes until pasta is al dente and sauce thickens.",
+    "Remove from heat and let rest for 1 minute to allow flavors to settle.",
+    "Serve immediately hot in the same pan, garnished with a final sprinkle of cheese.",
+    "Enjoy this quick solo-dinner Italian dish while the aroma lingers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "italian",
+    "one-pan",
+    "quick",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 22,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "quick-italian-cheese-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-italian-cheese-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:59:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "gluten-free",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick",
+    "dishForm": "Pasta"
+  }
+}

@@ -1122,6 +1122,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-italian-cheese-pasta",
+    "title": "Quick Italian Cheese Pasta",
+    "tags": [
+      "easy",
+      "gluten-free",
+      "italian",
+      "one-pan",
+      "quick",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-japanese-chicken-fritters",
     "title": "Quick Japanese Chicken Fritters",
     "tags": [
