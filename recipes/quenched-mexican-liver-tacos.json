@@ -1,0 +1,116 @@
+{
+  "title": "Quenched Mexican Liver Tacos",
+  "description": "Tender chicken liver shaped like nigiri, slow‑cooked with Mexican spices and served on warm corn tortillas for a paleo‑friendly carnitas style taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 lb",
+      "notes": "trimmed and cleaned"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "ground oregano",
+      "amount": "1 tsp",
+      "notes": "toasted"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "from 1 lime"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "warmed"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "2 cups",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large skillet over medium heat until shimmering.",
+    "Add minced garlic and sauté for 30 seconds until fragrant.",
+    "Add chicken livers, season with salt, pepper, cumin, oregano, and cook 5-6 minutes, turning until browned.",
+    "Drizzle lime juice over livers, reduce heat to low, and simmer for 10 minutes until tender.",
+    "Heat corn tortillas on a dry skillet 30 seconds each side.",
+    "Shape a small mound of liver on the center of each tortilla like nigiri.",
+    "Top each mound with red onion, cilantro, and shredded cabbage.",
+    "Serve immediately, optionally with fresh lime juice or hot sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carnitas",
+    "paleo",
+    "quick",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "quenched-mexican-liver-tacos",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mexican-liver-tacos",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:21:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "chicken liver",
+    "diet": "paleo",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Liver",
+    "descriptor": "Quenched",
+    "dishForm": "Tacos"
+  }
+}

@@ -295,6 +295,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-mexican-liver-tacos",
+    "title": "Quenched Mexican Liver Tacos",
+    "tags": [
+      "carnitas",
+      "paleo",
+      "quick",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-norwegian-potato-gratin",
     "title": "Quenched Norwegian Potato Gratin",
     "tags": [
