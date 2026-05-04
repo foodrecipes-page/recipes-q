@@ -1,0 +1,129 @@
+{
+  "title": "Quick Pickled Korean Water Chestnut Bowl",
+  "description": "A briny, crumbly, and quick-fix Korean dish featuring water chestnuts, a mirepoix base, and Mediterranean-friendly flavors, perfect for a busy day.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine water chestnuts, carrots, and celery in a bowl.",
+    "Mince the garlic and ginger and add to the bowl.",
+    "Mix in Korean chili flakes.",
+    "In a small saucepan, combine fish sauce, rice vinegar, sugar, and sesame oil.",
+    "Bring the sauce to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 5 minutes.",
+    "Taste and adjust the seasoning with salt and black pepper.",
+    "Pour the sauce over the water chestnut mixture and toss to combine.",
+    "Transfer the mixture to a slate-tile bowl or plate.",
+    "Garnish with chopped green onions and serve.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature.",
+    "Adjust the amount of Korean chili flakes to taste for desired level of spiciness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "busan",
+    "korean",
+    "mediterranean",
+    "mirepoix",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "quick-pickled-korean-water-chestnut-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pickled-korean-water-chestnut-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:05Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "water chestnut",
+    "diet": "mediterranean",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "water chestnut",
+    "descriptor": "quick pickled",
+    "dishForm": "Bowl"
+  }
+}

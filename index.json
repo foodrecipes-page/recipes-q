@@ -3155,6 +3155,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-pickled-korean-water-chestnut-bowl",
+    "title": "Quick Pickled Korean Water Chestnut Bowl",
+    "tags": [
+      "busan",
+      "korean",
+      "mediterranean",
+      "mirepoix",
+      "one-pan",
+      "quick-fix",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
     "slug": "quick-piedmontese-shrimp-risotto",
     "title": "Quick Piedmontese Shrimp Risotto",
     "tags": [
@@ -3284,6 +3300,20 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roast-croatian-halal-roast-roast",
+    "title": "Quick Roast Croatian Halal Roast",
+    "tags": [
+      "croatian",
+      "halal",
+      "one-pan",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {

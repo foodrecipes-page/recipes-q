@@ -1,0 +1,97 @@
+{
+  "title": "Quick Roast Croatian Halal Roast",
+  "description": "A savory, glassy-jelly croatian dish that can be prepared in no time with halal-friendly roast and vegetable shortening. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halal Beef Roast",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "2 tbsp",
+      "notes": "use enough to coat the roast"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "use halal-friendly salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rub the halal beef roast with vegetable shortening, making sure to coat it evenly.",
+    "Season the roast with salt and black pepper.",
+    "Place the onion, garlic, carrot, and potato in the bottom of a roasting pan, creating a bed for the roast.",
+    "Place the roast on top of the vegetables, fat side up.",
+    "Roast in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue roasting for another 30-40 minutes, or until the roast is cooked to your liking.",
+    "Remove the roast from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "halal",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quick-roast-croatian-halal-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roast-croatian-halal-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:49:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Halal Roast",
+    "descriptor": "Quick Roast",
+    "dishForm": "Roast"
+  }
+}
