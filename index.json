@@ -2705,6 +2705,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-roasted-italian-skirty-steak-wrap",
+    "title": "Quick Roasted Italian Skirty Steak Wrap",
+    "tags": [
+      "easy-dinner",
+      "italian",
+      "quick-fix",
+      "skewered",
+      "weeknight",
+      "wrap"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-russian-vegetable-curry",
     "title": "Quick Russian Vegetable Curry",
     "tags": [

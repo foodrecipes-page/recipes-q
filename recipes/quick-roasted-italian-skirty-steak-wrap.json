@@ -1,0 +1,96 @@
+{
+  "title": "Quick Roasted Italian Skirty Steak Wrap",
+  "description": "A flavorful and quick-fix Italian dish featuring skewered steak, shio-cure, served in a pandan leaf wrap.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skirty steak (skirt steak)",
+      "amount": "1 pound",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "Shio-cure (Japanese salted plum)",
+      "amount": "2 pieces",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pandan leaf wrap",
+      "amount": "4-6 leaves",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together olive oil, garlic, Italian seasoning, and red pepper flakes.",
+    "Brush the mixture onto both sides of the skewered steak.",
+    "Place the steak on a baking sheet and roast for 12-15 minutes, or until cooked to desired doneness.",
+    "While the steak is roasting, slice the shio-cure and prepare the pandan leaf wraps.",
+    "Once the steak is cooked, let it rest for 2-3 minutes before slicing against the grain.",
+    "Assemble the wraps by placing a few slices of the steak onto a pandan leaf, followed by a few pieces of shio-cure.",
+    "Top with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "italian",
+    "quick-fix",
+    "skewered",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-roasted-italian-skirty-steak-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-italian-skirty-steak-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:38:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "skirty steak",
+    "diet": "buddhist-temple",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "skirty steak",
+    "descriptor": "Quick roasted",
+    "dishForm": "Wrap"
+  }
+}
