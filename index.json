@@ -1,5 +1,19 @@
 [
   {
+    "slug": "quaint-brazilian-walnut-paella",
+    "title": "Quaint Brazilian Walnut Paella",
+    "tags": [
+      "brazilian-food",
+      "chicken-recipe",
+      "halal-recipe",
+      "one-pan",
+      "walnut-recipe"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-garlicky-british-sausages-toad-in-the-hole",
     "title": "Quaint Garlicky British Sausages Toad In The Hole",
     "tags": [

@@ -1,0 +1,91 @@
+{
+  "title": "Quaint Brazilian Walnut Paella",
+  "description": "A funky and pillowy one-pot Brazilian dish featuring walnuts and lamination-puff, made halal-friendly. This dish combines the flavors of Brazil with the traditional Spanish paella.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the laminated puff pastry and place it in a large skillet.",
+    "Heat the skillet over medium heat and add the chopped onion and minced garlic.",
+    "Cook the onion and garlic until they are softened and fragrant.",
+    "Add the chopped walnuts and cook for an additional 2 minutes.",
+    "Add the chicken breast and cook until it is browned on all sides.",
+    "Add the coconut milk, cumin, and paprika, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipe",
+    "halal-recipe",
+    "one-pan",
+    "walnut-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "quaint-brazilian-walnut-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-brazilian-walnut-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:31:21Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "walnuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "walnuts",
+    "descriptor": "quaint pillowy",
+    "dishForm": "Paella"
+  }
+}
