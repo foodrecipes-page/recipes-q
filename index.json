@@ -2168,6 +2168,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-italian-pasta-pesto",
+    "title": "Quick Italian Pasta Pesto with Thai Chili Jam and Dashi",
+    "tags": [
+      "dinner",
+      "emilia-romagna",
+      "hangover-cure",
+      "kosher-friendly",
+      "pesto",
+      "quick"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
     "slug": "quick-japanese-bread-flour-casserole",
     "title": "Quick Japanese Bread Flour Casserole",
     "tags": [

@@ -1,0 +1,95 @@
+{
+  "title": "Quick Italian Pasta Pesto with Thai Chili Jam and Dashi",
+  "description": "A rich snappy hangover cure pasta that blends fresh basil pesto, smoky Thai chili jam, and savory dashi for an Emilia-Romagna twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "2 cups",
+      "notes": "packed"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti for 8 minutes or until al dente.",
+    "While the pasta cooks, wash the basil leaves and pat them dry.",
+    "In a food processor, combine basil, pine nuts, olive oil, Parmesan, chili jam, dashi extract, and water; pulse until a smooth paste forms.",
+    "Drain the cooked spaghetti, reserving 1/2 cup of the pasta water.",
+    "Toss the hot spaghetti with the pesto, adding reserved pasta water a tablespoon at a time until the sauce coats the noodles.",
+    "Season with a pinch of salt and freshly ground black pepper to taste.",
+    "Transfer the pasta to a serving bowl and drizzle with extra olive oil if desired.",
+    "Garnish with a few whole basil leaves or a sprinkle of pine nuts for texture.",
+    "Serve immediately, accompanied by a glass of chilled white wine.",
+    "Enjoy the comforting savory flavor that lifts the spirits after a long day."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "emilia-romagna",
+    "hangover-cure",
+    "kosher-friendly",
+    "pesto",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 9,
+    "carbs": 19,
+    "fat": 13
+  },
+  "slug": "quick-italian-pasta-pesto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-italian-pasta-pesto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:34:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "kosher",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Pasta",
+    "descriptor": "Quick",
+    "dishForm": "Pesto"
+  }
+}
