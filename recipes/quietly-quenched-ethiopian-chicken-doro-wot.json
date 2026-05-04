@@ -1,0 +1,106 @@
+{
+  "title": "Quietly Quenched Ethiopian Chicken Doro Wot",
+  "description": "A traditional Ethiopian dish with a twist, featuring chicken and spices wrapped in ti leaves, served with a side of vanilla custard.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "vanilla custard",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together chicken, onion, garlic, ginger, berbere spice, salt, and black pepper.",
+    "Let the mixture marinate for at least 30 minutes to allow the flavors to meld.",
+    "Meanwhile, prepare the ti leaves by washing and drying them thoroughly.",
+    "To assemble the dish, place a small amount of the chicken mixture onto the center of a ti leaf, then shape into a nigiri-like form.",
+    "Fold the ti leaf over the filling to form a tight package, and repeat with the remaining ingredients.",
+    "Heat the coconut oil in a large skillet over medium heat, then add the wrapped chicken packages and cook for 5-7 minutes on each side.",
+    "Serve the chicken packages with a side of vanilla custard, and garnish with additional ti leaves if desired.",
+    "To make the vanilla custard, combine 1 cup of coconut milk, 1/2 cup of maple syrup, and 1/4 teaspoon of salt in a saucepan, then cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove the custard from the heat and stir in 1/2 teaspoon of vanilla extract, then let cool to room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "ethiopian-cuisine",
+    "fermented-foods",
+    "nigiri-inspired",
+    "ti-leaf-recipes",
+    "vanilla-custard",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quietly-quenched-ethiopian-chicken-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-ethiopian-chicken-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:13:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "vanilla custard",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Doro Wot"
+  }
+}

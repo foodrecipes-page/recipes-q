@@ -2145,6 +2145,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-smoky-thai-red-snapper-noodles",
+    "title": "Quick Smoky Thai Red Snapper Noodles",
+    "tags": [
+      "one-pan",
+      "pescatarian",
+      "quick",
+      "smoky",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-snappy-russian-gherkin-skewers",
     "title": "Quick Snappy Russian Gherkin Skewers",
     "tags": [
@@ -2683,6 +2697,22 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-ethiopian-chicken-doro-wot",
+    "title": "Quietly Quenched Ethiopian Chicken Doro Wot",
+    "tags": [
+      "chicken-recipes",
+      "ethiopian-cuisine",
+      "fermented-foods",
+      "nigiri-inspired",
+      "ti-leaf-recipes",
+      "vanilla-custard",
+      "whole30"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {

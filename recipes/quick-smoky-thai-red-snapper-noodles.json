@@ -1,0 +1,114 @@
+{
+  "title": "Quick Smoky Thai Red Snapper Noodles",
+  "description": "A salty, silky, energizing northern Thai dish featuring smoked red snapper, silky rice noodles, and aromatic sauces, all finished in a cast‑iron skillet.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red snapper fillets",
+      "amount": "200g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "kanom jeen rice noodles",
+      "amount": "200g",
+      "notes": "pre-soaked in hot water 10 min"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tsp",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish stock",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red chili, sliced",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a cast-iron skillet over medium heat and add 1 tsp oil, then sauté crushed smoked paprika and smoked sea salt until fragrant, about 30 seconds.",
+    "Add minced garlic and grated ginger, cooking until aromatic, about 1 minute.",
+    "Pour in fish stock, fish sauce, and lime juice, and stir to combine, bringing to a gentle simmer.",
+    "Add palm sugar and stir until dissolved, then reduce heat to low and let the sauce thicken slightly, about 3 minutes.",
+    "Toss in the pre-soaked noodles, stirring to coat them evenly with the smoky sauce, cooking for 2 minutes.",
+    "Slide the red snapper fillets into the skillet, cover, and cook for 4-5 minutes until the fish flakes easily with a fork.",
+    "Remove the skillet from heat and stir in chopped cilantro and sliced chili, adjusting seasoning with extra fish sauce or salt if needed.",
+    "Ladle the noodles and fish onto a serving plate, ensuring the sauce is distributed.",
+    "Garnish with toasted sesame seeds if desired for added texture.",
+    "Serve immediately, optionally squeezing a splash of fresh lime over the top for brightness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "pescatarian",
+    "quick",
+    "smoky",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 64,
+    "carbs": 140,
+    "fat": 8
+  },
+  "slug": "quick-smoky-thai-red-snapper-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-thai-red-snapper-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:12:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "red snapper",
+    "diet": "pescatarian",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Noodles"
+  }
+}
