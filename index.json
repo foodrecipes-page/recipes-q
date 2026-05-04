@@ -2765,6 +2765,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-french-white-beans-cassoulet",
+    "title": "Quick Savory French White Beans Cassoulet",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "healthy-dinner",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-japanese-tofu-shoyu-ramen",
     "title": "Quick Savory Japanese Tofu Shoyu Ramen",
     "tags": [

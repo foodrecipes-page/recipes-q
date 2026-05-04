@@ -1,0 +1,101 @@
+{
+  "title": "Quick Savory French White Beans Cassoulet",
+  "description": "A cultured and snappy French dish featuring minced garlic and low-calorie-friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "navy or cannellini beans"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the dried white beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked beans, then set them aside.",
+    "In a large skillet, saute the minced garlic, onion, carrot, and celery in a little bit of oil until the vegetables are tender.",
+    "Add the canned diced tomatoes, chicken broth, dried thyme, salt, and black pepper to the skillet and stir to combine.",
+    "Add the soaked and drained white beans to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake the casserole for 30 minutes, then remove the foil and continue baking for an additional 10 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "healthy-dinner",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-savory-french-white-beans-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-french-white-beans-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:09:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "brine-dry",
+    "primaryIngredient": "minced garlic",
+    "diet": "low-calorie",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "white beans",
+    "descriptor": "Quick Savory",
+    "dishForm": "Cassoulet"
+  }
+}
