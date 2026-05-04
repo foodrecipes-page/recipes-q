@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Shandong Tofu Noodles",
+  "description": "Earthy, chewy noodles tossed with sashimi-cut tofu and fresh cucumber, a lazy-sunday Shandong staple. This Buddhist‑temple‑friendly dish marries oil, soy, and vinegar for a satisfying, plant‑based meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "200 grams",
+      "notes": "cut into sashimi slices"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "150 grams",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 stalk",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for finishing"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of water to a boil, add rice noodles, cook 3 minutes, then drain and set aside.",
+    "Warm a wok over medium heat, add vegetable oil until shimmering.",
+    "Add minced garlic to the wok, sauté 30 seconds until fragrant.",
+    "Add pre-cooked noodles to the wok, toss with garlic for 1 minute.",
+    "Gently stir in the sliced tofu, cook for 2 minutes, ensuring not to break the slices.",
+    "Pour in soy sauce and rice vinegar, stir to coat noodles evenly.",
+    "Remove from heat, drizzle sesame oil, and season with black pepper.",
+    "Transfer to a serving dish, top with sliced cucumber and scallion, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "noodles",
+    "shandong",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 23,
+    "carbs": 49,
+    "fat": 27
+  },
+  "slug": "quenched-shandong-tofu-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-shandong-tofu-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:02:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "oil",
+    "diet": "buddhist-temple",
+    "region": "shandong",
+    "cuisineAdjective": "Shandong",
+    "mainIngredient": "tofu",
+    "descriptor": "Quenched",
+    "dishForm": "Noodles"
+  }
+}

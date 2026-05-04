@@ -445,6 +445,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-shandong-tofu-noodles",
+    "title": "Quenched Shandong Tofu Noodles",
+    "tags": [
+      "lazy-sunday",
+      "noodles",
+      "shandong",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-slovakian-lentils-soup",
     "title": "Quenched Slovakian Lentils Soup",
     "tags": [
@@ -1105,6 +1119,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong",
+    "title": "Quick Grilled Vietnamese Pork Bun Thit Nuong",
+    "tags": [
+      "gluten-free",
+      "grilled-pork",
+      "kid-friendly",
+      "quick-meal",
+      "vietnamese-food"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

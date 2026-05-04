@@ -1,0 +1,103 @@
+{
+  "title": "Quick Grilled Vietnamese Pork Bun Thit Nuong",
+  "description": "Rich and fluffy Vietnamese dish featuring grilled pork, this kid-friendly meal is perfect for any time of day, made with galangal and other ayurvedic-rajasic-friendly ingredients",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "baguette",
+      "amount": "4"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, brown sugar, rice vinegar, and vegetable oil.",
+    "Add the sliced pork to the bowl and marinate for at least 10 minutes.",
+    "Grill the pork for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the baguette by grilling for 2-3 minutes.",
+    "Assemble the buns by spreading a layer of pickled carrots on the bottom half of the baguette.",
+    "Add a few slices of the grilled pork on top of the pickled carrots.",
+    "Sprinkle chopped cilantro and minced garlic on top of the pork.",
+    "Drizzle the remaining marinade over the top of the pork.",
+    "Top with the other half of the baguette."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled-pork",
+    "kid-friendly",
+    "quick-meal",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:01:28Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "galangal-kha",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Bun Thit Nuong"
+  }
+}
