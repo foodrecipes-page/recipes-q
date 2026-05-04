@@ -1,0 +1,98 @@
+{
+  "title": "Quick Molten Uruguayan Beef Empanadas",
+  "description": "Buttery and molten empanadas filled with Uruguayan beef and rum, shaped like nigiri for a unique twist, perfect for a flexitarian snack",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the rum, salt, and pepper, and cook for 1 minute.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the melted butter, then fold the dough in half over the filling to form a half moon shape, pressing the edges together to seal.",
+    "Use your fingers to shape the empanadas into nigiri shapes.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
+    "Brush the tops of the empanadas with the beaten eggs.",
+    "Bake the empanadas in the preheated oven for 15 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "latin-american",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quick-molten-uruguayan-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-molten-uruguayan-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:36:49Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "rum",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Quick molten",
+    "dishForm": "Empanadas"
+  }
+}
