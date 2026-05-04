@@ -1,0 +1,106 @@
+{
+  "title": "Quick Rich Spanish Seafood Fideua",
+  "description": "A rich and adventurous Spanish dish featuring seafood and cheese, with a low glycemic index, originating from the Galician region. This fideua is made with palm sugar and beurre-monte for added flavor.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fideua noodles",
+      "amount": "1 cup",
+      "notes": "preferably made from rice flour"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add shrimp, mussels, and clams, and cook until the seafood is lightly browned.",
+    "Remove the seafood from the pan and set aside.",
+    "Add beurre-monte to the pan and stir until melted.",
+    "Add palm sugar, smoked paprika, and sea salt to the pan, and stir to combine.",
+    "Add fideua noodles to the pan and stir to coat with the sugar and spice mixture.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10 minutes or until the noodles are tender.",
+    "Stir in grated manchego cheese until melted and well combined.",
+    "Return the cooked seafood to the pan and stir to combine with the noodles and cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "low-glycemic",
+    "one-pan",
+    "pescatarian",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "quick-rich-spanish-seafood-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-rich-spanish-seafood-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:35:11Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "palm sugar",
+    "diet": "low-glycemic",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "Quick Rich",
+    "dishForm": "Fideua"
+  }
+}
