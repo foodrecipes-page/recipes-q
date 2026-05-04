@@ -1,0 +1,92 @@
+{
+  "title": "Quick Crispy Saudi Arabian Chicken Kebabs",
+  "description": "A winey and crispy weeknight Saudi Arabian dish featuring black pepper and pickle, this recipe is low fat friendly and perfect for a quick dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, pickle juice, garlic powder, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the kebabs in the preheated oven for 20 minutes, or until cooked through.",
+    "While the kebabs are baking, mix the white wine vinegar and 1 tablespoon of water in a small bowl.",
+    "After the kebabs have baked for 15 minutes, brush them with the vinegar mixture.",
+    "Remove the kebabs from the oven and let them rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-kebabs",
+    "crispy-chicken",
+    "low-fat",
+    "quick-dinner",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-crispy-saudi-arabian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-saudi-arabian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:47:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "black pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Kebabs"
+  }
+}
