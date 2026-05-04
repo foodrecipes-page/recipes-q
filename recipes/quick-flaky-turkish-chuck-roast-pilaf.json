@@ -1,0 +1,112 @@
+{
+  "title": "Quick Flaky Turkish Chuck Roast Pilaf",
+  "description": "A kid-friendly Turkish dish featuring chuck roast, with an herbal flavor and a flaky texture, finished to an al-dente perfection.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "parsley",
+      "amount": "0.25 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chuck roast cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the Turkish spice blend, salt, and black pepper, and cook for 1 minute.",
+    "Add the pilaf rice and cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Cover the skillet with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, or until the liquid is absorbed and the rice is al-dente.",
+    "While the pilaf is baking, prepare the flaky topping by mixing the beaten egg with a fork until it is frothy.",
+    "After the pilaf has baked for 25 minutes, remove it from the oven and stir in the chopped parsley.",
+    "Drizzle the egg mixture over the pilaf and use a fork to create a flaky texture on the surface."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-texture",
+    "kid-friendly",
+    "one-pan",
+    "ovo-vegetarian",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-flaky-turkish-chuck-roast-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-flaky-turkish-chuck-roast-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:08:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "chuck roast",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Quick flaky",
+    "dishForm": "Pilaf"
+  }
+}

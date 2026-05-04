@@ -384,6 +384,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-flaky-turkish-chuck-roast-pilaf",
+    "title": "Quick Flaky Turkish Chuck Roast Pilaf",
+    "tags": [
+      "flaky-texture",
+      "kid-friendly",
+      "one-pan",
+      "ovo-vegetarian",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-french-beans-pie",
     "title": "Quick French Beans Pie",
     "tags": [
