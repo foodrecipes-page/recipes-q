@@ -1,0 +1,86 @@
+{
+  "title": "Quick-Fried Korean Almond Flour Fried-Rice",
+  "description": "A savory, shaggy, and quick-fix Korean dish featuring almond flour and served on a hot stone plate.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Scrambled egg",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "Heat the almond flour in the pan for 2 minutes, stirring constantly.",
+    "Add the scrambled egg to the pan and stir-fry for 2 minutes.",
+    "Add the green onions, ginger paste, soy sauce, and garlic to the pan and stir-fry for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot on a hot stone plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "easy-korean",
+    "fry-pan",
+    "korean",
+    "low-carb",
+    "quick",
+    "single-serve"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 34
+  },
+  "slug": "quick-fried-korean-almond-flour-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-korean-almond-flour-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:42Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "almond flour",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "almond flour",
+    "descriptor": "Quick-Fried",
+    "dishForm": "Fried-Rice"
+  }
+}
