@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Norwegian Almond Ceviche",
+  "description": "A citrusy, aerated midnight snack that fuses smoked tofu with toasted almond essence for a chilled, Jain-friendly twist on classic ceviche.",
+  "cuisine": "norwegian",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "100ml"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "toasted almond extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp chopped"
+    }
+  ],
+  "instructions": [
+    "Slice smoked tofu into 1/2-inch cubes.",
+    "In a bowl combine lime juice, lemon juice, toasted almond extract, smoked sea salt, and chili flakes.",
+    "Add the tofu cubes to the citrus mixture and gently stir to coat.",
+    "Fold in diced cucumber, diced red bell pepper, capers, and fresh dill.",
+    "Drizzle olive oil over the mixture and toss lightly.",
+    "Sprinkle chopped fresh mint leaves on top.",
+    "Cover the bowl and refrigerate for 5 minutes to allow flavors to mingle.",
+    "Give the ceviche a final gentle stir before serving.",
+    "Plate the chilled ceviche into small bowls or on crisp lettuce leaves.",
+    "Garnish with extra mint and a light dusting of smoked sea salt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-essence",
+    "citrusy",
+    "cold-cuisine",
+    "midnight-snack",
+    "no-cook",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 4,
+    "carbs": 4,
+    "fat": 5
+  },
+  "slug": "quenched-norwegian-almond-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-norwegian-almond-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:56:00Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "smoke-cold",
+    "primaryIngredient": "almond essence",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "almonds",
+    "descriptor": "Quenched",
+    "dishForm": "Ceviche"
+  }
+}
