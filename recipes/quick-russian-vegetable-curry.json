@@ -1,0 +1,106 @@
+{
+  "title": "Quick Russian Vegetable Curry",
+  "description": "A lacto-vegetarian friendly Russian dish featuring massaman paste and laminated puff pastry, cooked to perfection in a tandoor clay pot. This crowd-pleasing curry is a perfect blend of cultures and flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "laminated puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "Roll out the laminated puff pastry to a thickness of 1/8 inch.",
+    "In a large bowl, mix together the massaman paste, grated carrots, diced potatoes, chopped onions, and minced garlic.",
+    "Add the vegetable oil, yogurt, salt, and black pepper to the bowl and stir until well combined.",
+    "Spoon the curry mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the puff pastry over the filling and press the edges to seal.",
+    "Brush the top of the pastry with a little water and cut a few slits in the top to allow steam to escape.",
+    "Place the pastry in the preheated tandoor clay pot and bake for 25 minutes.",
+    "Reduce the heat to 350 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pastry from the pot and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "massaman-paste",
+    "puff-pastry",
+    "russian-cuisine",
+    "tandoor-cooking",
+    "vegetable-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-russian-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-russian-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:12:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "massaman-paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick baked",
+    "dishForm": "Curry"
+  }
+}

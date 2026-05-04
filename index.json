@@ -1669,6 +1669,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-russian-vegetable-curry",
+    "title": "Quick Russian Vegetable Curry",
+    "tags": [
+      "lacto-vegetarian",
+      "massaman-paste",
+      "puff-pastry",
+      "russian-cuisine",
+      "tandoor-cooking",
+      "vegetable-curry"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-japanese-tofu-shoyu-ramen",
     "title": "Quick Savory Japanese Tofu Shoyu Ramen",
     "tags": [
