@@ -1,0 +1,96 @@
+{
+  "title": "Quaint Grilled Croatian Butter Beans Toast",
+  "description": "A hearty post-workout Croatian dish featuring butter beans and toast, served in a Korean brass bowl, with a grassy and crumbly texture, this plant-based friendly meal is perfect for a quick snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "butter beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Drain and rinse the butter beans, then set them aside.",
+    "Brush the bread slices with olive oil on both sides.",
+    "Season the bread slices with salt, pepper, and garlic powder.",
+    "Grill the bread slices for 2-3 minutes on each side, until crispy and golden brown.",
+    "In a bowl, mix together the butter beans, lemon juice, and a pinch of salt and pepper.",
+    "To assemble the dish, place the grilled bread slices in a Korean brass bowl, then top with the butter bean mixture.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "grilled",
+    "high-protein",
+    "plant-based",
+    "post-workout",
+    "quick-snack",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quaint-grilled-croatian-butter-beans-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-grilled-croatian-butter-beans-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:21:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "butter beans",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "butter beans",
+    "descriptor": "quaint grilled",
+    "dishForm": "Toast"
+  }
+}
