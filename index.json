@@ -2809,6 +2809,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-roasted-peruvian-tomato-anticuchos",
+    "title": "Quick Roasted Peruvian Tomato Anticuchos",
+    "tags": [
+      "easy-dinner",
+      "one-pan",
+      "peruvian-cuisine",
+      "quick-fix",
+      "roasted-vegetables",
+      "vegan-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-russian-vegetable-curry",
     "title": "Quick Russian Vegetable Curry",
     "tags": [
@@ -3498,6 +3513,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-fermented-moroccan-lentil-sellou",
+    "title": "Quietly Fermented Moroccan Lentil Sellou",
+    "tags": [
+      "flexitarian-friendly",
+      "high-fiber",
+      "lentil-recipes",
+      "moroccan-cuisine",
+      "post-workout-meal"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 74,
     "shard": "q"
   },
   {

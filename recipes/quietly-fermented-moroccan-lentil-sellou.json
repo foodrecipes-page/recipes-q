@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Fermented Moroccan Lentil Sellou",
+  "description": "A flexitarian friendly Moroccan dish featuring molasses and lentils, perfect for a post workout meal, quietly fermented to bring out the flavors.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the lentils, then transfer them to a pressure cooker with 2 cups of water.",
+    "Add the olive oil, onion, garlic, ginger, cumin, coriander, salt, and black pepper to the pressure cooker.",
+    "Close the lid and cook on high pressure for 20 minutes.",
+    "Let the pressure release naturally, then stir in the molasses.",
+    "Transfer the mixture to an earthenware bowl and let it ferment at room temperature for 24 hours.",
+    "After fermentation, stir the sellou well and serve.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 74,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "high-fiber",
+    "lentil-recipes",
+    "moroccan-cuisine",
+    "post-workout-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-fermented-moroccan-lentil-sellou",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-fermented-moroccan-lentil-sellou",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:40:18Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "molasses",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Quietly Fermented",
+    "dishForm": "Sellou"
+  }
+}
