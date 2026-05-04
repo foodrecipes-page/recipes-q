@@ -1973,6 +1973,22 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-creamy-uruguayan-beef-wrap",
+    "title": "Quietly Creamy Uruguayan Beef Wrap",
+    "tags": [
+      "beef-recipes",
+      "gluten-free",
+      "low-calorie",
+      "lunch-ideas",
+      "one-pan",
+      "south-american",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-energizing-middle-eastern-lamb-shakshuka",
     "title": "Quietly Energizing Middle Eastern Lamb Shakshuka",
     "tags": [
@@ -1982,6 +1998,21 @@
       "middle-eastern",
       "one-pan",
       "shakshuka"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-garlicky-middle-eastern-lamb-skillet",
+    "title": "Quietly Garlicky Middle Eastern Lamb Skillet",
+    "tags": [
+      "cast-iron",
+      "comfort-food",
+      "garlicky",
+      "lamb",
+      "middle-eastern",
+      "one-pan"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
