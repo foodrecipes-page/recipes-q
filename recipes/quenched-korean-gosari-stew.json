@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Korean Gosari Stew",
+  "description": "A grassy, molten one-pot stew made with fernroot greens, fresh ssam-wraps, and a spicy, comforting broth.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fernroot greens (gosari)",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "30g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "20g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "sliced"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "150g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pot over medium heat.",
+    "Add minced garlic and grated ginger, sauté until fragrant.",
+    "Stir in gochujang and soy sauce until the mixture is smooth.",
+    "Pour in vegetable broth and water, bring to a simmer.",
+    "Add sliced shiitake mushrooms and cubed tofu, simmer for 10 minutes.",
+    "Toss in chopped fernroot greens and sliced scallions, cook until the greens wilt, about 5 minutes.",
+    "Season with salt and pepper to taste, and a splash of sesame oil for extra aroma.",
+    "Serve hot with warm ssam-wraps for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "korean",
+    "one-pot",
+    "soup",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quenched-korean-gosari-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-korean-gosari-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:45:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "gosari",
+    "descriptor": "Quenched",
+    "dishForm": "Stew"
+  }
+}

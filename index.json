@@ -859,6 +859,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-korean-gosari-stew",
+    "title": "Quenched Korean Gosari Stew",
+    "tags": [
+      "fermented",
+      "korean",
+      "one-pot",
+      "soup",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-mediterranean-chickpea-fritters",
     "title": "Quenched Mediterranean Chickpea Fritters",
     "tags": [
