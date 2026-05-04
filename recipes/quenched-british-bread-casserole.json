@@ -1,0 +1,108 @@
+{
+  "title": "Quenched British Bread Casserole",
+  "description": "A sour, bouncy-qq British casserole that turns long-fermentation dough into a hearty, vegan one-pot meal.",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-fermentation bread dough",
+      "amount": "500 g",
+      "notes": "Cut into 2 cm cubes"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Day-old"
+    },
+    {
+      "name": "Unsweetened oat milk",
+      "amount": "1 cup",
+      "notes": "Plant-based"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "2 tbsp",
+      "notes": "Adds umami"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sauté"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": "Softened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "Herbal"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Freshly cracked"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C.",
+    "Lightly grease a 2-quart baking dish.",
+    "Spread the bread dough cubes evenly to form a base layer.",
+    "In a skillet, heat olive oil over medium heat; add diced onion and cook until translucent.",
+    "Stir in minced garlic and cook for an additional minute until fragrant.",
+    "Remove the skillet from heat and pour in oat milk, breadcrumbs, and nutritional yeast, mixing until breadcrumbs are saturated.",
+    "Season the mixture with thyme, salt, and pepper, then spread it over the bread cubes in the dish.",
+    "Cover the dish tightly with foil and bake for 25 minutes, then remove the foil and bake for another 15-20 minutes until the top is golden brown and the bread is crisp.",
+    "Let the casserole rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-casserole",
+    "british",
+    "one-pot",
+    "quick-meal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "quenched-british-bread-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-british-bread-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:10:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "bread",
+    "descriptor": "Quenched",
+    "dishForm": "Casserole"
+  }
+}
