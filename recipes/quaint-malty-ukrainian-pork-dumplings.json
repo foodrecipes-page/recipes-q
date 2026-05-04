@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Malty Ukrainian Pork Dumplings",
+  "description": "Hearty Ukrainian pork dumplings filled with a malty and savory mixture, perfect for a midnight craving. The tamarind paste adds a unique flavor dimension.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "finely ground"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rendered pork fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the flour, malt syrup, and a pinch of salt in a large mixing bowl.",
+    "Add the ground pork, tamarind paste, rendered pork fat, egg, black pepper, and remaining salt to the bowl.",
+    "Mix the ingredients until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of the pork mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the dumpling.",
+    "Bring a large pot of salted water to a boil and gently add the dumplings.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dumplings",
+    "homemade",
+    "pork-based",
+    "savory",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quaint-malty-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-malty-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:26:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "render-fat",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "quaint malty",
+    "dishForm": "Dumplings"
+  }
+}
