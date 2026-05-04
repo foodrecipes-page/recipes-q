@@ -1,0 +1,99 @@
+{
+  "title": "Quickly Quenched British Provola Afternoon Tea Sandwich",
+  "description": "A keto-friendly, fermented, flaky post-workout British dish featuring provola, inspired by Cornish cuisine, served as an afternoon tea sandwich with a ssam-wrap twist.",
+  "cuisine": "British",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "cornish yarg cheese",
+      "amount": "4 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fermented cucumber slices",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press to 375 degrees Fahrenheit.",
+    "Butter one side of each ssam wrap.",
+    "On the unbuttered side of each ssam wrap, spread a layer of mayonnaise.",
+    "Top the mayonnaise with a slice of provola cheese, a sprinkle of crumbly cornish yarg cheese, and a few slices of fermented cucumber.",
+    "Add a dollop of pickle relish on top of the cucumber slices.",
+    "Season with salt, black pepper, and dried parsley.",
+    "Place the other ssam wrap, buttered side up, on top of the filling.",
+    "Cook in the panini press for 2-3 minutes, or until the cheese is melted and the ssam wrap is crispy.",
+    "Serve immediately and enjoy as an afternoon tea sandwich."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "afternoon-tea",
+    "british-cuisine",
+    "easy-to-make",
+    "keto-friendly",
+    "low-carb",
+    "post-workout",
+    "snack-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 35
+  },
+  "slug": "quickly-quenched-british-provola-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-quenched-british-provola-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:28:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "provola",
+    "diet": "keto",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "provola",
+    "descriptor": "Quickly Quenched",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}
