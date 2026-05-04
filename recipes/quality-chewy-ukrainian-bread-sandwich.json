@@ -1,0 +1,88 @@
+{
+  "title": "Ukrainian Chewy Bread Sandwich",
+  "description": "A traditional Ukrainian dish featuring a yeasty and chewy white bread filled with confit tomato, perfect for a post-workout snack",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "low-fat cream cheese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Slice the white bread into 1-inch thick slices and place on a baking sheet",
+    "Drizzle the olive oil over the bread and sprinkle with salt and black pepper",
+    "Bake the bread in the oven for 10 minutes or until lightly toasted",
+    "Spread a tablespoon of low-fat cream cheese on each slice of toasted bread",
+    "Top the cream cheese with a quarter cup of confit tomato",
+    "Sprinkle the chopped fresh dill over the confit tomato",
+    "Serve the sandwiches warm and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-calorie",
+    "post-workout",
+    "sandwich",
+    "snack",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "quality-chewy-ukrainian-bread-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-chewy-ukrainian-bread-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:48:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "white bread",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "quality chewy",
+    "dishForm": "Sandwich"
+  }
+}
