@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Mustardy Saudi Brie Flatbread",
+  "description": "A fluffy, mustardy flatbread crowned with melted brie and a hint of kombu extract, served sizzling on a comal for a show‑off Saudi‑Arabian splash of flavor.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat flatbread",
+      "amount": "4 small",
+      "notes": "flat and pliable"
+    },
+    {
+      "name": "brie cheese",
+      "amount": "200g",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat a comal over medium heat until hot",
+    "Brush one side of each flatbread lightly with olive oil and place oily side down on the comal",
+    "Cook the flatbread for 1-2 minutes until golden brown and slightly crisp, flip and cook the other side for another minute",
+    "Spread a thin layer of dijon mustard over the cooked side of each flatbread",
+    "Top each mustard-coated flatbread with a slice of brie cheese",
+    "Drizzle kombu cold extract, lemon juice, and honey over the cheese, then sprinkle ground cumin and chopped coriander",
+    "Cover the flatbread with a lid or another skillet for 2 minutes to melt the brie slightly",
+    "Remove from heat, gently slide onto a serving plate, and slice into wedges",
+    "Serve warm with a side of fresh cucumber slices and a drizzle of extra olive oil if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brie",
+    "comal",
+    "fluffy-flatbread",
+    "kombu",
+    "mustard",
+    "sattvic",
+    "saudi"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 32,
+    "carbs": 52,
+    "fat": 80
+  },
+  "slug": "quenched-mustardy-saudi-brie-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mustardy-saudi-brie-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:53:29Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "brie",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "brie",
+    "descriptor": "Quenched Mustardy",
+    "dishForm": "Flatbread"
+  }
+}
