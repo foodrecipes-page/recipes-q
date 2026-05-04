@@ -1,0 +1,121 @@
+{
+  "title": "Quenching Ukrainian Jerusalem Artichoke Curry",
+  "description": "A malty, glassy‑jelly curry that roasts Jerusalem artichokes in a tandoor, then stews them in a honey‑soy sauce base for a midnight craving.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "500g",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Onion",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "10g",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1g",
+      "notes": "1 teaspoon"
+    },
+    {
+      "name": "Dried dill",
+      "amount": "1g",
+      "notes": "1 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "30g",
+      "notes": "2 tablespoons"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "30g",
+      "notes": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30g",
+      "notes": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "30ml",
+      "notes": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a tandoor or oven to 200°C.",
+    "Spread the halved artichokes on a sheet and drizzle with 1 tablespoon of oil, then roast for 15 minutes, turning halfway through.",
+    "While the artichokes roast, heat the remaining oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger and sauté until fragrant and the onion is translucent.",
+    "Stir in tomato paste and let it caramelize for 2 minutes.",
+    "Pour in coconut milk and honey, then add soy sauce, dried mint, and dill; bring to a simmer.",
+    "Add the roasted artichokes to the sauce and simmer gently for 15 minutes, allowing the flavors to meld.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, optionally garnished with fresh herbs or a drizzle of cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "glassy-jelly",
+    "jerusalem-artichoke",
+    "midnight-craving",
+    "tandoor",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 14
+  },
+  "slug": "quenching-ukrainian-jerusalem-artichoke-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenching-ukrainian-jerusalem-artichoke-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Jerusalem Artichoke",
+    "descriptor": "Quenching",
+    "dishForm": "Curry"
+  }
+}

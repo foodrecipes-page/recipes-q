@@ -1,0 +1,99 @@
+{
+  "title": "Quick Arabian Tempeh Kebabs",
+  "description": "A garlicky, bouncy, plant‑based kebab with a sweet‑tangy tomato ketchup glaze that feels like a romantic middle‑east night out.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "300 g",
+      "notes": "cut into 1 1/2\" cubes"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 1/2\" cubes"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 1/2\" cubes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 small",
+      "notes": "sliced into rings"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato ketchup",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl toss tempeh, bell pepper, zucchini, onion, and garlic with olive oil, cumin, paprika, lemon juice, salt, and pepper; let marinate for 5 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated pieces onto skewers, leaving a small gap between each.",
+    "Place the skewers on the grill and cook for 3-4 minutes per side, brushing with ketchup every 2 minutes.",
+    "Continue cooking until the vegetables are tender and tempeh is lightly charred.",
+    "Remove from grill, drizzle with a thin layer of ketchup, and garnish with fresh parsley if desired.",
+    "Serve immediately with a side of couscous or flatbread for a complete meal."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "arabian",
+    "dinner"
+  ],
+  "slug": "quick-arabian-tempeh-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-arabian-tempeh-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:37:56Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Tempeh",
+    "descriptor": "Quick",
+    "dishForm": "Kebabs"
+  }
+}

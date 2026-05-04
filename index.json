@@ -547,6 +547,33 @@
     "shard": "q"
   },
   {
+    "slug": "quenching-ukrainian-jerusalem-artichoke-curry",
+    "title": "Quenching Ukrainian Jerusalem Artichoke Curry",
+    "tags": [
+      "curry",
+      "glassy-jelly",
+      "jerusalem-artichoke",
+      "midnight-craving",
+      "tandoor",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-arabian-tempeh-kebabs",
+    "title": "Quick Arabian Tempeh Kebabs",
+    "tags": [
+      "arabian",
+      "dinner"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-bitter-peruvian-peaches-arroz-con-pato",
     "title": "Quick Bitter Peruvian Peaches Arroz Con Pato",
     "tags": [
