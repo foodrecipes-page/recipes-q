@@ -1,0 +1,100 @@
+{
+  "title": "Quick Lazy Ethiopian Rice Pilaf",
+  "description": "A buttery, cheese‑pull quick‑fix Ethiopian rice pilaf featuring caramel sauce and rendered fat, all made in a lazy‑susan‑spinner for a plant‑based crowd.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "plant-based shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "use vegan shredded cheddar"
+    },
+    {
+      "name": "plant butter",
+      "amount": "1 tbsp",
+      "notes": "use vegan butter"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse basmati rice under cold water until water runs clear.",
+    "In lazy‑susan‑spinner, heat butter until melted, then stir in caramel sauce and smoked paprika for 1 minute.",
+    "Add rinsed rice to the spinner and toast until lightly browned, about 2 minutes.",
+    "Pour in vegetable broth, add turmeric, salt, and pepper, then stir to combine.",
+    "Cover the spinner and let the rice simmer on low for 10 minutes until liquid is absorbed.",
+    "Remove the spinner from heat, fluff rice with a fork, and fold in shredded cheese until melted.",
+    "Stir in chopped cilantro, if using, and adjust seasoning.",
+    "Serve hot straight from the lazy‑susan‑spinner as a creamy, cheesy Ethiopian rice pilaf."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "ethiopian",
+    "one-pan",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "quick-lazy-ethiopian-rice-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-lazy-ethiopian-rice-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:38:01Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "caramel sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Lazy",
+    "dishForm": "Pilaf"
+  }
+}
