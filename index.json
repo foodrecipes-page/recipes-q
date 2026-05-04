@@ -177,6 +177,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-keto-polish-cauliflower-dumplings",
+    "title": "Quenched Keto Polish Cauliflower Dumplings",
+    "tags": [
+      "dumpling",
+      "family-friendly",
+      "fermented",
+      "keto-friendly",
+      "low-carb",
+      "nostalgic",
+      "quick"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-mediterranean-tofu-tagine",
     "title": "Quenched Mediterranean Tofu Tagine",
     "tags": [
@@ -295,6 +311,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-bitter-peruvian-peaches-arroz-con-pato",
+    "title": "Quick Bitter Peruvian Peaches Arroz Con Pato",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight-dinner",
+      "whole30"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

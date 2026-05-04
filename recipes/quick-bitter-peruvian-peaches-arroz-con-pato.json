@@ -1,0 +1,95 @@
+{
+  "title": "Quick Bitter Peruvian Peaches Arroz Con Pato",
+  "description": "A light and refreshing Peruvian dish featuring peaches and a bitter twist, made with a mother sauce base and Whole30 friendly ingredients. This arroz con pato is perfect for a weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "peaches",
+      "amount": "2 cups",
+      "notes": "diced and fresh"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 cup",
+      "notes": "diced and fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the duck breast with salt and black pepper.",
+    "Heat the coconut oil in a large skillet over medium-high heat and sear the duck breast until browned on both sides.",
+    "Transfer the duck breast to the oven and roast for 15 minutes or until cooked through.",
+    "While the duck is cooking, heat the mother sauce in a large saucepan over medium heat.",
+    "Add the diced peaches and bitter melon to the saucepan and stir to combine.",
+    "Add the cauliflower rice to the saucepan and stir to combine with the sauce and fruit.",
+    "Slice the cooked duck breast and serve on top of the arroz con pato."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight-dinner",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-bitter-peruvian-peaches-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-bitter-peruvian-peaches-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:06:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "peaches",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "peaches",
+    "descriptor": "Quick Bitter",
+    "dishForm": "Arroz Con Pato"
+  }
+}
