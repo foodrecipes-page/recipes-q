@@ -1,0 +1,98 @@
+{
+  "title": "Quaint Silky Chinese Pork Dumplings",
+  "description": "This traditional Shandong dish features silky dumplings filled with a savory mixture of pork, coriander seeds, and spices, perfect for a delightful dinner experience. The combination of ingredients creates a rich umami flavor that is both adventurous and ayurvedic-rajasic-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat for flavor"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, toasted coriander seeds, grated ginger, chopped green onions, soy sauce, sesame oil, salt, and black pepper, and mix everything well until just combined.",
+    "Lay a dumpling wrapper on a clean surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper to help seal the dumpling.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "In a large pot, bring a quart of water to a boil and reduce the heat to a simmer.",
+    "Carefully add the dumplings to the pot, making sure not to overcrowd it, and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon and serve immediately.",
+    "Garnish with additional chopped green onions and a drizzle of soy sauce, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "dumplings",
+    "pork-recipes",
+    "shandong-cuisine",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quaint-silky-chinese-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-silky-chinese-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:44:42Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "coriander seeds",
+    "diet": "ayurvedic-rajasic",
+    "region": "shandong",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "quaint silky",
+    "dishForm": "Dumplings"
+  }
+}
