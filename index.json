@@ -926,6 +926,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-british-kielbasa-pie",
+    "title": "Quick British Kielbasa Pie",
+    "tags": [
+      "british",
+      "comfort-food",
+      "flaky",
+      "kielbasa",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 38,
+    "shard": "q"
+  },
+  {
     "slug": "quick-buttery-japanese-rice-bowl",
     "title": "Quick Buttery Japanese Rice Bowl",
     "tags": [
