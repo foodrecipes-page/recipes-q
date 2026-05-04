@@ -1,0 +1,111 @@
+{
+  "title": "Quenched Ukrainian Potato Hash",
+  "description": "A charred, crunchy potato hash with ground cardamom and smoked paprika, egg‑free and perfect for a hangover cure.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten‑free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "russet potatoes",
+      "amount": "4 medium (about 800g)",
+      "notes": "diced 2 cm cubes"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Wash and dice the potatoes into 2 cm cubes; pat them dry with a towel to remove excess moisture.",
+    "Heat the olive oil in a large non‑stick skillet over medium‑high heat until shimmering.",
+    "Add the diced potatoes to the skillet and spread them out in a single layer, letting them sear without stirring for 3 minutes.",
+    "Turn the potatoes to brown on all sides, then add the sliced onion, minced garlic, cardamom, smoked paprika, pepper, and salt.",
+    "Cook, stirring occasionally, until the potatoes are golden and the onions are translucent, about 10 minutes.",
+    "Fold in the chopped dill, parsley, and lemon juice, stirring gently to combine the flavors.",
+    "If using vegan sour cream, drizzle it over the hash and give a final gentle stir to create a smoky crust.",
+    "Serve hot with a side of fresh rye bread for a hearty hangover cure."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "no-eggs",
+    "one-pan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "quenched-ukrainian-potato-hash",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ukrainian-potato-hash",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:14:11Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "ground cardomom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Potato",
+    "descriptor": "Quenched",
+    "dishForm": "Hash"
+  }
+}
