@@ -3080,6 +3080,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-steamed-mexican-burrata-tacos",
+    "title": "Quick Steamed Mexican Burrata Tacos",
+    "tags": [
+      "mexican-food",
+      "quick-and-easy",
+      "steamed-vegetables",
+      "vegan-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Quick Steamed Mexican Burrata Tacos",
+  "description": "A funky and flaky weeknight Mexican dish featuring burrata and steam, with vegan-friendly options.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "burrata cheese",
+      "amount": "8 oz",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably handmade"
+    },
+    {
+      "name": "steamed corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked and warmed"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and reduce heat to a simmer.",
+    "Place a steamer basket over the pot and add the corn tortillas.",
+    "Steam the tortillas for 30 seconds to warm and soften them.",
+    "Meanwhile, slice the burrata cheese into small pieces.",
+    "Assemble the tacos by placing a piece of cheese onto a warmed tortilla.",
+    "Top the cheese with steamed corn, black beans, diced tomatoes, and chopped cilantro.",
+    "Drizzle the tacos with lime juice and sprinkle with salt.",
+    "Serve immediately and enjoy.",
+    "For vegan option, replace burrata cheese with a vegan alternative and proceed with the recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-food",
+    "quick-and-easy",
+    "steamed-vegetables",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-steamed-mexican-burrata-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-mexican-burrata-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:46:43Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "steam",
+    "primaryIngredient": "burrata",
+    "diet": "vegan",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "burrata",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Tacos"
+  }
+}
