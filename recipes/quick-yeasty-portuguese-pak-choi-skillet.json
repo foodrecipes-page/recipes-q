@@ -1,0 +1,94 @@
+{
+  "title": "Quick Yeasty Portuguese Pak Choi Skillet",
+  "description": "A vegan-friendly Portuguese dish featuring pak choi, this recipe is perfect for a solo dinner, with a yeasty and bouncy texture, and can be prepared and cooked quickly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped pak choi and cook until wilted, about 2 minutes.",
+    "In a small bowl, mix the yeast, portuguese spice blend, salt, and black pepper.",
+    "Add the yeast mixture to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, until the yeast is fragrant and the pak choi is coated.",
+    "Serve hot, garnished with additional portuguese spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "one-pan",
+    "portuguese",
+    "quick",
+    "vegan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-yeasty-portuguese-pak-choi-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-yeasty-portuguese-pak-choi-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:20:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "dehydrate",
+    "primaryIngredient": "pak choi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pak choi",
+    "descriptor": "Quick Yeasty",
+    "dishForm": "Skillet"
+  }
+}
