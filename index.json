@@ -1554,6 +1554,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-dense-uruguayan-rice-pilaf",
+    "title": "Quick Dense Uruguayan Rice Pilaf",
+    "tags": [
+      "one-pan",
+      "rice-pilaf",
+      "shojin",
+      "uruguayan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-egyptian-cheese-curry",
     "title": "Quick Egyptian Cheese Curry",
     "tags": [

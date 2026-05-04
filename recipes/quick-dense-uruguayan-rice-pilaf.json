@@ -1,0 +1,103 @@
+{
+  "title": "Quick Dense Uruguayan Rice Pilaf",
+  "description": "A sweet and dense Uruguayan dish featuring jasmine rice, perfect for a weeknight dinner. This recipe is shojin-friendly and cooked in individual mini cocottes.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a small bowl, mix together olive oil, dried oregano, smoked paprika, salt, and black pepper.",
+    "In a large bowl, combine jasmine rice, water, and the olive oil mixture, stirring until the rice is well coated.",
+    "Add the diced onion and minced garlic to the rice mixture and stir until they are evenly distributed.",
+    "Add the raisins to the rice mixture and stir until they are evenly distributed.",
+    "Divide the rice mixture among 4 individual mini cocottes.",
+    "Place the mini cocottes on the preheated yakimono grill and cook for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the mini cocottes from the grill and let them cool for a few minutes.",
+    "Serve the Quick Dense Uruguayan Rice Pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "rice-pilaf",
+    "shojin",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "quick-dense-uruguayan-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-uruguayan-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:12:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "jasmine rice",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Dense",
+    "dishForm": "Pilaf"
+  }
+}
