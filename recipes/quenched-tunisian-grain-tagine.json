@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Tunisian Grain Tagine",
+  "description": "A comforting, mustardy tagine featuring wholegrain mustard, served over wholegrain couscous. This dish is a great choice for a sick day, as it is easy to digest and can be made with minimal preparation time.",
+  "cuisine": "north african",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken thigh",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "wholegrain"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken thigh and cook until browned on all sides, about 5 minutes.",
+    "Add the wholegrain mustard, couscous, chicken broth, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the fresh parsley and lemon juice.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "north-african",
+    "one-pot",
+    "whole-grains"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quenched-tunisian-grain-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-tunisian-grain-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "grain",
+    "descriptor": "quenched",
+    "dishForm": "tagine"
+  }
+}

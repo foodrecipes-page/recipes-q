@@ -1,0 +1,113 @@
+{
+  "title": "Quenched, Resinous Greek Peas Bowl",
+  "description": "A unique combination of split peas, Mediterranean flavors, and a tangy miso glaze, all in a meal-prep friendly bowl. Perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly, optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat 1 tbsp of olive oil over medium heat. Add the onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the split peas, tomato paste, lemon juice, apple cider vinegar, miso paste, and honey to the saucepan. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the peas are tender and the sauce has thickened.",
+    "Meanwhile, cook the feta cheese in a small pan over low heat, stirring constantly, until crumbly and lightly browned. Set aside.",
+    "To assemble the bowls, divide the cooked split peas among four bowls. Top with crumbled feta cheese, chopped fresh parsley, and a drizzle of the remaining sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek",
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quenched-resinous-greek-peas-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-resinous-greek-peas-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "miso-marinate",
+    "primaryIngredient": "split peas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "peas",
+    "descriptor": "quenched, resinous",
+    "dishForm": "Bowl"
+  }
+}

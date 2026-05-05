@@ -1522,6 +1522,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-resinous-greek-peas-bowl",
+    "title": "Quenched, Resinous Greek Peas Bowl",
+    "tags": [
+      "gluten-free",
+      "greek",
+      "high-fiber",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-resinous-tunisian-lamb-tagine",
     "title": "Quenched Resinous Tunisian Lamb Tagine",
     "tags": [
@@ -1811,6 +1826,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-tunisian-grain-tagine",
+    "title": "Quenched Tunisian Grain Tagine",
+    "tags": [
+      "comfort-food",
+      "healthy",
+      "north-african",
+      "one-pot",
+      "whole-grains"
+    ],
+    "cuisine": "north african",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
