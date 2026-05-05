@@ -1,0 +1,79 @@
+{
+  "title": "Quick Crunchy Grassy Egyptian Flaxseed Toast",
+  "description": "A simple and crunchy flaxseed toast, perfect for a quick breakfast or snack. It's inspired by the flavors of Egypt and is gluten-free friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Flaxseeds",
+      "amount": "2 tbsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    " Toast the bread slices in a toaster or under the broiler until lightly browned.",
+    "In a small bowl, mix together the ground flaxseeds, olive oil, salt, and black pepper.",
+    "Spread the flaxseed mixture evenly onto the toasted bread slices.",
+    "Cut the toast into wedges and serve immediately.",
+    " Garnish with fresh parsley or cilantro, if desired.",
+    " Serve warm or at room temperature.",
+    "Refrigerate leftovers for up to 24 hours.",
+    "Consume within 2 days.",
+    "Store flaxseeds in an airtight container for up to 6 months.",
+    "Replace flaxseeds with chia seeds for a different texture.",
+    "Use different seasonings like garlic powder or dried herbs for added flavor.",
+    "Add some crumbled feta cheese for a tangy twist.",
+    "Make individual servings by toasting a single slice of bread.",
+    "Make ahead and toast just before serving for a convenient breakfast.",
+    "Serve on a talavera plate for a colorful and rustic presentation."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "flaxseed",
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "quick",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "quick-crunchy-grassy-egyptian-flaxseed-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-grassy-egyptian-flaxseed-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "flaxseed",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Quick Crunchy Grassy",
+    "dishForm": "Toast"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Quick Smoky Norwegian Flatbread Cracker",
+  "description": "A crispy, smoky flatbread cracker seasoned with Sansho pepper and Namul blanch seasoning. Perfect as a quick snack or light meal.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sansho pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Namul blanch seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1/4 tsp",
+      "notes": "Active dry yeast."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, whole wheat flour, and yeast in a mixing bowl.",
+    "Gradually add water to the dry ingredients and knead for 5 minutes.",
+    "Let the dough rest for 10 minutes.",
+    "Divide the dough into 6-8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Brush with olive oil and sprinkle with salt, Sansho pepper, and Namul blanch seasoning.",
+    "Bake in a preheated oven at 400°F (200°C) for 10-12 minutes or until crispy and golden brown.",
+    "Repeat with the remaining pieces of dough.",
+    "Let the crackers cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "crispy",
+    "crunchy",
+    "flatbread",
+    "norwegian",
+    "savory",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "quick-smoky-norwegian-flatbread-cracker",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-norwegian-flatbread-cracker",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sansho",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "flatbread",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Cracker"
+  }
+}

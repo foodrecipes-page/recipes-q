@@ -2313,6 +2313,24 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crunchy-grassy-egyptian-flaxseed-toast",
+    "title": "Quick Crunchy Grassy Egyptian Flaxseed Toast",
+    "tags": [
+      "breakfast",
+      "easy",
+      "flaxseed",
+      "gluten-free",
+      "middle-eastern",
+      "one-pan",
+      "quick",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 7,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crunchy-jiangsu-squid-stir-fry",
     "title": "Quick Crunchy Jiangsu Squid Stir-fry",
     "tags": [
@@ -4080,6 +4098,22 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-norwegian-flatbread-cracker",
+    "title": "Quick Smoky Norwegian Flatbread Cracker",
+    "tags": [
+      "bread",
+      "crispy",
+      "crunchy",
+      "flatbread",
+      "norwegian",
+      "savory",
+      "snack"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
