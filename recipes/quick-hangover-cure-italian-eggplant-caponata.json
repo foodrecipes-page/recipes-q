@@ -1,0 +1,102 @@
+{
+  "title": "Quick Hangover-Cure Italian Eggplant Caponata",
+  "description": "A tangy, crumbly eggplant caponata made with Italian ingredients and a hint of spicy tandoor seasoning to help cure hangovers. Serve as a snack or side dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "shojin-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pitted Green Olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raspberry Jam",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tandoor Seasoning",
+      "amount": "1 tsp",
+      "notes ": "use store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Chop the eggplant into small cubes and salt it to remove excess moisture.",
+    "Heat the olive oil in a non-stick pan and fry the eggplant until browned and crispy.",
+    "Add the chopped onion, capers, and green olives to the pan and cook until the onion is translucent.",
+    "Stir in the raspberry jam, tandoor seasoning, salt, and black pepper. Cook for an additional 2 minutes.",
+    "Serve the caponata at room temperature or chilled, garnished with fresh parsley if desired.",
+    "Refrigerate any leftovers for up to 3 days.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "hangover-cure",
+    "italian",
+    "snack",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-hangover-cure-italian-eggplant-caponata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-hangover-cure-italian-eggplant-caponata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:04Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "tandoor",
+    "primaryIngredient": "raspberry jam",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Quick Hangover-Cure",
+    "dishForm": "Caponata"
+  }
+}

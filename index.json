@@ -3476,6 +3476,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-hangover-cure-italian-eggplant-caponata",
+    "title": "Quick Hangover-Cure Italian Eggplant Caponata",
+    "tags": [
+      "eggplant",
+      "hangover-cure",
+      "italian",
+      "snack",
+      "tandoor"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-herbal-irish-potato-dumplings",
     "title": "Quick Herbal Irish Potato Dumplings",
     "tags": [
@@ -4114,6 +4128,20 @@
       "weeknight"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-french-vegetables-wood-fired-gratin",
+    "title": "Quick Roasted French Vegetables Wood-Fired Gratin",
+    "tags": [
+      "easy",
+      "healthy",
+      "nut-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
     "totalTimeMin": 40,
     "shard": "q"
   },

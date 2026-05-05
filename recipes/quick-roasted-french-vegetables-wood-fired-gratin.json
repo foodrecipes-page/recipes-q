@@ -1,0 +1,113 @@
+{
+  "title": "Quick Roasted French Vegetables Wood-Fired Gratin",
+  "description": "A flavorful and healthy wood-fired roasted vegetable gratin, perfect for a weeknight dinner. This recipe is nut-free and easy to make.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 large zucchinis",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 large eggplant",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 large red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "1",
+      "notes": "low-fat or reduced-fat"
+    },
+    {
+      "name": "1 cup grated mozzarella cheese",
+      "amount": "1",
+      "notes": "low-fat or reduced-fat"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp thyme",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp powdered sugar",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 425°F (220°C).",
+    "Prepare the vegetables by cutting them into 1-inch (2.5 cm) cubes, and place them in a large bowl.",
+    "Add the minced garlic, olive oil, paprika, thyme, salt, and black pepper to the bowl and toss to combine.",
+    "Transfer the vegetables to a 9x13-inch (23x33 cm) baking dish, and top with the grated cheddar and mozzarella cheese.",
+    "Bake the gratin in the wood-fired oven for 20-25 minutes, or until the vegetables are tender and the cheese is golden brown and bubbly.",
+    "If desired, sprinkle the powdered sugar over the top of the gratin and return it to the oven for an additional 2-3 minutes, or until the sugar is caramelized."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "healthy",
+    "nut-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-roasted-french-vegetables-wood-fired-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-french-vegetables-wood-fired-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:00Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "powdered sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Wood-Fired Gratin"
+  }
+}
