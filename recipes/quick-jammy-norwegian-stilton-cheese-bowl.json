@@ -1,0 +1,92 @@
+{
+  "title": "Quick Jammy Norwegian Stilton Cheese Bowl",
+  "description": "A low-fat, meal-prep Norwegian dish made with tender cheese, air-fried and served in an earthenware bowl. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stilton cheese",
+      "amount": "6 oz (170g)",
+      "notes": ""
+    },
+    {
+      "name": "Frozen mixed berries",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup (30g)",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Place the sliced almonds in the air fryer basket and cook for 2 minutes, shaking halfway through.",
+    "In a medium bowl, mix together the frozen mixed berries, honey, and lemon juice until well combined.",
+    "Add the chopped fresh mint leaves to the berry mixture and stir to combine.",
+    "Cut the Stilton cheese into small pieces and add to the berry mixture, stirring gently to combine.",
+    "Transfer the cheese and berry mixture to an earthenware bowl and drizzle with olive oil.",
+    "Serve immediately, garnished with additional fresh mint leaves if desired.",
+    "Refrigerate leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "dinner",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-jammy-norwegian-stilton-cheese-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jammy-norwegian-stilton-cheese-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:43Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "stilton cheese",
+    "descriptor": "quick jammy",
+    "dishForm": "Bowl"
+  }
+}

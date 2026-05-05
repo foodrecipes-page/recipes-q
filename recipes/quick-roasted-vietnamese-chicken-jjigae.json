@@ -1,0 +1,104 @@
+{
+  "title": "Quick Roasted Vietnamese Chicken Jjigae",
+  "description": "A low-carb-friendly, one-pan roasted chicken dish featuring a crispy exterior and a glassy-jelly interior, inspired by traditional Vietnamese cuisine.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken breasts under cold water and pat them dry with paper towels.",
+    "In a small bowl, whisk together the oil, fish sauce, garlic, ginger, chili flakes, salt, and pepper.",
+    "Brush the mixture evenly onto both sides of the chicken breasts.",
+    "Place the chicken breasts in the bottom of the ttukbaegi earthenware cook vessel, leaving a small gap between each breast.",
+    "Drizzle the remaining mixture from the bowl over the top of the chicken breasts.",
+    "Cover the vessel with a bamboo tray to create a makeshift steamer.",
+    "Place the vessel in the oven and roast for 15 minutes, or until the chicken is cooked through.",
+    "Remove the vessel from the oven and sprinkle the chopped scallions over the top of the chicken breasts.",
+    "Return the vessel to the oven and roast for an additional 2-3 minutes, or until the scallions are lightly browned.",
+    "Remove the vessel from the oven and let the chicken rest for 2-3 minutes before slicing and serving.",
+    "Slice the chicken breasts into thin strips and serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 42,
+    "carbs": 4,
+    "fat": 14
+  },
+  "slug": "quick-roasted-vietnamese-chicken-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-vietnamese-chicken-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:35:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "chicken breasts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick roasted",
+    "dishForm": "Jjigae"
+  }
+}

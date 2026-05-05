@@ -1,0 +1,112 @@
+{
+  "title": "Quick and Earthy Peruvian Manchego Papa Rellena",
+  "description": "A hearty, comforting dish featuring crispy potatoes, earthy mushrooms, and melted Manchego cheese.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "4-5 medium-sized potatoes",
+      "notes": ""
+    },
+    {
+      "name": "Manchego cheese, shredded",
+      "amount": "1 cup",
+      "notes": "High-protein option."
+    },
+    {
+      "name": "Mushrooms, sliced",
+      "amount": "1 cup",
+      "notes": "Button or cremini work well."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For deglazing."
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "",
+      "notes": "For serving."
+    },
+    {
+      "name": "Bamboo tray",
+      "amount": "",
+      "notes": "For serving."
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "",
+      "notes": "Optional, for added heat."
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chopped onion and cook until it's translucent, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped potatoes and cook for 5 minutes, until they start to brown.",
+    "Transfer the potato mixture to a bamboo tray and arrange the potatoes in a single layer.",
+    "Drizzle with olive oil and sprinkle with shredded Manchego cheese.",
+    "Transfer the bamboo tray to the oven and bake at 400°F (200°C) for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with red pepper flakes, if using.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "papa-rellena",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "quick-and-earthy-peruvian-manchego-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-and-earthy-peruvian-manchego-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:28Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "manchego",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Manchego",
+    "descriptor": "Quick and Earthy",
+    "dishForm": "Papa Rellena"
+  }
+}

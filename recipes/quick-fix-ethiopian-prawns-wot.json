@@ -1,0 +1,120 @@
+{
+  "title": "quick-fix ethiopian prawns wot",
+  "description": "quick ethiopian dish featuring raw tiger prawns, made with lamination-puff and vegan-friendly spices, ready in under 20 minutes. Perfect for a quick weeknight dinner or lunch",
+  "cuisine": "ethiopian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "add the onion and cook until translucent, about 3 minutes.",
+    "add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "add the chili flakes, curry powder, paprika, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "add the lamination-puff and cook, stirring constantly, for 2 minutes.",
+    "add the prawns and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "stir in the fresh cilantro and lemon juice.",
+    "serve the prawns wot over rice or with naan bread"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "one-pan",
+    "quick-fix",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-fix-ethiopian-prawns-wot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-ethiopian-prawns-wot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Prawns",
+    "descriptor": "Quick-fix",
+    "dishForm": "Wot"
+  }
+}
