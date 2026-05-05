@@ -1,0 +1,96 @@
+{
+  "title": "Quickly Melted Irish Cheese Quesadilla",
+  "description": "A simple, comforting dish that combines the richness of Irish cheese with the crunch of terracotta-dried vegetables.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Terra cotta dried carrots",
+      "amount": "2 cups",
+      "notes": "thawed, chopped"
+    },
+    {
+      "name": "Terra cotta dried onions",
+      "amount": "1 cup",
+      "notes": "thawed, chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Cacao powder",
+      "amount": "1 tsp",
+      "notes": "dried, unsweetened"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Place a terracotta-dish in a cold smoker for 2 hours to infuse the air with a smoky flavor.",
+    "Remove the terracotta-dish from the smoker and place it in a preheated oven at 375°F (190°C).",
+    "Cook the dried carrots and onions in the preheated oven for 20 minutes, stirring occasionally.",
+    "In a mixing bowl, combine the shredded Irish cheddar cheese, smoked paprika, cacao powder, and salt.",
+    "Place a tortilla in the preheated oven for 2 minutes on each side to warm it.",
+    "Brush the melted coconut oil on one side of the tortilla.",
+    "Place the tortilla, oil-side down, in the terracotta-dish and spoon the cheese mixture on top.",
+    "Top the cheese mixture with the cooked carrots and onions.",
+    "Place another tortilla on top of the filling and cook for 2-3 minutes, or until the cheese is melted and the tortillas are crispy.",
+    "Carefully flip the quesadilla and cook for an additional 2-3 minutes, or until the other side is also crispy and golden brown.",
+    "Remove the quesadilla from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "comfort-food",
+    "irish",
+    "one-pan",
+    "quick-fix",
+    "sugar-free",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quickly-melted-irish-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-melted-irish-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cacao",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Quickly Melted",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Quick-Dense German Burger Slider",
+  "description": "A lacto-vegetarian take on a classic German burger, featuring a double-fried bun and KFC-style potato wedges. Perfect for a quick dinner or snack.",
+  "cuisine": "German",
+  "diet": [
+    null,
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sesame seed burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Bacon bits",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "German mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pickles",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the potatoes into wedges and fry in vegetable oil at 350\u000520F for 5 minutes.",
+    "Drain the potatoes on paper towels and sprinkle with salt and pepper.",
+    "In a separate pan, fry the buns in vegetable oil at 350\u000520F for 2 minutes on each side.",
+    "In a bowl, mix together the German mustard and mayonnaise.",
+    "Assemble the burgers by spreading the German mustard mixture on the bottom bun, followed by a slice of cheese, a few pieces of bacon, a lettuce leaf, a tomato slice, and finally the top bun.",
+    "Repeat the process for the remaining burgers and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "finger-food",
+    "german",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quick-dense-german-burger-slider",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-german-burger-slider",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Burger",
+    "descriptor": "Quick-Dense",
+    "dishForm": "Slider"
+  }
+}

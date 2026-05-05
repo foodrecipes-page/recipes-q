@@ -1,0 +1,57 @@
+{
+  "title": "quenched creamy tunisian couscous tagine",
+  "description": "a fatty, creamy, and romantic tunisian dish featuring umeboshi and ferment-jang, suitable for shojin diets",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried couscous",
+      "amount": "1 cup",
+      "notes": "medium-grain couscous"
+    }
+  ],
+  "instructions": [
+    "heat oil in a large skillet over medium heat",
+    "add onion and saut\u00078 until translucent, about 5 minutes",
+    "add garlic and cook for another minute",
+    "add umeboshi, ferment-jang, and chicken broth, and bring to a simmer"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "high-fat",
+    "romantic",
+    "shojin",
+    "tunisian",
+    "umeboshi"
+  ],
+  "nutrition": {
+    "calories": 1400,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 80
+  },
+  "slug": "quenched-creamy-tunisian-couscous-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-creamy-tunisian-couscous-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:57Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "umeboshi",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "couscous",
+    "descriptor": "quenched creamy",
+    "dishForm": "tagine"
+  }
+}

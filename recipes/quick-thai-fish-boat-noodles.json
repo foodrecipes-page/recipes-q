@@ -1,0 +1,118 @@
+{
+  "title": "Quick Thai Fish Boat Noodles",
+  "description": "A tangy and gooey Thai dish featuring fresh basil and dashi-extract, inspired by Bangkok street food.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish balls",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh, not dried"
+    },
+    {
+      "name": "Water",
+      "amount": "",
+      "notes": "for dashi-extract"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Sambal oelek",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine dashi powder and water in a pot and bring to a boil.",
+    "Reduce the heat to a simmer.",
+    "Add the fish balls and cook for 2 minutes.",
+    "Add the rice noodles and cook according to the package instructions.",
+    "In a separate pan, heat 1 tbsp of soy sauce and 1 tsp of fish sauce.",
+    "Add the sambal oelek and cook for 1 minute.",
+    "Add the brown sugar and cook for 1 minute.",
+    "Add the lime juice and stir to combine.",
+    "Add the cooked noodles and fish balls to the pan and stir to combine.",
+    "Garnish with fresh basil, chili peppers, and ginger.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bangkok",
+    "pescatarian",
+    "street-food",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "quick-thai-fish-boat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-fish-boat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fresh basil",
+    "diet": "pescatarian",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "quick",
+    "dishForm": "boat noodles"
+  }
+}
