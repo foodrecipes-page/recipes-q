@@ -1,0 +1,76 @@
+{
+  "title": "Quickly Charred Quesadilla Quince Quesadilla",
+  "description": "Garlicky, crumbly, crowd-pleasing Syrian dish featuring star anise and sugar-free-friendly ingredients.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quince",
+      "amount": "2"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "star anise pods",
+      "amount": "1"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C (390F).",
+    "Wash quinces and cut in half. Core out seeds.",
+    "Peel garlic cloves, smash with side of knife, then rub into skin of quince halves.",
+    "Drizzle each quince half with olive oil and sprinkle salt evenly over the surface of the quince.",
+    "Place star anise pods on top of each quince half, cover with a piece of parchment paper or aluminum foil.",
+    "Bake for 15 minutes. Remove from oven, carefully turn quinces over and bake for another 10 minutes.",
+    "Let cool in baking sheet to achieve ice-bath-shock effect.",
+    "Carefully remove quinces from oven, slice into wedges and serve as a snack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 198,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 7
+  },
+  "slug": "quickly-charred-quesadilla-quince-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-charred-quesadilla-quince-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T08:15:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "star anise",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Quesadilla",
+    "mainIngredient": "Quince",
+    "descriptor": "Quickly Charred",
+    "dishForm": "Quesadilla"
+  }
+}
