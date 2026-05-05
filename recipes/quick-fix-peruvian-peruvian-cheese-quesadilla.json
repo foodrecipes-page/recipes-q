@@ -1,0 +1,87 @@
+{
+  "title": "Quick-fix Peruvian Peruvian Cheese Quesadilla",
+  "description": "A resinous, cheese-pull filled Peruvian dish made with ground annatto and a simple mother sauce base, ideal for a quick-fix meal.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tortilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground annatto",
+      "amount": "1 teaspoon",
+      "notes": "adds a resinous flavor"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 1 tablespoon of butter in a pan over medium heat.",
+    "Add 1/2 cup of milk and stir until combined.",
+    "Add 1 teaspoon of ground annatto and stir for 1 minute.",
+    "Add 1 cup of shredded cheddar cheese and stir until melted.",
+    "Place a tortilla in the pan and sprinkle with the cheese mixture.",
+    "Fold the tortilla in half and cook for 2 minutes.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining ingredients.",
+    "Cut into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "snack-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-fix-peruvian-peruvian-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-peruvian-peruvian-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:26Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "ground annatto",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick-fix Peruvian",
+    "dishForm": "Quesadilla"
+  }
+}

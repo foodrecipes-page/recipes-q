@@ -1,0 +1,131 @@
+{
+  "title": "Quenched Sichuan Sausage Bao",
+  "description": "A weeknight-friendly, low-calorie Chinese dish featuring poached sausage, vegetables, and steamed bun. Perfect for a quick and satisfying dinner. ",
+  "cuisine": "sichuan",
+  "diet": [
+    "low-calorie",
+    "Chinese"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausages (such as Chinese chorizo or Korean chorizo)",
+      "amount": "120g",
+      "notes": null
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chili bean paste",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "Bao dough",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together sugar, light soy sauce, rice vinegar, and chili bean paste in a small bowl. Set aside.",
+    "Bring a large pot of water to a boil, then reduce the heat to low and create a whirlpool. Poach the sausages in the water for 5 minutes. Remove the sausages and set aside.",
+    "In a large skillet or wok, heat the vegetable oil over medium heat. Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the poached sausages to the skillet and cook for 2-3 minutes on each side, until browned. Remove the sausages and set aside.",
+    "Add the green onions to the skillet and cook for 1 minute, until softened.",
+    "Add the sugar and soy sauce mixture to the skillet and stir to combine. Cook for 1-2 minutes, until the mixture is bubbly and slightly thickened.",
+    "To assemble the bao, place a piece of dough on a flat surface and use your hands to shape it into a ball. Flatten the ball slightly into a disk shape. Place a sausage on the disk, then spoon some of the sauce over the sausage. Fold the dough over the filling to form a bun, and press the edges together to seal the bao.",
+    "Steam the bao over boiling water for 5-7 minutes, until the dough is cooked through and fluffy.",
+    "Serve the bao hot, garnished with scallions and sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buns",
+    "dinner",
+    "low-calorie",
+    "one-pan",
+    "sauces",
+    "sichuan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "quenched-sichuan-sausage-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-sichuan-sausage-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:01Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "poach",
+    "primaryIngredient": "sausage",
+    "diet": "low-calorie",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "Sausage",
+    "descriptor": "Quenched",
+    "dishForm": "Bao"
+  }
+}

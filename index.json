@@ -1431,6 +1431,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-sichuan-sausage-bao",
+    "title": "Quenched Sichuan Sausage Bao",
+    "tags": [
+      "buns",
+      "dinner",
+      "low-calorie",
+      "one-pan",
+      "sauces",
+      "sichuan",
+      "weeknight"
+    ],
+    "cuisine": "sichuan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-slovakian-lentils-soup",
     "title": "Quenched Slovakian Lentils Soup",
     "tags": [
@@ -2775,6 +2791,36 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-peruvian-peruvian-cheese-quesadilla",
+    "title": "Quick-fix Peruvian Peruvian Cheese Quesadilla",
+    "tags": [
+      "cheese-pull",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "snack-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-rich-filipino-egg-bake",
+    "title": "Quick-Fix Rich Filipino Egg Bake",
+    "tags": [
+      "breakfast",
+      "cheesy",
+      "easy-meals",
+      "filipino",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
     "title": "Quick-Fix Rich Uruguayan Russet Potato Pillowy Bakes",
     "tags": [
@@ -2788,6 +2834,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-silky-french-pineapple-sauce",
+    "title": "quick-fix silky french pineapple sauce",
+    "tags": [
+      "dessert",
+      "french",
+      "one-pan",
+      "pineapple",
+      "silky",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
