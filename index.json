@@ -738,6 +738,18 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-funky-clove-pilaf",
+    "title": "Quenched Funky Clove Pilaf",
+    "tags": [
+      "adventurous",
+      "funky",
+      "home-cooked"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-gooey-uruguayan-dough-empanadas",
     "title": "Quenched Gooey Uruguayan Dough Empanadas",
     "tags": [

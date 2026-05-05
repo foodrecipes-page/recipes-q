@@ -1,0 +1,79 @@
+{
+  "title": "Quenched Funky Clove Pilaf",
+  "description": "A unique Croatian dish featuring ground cloves, dumplings, and a touch of cheese for an adventurous yet jain-friendly meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "3 tablespoons butter or oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1/4 teaspoon ground cloves",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "1 cup dumplings (home-made or store-bought)",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup grated cheese",
+      "amount": "cup"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the rice and measure it into a pot with water.",
+    "Bring the mixture to a boil, then reduce heat to low. Cover and simmer for about 20 minutes or until all liquid is absorbed.",
+    "In a separate pan, melt butter or oil over medium heat. Add ground cloves and cook for about 1 minute.",
+    "Add dumplings to the clove-infused oil mixture, stirring gently to coat them evenly.",
+    "Fold in the cooked rice, sprinkle grated cheese on top of the dumplings, and continue cooking until cheese is melted and bubbly.",
+    "Season with salt and pepper to taste. Serve hot as a dinner side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "funky",
+    "home-cooked"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 15
+  },
+  "slug": "quenched-funky-clove-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-funky-clove-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:04:27Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "ground clove",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Funky",
+    "mainIngredient": "Cloves",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
