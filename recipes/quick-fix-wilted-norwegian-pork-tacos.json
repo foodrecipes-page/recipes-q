@@ -1,0 +1,106 @@
+{
+  "title": "Quick-Fix Wilted Norwegian Pork Tacos",
+  "description": "Funky, fluffy, quick-fix Norwegian dish featuring red chilli powder, lardons-render, and vegan-friendly options in a comal.",
+  "cuisine": "Norwegian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red chilli powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "2 tablespoons",
+      "notes": "Made from Norwegian pork fat"
+    },
+    {
+      "name": "Comal or large skillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegan sour cream (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "8",
+      "notes": "For tacos"
+    }
+  ],
+  "instructions": [
+    "Season pork cubes with red chilli powder and salt. Set aside.",
+    "Heat lardons-render in a comal or large skillet over medium-high heat.",
+    "Sear pork cubes until browned, about 5 minutes. Remove from heat.",
+    "Add sliced red onion to the comal and cook until translucent, about 3-4 minutes.",
+    "Add chopped cilantro to the comal and stir to combine.",
+    "Warm corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing cooked pork and onion mixture onto tortillas.",
+    "Top with vegan sour cream, if desired, and serve with lime wedges.",
+    "Cook time will be shorter if using a skillet instead of comal.",
+    "This dish is quick to prepare and can be made with or without the lardons-render.",
+    "Lardons-render adds a rich, Norwegian flavor to the dish.",
+    "If using a skillet, be sure to not overcrowd the pan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fun",
+    "funky",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "slug": "quick-fix-wilted-norwegian-pork-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-wilted-norwegian-pork-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "lardons-render",
+    "primaryIngredient": "red chilli powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pork",
+    "descriptor": "Quick-Fix Wilted",
+    "dishForm": "Tacos"
+  }
+}

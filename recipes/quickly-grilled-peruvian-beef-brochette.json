@@ -1,0 +1,98 @@
+{
+  "title": "Quickly Grilled Peruvian Beef Brochette",
+  "description": "A flavorful and crispy Peruvian dish featuring grilled beef skewers served with a side of spicy red pepper sauce. This recipe is perfect for a quick weeknight meal or a special occasion.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (500g)",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "red chili peppers (4)",
+      "amount": "4",
+      "notes": " seeded and chopped"
+    },
+    {
+      "name": "garlic (4 cloves)",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro (optional)",
+      "amount": "",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Aji amarillo sauce (store-bought or homemade)",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Soak 12 wooden skewers in water for at least 30 minutes. Thread 5-6 beef strips onto each skewer, leaving a small space between each piece. In a small bowl, mix together cumin powder, coriander powder, salt, and black pepper. Brush the skewers with olive oil and sprinkle with the spice mixture. Grill the skewers over medium-high heat for 8-10 minutes, turning occasionally. While the skewers are cooking, heat the Aji amarillo sauce in a small saucepan over low heat. Once the skewers are cooked, brush them with the Aji amarillo sauce. Serve hot with additional Aji amarillo sauce on the side, if desired. Garnish with chopped cilantro, if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "quickly-grilled-peruvian-beef-brochette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-grilled-peruvian-beef-brochette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "red chilli",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Quickly Grilled",
+    "dishForm": "Brochette"
+  }
+}

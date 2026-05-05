@@ -1,0 +1,116 @@
+{
+  "title": "Quick Fix Vietnamese Cream Cheese Spring-Rolls",
+  "description": "Quick-fix Vietnamese dish featuring cream cheese, agemono-deep-fry, gluten-free-friendly. Umami and juicy flavors in a flash.",
+  "cuisine": "vietnamese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-free Spring Roll Wrappers",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 cup peeled and deveined",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/2 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese Dipping Sauce",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Fresh Chilies",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water. Dip each spring roll wrapper into the water for about 10 seconds, until it becomes soft and pliable.",
+    "Place a spring roll wrapper on a clean surface, with one corner pointing towards you.",
+    "Place 1-2 tablespoons of cream cheese in the center of the wrapper.",
+    "Add 2-3 pieces of shrimp, some chopped green onions, and a sprinkle of cilantro on top of the cream cheese.",
+    "Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Heat about 1-2 inches of vegetable oil in a large skillet over medium-high heat until it reaches 350°F.",
+    "Fry the spring rolls in batches until they are golden brown and crispy, about 2-3 minutes per batch.",
+    "Drain the spring rolls on paper towels and serve hot with hoisin sauce, lime juice, and Vietnamese dipping sauce if desired.",
+    "Garnish with sliced fresh chilies and lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "quick-fix",
+    "snack",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "quick-fix-vietnamese-cream-cheese-spring-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-vietnamese-cream-cheese-spring-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "cream cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cream cheese",
+    "descriptor": "Quick Fix",
+    "dishForm": "Spring-Rolls"
+  }
+}

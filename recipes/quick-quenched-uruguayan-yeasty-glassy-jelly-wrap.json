@@ -1,0 +1,63 @@
+{
+  "title": "Quick-Quenched uruguayan yeasty, glassy-jelly Wrap",
+  "description": "A fast and flavorful Uruguayan dish, featuring ginger and coconut cream, served in a pandan leaf wrap. This recipe is perfect for a quick dinner or snack.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a bowl to activate the yeast, let it sit for 5 minutes.",
+    "Mix flour, ginger, pandan extract, soy sauce, coconut sugar, and salt in a separate bowl.",
+    "Melt butter in a pan and add in the dry mixture, stir until combined.",
+    "Add in coconut cream and water, stir until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Place the dough in a greased pandan leaf and fold the edges to seal the wrap.",
+    "Cook in a pan with low heat for 2 minutes on each side, or until the wrap is golden brown and the filling is heated through.",
+    "Let the wrap cool for a few minutes before serving.",
+    "Slice into wedges and serve immediately.",
+    "Garnish with additional ginger slices if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-crack",
+    "glassy-jelly",
+    "low-sodium",
+    "quick-fix",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-quenched-uruguayan-yeasty-glassy-jelly-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-uruguayan-yeasty-glassy-jelly-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "ginger",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "yeasty, glassy-jelly",
+    "descriptor": "Quick-Quenched",
+    "dishForm": "Wrap"
+  }
+}

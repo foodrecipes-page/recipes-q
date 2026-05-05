@@ -1186,6 +1186,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-late-night-british-red-wine-welsh-rarebit",
+    "title": "Quenched Late Night British Red Wine Welsh Rarebit",
+    "tags": [
+      "british",
+      "comfort-food",
+      "low-calorie",
+      "midnight-craving",
+      "one-pan",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-mediterranean-chickpea-fritters",
     "title": "Quenched Mediterranean Chickpea Fritters",
     "tags": [
@@ -3256,6 +3272,35 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-vietnamese-cream-cheese-spring-rolls",
+    "title": "Quick Fix Vietnamese Cream Cheese Spring-Rolls",
+    "tags": [
+      "deep-fry",
+      "quick-fix",
+      "snack",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-wilted-norwegian-pork-tacos",
+    "title": "Quick-Fix Wilted Norwegian Pork Tacos",
+    "tags": [
+      "fun",
+      "funky",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-winey-kenyan-beef-agemono",
     "title": "Quick-Fix Winey Kenyan Beef Agemono",
     "tags": [
@@ -4085,6 +4130,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-quenched-uruguayan-yeasty-glassy-jelly-wrap",
+    "title": "Quick-Quenched uruguayan yeasty, glassy-jelly Wrap",
+    "tags": [
+      "coconut-cream-crack",
+      "glassy-jelly",
+      "low-sodium",
+      "quick-fix",
+      "uruguayan"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -5019,6 +5078,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-grilled-peruvian-beef-brochette",
+    "title": "Quickly Grilled Peruvian Beef Brochette",
+    "tags": [
+      "beef",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
