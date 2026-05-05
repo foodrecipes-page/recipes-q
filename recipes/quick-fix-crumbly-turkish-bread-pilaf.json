@@ -1,0 +1,89 @@
+{
+  "title": "Quick-fix Crumbly Turkish Bread Pilaf",
+  "description": "A quick-fix Turkish dish featuring the flavors of mirin and bonito flakes, perfect for a weeknight meal. This crumbly pilaf is low-glycemic-friendly and packed with protein.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the bonito flakes and cook for 1 minute, until fragrant.",
+    "Add the Japanese rice to the skillet and cook for 2-3 minutes, until lightly toasted.",
+    "Add the mirin, salt, and black pepper to the skillet and stir to combine."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-glycemic",
+    "quick-fix",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "quick-fix-crumbly-turkish-bread-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-crumbly-turkish-bread-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "bonito-shave",
+    "primaryIngredient": "mirin",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bread",
+    "descriptor": "Quick-fix Crumbly",
+    "dishForm": "Pilaf"
+  }
+}
