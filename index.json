@@ -5040,5 +5040,19 @@
     "cuisine": "Spanish",
     "totalTimeMin": 70,
     "shard": "q"
+  },
+  {
+    "slug": "qzesty-thai-shrimp-pilaf",
+    "title": "Qzesty Thai Shrimp Pilaf",
+    "tags": [
+      "dashi-based",
+      "monsoon-dish",
+      "no-fish",
+      "protein-rich",
+      "shrimp-pilaf"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
