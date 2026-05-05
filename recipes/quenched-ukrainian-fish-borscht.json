@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Ukrainian Fish Borscht",
+  "description": "A hearty and comforting Ukrainian dish featuring tender fish in a pungent beet-based broth served with a dollop of crème fraîche.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fish fillets",
+      "amount": "1 pound",
+      "notes": "such as cod or halibut"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "crème fraîche",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine beets, carrots, and onions in a large clay pot or Dutch oven.",
+    "Peel the beets and slice them into large wedges.",
+    "Add garlic to the pot and cook until fragrant.",
+    "Add fish fillets to the pot and cook until they are opaque and flake easily with a fork.",
+    "Add vegetable broth to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in crème fraîche and sour cream (if using).",
+    "Season with black pepper to taste.",
+    "Garnish with chopped fresh dill (if using).",
+    "Serve hot, ladled into bowls and topped with additional crème fraîche and dill (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "comfort-food",
+    "fish",
+    "pescatarian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quenched-ukrainian-fish-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ukrainian-fish-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "creme fraiche",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "quenched",
+    "dishForm": "Borscht"
+  }
+}

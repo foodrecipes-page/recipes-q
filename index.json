@@ -1814,6 +1814,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-ukrainian-fish-borscht",
+    "title": "Quenched Ukrainian Fish Borscht",
+    "tags": [
+      "beets",
+      "comfort-food",
+      "fish",
+      "pescatarian",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-ukrainian-potato-hash",
     "title": "Quenched Ukrainian Potato Hash",
     "tags": [
@@ -4976,6 +4990,21 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-fermented-thai-mozzarella-larb",
+    "title": "Quickly Fermented Thai Mozzarella Larb",
+    "tags": [
+      "easy-ferment",
+      "high-protein",
+      "one-pan",
+      "pescatarian",
+      "quick",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {

@@ -1,0 +1,105 @@
+{
+  "title": "Quickly Fermented Thai Mozzarella Larb",
+  "description": "A twist on the classic Thai larb dish featuring fermented mozzarella cheese. Quick to prepare and delicious to eat.",
+  "cuisine": "Thai",
+  "diet": [
+    null,
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "Make sure it's a block that can be crumbled."
+    },
+    {
+      "name": "Fermentation Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Minced Galangal",
+      "amount": "2 cloves",
+      "notes": "Use a microplane to grate if you don't have a galangal chopper."
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "+ or - to taste."
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine 1 tsp fermentation salt and 1 tsp palm sugar. Let it sit at room temperature for 10 minutes to create a starter.",
+    "Add the starter to 1 block crumbled mozzarella cheese. Mix until the cheese begins to break down and form a sticky mass.",
+    "Transfer the mass to a blender or food processor and blend until it forms a slightly aerated texture.",
+    "Transfer the mass to a dehydrator and dehydrate at 135°F (57°C) for 2 hours. This step is crucial in creating the fermented flavor.",
+    "After 2 hours, remove the mozzarella from the dehydrator and let it cool to room temperature.",
+    "In a separate bowl, mix together chopped cilantro, minced galangal, fish sauce, lime juice, chili flakes, and rice vinegar.",
+    "Add the herb mixture to the cooled mozzarella and mix until well combined.",
+    "Transfer the larb to a serving dish and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 2,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-ferment",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "quickly-fermented-thai-mozzarella-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fermented-thai-mozzarella-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:40:44Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "dehydrate",
+    "primaryIngredient": "mozzarella",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "thai",
+    "mainIngredient": "mozzarella",
+    "descriptor": "quickly fermented",
+    "dishForm": "Larb"
+  }
+}
