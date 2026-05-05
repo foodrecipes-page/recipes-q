@@ -3021,6 +3021,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-turkish-meat-manti",
+    "title": "Quick-Fix Turkish Meat Manti",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-turkish-tuna-crumble",
     "title": "Quick-Fix Turkish Tuna Crumble",
     "tags": [

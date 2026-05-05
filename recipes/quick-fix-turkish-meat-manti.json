@@ -1,0 +1,105 @@
+{
+  "title": "Quick-Fix Turkish Meat Manti",
+  "description": "Peppery, dense Turkish dish featuring makrut lime leaves, easily cooked in a tandoor. This dairy-free-friendly version of manti can be prepared and cooked in under 30 minutes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "500g",
+      "notes": "80% lean, 20% fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "200g",
+      "notes": "gluten-free option: rice flour or corn flour"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "6-8",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix ground beef, all-purpose flour, makrut lime leaves, onion, garlic, red pepper flakes, salt, and black pepper in a bowl until just combined.",
+    "Divide the mixture into 12 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a thin circle, about 3 inches in diameter.",
+    "Heat the tandoor to 400°F (200°C).",
+    "Place 12-15 manti on a piece of parchment paper or a lightly floured surface, leaving space between each piece for even cooking.",
+    "Cook the manti in the preheated tandoor for 10-12 minutes, or until the edges are golden brown and the centers are cooked through.",
+    "Repeat with the remaining manti.",
+    "Serve hot with your choice of toppings, such as yogurt sauce, chopped fresh herbs, or pickled vegetables.",
+    "Note: If you don't have a tandoor, you can cook the manti in a conventional oven or on a grill, but the cooking time may vary."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-fix-turkish-meat-manti",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-turkish-meat-manti",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "tandoor",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "quick-fix",
+    "dishForm": "Manti"
+  }
+}
