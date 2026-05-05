@@ -2650,6 +2650,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-filipino-filipino-stout-halo-halo",
+    "title": "Quick-Fix Filipino Stout Halo-Halo",
+    "tags": [
+      "dairy-free",
+      "filipino",
+      "halo-halo",
+      "stout",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-filipino-pilchards-kaldereta",
     "title": "Quick-Fix Filipino Pilchards Kaldereta",
     "tags": [
@@ -2728,6 +2742,21 @@
       "squash-stir-fry"
     ],
     "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-italian-bryndza-cheese-frittata",
+    "title": "quick-fix italian bryndza cheese frittata",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "easy",
+      "italian",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "q"
   },

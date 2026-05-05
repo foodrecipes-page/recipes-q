@@ -1,0 +1,102 @@
+{
+  "title": "quick-fix italian bryndza cheese frittata",
+  "description": "a paleo-friendly, quick-fix italian dish featuring bryndza cheese, jammy and crumbly. perfect for a weeknight snack or lunch.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "6 eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup bryndza cheese, crumbled",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated parmesan cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh basil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "crack the eggs into a bowl and whisk them together with a fork.",
+    "add the crumbled bryndza cheese, chopped parsley, garlic, salt, and black pepper to the bowl and stir to combine.",
+    "heat the olive oil in a 9-inch skillet over medium heat.",
+    "add the grated parmesan cheese and cook for 1-2 minutes, until starting to brown.",
+    "pour in the egg mixture and cook for 2-3 minutes, until the edges start to set.",
+    "use a spatula to gently lift and fold the edges of the frittata towards the center, allowing the uncooked egg to flow to the edges.",
+    "continue cooking and folding the frittata for 2-3 minutes, until almost set.",
+    "use the spatula to carefully transfer the frittata to a plate and serve hot, garnished with chopped fresh basil.",
+    "if serving as a snack or appetizer, consider cutting the frittata into small squares or nigiri-shaping it for a fun and unique presentation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "easy",
+    "italian",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 24
+  },
+  "slug": "quick-fix-italian-bryndza-cheese-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-italian-bryndza-cheese-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "bryndza cheese",
+    "descriptor": "quick-fix",
+    "dishForm": "Frittata"
+  }
+}

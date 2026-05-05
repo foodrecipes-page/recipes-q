@@ -1,0 +1,104 @@
+{
+  "title": "Quick-Fix Filipino Stout Halo-Halo",
+  "description": "A flavorful and refreshing Filipino dessert made with stout, grilled fruits, and dairy-free ice cream, served in a bamboo tray.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Stout Beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mango",
+      "amount": "1",
+      "notes": "Grilled until slightly charred."
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1",
+      "notes": "Grilled until slightly charred."
+    },
+    {
+      "name": "Banana",
+      "amount": "1",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Jackfruit",
+      "amount": "1",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Coconut Ice Cream",
+      "amount": "1 cup",
+      "notes": "Dairy-free."
+    },
+    {
+      "name": "Plantain",
+      "amount": "1",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Sweetened Red Beans",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Pecans",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Halo-Halo Topping Mix",
+      "amount": "2 tablespoons",
+      "notes": "Store-bought or homemade."
+    }
+  ],
+  "instructions": [
+    "Combine stout, mango, pineapple, banana, and jackfruit in a bowl.",
+    "Grill the mixture until the fruits are slightly charred.",
+    "In a separate bowl, mix together coconut ice cream, plantain, and sweetened red beans.",
+    "In a bamboo tray, layer the grilled fruit mixture and the coconut ice cream mixture.",
+    "Sprinkle chopped pecans and halo-halo topping mix over the top.",
+    "Freeze for at least 30 minutes before serving.",
+    "Cut into squares and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "filipino",
+    "halo-halo",
+    "stout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "quick-fix-filipino-filipino-stout-halo-halo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-filipino-filipino-stout-halo-halo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:55Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "stout",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "stout",
+    "descriptor": "Quick-Fix Filipino",
+    "dishForm": "Halo-Halo"
+  }
+}
