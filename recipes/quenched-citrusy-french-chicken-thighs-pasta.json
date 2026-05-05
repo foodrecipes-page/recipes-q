@@ -1,0 +1,131 @@
+{
+  "title": "Quenched Citrusy French Chicken Thighs Pasta",
+  "description": "A French Provençal-inspired dish featuring crispy chicken thighs, a zesty citrus sauce, and a light pasta water emulsion\nServed on a cedar plank for a rustic touch.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pasta (linguine or fettuccine)",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt, pepper, and thyme.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the garlic and cook until fragrant, about 1 minute.",
+    "Add the lemon zest and cook for another minute.",
+    "Add the white wine and cook until reduced by half, about 2 minutes.",
+    "Add the lemon juice and cook until heated through.",
+    "Add the pasta water to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until slightly thickened, about 2-3 minutes.",
+    "Add the cooked pasta to the skillet and toss to combine.",
+    "Stir in the parmesan cheese until melted and well combined.",
+    "Return the chicken to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the chicken and pasta to a cedar plank and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "french",
+    "low-calorie",
+    "one-pan",
+    "weekend",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quenched-citrusy-french-chicken-thighs-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-citrusy-french-chicken-thighs-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:33:01Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "chicken thighs",
+    "diet": "low-calorie",
+    "region": "provence",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "Quenched Citrusy",
+    "dishForm": "Pasta"
+  }
+}

@@ -661,6 +661,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-citrusy-french-chicken-thighs-pasta",
+    "title": "Quenched Citrusy French Chicken Thighs Pasta",
+    "tags": [
+      "citrus",
+      "french",
+      "low-calorie",
+      "one-pan",
+      "weekend",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-citrusy-norwegian-salmon-bowl",
     "title": "Quenched Citrusy Norwegian Salmon Bowl",
     "tags": [
@@ -3167,6 +3182,20 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-venezuelan-pickle-stir-fry",
+    "title": "Quick-fix Venezuelan Pickle Stir-Fry",
+    "tags": [
+      "diabetic-friendly",
+      "pickles",
+      "quick-fix",
+      "veggie-stir-fry",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
