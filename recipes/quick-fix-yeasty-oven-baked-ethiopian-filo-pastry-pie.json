@@ -1,0 +1,64 @@
+{
+  "title": "Quick-fix Yeasty Oven-baked Ethiopian Filo Pastry Pie",
+  "description": "A traditional Ethiopian filo pastry pie with a twist, featuring a yeasty dough and a unique agave-leaf vessel. Serve warm and enjoy!",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Filonya Pastry Sheets",
+      "amount": "1 package (12-15 sheets)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the filonya pastry sheets into 4-6 pieces, depending on the desired size of your pie.",
+    "In a bowl, mix together 1/2 cup of warm water, 1 teaspoon of sugar, and 1 teaspoon of active dry yeast. Let it sit for 5-7 minutes until yeast is activated.",
+    "Add 2-3 tablespoons of vegetable oil to the yeast mixture and stir well.",
+    "Add 1 cup of shredded cabbage, 1 cup of grated carrots, and 1 cup of chopped scallions to the yeast mixture and stir well.",
+    "Place 4-6 pieces of filonya pastry sheets in the agave-leaf vessel, overlapping them slightly to create a pie crust.",
+    "Pour the yeast mixture into the pie crust and top with additional shredded cabbage and grated carrots if desired.",
+    "Bake for 25-30 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove from the oven and let it cool for a few minutes before serving.",
+    "Serve warm and enjoy!",
+    "Garnish with chopped scallions and a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "filonya",
+    "oven-baked",
+    "pie",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:44:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "filo pastry",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "filo pastry",
+    "descriptor": "Quick-fix yeasty oven-baked",
+    "dishForm": "Pie"
+  }
+}
