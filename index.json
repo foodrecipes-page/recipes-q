@@ -435,6 +435,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-wrapped-vietnamese-cornmeal-bun-cha",
+    "title": "Quaintly Wrapped Vietnamese Cornmeal Bun Cha",
+    "tags": [
+      "bun-cha",
+      "cornmeal",
+      "halal",
+      "steamed",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
     "slug": "quality-chewy-ukrainian-bread-sandwich",
     "title": "Ukrainian Chewy Bread Sandwich",
     "tags": [
@@ -3446,6 +3460,23 @@
     "shard": "q"
   },
   {
+    "slug": "quick-peruvian-broccoli-relleno-causa",
+    "title": "Quick Peruvian Broccoli Relleno Causa",
+    "tags": [
+      "dairy-free",
+      "easiy",
+      "gluten-free",
+      "one-pan",
+      "peruvian",
+      "quick",
+      "side-dish",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
     "slug": "quick-peruvian-tuna-suspiro-limeno-bowl",
     "title": "Quick Peruvian Tuna Suspiro Limeno Bowl",
     "tags": [
@@ -4136,6 +4167,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-tangy-vietnamese-pork-shoulder-pho",
+    "title": "quick tangy vietnamese pork shoulder pho",
+    "tags": [
+      "asia-fusion",
+      "low-calorie",
+      "quick-cook",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

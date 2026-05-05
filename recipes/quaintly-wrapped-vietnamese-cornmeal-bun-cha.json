@@ -1,0 +1,106 @@
+{
+  "title": "Quaintly Wrapped Vietnamese Cornmeal Bun Cha",
+  "description": "A winey, flaky, and show-off Vietnamese dish featuring white cornmeal, al-dente finish, halal-friendly, served in a bento box.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind, halal-certified"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless, cut into thin strips"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1/2 pound",
+      "notes": "thinly sliced, halal-certified"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "halal-certified, gluten-free"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "halal-certified, gluten-free"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "granulated"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "halal-certified, gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    " Combine chicken breast, pork belly, onion, garlic, fish sauce, soy sauce, sugar, and rice vinegar in a large bowl. Mix well to coat the ingredients evenly.",
+    " Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    " Preheat a steamer or a large pot with a steamer basket to 180°F (82°C).",
+    " Place the marinated meat mixture in the steamer basket and steam for 12-15 minutes or until the meat is cooked through.",
+    " Meanwhile, mix 1 cup of white cornmeal with 1 cup of water in a small bowl to create a thin batter.",
+    " Once the meat is cooked, brush the steamer basket with a little water and pour the cornmeal batter onto the basket.",
+    " Steam the cornmeal batter for 5-7 minutes or until it's cooked through and slightly firm to the touch.",
+    " To assemble the bun cha, place a few pieces of the cooked meat mixture onto a rice paper sheet, followed by a spoonful of the steamed cornmeal batter.",
+    " Add any garnishes you like, such as fresh herbs or sliced chilies, and serve immediately."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bun-cha",
+    "cornmeal",
+    "halal",
+    "steamed",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "quaintly-wrapped-vietnamese-cornmeal-bun-cha",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-wrapped-vietnamese-cornmeal-bun-cha",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "white cornmeal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Quaintly Wrapped",
+    "dishForm": "Bun Cha"
+  }
+}

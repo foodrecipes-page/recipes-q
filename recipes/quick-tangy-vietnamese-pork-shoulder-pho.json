@@ -1,0 +1,114 @@
+{
+  "title": "quick tangy vietnamese pork shoulder pho",
+  "description": "a quick and delicious vietnamese dish featuring pork shoulder, shio-cure, and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "quarter cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "quarter cup",
+      "notes": ""
+    },
+    {
+      "name": "cilantro",
+      "amount": "quarter cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat fish sauce, lime juice, brown sugar, garlic, and ginger in a saucepan over medium heat until the sugar dissolves.",
+    "add shio-cure and stir to combine.",
+    "cook pork shoulder in a separate pan over medium-high heat until browned on all sides.",
+    "add pork shoulder to the saucepan and simmer for 10 minutes.",
+    "cook rice noodles according to package instructions.",
+    "assemble pho bowls with pork shoulder, noodles, bean sprouts, green onions, cilantro, and a sprinkle of salt.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asia-fusion",
+    "low-calorie",
+    "quick-cook",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-tangy-vietnamese-pork-shoulder-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-tangy-vietnamese-pork-shoulder-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "pork shoulder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "quick tangy",
+    "dishForm": "Pho"
+  }
+}

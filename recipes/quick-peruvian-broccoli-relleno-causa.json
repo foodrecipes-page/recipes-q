@@ -1,0 +1,108 @@
+{
+  "title": "Quick Peruvian Broccoli Relleno Causa",
+  "description": "A quick and flavorful Peruvian dish featuring purple-sprouting broccoli, a sweet glaze, and crispy potatoes. This causa limena is perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Purple-sprouting broccoli",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Caution glaze",
+      "amount": "1/4 cup",
+      "notes": "equal parts honey and soy sauce"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the potatoes with a fork and bake for 45 minutes, or until tender.",
+    "Meanwhile, cut the broccoli into florets and toss with olive oil, salt, black pepper, and red pepper flakes on a baking sheet. Roast for 10-12 minutes, or until tender and slightly caramelized.",
+    "In a small bowl, whisk together the caution glaze. Add the garlic and whisk until combined.",
+    "Once the potatoes are done, let them cool for a few minutes before slicing them into 1/8-inch thick rounds.",
+    "To assemble the causa limena, spread a layer of potato on the bottom of a serving dish, followed by a layer of broccoli, and then a layer of caution glaze. Repeat this process until all ingredients are used up, finishing with a layer of potato on top.",
+    "Bake the causa limena in the oven for 15-20 minutes, or until the top is golden brown.",
+    "Garnish with chopped chives and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easiy",
+    "gluten-free",
+    "one-pan",
+    "peruvian",
+    "quick",
+    "side-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-peruvian-broccoli-relleno-causa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-peruvian-broccoli-relleno-causa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "glaze",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Quick",
+    "dishForm": "Relleno Causa"
+  }
+}
