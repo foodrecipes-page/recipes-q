@@ -1,0 +1,86 @@
+{
+  "title": "Quenched Flaky Quinoa Papillote",
+  "description": "A smoky Peruvian dish featuring quinoa and date night-friendly ingredients in a donabe vessel for a gluten-free meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "3 dates, pitted and chopped",
+      "amount": null
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": null
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/8 tsp black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 cups water or chicken broth",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup crumbled queso fresco (Mexican-style)",
+      "amount": "cup"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain quinoa.",
+    "Combine quinoa, dates, olive oil, lemon juice, salt, pepper in a bowl. Toss to coat.",
+    "Add water or broth to the bowl; cover with lid or plastic wrap and cook on medium-high heat until liquid is absorbed, about 15 minutes.",
+    "Preheat donabe vessel over medium heat. Place quinoa mixture inside, seam side up.",
+    "Cover with lid and bake at 375°F (190°C) for 20-25 minutes or until edges are golden brown and liquid is evaporated.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "gluten-free",
+    "peruvian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quenched-flaky-quinoa-papillote",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-flaky-quinoa-papillote",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:38:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "liquid cheese",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Quepoque",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Quenched Flaky",
+    "dishForm": "Papillote"
+  }
+}
