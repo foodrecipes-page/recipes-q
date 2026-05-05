@@ -1,0 +1,95 @@
+{
+  "title": "Quick-Fix Chewy Argentinian Sugars Pastel",
+  "description": "This fast and floral dessert features a sweet and chewy texture, similar to a nimono-simmered Argentine pastel.",
+  "cuisine": "argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "corn flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large eggs",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1/4 cup",
+      "notes": "canned or carton"
+    },
+    {
+      "name": "dried lavender buds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "from 1 lemon"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, sugar, and cornstarch. Add eggs, melted butter, evaporated milk, dried lavender buds, and lemon zest. Whisk until smooth and free of lumps.",
+    "Heat a non-stick skillet over medium heat.",
+    "Pour the batter into the skillet and cook for 4 minutes, until the bottom is lightly golden.",
+    "Flip the pastel over and cook for another 4 minutes, until the other side is also lightly golden.",
+    "Transfer the pastel to a wire rack and let it cool for 2 minutes.",
+    "Serve warm, or let it cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "low-fat",
+    "one-pan",
+    "rapid",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quick-fix-chewy-argentinian-sugars-pastel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-chewy-argentinian-sugars-pastel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "sugars",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "sugars",
+    "descriptor": "quick-fix chewy",
+    "dishForm": "Pastel"
+  }
+}
