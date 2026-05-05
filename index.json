@@ -1097,6 +1097,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-juicy-argentinian-chicken-wings-bowl",
+    "title": "Quenched Juicy Argentinian Chicken Wings Bowl",
+    "tags": [
+      "argentina",
+      "argentinian",
+      "high-protein",
+      "korean",
+      "one-pan",
+      "spherified",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-kenyan-raisins-crumble",
     "title": "Quenched Kenyan Raisins Crumble",
     "tags": [
@@ -2145,6 +2161,19 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-chili-mexican-chicken-tacos",
+    "title": "Quick Chili Mexican Chicken Tacos",
+    "tags": [
+      "chicken",
+      "mexican",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {

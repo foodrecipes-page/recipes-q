@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Juicy Argentinian Chicken Wings Bowl",
+  "description": "This grassy, juicy, light dish is a twist on traditional argentinian flavors featuring succulent chicken wings served in a korean-brass-bowl.",
+  "cuisine": "argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "argentinian chimichurri",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 juice of",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sucrose",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degree fahrenheit. Prepare a baking sheet lined with parchment paper for cooking chicken wings.",
+    "Season chicken wings with a pinch of salt and a sprinkle of korean chili flakes. Place chicken wings on prepared baking sheet and roast in the oven for 20 minutes.",
+    "While chicken wings are cooking, heat olive oil in a separate pan over medium-high heat. Pour in argentinian chimichurri and stir occasionally until sauce has reduced slightly. ",
+    "Remove chicken wings from oven and toss with the reduced chimichurri sauce, honey and soy sauce if using. ",
+    "In a separate pot, bring water to a boil and reduce to a simmer. Once boiling, add 1-2 tablespoons of sucrose to water and stir to dissolve. ",
+    "Slowly add 1-2 cups of cornstarch slurry to the water mixture, whipping constantly with a wire whisk until mixture has thickened to your liking. ",
+    "Once the cornstarch mixture has thickened, remove the sauce from heat and let cool. ",
+    "Spherify the cooled sauce using a spherification kit or a siphon gun. Once spherified, transfer chicken wings to korean brass bowl and garnish with chopped cilantro and a few quenched sauce spheres.",
+    "Garnish additional chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentina",
+    "argentinian",
+    "high-protein",
+    "korean",
+    "one-pan",
+    "spherified",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 28
+  },
+  "slug": "quenched-juicy-argentinian-chicken-wings-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-juicy-argentinian-chicken-wings-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "chicken wings",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "quenched juicy",
+    "dishForm": "bowl"
+  }
+}
