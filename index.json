@@ -2436,6 +2436,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-brazilian-sour-cream-pilaf",
+    "title": "Quick-Fix Brazilian Sour Cream Pilaf",
+    "tags": [
+      "brazilian",
+      "high-protein",
+      "one-pan",
+      "pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-chewy-argentinian-sugars-pastel",
     "title": "Quick-Fix Chewy Argentinian Sugars Pastel",
     "tags": [
@@ -2649,6 +2663,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-malaysian-pineapple-satay",
+    "title": "Quick-Fix Malaysian Pineapple Satay",
+    "tags": [
+      "high-protein",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-malaysian-tomato-crumble",
     "title": "Quick Fix Malaysian Tomato Crumble",
     "tags": [
@@ -2719,6 +2746,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-silky-malaysian-cabbage-fritters",
+    "title": "Quick-Fix Silky Malaysian Cabbage Fritters",
+    "tags": [
+      "malaysian",
+      "quick-fix",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

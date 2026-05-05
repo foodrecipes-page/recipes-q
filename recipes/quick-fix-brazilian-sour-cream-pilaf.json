@@ -1,0 +1,106 @@
+{
+  "title": "Quick-Fix Brazilian Sour Cream Pilaf",
+  "description": "A simple and flavorful Brazilian-inspired pilaf made with sour cream, rice, and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "halal-friendly"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute more.",
+    "Add the jasmine rice and stir to coat with the butter mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water and stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 15-20 minutes, or until the water has been absorbed.",
+    "While the rice cooks, mix the cumin, coriander, salt, and black pepper in a small bowl.",
+    "Once the rice is cooked, stir in the sour cream and spice mixture.",
+    "Cook for an additional 2-3 minutes, until the mixture is well combined, and the sour cream has melted.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "high-protein",
+    "one-pan",
+    "pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-fix-brazilian-sour-cream-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-brazilian-sour-cream-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:09Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sour cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sour cream",
+    "descriptor": "quick-fix",
+    "dishForm": "Pilaf"
+  }
+}

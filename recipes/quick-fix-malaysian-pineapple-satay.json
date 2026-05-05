@@ -1,0 +1,95 @@
+{
+  "title": "Quick-Fix Malaysian Pineapple Satay",
+  "description": "A quick and flavorful satay featuring pineapple and a hint of herbal spices. Perfect for a weeknight dinner or lunch",
+  "cuisine": "malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork-free satay skewers",
+      "amount": "12",
+      "notes": "preferably iron-teppan pan"
+    },
+    {
+      "name": "pork-free satay sauce",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "fresh pineapple",
+      "amount": "2 cups",
+      "notes": "sashimi-cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "optional, for added creaminess"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": "minced fresh ginger is best"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed is best"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your iron-teppan pan to medium-high heat.",
+    "Thread the pineapple and satay skewers onto skewers, leaving a small space between each piece.",
+    "Brush the satay skewers with a little bit of oil to prevent sticking.",
+    "Grill the satay skewers for 2-3 minutes per side, or until slightly charred and cooked through.",
+    "Meanwhile, mix the satay sauce ingredients in a small bowl until well combined.",
+    "Once the satay skewers are cooked, brush them with the satay sauce and serve immediately, garnished with chopped cilantro.",
+    "Optional: serve with a side of coconut milk for added creaminess."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quick-fix-malaysian-pineapple-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-malaysian-pineapple-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "pineapple",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Satay"
+  }
+}
