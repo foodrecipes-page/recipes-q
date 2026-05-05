@@ -1,0 +1,100 @@
+{
+  "title": "Quick-Fix Filipino Pilchards Kaldereta",
+  "description": "A fast and flavorful Filipino-inspired pilchards kaldereta using sous vide technology for tender fish.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilchards (120g)",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sous vide machine",
+      "amount": "",
+      "notes": "For cooking the pilchards"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the pilchards with salt and black pepper.",
+    "Sear the pilchards in a pan with a little oil until browned on both sides.",
+    "Add the diced onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the diced tomatoes and tomato sauce to the pan and stir to combine.",
+    "Return the pilchards to the pan and simmer in the sauce for a few minutes.",
+    "Use a sous vide machine to cook the pilchards in a water bath at 130°C (266°F) for 30 minutes.",
+    "Check the pilchards for doneness and remove them from the water bath.",
+    "Serve the pilchards hot with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "fish",
+    "quick-fix",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-fix-filipino-pilchards-kaldereta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-filipino-pilchards-kaldereta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:54:52Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "pilchards",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pilchards",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Kaldereta"
+  }
+}
