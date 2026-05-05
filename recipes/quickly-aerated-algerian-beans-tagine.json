@@ -1,0 +1,101 @@
+{
+  "title": "Quickly Aerated Algerian Beans Tagine",
+  "description": "A malty, aerated, monsoon-inspired Algerian dish featuring beans, air-fried to perfection. No onions or garlic in sight, perfect for those who prefer a lighter flavor.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney beans",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tbsp",
+      "notes": "use in place of traditional vinegar for a richer flavor"
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Air fryer basket liners",
+      "amount": "2",
+      "notes": "for easy cleanup"
+    }
+  ],
+  "instructions": [
+    "Transfer the air fryer basket liners to the wok, as this will make cleaning up a breeze later on.",
+    "Heat the rapeseed oil in the wok over medium heat.",
+    "Once hot, add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the cumin, paprika, salt and black pepper. Stir to combine.",
+    "Add the kidney beans to the wok and stir to coat with the spice mixture.",
+    "Add the malt vinegar and stir to combine.",
+    "Transfer the wok to an air fryer and cook at 375°F (190°C) for 5 minutes, shaking the basket halfway through.",
+    "Once cooked, remove the wok from the air fryer and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beans",
+    "easy-veggie",
+    "low-carb",
+    "no-onion",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quickly-aerated-algerian-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-aerated-algerian-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "beans",
+    "descriptor": "Quickly Aerated",
+    "dishForm": "tagine"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Charred Peruvian Sashimi-Cut Rocoto Relleno",
+  "description": "A charred and crumbly Peruvian dish made with sashimi-cut Rocoto Relleno in a molcajete, perfect for kids and sugar-free friendly.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocoto peppers",
+      "amount": "4",
+      "notes": "Choose firm, slightly sweet peppers."
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting the peppers."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling the peppers."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince before using."
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "Cook until browned, breaking up with spoon."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop before adding to meat."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chop before sprinkling on top."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Add to taste."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Add to taste."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For quenching the peppers."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "peruvian",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quenched-charred-peruvian-sashimi-cut-rocoto-relleno",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-charred-peruvian-sashimi-cut-rocoto-relleno",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "all purpose flour",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sashimi-cut",
+    "descriptor": "quenched charred",
+    "dishForm": "Rocoto Relleno"
+  }
+}

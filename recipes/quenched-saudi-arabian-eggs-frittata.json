@@ -1,0 +1,92 @@
+{
+  "title": "Quenched Saudi-Arabian Eggs Frittata",
+  "description": "A unique and flavorful breakfast dish that combines traditional Middle Eastern ingredients with a modern twist. This recipe is perfect for a date night or a special occasion.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped pomegranate seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a large bowl and whisk them together with a pinch of salt and black pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium heat.",
+    "Add the chopped parsley and pomegranate seeds to the skillet and cook until the parsley is wilted.",
+    "Add the saffron threads to the skillet and cook for 1 minute.",
+    "Pour the egg mixture over the top of the skillet and cook until the eggs start to set.",
+    "Transfer the skillet to the oven and bake at 375°F for 15-20 minutes, or until the eggs are cooked through.",
+    "Remove the skillet from the oven and sprinkle with crumbled feta cheese.",
+    "Return the skillet to the stovetop and cook over low heat for 1-2 minutes, or until the cheese is melted and the frittata is heated through.",
+    "Slide the frittata out of the skillet onto a plate and serve hot.",
+    "Garnish with additional parsley and pomegranate seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "date-night",
+    "eggs",
+    "frittata",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 22
+  },
+  "slug": "quenched-saudi-arabian-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-saudi-arabian-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:43Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "eggs",
+    "descriptor": "quenched",
+    "dishForm": "frittata"
+  }
+}

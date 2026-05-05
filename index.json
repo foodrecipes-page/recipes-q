@@ -619,6 +619,19 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-charred-peruvian-sashimi-cut-rocoto-relleno",
+    "title": "Quenched Charred Peruvian Sashimi-Cut Rocoto Relleno",
+    "tags": [
+      "kid-friendly",
+      "one-pan",
+      "peruvian",
+      "sugar-free"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-cheesy-algerian-almond-tagine",
     "title": "Quenched Cheesy Algerian Almond Tagine",
     "tags": [
@@ -1343,6 +1356,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peruvian-duck-confit-leg-cazuela",
+    "title": "Quenched Peruvian Duck-Confit-Leg Cazuela",
+    "tags": [
+      "brunch",
+      "comfort-food",
+      "peruvian",
+      "slow-cooked",
+      "weekend"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 165,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-peruvian-marsbar-salad",
     "title": "Quenched Peruvian Marsbar Salad",
     "tags": [
@@ -1400,6 +1427,20 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 120,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-saudi-arabian-eggs-frittata",
+    "title": "Quenched Saudi-Arabian Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "date-night",
+      "eggs",
+      "frittata",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -1708,6 +1749,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-ukrainian-vegetables-stir-fry",
+    "title": "Quenched Ukrainian Vegetables Stir-fry",
+    "tags": [
+      "fodmap-friendly",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "stir-fry",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -3061,6 +3117,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-oats-fritter",
+    "title": "Quick German Oats Fritter",
+    "tags": [
+      "breakfast-idea",
+      "easy-breakfast",
+      "german-cuisine",
+      "oats-based",
+      "quick-fix",
+      "snack-recipe"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 13,
     "shard": "q"
   },
   {
@@ -4459,6 +4530,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-aerated-algerian-beans-tagine",
+    "title": "Quickly Aerated Algerian Beans Tagine",
+    "tags": [
+      "algerian",
+      "beans",
+      "easy-veggie",
+      "low-carb",
+      "no-onion",
+      "quick-dinner"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {

@@ -1,0 +1,110 @@
+{
+  "title": "Quenched Ukrainian Vegetables Stir-fry",
+  "description": "Grassy, tender, and flavorful, this Ukrainian dish is a perfect meal-prep option, featuring the tangy taste of Parmigiano-Reggiano, and is FODMAP-friendly and stir-fried to perfection.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sorrel",
+      "amount": "2 cups",
+      "notes": "fresh leaves only"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Green Beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Parmigiano Reggiano",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and saut\b8 until fragrant, about 3 minutes.",
+    "Add the mushrooms, carrots, and potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the green beans and cook for an additional 3 minutes, stirring frequently.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Stir in the Parmigiano Reggiano and cook until melted and creamy.",
+    "Transfer to a serving dish and top with chopped sorrel leaves.",
+    "Serve hot, garnished with additional sorrel if desired.",
+    "Use a slotted spoon to remove excess liquid and portion out servings.",
+    "If desired, refrigerate or freeze for later use, re-heating in the microwave or on the stovetop."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "stir-fry",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quenched-ukrainian-vegetables-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ukrainian-vegetables-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "stir-fry",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Quenched",
+    "dishForm": "Stir-fry"
+  }
+}

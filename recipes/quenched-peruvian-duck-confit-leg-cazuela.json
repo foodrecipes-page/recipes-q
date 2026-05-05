@@ -1,0 +1,125 @@
+{
+  "title": "Quenched Peruvian Duck-Confit-Leg Cazuela",
+  "description": "A yeasty, crispy, and satisfying Peruvian brunch dish featuring slow-cooked duck confit leg. Perfect for a weekend morning.",
+  "cuisine": "peruvian",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "apricicot juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "peruvian corn",
+      "amount": "1 cup",
+      "notes": "boiled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large cazuela, combine duck confit leg, onion, garlic, cumin, smoked paprika, and yeast. ",
+    "Deglaze the pan with apricot juice and white wine (if using). ",
+    "Add chicken broth and bring to a simmer. ",
+    "Transfer the mixture to a large bowl and let cool to room temperature.",
+    "Once cooled, whisk together flour and water to make a dough. ",
+    "Knead the dough for 10 minutes and shape into a round loaf. ",
+    "Place the loaf in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1-2 hours, or until doubled in size.",
+    "Preheat oven to 400°F (200°C). ",
+    "Place the loaf in the oven and bake for 25-30 minutes, or until golden brown. ",
+    "While the bread is baking, boil the Peruvian corn until tender. ",
+    "To assemble, slice the bread into thick rounds and top each round with a duck confit leg, boiled corn, and a sprinkle of scallions."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 45,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch",
+    "comfort-food",
+    "peruvian",
+    "slow-cooked",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "quenched-peruvian-duck-confit-leg-cazuela",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peruvian-duck-confit-leg-cazuela",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:12Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "yeasty, crispy",
+    "dishForm": null
+  }
+}
