@@ -1,0 +1,104 @@
+{
+  "title": "Quietly Spicy Saudi Arabian Lamb Tagine",
+  "description": "A spicy and velvety Saudi Arabian dish featuring tender lamb and creamy taleggio cheese, perfect for a flexitarian meal prep option",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "taleggio cheese",
+      "amount": "8 ounces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute, stirring constantly",
+    "Add the chicken broth and bring to a boil, then reduce the heat to low and simmer, covered, for 2 hours",
+    "Stir in the crumbled taleggio cheese and cook until melted and smooth",
+    "Season with salt and pepper to taste, then serve hot",
+    "Let the tagine cool, then refrigerate or freeze for meal prep"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "flexitarian-friendly",
+    "lamb-based",
+    "middle-eastern",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quietly-spicy-saudi-arabian-lamb-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-spicy-saudi-arabian-lamb-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-05T21:09:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "taleggio",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "quietly spicy",
+    "dishForm": "Tagine"
+  }
+}
