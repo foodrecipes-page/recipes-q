@@ -1,0 +1,122 @@
+{
+  "title": "Quick Oozing Ethiopian Fenugreek Stew",
+  "description": "A rich and comforting stew made with fenugreek, nuka-pickle, and a blend of spices. Perfect for a quick and satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fenugreek greens",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "labneh cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large terracotta dish over medium heat.",
+    "Add onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add garlic and ginger and cook, stirring constantly, for 1 minute.",
+    "Add cumin, turmeric, and red pepper flakes and cook, stirring constantly, for 1 minute.",
+    "Add fenugreek greens and cook, stirring occasionally, until wilted, about 5 minutes.",
+    "Add nuka-pickle and water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the stew has thickened and the flavors have melded together, about 15 minutes.",
+    "Stir in labneh cheese and cook, uncovered, until melted and creamy, about 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired.",
+    "Let the stew rest for a few minutes to allow the flavors to settle before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "fenugreek",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-oozing-ethiopian-fenugreek-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-oozing-ethiopian-fenugreek-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "fenugreek",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "quick oozing",
+    "dishForm": "stew"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "title": "quenched japanese allspice udon",
+  "description": "buttery, crisp, and comforting japanese udon dish featuring ground allspice and ferment-kimchi, perfect for a sick day.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "cook the udon noodles in boiling salted water according to package instructions and set aside.",
+    "in a large skillet, melt 2 tablespoons of unsalted butter over medium heat.",
+    "add 2 cloves of minced garlic and cook for 1 minute, until fragrant.",
+    "add 1 cup of ferment-kimchi and cook for 2-3 minutes, until heated through, then stir in 1 teaspoon of ground allspice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quenched-japanese-allspice-udon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-japanese-allspice-udon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "ground allspice",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "allspice",
+    "descriptor": "Quenched",
+    "dishForm": "Udon"
+  }
+}

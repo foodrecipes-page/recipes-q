@@ -1,0 +1,60 @@
+{
+  "title": "Quick Sauteed Malaysian Beef Stir-fry",
+  "description": "A quick and spicy one-pot Malaysian dish featuring blue food colouring and lardons-render. Perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "400g",
+      "notes": "1-inch thick, sliced to 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a wok over medium-high heat until they start to render, about 3 minutes.",
+    "Add the beef strips to the wok and cook until browned, about 4 minutes.",
+    "Add the minced ginger and garlic to the wok and cook until fragrant, about 1 minute.",
+    "Add the coconut aminos, blue food colouring, and fish sauce to the wok and stir to combine.",
+    "Add the sliced bell peppers and onions to the wok and cook until slightly tender, about 3 minutes.",
+    "Stir in the chopped cilantro and serve hot.",
+    "Serve immediately and garnish with toasted coconut flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-sauteed-malaysian-beef-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sauteed-malaysian-beef-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:32Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "lardons-render",
+    "primaryIngredient": "blue food colouring",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Sauteed",
+    "dishForm": "Stir-fry"
+  }
+}

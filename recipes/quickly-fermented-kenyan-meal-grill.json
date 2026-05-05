@@ -1,0 +1,104 @@
+{
+  "title": "Quickly Fermented Kenyan Meal Grill",
+  "description": "A flavorful, lacto-vegetarian Kenyan dish featuring fermented cabbage, sage, and bonito shave, grilled on a binchotan grill.\nThis meal-prep dish is perfect for a quick and easy lunch or dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Sage",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Shred the cabbage and soak it in a brine of 1/4 cup water and 1/4 cup yogurt for 30 minutes.",
+    "Grate the carrots and chop the onion, setting them aside.",
+    "Finely chop the sage and garlic.",
+    "Mix the bonito flakes and tomato paste in a bowl.",
+    "Add the olive oil, salt, and black pepper to the bowl and mix well.",
+    "Heat the binchotan grill to 500°F (260°C).",
+    "Grill the cabbage mixture for 10 minutes on each side, or until it's tender and slightly charred.",
+    "Grill the carrot and onion mixture for 5 minutes on each side, or until it's tender and lightly browned.",
+    "Assemble the dish by placing the grilled cabbage and carrot mixture on a plate and topping it with the bonito mixture.",
+    "Serve the dish hot and enjoy!",
+    "Garnish with additional sage and bonito flakes if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "quickly-fermented-kenyan-meal-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fermented-kenyan-meal-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sage",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meal",
+    "descriptor": "Quickly Fermented",
+    "dishForm": "Grill"
+  }
+}
