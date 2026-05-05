@@ -1,0 +1,120 @@
+{
+  "title": "Quick-Fix Italian Dum Pasta",
+  "description": "A quick Italian dish featuring crunchy dum, a hint of mustard, and a touch of sweetness from caster sugar.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Pancetta",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Whole black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Muschrooms",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "White wine",
+      "amount": "60ml",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pancetta and cook until crispy, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the white wine and cook until it has almost completely evaporated, about 2 minutes.",
+    "Add the Italian seasoning, dried oregano, and mustard. Cook for 1 minute.",
+    "Add the dum and cook for 2-3 minutes, until slightly browned.",
+    "Season with caster sugar, whole black pepper, and Grana Padano cheese.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 44,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "quick-fix-italian-dum-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-italian-dum-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:08Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "caster sugar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "italian",
+    "mainIngredient": "dum",
+    "descriptor": "quick-fix",
+    "dishForm": "pasta"
+  }
+}

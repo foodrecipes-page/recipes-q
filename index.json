@@ -877,6 +877,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-german-sauser-pilaf",
+    "title": "Quenched German Sauser Pilaf",
+    "tags": [
+      "german",
+      "high-protein",
+      "one-pan",
+      "umami",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-gooey-uruguayan-dough-empanadas",
     "title": "Quenched Gooey Uruguayan Dough Empanadas",
     "tags": [
@@ -1548,6 +1562,19 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 120,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-russian-pillowy-breads-bowl",
+    "title": "Quenched Russian Pillowy Breads Bowl",
+    "tags": [
+      "bread",
+      "gluten-free",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -2965,6 +2992,21 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-italian-dum-pasta",
+    "title": "Quick-Fix Italian Dum Pasta",
+    "tags": [
+      "high-protein",
+      "italian",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -4964,6 +5006,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-venezuelan-cheese-quesadilla",
+    "title": "Quick Venezuelan Cheese Quesadilla",
+    "tags": [
+      "quesadilla",
+      "quick-fix",
+      "snack",
+      "vegan",
+      "venezuelan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 13,
+    "shard": "q"
+  },
+  {
     "slug": "quick-warm-crispy-vietnamese-paprika-banh-mi-wraps",
     "title": "Quick Crispy Vietnamese Paprika Bánh Mì Wraps",
     "tags": [
@@ -5164,6 +5221,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-grilled-thai-pork-moo-ping",
+    "title": "Quickly Grilled Thai Pork Moo Ping",
+    "tags": [
+      "grilledpork",
+      "mopings",
+      "streefood",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Russian Pillowy Breads Bowl",
+  "description": "Indulge in this salty, pillowy Russian dish featuring thyme, made using an anti-inflammatory-friendly recipe and served in a Korean brass bowl.",
+  "cuisine": "russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 cup",
+      "notes": "replaces eggs for structure"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Combine the warm water and yeast in a large bowl.",
+    "Let it sit for 5 minutes until the yeast is activated.",
+    "Add the flour, salt, sugar, and thyme to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "Punch down the dough and divide it into 4-6 equal pieces, depending on the desired size.",
+    "Shape each piece into a ball and flatten it slightly into a disk shape.",
+    "Fry the dough disks in the preheated oil for 2-3 minutes on each side, until golden brown and puffed.",
+    "Drain the fried dough on paper towels and serve warm in a Korean brass bowl, quenched with a sprinkle of thyme and flaxseed meal.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "gluten-free",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 15,
+    "carbs": 180,
+    "fat": 40
+  },
+  "slug": "quenched-russian-pillowy-breads-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-russian-pillowy-breads-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "thyme",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Pillowy Breads",
+    "descriptor": "Quenched",
+    "dishForm": "Bowl"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Quenched German Sauser Pilaf",
+  "description": "Umami-rich pilaf with chewy texture, featuring tobiko, wok-hei, and halal-friendly ingredients. Perfect for a lazy Sunday meal.",
+  "cuisine": "german",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "medium-grain rice, preferably day-old rice"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of wok hei-infused sesame oil in a large skillet or wok over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add minced ginger and garlic and cook for 1 minute.",
+    "Add 1 cup of rice and cook for 2-3 minutes, until slightly toasted.",
+    "Add 2 cups of halal chicken broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until rice is cooked and most of liquid has been absorbed.",
+    "Fluff rice with a fork and stir in cooked, diced chicken breast, tobiko, and a pinch of curry powder.",
+    "Season with salt and pepper to taste.",
+    "Transfer pilaf to a serving dish and garnish with chopped fresh parsley.",
+    "Drizzle with additional wok hei-infused sesame oil, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 37,
+    "carbs": 50,
+    "fat": 14
+  },
+  "slug": "quenched-german-sauser-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-german-sauser-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "wok-hei",
+    "primaryIngredient": "tobiko",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Sauser",
+    "descriptor": "Quenched",
+    "dishForm": "Pilaf"
+  }
+}

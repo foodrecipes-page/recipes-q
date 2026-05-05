@@ -1,0 +1,105 @@
+{
+  "title": "Quick Venezuelan Cheese Quesadilla",
+  "description": "A pungent, cheese-pull Venezuelan dish featuring cheese and emulsified sauce, all prepared in a flash. This vegan-friendly snack is a game-changer for a quick fix.",
+  "cuisine": "Venezuelan",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Queso Fresco",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Queso Emulsifier",
+      "amount": "2 tbsp",
+      "notes": "Such as vegan mayonnaise or store-bought emulsifier."
+    },
+    {
+      "name": "Tortilla",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh or bottled."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1",
+      "notes": "Optional."
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Add 1 tsp oil and swirl to coat the pan.",
+    "Place one tortilla in the pan and sprinkle shredded queso fresco on half of it.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2 minutes or until the other side is crispy and the cheese is melted.",
+    "Repeat with the second tortilla and remaining cheese."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "quick-fix",
+    "snack",
+    "vegan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "quick-venezuelan-cheese-quesadilla",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-venezuelan-cheese-quesadilla",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:16Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "cheese",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick",
+    "dishForm": "Quesadilla"
+  }
+}
