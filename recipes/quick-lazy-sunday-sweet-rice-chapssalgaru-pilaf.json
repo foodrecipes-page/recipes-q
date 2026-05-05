@@ -1,0 +1,84 @@
+{
+  "title": "Quick Lazy-Sunday Sweet-Rice-Chapssalgaru Pilaf",
+  "description": "A fluffy and sweet twist on Turkish pilaf featuring chapssalgaru flour mixed with a blend of spices to create an anti-inflammatory dish.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet-rice",
+      "amount": 150
+    },
+    {
+      "name": "chapssalgaru flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "5-7"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 100
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add coriander seeds and cumin powder, sauté for about 30 seconds until fragrant.",
+    "Stir in ginger powder, turmeric powder, and garam masala. Cook for another minute to toast.",
+    "Gradually add sweet-rice and chapssalgaru flour, stirring continuously to prevent sticking.",
+    "Pour in enough water to just cover the ingredients, reduce heat to low, and simmer until liquid is absorbed (about 10 minutes).",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "lazy-sunday",
+    "pilaf-style",
+    "turkish-flavor"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T16:15:19Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sweet-rice-flour-chapssalgaru",
+    "descriptor": "Lazy-Sunday",
+    "dishForm": "Pilaf"
+  }
+}
