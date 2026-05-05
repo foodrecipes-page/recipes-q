@@ -1,0 +1,83 @@
+{
+  "title": "Quickly Roasted Carrot Quintessential Quesadilla",
+  "description": "A tangy and flaky crowd-pleaser Canadian dish featuring red food coloring and a shojin-friendly glaze, perfect for snack time.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Shoyu sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red food coloring",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Qwen's Gluten-Free Quesadilla Wrap (or any suitable tortilla)",
+      "amount": "1"
+    },
+    {
+      "name": "Cooked shredded carrots",
+      "amount": "300g"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Dicey peppers, thinly sliced (optional)",
+      "amount": "2 spears"
+    },
+    {
+      "name": "Qwen's Gluten-Free Tortilla Filling Mix (or any suitable filling mix)",
+      "amount": "1 packet"
+    }
+  ],
+  "instructions": [
+    "Combine shoyu sauce and red food coloring in a small bowl. Stir until fully dissolved.",
+    "Preheat a non-stick skillet over medium heat. Add vegetable oil and swirl to coat bottom evenly.",
+    "Distribute carrots, onions, and peppers on one half of the tortilla wrap. Pour glaze mixture over vegetables.",
+    "Fold tortilla wrap in half and place into the heated skillet for 2 minutes or until golden brown and crispy.",
+    "Carefully remove from heat and let cool slightly before serving to prevent burning fingers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "colorful-dessert",
+    "gluten-free",
+    "quintessential-canadian",
+    "tangy-glaze"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "quickly-roasted-carrot-quintessential-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-roasted-carrot-quintessential-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:45:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "glaze",
+    "primaryIngredient": "red food colouring",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Quintessential",
+    "mainIngredient": "Carrots",
+    "descriptor": "Quickly Roasted",
+    "dishForm": "Quesadilla"
+  }
+}
