@@ -1,0 +1,87 @@
+{
+  "title": "QCrunchy Korean Eggplant Grill",
+  "description": "A nutty, creamy brunch-mood dish featuring grilled eggplants with a green-curry paste base, high in protein and ready to be served on a binchotan grill.",
+  "cuisine": "Korean (Gangwon)",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": 2
+    },
+    {
+      "name": "green curry paste",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat binchotan grill to high heat.",
+    "Slice eggplant into rounds about 1/4 inch thick.",
+    "Mix green curry paste with soy sauce, sesame oil, rice vinegar, ginger, and garlic in a bowl. Season with salt and pepper to taste.",
+    "Brush both sides of each slice with the mixed sauce evenly.",
+    "Grill slices until golden brown and slightly charred on both sides, about 2-3 minutes per side.",
+    "Sprinkle sesame seeds over grilled eggplant for additional texture and flavor.",
+    "Serve hot as a high-protein-friendly brunch dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banchotan-grill",
+    "creamy",
+    "grilled-eggplant",
+    "high-protein",
+    "korean-gangwon",
+    "nutty"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "qcrunchy-korean-eggplant-grill",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qcrunchy-korean-eggplant-grill",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:04:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "high-protein",
+    "region": "gangwon",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Eggplant",
+    "descriptor": "QCrunchy",
+    "dishForm": "Grill"
+  }
+}

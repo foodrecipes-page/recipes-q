@@ -1,5 +1,20 @@
 [
   {
+    "slug": "qcrunchy-korean-eggplant-grill",
+    "title": "QCrunchy Korean Eggplant Grill",
+    "tags": [
+      "banchotan-grill",
+      "creamy",
+      "grilled-eggplant",
+      "high-protein",
+      "korean-gangwon",
+      "nutty"
+    ],
+    "cuisine": "Korean (Gangwon)",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "qmiso-marinated-duck-fat-wrap",
     "title": "QMiso Marinated Duck Fat Wrap",
     "tags": [
