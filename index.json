@@ -866,6 +866,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-indian-chicken-curry",
+    "title": "Quenched Indian Chicken Curry",
+    "tags": [
+      "diabetic-friendly",
+      "homestyle",
+      "indian",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-indian-christmas-pudding-vindaloo",
     "title": "Quenched Indian Christmas Pudding Vindaloo",
     "tags": [

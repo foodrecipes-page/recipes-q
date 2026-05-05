@@ -1,0 +1,126 @@
+{
+  "title": "Quenched Indian Chicken Curry",
+  "description": "A charred, comforting Indian-inspired dish featuring breadcrumbs and a diabetic-friendly twist. The combination of spices and tender chicken will leave you wanting more.",
+  "cuisine": "Indian",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together chicken, flour, ginger, garlic, onion, red pepper flakes, cumin, garam masala, salt, and black pepper.",
+    "Coat a baking sheet with cooking spray and arrange the chicken mixture in a single layer.",
+    "Bake for 20-25 minutes or until the chicken is cooked through and lightly charred.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the breadcrumbs and cook, stirring frequently, for 2-3 minutes or until lightly toasted.",
+    "Add the chicken broth and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes or until slightly thickened.",
+    "Stir in the remaining 1 tablespoon of butter until melted.",
+    "Serve the chicken mixture over the breadcrumb mixture and garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "homestyle",
+    "indian",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quenched-indian-chicken-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-indian-chicken-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "knead",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "quenched",
+    "dishForm": "Curry"
+  }
+}
