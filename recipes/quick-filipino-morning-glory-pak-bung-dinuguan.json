@@ -1,0 +1,103 @@
+{
+  "title": "Quick Filipino Morning-Glory-Pak-Bung Dinuguan",
+  "description": "A sweet and springy twist on traditional Filipino dinuguan made with morning-glory-pak-bung and sous-vide for a quick and low-fat-friendly breakfast fix.",
+  "cuisine": "Filipino",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Morning Glory-Pak Bung",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Pork Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Patis (Fish Sauce)",
+      "amount": "to taste",
+      "notes": "Filipino fish sauce for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of pork broth to a boil, then reduce heat to a simmer.",
+    "Add the sliced morning glory-pak bung and cook for 2 minutes, or until slightly tender.",
+    "In a blender or food processor, puree the cooked morning glory-pak bung and broth mixture until smooth.",
+    "Return the mixture to the pot and add the fish sauce, brown sugar, minced garlic, grated ginger, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the mixture has thickened to your liking.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the dinuguan hot, garnished with chopped green onions and toasted garlic if desired.",
+    "For an extra rich and velvety texture, transfer the dinuguan to a sous-vide machine and cook at 160°F (71°C) for 30 minutes, or until heated through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinuguan",
+    "filipino",
+    "low-fat",
+    "morning-glory",
+    "pak-bung",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-filipino-morning-glory-pak-bung-dinuguan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-filipino-morning-glory-pak-bung-dinuguan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "sous-vide",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "morning-glory-pak-bung",
+    "descriptor": "Quick",
+    "dishForm": "Dinuguan"
+  }
+}
