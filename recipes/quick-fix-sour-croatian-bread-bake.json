@@ -1,0 +1,120 @@
+{
+  "title": "Quick Fix Sour Croatian Bread Bake",
+  "description": "A dash-friendly, quick-fix sour bread bake recipe with a chilli kick. Perfect for a weeknight snack or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1g",
+      "notes": " Rapid Rise Yeast or similar active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "125g",
+      "notes": "warm water, around 30\u00160C/86\u00160F"
+    },
+    {
+      "name": "sugar",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "0.5g",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "0.25g",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "0.5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix all the dry ingredients in a large bowl.",
+    "Add the water, sugar, and olive oil to the dry ingredients, and mix until a sticky dough forms.",
+    "Knead the dough for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 20-30 minutes, or until doubled in size.",
+    "Preheat the oven to 220\u00160C/425\u00160F.",
+    "Punch down the dough and shape it into a round loaf.",
+    "Place the loaf on a baking sheet lined with parchment paper, and sprinkle with salt and chili flakes.",
+    "Bake the bread for 25-30 minutes, or until it's golden brown and sounds hollow when tapped on the bottom.",
+    "Remove the bread from the oven and let it cool on a wire rack for at least 10-15 minutes before slicing.",
+    "Slice the bread and serve warm, garnished with coriander seeds and black pepper, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "one-pan",
+    "quick-fix",
+    "snack",
+    "sourdough",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "quick-fix-sour-croatian-bread-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-sour-croatian-bread-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "chilli",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "bread",
+    "descriptor": "quick-fix sour",
+    "dishForm": "Bake"
+  }
+}

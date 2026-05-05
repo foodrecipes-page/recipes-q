@@ -1,0 +1,127 @@
+{
+  "title": "Quenched Midnight Craving Saudi-Arabian Porridge Oats Porridge",
+  "description": "A tangy, pillowy Saudi-Arabian dish perfect for midnight cravings, featuring porridge oats and fermented kimchi.",
+  "cuisine": "Saudi",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "500ml"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "100g"
+    },
+    {
+      "name": "honey",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "rosewater",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2tsp"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "nutmeg powder",
+      "amount": "1/4tsp"
+    },
+    {
+      "name": "ghee",
+      "amount": "20g"
+    },
+    {
+      "name": "pistachio",
+      "amount": "20g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "5g"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "10"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10g"
+    },
+    {
+      "name": "ginger",
+      "amount": "20g"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/8tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2tsp"
+    }
+  ],
+  "instructions": [
+    "Heat water in a saucepan over medium heat.",
+    "Add porridge oats and cook for 3 minutes.",
+    "Add ferment-kimchi, honey, rosewater, lemon juice, salt, cinnamon powder, nutmeg powder, and cumin powder. Stir for 2 minutes.",
+    "Add ghee, pistachio, sesame seeds, saffron threads, olive oil, ginger, and cayenne pepper. Stir for 2 minutes.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Transfer the porridge to a hot stone plate.",
+    "Serve warm and garnish with additional saffron threads and pistachios if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-kimchi",
+    "high-protein",
+    "lacto-vegetarian",
+    "midnight-craving",
+    "oats",
+    "porridge",
+    "saudi-arabian",
+    "served-in-hot-stone-plate"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quenched-midnight-craving-saudi-arabian-porridge-oats-porridge",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-midnight-craving-saudi-arabian-porridge-oats-porridge",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "porridge oats",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Porridge Oats",
+    "descriptor": "Quenched Midnight Craving",
+    "dishForm": "Porridge"
+  }
+}

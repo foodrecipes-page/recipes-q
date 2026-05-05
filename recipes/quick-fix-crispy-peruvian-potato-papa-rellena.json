@@ -1,0 +1,125 @@
+{
+  "title": "Quick-Fix Crispy Peruvian Potato Papa Rellena",
+  "description": "A smoky, crunchy, and quick-fix Peruvian dish featuring tamarind paste and coconut cream. Perfect for a weeknight meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian or Middle Eastern markets."
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "chilled in the refrigerator."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "for garnish."
+    },
+    {
+      "name": "Makham",
+      "amount": "4-6",
+      "notes": "peeled and chopped dried chilies."
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, about 10 minutes.",
+    "Drain the potatoes and mash them in a bowl.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and garlic to the skillet and saut\u00115 until the onion is translucent, about 3 minutes.",
+    "Add the cumin, paprika, salt, and pepper to the skillet and stir for 1 minute.",
+    "Stir in the tamarind paste, coconut cream, and mashed potatoes.",
+    "Heat the mixture over low heat, stirring constantly, until the potatoes have absorbed most of the liquid and the mixture is thick and creamy, about 5 minutes.",
+    "Transfer the mixture to a shallow dish and let it cool to room temperature.",
+    "Using your hands, shape the cooled mixture into 8-10 small oval shapes.",
+    "Dip each potato shape into the beaten egg and then roll it in the makham and chopped cilantro to coat.",
+    "Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "Fry the coated potatoes until crispy and golden brown, about 3-4 minutes on each side.",
+    "Drain the potatoes on paper towels and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-cream-crack",
+    "crispy",
+    "easy-to-make",
+    "lacto-vegetarian",
+    "one-pan",
+    "peruvian",
+    "tamarind-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quick-fix-crispy-peruvian-potato-papa-rellena",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-crispy-peruvian-potato-papa-rellena",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Potato",
+    "descriptor": "Quick-Fix Crispy",
+    "dishForm": "Papa Rellena"
+  }
+}

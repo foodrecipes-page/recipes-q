@@ -1,0 +1,100 @@
+{
+  "title": "quenched post-workout german oysters grill",
+  "description": "grassy, velvety, post-workout german dish featuring oysters, a grill, and a hint of Asian-inspired freshness. Great for a quick dinner after a tough workout at the local buddhist temple.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "light or regular"
+    },
+    {
+      "name": "brown sugar",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of vegetable oil in a grill pan over medium-high heat.",
+    "add 2 cloves of garlic, minced, and cook for 1 minute until fragrant.",
+    "add 2 inches of sliced ginger and cook for another minute.",
+    "add the oysters, closed side down, and cook for 2-3 minutes until they start to open.",
+    "add 1 tablespoon of lemon juice, 1 tablespoon of honey, 1 tablespoon of soy sauce, and 1 tablespoon of brown sugar to the pan.",
+    " toss the oysters to coat evenly with the sauce and cook for another 2-3 minutes until the sauce has thickened and the oysters are cooked through.",
+    "season with black pepper to taste.",
+    "serve immediately, garnished with a sprinkle of lemon zest if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "30-min-meal",
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quenched-post-workout-german-oysters-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-post-workout-german-oysters-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "grill",
+    "primaryIngredient": "oysters",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "oysters",
+    "descriptor": "quenched post-workout",
+    "dishForm": "Grill"
+  }
+}

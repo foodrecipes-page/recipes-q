@@ -1,0 +1,82 @@
+{
+  "title": "Quick Jammy Filipino Ciabatta Toast",
+  "description": "A delicious and quick-fix twist on traditional Filipino dishes, combining the crunch of ciabatta with the gooey jammy sweetness of an egg and cheese. Made with easily sourced ingredients, this recipe is perfect for a busy weeknight dinner or breakfast.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "gluten-free",
+    "raw-friendliness-avoided",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ciabatta",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "large, free-range or pasture-raised, medium-cooked, jammy"
+    }
+  ],
+  "name": "unsalted butter",
+  "amount": "2 tbsp",
+  "notes": "melted",
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the ciabatta slices on a baking sheet lined with parchment paper.",
+    "In a small bowl, whisk together the unsalted butter, kombu-cold-extract, and coconut milk until well combined.",
+    "Brush the mixture evenly onto both ciabatta slices.",
+    "Place the baking sheet in the oven and bake for 5 minutes or until the ciabatta is lightly toasted.",
+    "Remove the ciabatta from the oven and let it cool for a minute or two.",
+    "While the ciabatta is cooling, melt the cheese shreds in a small saucepan over low heat, stirring occasionally.",
+    "Once the cheese is melted, remove it from the heat and stir in the unsalted butter, salt, and black pepper until well combined.",
+    "Spoon the melted cheese mixture onto one of the toasted ciabatta slices.",
+    "Top with an egg, jammy style, then add the chopped fresh parsley for garnish.",
+    "Optional: add a sprinkle of toasted coconut flakes, sesame seeds, or cinnamon for extra flavor and texture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "coconut-based",
+    "dairy-free",
+    "filipino",
+    "jammy",
+    "low-carb",
+    "low-fat",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-jammy-filipino-ciabatta-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jammy-filipino-ciabatta-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:28:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ciabatta",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ciabatta",
+    "descriptor": "Quick Jammy",
+    "dishForm": "Toast"
+  }
+}

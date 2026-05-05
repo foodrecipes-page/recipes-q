@@ -1,0 +1,139 @@
+{
+  "title": "Quick-fix Tangy Kenyan Vegetable Wrap",
+  "description": "A tasty and refreshing Kenyan-inspired wrap filled with tangy raw vegetables, perfect for a quick and easy meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ssam wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Beetroot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemons",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Habanero pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise (keto-friendly)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sambal Oelek",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the ssam wrap into a 12-inch square sheet.",
+    "In a large bowl, combine the sliced cucumber, carrots, cabbage, beetroot, onion, and cilantro.",
+    "Juice 1 lemon and mix the juice with some salt, black pepper, and a pinch of habanero pepper.",
+    "Add this dressing to the bowl and toss to coat the vegetables.",
+    "Heat the mayonnaise, Sambal Oelek, and apple cider vinegar in a small saucepan over low heat until warm and well combined.",
+    "Spread the warm sauce on the center of the ssam wrap, leaving a 1-inch border around the edges.",
+    "Place the vegetable mixture on top of the sauce, leaving a small border around the edges.",
+    "Fold the bottom edge of the wrap over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "Slice the wrap in half and serve immediately.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kenyan",
+    "keto",
+    "one-pan",
+    "quick-fix",
+    "tangy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "quick-fix-tangy-kenyan-vegetables-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-tangy-kenyan-vegetables-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "raw vegetables",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "vegetables",
+    "descriptor": "quick-fix tangy",
+    "dishForm": "Wrap"
+  }
+}
