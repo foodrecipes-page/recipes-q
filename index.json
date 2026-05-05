@@ -970,6 +970,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-jamaican-mayonnaise-salsa-comal",
+    "title": "Quenched Jamaican Mayonnaise Salsa Comal",
+    "tags": [
+      "dinner",
+      "easy-to-make",
+      "jamaican",
+      "one-pan",
+      "whole30"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-jamaican-pork-stew",
     "title": "Quenched Jamaican Pork Stew",
     "tags": [
@@ -3424,6 +3438,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-quenched-greek-yogurt-horiatiki-salad",
+    "title": "Quick Quenched Greek Yogurt Horiatiki Salad",
+    "tags": [
+      "cucumber-tomato-salad",
+      "greek-cuisine",
+      "healthy-snack",
+      "low-fat",
+      "post-workout-snack"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {

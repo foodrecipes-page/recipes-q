@@ -1,0 +1,64 @@
+{
+  "title": "Quenched Jamaican Mayonnaise Salsa Comal",
+  "description": "A resinous, light, indulgent Jamaican dish featuring mayonnaise and pickle. Perfect for a Whole30-friendly dinner option.",
+  "cuisine": "jamaican",
+  "diet": [
+    null,
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 c",
+      "notes": "Duke's brand"
+    }
+  ],
+  "instructions": [
+    "Preheat your comal to 400°F (200°C).",
+    "In a small bowl, whisk together the lime juice, scotch bonnet pepper, salt, black pepper, and cayenne pepper.",
+    "Add the mayonnaise and whisk until smooth. Add the pickle relish and whisk until combined. Stir in the ground cinnamon.",
+    "Heat the coconut oil in a small saucepan over medium heat.",
+    "Add the red onion and cook until translucent, about 4 minutes.",
+    "Add the fresh cilantro and cook for 1 minute, stirring constantly.",
+    "Stir in the mayonnaise mixture and cook for an additional 2 minutes, until heated through.",
+    "Transfer the mixture to a serving bowl and garnish with additional cilantro if desired.",
+    "Serve warm over your favorite Jamaican dish or as a dip for your favorite vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "easy-to-make",
+    "jamaican",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 39
+  },
+  "slug": "quenched-jamaican-mayonnaise-salsa-comal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-jamaican-mayonnaise-salsa-comal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "mayonnaise",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "mayonnaise",
+    "descriptor": "Quenched Indulgent",
+    "dishForm": "Salsa"
+  }
+}

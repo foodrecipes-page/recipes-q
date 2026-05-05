@@ -1,0 +1,117 @@
+{
+  "title": "Quick Quenched Greek Yogurt Horiatiki Salad",
+  "description": "A sweet, fluffy Greek salad featuring canola oil, glaze, and low-fat yogurt, ideal for post-workout snacking.",
+  "cuisine": "Greek",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low-fat Greek yogurt",
+      "amount": "1 cup",
+      "notes": "Chilled in the refrigerator"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Canola oil",
+      "amount": "1 tablespoon",
+      "notes": "For glazing"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Horiatiki seasoning",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together canola oil, honey, paprika, salt, and black pepper to make the glaze.",
+    "Place the chopped cucumber, tomato, red onion, feta cheese, and fresh parsley in a bowl.",
+    "Add the horiatiki seasoning and stir to combine.",
+    "Drizzle the glaze over the salad and toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 10 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the chilled low-fat Greek yogurt.",
+    "Serve chilled, garnished with additional fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cucumber-tomato-salad",
+    "greek-cuisine",
+    "healthy-snack",
+    "low-fat",
+    "post-workout-snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "quick-quenched-greek-yogurt-horiatiki-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-greek-yogurt-horiatiki-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:51:43Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "canola oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "yogurt",
+    "descriptor": "Quick Quenched",
+    "dishForm": "Horiatiki Salad"
+  }
+}
