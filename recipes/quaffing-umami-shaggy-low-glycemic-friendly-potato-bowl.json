@@ -1,0 +1,66 @@
+{
+  "title": "Quaffing Umami Shaggy Low-Glycemic-Friendly Potato Bowl",
+  "description": "A nutritious and energizing low-glycemic-friendly Norwegian dish featuring flavorful French fries steamed in a bamboo vessel, ideal as a breakfast or snack option.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French Potatoes",
+      "amount": 4
+    },
+    {
+      "name": "Sea Salt",
+      "amount": 1
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": 2
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to 180°C.",
+    "Wash and peel the French Potatoes, then cut them into thin slices.",
+    "Sprinkle sea salt over the potato slices evenly.",
+    "Drizzle olive oil on top of the salted potato slices.",
+    "Place the steamed potatoes in a clean bamboo vessel.",
+    "Serve immediately as a low-glycemic-friendly snack or meal accompaniment."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamed",
+    "low-glycemic-friendly",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:59:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "fries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Potato",
+    "descriptor": "Quaffing",
+    "dishForm": "Bowl"
+  }
+}
