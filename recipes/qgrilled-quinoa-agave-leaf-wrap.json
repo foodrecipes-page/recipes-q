@@ -1,0 +1,75 @@
+{
+  "title": "QGrilled Quinoa Agave-Leaf Wrap",
+  "description": "A savory, tender dish featuring flour, char-grill-yang, and agave leaves as a festive paleo-friendly vessel for this Portuguese-inspired meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": 150
+    },
+    {
+      "name": "Flour",
+      "amount": 200
+    },
+    {
+      "name": "Agave Leaves",
+      "amount": 4
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Soak agave leaves in water for at least an hour.",
+    "Cook quinoa according to package instructions.",
+    "Mix flour with vegetable oil until evenly blended. Season as desired.",
+    "Grease the insides of the agave leaves lightly with a little bit of the flour mixture.",
+    "Place a scoop of cooked quinoa and a spoonful of your preferred vegetable filling inside each leaf.",
+    "Roll the leaves tightly to enclose the ingredients, ensuring they are well-sealed.",
+    "Heat a pan over medium heat and gently place the rolls in it. Cover loosely with foil and cook for 10 minutes.",
+    "Remove from heat, allow to cool slightly before slicing open and serving warm."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave-leaf-wrap",
+    "char-grill-yang",
+    "flour",
+    "paleo-friendly",
+    "savory-portuguese",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 35,
+    "carbs": 65,
+    "fat": 24
+  },
+  "slug": "qgrilled-quinoa-agave-leaf-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qgrilled-quinoa-agave-leaf-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T15:18:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Savory",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Wrap"
+  }
+}
