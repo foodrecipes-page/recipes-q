@@ -892,6 +892,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-gourmet-polish-bacon-gratin",
+    "title": "Quenched Gourmet Polish Bacon Gratin",
+    "tags": [
+      "bacon",
+      "breakfast",
+      "eggs",
+      "polish",
+      "raclette-grill",
+      "whole30-friendly"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-greek-giant-beans-gigantes-plaki",
     "title": "Quenched Greek Giant Beans Gigantes Plaki",
     "tags": [
@@ -5003,6 +5018,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-cooked-korean-cherry-tomatoes-jjigae",
+    "title": "Quickly Cooked Korean Cherry Tomatoes Jjigae",
+    "tags": [
+      "cherry-tomatoes",
+      "deopbap",
+      "korean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

@@ -1,0 +1,91 @@
+{
+  "title": "Quickly Cooked Korean Cherry Tomatoes Jjigae",
+  "description": "A simple, crunchy, and savory Korean weeknight dish featuring cherry tomatoes. Inspired by traditional Seoul cuisine, this deopbap-style meal is perfect for a quick dinner.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gochugaru",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add garlic and saut\u00055 until fragrant.",
+    "Add cherry tomatoes and cook until they start to release their juices.",
+    "Add gochujang and gochugaru, and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cherry-tomatoes",
+    "deopbap",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "quickly-cooked-korean-cherry-tomatoes-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-cooked-korean-cherry-tomatoes-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "nut-free",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "Quickly Cooked",
+    "dishForm": "Jjigae"
+  }
+}

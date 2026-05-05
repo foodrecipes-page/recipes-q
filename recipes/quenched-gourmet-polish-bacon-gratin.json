@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Gourmet Polish Bacon Gratin",
+  "description": "Savory Polish dish featuring bacon, bonito, and a glassy-jelly crust. Hangover-cure included, but not guaranteed.",
+  "cuisine": "Polish",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bacon, lardons",
+      "amount": "12 slices",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Polish rye bread, dense",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Eggs, large",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt, flaky",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper, whole",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 400°F (200°C).",
+    "Meanwhile, toast the dense Polish rye bread slices for 2-3 minutes on the grill, or until lightly browned and fragrant.",
+    "In a small skillet, cook the bacon lardons over medium heat until crispy and golden brown, about 8-10 minutes. Let cool completely on paper towels.",
+    "In a medium bowl, whisk together the eggs and heavy cream until well combined.",
+    "Butter the toasted bread slices, then spoon the egg mixture over each slice, leaving a 1-inch border around the edges.",
+    "Sprinkle the cooked bacon lardons, bonito flakes, salt, and black pepper over the egg mixture, dividing evenly among the bread slices.",
+    "Place the bread slices on the preheated raclette grill and cook for 3-4 minutes, or until the egg mixture is set and the bread is golden brown.",
+    "Use a spatula to carefully loosen the bread slices from the grill and transfer to a serving plate.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve immediately, and enjoy your hangover-cure Polish gratin!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bacon",
+    "breakfast",
+    "eggs",
+    "polish",
+    "raclette-grill",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 42
+  },
+  "slug": "quenched-gourmet-polish-bacon-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-gourmet-polish-bacon-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "bacon lardon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Quenched Gourmet",
+    "dishForm": "Gratin"
+  }
+}
