@@ -1,0 +1,69 @@
+{
+  "title": "QGrilled Zesty Robata Shrimp-Kapi Wrap",
+  "description": "A bitter, molten Kenyan dish featuring shrimp-paste-kapi on a keto-friendly grilling wrap.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp paste",
+      "amount": "100g"
+    },
+    {
+      "name": "kapi sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "robata charcoal",
+      "amount": "2 packs"
+    },
+    {
+      "name": "wrap bread",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata charcoal grill to medium-high heat.",
+    "Mix shrimp paste with kapi sauce in a bowl until well combined.",
+    "Place the wrapped bread on the preheated grill and top with the shrimp mixture.",
+    "Cook for 2 minutes per side or until golden brown and crispy.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 4,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bitter-dish",
+    "grilled-wrap",
+    "keto-friendly",
+    "light-kenyan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 38,
+    "carbs": 17,
+    "fat": 29
+  },
+  "slug": "qgrilled-zesty-robata-shrimp-kapi-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qgrilled-zesty-robata-shrimp-kapi-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:25:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "robata-grill",
+    "primaryIngredient": "shrimp-paste-kapi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Shrimp Paste Kapi",
+    "descriptor": "Robata Grilled",
+    "dishForm": "Wrap"
+  }
+}
