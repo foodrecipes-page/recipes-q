@@ -1,0 +1,87 @@
+{
+  "title": "Quickly Roasted Quicksilver Quinoa Pilaf",
+  "description": "A light and quick Ukrainian dish featuring broad beans in a smoky quinoa pilaf, perfect for a date-night meal that's both healthy and flavorful.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": 100
+    },
+    {
+      "name": "broad beans",
+      "amount": "250g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Rinse quinoa and cook according to package instructions, setting aside cooked quinoa after it has cooled slightly.",
+    "In a large skillet or wok, heat olive oil over medium-high heat. Add garlic cloves, sauté for about 30 seconds until fragrant.",
+    "Add broad beans, smoked paprika, salt, and pepper to the skillet. Stir well.",
+    "Fold in cooked quinoa, mix everything together thoroughly.",
+    "Transfer mixture into a baking dish, smoothing out any lumps with your hands or spatula.",
+    "Bake for 15 minutes until golden brown on top.",
+    "Remove from oven, sprinkle fresh parsley over the top of pilaf before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "light",
+    "quick-cook",
+    "smoky",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 13,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "quickly-roasted-quicksilver-quinoa-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-roasted-quicksilver-quinoa-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T06:40:49Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "broad beans",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Quicksilver",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Quickly Roasted",
+    "dishForm": "Pilaf"
+  }
+}
