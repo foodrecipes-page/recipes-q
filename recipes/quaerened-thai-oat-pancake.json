@@ -1,0 +1,86 @@
+{
+  "title": "Quaerened Thai Oat Pancake",
+  "description": "A mediterranean-friendly brunch dish featuring rolled oats with umami notes and an aerated texture for a uniquely Thai northern style.",
+  "cuisine": "Thai (Northern)",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": 150
+    },
+    {
+      "name": "chia seeds",
+      "amount": 30
+    },
+    {
+      "name": "coconut milk",
+      "amount": 200
+    },
+    {
+      "name": "mushroom powder",
+      "amount": 10
+    },
+    {
+      "name": "vanilla extract",
+      "amount": 5
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    },
+    {
+      "name": "turmeric",
+      "amount": 3
+    },
+    {
+      "name": "peanut butter",
+      "amount": 25
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix rolled oats, chia seeds, coconut milk, mushroom powder, vanilla extract, salt, and turmeric.",
+    "Stir in peanut butter until well combined.",
+    "Heat non-stick pan over medium heat.",
+    "Pour batter onto hot pan, using about 1/4 cup per pancake for a thin layer.",
+    "Cook until edges start to dry out but the bottom is golden brown. Flip and cook other side.",
+    "Serve warm with additional peanut butter or honey as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "mediterranean-friendly",
+    "northern-thai",
+    "quick-breakfast",
+    "rolled-oat-pancake",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 46,
+    "fat": 20
+  },
+  "slug": "quaerened-thai-oat-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quaerened-thai-oat-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T20:23:49Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "rolled oats",
+    "diet": "mediterranean",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rolled oats",
+    "descriptor": "Aerated",
+    "dishForm": "Pancake"
+  }
+}
