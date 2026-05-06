@@ -1,0 +1,105 @@
+{
+  "title": "Quick-fix Iced Tunisian Peanut Butter Questa",
+  "description": "This is a fast and refreshing take on traditional Tunisian cuisine, featuring a creamy peanut butter sauce and a crunchy texture from the peanuts. It's perfect for a hot summer day.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ice cubes",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "short-grain brown rice",
+      "amount": "1 1/4 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together peanut butter, honey, and kosher salt until smooth.",
+    "In a separate bowl, whisk together Greek yogurt and lime juice until combined.",
+    "Add the peanut butter mixture to the yogurt mixture and stir until smooth.",
+    "Fold in chopped peanuts and short-grain brown rice.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 10 minutes.",
+    "Once chilled, fill 4 glasses with crushed ice and spoon the peanut butter mixture on top.",
+    "Garnish with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "ice-bath-shock",
+    "peanut-butter",
+    "shojin-friendly",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quick-fix-iced-tunisian-peanut-butter-questa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-iced-tunisian-peanut-butter-questa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:04:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "peanut butter",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "peanut butter",
+    "descriptor": "Quick-fix Iced",
+    "dishForm": "Questa"
+  }
+}
