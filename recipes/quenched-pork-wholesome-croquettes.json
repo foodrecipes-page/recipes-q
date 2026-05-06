@@ -1,0 +1,87 @@
+{
+  "title": "Quenched Pork Wholesome Croquettes",
+  "description": "This malty, dense Quenched Pork Wholesome Croquette recipe is a perfect solo-dinner dish from Croatia. Whole30-friendly and packed with shredded meat, this croquette will be the star of your dinner table.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": 500
+    },
+    {
+      "name": "potato starch",
+      "amount": 200
+    },
+    {
+      "name": "garlic powder",
+      "amount": 10
+    },
+    {
+      "name": "ginger paste",
+      "amount": 10
+    },
+    {
+      "name": "paprika",
+      "amount": 5
+    },
+    {
+      "name": "sesame oil",
+      "amount": 30
+    },
+    {
+      "name": "salt",
+      "amount": 2
+    },
+    {
+      "name": "pepper",
+      "amount": 1
+    }
+  ],
+  "instructions": [
+    "Combine pork shoulder, potato starch, garlic powder, ginger paste, paprika, sesame oil, salt, and pepper in a bowl.",
+    "Shape the mixture into croquettes of your desired size.",
+    "Heat a pan on medium-high heat. Add enough sesame oil to cover the bottom of the pan.",
+    "Place each croquette in the pan and fry until golden brown on all sides, about 3 minutes per side.",
+    "Transfer the croquettes to a serving dish and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "croquettes",
+    "dense",
+    "malty",
+    "pork",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 512,
+    "protein": 49,
+    "carbs": 8,
+    "fat": 27
+  },
+  "slug": "quenched-pork-wholesome-croquettes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-pork-wholesome-croquettes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:56:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "shredded meat",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Quenched",
+    "mainIngredient": "Pork",
+    "descriptor": "Wholesome",
+    "dishForm": "Croquettes"
+  }
+}

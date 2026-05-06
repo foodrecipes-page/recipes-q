@@ -1519,6 +1519,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-pork-wholesome-croquettes",
+    "title": "Quenched Pork Wholesome Croquettes",
+    "tags": [
+      "croatian",
+      "croquettes",
+      "dense",
+      "malty",
+      "pork",
+      "whole30"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-portuguese-tofu-stir-fry",
     "title": "Quenched Portuguese Tofu Stir-fry",
     "tags": [
