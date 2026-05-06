@@ -4233,6 +4233,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-quenched-glassy-jelly-wholesome-quesadilla",
+    "title": "Quick Quenched Glassy-Jelly Wholesome Quesadilla",
+    "tags": [
+      "adventurous-canadian-dish",
+      "glassy-jelly",
+      "halal-friendly",
+      "quick-cook"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 7,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-greek-yogurt-horiatiki-salad",
     "title": "Quick Quenched Greek Yogurt Horiatiki Salad",
     "tags": [

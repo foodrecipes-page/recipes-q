@@ -1,0 +1,72 @@
+{
+  "title": "Quick Quenched Glassy-Jelly Wholesome Quesadilla",
+  "description": "A fresh, glassy-jelly Canadian dish featuring shredded Mexican cheese, render-fat, and halal-friendly. Adventurous in flavor and texture.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded mexican cheese",
+      "amount": 200
+    },
+    {
+      "name": "render-fat",
+      "amount": 150
+    },
+    {
+      "name": "water",
+      "amount": 100
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": 10
+    },
+    {
+      "name": "salt",
+      "amount": 5
+    }
+  ],
+  "instructions": [
+    "Heat render-fat in a non-stick pan.",
+    "Add shredded cheese and water, stirring until combined.",
+    "Sprinkle flaxseed meal over the mixture evenly.",
+    "Season with salt to taste.",
+    "Cook for 2 minutes on each side or until golden brown.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 3,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous-canadian-dish",
+    "glassy-jelly",
+    "halal-friendly",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "quick-quenched-glassy-jelly-wholesome-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-glassy-jelly-wholesome-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T05:46:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Quenched",
+    "mainIngredient": "Quiche",
+    "descriptor": "Wholesome",
+    "dishForm": "Quesadilla"
+  }
+}
