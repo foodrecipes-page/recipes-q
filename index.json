@@ -2815,6 +2815,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-american-naan-bread-wrap",
+    "title": "quick-fix american naan bread wrap",
+    "tags": [
+      "american",
+      "flexitarian",
+      "grilled",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-brazilian-chorizo-wrap",
     "title": "Quick-Fix Brazilian Chorizo Wrap",
     "tags": [
@@ -3701,6 +3716,24 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-argentinian-lamb-asado",
+    "title": "Quick Grilled Argentinian Lamb Asado",
+    "tags": [
+      "asado",
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "grilled",
+      "halal",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {

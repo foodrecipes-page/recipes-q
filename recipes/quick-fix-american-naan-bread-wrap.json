@@ -1,0 +1,119 @@
+{
+  "title": "quick-fix american naan bread wrap",
+  "description": "A fun twist on the classic wrap, featuring marinated chicken, melted cheese, and crispy veggies in a toasted naan bread. This flexitarian-friendly dish is perfect for a quick weeknight meal.",
+  "cuisine": "american",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "naan bread",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "marinade (see below)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together the marinade ingredients.",
+    "Add the chicken to the marinade and toss to coat.",
+    "Let the chicken marinate for at least 10 minutes, or up to 30 minutes in the refrigerator.",
+    " Grill the naan bread for 1-2 minutes, or until crispy and lightly charred.",
+    "Spread a tablespoon of olive oil on each piece of naan bread.",
+    "Add a piece of chicken to each piece of naan bread, followed by a sprinkle of shredded cheese, sliced red onion, sliced bell peppers, and chopped cilantro.",
+    "Fold the naan bread in half to enclose the filling.",
+    "Grill the wrap for an additional 1-2 minutes, or until the cheese is melted and the bread is crispy.",
+    "Serve hot, with hot sauce on the side if desired.",
+    "If desired, top with additional cheese, sour cream, or other toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "flexitarian",
+    "grilled",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "quick-fix-american-naan-bread-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-american-naan-bread-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "marinate",
+    "primaryIngredient": "naan bread",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "naan bread",
+    "descriptor": "quick-fix",
+    "dishForm": "Wrap"
+  }
+}

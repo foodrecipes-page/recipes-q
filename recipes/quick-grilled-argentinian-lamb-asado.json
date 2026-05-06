@@ -1,0 +1,107 @@
+{
+  "title": "Quick Grilled Argentinian Lamb Asado",
+  "description": "A salty and juicy brunch-mood dish featuring Italian seasoning, perfect for a halal-friendly meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 200°C (400°F).",
+    "Prepare the lamb shoulder by trimming any excess fat and seasoning it with Italian seasoning, garlic, salt, and black pepper.",
+    "Drizzle the lamb with olive oil and place it on the grill.",
+    "Cook for 20 minutes on each side or until the lamb reaches an internal temperature of 63°C (145°F).",
+    "Meanwhile, place the red onion wedges on the grill for the last 5 minutes of cooking.",
+    "Remove the lamb and let it rest for 5 minutes before slicing.",
+    "Serve with the grilled red onion and a sprinkle of fresh rosemary.",
+    "Blanch fresh rosemary leaves in boiling water for 10 seconds to preserve their flavor and color."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asado",
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "grilled",
+    "halal",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 8,
+    "fat": 32
+  },
+  "slug": "quick-grilled-argentinian-lamb-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-argentinian-lamb-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:50Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "blanch",
+    "primaryIngredient": "italian seasoning",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick grilled",
+    "dishForm": "asado"
+  }
+}
