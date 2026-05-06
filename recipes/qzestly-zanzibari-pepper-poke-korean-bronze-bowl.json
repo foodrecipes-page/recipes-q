@@ -1,0 +1,88 @@
+{
+  "title": "Qzestly Zanzibari Pepper Poke Korean-Bronze-Bowl",
+  "description": "A sweet, silky Algerian dish featuring tamarind pulp and pickle in a halal-friendly Korean-brass-bowl. A crowd-pleaser that is perfect for any meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "sweet",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": 100
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "8"
+    },
+    {
+      "name": "cilantro leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": 5
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix tamarind pulp with sesame oil and salt.",
+    "Add cherry tomatoes and cilantro leaves to the mixture.",
+    "Squeeze in lime juice over the tomato-cilantro-tamarind base.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Drizzle ginger into the bowl for extra flavor.",
+    "Stir gently to combine all flavors thoroughly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crowd-pleaser",
+    "halal-friendly",
+    "punchy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 9,
+    "carbs": 53,
+    "fat": 14
+  },
+  "slug": "qzestly-zanzibari-pepper-poke-korean-bronze-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qzestly-zanzibari-pepper-poke-korean-bronze-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:59:33Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Pepper",
+    "descriptor": "Qzestly",
+    "dishForm": "Poke"
+  }
+}
