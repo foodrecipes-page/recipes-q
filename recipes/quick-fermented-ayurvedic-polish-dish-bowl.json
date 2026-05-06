@@ -1,0 +1,102 @@
+{
+  "title": "Quick Fermented Ayurvedic Polish Dish Bowl",
+  "description": "Satisfy your Ayurvedic cravings with a quick fermentation process using shio-cure and a hint of sour cream, then enjoy this Polish-inspired dish bowl.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "ayurvedic",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cure Beef",
+      "amount": "1 cup",
+      "notes": "Use store-bought or homemade shio-cure beef."
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup",
+      "notes": "Ayurvedic-friendly sour cream for fermentation."
+    },
+    {
+      "name": "Finely Chopped Onion",
+      "amount": "1/2 cup",
+      "notes": "Red onion or any other sweet onion variety."
+    },
+    {
+      "name": "Dried Thyme",
+      "amount": "1 tsp",
+      "notes": "For a hint of herbal flavor."
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "1 tsp",
+      "notes": "For a light and refreshing taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the soaked shio-cure beef and chopped onion, and let it sit at room temperature for 4 hours to ferment.",
+    "After fermentation, rinse the beef mixture with cold water and drain well.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the fermented beef mixture until it's lightly browned, about 5 minutes.",
+    "In a separate pan, heat the brown rice according to package instructions.",
+    "To assemble the bowl, place a scoop of brown rice, then top it with the fermented beef mixture, followed by a dollop of sour cream, sprinkle with thyme, salt to taste, and garnish with parsley and dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "fermented",
+    "polish",
+    "quick-fix",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-fermented-ayurvedic-polish-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fermented-ayurvedic-polish-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "sour cream",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ayurvedic",
+    "mainIngredient": "Polish Dish",
+    "descriptor": "Quick Fermented",
+    "dishForm": "Bowl"
+  }
+}
