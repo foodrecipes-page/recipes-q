@@ -1,0 +1,121 @@
+{
+  "title": "Quenched and Italian Eggs Bigoli",
+  "description": "A classic Italian dish from Lombardy, featuring bigoli pasta, sake marinated eggs, and a smoky wine-infused sauce. This flexitarian-friendly recipe showcases the beauty of Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bigoli pasta",
+      "amount": "12 oz"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "smoked mozzarella",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "smoked provolone",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook bigoli pasta according to package instructions until al dente.",
+    "In a large saucepan, combine sake, dry white wine, vegetable broth, and garlic.",
+    "Bring mixture to a simmer over medium heat and cook for 5 minutes.",
+    "Add smoked mozzarella, smoked provolone, and grated grana padano cheese to the saucepan and stir until cheese is melted and sauce is smooth.",
+    "In a separate saucepan, melt butter over low heat and add lemon zest.",
+    "Add eggs to the saucepan with lemon zest and butter and cook until whites are set and yolks are still runny.",
+    "Slice cooked eggs in half and place on top of bigoli pasta.",
+    "Pour wine-infused cheese sauce over the eggs and pasta.",
+    "Sprinkle with chopped fresh parsley and serve immediately.",
+    "Garnish with additional lemon zest and grated cheese if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grana-padano",
+    "italian",
+    "lombard",
+    "mozzarella",
+    "provolone",
+    "smoked",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 44,
+    "fat": 34
+  },
+  "slug": "quenched-and-italian-eggs-bigoli",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-and-italian-eggs-bigoli",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "smoke",
+    "primaryIngredient": "sake-cooking",
+    "diet": "flexitarian",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggs",
+    "descriptor": "Quenched and",
+    "dishForm": "Bigoli"
+  }
+}

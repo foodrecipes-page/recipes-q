@@ -533,6 +533,23 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-and-italian-eggs-bigoli",
+    "title": "Quenched and Italian Eggs Bigoli",
+    "tags": [
+      "flexitarian",
+      "grana-padano",
+      "italian",
+      "lombard",
+      "mozzarella",
+      "provolone",
+      "smoked",
+      "wine-infused"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-bitter-arabian-butter-pudding",
     "title": "Quenched Bitter Arabian Butter Pudding",
     "tags": [
