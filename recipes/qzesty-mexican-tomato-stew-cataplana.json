@@ -1,0 +1,96 @@
+{
+  "title": "QZesty Mexican Tomato Stew Cataplana",
+  "description": "A sweet, snappy, nostalgic mexican (oaxacan) dish featuring hot chilli powder, tadka, anti-inflammatory-friendly. Perfect for a meal or snack.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomato puree",
+      "amount": 2
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": 1
+    },
+    {
+      "name": "jalapeno, finely chopped",
+      "amount": 3
+    },
+    {
+      "name": "cumin seeds",
+      "amount": 1
+    },
+    {
+      "name": "coriander seeds",
+      "amount": 1
+    },
+    {
+      "name": "chilli powder",
+      "amount": 2
+    },
+    {
+      "name": "garam masala",
+      "amount": 1
+    },
+    {
+      "name": "salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "tadka spices (mustard seeds, cumin seeds, ajwain)",
+      "amount": ""
+    },
+    {
+      "name": "oil for tadka",
+      "amount": ""
+    },
+    {
+      "name": "water to thin",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium pot, combine tomato puree and chopped onion.",
+    "Add jalapeno and saute until translucent. Stir in chilli powder, cumin seeds, coriander seeds, garam masala, salt, and water to thin if necessary.",
+    "Cover and simmer for about 15 minutes or until thickened.",
+    "In a separate pan, heat oil and add tadka spices. Add to pot when ready to serve.",
+    "Serve hot as a snack with tortilla chips or on its own."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory-friendly",
+    "nostalgic",
+    "oaxacan",
+    "snappy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "qzesty-mexican-tomato-stew-cataplana",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qzesty-mexican-tomato-stew-cataplana",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T09:21:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "anti-inflammatory",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tomato",
+    "descriptor": "QZesty",
+    "dishForm": "Stew"
+  }
+}
