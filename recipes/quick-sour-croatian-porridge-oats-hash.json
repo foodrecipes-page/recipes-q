@@ -1,0 +1,102 @@
+{
+  "title": "Quick Sour Croatian Porridge Oats Hash",
+  "description": "A sour, crispy, one-pot dish from Croatia featuring porridge oats, bonito flakes, and a macrobiotic-friendly twist. Serve hot in a claypot.",
+  "cuisine": "Croatian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried yeast",
+      "amount": "1 tsp",
+      "notes": "active dry or instant yeast"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "for sourness and flavor"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp",
+      "notes": "dried and toasted for added umami flavor"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional for finishing"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine oats, yeast, and water in a claypot. Mix well and let it sit for 10 minutes to allow the oats to absorb the water.",
+    "Add apple cider vinegar, bonito flakes, sesame oil, salt, and pepper to the claypot. Mix well to combine.",
+    "Place the claypot over medium heat and cook for 5-7 minutes, stirring occasionally.",
+    "Reduce heat to low and simmer for 10-12 minutes, stirring frequently, until the oats are cooked and the liquid has been absorbed.",
+    "Serve the Quick Sour Croatian Porridge Oats Hash hot in the claypot, garnished with additional bonito flakes if desired.",
+    "Be cautious when handling hot claypot and utensils.",
+    "Allow the hash to cool completely before refrigerating or freezing it for later use.",
+    "When reheating, add a splash of water or broth to the hash to maintain its moisture and texture.",
+    "To enhance the flavor, add a squeeze of fresh lemon juice or a drizzle of olive oil before serving.",
+    "Experiment with different seasonings and spices to make the Quick Sour Croatian Porridge Oats Hash your own."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "gluten-free",
+    "high-fiber",
+    "macrobiotic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-sour-croatian-porridge-oats-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sour-croatian-porridge-oats-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:02:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "bonito-shave",
+    "primaryIngredient": "porridge oats",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Porridge oats",
+    "descriptor": "Quick sour",
+    "dishForm": "Hash"
+  }
+}
