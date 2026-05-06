@@ -1,0 +1,109 @@
+{
+  "title": "Quick-Fix Saudi-Arabian Beans Bowl",
+  "description": "Umami-rich Saudi-Arabian dish featuring crispy fried onions and flavorful infuse-oil, suitable for Jain-friendly diet.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned kidney beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Infuse-oil (flavorful oil with Middle Eastern spices)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 medium",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 inch of oil in a large skillet over medium-high heat.",
+    "Fry the sliced onions until crispy, about 3-4 minutes, or until golden brown.",
+    "Remove the fried onions from the oil and set aside on a paper towel-lined plate.",
+    "In the same oil, cook the minced garlic for 1 minute, until fragrant.",
+    "Add the cumin and coriander powder to the oil and cook for 1 minute, until fragrant.",
+    "Add the drained kidney beans to the skillet and stir to combine with the spices and oil.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley and cilantro.",
+    "Serve hot, topped with crispy fried onions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-fix-saudi-arabian-beans-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-saudi-arabian-beans-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "beans",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "beans",
+    "descriptor": "quick-fix",
+    "dishForm": "bowl"
+  }
+}
