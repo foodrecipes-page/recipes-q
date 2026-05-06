@@ -1,0 +1,84 @@
+{
+  "title": "Quick-Malaysian-Zingy Citrus Peel Thai-Bird-Chili Skewers",
+  "description": "A quick-fix Malaysian dish featuring Thai bird chilies and citrus peel for a zesty and flaky taste. Suitable as an appetizer or snack, vegan-friendly.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 lime",
+      "amount": "1"
+    },
+    {
+      "name": "1 lemon",
+      "amount": "1"
+    },
+    {
+      "name": "1 bunch of Thai bird chilies",
+      "amount": "1"
+    },
+    {
+      "name": "Juice from 4 lemongrass stalks",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": null
+    },
+    {
+      "name": "1 cup mixed leafy greens (e.g. bok choy, kale)",
+      "amount": "1"
+    },
+    {
+      "name": "2 bamboo skewers",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Wash and prepare the citrus peels by removing any white pith.",
+    "Slice the Thai bird chilies into thin rings.",
+    "Mix lime juice, lemon juice, salt, and lemongrass juice in a bowl. Stir until the salt dissolves.",
+    "Place mixed leafy greens on bamboo skewers.",
+    "Gently place slices of citrus peels on each green vegetable.",
+    "Add Thai bird chili rings between the citrus and vegetables for added flavor.",
+    "Drizzle with the prepared seasoning mixture from above.",
+    "Let stand at room temperature before grilling or pan-frying. Enjoy hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian-dish",
+    "plant-based-friendly",
+    "quick-fix",
+    "vessel-bamboo-tray",
+    "yakimono-grill",
+    "zesty-citrus"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 3
+  },
+  "slug": "quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:57:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Citrus Peel",
+    "descriptor": "Quick-Malaysian-Zingy",
+    "dishForm": "Skewers"
+  }
+}
