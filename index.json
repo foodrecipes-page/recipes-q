@@ -1621,6 +1621,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-russian-water-borscht",
+    "title": "quenched russian water borscht",
+    "tags": [
+      "anti-inflammatory",
+      "gluten-free",
+      "low-calorie",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-saudi-arabian-eggs-frittata",
     "title": "Quenched Saudi-Arabian Eggs Frittata",
     "tags": [
@@ -3259,6 +3274,23 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-roasted-japanese-marzipan-gyoza",
+    "title": "Quick Fix Roasted Japanese Marzipan Gyoza",
+    "tags": [
+      "easy-breakfast",
+      "easy-dessert",
+      "easy-dinner",
+      "easy-lunch",
+      "easy-snack",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {

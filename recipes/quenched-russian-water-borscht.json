@@ -1,0 +1,81 @@
+{
+  "title": "quenched russian water borscht",
+  "description": "a unique twist on traditional borscht, featuring a floral and gooey texture, ideal for a lazy sunday afternoon. this recipe is anti-inflammatory-friendly and perfect for a light meal.",
+  "cuisine": "russian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill"
+    }
+  ],
+  "instructions": [
+    "combine water, beets, carrots, and onion in a large pot. bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "add chopped fresh dill and dried herbs to the pot, and continue to simmer for another 10 minutes.",
+    "remove the pot from the heat and let it cool slightly. use a slotted spoon to remove the solids and transfer them to a blender or food processor.",
+    "add pasta flour to the blender and blend until smooth. return the mixture to the pot and stir in kombu seaweed.",
+    "season the borscht with salt and pepper to taste, then serve warm or chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 1
+  },
+  "slug": "quenched-russian-water-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-russian-water-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "blanch",
+    "primaryIngredient": "water",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "water",
+    "descriptor": "quenched",
+    "dishForm": "Borscht"
+  }
+}

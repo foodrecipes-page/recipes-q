@@ -1,0 +1,98 @@
+{
+  "title": "Quick Fix Roasted Japanese Marzipan Gyoza",
+  "description": "A quick and easy Japanese-inspired dish featuring marzipan and a mustardy flavor profile. This recipe is perfect for a weeknight dinner or a snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond Marzipan",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": "For marzipan mixture wetting."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "To add umami flavor."
+    },
+    {
+      "name": "Grated Ginger",
+      "amount": "2 teaspoons",
+      "notes": "For added spice."
+    },
+    {
+      "name": "Mustard Seeds",
+      "amount": "1 teaspoon",
+      "notes": "For a pungent flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To season."
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Gyoza Wrappers",
+      "amount": "12 pieces",
+      "notes": "For gyoza casing."
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375°F (190°C).",
+    "Mix the marzipan with water, soy sauce, grated ginger, mustard seeds, and salt to create the filling.",
+    "Place a spoonful of the marzipan mixture onto a gyoza wrapper, leaving a 1/2-inch border around the edges.",
+    "Dip the edges of the wrapper in sesame oil and fold the gyoza in half to form a half-moon shape.",
+    "Place the gyoza in the preheated tandoor clay pot and roast for 5-7 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-breakfast",
+    "easy-dessert",
+    "easy-dinner",
+    "easy-lunch",
+    "easy-snack",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-fix-roasted-japanese-marzipan-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-roasted-japanese-marzipan-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "marzipan",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "marzipan",
+    "descriptor": "Quick Fix Roasted",
+    "dishForm": "Gyoza"
+  }
+}
