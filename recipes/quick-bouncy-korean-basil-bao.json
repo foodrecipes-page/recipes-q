@@ -1,0 +1,60 @@
+{
+  "title": "Quick Bouncy Korean Basil Bao",
+  "description": "This pungent and festive Korean-inspired dish is perfect for a quick snack or meal. Featuring Thai holy basil, steamed mushrooms, and a touch of Korean spices, this recipe is both jain-friendly and easy on the palate.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushrooms (shiitake or cremini)",
+      "amount": "1 cup",
+      "notes": "clean and sliced"
+    }
+  ],
+  "instructions": [
+    "Steam mushrooms in a steamer basket over boiling water for 4 minutes.",
+    "In a small pan, heat 1 tablespoon of oil over medium heat.",
+    "Add 2 cloves of minced garlic and cook for 1 minute, until fragrant.",
+    "Add 1/4 cup of chopped Thai holy basil and cook for 30 seconds, until wilted."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "basil",
+    "korean",
+    "one-pan",
+    "quick",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-bouncy-korean-basil-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-bouncy-korean-basil-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "shojin",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Basil",
+    "descriptor": "Quick Bouncy",
+    "dishForm": "Bao"
+  }
+}
