@@ -1,0 +1,79 @@
+{
+  "title": "Quick-Roasted Mexican Bread Tacos",
+  "description": "An earthy and flaky quick-fix mexican dish featuring bread, mirepoix-base, whole30-friendly ingredients cooked in a tandoor-clay-pot for a unique taco experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2"
+    },
+    {
+      "name": "1 yellow onion, diced",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "4 whole wheat tortillas (or any gluten-free bread)",
+      "amount": "4"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "1"
+    },
+    {
+      "name": "30g fresh cilantro, chopped",
+      "amount": "30"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tandoor-clay-pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Stir in lime juice. Bring to simmering point.",
+    "Fold tortillas into the pot with mirepoix mixture.",
+    "Cover tightly and roast for 10-12 minutes at a low temperature (350°F).",
+    "Add cilantro, season with salt and pepper.",
+    "Serve hot as tacos or sopes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earthly-flaky",
+    "mexican-tacos",
+    "quick-fix",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-roasted-mexican-bread-tacos",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-mexican-bread-tacos",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T13:06:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "bread",
+    "descriptor": "Quick-Roasted",
+    "dishForm": "Tacos"
+  }
+}
