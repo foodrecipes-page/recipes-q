@@ -1,0 +1,101 @@
+{
+  "title": "Quintessentially Indulgent Filipino Dates Skewers",
+  "description": "A sour, chewy, and indulgent Filipino dish featuring pitted dates, katsuramuki-cut, high-protein-friendly, perfect for a snack or dessert.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "12",
+      "notes": "preferably medjool"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, rice vinegar, calamansi juice, grated ginger, garlic, sesame oil, salt, and black pepper.",
+    "Add the pitted dates to the bowl and toss to coat with the marinade.",
+    "Thread 3-4 dates onto each skewer, leaving a small space between each date.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "Transfer the skewers to a serving plate and sprinkle with toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "grilled-dates",
+    "high-protein",
+    "indulgent-snacks",
+    "quick-and-easy",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quintessentially-indulgent-filipino-dates-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-indulgent-filipino-dates-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pitted dates",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "dates",
+    "descriptor": "Quintessentially Indulgent",
+    "dishForm": "Skewers"
+  }
+}
