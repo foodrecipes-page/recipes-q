@@ -1,0 +1,82 @@
+{
+  "title": "Quick-Fried Venezuelan Cheese Bake",
+  "description": "A rapid and indulgent Venezuelan-inspired dish featuring melted cheese, crispy coconut flakes, and a satisfying umami flavor.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Queso fresco",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a medium bowl, whisk together the flour, a pinch of salt, and a grind of black pepper.",
+    "Add the milk to the bowl and whisk until smooth.",
+    "Stir in the queso fresco until well combined.",
+    "Pour the mixture into a greased 8-inch baking dish.",
+    "Sprinkle the coconut flakes over the top of the cheese mixture.",
+    "Drizzle the olive oil over the coconut flakes.",
+    "Bake for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "low-sodium",
+    "quick-fix",
+    "umami",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 15
+  },
+  "slug": "quick-fried-venezuelan-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-venezuelan-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:45:18Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "coconut flakes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick-Fried",
+    "dishForm": "Bake"
+  }
+}

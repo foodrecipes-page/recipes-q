@@ -3560,6 +3560,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fried-venezuelan-cheese-bake",
+    "title": "Quick-Fried Venezuelan Cheese Bake",
+    "tags": [
+      "cheese-pull",
+      "low-sodium",
+      "quick-fix",
+      "umami",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-galician-potatoes-stew",
     "title": "Quick Galician Potatoes Stew",
     "tags": [
