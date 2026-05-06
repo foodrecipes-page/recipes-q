@@ -1,0 +1,81 @@
+{
+  "title": "Qzestly Zanzibari Chickpea Stir-fry Molcajete",
+  "description": "A bitter, snappy Middle Eastern dish featuring chickpeas, soured cream, and a chive dip in a molcajete vessel. Low-glycemic-friendly for weeknight cooking.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup canned chickpeas",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons tahini sauce",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "lemon"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Pinch cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a molcajete, combine chickpeas with tahini, water, garlic, lemon juice, olive oil, and cayenne pepper. Mix well.",
+    "Season with salt to taste.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-glycemic",
+    "middle-eastern",
+    "molcajete",
+    "weeknight-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "qzestly-zanzibari-chickpea-stir-fry-molcajete",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qzestly-zanzibari-chickpea-stir-fry-molcajete",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T04:55:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Qzestly",
+    "dishForm": "Stir-fry"
+  }
+}
