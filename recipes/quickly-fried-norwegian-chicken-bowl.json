@@ -1,0 +1,118 @@
+{
+  "title": "Quickly Fried Norwegian Chicken Bowl",
+  "description": "Sweet and savory Norwegian dish featuring fried chicken, Asian chive buchu, and melted cheese in a Korean brass bowl.",
+  "cuisine": "norwegian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Asian chive buchu",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sambal oelek",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Season the chicken breast with salt, black pepper, and a pinch of sambal oelek.",
+    "Dredge the chicken in almond flour, pressing gently to adhere.",
+    "Add the chicken to the skillet and cook for 5 minutes on each side, or until cooked through.",
+    "Meanwhile, mix Asian chive buchu, coconut aminos, garlic, and ginger in a small bowl.",
+    "Once the chicken is cooked, transfer it to a Korean brass bowl.",
+    "Add the Asian chive buchu mixture on top of the chicken.",
+    "Sprinkle shredded gruyère cheese over the top of the bowl.",
+    "Microwave the bowl for 20-30 seconds, or until the cheese is melted and bubbly.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "quickly-fried-norwegian-chicken-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fried-norwegian-chicken-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:57:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "fry",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quickly Fried",
+    "dishForm": "Bowl"
+  }
+}
