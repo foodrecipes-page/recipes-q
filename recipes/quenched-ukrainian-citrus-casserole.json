@@ -1,0 +1,120 @@
+{
+  "title": "Quenched Ukrainian Citrus Casserole",
+  "description": "A warm, citrusy, and cozy Ukrainian dish featuring ginger cordial, beurre-monte, and a crumbly texture.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 3/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed orange juice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "confectioners\u00078 sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together flour, sugar, and kosher salt.",
+    "Add the melted butter and mix until a crumbly mixture forms.",
+    "In a separate bowl, whisk together eggs, orange juice, grated ginger, and ginger cordial.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Pour the batter into a greased 9x13-inch baking dish.",
+    "Dot the top of the casserole with the beurre-monte.",
+    "Bake for 35 minutes or until the top is golden brown and the casserole is set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Dust with confectioners\u00078 sugar, if desired.",
+    "Serve warm, garnished with additional grated ginger, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "casserole",
+    "citrus",
+    "ginger",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "quenched-ukrainian-citrus-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-ukrainian-citrus-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:24:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ginger cordial",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Quenched",
+    "dishForm": "Casserole"
+  }
+}
