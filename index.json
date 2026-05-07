@@ -3933,6 +3933,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-ethiopian-lamb-bisque",
+    "title": "Quick Grilled Ethiopian Lamb Bisque",
+    "tags": [
+      "breakfast",
+      "dinner",
+      "ethiopian",
+      "gluten-free",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-uruguayan-beef-skewers",
     "title": "Quick Grilled Uruguayan Beef Skewers",
     "tags": [

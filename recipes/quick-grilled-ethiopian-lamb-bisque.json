@@ -1,0 +1,120 @@
+{
+  "title": "Quick Grilled Ethiopian Lamb Bisque",
+  "description": "A fresh and pillowy brunch dish featuring chopped parsley, robata-grill, and gluten-free-friendly ingredients. Serve in a molcajete for a unique presentation.",
+  "cuisine": "Ethiopian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 cup chopped",
+      "notes": "Fresh parsley is a must for this dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Use a 1:1 gluten-free flour substitute."
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "Use a low-sodium broth to control the salt content."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Greek yogurt is a good substitute if you can't find traditional Ethiopian yogurt."
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a robata grill to medium-high heat.",
+    "Season the lamb with salt, black pepper, paprika, and red pepper flakes.",
+    "Grill the lamb for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "Let the lamb rest for 10 minutes before slicing it thinly.",
+    "In a molcajete, combine the parsley, garlic, ginger, and gluten-free flour.",
+    "Add the chicken broth to the molcajete and whisk until smooth.",
+    "Add the yogurt and whisk until well combined.",
+    "Add the sliced lamb to the molcajete and stir to combine.",
+    "Add the clarified butter and stir to combine.",
+    "Season the bisque with salt and black pepper to taste.",
+    "Serve the bisque hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "ethiopian",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-grilled-ethiopian-lamb-bisque",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-ethiopian-lamb-bisque",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "robata-grill",
+    "primaryIngredient": "chopped parsley",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Bisque"
+  }
+}
