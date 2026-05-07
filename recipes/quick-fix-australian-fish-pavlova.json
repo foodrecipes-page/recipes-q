@@ -1,0 +1,121 @@
+{
+  "title": "Quick-Fix Australian Fish Pavlova",
+  "description": "A Whole30-friendly, Australian-inspired dessert made with a shio-koji cure, coriander seeds, and a meringue base, finished with fresh tropical fruit.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": "About 6 oz (170g) each"
+    },
+    {
+      "name": "Shio-koji powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Large egg whites",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh passionfruit",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh kiwi",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Line a baking sheet with parchment paper.",
+    "Mix the shio-koji powder and coriander seeds together, then rub all over the mackerel fillets.",
+    "Place the mackerel on the prepared baking sheet and bake for 12 minutes, or until cooked through.",
+    "While the mackerel is baking, whip the egg whites and granulated sugar until stiff peaks form.",
+    "Add the salt and continue whipping until combined.",
+    "Spoon the meringue mixture onto the prepared baking sheet, shaping into a round base for the pavlova.",
+    "Bake the meringue for 1.5 hours, or until crispy and dry.",
+    "Remove the meringue from the oven and let cool completely.",
+    "Cut the cooked mackerel into thin slices.",
+    "Arrange the meringue base on a serving plate, then top with the mackerel slices, passionfruit, kiwi, and strawberries.",
+    "Drizzle the coconut cream over the top and garnish with fresh mint leaves.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 24,
+  "totalTimeMin": 69,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "dessert",
+    "fish",
+    "meringue",
+    "quick-fix",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 53,
+    "carbs": 14,
+    "fat": 33
+  },
+  "slug": "quick-fix-australian-fish-pavlova",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-australian-fish-pavlova",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:30:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "coriander seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fish",
+    "descriptor": "quick-fix",
+    "dishForm": "Pavlova"
+  }
+}
