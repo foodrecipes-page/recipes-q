@@ -1,0 +1,101 @@
+{
+  "title": "Quick-Fix Roasted Hunan Cornstarch Jjigae",
+  "description": "A low-sodium-friendly, al-dente-finish Hunan dish featuring cornstarch and a roasted finish.",
+  "cuisine": "Hunan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "mixed with 2 tablespoons of water"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Heat the remaining 1 tablespoon of vegetable oil in the skillet.",
+    "Add the sliced ginger and cook for 2 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped scallions and cook for 2 minutes.",
+    "Add the pork shoulder and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the Korean chili flakes, soy sauce, and 2 tablespoons of water mixed with cornstarch to the skillet.",
+    "Stir the mixture until it thickens, then serve hot.",
+    "Serve the Hunan cornstarch jjigae immediately over steamed rice.",
+    "Garnish with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hunan",
+    "korean",
+    "low-sodium",
+    "one-pan",
+    "quick-fix",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-fix-roasted-hunan-cornstarch-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-roasted-hunan-cornstarch-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:20:01Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cornstarch",
+    "diet": "low-sodium",
+    "region": "hunan",
+    "cuisineAdjective": "Hunan",
+    "mainIngredient": "cornstarch",
+    "descriptor": "quick-fix roasted",
+    "dishForm": "Jjigae"
+  }
+}

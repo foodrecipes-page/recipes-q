@@ -2920,6 +2920,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake",
+    "title": "quick-fix Argentinian ovolimushroom wood-fired-bake",
+    "tags": [
+      "anti-inflammatory",
+      "argentinian",
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "weeknight",
+      "wood-fired"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-brazilian-chorizo-wrap",
     "title": "Quick-Fix Brazilian Chorizo Wrap",
     "tags": [
@@ -3086,6 +3102,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 5,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-german-boudin-blanc-gratin",
+    "title": "Quick Fix German Boudin-Blanc Gratin",
+    "tags": [
+      "easy",
+      "german",
+      "kosher-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -3364,6 +3394,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 75,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-roasted-hunan-cornstarch-jjigae",
+    "title": "Quick-Fix Roasted Hunan Cornstarch Jjigae",
+    "tags": [
+      "hunan",
+      "korean",
+      "low-sodium",
+      "one-pan",
+      "quick-fix",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Hunan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

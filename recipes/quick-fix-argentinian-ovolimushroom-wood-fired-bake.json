@@ -1,0 +1,108 @@
+{
+  "title": "quick-fix Argentinian ovolimushroom wood-fired-bake",
+  "description": "A quick and flavorful Argentinian dish that combines the earthy flavors of mushrooms with the crunchy texture of ovoli, all on a wood-fired bake.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ovoli (3 cups)",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms (1 cup)",
+      "amount": "1 cup sliced",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chimichurri mix (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 425°F (220°C).",
+    "Toss ovoli and mushrooms with olive oil, salt, black pepper, and red pepper flakes on a baking sheet.",
+    "Add chopped onion and minced garlic on top of the ovoli mixture.",
+    "Drizzle chimichurri mix over the top and toss to combine.",
+    "Transfer the baking sheet to the preheated wood-fired oven and bake for 12-15 minutes, or until the ovoli is tender and lightly browned.",
+    "Remove the baking sheet from the oven and sprinkle grated Parmesan cheese over the top.",
+    "Return the baking sheet to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes before serving.",
+    "Slice the ovoli and serve hot, garnished with additional chimichurri mix if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "argentinian",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "weeknight",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-argentinian-ovolimushroom-wood-fired-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:19:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "ovolimushroom",
+    "descriptor": "quick-fix",
+    "dishForm": "wood-fired-bake"
+  }
+}
