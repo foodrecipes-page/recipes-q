@@ -1,0 +1,102 @@
+{
+  "title": "Quick Japanese Tofu Agedashi",
+  "description": "Rich and pillowy Japanese dish featuring hot smoked paprika and lardons-render, perfect for a gluten-free friendly meal",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "Hot smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lardons",
+      "amount": "4 slices",
+      "notes": "rendered and crispy"
+    },
+    {
+      "name": "Dashi broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat",
+    "Add the lardons and cook until crispy and golden brown",
+    "Remove the lardons from the saucepan and set aside",
+    "Add the dashi broth, mirin, soy sauce, and rice vinegar to the saucepan",
+    "Bring the mixture to a simmer and cook for 5 minutes",
+    "Add the silken tofu to the saucepan and cook for 2-3 minutes on each side",
+    "Remove the tofu from the saucepan and place on a plate",
+    "Sprinkle the hot smoked paprika, crispy lardons, and green onions over the tofu",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agedashi-style",
+    "gluten-free",
+    "hot-smoked-paprika",
+    "japanese-cuisine",
+    "lardons-recipes",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quick-japanese-tofu-agedashi",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-japanese-tofu-agedashi",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-07T21:09:44Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Agedashi"
+  }
+}
