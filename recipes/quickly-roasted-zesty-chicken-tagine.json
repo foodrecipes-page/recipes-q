@@ -1,0 +1,89 @@
+{
+  "title": "Quickly Roasted Zesty Chicken Tagine",
+  "description": "A fresh and vibrant Algerian dish featuring a blend of aromatic spices and birds-eye chilies for an Ayurvedic-sattvic-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "4 boneless chicken thighs",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp coriander powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp turmeric",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp Kashmiri chili powder (or 5-6 birds eye chilies, finely chopped)",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a bowl, mix chicken with onion, garlic, cumin, coriander powder, turmeric, and Kashmiri chili powder. Season with salt and pepper.",
+    "Transfer mixture into an oven-safe dish and drizzle lemon juice over it. Bake for 30 minutes or until the chicken is cooked through.",
+    "Squeeze remaining lemon juice over roasted chicken before serving.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "ayurvedic",
+    "herbaceous",
+    "quick-cook",
+    "sattvic-friendly",
+    "zesty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "quickly-roasted-zesty-chicken-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-roasted-zesty-chicken-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T13:07:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Zesty",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quickly Roasted",
+    "dishForm": "Tagine"
+  }
+}
