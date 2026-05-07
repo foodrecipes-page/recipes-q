@@ -1,0 +1,117 @@
+{
+  "title": "Quick Fix Silky Algerian Vine Leaves Tagine",
+  "description": "A quick and delicious Algerian-inspired dish featuring vine leaves, yuzu-cure, and a hint of mustardiness. This recipe is halal-friendly and can be prepared in under an hour.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "1 package (about 20 leaves)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the yuzu juice, cumin, coriander, cayenne pepper, salt, and pepper. Stir to combine.",
+    "Add the vine leaves to the tagine and stir to coat with the yuzu-cure mixture.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook for 15-20 minutes, or until the leaves are tender.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Serve with couscous or pita bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "delicious",
+    "easy",
+    "halal",
+    "one-pan",
+    "quick",
+    "vegan",
+    "weekday"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-fix-silky-algerian-vine-leaves-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-silky-algerian-vine-leaves-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:28Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "vine leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Quick fix silky",
+    "dishForm": "Tagine"
+  }
+}
