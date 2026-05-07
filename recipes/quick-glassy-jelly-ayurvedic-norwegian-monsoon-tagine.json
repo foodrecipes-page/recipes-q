@@ -1,0 +1,64 @@
+{
+  "title": "Quick Glassy-Jelly Ayurvedic Norwegian Monsoon Tagine",
+  "description": "A rich, umami-filled, Ayurvedic-friendly dish that resembles glassy-jelly, originating from Norway's monsoon season, and enhanced with Thai red curry paste.",
+  "cuisine": "Norwegian, Thai, Ayurvedic",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a clay tagine over medium heat, until it shimmers.",
+    "Add the onions and saut\u000268 until they turn translucent, about 3 minutes.",
+    "Add the Thai red curry paste and stir-fry for 1 minute, until fragrant.",
+    "Add the sliced mushrooms and stir-fry until they release their liquid and start to brown, about 5 minutes.",
+    "Add the sliced bell peppers and stir-fry for another 2 minutes, until they start to soften.",
+    "Add the chickpeas, coconut milk, fish sauce, lemon juice, and salt. Stir well to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 15 minutes, until the liquid has thickened and the flavors have melded together.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "glgassy-jelly",
+    "monsoon-norwegian",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "quick-glassy-jelly-ayurvedic-norwegian-monsoon-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-glassy-jelly-ayurvedic-norwegian-monsoon-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:15Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Monsoon",
+    "descriptor": "Quick Glassy-Jelly Ayurvedic",
+    "dishForm": "Tagine"
+  }
+}
