@@ -1,0 +1,119 @@
+{
+  "title": "Quickly Browned Filipino Meat Stir-fry",
+  "description": "A savory, diabetic-friendly Filipino dish featuring tender meat and a hint of sweetness from brown sugar, perfect for a post-workout meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "diabetic",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Green chili",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a clay pot over medium-high heat. ",
+    "Add the onion, garlic, and green chili; cook until the onion is translucent. ",
+    "Add the pork shoulder, soy sauce, fish sauce, brown sugar, salt, and black pepper; stir well to coat. ",
+    "Add bay leaves and stir well. ",
+    "Cook for 10 minutes, stirring occasionally. ",
+    "Stir in fresh cilantro. ",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "filipino",
+    "low-carb",
+    "one-pan",
+    "post-workout",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quickly-browned-filipino-meat-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-browned-filipino-meat-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:08:35Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "brown sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "meat",
+    "descriptor": "Quickly browned",
+    "dishForm": "Stir-fry"
+  }
+}
