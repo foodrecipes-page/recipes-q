@@ -1,0 +1,117 @@
+{
+  "title": "Quintessentially Qazi Portuguese Five Spice Lamb Bake",
+  "description": "A sattvic-friendly, comforting dish featuring a flavorful lamb filling and a crusty, puffed bread crust, all in a traditional Portuguese-inspired style. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Vegetarian-friendly without the bread crust",
+    "Dairy-free with modifications",
+    "Gluten-free with modifications"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless and cut into 1.5-inch pieces",
+      "amount": "600g",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese piment\u00018n",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or made fresh in advance"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 small onion",
+      "notes": "about 1 cup chopped"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "about 1 tablespoon minced"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "about 1/4 cup chopped"
+    },
+    {
+      "name": "Bread, cubed (white or whole wheat, or gluten-free alternative)",
+      "amount": "6 cups",
+      "notes": "about 6 cups cubed bread"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00138F (200\u00136C).",
+    "In a large cauldron or Dutch oven, heat the coconut oil over medium heat. Add the lamb and cook until browned on all sides, about 5-7 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes. Add the minced garlic and cook for 1 minute more.",
+    "In a small bowl, mix together the piment\u00018n, turmeric, garam masala, and five-spice powder. Add this spice blend to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back into the pot and stir to coat with the spice blend.",
+    "Add the chopped cilantro, bread, and water to the pot. Stir to combine and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven. Bake for 20-25 minutes, or until the bread is golden brown and the filling is heated through.",
+    "Remove the pot from the oven and let it cool for a few minutes before serving.",
+    "Serve the Quintessentially Qazi Portuguese Five Spice Lamb Bake hot, garnished with additional chopped cilantro if desired.",
+    "If desired, serve with a side of saut\u0000eded greens or a simple salad for a well-rounded meal.",
+    "Enjoy your delicious and comforting dish!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "five-spice",
+    "lamb",
+    "lazy-sunday",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "quintessentially-qazi-portuguese-five-spice-lamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-qazi-portuguese-five-spice-lamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:33:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "five spice powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Five Spice Lamb",
+    "descriptor": "Quintessentially Qazi",
+    "dishForm": "Bake"
+  }
+}
