@@ -1,0 +1,82 @@
+{
+  "title": "Quick Quenched Almond Pilaf",
+  "description": "A nutty and dense dish inspired by a monsoon Brazilian cuisine featuring gherkin relish for an unexpected burst of tanginess. Perfect as a snack or light meal.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup slivered almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons gherkins (in vinegar)",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1 pinch cayenne pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Pinch of freshly ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1/2 lemon",
+      "amount": "cup"
+    },
+    {
+      "name": "Ice-cold water",
+      "amount": "glass"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa and drain. In a medium saucepan, combine quinoa, almonds, gherkins, salt, cayenne pepper, black pepper, lemon juice, and cold water.",
+    "Bring to a boil, reduce heat, cover, and simmer for 15 minutes or until all liquid is absorbed.",
+    "Remove from heat, let stand covered in its own cooking liquid for 5-10 minutes. Toss gently with a fork to separate grains.",
+    "Season with salt to taste. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grain-based",
+    "monsoon-inspired",
+    "no-dairy",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "quick-quenched-almond-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-almond-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T08:17:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "gherkin relish",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Quenched",
+    "mainIngredient": "Almonds",
+    "descriptor": "Quick",
+    "dishForm": "Pilaf"
+  }
+}

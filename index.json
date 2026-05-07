@@ -4427,6 +4427,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-quenched-almond-pilaf",
+    "title": "Quick Quenched Almond Pilaf",
+    "tags": [
+      "grain-based",
+      "monsoon-inspired",
+      "no-dairy",
+      "quick-cook"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-canadian-lettuce-salad",
     "title": "Quick Quenched Canadian Lettuce Salad",
     "tags": [
