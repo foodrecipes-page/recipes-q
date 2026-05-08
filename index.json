@@ -996,6 +996,20 @@
     "shard": "q"
   },
   {
+    "slug": "quality-caramelized-british-lamb-shepherds-pie",
+    "title": "Quality Caramelized British Lamb Shepherds Pie",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "hearty",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quality-chewy-ukrainian-bread-sandwich",
     "title": "Ukrainian Chewy Bread Sandwich",
     "tags": [
@@ -9541,6 +9555,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-simmered-mexican-cheese-stew",
+    "title": "Quietly Simmered Mexican Cheese Stew",
+    "tags": [
+      "comfort-food",
+      "macrobiotic",
+      "mexican-inspired",
+      "one-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "Quality Caramelized British Lamb Shepherds Pie",
+  "description": "A hearty and flavorful dish featuring caramelized lamb and tomato puree, perfect for a comforting meal. This recipe is diabetic-friendly and made with fresh ingredients.",
+  "cuisine": "British",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g",
+      "notes": "low sugar"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "5g",
+      "notes": "low sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C.",
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until caramelized, stirring occasionally.",
+    "Add the lamb mince and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the tomato puree, carrots, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "While the lamb mixture is cooking, boil the chopped potatoes in a large pot of salted water until tender.",
+    "Drain the potatoes and mash with a fork until smooth.",
+    "Transfer the lamb mixture to a 20x20cm baking dish and top with the mashed potatoes.",
+    "Bake the shepherds pie in the preheated oven for 25 minutes, or until the potatoes are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "hearty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quality-caramelized-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-caramelized-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:05Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "tomato puree",
+    "diet": "diabetic-friendly",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Quality Caramelized",
+    "dishForm": "Shepherds Pie"
+  }
+}
