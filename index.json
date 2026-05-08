@@ -303,6 +303,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-peruvian-beef-anticuchos",
+    "title": "Quaint Peruvian Beef Anticuchos",
+    "tags": [
+      "beef-recipes",
+      "diabetic-friendly",
+      "gluten-free",
+      "grilled-meat",
+      "peruvian-cuisine",
+      "south-american-food"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-romantic-korean-fish-kalguksu",
     "title": "Quaint Romantic Korean Fish Kalguksu",
     "tags": [

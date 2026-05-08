@@ -1,0 +1,110 @@
+{
+  "title": "Quaint Peruvian Beef Anticuchos",
+  "description": "A traditional Peruvian dish featuring grilled beef heart anticuchos with a sweet and sour yuzu cure, served with crispy bacon lardons and a side of diabetic friendly vegetables. This dish is a comforting and flavorful representation of Peruvian cuisine.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bacon lardons",
+      "amount": "6 slices",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "cut into 1 inch slices"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yuzu juice, brown sugar, garlic, and ginger to make the yuzu cure.",
+    "Add the beef heart pieces to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill to medium high heat and thread the marinated beef heart pieces onto skewers.",
+    "Grill the anticuchos for 5 minutes per side, or until they are cooked to an internal temperature of 160 degrees.",
+    "While the anticuchos are cooking, cook the bacon lardons in a pan over medium heat until crispy.",
+    "Add the red bell pepper and zucchini to the pan and cook until they are tender.",
+    "Season the vegetables with salt and black pepper to taste.",
+    "Serve the grilled anticuchos with the crispy bacon lardons and diabetic friendly vegetables.",
+    "Drizzle the remaining yuzu cure over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "grilled-meat",
+    "peruvian-cuisine",
+    "south-american-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaint-peruvian-beef-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-peruvian-beef-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:29:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "bacon lardon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "quaint glassy",
+    "dishForm": "Anticuchos"
+  }
+}
