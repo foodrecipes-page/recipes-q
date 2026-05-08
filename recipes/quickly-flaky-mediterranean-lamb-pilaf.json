@@ -1,0 +1,104 @@
+{
+  "title": "Quickly Flaky Mediterranean Lamb Pilaf",
+  "description": "A hearty, adventurous Mediterranean meal featuring yeasty, flaky lamb and couscous, perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups couscous",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups lamb broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "8 ounces cooked lamb, shredded",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the lamb broth, thyme, salt, and pepper to the saucepan, and bring to a boil.",
+    "Stir in the shredded lamb and remove from heat.",
+    "Fluff the cooked couscous with a fork and stir into the lamb mixture.",
+    "Cover the saucepan and let sit for 5 minutes, allowing the couscous to absorb the flavors.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "high-protein",
+    "lamb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 22
+  },
+  "slug": "quickly-flaky-mediterranean-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-flaky-mediterranean-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T15:44:25Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "rest-meat",
+    "primaryIngredient": "couscous",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Quickly Flaky",
+    "dishForm": "Pilaf"
+  }
+}
