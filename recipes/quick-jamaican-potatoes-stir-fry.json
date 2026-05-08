@@ -1,0 +1,110 @@
+{
+  "title": "Quick Jamaican Potatoes Stir-fry",
+  "description": "A quick, mustardy and snappy Jamaican dish featuring floury potatoes. Perfect as a snack or light lunch.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Floury potatoes",
+      "amount": "4",
+      "notes": "about 1.5 pounds"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "to thicken sauce"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the potatoes and cook for about 5 minutes, or until they start to brown.",
+    "Add the onion, garlic, scotch bonnet peppers, curry powder, and mustard seeds to the skillet.",
+    "Cook for another 2 minutes, stirring constantly, until the spices are fragrant.",
+    "Add the flour to the skillet and stir to combine.",
+    "Cook for 1 minute, stirring constantly.",
+    "Add 1/4 cup of water to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Season with salt to taste.",
+    "Serve the potatoes hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "one-pan",
+    "quick",
+    "snack",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "quick-jamaican-potatoes-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jamaican-potatoes-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T21:07:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "floury potatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quick",
+    "dishForm": "Stir-fry"
+  }
+}

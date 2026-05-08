@@ -5909,6 +5909,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-jamaican-potatoes-stir-fry",
+    "title": "Quick Jamaican Potatoes Stir-fry",
+    "tags": [
+      "jamaican",
+      "one-pan",
+      "quick",
+      "snack",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-jammy-filipino-ciabatta-toast",
     "title": "Quick Jammy Filipino Ciabatta Toast",
     "tags": [
