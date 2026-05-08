@@ -1,0 +1,99 @@
+{
+  "title": "Quenched Spicy Slovakian Tiger Prawns Skewers",
+  "description": "A peppery and snappy Slovakian dish featuring tiger prawns, perfect for a date night, with a satvik-friendly twist by using bhuna spice blend, this recipe is sure to impress.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tiger prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the bhuna spice blend to the bowl and mix well.",
+    "Add the tiger prawns to the bowl and toss to coat with the marinade.",
+    "Thread the marinated prawns onto skewers, leaving a small space between each prawn.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the prawns are pink and cooked through.",
+    "Garnish with chopped parsley and serve immediately.",
+    "Serve with a side of quinoa or roasted vegetables for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna",
+    "date-night",
+    "seafood",
+    "skewers",
+    "slovakian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "quenched-spicy-slovakian-tiger-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-spicy-slovakian-tiger-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "bhuna",
+    "primaryIngredient": "tiger prawns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tiger prawns",
+    "descriptor": "quenched spicy",
+    "dishForm": "Skewers"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Quick Crispy Mexican Paccheri Pasta",
+  "description": "A peppery, crispy, and solo-dinner Mexican dish featuring paccheri pasta, deep-fry-tod, and vegan-friendly ingredients. This recipe is perfect for a quick and satisfying dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the diced onion, bell pepper, and jalapeno pepper to the skillet and cook until the vegetables are tender.",
+    "Add the corn kernels, taco seasoning, salt, and pepper to the skillet and stir to combine.",
+    "Add the cooked paccheri pasta to the skillet and stir to combine with the vegetable mixture.",
+    "Increase the heat to high and cook for an additional 2-3 minutes, stirring constantly, until the pasta is crispy and golden brown.",
+    "Remove the skillet from the heat and serve the Quick Crispy Mexican Paccheri Pasta hot.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-pasta",
+    "mexican-food",
+    "one-pot",
+    "pasta-recipes",
+    "quick-dinner",
+    "vegan-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-crispy-mexican-paccheri-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-mexican-paccheri-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:33:20Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "paccheri pasta",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Pasta"
+  }
+}

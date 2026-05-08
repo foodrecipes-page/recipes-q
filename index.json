@@ -2456,6 +2456,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-spicy-slovakian-tiger-prawns-skewers",
+    "title": "Quenched Spicy Slovakian Tiger Prawns Skewers",
+    "tags": [
+      "bhuna",
+      "date-night",
+      "seafood",
+      "skewers",
+      "slovakian",
+      "spicy"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-spicy-tunisian-chicken-tagine",
     "title": "Quenched Spicy Tunisian Chicken Tagine",
     "tags": [
@@ -3485,6 +3500,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 13,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-mexican-paccheri-pasta",
+    "title": "Quick Crispy Mexican Paccheri Pasta",
+    "tags": [
+      "crispy-pasta",
+      "mexican-food",
+      "one-pot",
+      "pasta-recipes",
+      "quick-dinner",
+      "vegan-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
