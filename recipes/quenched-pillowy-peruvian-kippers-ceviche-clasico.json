@@ -1,0 +1,105 @@
+{
+  "title": "Quenched Pillowy Peruvian Kippers Ceviche Clasico",
+  "description": "A refreshing and umami-rich Peruvian dish featuring kippers, perfect for curing hangovers, with a pillowy texture and no onions or garlic, served as a ceviche clasico in a raclette grill vessel",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "shellfish-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kippers",
+      "amount": "12 ounces",
+      "notes": "cured and smoked"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caramelized sweet plantains",
+      "amount": "1 cup",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill vessel to 400 degrees Fahrenheit",
+    "Caramelize the sweet plantains in a pan with a little oil until golden brown",
+    "In a large bowl, mix together the kippers, lemon juice, coriander, aji amarillo peppers, sweet potatoes, corn kernels, evaporated milk, salt, and black pepper",
+    "Stir well to combine and let it marinate in the refrigerator for at least 30 minutes",
+    "Just before serving, stir in the caramelized sweet plantains",
+    "Spoon the ceviche into the preheated raclette grill vessel",
+    "Serve immediately and garnish with additional coriander and chopped aji amarillo peppers if desired",
+    "Provide tortilla chips or tostadas on the side for a crunchy accompaniment"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quenched-pillowy-peruvian-kippers-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-pillowy-peruvian-kippers-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:28:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "caramelize",
+    "primaryIngredient": "kippers",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "kippers",
+    "descriptor": "quenched pillowy",
+    "dishForm": "Ceviche Clasico"
+  }
+}
