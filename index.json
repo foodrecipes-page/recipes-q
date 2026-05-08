@@ -6419,6 +6419,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-sugary-japanese-eggs-tamagoyaki",
+    "title": "Quick Sugary Japanese Eggs Tamagoyaki",
+    "tags": [
+      "easy-cooking",
+      "japanese-recipe",
+      "one-pan",
+      "ovo-vegetarian",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [

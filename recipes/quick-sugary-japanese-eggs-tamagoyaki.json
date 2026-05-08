@@ -1,0 +1,84 @@
+{
+  "title": "Quick Sugary Japanese Eggs Tamagoyaki",
+  "description": "A traditional Japanese dish featuring sweet and springy eggs, perfect for a weeknight meal. This ovo-vegetarian friendly recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with sugar, salt, mirin, and soy sauce until the sugar is fully dissolved.",
+    "Heat the vegetable oil in a small non-stick pan over medium heat.",
+    "Pour a small amount of the egg mixture into the pan and tilt the pan to evenly coat the bottom.",
+    "Cook the egg for about 2 minutes, until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the egg towards the center.",
+    "Pour a small amount of the remaining egg mixture over the folded egg and continue cooking for another minute.",
+    "Repeat the process of folding and adding more egg mixture until all the egg is used up.",
+    "Remove the tamagoyaki from the pan and let it cool on a plate.",
+    "Slice the tamagoyaki into small pieces and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "japanese-recipe",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "quick-sugary-japanese-eggs-tamagoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sugary-japanese-eggs-tamagoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:36:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "fry",
+    "primaryIngredient": "sugars",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "eggs",
+    "descriptor": "Quick Sugary",
+    "dishForm": "Tamagoyaki"
+  }
+}
