@@ -1,0 +1,115 @@
+{
+  "title": "Quietly Dense Greek Oats Tiropita",
+  "description": "A fatty and dense Greek dish featuring porridge oats, shio-cure, and Buddhist-temple-friendly ingredients, formed into a tiropita and served in a bento-box.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "porridge oats",
+      "amount": "2 cups",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "Japanese salt cure"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the porridge oats, shio-cure, feta cheese, kalamata olives, sun dried tomatoes, fresh parsley, lemon zest, salt, and black pepper, and mix well.",
+    "Gradually add the olive oil to the bowl and mix until the ingredients are well combined.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a quarter of the oat mixture onto the center of each phyllo piece.",
+    "Brush the edges of the phyllo with a little water and fold the dough into a triangle, pressing the edges to seal.",
+    "Place the tiropita into a bento-box and brush the tops with a little olive oil.",
+    "Bake the tiropita in the preheated oven for 25 minutes, or until golden brown.",
+    "Remove the tiropita from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "brunch-ideas",
+    "buddhist-friendly",
+    "greek-food",
+    "oat-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "quietly-dense-greek-oats-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-dense-greek-oats-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:00:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "porridge oats",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "oats",
+    "descriptor": "Quietly Dense",
+    "dishForm": "Tiropita"
+  }
+}
