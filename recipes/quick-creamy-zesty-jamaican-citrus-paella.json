@@ -1,0 +1,106 @@
+{
+  "title": "Quick Creamy Zesty Jamaican Citrus Paella",
+  "description": "A zesty, creamy, lacto-vegetarian-friendly Jamaican paella dish featuring white chocolate chips.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Canned coconut milk",
+      "amount": "14 oz"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "White chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan over medium-high heat.",
+    "Add the onion, bell pepper, and zucchini, and cook, stirring occasionally, until tender, about 5 minutes.",
+    "Add the rice and cook, stirring constantly, for 1 minute.",
+    "Add the coconut milk, lime juice, orange juice, and score-fat. Bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
+    "Stir in the white chocolate chips until melted.",
+    "Transfer the paella to a serving platter, garnished with cilantro, and serve hot.",
+    "Let the paella rest for a few minutes before serving, allowing the flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "creamy",
+    "dinner-party",
+    "high-calorie",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "quick-creamy-zesty-jamaican-citrus-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-creamy-zesty-jamaican-citrus-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:34:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "score-fat",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "citrus",
+    "descriptor": "Quick Creamy Zesty",
+    "dishForm": "Paella"
+  }
+}
