@@ -1,0 +1,90 @@
+{
+  "title": "Quickly Baked Croatian Pumpkin Casserole",
+  "description": "A cultured, cheese-pull, meal-prep Croatian dish featuring pumpkin and bonito-shave, friendly for those who avoid onion and garlic.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh, cooked and mashed"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "a mix of cheddar and mozzarella"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine pumpkin puree, grated cheese, bonito flakes, eggs, salt, and black pepper, and mix well.",
+    "Grease a bento box or a small baking dish with olive oil.",
+    "Pour the pumpkin mixture into the prepared bento box or baking dish.",
+    "Bake for 25 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm, garnished with additional bonito flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "meal-prep",
+    "no-onion-no-garlic",
+    "one-pan",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quickly-baked-croatian-pumpkin-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-baked-croatian-pumpkin-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:50:41Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "pumpkin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "Quickly baked",
+    "dishForm": "Casserole"
+  }
+}
