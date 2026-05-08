@@ -1,0 +1,124 @@
+{
+  "title": "Quenched, Soft Thai Udon Noodles Khao Pad",
+  "description": "A rich, buttery, and gooey Thai-inspired solo-dinner dish featuring udon noodles.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "1 package (200g)",
+      "notes": "Japanese-style udon noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "pescatarian-friendly"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "balance out the savory flavors"
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced fresh chilies",
+      "amount": "2-3",
+      "notes": "for added heat"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "for added richness"
+    },
+    {
+      "name": "sashimi-grade cod",
+      "amount": "6 oz",
+      "notes": "for added protein"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "for the gooey sauce"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "Cook the udon noodles according to package instructions and set aside.",
+    "In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the Thai red curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the sashimi-grade cod and cook until opaque, about 2-3 minutes per side.",
+    "Remove the cod from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil and the sliced green onions.",
+    "Stir-fry the green onions for 1 minute, until slightly softened.",
+    "Add the bean sprouts, grated ginger, and a pinch of salt. Stir-fry for an additional 2-3 minutes, until the bean sprouts are tender.",
+    "In a small saucepan, melt the unsalted butter over low heat.",
+    "Add the fish sauce and stir until combined.",
+    "Pour the butter sauce over the cooked noodles and toss to coat.",
+    "Return the cooked cod to the skillet and toss to combine.",
+    "Garnish with additional green onions and sliced fresh chilies, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "delicious",
+    "easy-to-make",
+    "homemade",
+    "one-pan",
+    "pescatarian",
+    "quick-meal",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 24
+  },
+  "slug": "quenched-soft-thai-udon-noodles-khao-pad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-soft-thai-udon-noodles-khao-pad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "udon noodles",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "udon noodles",
+    "descriptor": "quenched, soft",
+    "dishForm": "Khao Pad"
+  }
+}

@@ -2803,6 +2803,23 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-soft-thai-udon-noodles-khao-pad",
+    "title": "Quenched, Soft Thai Udon Noodles Khao Pad",
+    "tags": [
+      "comfort-food",
+      "delicious",
+      "easy-to-make",
+      "homemade",
+      "one-pan",
+      "pescatarian",
+      "quick-meal",
+      "thai-cuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-sour-jiangsu-flour-flatbread",
     "title": "Quenched Sour Jiangsu Flour Flatbread",
     "tags": [
@@ -4866,6 +4883,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-irish-chicken-stew",
+    "title": "Quick-Fix Irish Chicken Stew",
+    "tags": [
+      "high-protein",
+      "irish",
+      "one-pan",
+      "soup",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-irish-squash-stir-fry",
     "title": "Quick Fix Irish Squash Stir-fry",
     "tags": [
@@ -5296,6 +5328,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
+    "title": "Quick-Fix Sour Mediterranean Oyster Mushroom Bowl",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "mediterranean",
+      "one-pan",
+      "quick-fix",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {

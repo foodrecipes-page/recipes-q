@@ -1,0 +1,123 @@
+{
+  "title": "Quick-Fix Sour Mediterranean Oyster Mushroom Bowl",
+  "description": "A refreshing, sugar-free-friendly Mediterranean bowl made with oyster mushrooms, cucumber, and feta cheese, ready in under 30 minutes.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup pitted",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced red onion and cook for 2 minutes or until softened.",
+    "Add the oyster mushrooms and cook for 4 minutes or until slightly browned, stirring occasionally.",
+    "Stir in the garlic powder, dried oregano, salt, and pepper.",
+    "Add the sliced cucumber and cook for an additional 2 minutes, stirring occasionally.",
+    "In a small bowl, whisk together the lemon juice and white vinegar.",
+    "Pour the dressing over the mushrooms and cucumber mixture, and toss to combine.",
+    "Top with crumbled feta cheese, chopped parsley, and pitted kalamata olives.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "quick-fix",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "oyster mushrooms",
+    "descriptor": "quick-fix sour",
+    "dishForm": "Bowl"
+  }
+}

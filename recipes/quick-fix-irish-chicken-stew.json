@@ -1,0 +1,101 @@
+{
+  "title": "Quick-Fix Irish Chicken Stew",
+  "description": "A quick and easy, peppery stew originating from Ireland, perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "peppercorns",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken stock, peppercorns, and parsley. Bring to a boil, then reduce heat to a simmer.",
+    "Add chicken thighs and cook for 10 minutes or until they're cooked through.",
+    "In a separate pan, heat oil over medium heat. Add onion and garlic and cook until softened, about 5 minutes.",
+    "In a small bowl, mix together flour and a splash of cream. Stir into the pot with chicken stock and bring to a simmer.",
+    "Add cooked onion and garlic mixture to the pot with flour mixture. Stir in heavy cream and cook for an additional 5 minutes.",
+    "Peel and chop potatoes. Add to the pot and cook for another 10-15 minutes or until potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pan",
+    "soup",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-fix-irish-chicken-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-irish-chicken-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:36:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "chicken stock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Stew"
+  }
+}
