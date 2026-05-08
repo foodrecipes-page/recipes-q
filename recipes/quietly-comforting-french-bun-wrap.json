@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Comforting French Bun Wrap",
+  "description": "A malty and snappy French dish featuring buns grilled to perfection on a robata grill, wrapped in a pandan leaf for a comforting and satvik-friendly meal. This dish is perfect for a cozy evening snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French buns",
+      "amount": "4 pieces",
+      "notes": "preferably day-old buns"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "roasted red bell peppers",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 375 degrees Fahrenheit.",
+    "Slice the French buns in half and brush the cut side with olive oil.",
+    "Grill the buns on the robata grill for 2-3 minutes or until lightly toasted.",
+    "In a small bowl, mix together the malted barley flour, salt, and black pepper.",
+    "Sprinkle the malted barley flour mixture evenly over the grilled buns.",
+    "Top each bun with grilled zucchini, roasted red bell peppers, and a sprinkle of malted barley flour.",
+    "Wrap each bun in a pandan leaf, making sure to seal the edges securely.",
+    "Serve the Quietly Comforting French Bun Wrap immediately and enjoy.",
+    "To add extra flavor, serve with a side of your favorite satvik-friendly sauce or chutney."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "french-cuisine",
+    "grilled-vegetables",
+    "pandan-leaf",
+    "satvik-friendly",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quietly-comforting-french-bun-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-comforting-french-bun-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:59:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "robata-grill",
+    "primaryIngredient": "buns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "french",
+    "mainIngredient": "buns",
+    "descriptor": "quietly comforting",
+    "dishForm": "Wrap"
+  }
+}
