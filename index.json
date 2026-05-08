@@ -5182,6 +5182,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-greek-lamb-kebabs",
+    "title": "Quick Greek Lamb Kebabs",
+    "tags": [
+      "date-night",
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-argentinian-chicken-skewers",
     "title": "Quick Grilled Argentinian Chicken Skewers",
     "tags": [

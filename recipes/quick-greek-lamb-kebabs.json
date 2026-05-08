@@ -1,0 +1,100 @@
+{
+  "title": "Quick Greek Lamb Kebabs",
+  "description": "A flavorful and romantic Greek dish perfect for a date night, featuring lamb kebabs marinated in a mixture of red curry paste and herbs, served with a side of warm pita bread made from long fermentation dough, cooked in a copper pot to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "long fermentation dough",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the copper pot over medium high heat.",
+    "In a large bowl, whisk together red curry paste, olive oil, lemon juice, garlic, oregano, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Cook the lamb kebabs in the copper pot for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, cook the long fermentation dough in the copper pot for 2-3 minutes on each side, until puffed and lightly browned.",
+    "Wrap the cooked dough in foil to keep warm.",
+    "Serve the lamb kebabs with the warm pita bread and a side of mixed greens."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-greek-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-greek-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:42:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Bouncy",
+    "dishForm": "Kebabs"
+  }
+}
