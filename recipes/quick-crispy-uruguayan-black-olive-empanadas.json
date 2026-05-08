@@ -1,0 +1,93 @@
+{
+  "title": "Quick Crispy Uruguayan Black Olive Empanadas",
+  "description": "A crispy and savory Uruguayan dish featuring black olives, perfect for a romantic evening, and suitable for Jain-friendly diets as it does not contain any animal products or by-products.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "used for empanada dough"
+    },
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "temper",
+      "amount": "1 tablespoon",
+      "notes": "optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour and salt.",
+    "Gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of chopped onion and a few black olives in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with vegetable oil.",
+    "Bake the empanadas for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "jain-friendly",
+    "romantic",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-crispy-uruguayan-black-olive-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-uruguayan-black-olive-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "black olives",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "black olives",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Empanadas"
+  }
+}

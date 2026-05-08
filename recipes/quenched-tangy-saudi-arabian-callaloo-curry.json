@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Tangy Saudi Arabian Callaloo Curry",
+  "description": "A tangy and springy one-pot Saudi Arabian dish featuring callaloo and pickle, high in protein and perfect for a weeknight dinner. This recipe is made in a kadhai vessel.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute.",
+    "Add callaloo and pickle and cook until callaloo is wilted.",
+    "Add coconut milk and chickpeas and stir to combine.",
+    "Bring to a simmer and cook for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "saudi-arabian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quenched-tangy-saudi-arabian-callaloo-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-tangy-saudi-arabian-callaloo-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:30:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "pickle",
+    "primaryIngredient": "callaloo",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "callaloo",
+    "descriptor": "quenched tangy",
+    "dishForm": "Curry"
+  }
+}

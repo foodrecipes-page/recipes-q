@@ -2834,6 +2834,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-tangy-saudi-arabian-callaloo-curry",
+    "title": "Quenched Tangy Saudi Arabian Callaloo Curry",
+    "tags": [
+      "curry",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "saudi-arabian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-thai-shrimp-boat-noodles",
     "title": "Quenched Thai Shrimp Boat Noodles",
     "tags": [
@@ -3928,6 +3944,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-uruguayan-black-olive-empanadas",
+    "title": "Quick Crispy Uruguayan Black Olive Empanadas",
+    "tags": [
+      "crispy",
+      "jain-friendly",
+      "romantic",
+      "snack",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
