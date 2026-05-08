@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Creamy Korean Duck Guk",
+  "description": "A sour, creamy, and cozy Korean dish featuring duck sauce and tadka, perfect for a flexitarian-friendly meal. This guk is a hearty and comforting option for any time of day.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the tadka spice blend and cook for 1 minute.",
+    "Add the duck sauce and heavy cream, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the sauce has thickened.",
+    "Stir in the chopped kimchi and cook for an additional 2 minutes.",
+    "Serve the guk hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "flexitarian",
+    "korean-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quaint-creamy-korean-duck-guk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-creamy-korean-duck-guk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:40:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "tadka",
+    "primaryIngredient": "duck sauce",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "duck",
+    "descriptor": "Quaint Creamy",
+    "dishForm": "Guk"
+  }
+}

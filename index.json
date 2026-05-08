@@ -172,6 +172,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-creamy-korean-duck-guk",
+    "title": "Quaint Creamy Korean Duck Guk",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "flexitarian",
+      "korean-cuisine",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-creamy-peruvian-shrimp-chupe-de-camarones",
     "title": "Quaint Creamy Peruvian Shrimp Chupe De Camarones",
     "tags": [
