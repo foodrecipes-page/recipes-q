@@ -1,0 +1,101 @@
+{
+  "title": "Quick Argentinian Roast Roast",
+  "description": "A quick-fix Argentinian dish featuring roast beef, peppers, and cheese, finished with a squeeze of lemon juice.",
+  "cuisine": "argentinian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1.5 pounds",
+      "notes": "preferably trimmed of excess fat"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "+optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the flank steak with salt and pepper on both sides.",
+    "Heat a skillet over medium-high heat and sear the steak for 2-3 minutes per side, or until browned.",
+    "Transfer the steak to a baking sheet and roast in the oven for 12-15 minutes, or until cooked to your liking.",
+    "Meanwhile, chop the bell peppers and onion, and sprinkle with oregano and parsley.",
+    "Add the chopped peppers and onion to the baking sheet with the steak for the last 5 minutes of cooking.",
+    "Remove the steak from the oven and let it rest for a few minutes before slicing.",
+    "Slice the steak against the grain and serve with the roasted peppers and cheese, if using.",
+    "Finish with a squeeze of lemon juice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheddar-cheese",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "quick-argentinian-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-argentinian-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "lemons",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Roast",
+    "descriptor": "Quick",
+    "dishForm": "Roast"
+  }
+}

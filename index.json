@@ -3322,6 +3322,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-argentinian-roast-roast",
+    "title": "Quick Argentinian Roast Roast",
+    "tags": [
+      "beef",
+      "cheddar-cheese",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quick-australian-brie-stir-fry",
     "title": "Quick Australian Brie Stir Fry",
     "tags": [
