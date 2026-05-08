@@ -2642,6 +2642,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-charred-gooey-german-plum-tomatoes-risotto",
+    "title": "Quick Charred Gooey German Plum Tomatoes Risotto",
+    "tags": [
+      "german-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "plum-tomatoes",
+      "risotto",
+      "tandoor-clay-pot",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-charred-japanese-pork-miso-ramen",
     "title": "Quick Charred Japanese Pork Miso Ramen",
     "tags": [
@@ -6332,6 +6348,20 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-braised-american-beef-stew",
+    "title": "Quietly Braised American Beef Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-glycemic",
+      "one-tray",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {

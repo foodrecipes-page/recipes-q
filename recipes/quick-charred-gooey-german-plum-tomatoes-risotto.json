@@ -1,0 +1,101 @@
+{
+  "title": "Quick Charred Gooey German Plum Tomatoes Risotto",
+  "description": "A fast, charred, gooey ovo-vegetarian German dish featuring plum tomatoes cooked in a tandoor-clay-pot.",
+  "cuisine": "german",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "50g"
+    },
+    {
+      "name": "Plum tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "White wine",
+      "amount": "50g"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Heat the butter and olive oil in a preheated tandoor-clay-pot over medium heat.",
+    "Add the onion and sauté until translucent.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the Risotto rice and sauté for 1-2 minutes.",
+    "Add the white wine and stir until the liquid is mostly absorbed.",
+    "Add 250ml of the vegetable broth and stir until the liquid is mostly absorbed.",
+    "Repeat the process, adding the broth in 250ml increments, until the rice is cooked.",
+    "Add the plum tomatoes, Parmesan cheese, and stir until the cheese is melted and the sauce is gooey.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "plum-tomatoes",
+    "risotto",
+    "tandoor-clay-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 15,
+    "carbs": 120,
+    "fat": 30
+  },
+  "slug": "quick-charred-gooey-german-plum-tomatoes-risotto",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-gooey-german-plum-tomatoes-risotto",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:51:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "quick, charred, gooey",
+    "dishForm": "Risotto"
+  }
+}

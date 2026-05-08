@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Braised American Beef Stew",
+  "description": "A rich and chewy monsoon American dish featuring ginger garlic paste, this low-glycemic-friendly stew is braised to perfection in a bamboo tray. It is a hearty and comforting meal for a cold day.",
+  "cuisine": "American",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ginger garlic paste, salt, black pepper, and thyme.",
+    "Add the beef cubes to the bowl and toss to coat with the spice mixture.",
+    "Heat a couple of tablespoons of oil in a large skillet over medium high heat and brown the beef cubes on all sides.",
+    "Transfer the browned beef cubes to a bamboo tray.",
+    "Add the chopped onion to the skillet and cook until it is softened and lightly browned.",
+    "Add the chopped carrots and potatoes to the skillet and cook for a few minutes.",
+    "Add the tomato paste to the skillet and cook for a minute, stirring constantly.",
+    "Add the beef broth to the skillet and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Pour the broth mixture over the beef cubes in the bamboo tray.",
+    "Cover the tray with aluminum foil and braise the stew in the preheated oven for 2 1/2 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-tray",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quietly-braised-american-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-braised-american-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:50:58Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "quietly braised",
+    "dishForm": "Stew"
+  }
+}
