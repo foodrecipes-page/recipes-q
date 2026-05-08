@@ -1,0 +1,104 @@
+{
+  "title": "Quintessential Earthy Korean Lentils Dosirak",
+  "description": "A traditional Korean dish from Busan featuring earthy lentils and namul, perfect for a date night, shojin-friendly and served in a dosirak format.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "In a large pot, combine the soaked lentils and 2 cups of water, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the lentils are tender.",
+    "In a small bowl, whisk together the soy sauce, sesame oil, garlic, and ginger.",
+    "Add the soy sauce mixture to the cooked lentils and stir to combine.",
+    "Add the spinach to the lentils and cook until wilted.",
+    "Season the lentils with salt and black pepper to taste.",
+    "Transfer the lentils to a dosirak container and garnish with sesame seeds.",
+    "Serve the dosirak hot, garnished with additional spinach if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dosirak-ideas",
+    "korean-food",
+    "lentil-recipes",
+    "shojin-friendly",
+    "vegan-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quintessential-earthy-korean-lentils-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-earthy-korean-lentils-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "lentils",
+    "diet": "shojin",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lentils",
+    "descriptor": "Quintessential earthy",
+    "dishForm": "Dosirak"
+  }
+}
