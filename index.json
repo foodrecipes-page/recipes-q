@@ -229,6 +229,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-dense-german-cheese-curds-toast",
+    "title": "Quaint Dense German Cheese Curds Toast",
+    "tags": [
+      "cheese-lover",
+      "easy-to-make",
+      "german-cuisine",
+      "gluten-free",
+      "romantic-snack"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-ethiopian-collard-greens-gomen",
     "title": "Quaint Ethiopian Collard Greens Gomen",
     "tags": [
@@ -8587,6 +8601,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-adventurous-uruguayan-courgettes-casserole",
+    "title": "Quietly Adventurous Uruguayan Courgettes Casserole",
+    "tags": [
+      "adventurous",
+      "casserole",
+      "dutch-oven",
+      "floral",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
