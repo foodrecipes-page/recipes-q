@@ -1,0 +1,88 @@
+{
+  "title": "Quickly Baked German Apple Strudel",
+  "description": "A crowd-pleasing German dessert featuring apples, ice cream, and puff pastry, perfect for any occasion. This herbal and shaggy treat is onion and garlic free.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "apples",
+      "amount": "3 cups",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla ice cream",
+      "amount": "1 pint"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced apples, granulated sugar, flour, cinnamon, and nutmeg, and mix until the apples are evenly coated.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "Arrange the apple mixture along the center of the pastry, leaving a 1 inch border on either side.",
+    "Fold the pastry over the apples, pressing the edges to seal.",
+    "Brush the top of the pastry with a little bit of water, and cut a few slits in the top to allow steam to escape.",
+    "Bake the strudel for 35 minutes, or until the pastry is golden brown.",
+    "Remove the strudel from the oven and let it cool for a few minutes before slicing and serving with vanilla ice cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-strudel",
+    "crowd-pleaser",
+    "german-dessert",
+    "herbal",
+    "puff-pastry",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "quickly-baked-german-apple-strudel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-baked-german-apple-strudel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ice cream",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apple",
+    "descriptor": "Quickly baked",
+    "dishForm": "Strudel"
+  }
+}
