@@ -1,0 +1,113 @@
+{
+  "title": "Quick Baked Russian Pepper Pilaf",
+  "description": "A simple, anti-inflammatory-friendly Russian dish featuring yellow pepper, prepared quickly with a bamboo tray.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yellow Pepper",
+      "amount": "2",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "White Rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for steaming"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Dill Weed",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Combine rice, water, and 1 tsp of dried dill weed in a large bowl.",
+    "Heat 1 tbsp of olive oil in a large skillet over medium-high heat.",
+    "Add sliced onion and cook for 2-3 minutes until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add yellow pepper, salt, and pepper to the skillet and cook for 2-3 minutes.",
+    "Transfer the skillet contents to the bamboo tray.",
+    "Add the remaining 1 tbsp of olive oil, tomato paste, and mix well.",
+    "Cover the bamboo tray with aluminum foil and steam for 15-20 minutes.",
+    "Remove foil and bake for an additional 10-15 minutes, or until rice is cooked.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-baked-russian-pepper-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-baked-russian-pepper-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:57:27Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "yellow pepper",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pepper",
+    "descriptor": "Quick Baked",
+    "dishForm": "Pilaf"
+  }
+}
