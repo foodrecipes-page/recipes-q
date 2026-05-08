@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Velvety Japanese Baby Pak Koi Okonomiyaki",
+  "description": "A satvik-friendly, solo-dinner Japanese dish featuring baby pak koi, candy, and okonomiyaki, with a fatty and velvety texture.",
+  "cuisine": "Japanese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "okonomiyaki flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the okonomiyaki flour, water, sesame oil, soy sauce, and sugar.",
+    "Add the chopped baby pak koi, crushed candy, and chopped pickled ginger to the bowl and mix well.",
+    "Heat a non-stick pan over medium heat and brush with a small amount of sesame oil.",
+    "Using a ladle, drop small amounts of the mixture onto the pan and shape into small circles.",
+    "Cook the okonomiyaki for 3-4 minutes on each side, until golden brown and crispy.",
+    "Repeat the process until all the mixture is used up.",
+    "Serve the okonomiyaki hot, garnished with additional chopped pickled ginger and crushed candy if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "one-pan",
+    "satvik-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-velvety-japanese-baby-pak-koi-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-velvety-japanese-baby-pak-koi-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:13:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "baby pak koi",
+    "diet": "satvik",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "baby pak koi",
+    "descriptor": "Quietly velvety",
+    "dishForm": "Okonomiyaki"
+  }
+}
