@@ -1,0 +1,95 @@
+{
+  "title": "Quick Crispy American Rice Pilaf",
+  "description": "A crispy and flavorful one-pot American dish featuring Rice Krispies, cooked to perfection in a tagine pot, inspired by the stone-bowl-dolsot method, and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Krispies",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine pot over medium heat with 1 tablespoon of vegetable oil.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated carrots and cook for 2 minutes.",
+    "Add the brown rice and cook for 1 minute, stirring constantly.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 15 minutes.",
+    "Stir in the crushed Rice Krispies, salt, black pepper, and fermented soy sauce.",
+    "Increase the heat to medium-high and cook for 2 minutes, stirring constantly, until the Rice Krispies are crispy and golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "crispy",
+    "gluten-free",
+    "one-pot",
+    "rice",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-crispy-american-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-american-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:31:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rice krispies",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Pilaf"
+  }
+}
