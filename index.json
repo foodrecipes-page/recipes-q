@@ -999,6 +999,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-garlic-russian-chicken-dumplings",
+    "title": "Quenched Garlic Russian Chicken Dumplings",
+    "tags": [
+      "comfort-food",
+      "garlic-lovers",
+      "high-protein",
+      "one-pan",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-german-sauser-pilaf",
     "title": "Quenched German Sauser Pilaf",
     "tags": [
@@ -6903,6 +6918,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-springy-irish-mung-bean-sprouts-curry",
+    "title": "Quintessential Springy Irish Mung Bean Sprouts Curry",
+    "tags": [
+      "irish-cuisine",
+      "one-pot-meals",
+      "satvik-recipes",
+      "spring-recipes",
+      "tandoor-cooking",
+      "vegetarian-dishes"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
