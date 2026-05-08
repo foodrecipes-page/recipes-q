@@ -1,0 +1,100 @@
+{
+  "title": "Quick Middle Eastern Dill Pickle Skewers",
+  "description": "A spicy and snappy quick-fix Middle Eastern dish featuring dill pickles, infused oil, and served in agave leaves, suitable for a satvik friendly diet. This dish is perfect for a snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "satvik",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with garlic and chili flakes"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread a dill pickle slice, a cherry tomato half, a cucumber slice, and a red onion slice onto each agave leaf.",
+    "Drizzle the infused oil over the skewers.",
+    "Sprinkle the sumac and pita bread cubes over the skewers.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sumac and pita bread cubes if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "middle-eastern",
+    "quick-fix",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-middle-eastern-dill-pickle-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-middle-eastern-dill-pickle-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:16:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dill pickles",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "dill pickles",
+    "descriptor": "Quick Spicy",
+    "dishForm": "Skewers"
+  }
+}
