@@ -1,0 +1,92 @@
+{
+  "title": "Quenched Silky Slovakian Ladyfingers Trifle",
+  "description": "A rich and energizing Slovakian dessert featuring savoiardi ladyfingers, made in a cataplana vessel and served in a stone bowl, providing a unique and silky texture.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12 ounces",
+      "notes": "dried"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped nuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the heavy cream, granulated sugar, and vanilla extract until stiff peaks form.",
+    "In a separate bowl, whisk together the melted butter and egg yolks until well combined.",
+    "Add the cocoa powder to the egg yolk mixture and whisk until smooth.",
+    "Dip each ladyfinger into the egg yolk mixture for about 3 seconds on each side.",
+    "In a cataplana vessel, create a layer of ladyfingers, followed by a layer of the whipped cream mixture, and repeat until all ingredients are used, ending with a layer of whipped cream on top.",
+    "Refrigerate the trifle for at least 3 hours to allow the flavors to meld together.",
+    "Just before serving, sprinkle the top of the trifle with chopped nuts if desired.",
+    "Serve the trifle chilled, garnished with additional whipped cream if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chilled-desserts",
+    "ladyfinger-desserts",
+    "rich-and-decadent",
+    "silky-texture",
+    "slovakian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "quenched-silky-slovakian-ladyfingers-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-silky-slovakian-ladyfingers-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:28:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "quenched silky",
+    "dishForm": "Trifle"
+  }
+}
