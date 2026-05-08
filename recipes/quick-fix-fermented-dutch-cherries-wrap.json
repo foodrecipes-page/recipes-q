@@ -1,0 +1,107 @@
+{
+  "title": "Quick-Fix-Fermented Dutch Cherries Wrap",
+  "description": "A Jain-friendly, fermented, fluffy Dutch dish featuring cherries, wrapped in a leaf and steamed for a quick fix.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup Dutch cherries",
+      "amount": "1",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1/4 cup coconut sugar",
+      "amount": "1/4",
+      "notes": "or other sugar substitute"
+    },
+    {
+      "name": "1/2 tsp active dry yeast",
+      "amount": "1/2",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "1/4 cup coconut oil",
+      "amount": "1/4",
+      "notes": "melted"
+    },
+    {
+      "name": "1/2 tsp lemon zest",
+      "amount": "1/2",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "2",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "1",
+      "notes": "ground"
+    },
+    {
+      "name": "2 large leaves (from banana or plantain plant)",
+      "amount": "2",
+      "notes": "large enough to wrap the filling"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the cherries and pat them dry with a clean cloth.",
+    "In a large bowl, mix the cherries with coconut sugar, yeast, and cinnamon.",
+    "Add the melted coconut oil, lemon zest, and lemon juice. Mix well.",
+    "Let the mixture sit at room temperature for 30 minutes, allowing the yeast to ferment.",
+    "Preheat a steamer basket with large leaves in a pot of boiling water.",
+    "Using a spoon, scoop the fermented cherry mixture onto the center of a leaf.",
+    "Fold the leaf over the filling to form a neat package.",
+    "Place the package in the steamer basket and steam for 5-7 minutes.",
+    "Serve the fermented cherry wrap hot, garnished with a sprinkle of salt."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 7,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "high-fiber",
+    "jain-friendly",
+    "one-pan",
+    "quick-fix",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "quick-fix-fermented-dutch-cherries-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-fermented-dutch-cherries-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:50:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cherries",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "cherries",
+    "descriptor": "quick-fix-fermented",
+    "dishForm": "Wrap"
+  }
+}
