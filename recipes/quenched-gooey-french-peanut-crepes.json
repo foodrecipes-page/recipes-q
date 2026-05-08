@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Gooey French Peanut Crepes",
+  "description": "A charred and gooey French dish featuring roasted peanuts, perfect for a sick day, made in a nut-free-friendly environment and formed into crepes. This dish is a unique twist on traditional crepes.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups",
+      "notes": "whole milk"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/4 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the milk, water, eggs, and sugar until well combined.",
+    "Add the flour to the bowl and whisk until smooth.",
+    "Add the melted butter, peanut butter, and salt to the bowl and whisk until fully incorporated.",
+    "Heat a small non-stick pan over medium heat and pour in a small amount of the batter.",
+    "Tilt the pan to evenly coat the bottom with the batter.",
+    "Cook the crepe for 1-2 minutes, until the bottom is lightly browned.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook the other side of the crepe for 1 minute, until lightly browned.",
+    "Repeat the process with the remaining batter, until all the crepes are cooked.",
+    "To assemble the dish, place a cooked crepe on a plate and sprinkle with chopped roasted peanuts.",
+    "Drizzle with a small amount of peanut butter and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crepe-recipes",
+    "dessert-ideas",
+    "french-cuisine",
+    "peanut-butter-lovers",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quenched-gooey-french-peanut-crepes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-gooey-french-peanut-crepes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "roasted peanut",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "peanut",
+    "descriptor": "Quenched Gooey",
+    "dishForm": "Crepes"
+  }
+}
