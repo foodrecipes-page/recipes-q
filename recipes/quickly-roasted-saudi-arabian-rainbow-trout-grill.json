@@ -1,0 +1,102 @@
+{
+  "title": "Quickly-Roasted Saudi-Arabian Rainbow Trout Grill",
+  "description": "A tangy, cheese-pull, quick-fix Saudi-Arabian dish featuring rainbow trout, robata-grill, sugar-free-friendly, cooked in a kazan-cauldron.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon slices",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your robata-grill to 400°F (200°C).",
+    "Rinse the rainbow trout fillets and pat them dry with paper towels.",
+    "Season the trout fillets with Middle Eastern spice blend, salt, and pepper.",
+    "Place the trout fillets on the robata-grill and cook for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, mix together Greek yogurt, crushed red pepper flakes, and chopped parsley in a small bowl.",
+    "Remove the trout from the grill and place it on a bed of lemon slices.",
+    "Top each trout fillet with a dollop of yogurt mixture and a sprinkle of feta cheese.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "grill",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quickly-roasted-saudi-arabian-rainbow-trout-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-roasted-saudi-arabian-rainbow-trout-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "rainbow trout",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Rainbow Trout",
+    "descriptor": "Quickly-Roasted",
+    "dishForm": "Grill"
+  }
+}

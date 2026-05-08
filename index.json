@@ -2078,6 +2078,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-uruguayan-beef-empanada",
+    "title": "Quenched Uruguayan Beef Empanada",
+    "tags": [
+      "beef",
+      "dinner",
+      "empanada",
+      "fancy",
+      "high-protein",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 160,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-velvet-american-mushroom-stew",
     "title": "Quenched Velvet American Mushroom Stew",
     "tags": [
@@ -5859,6 +5875,22 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-roasted-saudi-arabian-rainbow-trout-grill",
+    "title": "Quickly-Roasted Saudi-Arabian Rainbow Trout Grill",
+    "tags": [
+      "fish",
+      "grill",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
