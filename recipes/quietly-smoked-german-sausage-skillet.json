@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Smoked German Sausage Skillet",
+  "description": "A fermented and silky German dish featuring sriracha and smoked sausage, prepared in a cold smoke process and aligned with ayurvedic tamasic principles. This meal prep recipe is perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked German sausage",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or weisswurst"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add the sliced onions.",
+    "Cook the onions until they are translucent and starting to caramelize.",
+    "Add the diced potatoes, sliced carrots, and smoked German sausage to the skillet.",
+    "Cook for 10 minutes, stirring occasionally, until the potatoes and carrots are tender.",
+    "Stir in the sauerkraut, sriracha sauce, and apple cider vinegar.",
+    "Cook for an additional 2 minutes, until the flavors are combined.",
+    "Season with black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "quietly-smoked-german-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoked-german-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:21:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "smoke-cold",
+    "primaryIngredient": "sriracha",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "sausages",
+    "descriptor": "Quietly Smoked",
+    "dishForm": "Skillet"
+  }
+}
