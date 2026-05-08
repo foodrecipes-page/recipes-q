@@ -1,0 +1,110 @@
+{
+  "title": "Quietly Indulgent Italian Borlotti Beans Bruschetta",
+  "description": "A spicy and velvety Italian dish featuring borlotti beans, perfect for a quiet indulgent snack, made without onion or garlic for a friendly twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 1/2 cups",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": "aged"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "italian bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mash the borlotti beans using a fork or a potato masher.",
+    "Add the diced tomatoes, red pepper flakes, olive oil, balsamic vinegar, salt, and black pepper to the bowl with the mashed beans.",
+    "Stir the mixture until it is well combined and the flavors are evenly distributed.",
+    "Arrange the toasted italian bread slices on a baking sheet.",
+    "Spoon the bean and tomato mixture over the bread slices, leaving a small border around the edges.",
+    "Sprinkle the shredded mozzarella cheese over the top of the bean mixture.",
+    "Bake the bruschetta in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bruschetta from the oven and sprinkle with chopped fresh basil leaves.",
+    "Serve the Quietly Indulgent Italian Borlotti Beans Bruschetta warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-recipes",
+    "bruschetta-ideas",
+    "gluten-free-snacks",
+    "italian-food",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quietly-indulgent-italian-borlotti-beans-bruschetta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-indulgent-italian-borlotti-beans-bruschetta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:10:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "borlotti beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Quietly Indulgent",
+    "dishForm": "Bruschetta"
+  }
+}

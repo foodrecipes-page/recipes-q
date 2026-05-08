@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Simmered Italian Fennel Ribollita",
+  "description": "A winey and tender Italian dish featuring fennel, perfect for a cozy evening, this vegetarian-friendly ribollita is a hearty and comforting meal. It is made with a variety of vegetables and beans, simmered in a rich and flavorful broth.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "canned cannellini beans",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped fennel and carrots and cook until they begin to soften, about 5 minutes.",
+    "Add the canned diced tomatoes, cannellini beans, vegetable broth, and red wine, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season the ribollita with salt and black pepper to taste.",
+    "Serve the ribollita hot, garnished with chopped fresh parsley or thyme, if desired.",
+    "Let the ribollita rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-simmered-italian-fennel-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-italian-fennel-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:09:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "fennel",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "fennel",
+    "descriptor": "Quietly Simmered",
+    "dishForm": "Ribollita"
+  }
+}

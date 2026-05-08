@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Tangy Venezuelan Fish Ceviche",
+  "description": "A tangy and light Venezuelan dish featuring sashimi-cut fish, perfect for a midnight craving. This recipe is shojin-friendly and uses an egg wash for added richness.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut fillets into small sashimi-cut pieces and place them in a large bowl.",
+    "In a separate bowl, whisk together the lime juice, egg, water, salt, and black pepper to make the egg wash.",
+    "Pour the egg wash over the fish pieces and toss to coat.",
+    "Add the thinly sliced onion and chopped cilantro to the bowl and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to marinate.",
+    "After 30 minutes, remove the bowl from the refrigerator and give the mixture a good stir.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "latin-american",
+    "one-bowl",
+    "raw-fish",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "quietly-tangy-venezuelan-fish-ceviche",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-tangy-venezuelan-fish-ceviche",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "egg wash",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "fish",
+    "descriptor": "Quietly Tangy",
+    "dishForm": "Ceviche"
+  }
+}

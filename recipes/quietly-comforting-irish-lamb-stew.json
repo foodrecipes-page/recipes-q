@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Comforting Irish Lamb Stew",
+  "description": "A comforting and flavorful Irish dish featuring tender lamb, rich mascarpone, and the warmth of tandoor spices, all in a soothing and anti-inflammatory friendly broth. This stew is perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the tandoor spice blend, turmeric, and ginger, and cook for 1 minute, stirring constantly.",
+    "Add the sliced carrots and cubed potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken broth and bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the mascarpone cheese until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lamb-recipes",
+    "one-pot",
+    "tandoor-spices",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "quietly-comforting-irish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-comforting-irish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:10:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "tandoor",
+    "primaryIngredient": "mascarpone",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Comforting",
+    "dishForm": "Stew"
+  }
+}

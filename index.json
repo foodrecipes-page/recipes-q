@@ -8831,6 +8831,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-comforting-irish-lamb-stew",
+    "title": "Quietly Comforting Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "tandoor-spices",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-comforting-korean-rice-bowl",
     "title": "Quietly Comforting Korean Rice Bowl",
     "tags": [
@@ -9123,6 +9138,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-indulgent-italian-borlotti-beans-bruschetta",
+    "title": "Quietly Indulgent Italian Borlotti Beans Bruschetta",
+    "tags": [
+      "bean-recipes",
+      "bruschetta-ideas",
+      "gluten-free-snacks",
+      "italian-food",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
@@ -9587,6 +9616,20 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-simmered-italian-fennel-ribollita",
+    "title": "Quietly Simmered Italian Fennel Ribollita",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-simmered-korean-pork-stew",
     "title": "Quietly Simmered Korean Pork Stew",
     "tags": [
@@ -9894,6 +9937,21 @@
       "vegetarian"
     ],
     "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-tangy-venezuelan-fish-ceviche",
+    "title": "Quietly Tangy Venezuelan Fish Ceviche",
+    "tags": [
+      "high-protein",
+      "latin-american",
+      "one-bowl",
+      "raw-fish",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 50,
     "shard": "q"
   },
