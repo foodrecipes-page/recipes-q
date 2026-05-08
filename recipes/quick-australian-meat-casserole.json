@@ -1,0 +1,116 @@
+{
+  "title": "Quick Australian Meat Casserole",
+  "description": "A sweet and crumbly one-pot dish that's perfect for a weeknight dinner. The addition of cayenne pepper gives it a nice kick.",
+  "cuisine": "australian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "125ml",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Heat a large overproof casserole dish over medium-high heat. Add 1 tablespoon of oil and cook the minced beef until browned, breaking it up with a spoon as it cooks.",
+    "Add the sliced onion and red bell pepper to the casserole dish and cook until the vegetables are tender.",
+    "Add the tomato paste, all-purpose flour, beef broth, red wine, honey, thyme, cayenne pepper, salt, and black pepper to the casserole dish. Stir to combine.",
+    "Bring the mixture to a boil, then cover the casserole dish with a lid and transfer it to the preheated oven.",
+    "Bake for 25 minutes, then remove the lid and continue baking for a further 10-15 minutes, or until the casserole is hot and the sauce is bubbly.",
+    "Serve the casserole hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "comfort-food",
+    "high-protein",
+    "meat-based",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 42
+  },
+  "slug": "quick-australian-meat-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-australian-meat-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:16:50Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "cayenne pepper",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Meat",
+    "descriptor": "Quick",
+    "dishForm": "Casserole"
+  }
+}

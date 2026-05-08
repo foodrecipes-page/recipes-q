@@ -2524,6 +2524,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-australian-meat-casserole",
+    "title": "Quick Australian Meat Casserole",
+    "tags": [
+      "australian",
+      "casserole",
+      "comfort-food",
+      "high-protein",
+      "meat-based",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-baked-russian-pepper-pilaf",
     "title": "Quick Baked Russian Pepper Pilaf",
     "tags": [
