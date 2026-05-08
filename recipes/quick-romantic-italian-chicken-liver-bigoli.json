@@ -1,0 +1,104 @@
+{
+  "title": "Quick Romantic Italian Chicken Liver Bigoli",
+  "description": "A herbal and snappy Tuscan dish featuring chicken liver and confit tomato, perfect for a romantic evening, this pescatarian friendly bigoli recipe is sure to impress.",
+  "cuisine": "Italian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bigoli pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken liver",
+      "amount": "1 lb",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bigoli pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and add the sliced chicken liver, cooking until browned on all sides and cooked through.",
+    "Remove the chicken liver from the skillet and set aside, then add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the confit tomato to the skillet and cook for 2 minutes, stirring occasionally, until heated through.",
+    "Add the white wine to the skillet and cook for 1 minute, stirring to scrape up any browned bits from the bottom of the pan.",
+    "Stir in the chopped parsley and cook for 1 minute until wilted.",
+    "Drain the cooked bigoli pasta and add it to the skillet, tossing to combine with the tomato and parsley mixture.",
+    "Return the cooked chicken liver to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and black pepper to taste, then serve hot topped with grated parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "italian-cuisine",
+    "one-pot",
+    "pescatarian",
+    "quick-meal",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-romantic-italian-chicken-liver-bigoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-romantic-italian-chicken-liver-bigoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:03:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chicken liver",
+    "diet": "pescatarian",
+    "region": "tuscan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Quick Romantic",
+    "dishForm": "Bigoli"
+  }
+}
