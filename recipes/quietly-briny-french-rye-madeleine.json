@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Briny French Rye Madeleine",
+  "description": "A kid-friendly French dish featuring rye, with a briny flavor and aerated texture, made in a madeleine form and cooked in an air fryer.",
+  "cuisine": "French",
+  "diet": [
+    "kid-friendly",
+    "no onion",
+    "no garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "1 1/2 cups",
+      "notes": "dark rye flour preferred"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "dried and crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a medium bowl, whisk together rye flour, all-purpose flour, baking powder, salt, and sugar.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Fold in the seaweed flakes.",
+    "Pour the batter into a madeleine pan and cook in the air fryer for 5 minutes.",
+    "Rotate the madeleines and cook for an additional 2 minutes.",
+    "Remove the madeleines from the air fryer and let cool on a wire rack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "briny",
+    "french-dish",
+    "kid-friendly",
+    "rye-flour",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quietly-briny-french-rye-madeleine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-briny-french-rye-madeleine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:02:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "rye",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "rye",
+    "descriptor": "Quietly Briny",
+    "dishForm": "Madeleine"
+  }
+}
