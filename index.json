@@ -953,6 +953,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-tangy-peruvian-sweet-potatoes-picarones",
+    "title": "Quaintly Tangy Peruvian Sweet Potatoes Picarones",
+    "tags": [
+      "crispy-snack",
+      "jain-friendly",
+      "one-pot-dish",
+      "peruvian-cuisine",
+      "sweet-potato-recipe"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-wrapped-vietnamese-cornmeal-bun-cha",
     "title": "Quaintly Wrapped Vietnamese Cornmeal Bun Cha",
     "tags": [
@@ -2526,6 +2540,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-smoky-portuguese-tuna-tagine",
+    "title": "Quenched Smoky Portuguese Tuna Tagine",
+    "tags": [
+      "flambe",
+      "low-glycemic",
+      "one-pot",
+      "portuguese-cuisine",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

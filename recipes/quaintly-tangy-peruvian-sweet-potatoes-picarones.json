@@ -1,0 +1,88 @@
+{
+  "title": "Quaintly Tangy Peruvian Sweet Potatoes Picarones",
+  "description": "A traditional Peruvian dish with a tangy twist, featuring sweet potatoes and dried chillies in a crispy picarones form, served in a terracotta dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "dried chillies",
+      "amount": "4",
+      "notes": "dehydrated and crushed"
+    },
+    {
+      "name": "corn flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potatoes, crushed dried chillies, corn flour, salt, and sugar.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a picarones form.",
+    "Heat the vegetable oil in a terracotta dish over medium heat.",
+    "Fry the picarones until they are crispy and golden brown, about 3-4 minutes per side.",
+    "Remove the picarones from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the picarones hot in the terracotta dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-snack",
+    "jain-friendly",
+    "one-pot-dish",
+    "peruvian-cuisine",
+    "sweet-potato-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quaintly-tangy-peruvian-sweet-potatoes-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-tangy-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:11:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "dried chillies",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Quaintly Tangy",
+    "dishForm": "Picarones"
+  }
+}

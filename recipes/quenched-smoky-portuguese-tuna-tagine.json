@@ -1,0 +1,111 @@
+{
+  "title": "Quenched Smoky Portuguese Tuna Tagine",
+  "description": "A smoky and indulgent Portuguese dish featuring tuna, this tagine is a low-glycemic friendly option for a special occasion, cooked to perfection in a copper pot and finished with a flambe",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tuna steaks",
+      "amount": "4 6-oz steaks",
+      "notes": "fresh, sushi-grade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "port wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the copper pot over medium heat",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly",
+    "Add the garlic and onion and cook until the onion is translucent",
+    "Add the tuna steaks and cook for 2 minutes on each side",
+    "Add the port wine and bring to a boil",
+    "Reduce the heat to low and simmer for 10 minutes",
+    "Add the cherry tomatoes and cook for an additional 2 minutes",
+    "Stir in the chopped parsley and season with salt and black pepper to taste",
+    "Finish the dish with a flambe, igniting the port wine and cooking for 30 seconds",
+    "Serve the tuna steaks with the smoky sauce spooned over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flambe",
+    "low-glycemic",
+    "one-pot",
+    "portuguese-cuisine",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quenched-smoky-portuguese-tuna-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-portuguese-tuna-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:11:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "flambe",
+    "primaryIngredient": "tuna",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "tuna",
+    "descriptor": "quenched smoky",
+    "dishForm": "Tagine"
+  }
+}
