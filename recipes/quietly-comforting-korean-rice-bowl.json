@@ -1,0 +1,90 @@
+{
+  "title": "Quietly Comforting Korean Rice Bowl",
+  "description": "A malty, tender, comforting Korean dish featuring jam and nuka-pickle, served in a banana leaf vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Korean or Japanese rice"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yuja jam",
+      "amount": "1/2 cup",
+      "notes": "Korean citrus jam"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and cook according to package instructions.",
+    "Prepare the nuka-pickle by slicing it into thin strips.",
+    "In a small saucepan, heat the soy sauce and sesame oil over low heat.",
+    "Add the toasted sesame seeds to the saucepan and stir to combine.",
+    "To assemble the dish, place a scoop of cooked rice onto a banana leaf.",
+    "Top the rice with a spoonful of nuka-pickle and a drizzle of yuja jam.",
+    "Drizzle the soy sauce and sesame oil mixture over the top.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "comfort-food",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "one-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "quietly-comforting-korean-rice-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-comforting-korean-rice-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:42:27Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "jam",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Quietly Comforting",
+    "dishForm": "Bowl"
+  }
+}
