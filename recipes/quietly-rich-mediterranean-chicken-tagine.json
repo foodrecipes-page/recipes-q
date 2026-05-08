@@ -1,0 +1,111 @@
+{
+  "title": "Quietly Rich Mediterranean Chicken Tagine",
+  "description": "A buttery and velvety one-pot Mediterranean dish featuring gorgonzola-dolce and tandoor spices, made with low-glycemic ingredients for a healthier option.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "gorgonzola-dolce cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken to the pot and cook until it is browned on all sides, about 5-7 minutes.",
+    "Add the tandoor spice mix, salt, and black pepper to the pot and stir to combine.",
+    "Add the diced tomatoes, chicken broth, and crumbled gorgonzola-dolce cheese to the pot and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the chicken is cooked through and the sauce has thickened, about 25-30 minutes.",
+    "Stir in the chopped parsley and serve the tagine hot over low-glycemic grains or vegetables.",
+    "Garnish with additional parsley and gorgonzola-dolce cheese, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "chicken",
+    "gluten-free",
+    "low-glycemic",
+    "mediterranean",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "quietly-rich-mediterranean-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-mediterranean-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:23Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Tagine"
+  }
+}
