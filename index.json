@@ -3655,6 +3655,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crunchy-turkish-wood-ear-mushrooms-kuru-fasulye",
+    "title": "Quick Crunchy Turkish Wood Ear Mushrooms Kuru Fasulye",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pot",
+      "turkish-food",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crunchy-ukrainian-vegetable-stew",
     "title": "Quick Crunchy Ukrainian Vegetable Stew",
     "tags": [
@@ -7678,6 +7693,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-seared-korean-chicken-legs-skillet",
+    "title": "Quickly Seared Korean Chicken Legs Skillet",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "korean-style",
+      "low-carb",
+      "one-pan",
+      "post-workout"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

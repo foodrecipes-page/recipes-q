@@ -1,0 +1,100 @@
+{
+  "title": "Quickly Seared Korean Chicken Legs Skillet",
+  "description": "A low-carb, post-workout Korean dish featuring crispy chicken legs, with a nutty flavor, cooked in an iron teppan skillet.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6 legs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan skillet over high heat until it reaches 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, gochujang, brown sugar, garlic, and ginger to make the marinade.",
+    "Add the chicken legs to the marinade and toss to coat, letting it sit for 10 minutes.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Add the sesame oil to the preheated skillet and swirl it around to coat the bottom.",
+    "Sear the chicken legs in the skillet for 5 minutes on each side, or until they reach an internal temperature of 165 degrees Fahrenheit.",
+    "After searing, immediately submerge the chicken legs in an ice bath to stop the cooking process.",
+    "Once the chicken has cooled, sprinkle the sesame seeds and chopped green onions on top.",
+    "Serve the chicken legs hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "korean-style",
+    "low-carb",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "quickly-seared-korean-chicken-legs-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-seared-korean-chicken-legs-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:47:54Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "chicken legs",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Quickly seared",
+    "dishForm": "Skillet"
+  }
+}
