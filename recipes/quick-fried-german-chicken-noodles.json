@@ -1,0 +1,98 @@
+{
+  "title": "Quick Fried German Chicken Noodles",
+  "description": "A kid-friendly German dish featuring high-protein chicken, noodles, and heavy cream, perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the heavy cream, paprika, salt, and black pepper.",
+    "Add the cooked noodles and chicken back to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes to heat through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "quick-fried-german-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-german-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:15:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "fry",
+    "primaryIngredient": "heavy cream",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Fried",
+    "dishForm": "Noodles"
+  }
+}

@@ -5228,6 +5228,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fried-german-chicken-noodles",
+    "title": "Quick Fried German Chicken Noodles",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fried-korean-almond-flour-fried-rice",
     "title": "Quick-Fried Korean Almond Flour Fried-Rice",
     "tags": [
