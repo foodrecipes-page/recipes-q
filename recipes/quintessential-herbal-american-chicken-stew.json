@@ -1,0 +1,105 @@
+{
+  "title": "Quintessential Herbal American Chicken Stew",
+  "description": "A hearty and flavorful stew featuring brandy and a mirepoix base, perfect for a cold winter's night or as a hangover cure. This dish is nut-free and cooked to perfection in a claypot.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "brandy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chicken thighs with salt and black pepper.",
+    "Heat the claypot over medium heat and sear the chicken thighs until browned on all sides.",
+    "Add the brandy to the claypot and ignite, letting the flames cook for 30 seconds.",
+    "Add the sliced onions, carrots, and celery to the claypot and cook until the vegetables are tender.",
+    "Add the minced garlic, thyme, and rosemary to the claypot and cook for 1 minute.",
+    "Add the chicken broth to the claypot and bring to a boil.",
+    "Cover the claypot and transfer it to the preheated oven.",
+    "Bake for 30 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "hearty-stew",
+    "one-pot",
+    "winter-night"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quintessential-herbal-american-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-herbal-american-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:03:07Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "brandy",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quintessential Herbal",
+    "dishForm": "Stew"
+  }
+}
