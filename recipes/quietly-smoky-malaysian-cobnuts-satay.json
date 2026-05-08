@@ -1,0 +1,102 @@
+{
+  "title": "Quietly Smoky Malaysian Cobnuts Satay",
+  "description": "A smoky and crispy Malaysian dish featuring cobnuts, perfect for a lazy Sunday, this ovo-vegetarian friendly satay is made with binchotan-charcoal for a unique flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "200g",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "2tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to a medium heat.",
+    "In a bowl, mix together the coconut milk, vegetable oil, binchotan charcoal powder, smoked paprika, salt, and pepper.",
+    "Add the chopped cobnuts to the bowl and stir until they are well coated with the mixture.",
+    "Thread the cobnuts onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking, then grill the satay for 5 minutes on each side.",
+    "In a separate bowl, whisk the eggs and set aside.",
+    "Once the satay is cooked, brush them with the whisked eggs and grill for an additional minute.",
+    "Serve the satay hot with a side of lemongrass and garlic.",
+    "Garnish with additional smoked paprika if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cobnuts",
+    "grilled",
+    "malaysian",
+    "ovo-vegetarian",
+    "smoky",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-smoky-malaysian-cobnuts-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-malaysian-cobnuts-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:44:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cobnuts",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Satay"
+  }
+}
