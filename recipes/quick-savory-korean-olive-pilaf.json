@@ -1,0 +1,91 @@
+{
+  "title": "Quick Savory Korean Olive Pilaf",
+  "description": "A funky and light Korean dish featuring pitted black olives, this pescatarian-friendly recipe is perfect for a festive meal. It is cooked using a bain-marie method to ensure fluffy and flavorful rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the cooked white rice, dried seaweed, green onions, soy sauce, and salt to the saucepan.",
+    "Stir-fry the mixture for 2 minutes, breaking up any clumps with a spatula.",
+    "Add the pitted black olives to the saucepan and stir-fry for another minute.",
+    "Transfer the saucepan to a bain-marie and cook for 5 minutes, stirring occasionally.",
+    "Remove the saucepan from the bain-marie and let it cool for 2 minutes.",
+    "Serve the Quick Savory Korean Olive Pilaf hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-cuisine",
+    "one-pot",
+    "pescatarian-friendly",
+    "quick-meal",
+    "savory-rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-savory-korean-olive-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-korean-olive-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:53:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "pitted black olives",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "olives",
+    "descriptor": "Quick Savory",
+    "dishForm": "Pilaf"
+  }
+}

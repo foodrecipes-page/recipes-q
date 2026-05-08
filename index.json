@@ -5895,6 +5895,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-korean-olive-pilaf",
+    "title": "Quick Savory Korean Olive Pilaf",
+    "tags": [
+      "korean-cuisine",
+      "one-pot",
+      "pescatarian-friendly",
+      "quick-meal",
+      "savory-rice"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-seared-korean-chorizo-noodles",
     "title": "Quick Seared Korean Chorizo Noodles",
     "tags": [
@@ -8094,6 +8108,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-bouncy-argentinian-egg-rolls-spring-rolls",
+    "title": "Quirky Bouncy Argentinian Egg Rolls Spring Rolls",
+    "tags": [
+      "argentinian-cuisine",
+      "baked-not-fried",
+      "chimichurri-sauce",
+      "gluten-free",
+      "spring-rolls",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

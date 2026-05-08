@@ -1,0 +1,93 @@
+{
+  "title": "Quirky Bouncy Argentinian Egg Rolls Spring Rolls",
+  "description": "A festive Argentinian dish featuring egg rolls with a briny and bouncy twist, perfect for any occasion, and egg-free-friendly for all to enjoy.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spring roll wrappers",
+      "amount": "12 sheets",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "argentinian chimichurri sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the shredded cabbage, shredded carrots, and chopped scallions to the skillet and saute until tender.",
+    "In a large bowl, combine the sauteed mixture, salt, and black pepper.",
+    "Lay a spring roll wrapper on a flat surface and place about 1/4 cup of the mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and fold the bottom half up over the filling.",
+    "Fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the egg rolls on a baking sheet lined with parchment paper and bake for 12-15 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "baked-not-fried",
+    "chimichurri-sauce",
+    "gluten-free",
+    "spring-rolls",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quirky-bouncy-argentinian-egg-rolls-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quirky-bouncy-argentinian-egg-rolls-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:52:41Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "egg rolls",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "egg rolls",
+    "descriptor": "Quirky Bouncy",
+    "dishForm": "Spring-Rolls"
+  }
+}
