@@ -1,0 +1,95 @@
+{
+  "title": "Quick-Fix Egyptian Dish Wrap",
+  "description": "A mustardy, snappy Egyptian dish featuring malt vinegar in an agave-leaf vessel, perfect for a quick diabetic-friendly lunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Agave leaf",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mustard paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Spherified malt vinegar pearls",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a pan over medium heat, toast the agave leaf for 1 minute.",
+    "Brush the agave leaf with mustard paste and sprinkle with cumin powder.",
+    "Spherify malt vinegar pearls according to the manufacturer's instructions.",
+    "Cook the fried egg according to your preference.",
+    "Assemble the wrap by placing the egg, spherified vinegar pearls, and chopped parsley on the toasted agave leaf.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "agave-leaf",
+    "diabetic-friendly",
+    "easy-lunch",
+    "egyptian-cuisine",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 10
+  },
+  "slug": "quick-fix-egyptian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-egyptian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:41:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "malt vinegar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dish",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Wrap"
+  }
+}
