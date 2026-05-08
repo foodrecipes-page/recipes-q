@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Silky Malaysian Millet Pilaf",
+  "description": "A comforting and lacto-vegetarian-friendly Malaysian dish featuring millet, with a silky texture and fermented flavors, served on a hot-stone-plate.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sashimi-cut portobello mushrooms",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the millet in a fine mesh sieve and drain well.",
+    "In a medium saucepan, combine the millet and water, and bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes or until the millet is tender and the water is absorbed.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Add the sliced onion and cook, stirring occasionally, until it is lightly browned and caramelized.",
+    "Add the minced garlic and grated ginger to the skillet and cook, stirring constantly, for 1 minute.",
+    "Stir in the fermented soybean paste and cook for 1 minute.",
+    "Fluff the cooked millet with a fork and stir in the coconut milk, salt, and cooked onion mixture.",
+    "Arrange the sashimi-cut portobello mushrooms on top of the millet pilaf.",
+    "Serve the quenched silky Malaysian millet pilaf on a hot-stone-plate immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "lacto-vegetarian",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quenched-silky-malaysian-millet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-silky-malaysian-millet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:01:51Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "millet",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "millet",
+    "descriptor": "quenched silky",
+    "dishForm": "Pilaf"
+  }
+}
