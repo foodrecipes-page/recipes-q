@@ -600,6 +600,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-spicy-egyptian-chicken-kebabs",
+    "title": "Quaint Spicy Egyptian Chicken Kebabs",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "kid-friendly",
+      "middle-eastern",
+      "spicy-food"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-springy-norwegian-tempeh-skewers",
     "title": "Quaint Springy Norwegian Tempeh Skewers",
     "tags": [
