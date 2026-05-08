@@ -4806,6 +4806,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-hearty-irish-sausage-skillet",
+    "title": "Quick Hearty Irish Sausage Skillet",
+    "tags": [
+      "hearty",
+      "high-protein",
+      "irish-cuisine",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-herbal-irish-potato-dumplings",
     "title": "Quick Herbal Irish Potato Dumplings",
     "tags": [

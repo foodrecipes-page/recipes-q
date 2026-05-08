@@ -1,0 +1,98 @@
+{
+  "title": "Quick Hearty Irish Sausage Skillet",
+  "description": "A hearty Irish dish featuring juicy sausage, red pepper paste, and sauteed vegetables, perfect for a quick and satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a high meat content"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced Irish sausage and cook until browned, about 5 minutes.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "Add the sliced onion and bell pepper to the skillet and cook until they start to soften.",
+    "Add the diced potatoes to the skillet and cook for an additional 5 minutes.",
+    "Stir in the red pepper paste and cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to medium-low and simmer, covered, until the potatoes are tender.",
+    "Return the cooked sausage to the skillet and season with salt and black pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hearty",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "quick-hearty-irish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-hearty-irish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:57:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "red pepper paste",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sausage",
+    "descriptor": "Quick Hearty",
+    "dishForm": "Skillet"
+  }
+}
