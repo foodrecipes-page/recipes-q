@@ -5054,6 +5054,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-portuguese-chicken-skewers",
+    "title": "Quick Grilled Portuguese Chicken Skewers",
+    "tags": [
+      "chocolate",
+      "grilled",
+      "lardons",
+      "mediterranean",
+      "portuguese",
+      "skewers"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-uruguayan-beef-skewers",
     "title": "Quick Grilled Uruguayan Beef Skewers",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Quick Grilled Portuguese Chicken Skewers",
+  "description": "A Mediterranean-friendly dish featuring marinated chicken, lardons, and a hint of milk chocolate, grilled to perfection on a robata grill",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "1/2 cup",
+      "notes": "rendered"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through",
+    "While the chicken is cooking, melt the milk chocolate chips in a small saucepan over low heat",
+    "Stir the rendered lardons into the melted chocolate until well combined",
+    "Brush the chocolate-lardon mixture onto the grilled chicken during the last minute of cooking",
+    "Serve the skewers hot, garnished with additional lardons if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "grilled",
+    "lardons",
+    "mediterranean",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "quick-grilled-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:07:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "milk chocolate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}
