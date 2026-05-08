@@ -1,0 +1,115 @@
+{
+  "title": "quenched syrian double-fried chicken burger",
+  "description": "a unique syrian twist on a classic burger, with the added crunch of double-fried chicken and a hint of speculaas spice mix.",
+  "cuisine": "syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pounded chicken breast",
+      "amount": "4 pieces",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "for assembling"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cheese",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "in a shallow dish, mix together flour, speculaas spice mix, and a pinch of salt.",
+    "dredge each chicken piece in the flour mixture, shaking off excess.",
+    "dip the floured chicken in the beaten eggs, making sure they're fully coated.",
+    "dredge the egg-coated chicken in the flour mixture again, pressing the coating onto the meat to adhere.",
+    "heat 1 inch of vegetable oil in a large skillet over medium-high heat.",
+    "fry 2 chicken pieces at a time until golden brown, about 5-6 minutes.",
+    "drain the fried chicken on paper towels and repeat with the remaining chicken pieces.",
+    "preheat the oven to 400°F (200°C).",
+    "assemble the burgers by spreading a layer of mayonnaise on the bottom bun, followed by a chicken piece, a lettuce leaf, a tomato slice, a pickle slice, and finally the top bun.",
+    "place the assembled burgers on a baking sheet lined with parchment paper and bake for 10-12 minutes or until the cheese is melted and the buns are toasted.",
+    "quench the burgers with a dollop of tzatziki sauce, if desired.",
+    "serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "quenched-syrian-double-fried-chicken-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-syrian-double-fried-chicken-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:23:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quenched double-fried",
+    "dishForm": "Burger"
+  }
+}

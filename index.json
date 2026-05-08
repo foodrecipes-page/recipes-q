@@ -1982,6 +1982,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-syrian-double-fried-chicken-burger",
+    "title": "quenched syrian double-fried chicken burger",
+    "tags": [
+      "double-fry",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-syrian-lentil-stew",
     "title": "Quenched Syrian Lentil Stew",
     "tags": [
