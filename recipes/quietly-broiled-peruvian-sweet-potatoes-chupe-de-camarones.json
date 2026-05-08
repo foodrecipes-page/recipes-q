@@ -1,0 +1,101 @@
+{
+  "title": "Quietly Broiled Peruvian Sweet Potatoes Chupe De Camarones",
+  "description": "A buttery and springy Peruvian dish featuring sweet potatoes, perfect for a post-workout meal, served in an earthenware bowl in the style of Chupe De Camarones, this keto-friendly recipe is a great way to refuel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with 1 tablespoon of butter, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the sweet potatoes out in a single layer on a baking sheet and broil for 20 minutes, or until they are tender and lightly browned.",
+    "While the sweet potatoes are cooking, melt the remaining 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Stir in the lime juice and cook for an additional 1 minute.",
+    "To serve, divide the sweet potatoes among four earthenware bowls, then top with the shrimp and garlic mixture.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "peruvian-cuisine",
+    "post-workout",
+    "seafood",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "quietly-broiled-peruvian-sweet-potatoes-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-broiled-peruvian-sweet-potatoes-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:34:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "broil",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "quietly broiled",
+    "dishForm": "Chupe De Camarones"
+  }
+}
