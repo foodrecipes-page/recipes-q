@@ -6483,6 +6483,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-silky-german-peaches-cobbler",
+    "title": "Quick Silky German Peaches Cobbler",
+    "tags": [
+      "fruit-cobbler",
+      "german-dessert",
+      "halal-friendly",
+      "quick-bake",
+      "silky-texture"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quick-silky-moroccan-chicken-tagine",
     "title": "Quick Silky Moroccan Chicken Tagine",
     "tags": [
@@ -8595,6 +8609,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-smoky-ethiopian-pork-knuckle-stew",
+    "title": "Quietly Smoky Ethiopian Pork Knuckle Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian-inspired",
+      "hearty",
+      "one-pot",
+      "post-workout",
+      "smoky"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {

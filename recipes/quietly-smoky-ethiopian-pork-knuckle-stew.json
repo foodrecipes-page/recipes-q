@@ -1,0 +1,107 @@
+{
+  "title": "Quietly Smoky Ethiopian Pork Knuckle Stew",
+  "description": "A hearty and flavorful Ethiopian-inspired stew featuring pork knuckle, binchotan-charcoal smoked for added depth, perfect for a post-workout meal, and can be adapted to be vegan-friendly by substituting the pork with a plant-based alternative.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "2 pounds",
+      "notes": "or vegan substitute"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ethiopian red pepper",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with cayenne pepper"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 1 minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the pork knuckle and cook until browned on all sides, about 5 minutes.",
+    "Add the red wine, smoked with binchotan charcoal, and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the meat is tender.",
+    "Season with salt and ethiopian red pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-inspired",
+    "hearty",
+    "one-pot",
+    "post-workout",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 80
+  },
+  "slug": "quietly-smoky-ethiopian-pork-knuckle-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-ethiopian-pork-knuckle-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:39:14Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pork knuckle",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pork knuckle",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Stew"
+  }
+}
