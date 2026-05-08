@@ -1,0 +1,102 @@
+{
+  "title": "Quickly Crisped Ukrainian Khao Khua Fried Rice",
+  "description": "A crispy, grassy Ukrainian dish made with tamarind paste and fried rice, perfect for a weeknight dinner.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice (preferably day-old)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Keto seasoning blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and cabbage, and cook until slightly tender, about 4-5 minutes.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the tamarind paste, salt, black pepper, and keto seasoning blend.",
+    "Cook for an additional 2-3 minutes, stirring constantly, until the rice is crispy and golden brown.",
+    "Stir in the chopped parsley and cook for an additional minute.",
+    "Serve the khao khua fried rice hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fried-rice",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "quickly-crisped-ukrainian-khao-khua-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-crisped-ukrainian-khao-khua-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:39:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "tamarind-paste-makham",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "khao khua",
+    "descriptor": "quickly crisped",
+    "dishForm": "fried-rice"
+  }
+}
