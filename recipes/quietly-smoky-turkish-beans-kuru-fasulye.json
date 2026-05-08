@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Smoky Turkish Beans Kuru Fasulye",
+  "description": "Smoky, silky, indulgent Turkish dish featuring sesame seed oil and lardons-render, perfect for a comforting dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as cannellini or navy beans"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "4 ounces",
+      "notes": "rendered and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large tagliere or pot.",
+    "Add the sesame seed oil, lardons, onion, garlic, smoked paprika, salt, and black pepper to the pot with the beans.",
+    "Pour in the water and bring the mixture to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes or until the beans are tender.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the Quietly Smoky Turkish Beans Kuru Fasulye hot, garnished with chopped fresh parsley or thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "comfort-food",
+    "one-pot",
+    "smoky-flavors",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-smoky-turkish-beans-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-turkish-beans-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:57:23Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Kuru Fasulye"
+  }
+}
