@@ -1,0 +1,89 @@
+{
+  "title": "Quick Crunchy Venezuelan Khus Khus Empanadas",
+  "description": "Fresh crunchy empanadas filled with khus khus, featuring a lamination puff pastry, perfect for a romantic Venezuelan dish, gluten free friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Khus Khus seeds",
+      "amount": "1/2 cup",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "Lamination puff pastry",
+      "amount": "1 package",
+      "notes": "gluten free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of toasted and ground khus khus seeds in the center of each pastry circle.",
+    "Fold the pastry in half over the filling to form a half moon shape, and press the edges together to seal.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Drizzle with vegetable oil and sprinkle with salt and sugar.",
+    "Bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "romantic-dish",
+    "snack-food",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-crunchy-venezuelan-khus-khus-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-venezuelan-khus-khus-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:47:42Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "khus khus",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "khus khus",
+    "descriptor": "Quick crunchy",
+    "dishForm": "Empanadas"
+  }
+}
