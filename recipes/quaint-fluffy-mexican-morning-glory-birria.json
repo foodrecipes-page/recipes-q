@@ -1,0 +1,110 @@
+{
+  "title": "Quaint Fluffy Mexican Morning Glory Birria",
+  "description": "A salty and fluffy Mexican dish featuring morning glory, perfect for meal prep and vegan friendly, originating from Veracruz",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "morning glory",
+      "amount": "2 cups",
+      "notes": "dehydrated and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chipotle pepper",
+      "amount": "1/4 cup",
+      "notes": "canned in adobo sauce"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "corn tortilla",
+      "amount": "6",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Dehydrate the morning glory by placing it in a low temperature oven at 150 degrees for 2 hours.",
+    "In a large pot, heat some oil over medium heat and saute the onion and garlic until softened.",
+    "Add the diced tomato and cook until they start to break down.",
+    "Add the chipotle pepper, vegetable broth, and dehydrated morning glory to the pot and bring to a boil.",
+    "Reduce the heat to low and let it simmer for 20 minutes.",
+    "While the birria is cooking, prepare the tortilla strips by frying them in some oil until crispy.",
+    "To assemble the dish, place some of the birria in a bowl, top with tortilla strips, and squeeze some lime juice over the top.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dehydrated",
+    "fluffy",
+    "meal-prep",
+    "mexican",
+    "vegan",
+    "veracruzan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quaint-fluffy-mexican-morning-glory-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-fluffy-mexican-morning-glory-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:18:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "vegan",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "morning glory",
+    "descriptor": "quaint fluffy",
+    "dishForm": "Birria"
+  }
+}
