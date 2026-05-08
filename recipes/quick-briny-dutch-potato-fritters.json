@@ -1,0 +1,91 @@
+{
+  "title": "Quick Briny Dutch Potato Fritters",
+  "description": "A creamy and indulgent Dutch dish featuring tabasco sauce, with a double-fry method for crispy exterior and fluffy interior, this recipe is perfect for a snack or side dish. The addition of tabasco sauce gives it a nice spicy kick.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, onion, flour, eggs, tabasco sauce, milk, and salt, and mix well.",
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees.",
+    "Using a spoon, drop small amounts of the potato mixture into the hot oil and fry for 3-4 minutes or until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Increase the oil temperature to 375 degrees and fry the fritters again for an additional 2-3 minutes or until crispy.",
+    "Remove the fritters from the oil and place them on a serving plate.",
+    "Serve the fritters hot and enjoy.",
+    "Garnish with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "dutch-cuisine",
+    "potato-fritters",
+    "snack-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quick-briny-dutch-potato-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-briny-dutch-potato-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:07:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quick Briny",
+    "dishForm": "Fritters"
+  }
+}
