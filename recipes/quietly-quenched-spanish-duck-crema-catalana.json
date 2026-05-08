@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Quenched Spanish Duck Crema Catalana",
+  "description": "A savory and kid-friendly Spanish dish featuring duck sauce in a crema catalana form, served in a molcajete, this low-carb friendly meal is perfect for a special occasion. It has a shattering texture that will leave you wanting more.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped ham",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the heavy cream, eggs, salt, and black pepper until well combined.",
+    "Add the shredded cheese, chopped ham, and diced onion to the bowl and stir until the cheese is fully incorporated.",
+    "Pour the duck sauce into the bottom of a molcajete or individual ramekins.",
+    "Pour the cream mixture over the duck sauce in the molcajete or ramekins.",
+    "Place the molcajete or ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the molcajete or ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a thin layer of sugar over the top of each crema catalana and caramelize with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "gluten-free",
+    "kid-friendly",
+    "low-carb",
+    "spanish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "quietly-quenched-spanish-duck-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-spanish-duck-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:59:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "duck sauce",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "duck",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Crema Catalana"
+  }
+}
