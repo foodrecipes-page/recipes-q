@@ -1,0 +1,102 @@
+{
+  "title": "Quick Citrusy Korean Tofu Skillet",
+  "description": "A light and citrusy Korean dish featuring ground cinnamon and shio-cure, perfect for a weeknight dinner. This satvik-friendly recipe is made in an iron-teppan vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the iron-teppan vessel over medium-high heat and add the vegetable oil.",
+    "Add the crumbled tofu and cook until golden brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the soy sauce, rice vinegar, ground cinnamon, shio-cure, and salt, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Stir in the chopped green onions and orange zest.",
+    "Reduce heat to low and simmer for 2 minutes, until the flavors have melded together.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "korean-food",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "quick-citrusy-korean-tofu-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-citrusy-korean-tofu-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:42:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "satvik",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Citrusy",
+    "dishForm": "Skillet"
+  }
+}
