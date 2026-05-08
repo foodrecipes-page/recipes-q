@@ -2099,6 +2099,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-turkish-lamb-kofte",
+    "title": "Quenched Turkish Lamb Kofte",
+    "tags": [
+      "grill",
+      "high-protein",
+      "lamb",
+      "main-course",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 42,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-ukrainian-cheese-gratin",
     "title": "Quenched Ukrainian Cheese Gratin",
     "tags": [
@@ -4907,6 +4923,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-queso-pull-canadian-beef-kidney-grill",
+    "title": "Quick Queso Pull Canadian Beef Kidney Grill",
+    "tags": [
+      "canadian",
+      "high-protein",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

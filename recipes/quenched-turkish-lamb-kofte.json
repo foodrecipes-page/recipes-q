@@ -1,0 +1,110 @@
+{
+  "title": "Quenched Turkish Lamb Kofte",
+  "description": "A flavorful and moist lamb kofte dish with a hint of red wine and herbs, perfect for special occasions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "red wine",
+      "amount": "120ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "mint",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1",
+      "notes": "for binding"
+    },
+    {
+      "name": "mantecare",
+      "amount": "50g",
+      "notes": "for emulsification"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lamb, red wine, onion, garlic, parsley, mint, allspice, salt, and black pepper. Mix well with your hands until just combined.",
+    "Stir in the beaten egg and mantecare until the mixture is evenly distributed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Using your hands, shape the lamb mixture into small kofte, about 5-6 cm in diameter.",
+    "Place the kofte on the grill and cook for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "Transfer the kofte to a serving plate and garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "high-protein",
+    "lamb",
+    "main-course",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "quenched-turkish-lamb-kofte",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-turkish-lamb-kofte",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:50Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "red wine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Quenched Fluffy",
+    "dishForm": null
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Quick Queso Pull Canadian Beef Kidney Grill",
+  "description": "A romantic Canadian dish featuring nutty beef kidney, perfect for a cozy night in with friends and family.",
+  "cuisine": "Canadian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef kidney",
+      "amount": "1 pound",
+      "notes": "trim excess fat and cut into 1-inch cubes"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high heat.",
+    "Season the beef kidney with salt and pepper.",
+    "Add the beef kidney to the raclette grill and cook for 3-4 minutes per side, or until browned.",
+    "Remove the beef kidney from the grill and set aside.",
+    "In the same raclette grill, cook the sliced onions and minced garlic until softened.",
+    "Stir in the shredded cheddar cheese until melted.",
+    "Add the cooked beef kidney back to the raclette grill and spoon the cheese sauce over the top.",
+    "Return the raclette grill to medium heat and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve the beef kidney and cheese sauce hot, garnished with fresh parsley if desired.",
+    "Serve with a side of warm tortillas or crusty bread to mop up the cheese sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quick-queso-pull-canadian-beef-kidney-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-queso-pull-canadian-beef-kidney-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:31:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "roast",
+    "primaryIngredient": "beef kidney",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Quick Queso Pull",
+    "dishForm": "Grill"
+  }
+}
