@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Midnight Vietnamese Shrimp Satay",
+  "description": "A late-night Vietnamese-inspired dish featuring dried shrimp, grilled to perfection with a hint of grassy notes.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried Shrimp",
+      "amount": "150g",
+      "notes": "soaked overnight in water"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "120ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "paleo-friendly"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "raw"
+    },
+    {
+      "name": "Grass-fed Lard",
+      "amount": "1 tbsp",
+      "notes": "rendered"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "Vietnamese Peppers",
+      "amount": "2-3",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Soak the dried shrimp in water overnight, then drain and chop into small pieces.",
+    "In a blender, combine coconut milk, ginger, lemongrass, fish sauce, soy sauce, honey, and grass-fed lard. Blend until smooth.",
+    "Add the chopped dried shrimp to the blender and blend until well combined.",
+    "Transfer the mixture to a bowl and stir in chopped cilantro.",
+    "Thread the shrimp mixture onto skewers, leaving a small space between each piece.",
+    "Preheat the robata grill to 400°F (200°C). Grill the skewers for 2-3 minutes per side, or until lightly charred.",
+    "Serve immediately, garnished with thinly sliced Vietnamese peppers."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "grilled",
+    "high-protein",
+    "nighttime",
+    "one-pan",
+    "snack",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quenched-midnight-vietnamese-shrimp-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-midnight-vietnamese-shrimp-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "robata-grill",
+    "primaryIngredient": "dried shrimp",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quenched Midnight",
+    "dishForm": "Satay"
+  }
+}

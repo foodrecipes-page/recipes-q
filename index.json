@@ -1446,6 +1446,23 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-midnight-vietnamese-shrimp-satay",
+    "title": "Quenched Midnight Vietnamese Shrimp Satay",
+    "tags": [
+      "dinner",
+      "grilled",
+      "high-protein",
+      "nighttime",
+      "one-pan",
+      "snack",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-moroccan-goose-fat-tagine",
     "title": "Quenched Moroccan Goose Fat Tagine",
     "tags": [
@@ -5002,6 +5019,21 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 120,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
+    "title": "Quick Roasted Peruvian Chicken",
+    "tags": [
+      "chicken-dinner",
+      "easy-roast",
+      "high-protein",
+      "latin-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {

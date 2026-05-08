@@ -1,0 +1,115 @@
+{
+  "title": "Quick Roasted Peruvian Chicken",
+  "description": "A simplified version of the classic Peruvian dish, Pollo a la Brasa, featuring a crispy roasted exterior and juicy interior. This recipe serves four and is ready in under an hour.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "2 pounds",
+      "notes": "Bone-in, skin-on chicken legs"
+    },
+    {
+      "name": "aipom paste",
+      "amount": "1/2 cup",
+      "notes": "Or substitute with Peruvian yellow chili paste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing the chicken"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "2 teaspoons",
+      "notes": "Coarse salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a blender or food processor, combine aipom paste, garlic, cilantro, salt, black pepper, and paprika; blend until smooth.",
+    "Rub the spice paste all over the chicken, making sure to get some under the skin as well.",
+    "In a large bowl, whisk together olive oil and lemon juice; add the chicken and toss to coat.",
+    "Line a baking sheet with aluminum foil or parchment paper; arrange the chicken on the prepared baking sheet.",
+    "Roast the chicken in the preheated oven for 35 minutes.",
+    "After 35 minutes, increase the oven temperature to broil; cook for an additional 5-7 minutes, or until the chicken is nicely browned.",
+    "Remove the chicken from the oven and let rest for 5 minutes before serving.",
+    "Garnish with chopped parsley, if desired; serve with sliced red onion and additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dinner",
+    "easy-roast",
+    "high-protein",
+    "latin-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:47Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "cure",
+    "primaryIngredient": "cilantro",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Peruvian Roasted Chicken"
+  }
+}
