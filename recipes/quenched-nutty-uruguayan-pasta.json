@@ -1,0 +1,106 @@
+{
+  "title": "Quenched Nutty Uruguayan Pasta",
+  "description": "A nutty and chewy Uruguayan dish featuring bowtie pasta, flambe, and ayurvedic-tamasic-friendly ingredients to help cure hangovers.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the chopped walnuts to the skillet and cook for 2 minutes, stirring frequently, until fragrant.",
+    "Add the flambe sauce to the skillet and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally, until thickened.",
+    "Stir in the grated parmesan cheese until melted and well combined.",
+    "Add the cooked bowtie pasta to the skillet, tossing to coat with the sauce and walnut mixture.",
+    "Season with salt and black pepper to taste, then garnish with chopped basil.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "nutty",
+    "one-pot",
+    "pasta",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quenched-nutty-uruguayan-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-nutty-uruguayan-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:57:07Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "flambe",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pasta",
+    "descriptor": "quenched nutty",
+    "dishForm": "Pasta"
+  }
+}
