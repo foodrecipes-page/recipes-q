@@ -1,0 +1,104 @@
+{
+  "title": "Quaint Fluffy Dutch Herring Tagine",
+  "description": "A traditional Dutch dish featuring fermented herring, cooked in a tagine with lime juice and spices, perfect for a midnight craving. This keto-friendly recipe is a unique twist on a classic dish.",
+  "cuisine": "Dutch",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "herring fillets",
+      "amount": "12 oz",
+      "notes": "fermented"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chopped onion to the bowl and mix until well combined.",
+    "Add the fermented herring fillets to the bowl and mix gently until they are coated with the marinade.",
+    "Transfer the herring mixture to a tagine or a large Dutch oven with a tight-fitting lid.",
+    "Cover the tagine and bake for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the herring is cooked through and fluffy.",
+    "Remove the tagine from the oven and let it cool for a few minutes.",
+    "Serve the quaint fluffy Dutch herring tagine hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fish-based",
+    "gluten-free",
+    "keto-friendly",
+    "midnight-craving",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "quaint-fluffy-dutch-herring-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-fluffy-dutch-herring-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:57:56Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lime juice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "herring",
+    "descriptor": "Quaint fluffy",
+    "dishForm": "Tagine"
+  }
+}
