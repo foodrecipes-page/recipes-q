@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Baked Venezuelan Grass Tagine",
+  "description": "A traditional Venezuelan dish featuring grassy and flaky ingredients, this recipe is macrobiotic-friendly and perfect for a weeknight dinner. It is baked in a ceramic tagine vessel and flavored with dried oregano and deglaze-fond.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grass-fed beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the whole wheat flour, dried oregano, salt, and black pepper.",
+    "In a large skillet, heat the olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the grass-fed beef to the skillet and cook until browned.",
+    "In a small bowl, mix together the deglaze-fond and 2 tablespoons of water.",
+    "Add the deglaze-fond mixture to the skillet and stir to combine.",
+    "Transfer the mixture to a ceramic tagine vessel.",
+    "Cover the vessel with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "ceramic-tagine",
+    "macrobiotic",
+    "one-pan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-baked-venezuelan-grass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-venezuelan-grass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:10:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "dried oregano",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "grass",
+    "descriptor": "quietly baked",
+    "dishForm": "Tagine"
+  }
+}
