@@ -1,0 +1,110 @@
+{
+  "title": "quick-fix rich malaysian chickpeas flatbread",
+  "description": "This rich, chewy flatbread is a quick-fix Malaysian dish featuring chickpeas and a double-rise bread that is gluten-free-friendly",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Mix chickpeas, salt, black pepper, and chili flakes in a bowl.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sauté garlic and onion until softened, about 3-4 minutes.",
+    "Add chickpea mixture and cook for 2-3 minutes, stirring frequently.",
+    "Stir in cumin and coriander. ",
+    "Roll out flour to a thickness of about 1/4 inch (6 mm).",
+    "Transfer the dough to a baking sheet or pizza stone and spread the chickpea mixture over the dough, leaving a 1 inch (2.5 cm) border around the edges.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Cut the flatbread into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpeas",
+    "flatbread",
+    "gluten-free",
+    "malaysian",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-fix-rich-malaysian-chickpeas-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-rich-malaysian-chickpeas-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:09Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chickpeas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "quick-fix rich",
+    "dishForm": "flatbread"
+  }
+}

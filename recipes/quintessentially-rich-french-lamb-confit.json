@@ -1,0 +1,103 @@
+{
+  "title": "Quintessentially Rich French Lamb Confit",
+  "description": "A rich, molten, and romantic French dish from Lyon, featuring balsamic vinegar and infused oil, suitable for Jain diet.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2",
+      "notes": "preferably with a layer of fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "infused oil for added flavor"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": " aged for at least 10 years"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Rinse the lamb shoulder and pat it dry with paper towels.",
+    "In a small bowl, mix together the olive oil, balsamic vinegar, garlic, thyme, and bay leaves.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Season with salt and black pepper to taste.",
+    "Place the lamb shoulder in a clay pot or a heavy-duty Dutch oven.",
+    "Cover the clay pot with a lid and place it in the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the lamb from the oven and let it rest for 10 minutes.",
+    "Strain the braising liquid and discard the thyme and bay leaves.",
+    "Serve the lamb with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-dish",
+    "jain",
+    "one-pan",
+    "romantic-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 4,
+    "fat": 38
+  },
+  "slug": "quintessentially-rich-french-lamb-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-rich-french-lamb-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:57:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "jain",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quintessentially Rich",
+    "dishForm": "Confit"
+  }
+}

@@ -3503,6 +3503,23 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-rich-malaysian-chickpeas-flatbread",
+    "title": "quick-fix rich malaysian chickpeas flatbread",
+    "tags": [
+      "chickpeas",
+      "flatbread",
+      "gluten-free",
+      "malaysian",
+      "one-pan",
+      "quick-fix",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
     "title": "Quick-Fix Rich Uruguayan Russet Potato Pillowy Bakes",
     "tags": [
@@ -6764,6 +6781,22 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessentially-rich-french-lamb-confit",
+    "title": "Quintessentially Rich French Lamb Confit",
+    "tags": [
+      "comfort-food",
+      "french-dish",
+      "jain",
+      "one-pan",
+      "romantic-dinner",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 165,
     "shard": "q"
   },
   {
