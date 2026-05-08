@@ -2460,6 +2460,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-butter-japanese-fish-pasta",
+    "title": "Quick Butter Japanese Fish Pasta",
+    "tags": [
+      "fish",
+      "japanese",
+      "one-pan",
+      "pasta",
+      "quick-and-easy",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-buttery-japanese-rice-bowl",
     "title": "Quick Buttery Japanese Rice Bowl",
     "tags": [
