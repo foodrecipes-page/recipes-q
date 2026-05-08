@@ -1823,6 +1823,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-nutty-german-pork-stew",
+    "title": "Quenched Nutty German Pork Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "high-protein",
+      "nutty-flavors",
+      "one-pot"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-peppery-mediterranean-rice-pilaf",
     "title": "Quenched Peppery Mediterranean Rice Pilaf",
     "tags": [
