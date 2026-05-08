@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Rich Algerian Mushroom Tagine",
+  "description": "A rich and festive Algerian dish featuring mushrooms in a molten beurre-monte sauce, cooked to perfection in a Dutch oven. This raw-friendly recipe is perfect for special occasions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Dutch oven over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the paprika, cumin, salt, and black pepper, and stir to combine.",
+    "Add the beurre-monte and butter, stirring until the sauce is smooth and molten.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, stirring occasionally.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mushroom-based",
+    "north-african",
+    "one-pot",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "quietly-rich-algerian-mushroom-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-algerian-mushroom-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:28:04Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "beurre-monte",
+    "primaryIngredient": "mushrooms",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Tagine"
+  }
+}
