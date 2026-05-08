@@ -1,0 +1,111 @@
+{
+  "title": "Quietly Braised Turkish Beef Shin Kebabs",
+  "description": "A hearty Turkish dish featuring tender beef shin, perfect for a solo dinner, with a crumbly texture and grassy notes from fresh parsley and dill, high in protein and low in carbs, making it friendly for high-protein diets.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the beef shin cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste, beef broth, dried oregano, salt, and black pepper, and stir to combine.",
+    "Cover the Dutch oven and transfer to the preheated oven.",
+    "Braise the beef shin for 2 1/2 hours, or until tender.",
+    "Remove the Dutch oven from the oven and stir in the chopped parsley and dill.",
+    "Serve the braised beef shin hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "braised",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "quietly-braised-turkish-beef-shin-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-braised-turkish-beef-shin-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:08:20Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "fold",
+    "primaryIngredient": "beef shin",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef shin",
+    "descriptor": "Quietly braised",
+    "dishForm": "Kebabs"
+  }
+}
