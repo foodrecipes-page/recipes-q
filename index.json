@@ -6624,6 +6624,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-steamed-turkish-lamb-dolma",
+    "title": "Quick Steamed Turkish Lamb Dolma",
+    "tags": [
+      "adventurous",
+      "grilled",
+      "herbal",
+      "high-protein",
+      "juicy",
+      "steamed",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quick-steamed-vietnamese-tofu-noodles",
     "title": "Quick Steamed Vietnamese Tofu Noodles",
     "tags": [

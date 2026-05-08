@@ -1,0 +1,97 @@
+{
+  "title": "Quick Steamed Turkish Lamb Dolma",
+  "description": "A herbal and juicy Turkish dish featuring garlic powder, leaf wrap steam, and high protein friendly ingredients, served in a dolma form and grilled in a binchotan grill vessel.",
+  "cuisine": "Turkish",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "mint",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "In a large bowl, combine the ground lamb, garlic powder, chopped onion, parsley, mint, lemon juice, and olive oil, and mix well.",
+    " Lay a grape leaf flat on a work surface, with the stem end facing you.",
+    "Place about 1 tablespoon of the lamb mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and filling.",
+    "Place the dolmas in a steamer basket, leaving some space between each one.",
+    "Steam the dolmas over boiling water for 20 minutes, or until the lamb is cooked through.",
+    "Serve the dolmas hot, garnished with lemon wedges and fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "grilled",
+    "herbal",
+    "high-protein",
+    "juicy",
+    "steamed",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-steamed-turkish-lamb-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-turkish-lamb-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:20:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "garlic powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Dolma"
+  }
+}
