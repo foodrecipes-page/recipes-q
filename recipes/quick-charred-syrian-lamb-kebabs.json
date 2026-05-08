@@ -1,0 +1,91 @@
+{
+  "title": "Quick Charred Syrian Lamb Kebabs",
+  "description": "A fast and flavorful Syrian dish featuring lamb kebabs with a charred, glassy exterior, made with render-fat and fast action yeast, perfect for meal prep and onion and garlic free",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "fast action yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rendered lamb fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to high heat, aiming for 400 degrees Fahrenheit",
+    "In a large bowl, whisk together yeast, salt, black pepper, and sumac",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Brush the lamb with rendered lamb fat and olive oil",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until charred and cooked through",
+    "Brush the kebabs with pomegranate molasses during the last minute of cooking",
+    "Let the kebabs rest for 2 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-charred-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:53:45Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "fast action yeast",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Charred",
+    "dishForm": "Kebabs"
+  }
+}

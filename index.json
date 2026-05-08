@@ -2688,6 +2688,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-charred-syrian-lamb-kebabs",
+    "title": "Quick Charred Syrian Lamb Kebabs",
+    "tags": [
+      "high-protein",
+      "lamb-recipes",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-cheesy-venezuelan-chuck-roast-bowl",
     "title": "Quick Cheesy Venezuelan Chuck Roast Bowl",
     "tags": [
@@ -6602,6 +6616,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-malty-uruguayan-beef-stew",
+    "title": "Quietly Malty Uruguayan Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "malty",
+      "one-pot",
+      "silky",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
