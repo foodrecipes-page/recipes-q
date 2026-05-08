@@ -1,0 +1,95 @@
+{
+  "title": "Quick Roasted Ukrainian Bean Sprouts Roast",
+  "description": "A festive Ukrainian dish featuring bean sprouts and roast, this recipe is egg-free-friendly and perfect for a weeknight dinner. It has a yeasty and aerated texture from the addition of baking powder.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the bean sprouts, onion, carrot, and potato with the olive oil, salt, black pepper, and baking powder until they are evenly coated.",
+    "Spread the mixture out in a single layer on a large baking sheet.",
+    "Roast in the preheated oven for 20 minutes, stirring occasionally.",
+    "After 20 minutes, reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 15 minutes, or until the vegetables are tender and lightly browned.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes.",
+    "Serve the roasted bean sprouts and vegetables hot, garnished with chopped fresh herbs if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "one-pan",
+    "quick",
+    "roasted",
+    "ukrainian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "quick-roasted-ukrainian-bean-sprouts-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-ukrainian-bean-sprouts-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:20:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "roast",
+    "primaryIngredient": "bean sprouts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bean sprouts",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Roast"
+  }
+}
