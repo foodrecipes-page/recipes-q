@@ -1,0 +1,77 @@
+{
+  "title": "Argentinian Masarepa Toast",
+  "description": "A quick and easy Argentinian breakfast dish featuring crispy toast topped with a rich and resinous masarepa mixture.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Toast 2 slices of bread until crispy.",
+    "In a medium saucepan, melt 2 tablespoons of butter over low heat.",
+    "Add 1 cup of masarepa to the saucepan and stir until well combined with the melted butter.",
+    "Cook for 2 minutes, stirring constantly, until the masarepa mixture is slightly browned and fragrant.",
+    "Remove the saucepan from the heat and stir in 1/2 cup of shredded cheddar cheese until melted.",
+    "Season the masarepa mixture with salt and black pepper to taste.",
+    "Place the toasted bread slices on a serving plate and top each slice with a generous spoonful of the masarepa mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "quick-fix-resinous-argentinian-masarepa-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-resinous-argentinian-masarepa-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:44:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "masarepa",
+    "descriptor": "quick-fix resinous",
+    "dishForm": "Toast"
+  }
+}
