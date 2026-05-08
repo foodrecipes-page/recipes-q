@@ -4240,6 +4240,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-brazilian-chicken-skewers",
+    "title": "Quick Grilled Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-food",
+      "coconut-cream",
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-ethiopian-lamb-bisque",
     "title": "Quick Grilled Ethiopian Lamb Bisque",
     "tags": [

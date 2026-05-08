@@ -1,0 +1,92 @@
+{
+  "title": "Quick Grilled Brazilian Chicken Skewers",
+  "description": "A flavorful and festive Brazilian dish featuring coconut cream and dairy-free friendly ingredients, perfect for a weeknight dinner or outdoor gathering.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut cream, lime juice, olive oil, garlic powder, salt, black pepper, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Cook the skewers in the air fryer for 10-12 minutes, or until the chicken is cooked through.",
+    "Serve the skewers hot, garnished with fresh cilantro or scallions.",
+    "Repeat with remaining chicken and marinade.",
+    "Let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "coconut-cream",
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-grilled-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:42:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "air-fry",
+    "primaryIngredient": "coconut cream",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}
