@@ -1,0 +1,93 @@
+{
+  "title": "Quick Seared Korean Chorizo Noodles",
+  "description": "A garlicky, chewy, crowd-pleaser Korean dish featuring chorizo, infused oil, and served on a hot stone plate, perfect for a quick dinner or snack.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean chorizo",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "Asian style"
+    },
+    {
+      "name": "Infused oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together the infused oil, soy sauce, and gochujang.",
+    "Heat a large skillet over medium-high heat and add the sliced chorizo, cooking until browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the cooked noodles to the skillet, tossing to combine with the chorizo and garlic.",
+    "Stir in the soy sauce mixture and cook for 1 minute, until the noodles are well coated.",
+    "Transfer the noodle mixture to a hot stone plate and top with chopped green onions and sesame seeds.",
+    "Serve immediately, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "noodle-dish",
+    "one-pan",
+    "quick-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-seared-korean-chorizo-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-seared-korean-chorizo-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:05:19Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chorizo",
+    "diet": "vegetarian",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chorizo",
+    "descriptor": "Quick seared",
+    "dishForm": "Noodles"
+  }
+}
