@@ -1,0 +1,101 @@
+{
+  "title": "Quaint Sweet British Tofu Noodles",
+  "description": "A sweet and nostalgic British dish featuring marinated tofu and dashi extract, perfect for a comforting meal. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "preferably rice or soba noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together dashi extract, soy sauce, maple syrup, and rice vinegar to make the marinade.",
+    "Add the cubed tofu to the marinade and toss to coat, letting it marinate for at least 30 minutes.",
+    "Cook the noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat.",
+    "Remove the tofu from the marinade, letting any excess liquid drip off, and add it to the skillet.",
+    "Cook the tofu until it is golden brown on all sides, about 5-7 minutes.",
+    "Add the cooked noodles to the skillet and toss to combine with the tofu.",
+    "Season with salt, black pepper, and sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "easy-meal",
+    "noodle-dish",
+    "sweet-tofu",
+    "vegan-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quaint-sweet-british-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-sweet-british-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:52:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "dashi-extract",
+    "primaryIngredient": "marinated tofu",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "quaint sweet",
+    "dishForm": "Noodles"
+  }
+}
