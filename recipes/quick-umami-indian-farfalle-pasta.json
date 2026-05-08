@@ -1,0 +1,101 @@
+{
+  "title": "Quick Umami Indian Farfalle Pasta",
+  "description": "A snappy and indulgent Indian dish featuring farfalle pasta with an Andhra twist, using yuzu-cure for added umami flavor, and is sugar-free-friendly.",
+  "cuisine": "Indian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or gluten-free option"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "andhra curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the farfalle pasta according to package instructions.",
+    "In a large skillet, heat the ghee or oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Stir in the andhra curry powder and cook for 1 minute.",
+    "Add the cooked farfalle pasta to the skillet and toss with the curry mixture.",
+    "Squeeze the yuzu juice over the pasta and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "one-pot",
+    "sugar-free",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-umami-indian-farfalle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-umami-indian-farfalle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:49:04Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "indulgent",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "farfalle",
+    "diet": "sugar-free",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "farfalle",
+    "descriptor": "Quick Umami",
+    "dishForm": "Pasta"
+  }
+}
