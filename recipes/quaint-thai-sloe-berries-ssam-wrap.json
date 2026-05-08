@@ -1,0 +1,110 @@
+{
+  "title": "Quaint Thai Sloe Berries Ssam Wrap",
+  "description": "A floral and crumbly Thai dish featuring sloe berries, served in a ssam wrap, grilled to perfection on a robata grill.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": "rice paper or corn tortilla"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sloe berry jam",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a small bowl, mix together sloe berry jam, fish sauce, and lime juice.",
+    "Brush the ssam wrap pieces with sesame oil on both sides.",
+    "Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "Slice the grilled chicken into thin strips.",
+    "Assemble the ssam wrap by spreading a tablespoon of the sloe berry jam mixture onto each piece.",
+    "Add a few slices of grilled chicken, some chopped Thai basil, pickled carrots, and cucumber onto each ssam wrap.",
+    "Top with fresh sloe berries and serve immediately.",
+    "Garnish with additional Thai basil and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "fruit-based",
+    "grilled-chicken",
+    "nut-free-friendly",
+    "robata-grill",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quaint-thai-sloe-berries-ssam-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-thai-sloe-berries-ssam-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:39:05Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sloe-berries",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "sloe berries",
+    "descriptor": "quaint indulgent",
+    "dishForm": "Wrap"
+  }
+}
