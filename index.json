@@ -981,6 +981,20 @@
     "shard": "q"
   },
   {
+    "slug": "quality-dense-japanese-buckwheat-oyakodon",
+    "title": "Quality Dense Japanese Buckwheat Oyakodon",
+    "tags": [
+      "buckwheat-recipes",
+      "coconut-cream-dishes",
+      "japanese-cuisine",
+      "shojin-friendly",
+      "special-occasion"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quality-roasted-british-chicken-sunday-roast",
     "title": "Quality Roasted British Chicken Sunday Roast",
     "tags": [

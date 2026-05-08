@@ -1,0 +1,95 @@
+{
+  "title": "Quality Dense Japanese Buckwheat Oyakodon",
+  "description": "A dense and festive Japanese dish featuring buckwheat, coconut cream, and a hint of mustard, perfect for a special occasion. This shojin-friendly recipe is a unique twist on traditional oyakodon.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup",
+      "notes": "preferably Japanese soba buckwheat"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": "reconstituted in 1 cup hot water"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat and soak it in water for 30 minutes, then drain and set aside.",
+    "Reconstitute the dried shiitake mushrooms in 1 cup of hot water and slice them into thin strips.",
+    "Heat the sesame oil in a large skillet over medium heat and saute the sliced scallions and pickled ginger until fragrant.",
+    "Add the reconstituted mushrooms, mustard paste, and soy sauce to the skillet and stir-fry for 2 minutes.",
+    "Add the buckwheat to the skillet and stir-fry for 5 minutes, or until it is well coated with the mushroom and mustard mixture.",
+    "Stir in the coconut cream and cook for an additional 2 minutes, or until the mixture is heated through.",
+    "Serve the buckwheat oyakodon hot, garnished with additional scallions and pickled ginger if desired.",
+    "Let the dish cool to room temperature before refrigerating or freezing.",
+    "Reheat the dish gently before serving, adding a splash of soy sauce or sesame oil if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat-recipes",
+    "coconut-cream-dishes",
+    "japanese-cuisine",
+    "shojin-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quality-dense-japanese-buckwheat-oyakodon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-dense-japanese-buckwheat-oyakodon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:38:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "buckwheat",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Quality Dense",
+    "dishForm": "Oyakodon"
+  }
+}
