@@ -5939,6 +5939,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-italian-cheese-cacio-e-pepe",
+    "title": "Quick Savory Italian Cheese Cacio E Pepe",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "italian-food",
+      "one-pan",
+      "sick-day",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-japanese-tofu-shoyu-ramen",
     "title": "Quick Savory Japanese Tofu Shoyu Ramen",
     "tags": [
@@ -7300,6 +7315,21 @@
       "winter-meal"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-creamy-irish-corn-stew",
+    "title": "Quietly Creamy Irish Corn Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "irish-food",
+      "mason-jar-recipes",
+      "post-workout",
+      "vegetarian-options"
+    ],
+    "cuisine": "Irish",
     "totalTimeMin": 45,
     "shard": "q"
   },
