@@ -1,0 +1,93 @@
+{
+  "title": "Quick Dense Irish Oat Pudding",
+  "description": "A briny and dense Irish dish featuring sugar syrup with an al-dente finish, perfect for a quick dessert or snack. This recipe is onion and garlic friendly free, making it suitable for a variety of diets.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "preferably Irish oats"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup",
+      "notes": "see instructions for preparation"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the oats, sugar, and sea salt.",
+    "In a separate bowl, whisk together the heavy cream, whole milk, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Melt the unsalted butter and add it to the mixture, stirring until fully incorporated.",
+    "Prepare the sugar syrup by dissolving 1/4 cup of sugar in 1/4 cup of water over low heat.",
+    "Add the sugar syrup to the oat mixture and stir until combined.",
+    "Pour the mixture into a 9x9 inch baking dish and bake for 25 minutes.",
+    "Remove the pudding from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "al-dente-finish",
+    "briny-dessert",
+    "irish-dish",
+    "no-onion-no-garlic",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quick-dense-irish-oat-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-irish-oat-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:47:44Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "sugar syrup",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "Quick Dense",
+    "dishForm": "Pudding"
+  }
+}

@@ -4124,6 +4124,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-dense-irish-oat-pudding",
+    "title": "Quick Dense Irish Oat Pudding",
+    "tags": [
+      "al-dente-finish",
+      "briny-dessert",
+      "irish-dish",
+      "no-onion-no-garlic",
+      "quick-fix"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-dense-japanese-scallion-gyoza",
     "title": "Quick Dense Japanese Scallion Gyoza",
     "tags": [
