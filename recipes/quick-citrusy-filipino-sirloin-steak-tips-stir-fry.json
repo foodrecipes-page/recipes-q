@@ -1,0 +1,104 @@
+{
+  "title": "Quick Citrusy Filipino Sirloin Steak Tips Stir fry",
+  "description": "A low-fat Filipino stir-fry dish featuring sirloin steak tips, served in a Korean brass bowl, perfect for a weeknight dinner",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant",
+    "Add the sirloin steak tips and cook for 3-4 minutes, until browned",
+    "Add the bell peppers and onions and cook for 2-3 minutes, until tender",
+    "In a small bowl, whisk together the calamansi juice and soy sauce",
+    "Pour the sauce over the steak and vegetables, and stir to combine",
+    "Season with salt and black pepper to taste",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened",
+    "Serve the stir-fry hot, garnished with sliced green onions and served in a Korean brass bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "filipino-food",
+    "low-fat",
+    "quick-dinner",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-citrusy-filipino-sirloin-steak-tips-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-citrusy-filipino-sirloin-steak-tips-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:24Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "stir-fry",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sirloin steak tips",
+    "descriptor": "Quick Citrusy",
+    "dishForm": "Stir-fry"
+  }
+}
