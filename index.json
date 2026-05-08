@@ -6620,6 +6620,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-roasted-australian-beef-roast",
+    "title": "Quick Roasted Australian Beef Roast",
+    "tags": [
+      "australian-cuisine",
+      "date-night",
+      "one-pan",
+      "plant-based-friendly",
+      "roasted-beef",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 95,
+    "shard": "q"
+  },
+  {
     "slug": "quick-roasted-australian-lentil-bowl",
     "title": "Quick Roasted Australian Lentil Bowl",
     "tags": [
@@ -10097,6 +10112,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-german-scotch-bonnet-pudding",
+    "title": "Quirky German Scotch Bonnet Pudding",
+    "tags": [
+      "almond-milk",
+      "chilled-dessert",
+      "gelatin-pudding",
+      "german-dessert",
+      "low-fat",
+      "scotch-bonnet"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

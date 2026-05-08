@@ -1,0 +1,103 @@
+{
+  "title": "Quick Roasted Australian Beef Roast",
+  "description": "A date-night Australian dish featuring mixed beef cuts roasted to perfection in a papillote, perfect for a plant-based friendly meal with some adjustments",
+  "cuisine": "Australian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef roast mix",
+      "amount": "1.5 pounds",
+      "notes": "including ribeye, sirloin, and tenderloin cuts"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Parchment paper",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Rub the mixture all over the beef roast mix, making sure to coat it evenly.",
+    "Place the sliced onion, carrots, and potatoes in the center of the parchment paper sheet.",
+    "Place the beef roast mix on top of the vegetables.",
+    "Fold the parchment paper over the beef and vegetables, creating a papillote.",
+    "Place the papillote in a roasting pan and put it in the oven.",
+    "Roast for 45 minutes, then reduce the oven temperature to 375 degrees Fahrenheit and continue roasting for an additional 30 minutes.",
+    "Remove the papillote from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "date-night",
+    "one-pan",
+    "plant-based-friendly",
+    "roasted-beef",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-roasted-australian-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-australian-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:27:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Roast"
+  }
+}
