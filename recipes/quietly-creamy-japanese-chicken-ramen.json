@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Creamy Japanese Chicken Ramen",
+  "description": "A kid-friendly, low-glycemic Japanese dish from the Tohoku region, featuring a rich and creamy mixture powder served in a stone bowl, known as a dolsot.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "mixture powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the chicken to the pot and cook until browned, about 5 minutes.",
+    "Add the dashi broth, coconut milk, and mixture powder to the pot, whisking until smooth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Ladle the ramen into stone bowls and top with green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese-cuisine",
+    "kid-friendly",
+    "low-glycemic",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-creamy-japanese-chicken-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-creamy-japanese-chicken-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:36:05Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "mixture powder",
+    "diet": "low-glycemic",
+    "region": "tohoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "quietly creamy",
+    "dishForm": "Ramen"
+  }
+}
