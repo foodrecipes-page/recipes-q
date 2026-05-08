@@ -1,0 +1,106 @@
+{
+  "title": "Quick Australian Brie Stir Fry",
+  "description": "A light and herbal Australian dish featuring brie cheese in a stir fry, perfect for a kid-friendly meal. This vegetarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brie cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook for an additional 2 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 4 minutes.",
+    "Add the chopped snow peas and cook for 2 minutes, or until they are tender but still crisp.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced brie cheese and stir until it is melted and well combined with the vegetables.",
+    "Season with dried thyme, salt, and pepper to taste.",
+    "Serve the stir fry hot over rice or noodles.",
+    "Garnish with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "kid-friendly",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quick-australian-brie-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-australian-brie-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:23:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "brie",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "brie",
+    "descriptor": "Quick Vegetarian",
+    "dishForm": "Stir-fry"
+  }
+}
