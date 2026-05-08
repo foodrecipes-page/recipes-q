@@ -1,0 +1,110 @@
+{
+  "title": "Quietly Silky Moroccan Potatoes Zaalouk",
+  "description": "A salty, silky, and nostalgic Moroccan dish featuring charlotte potatoes, nimono-simmer, and high-protein-friendly ingredients, formed into a traditional zaalouk.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the sliced potatoes, ground cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for 10 minutes, stirring occasionally, until the potatoes are slightly tender.",
+    "Add the chickpeas, tomato paste, and water, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes, or until the potatoes are tender and the sauce has thickened.",
+    "Remove the saucepan from the heat and let it cool slightly before serving.",
+    "Serve the zaalouk hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "nimono-simmer",
+    "one-pan",
+    "potato",
+    "salty",
+    "silky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-silky-moroccan-potatoes-zaalouk",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-silky-moroccan-potatoes-zaalouk",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:00:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quietly Silky",
+    "dishForm": "Zaalouk"
+  }
+}
