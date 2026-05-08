@@ -6430,6 +6430,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-japanese-pork-gyoza",
+    "title": "Quick Japanese Pork Gyoza",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "pork",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-japanese-red-bean-dorayaki",
     "title": "Quick Japanese Red Bean Dorayaki",
     "tags": [
