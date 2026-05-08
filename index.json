@@ -5575,6 +5575,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-molten-polish-ground-annatto-pilaf",
+    "title": "Quick Molten Polish Ground Annatto Pilaf",
+    "tags": [
+      "comfort-food",
+      "lacto-vegetarian",
+      "midnight-cravings",
+      "one-pan",
+      "polish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-molten-uruguayan-beef-empanadas",
     "title": "Quick Molten Uruguayan Beef Empanadas",
     "tags": [
@@ -7745,6 +7760,20 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-garlicky-turkish-sun-dried-tomatoes-pilaf",
+    "title": "Quietly Garlicky Turkish Sun-Dried Tomatoes Pilaf",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "special-occasion",
+      "turkish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

@@ -1,0 +1,101 @@
+{
+  "title": "Quick Molten Polish Ground Annatto Pilaf",
+  "description": "A lacto-vegetarian friendly Polish dish featuring ground annatto, with a mustardy and molten flavor profile, perfect for satisfying midnight cravings.",
+  "cuisine": "Polish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground annatto",
+      "amount": "2 tablespoons",
+      "notes": "also known as achiote powder"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 cup sliced",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or mozzarella"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced Polish sausage and cook until browned, about 5 minutes.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the ground annatto, mustard, salt, and black pepper, and cook for 1 minute.",
+    "Add the cooked rice to the skillet, stirring to combine with the annatto mixture.",
+    "Reduce heat to low and stir in the shredded cheese until melted and well combined.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "midnight-cravings",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quick-molten-polish-ground-annatto-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-molten-polish-ground-annatto-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:20:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "ground annatto",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "ground annatto",
+    "descriptor": "Quick molten",
+    "dishForm": "Pilaf"
+  }
+}
