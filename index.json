@@ -6132,6 +6132,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-velvety-irish-salmon-poke",
+    "title": "Quick Velvety Irish Salmon Poke",
+    "tags": [
+      "easy-to-make",
+      "healthy",
+      "high-protein",
+      "irish-cuisine",
+      "quick-meal",
+      "seafood"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-velvety-turkish-nduja-dolma",
     "title": "Quick Velvety Turkish Nduja Dolma",
     "tags": [
@@ -6278,6 +6293,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-braised-welsh-sausages-toad-in-the-hole",
+    "title": "Quickly Braised Welsh Sausages Toad-in-the-Hole",
+    "tags": [
+      "beef-free",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Welsh",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {

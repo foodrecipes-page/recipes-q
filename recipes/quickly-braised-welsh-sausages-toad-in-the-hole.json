@@ -1,0 +1,115 @@
+{
+  "title": "Quickly Braised Welsh Sausages Toad-in-the-Hole",
+  "description": "Charred Welsh sausages cooked in a rich beer braise, served in a crispy Yorkshire pudding 'nest'. A hearty, paleo-friendly take on the British classic.",
+  "cuisine": "Welsh",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Welsh sausages",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "soda water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "any pale ale or lager"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking the sausages"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large, deep terracotta dish, combine the chopped onion, minced garlic, carrots, and celery. Drizzle with a little coconut oil and toss to coat.",
+    "Add the Welsh sausages to the dish, tucking them in among the vegetables.",
+    "Pour in the beer, leaving about 1 inch of space at the top of the dish.",
+    "Dust the top of the sausages with a little all-purpose flour.",
+    "Bake in the preheated oven for about 25 minutes, or until the sausages are nicely browned and the vegetables are tender.",
+    "While the sausages are cooking, whisk together the eggs and soda water in a small bowl.",
+    "Remove the dish from the oven and carefully pour the egg mixture over the sausages and vegetables.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the eggs are set and the Yorkshire pudding is puffed and golden.",
+    "Carefully remove the dish from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the Yorkshire pudding from the dish.",
+    "Slide the dish onto a serving platter and serve hot.",
+    "Garnish with fresh thyme sprigs and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-free",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 44,
+    "carbs": 60,
+    "fat": 42
+  },
+  "slug": "quickly-braised-welsh-sausages-toad-in-the-hole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-braised-welsh-sausages-toad-in-the-hole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:01:58Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "braise",
+    "primaryIngredient": "beer",
+    "diet": "paleo",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Sausages",
+    "descriptor": "Quickly Braised",
+    "dishForm": "Toad-in-the-Hole"
+  }
+}

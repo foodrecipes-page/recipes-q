@@ -1,0 +1,103 @@
+{
+  "title": "Quick Velvety Irish Salmon Poke",
+  "description": "A satvik-friendly, umami-rich Irish dish featuring sashimi-cut salmon, oregano, and a velvety texture, perfect for a quick and energizing meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "1 pound",
+      "notes": "sashimi-grade, skin removed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tablespoon",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "microgreens",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cut the salmon fillet into small, sashimi-cut pieces and place them in a large bowl.",
+    "In a small bowl, whisk together soy sauce, lemon juice, oregano, sesame oil, honey, garlic, salt, and black pepper to make the marinade.",
+    "Pour the marinade over the salmon pieces and toss to coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with microgreens and serve immediately.",
+    "Use a fork to gently mix the salmon and marinade again, if needed, to maintain the velvety texture.",
+    "Serve the Quick Velvety Irish Salmon Poke chilled, straight from the refrigerator.",
+    "Consider serving with a side of steamed vegetables or a fresh salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "high-protein",
+    "irish-cuisine",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-velvety-irish-salmon-poke",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-velvety-irish-salmon-poke",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:02:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "oregano",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Quick Velvety",
+    "dishForm": "Poke"
+  }
+}
