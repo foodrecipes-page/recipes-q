@@ -1,0 +1,106 @@
+{
+  "title": "Quick and Chewy Argentinian Black Beans Empanadas",
+  "description": "A quick-fix, briny, and chewy Argentinian dish featuring black beans, ferment jang, and is low-carb-friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "2 tbsp",
+      "notes": " Korean chili paste"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten (or flax egg)"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, combine the cooked black beans, ferment jang, cumin, oregano, and salt. Mix well.",
+    "Add the chopped cilantro and mix until combined.",
+    "In a separate bowl, combine the flour and water to form a dough.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten into a disk.",
+    "Place a tablespoon of the black bean mixture in the center of each dough disk.",
+    "Brush the edges of the dough with olive oil and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada.",
+    "Heat the non-stick skillet or griddle over medium heat and cook the empanadas for 2-3 minutes on each side, or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "breakfast-for-dinner",
+    "empanadas",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "quick-and-chewy-argentinian-black-beans-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-and-chewy-argentinian-black-beans-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:25:36Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "black beans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "black beans",
+    "descriptor": "quick and chewy",
+    "dishForm": "Empanadas"
+  }
+}
