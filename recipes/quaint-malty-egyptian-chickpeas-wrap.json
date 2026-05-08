@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Malty Egyptian Chickpeas Wrap",
+  "description": "A malty, chewy, nostalgic Egyptian dish featuring chickpeas, this wrap is perfect for a snack or light meal, and is anti-inflammatory friendly due to the turmeric and ginger used in the recipe.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the malt syrup, turmeric, salt, and black pepper.",
+    "Add the chickpeas to the skillet and stir to combine with the malt syrup mixture.",
+    "Cook for 5 minutes, stirring occasionally, until the chickpeas are coated in the malt syrup mixture.",
+    "Warm the whole wheat tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the chickpea mixture onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaint-malty-egyptian-chickpeas-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-malty-egyptian-chickpeas-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "quaint malty",
+    "dishForm": "Wrap"
+  }
+}
