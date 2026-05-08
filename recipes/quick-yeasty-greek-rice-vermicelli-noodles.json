@@ -1,0 +1,99 @@
+{
+  "title": "Quick Yeasty Greek Rice Vermicelli Noodles",
+  "description": "A light and yeasty Greek dish featuring rice vermicelli, infused with oil and sugar-free friendly, made in a kadhai. This dish is perfect for a quick lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Vermicelli",
+      "amount": "200g",
+      "notes": "thin noodles"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 tsp",
+      "notes": "for yeast flavor"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tbsp",
+      "notes": "with herbs and spices"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Crumbled Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a kadhai over medium heat.",
+    "Add the rice vermicelli and cook for 2-3 minutes, stirring constantly.",
+    "Add the active dry yeast and cook for another minute, stirring constantly.",
+    "Add the lemon juice, salt, and black pepper, and stir well.",
+    "Reduce heat to low and simmer for 5 minutes, or until the noodles are cooked.",
+    "Stir in the chopped fresh parsley and crumbled feta cheese, if using.",
+    "Serve hot and enjoy.",
+    "Garnish with additional parsley and feta cheese, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "greek-cuisine",
+    "one-pot",
+    "quick-meal",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-yeasty-greek-rice-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-yeasty-greek-rice-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:55:03Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "Quick Yeasty",
+    "dishForm": "Noodles"
+  }
+}
