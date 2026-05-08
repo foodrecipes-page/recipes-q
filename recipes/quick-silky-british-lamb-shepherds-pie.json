@@ -1,0 +1,98 @@
+{
+  "title": "Quick Silky British Lamb Shepherds Pie",
+  "description": "A quick and easy British dish featuring lamb, cucumber, and pickle, with anti-inflammatory friendly ingredients, in a silky shepherds pie form.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "anti-inflammatory"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons",
+      "notes": "yeasty flavor"
+    },
+    {
+      "name": "mashed potato",
+      "amount": "2 cups",
+      "notes": "silky texture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a pan, cook the ground lamb over medium heat until browned.",
+    "Add the chopped onion, minced garlic, and diced cucumber to the pan and cook until the vegetables are tender.",
+    "Stir in the chopped pickle, turmeric, and yeast extract.",
+    "Transfer the lamb mixture to a baking dish.",
+    "Top the lamb mixture with the mashed potato.",
+    "Bake the shepherds pie in the preheated oven for 25 minutes.",
+    "Remove the pie from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "british-classic",
+    "comfort-food",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-silky-british-lamb-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-silky-british-lamb-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:04:50Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "cucumber",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Silky",
+    "dishForm": "Shepherds Pie"
+  }
+}
