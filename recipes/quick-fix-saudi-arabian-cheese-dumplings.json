@@ -1,0 +1,106 @@
+{
+  "title": "Quick-Fix Saudi-Arabian Cheese Dumplings",
+  "description": "A quick fix jammy cheese-pull dish made with madras paste, shio-koji-cure, and ayurvedic sattvic-friendly ingredients. Perfect for a weeknight dinner.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shio-koji cure",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "madras paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "white part only"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kasuri methi",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine shio-koji cure, madras paste, ghee or oil, onion, garlic, cottage cheese, flour, water, salt, pepper, coriander powder, and kasuri methi. Mix well to form a smooth dough.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal portions. Roll each portion into a ball and flatten slightly into a disk shape.",
+    "Heat a non-stick skillet or griddle over medium heat. Cook the dumplings for 2-3 minutes on each side or until they are golden brown.",
+    "Serve the dumplings hot with a dash of coriander and kasuri methi.",
+    "To make the cheese-pull effect, sprinkle a little water over the dumplings and place a flatbread on top. Cover with a lid and cook for another minute.",
+    "Remove the lid and use a spatula to carefully lift the flatbread and reveal the melted cheese pull."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "easy-to-make",
+    "high-protein",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "quick-fix-saudi-arabian-cheese-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-saudi-arabian-cheese-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:01:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "madras paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Dumplings"
+  }
+}
