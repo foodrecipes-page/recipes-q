@@ -1,0 +1,100 @@
+{
+  "title": "Quick Smoky Ukrainian Umeboshi Skewers",
+  "description": "A floral and snappy Ukrainian dish featuring umeboshi, smoke-cold, and raw-friendly ingredients, perfect for show-off occasions. This recipe combines the unique flavors of umeboshi with traditional Ukrainian ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "raw",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Umeboshi",
+      "amount": "12",
+      "notes": "Japanese pickled plums"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12",
+      "notes": "soaked in water"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes to prevent burning.",
+    "Thread a cherry tomato, an umeboshi, and a sprig of fresh dill onto each skewer.",
+    "In a small bowl, mix together smoked paprika, garlic, lemon juice, olive oil, and salt.",
+    "Brush the mixture onto each skewer, making sure to coat all the ingredients.",
+    "Place the skewers on a plate or tray and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle additional smoked paprika and chopped fresh dill onto each skewer.",
+    "Serve the skewers cold, garnished with additional cherry tomatoes and fresh dill if desired.",
+    "For an added smoky flavor, place the skewers under the broiler for 1-2 minutes, watching carefully to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 2,
+  "totalTimeMin": 52,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "easy-entertaining",
+    "gluten-free",
+    "quick-snack",
+    "raw-friendly",
+    "smoky-flavor",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-smoky-ukrainian-umeboshi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-ukrainian-umeboshi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "umeboshi",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "umeboshi",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Skewers"
+  }
+}
