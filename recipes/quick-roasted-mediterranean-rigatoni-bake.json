@@ -1,0 +1,101 @@
+{
+  "title": "Quick Roasted Mediterranean Rigatoni Bake",
+  "description": "A quick and flavorful Whole30-friendly dish featuring roasted Mediterranean ingredients and rigatoni pasta, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the rigatoni pasta according to package instructions until al dente.",
+    "In a large bowl, toss the cooked rigatoni pasta with olive oil, cherry tomatoes, Kalamata olives, artichoke hearts, salt, and pepper.",
+    "Transfer the pasta mixture to a 9x13 inch baking dish and top with chopped fresh basil.",
+    "Drizzle the lemon juice over the top of the pasta mixture.",
+    "Roast in the preheated oven for 15 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "mediterranean",
+    "one-pan",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-roasted-mediterranean-rigatoni-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-mediterranean-rigatoni-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:26:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "rigatoni",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Bake"
+  }
+}
