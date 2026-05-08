@@ -1,0 +1,107 @@
+{
+  "title": "Quietly Romantic Venezuelan Chicken Paella",
+  "description": "A low calorie, wine infused Venezuelan dish featuring golden syrup and mirepoix base, perfect for a romantic evening.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium high heat.",
+    "Add the diced onion, carrot, and celery and cook until the vegetables are tender.",
+    "Add the chicken breast and cook until browned on all sides and cooked through.",
+    "Add the white wine, golden syrup, saffron threads, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the uncooked white rice to the pan, stirring to combine with the chicken and sauce.",
+    "Cook, covered, for 20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "latin-american",
+    "low-calorie",
+    "one-pan",
+    "romantic-dinner",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-romantic-venezuelan-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-romantic-venezuelan-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:18Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "golden syrup",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Romantic",
+    "dishForm": "Paella"
+  }
+}
