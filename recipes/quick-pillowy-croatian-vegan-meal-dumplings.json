@@ -1,0 +1,105 @@
+{
+  "title": "Quick pillowy Croatian Vegan meal Dumplings",
+  "description": "Fresh, pillowy, meal-prep Croatian dish featuring salsa, pickle, vegan-friendly ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a high-protein flour if possible"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream (vegan)",
+      "amount": "1/2 cup",
+      "notes": "use a plant-based sour cream alternative"
+    },
+    {
+      "name": "pickled cabbage",
+      "amount": "1/2 cup",
+      "notes": "finely chop before using"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing dumpling dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine flour, warm water, sour cream, and salt in a large mixing bowl. Mix until a smooth dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes elastic and smooth.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat a large non-stick skillet over medium heat and add the olive oil.",
+    "Cook the dumplings for 2-3 minutes on each side, until golden brown and cooked through.",
+    "While the dumplings are cooking, combine chopped pickled cabbage and salsa in a small bowl.",
+    "Serve the cooked dumplings with the cabbage-salsa mixture spooned over the top and garnished with chopped parsley.",
+    "To freeze, place cooked dumplings on a baking sheet lined with parchment paper and freeze until solid. Transfer the frozen dumplings to a freezer-safe bag or container for storage."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dinner",
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-pillowy-croatian-vegan-meal-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pillowy-croatian-vegan-meal-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:55:50Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "salsa",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Vegan meal",
+    "descriptor": "Quick pillowy",
+    "dishForm": "Dumplings"
+  }
+}

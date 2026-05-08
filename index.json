@@ -4642,6 +4642,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-pillowy-croatian-vegan-meal-dumplings",
+    "title": "Quick pillowy Croatian Vegan meal Dumplings",
+    "tags": [
+      "croatian",
+      "dinner",
+      "gluten-free",
+      "meal-prep",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-portuguese-cod-stew",
     "title": "Quick Portuguese Cod Stew",
     "tags": [
@@ -6283,6 +6298,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-nutty-egyptian-lentil-curry",
+    "title": "Quietly Nutty Egyptian Lentil Curry",
+    "tags": [
+      "high-protein",
+      "lentil-based",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
