@@ -172,6 +172,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-creamy-peruvian-shrimp-chupe-de-camarones",
+    "title": "Quaint Creamy Peruvian Shrimp Chupe De Camarones",
+    "tags": [
+      "banana-leaf-cooking",
+      "cream-based-sauces",
+      "peruvian-cuisine",
+      "seafood-recipes",
+      "special-occasion-recipes"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-croatian-red-pepper-skewers",
     "title": "Quaint Croatian Red Pepper Skewers",
     "tags": [
@@ -3174,6 +3188,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-braised-slovakian-pork-dumplings",
+    "title": "Quick Braised Slovakian Pork Dumplings",
+    "tags": [
+      "gluten-free",
+      "one-pot",
+      "pressure-cooker",
+      "raw-friendly",
+      "umami-rich",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -6707,6 +6736,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-seared-algerian-chicken-liver-skewers",
+    "title": "Quick Seared Algerian Chicken Liver Skewers",
+    "tags": [
+      "algerian",
+      "easy",
+      "grilled",
+      "high-protein",
+      "low-carb",
+      "quick"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
     "slug": "quick-seared-korean-chorizo-noodles",
     "title": "Quick Seared Korean Chorizo Noodles",
     "tags": [
@@ -8902,6 +8946,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-savory-greek-lamb-stew",
+    "title": "Quietly Savory Greek Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "flexitarian-friendly",
+      "greek-cuisine",
+      "lamb-recipes",
+      "one-pot-meals"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 120,
     "shard": "q"
   },
   {

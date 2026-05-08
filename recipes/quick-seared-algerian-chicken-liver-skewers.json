@@ -1,0 +1,98 @@
+{
+  "title": "Quick Seared Algerian Chicken Liver Skewers",
+  "description": "A spicy and crispy high-protein dish featuring chicken liver, perfect for a post-workout snack, with a flavor profile inspired by Algerian cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken liver",
+      "amount": "1 pound",
+      "notes": "sashimi-cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together olive oil, harissa, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the chicken liver pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken liver pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 2-3 minutes per side, or until the liver is cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with chopped parsley.",
+    "Let the skewers rest for 1-2 minutes before serving to allow the juices to redistribute.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "easy",
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "quick-seared-algerian-chicken-liver-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-seared-algerian-chicken-liver-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:41:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "chicken liver",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken liver",
+    "descriptor": "Quick seared",
+    "dishForm": "Skewers"
+  }
+}

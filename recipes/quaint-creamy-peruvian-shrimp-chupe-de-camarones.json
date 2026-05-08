@@ -1,0 +1,97 @@
+{
+  "title": "Quaint Creamy Peruvian Shrimp Chupe De Camarones",
+  "description": "A peppery and creamy Peruvian dish featuring tamarind paste, this recipe is a crowd-pleaser and perfect for special occasions, made with ayurvedic-sattvic-friendly ingredients and cooked in a banana leaf vessel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pound the onion, garlic, and ginger in a mortar and pestle until well combined.",
+    "Heat the mixture in a pan over medium heat until the onion is translucent.",
+    "Add the tamarind paste and cook for 1 minute, stirring constantly.",
+    "Add the heavy cream and bring the mixture to a simmer.",
+    "Add the shrimp and cook until they are pink and fully cooked.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Spoon the mixture onto the center of a banana leaf.",
+    "Fold the banana leaf over the mixture to form a packet and secure with a toothpick.",
+    "Repeat with the remaining ingredients.",
+    "Serve the packets hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf-cooking",
+    "cream-based-sauces",
+    "peruvian-cuisine",
+    "seafood-recipes",
+    "special-occasion-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quaint-creamy-peruvian-shrimp-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-creamy-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:41:57Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "tamarind paste",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "quaint creamy",
+    "dishForm": "Chupe De Camarones"
+  }
+}

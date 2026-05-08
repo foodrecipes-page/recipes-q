@@ -1,0 +1,101 @@
+{
+  "title": "Quietly Savory Greek Lamb Stew",
+  "description": "A savory and romantic Greek dish featuring tender lamb, crispy bacon, and tangy nuka-pickle, perfect for a flexitarian-friendly dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the hot pot vessel over medium heat and cook the diced bacon until crispy.",
+    "Remove the bacon from the vessel and set aside, leaving the grease behind.",
+    "Add the chopped onion to the vessel and cook until translucent.",
+    "Add the minced garlic to the vessel and cook for 1 minute.",
+    "Add the lamb cubes to the vessel and cook until browned on all sides.",
+    "Add the chopped nuka-pickle, dried oregano, salt, and black pepper to the vessel and stir to combine.",
+    "Add the chicken broth to the vessel and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the cooked bacon and serve hot.",
+    "Serve the stew in bowls and enjoy.",
+    "Garnish with fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quietly-savory-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-savory-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:40:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "bacon",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "quietly savory",
+    "dishForm": "Stew"
+  }
+}
