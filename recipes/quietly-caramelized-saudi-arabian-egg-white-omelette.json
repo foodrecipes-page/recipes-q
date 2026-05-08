@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Caramelized Saudi Arabian Egg White Omelette",
+  "description": "A jammy and chewy Saudi Arabian dish featuring egg whites, perfect for a brunch mood, and friendly to Buddhist temple dietary preferences",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 1 tablespoon hot water"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Crack the egg whites into a bowl and whisk them lightly with a fork until they become frothy.",
+    "Add the salt, black pepper, and soaked saffron threads to the egg whites and mix well.",
+    "Heat the ghee in a non-stick skillet over medium heat.",
+    "Once the ghee is hot, pour in the egg white mixture and let it cook for about 2 minutes.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Continue cooking the omelette for another 2 minutes, until the bottom is lightly caramelized.",
+    "Sprinkle the chopped scallions and parsley over half of the omelette.",
+    "Squeeze the lemon juice over the herbs.",
+    "Use the spatula to carefully fold the other half of the omelette over the filling.",
+    "Cook for an additional minute, until the other side is also lightly caramelized.",
+    "Slide the omelette out of the skillet onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "buddhist-friendly",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 6
+  },
+  "slug": "quietly-caramelized-saudi-arabian-egg-white-omelette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-caramelized-saudi-arabian-egg-white-omelette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:18:53Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "egg white",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "egg white",
+    "descriptor": "quietly caramelized",
+    "dishForm": "Omelette"
+  }
+}
