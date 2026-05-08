@@ -4334,6 +4334,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-flaky-german-dough-dumplings",
+    "title": "Quick Flaky German Dough Dumplings",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "gluten-free",
+      "homemade",
+      "steamed-dishes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-flaky-german-potato-dumplings",
     "title": "Quick Flaky German Potato Dumplings",
     "tags": [

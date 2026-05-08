@@ -1,0 +1,92 @@
+{
+  "title": "Quick Flaky German Dough Dumplings",
+  "description": "A traditional German dish featuring turmeric powder, these dumplings are a crowd-pleaser and can be made gluten-free friendly. They are best served steamed in a bamboo steamer.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free flour can be used as substitute"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, turmeric powder, salt, and sugar.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the melted butter to the egg mixture and whisk until combined.",
+    "Slowly pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and fold in half to form a half-moon shape.",
+    "Place the dumplings in a bamboo steamer lined with parchment paper.",
+    "Steam the dumplings over boiling water for 15 minutes.",
+    "Serve the dumplings hot with your favorite sauce or topping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "homemade",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-flaky-german-dough-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-flaky-german-dough-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:43:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "turmeric powder",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "dough",
+    "descriptor": "Quick Flaky",
+    "dishForm": "Dumplings"
+  }
+}
