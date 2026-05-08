@@ -1,0 +1,101 @@
+{
+  "title": "Quietly crunchy Turkish blueberries Skewers",
+  "description": "A solo dinner Turkish dish featuring blueberries, with a briny and crunchy texture, made with ayurvedic sattvic friendly ingredients. This dish is perfect for a quiet evening meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh blueberries",
+      "amount": "1 cup",
+      "notes": "choose fresh and firm blueberries"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon",
+      "notes": "use a high quality molasses"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "choose fresh and fragrant leaves"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10 pieces",
+      "notes": "soak the skewers in water for 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "Soak the wooden skewers in water for 30 minutes before use to prevent them from burning during cooking.",
+    "In a large bowl, whisk together olive oil, lemon juice, pomegranate molasses, sumac, salt, and black pepper to make the marinade.",
+    "Add the fresh blueberries to the marinade and gently toss to coat, being careful not to bruise the blueberries.",
+    "Thread a few blueberries onto each skewer, leaving a small space between each blueberry.",
+    "Place the skewers on a baking sheet lined with parchment paper and refrigerate for 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium heat and brush with a small amount of olive oil to prevent sticking.",
+    "Grill the skewers for 2-3 minutes per side, or until they are slightly caramelized and crunchy.",
+    "Remove the skewers from the grill and garnish with fresh mint leaves.",
+    "Serve the skewers immediately, with a side of quinoa or bulgur for a filling dinner.",
+    "Deglaze the grill pan with a small amount of water to remove any remaining marinade and blueberry juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "healthy-snack",
+    "sattvic-diet",
+    "turkish-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "quietly-crunchy-turkish-blueberries-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crunchy-turkish-blueberries-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:26:18Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "blueberries",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "blueberries",
+    "descriptor": "Quietly crunchy",
+    "dishForm": "Skewers"
+  }
+}
