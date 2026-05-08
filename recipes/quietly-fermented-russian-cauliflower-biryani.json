@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Fermented Russian Cauliflower Biryani",
+  "description": "A fermented and velvety Russian dish featuring cauliflower and dashi extract, made in a molcajete. This low-glycemic-friendly meal is perfect for a weeknight dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fermented vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in the molcajete over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cauliflower florets and cook until they start to soften.",
+    "Add the dashi extract, salt, black pepper, and turmeric, and stir to combine.",
+    "Pour in the fermented vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and let cook, covered, for 20 minutes.",
+    "Remove the lid and let cook for an additional 10 minutes, stirring occasionally.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quietly-fermented-russian-cauliflower-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-fermented-russian-cauliflower-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:24:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "dashi-extract",
+    "primaryIngredient": "cauliflower",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "quietly fermented",
+    "dishForm": "Biryani"
+  }
+}
