@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Tender Spanish Octopus Pulpo A La Gallega",
+  "description": "A tangy and tender Spanish dish featuring octopus, tobiko, and kombu cold extract, perfect for a romantic dinner. This flexitarian friendly recipe is a twist on the traditional Pulpo A La Gallega.",
+  "cuisine": "Spanish",
+  "diet": [
+    "flexitarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite sized pieces"
+    },
+    {
+      "name": "tobiko",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the octopus under cold water and pat it dry with paper towels.",
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the octopus and cook for 5 minutes until it starts to brown.",
+    "Add the kombu cold extract, tobiko, and lemon juice, and stir to combine.",
+    "Reduce the heat to low and simmer for 10 minutes until the octopus is tender.",
+    "Stir in the chopped parsley and serve hot.",
+    "Garnish with additional parsley and tobiko if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "pescatarian",
+    "romantic",
+    "seafood",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quaint-tender-spanish-octopus-pulpo-a-la-gallega",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-tender-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:51:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "tobiko",
+    "diet": "flexitarian",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "octopus",
+    "descriptor": "quaint tender",
+    "dishForm": "Pulpo A La Gallega"
+  }
+}
