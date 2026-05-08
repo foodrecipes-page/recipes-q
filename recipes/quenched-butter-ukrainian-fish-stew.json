@@ -2,9 +2,7 @@
   "title": "Quenched Butter Ukrainian Fish Stew",
   "description": "A buttery and energizing Ukrainian dish featuring lemon juice and miso-marinate, perfect for a cold evening. This pescatarian-friendly stew is cooked to perfection in a claypot.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "fish",
     "descriptor": "quenched buttery",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

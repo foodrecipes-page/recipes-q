@@ -93,11 +93,15 @@
     "mood": "indulgent",
     "technique": "smoke-cold",
     "primaryIngredient": "star anise",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Moroccan",
     "mainIngredient": "fava beans",
     "descriptor": "Quietly Indulgent",
     "dishForm": "Bissara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

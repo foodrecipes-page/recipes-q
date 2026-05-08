@@ -103,11 +103,15 @@
     "mood": "brunch-mood",
     "technique": "soffritto-base",
     "primaryIngredient": "beef stock",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Greek",
     "mainIngredient": "giant beans",
     "descriptor": "Quenched",
     "dishForm": "Gigantes Plaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

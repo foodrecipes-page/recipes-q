@@ -94,8 +94,7 @@
     "nduja",
     "one-pan",
     "plant-based",
-    "ratatouille",
-    "vegan"
+    "ratatouille"
   ],
   "nutrition": {
     "calories": 840,
@@ -120,5 +119,9 @@
     "mainIngredient": "nduja",
     "descriptor": "Quenched Pillow",
     "dishForm": "Tatin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

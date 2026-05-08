@@ -62,7 +62,8 @@
     "Pat the beef mixture into a 20 cm square baking dish and cover with the puff pastry sheet, sealing the edges.",
     "Brush the pastry with melted butter and bake at 190°C for 20 minutes until the crust puffs and turns golden.",
     "Remove the pie from the oven and let it rest for 5 minutes before serving.",
-    "Slice the pie into four equal portions and serve warm."
+    "Slice the pie into four equal portions and serve warm.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "beef",
     "descriptor": "Quenched Springy",
     "dishForm": "Pie"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

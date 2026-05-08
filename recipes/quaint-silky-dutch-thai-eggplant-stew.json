@@ -3,8 +3,7 @@
   "description": "A garlicky and silky Dutch stew featuring Thai eggplant and kimchi, perfect for a Buddhist temple friendly meal. This dish is great for meal prep and can be served as a main course.",
   "cuisine": "Dutch Thai",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
     "dutch-thai",
     "meal-prep",
     "one-pot",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -98,5 +96,9 @@
     "mainIngredient": "thai eggplant",
     "descriptor": "Quaint Silky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

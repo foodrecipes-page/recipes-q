@@ -52,7 +52,8 @@
     "Add the kabse spice and bhuna spice and stir to combine.",
     "Add the fish sauce and lime juice and stir to combine.",
     "Reduce heat to low and simmer for 10 minutes.",
-    "Serve hot over cauliflower rice or low-carb vegetables."
+    "Serve hot over cauliflower rice or low-carb vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Energizing",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

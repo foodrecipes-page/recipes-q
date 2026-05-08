@@ -2,10 +2,7 @@
   "title": "Quietly Quarried Dutch Couscous Pilaf",
   "description": "A floral and aerated Dutch dish perfect for a date night, featuring couscous and dashi extract, nut-free-friendly. This recipe is designed to be a unique and romantic dinner option.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,7 +68,6 @@
     "date-night",
     "dutch-cuisine",
     "flower-infused",
-    "gluten-free",
     "healthy-dinner",
     "one-pan",
     "romantic-dinner"
@@ -99,5 +95,10 @@
     "mainIngredient": "couscous",
     "descriptor": "Quietly Quarried",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

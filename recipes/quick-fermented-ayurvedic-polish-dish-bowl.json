@@ -3,7 +3,6 @@
   "description": "Satisfy your Ayurvedic cravings with a quick fermentation process using shio-cure and a hint of sour cream, then enjoy this Polish-inspired dish bowl.",
   "cuisine": "Polish",
   "diet": [
-    "vegetarian",
     "ayurvedic",
     "gluten-free",
     "sattvic"
@@ -98,5 +97,9 @@
     "mainIngredient": "Polish Dish",
     "descriptor": "Quick Fermented",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

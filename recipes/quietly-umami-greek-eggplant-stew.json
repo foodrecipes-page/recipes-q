@@ -2,9 +2,7 @@
   "title": "Quietly Umami Greek Eggplant Stew",
   "description": "A nostalgic and savory Greek stew featuring eggplant, red pepper paste, and a rich umami flavor, all in a vegan-friendly package.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -72,8 +70,7 @@
     "greek",
     "one-pot",
     "stew",
-    "umami",
-    "vegan"
+    "umami"
   ],
   "nutrition": {
     "calories": 250,
@@ -98,5 +95,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Quietly umami",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

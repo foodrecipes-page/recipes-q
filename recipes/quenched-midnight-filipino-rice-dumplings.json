@@ -2,9 +2,7 @@
   "title": "Quenched Midnight Filipino Rice Dumplings",
   "description": "Malty and velvety Filipino midnight craving dish made with powdered sugar and gluten-free-friendly ingredients.",
   "cuisine": "filipino",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "difficulty": "hard",
   "tags": [
     "filipino-food",
-    "gluten-free",
     "midnight-snack",
     "one-pan",
     "weeknight"
@@ -91,5 +88,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quenched midnight",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

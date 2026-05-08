@@ -3,8 +3,7 @@
   "description": "A nutty and velvety Japanese dish featuring balsamic vinegar and shio-koji-cure, perfect for a festive meal. This raw-friendly recipe highlights the freshness of scallops and noodles.",
   "cuisine": "Japanese",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "scallops",
     "descriptor": "quaint velvety",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

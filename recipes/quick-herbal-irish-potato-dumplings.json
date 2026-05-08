@@ -91,11 +91,15 @@
     "mood": "quick-fix",
     "technique": "dum",
     "primaryIngredient": "dried red chillies",
-    "diet": "kosher",
+    "diet": "kosher-friendly",
     "region": null,
     "cuisineAdjective": "Irish",
     "mainIngredient": "Potato",
     "descriptor": "Quick Herbal",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

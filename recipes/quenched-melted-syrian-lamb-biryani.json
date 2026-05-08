@@ -3,8 +3,7 @@
   "description": "A rich, flavorful biryani dish from Syria, featuring lamb, rice, and spices, all blended together in a molten, savory sauce.",
   "cuisine": "Syrian",
   "diet": [
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -108,5 +107,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Quenched, Melted",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

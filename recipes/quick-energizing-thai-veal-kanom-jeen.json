@@ -2,10 +2,7 @@
   "title": "Quick Energizing Thai Veal Kanom Jeen",
   "description": "A cultured and energizing Thai dish featuring veal and toast in a glassy-jelly kanom jeen form, perfect for a quick and raw-friendly meal.",
   "cuisine": "Thai",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -64,8 +61,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "gluten-free",
     "high-protein",
     "quick-meal",
     "thai-cuisine"
@@ -93,5 +88,10 @@
     "mainIngredient": "veal",
     "descriptor": "Quick Energizing",
     "dishForm": "Kanom Jeen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

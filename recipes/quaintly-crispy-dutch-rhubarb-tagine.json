@@ -3,7 +3,6 @@
   "description": "A comforting Dutch dish featuring forced-rhubarb, crispy on the outside and tender on the inside, cooked in a tagine with a blend of aromatic spices, perfect for a chilly evening, and friendly to dairy-free diets.",
   "cuisine": "Dutch",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -77,7 +76,6 @@
   "tags": [
     "aromatic",
     "comfort-food",
-    "dairy-free",
     "dutch-cuisine",
     "one-pot",
     "vegetarian"
@@ -105,5 +103,9 @@
     "mainIngredient": "rhubarb",
     "descriptor": "Quaintly crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

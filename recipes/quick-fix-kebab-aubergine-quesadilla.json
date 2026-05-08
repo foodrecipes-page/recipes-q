@@ -38,7 +38,8 @@
     "In a small bowl, mix flour with water until you get a smooth batter. Adjust consistency as needed for frying.",
     "Heat olive oil in a large pan over medium heat. Dip each side of the aubergine into the flour mixture and fry until golden brown on both sides, about 2-3 minutes per side. Remove from pan and drain excess oil.",
     "If using chicken kebab mix, sprinkle it evenly over one half of the fried aubergine and place in another part of the pan for a few seconds to toast lightly.",
-    "Serve hot with your favorite dipping sauce or as is."
+    "Serve hot with your favorite dipping sauce or as is.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 8,
@@ -76,5 +77,9 @@
     "mainIngredient": "aubergine",
     "descriptor": "Quick-fix",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Quick Chinese Pork Twice-Cooked-Pork",
   "description": "A quick-fix Chinese dish featuring pork, glace cherry, and a peppery sauce, served in a pillowy format, free from nuts, easy to prepare and cook, suitable for weeknights, and ideal for a satisfying dinner.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Quick",
     "dishForm": "Twice-cooked-pork"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

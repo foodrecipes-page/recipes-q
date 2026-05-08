@@ -92,11 +92,15 @@
     "mood": "festive",
     "technique": "fold",
     "primaryIngredient": "gochugaru",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Polish",
     "mainIngredient": "Sauerkraut",
     "descriptor": "Quenched",
     "dishForm": "Pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -76,7 +76,6 @@
   "tags": [
     "chickpeas",
     "flatbread",
-    "gluten-free",
     "malaysian",
     "one-pan",
     "quick-fix",
@@ -106,5 +105,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "quick-fix rich",
     "dishForm": "flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

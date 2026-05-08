@@ -52,11 +52,12 @@
     "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
     "Remove the molcajete or ramekins from the water bath and let cool to room temperature.",
     "Cover and refrigerate for at least 2 hours or overnight.",
-    "Just before serving, sprinkle a thin layer of sugar over the top of each crema catalana and caramelize with a kitchen torch or under the broiler."
+    "Just before serving, sprinkle a thin layer of sugar over the top of each crema catalana and caramelize with a kitchen torch or under the broiler.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -90,5 +91,10 @@
     "mainIngredient": "duck",
     "descriptor": "Quietly Quenched",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "recomputed-totalTime"
+  ]
 }

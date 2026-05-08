@@ -2,11 +2,7 @@
   "title": "Quenched Uruguayan Beef Empanada",
   "description": "A flavorful and savory empanada filled with slow-cooked meat, onions, and herbs, served with a tangy briny bechamel sauce.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegetarian",
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,7 +67,8 @@
     "Repeat with the remaining dough and filling.",
     "Place the empanadas on a baking sheet lined with parchment paper and brush with egg wash.",
     "Bake in a preheated oven until golden brown, about 20 minutes.",
-    "Serve the empanadas hot with the bechamel sauce for dipping."
+    "Serve the empanadas hot with the bechamel sauce for dipping.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 120,
   "cookTimeMin": 40,
@@ -110,5 +107,12 @@
     "mainIngredient": "Beef",
     "descriptor": "Quenched",
     "dishForm": "Empanada"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

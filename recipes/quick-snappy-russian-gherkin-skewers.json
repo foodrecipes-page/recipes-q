@@ -3,8 +3,7 @@
   "description": "A garlicky and energizing Russian dish featuring gherkin relish and lardons-render, perfect for a quick snack, this recipe is Jain-friendly and made with simple ingredients.",
   "cuisine": "Russian",
   "diet": [
-    "Jain",
-    "Vegetarian"
+    "Jain"
   ],
   "meal": "snack",
   "ingredients": [
@@ -75,8 +74,7 @@
     "grilled-vegetables",
     "jain-friendly",
     "quick-snack",
-    "russian-cuisine",
-    "vegetarian"
+    "russian-cuisine"
   ],
   "nutrition": {
     "calories": 120,
@@ -101,5 +99,9 @@
     "mainIngredient": "gherkin",
     "descriptor": "Quick snappy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

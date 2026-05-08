@@ -3,8 +3,7 @@
   "description": "A post-workout Irish dish featuring creamed corn, served in a mason jar, this stew is a comforting and grassy treat. It is carefully prepared to be onion and garlic free.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "difficulty": "easy",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "irish-food",
     "mason-jar-recipes",
     "post-workout",
@@ -102,5 +100,9 @@
     "mainIngredient": "corn",
     "descriptor": "quietly creamy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

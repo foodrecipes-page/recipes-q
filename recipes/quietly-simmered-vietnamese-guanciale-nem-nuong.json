@@ -3,7 +3,6 @@
   "description": "A cultured and comforting Vietnamese dish featuring guanciale, simmered to perfection in a flavorful broth, served in a bamboo tray, and vegan-friendly by substitution, in the form of nem nuong, perfect for a sick day, with a shattering crunch from the fried shallots and a rich, meaty flavor from the guanciale, which can be substituted with a vegan alternative to cater to different dietary needs.",
   "cuisine": "vietnamese",
   "diet": [
-    "vegan",
     "meat"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "guanciale",
     "descriptor": "Quietly Simmered",
     "dishForm": "Nem Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

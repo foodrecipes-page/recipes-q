@@ -2,9 +2,7 @@
   "title": "Quenched Algerian Myeongnan Roe Tagine",
   "description": "A briny, crumbly midnight craving dish that blends smoky grilled fish roe with savory spices and a hint of citrus, served in a traditional tagine. The egg‑free recipe highlights a delicate balance of textures and flavors.",
   "cuisine": "Algerian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "Myeongnan Roe",
     "descriptor": "Quenched",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -54,7 +54,8 @@
     "Place 1-2 tablespoons of the chicken and rest-meat mixture in the center of each circle and fold the dough over to form a dumpling.",
     "Heat 2 tablespoons of butter in a fondue pot over medium heat.",
     "Add the dumplings to the fondue pot and cook for 5-7 minutes on each side, or until golden brown.",
-    "Serve the dumplings hot, with the remaining butter and garlic sauce on the side."
+    "Serve the dumplings hot, with the remaining butter and garlic sauce on the side.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quenched Garlic",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

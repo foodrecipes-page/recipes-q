@@ -75,7 +75,8 @@
     "Heat corn tortillas on a dry skillet 30 seconds each side.",
     "Shape a small mound of liver on the center of each tortilla like nigiri.",
     "Top each mound with red onion, cilantro, and shredded cabbage.",
-    "Serve immediately, optionally with fresh lime juice or hot sauce."
+    "Serve immediately, optionally with fresh lime juice or hot sauce.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 35,
@@ -112,5 +113,9 @@
     "mainIngredient": "Liver",
     "descriptor": "Quenched",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

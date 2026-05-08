@@ -72,7 +72,8 @@
     "Add the dry sherry and cook until the liquid is almost completely absorbed, 1-2 minutes.",
     "Add the cooked rice and stir to combine with the chicken and vegetables.",
     "Transfer the rice mixture to a serving platter and garnish with cilantro and sesame seeds if using.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -110,5 +111,9 @@
     "mainIngredient": "shattering",
     "descriptor": "quick-fix",
     "dishForm": "fried-rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A funky and flaky weeknight Mexican dish featuring burrata and steam, with vegan-friendly options.",
   "cuisine": "Mexican",
   "diet": [
-    "vegan",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -93,5 +92,9 @@
     "mainIngredient": "burrata",
     "descriptor": "Quick Steamed",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

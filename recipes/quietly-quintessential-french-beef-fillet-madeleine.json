@@ -2,9 +2,7 @@
   "title": "Quietly Quintessential French Beef Fillet Madeleine",
   "description": "A savory French dish featuring beef fillet, made in a madeleine form and served on a wooden board, perfect for a lazy Sunday lunch. This pescatarian-friendly dish has a unique tadka flavor.",
   "cuisine": "French",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,5 +99,9 @@
     "mainIngredient": "beef fillet",
     "descriptor": "Quietly Quintessential",
     "dishForm": "Madeleine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

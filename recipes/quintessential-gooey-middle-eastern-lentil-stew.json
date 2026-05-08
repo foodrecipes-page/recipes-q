@@ -2,9 +2,7 @@
   "title": "Quintessential Gooey Middle Eastern Lentil Stew",
   "description": "A hearty and comforting stew featuring fermented lentils, pancetta, and Middle Eastern spices, perfect for a sick day. This vegetarian-friendly dish is made with ferment-jang for added depth of flavor.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Quintessential Gooey",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

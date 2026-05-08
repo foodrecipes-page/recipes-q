@@ -72,7 +72,8 @@
     "Add the chicken broth, dried apricots, and browned lamb, and bring the mixture to a boil.",
     "Reduce the heat to low, cover the tagine or Dutch oven, and simmer the stew for 1 1/2 hours, or until the lamb is tender.",
     "Stir in the shredded cheddar cheese and cook until it is melted and the stew is heated through.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -110,5 +111,9 @@
     "mainIngredient": "lamb",
     "descriptor": "quietly comforting",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

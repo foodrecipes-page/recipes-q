@@ -57,7 +57,8 @@
     "Add the frozen potatoes, salt, and black pepper to the skillet, stirring to combine.",
     "Cook, stirring occasionally, until the potatoes are tender and lightly browned, about 10 minutes.",
     "Stir in the chopped cilantro and ghee or coconut oil.",
-    "Serve hot, garnished with additional cilantro if desired."
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 15,
@@ -65,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pan",
@@ -96,5 +96,10 @@
     "mainIngredient": "potatoes",
     "descriptor": "Quickly Spicy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

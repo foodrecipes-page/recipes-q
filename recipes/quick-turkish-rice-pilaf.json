@@ -3,8 +3,7 @@
   "description": "A flavorful and easy-to-make pilaf dish, great for a sick day or a quick weeknight meal.",
   "cuisine": "Turkish",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Stir in dried oregano, thyme, salt, and black pepper.",
     "Fluff the rice with a fork and stir in lemon juice and chopped parsley.",
     "Taste and adjust seasoning as needed.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -101,5 +101,10 @@
     "mainIngredient": "rice",
     "descriptor": "Quick",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

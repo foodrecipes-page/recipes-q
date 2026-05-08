@@ -45,7 +45,8 @@
     "Shape the mixture into croquettes of your desired size.",
     "Heat a pan on medium-high heat. Add enough sesame oil to cover the bottom of the pan.",
     "Place each croquette in the pan and fry until golden brown on all sides, about 3 minutes per side.",
-    "Transfer the croquettes to a serving dish and serve immediately."
+    "Transfer the croquettes to a serving dish and serve immediately.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -83,5 +84,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Wholesome",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

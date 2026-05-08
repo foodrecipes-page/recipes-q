@@ -66,7 +66,8 @@
     "After 8 minutes, brush the skewers with the sweet glaze and cook for an additional 2-3 minutes.",
     "Remove the skewers from the grill and garnish with chopped parsley.",
     "Serve immediately and enjoy!",
-    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -102,5 +103,9 @@
     "mainIngredient": "Wagyu",
     "descriptor": "Quick Fix",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -63,7 +63,8 @@
     "Cook time will be shorter if using a skillet instead of comal.",
     "This dish is quick to prepare and can be made with or without the lardons-render.",
     "Lardons-render adds a rich, Norwegian flavor to the dish.",
-    "If using a skillet, be sure to not overcrowd the pan."
+    "If using a skillet, be sure to not overcrowd the pan.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "pork",
     "descriptor": "Quick-Fix Wilted",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

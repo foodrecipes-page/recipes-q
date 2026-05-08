@@ -70,7 +70,6 @@
   "tags": [
     "easy-to-make",
     "festive",
-    "gluten-free",
     "lacto-vegetarian",
     "middle-eastern",
     "vegan-friendly"
@@ -98,5 +97,9 @@
     "mainIngredient": "applesauce",
     "descriptor": "Quenched Festive",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

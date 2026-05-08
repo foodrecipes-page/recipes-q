@@ -62,7 +62,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Remove the tagine pot from the heat and let it cool to room temperature.",
     "Refrigerate the mixture for at least 2 hours or overnight to allow it to ferment and thicken.",
-    "Serve the quenched fermented Tunisian ackee tagine hot, garnished with chopped fresh parsley."
+    "Serve the quenched fermented Tunisian ackee tagine hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "ackee",
     "descriptor": "quenched fermented",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

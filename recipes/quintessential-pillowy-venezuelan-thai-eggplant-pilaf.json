@@ -4,8 +4,7 @@
   "cuisine": "Venezuelan Thai",
   "diet": [
     "plant based",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "Thai eggplant",
     "descriptor": "Quintessential pillowy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

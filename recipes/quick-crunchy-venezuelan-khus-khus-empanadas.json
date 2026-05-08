@@ -2,9 +2,7 @@
   "title": "Quick Crunchy Venezuelan Khus Khus Empanadas",
   "description": "Fresh crunchy empanadas filled with khus khus, featuring a lamination puff pastry, perfect for a romantic Venezuelan dish, gluten free friendly.",
   "cuisine": "Venezuelan",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -57,7 +55,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "romantic-dish",
     "snack-food",
     "venezuelan-cuisine"
@@ -85,5 +82,9 @@
     "mainIngredient": "khus khus",
     "descriptor": "Quick crunchy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

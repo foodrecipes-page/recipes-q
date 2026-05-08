@@ -2,10 +2,7 @@
   "title": "Quick pillowy Croatian Vegan meal Dumplings",
   "description": "Fresh, pillowy, meal-prep Croatian dish featuring salsa, pickle, vegan-friendly ingredients.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -63,7 +60,8 @@
     "Cook the dumplings for 2-3 minutes on each side, until golden brown and cooked through.",
     "While the dumplings are cooking, combine chopped pickled cabbage and salsa in a small bowl.",
     "Serve the cooked dumplings with the cabbage-salsa mixture spooned over the top and garnished with chopped parsley.",
-    "To freeze, place cooked dumplings on a baking sheet lined with parchment paper and freeze until solid. Transfer the frozen dumplings to a freezer-safe bag or container for storage."
+    "To freeze, place cooked dumplings on a baking sheet lined with parchment paper and freeze until solid. Transfer the frozen dumplings to a freezer-safe bag or container for storage.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -73,7 +71,6 @@
   "tags": [
     "croatian",
     "dinner",
-    "gluten-free",
     "meal-prep",
     "one-pan",
     "vegan-friendly"
@@ -101,5 +98,11 @@
     "mainIngredient": "Vegan meal",
     "descriptor": "Quick pillowy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

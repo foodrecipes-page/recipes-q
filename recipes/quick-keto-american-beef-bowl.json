@@ -52,7 +52,8 @@
     "Top the beef mixture with shredded cheddar cheese, sour cream, diced onion, and diced bell pepper.",
     "Bake the dolsot-stone-bowl in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
     "Remove the bowl from the oven and let it cool for a few minutes before serving.",
-    "Serve the Quick Keto American Beef Bowl hot, garnished with additional fines-herbes if desired."
+    "Serve the Quick Keto American Beef Bowl hot, garnished with additional fines-herbes if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "Quick Keto",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

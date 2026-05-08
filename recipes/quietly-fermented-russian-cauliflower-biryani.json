@@ -69,7 +69,6 @@
     "gluten-free",
     "low-glycemic",
     "one-pot",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +94,9 @@
     "mainIngredient": "cauliflower",
     "descriptor": "quietly fermented",
     "dishForm": "Biryani"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

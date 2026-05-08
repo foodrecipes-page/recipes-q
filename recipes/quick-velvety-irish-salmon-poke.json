@@ -65,7 +65,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 45,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -99,5 +99,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Quick Velvety",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

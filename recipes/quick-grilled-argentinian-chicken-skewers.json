@@ -52,7 +52,8 @@
     "Remove the skewers from the heat and sprinkle with chopped parsley.",
     "Serve the chicken skewers hot, garnished with additional parsley if desired.",
     "Let the chicken rest for a few minutes before serving.",
-    "Serve with your choice of side dishes, such as a salad or roasted vegetables."
+    "Serve with your choice of side dishes, such as a salad or roasted vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Grilled",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

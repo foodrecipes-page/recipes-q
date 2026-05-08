@@ -2,10 +2,7 @@
   "title": "Quietly Juicy Greek Fregola Stifado",
   "description": "A peppery and juicy Greek dish featuring fregola, shaped like nigiri, this stifado is a cozy and delicious meal option, and can be adapted to be raw friendly.",
   "cuisine": "Greek",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "greek-cuisine",
     "one-pot",
     "vegetarian-option"
@@ -95,5 +91,10 @@
     "mainIngredient": "fregola",
     "descriptor": "quietly juicy",
     "dishForm": "Stifado"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

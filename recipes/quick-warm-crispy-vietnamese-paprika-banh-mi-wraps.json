@@ -2,10 +2,7 @@
   "title": "Quick Crispy Vietnamese Paprika Bánh Mì Wraps",
   "description": "Umami, velvety, quick-fix Vietnamese dish featuring paprika and long-fermentation-dough. A Buddhist-temple-friendly option for a satisfying meal.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -116,5 +113,10 @@
     "mainIngredient": "paprika",
     "descriptor": "quick warm crispy",
     "dishForm": "Bánh Mì- Wraps"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

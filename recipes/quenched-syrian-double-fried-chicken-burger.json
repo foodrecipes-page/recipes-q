@@ -73,7 +73,9 @@
     "assemble the burgers by spreading a layer of mayonnaise on the bottom bun, followed by a chicken piece, a lettuce leaf, a tomato slice, a pickle slice, and finally the top bun.",
     "place the assembled burgers on a baking sheet lined with parchment paper and bake for 10-12 minutes or until the cheese is melted and the buns are toasted.",
     "quench the burgers with a dollop of tzatziki sauce, if desired.",
-    "serve immediately and enjoy!"
+    "serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -111,5 +113,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Quenched double-fried",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

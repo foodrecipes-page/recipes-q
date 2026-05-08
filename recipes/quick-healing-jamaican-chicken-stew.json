@@ -52,7 +52,8 @@
     "Add the chicken broth, carrots, and potatoes to the pan and bring to a boil.",
     "Reduce the heat to low and simmer for 20 minutes.",
     "Season with salt and pepper to taste.",
-    "Ladle the stew into mason jars and serve hot."
+    "Ladle the stew into mason jars and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Healing",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Quick Seared Korean Chorizo Noodles",
   "description": "A garlicky, chewy, crowd-pleaser Korean dish featuring chorizo, infused oil, and served on a hot stone plate, perfect for a quick dinner or snack.",
   "cuisine": "Korean",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "chorizo",
     "descriptor": "Quick seared",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

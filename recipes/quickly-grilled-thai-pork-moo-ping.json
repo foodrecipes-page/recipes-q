@@ -2,9 +2,7 @@
   "title": "Quickly Grilled Thai Pork Moo Ping",
   "description": "Spicy Thai dish featuring grilled pork, served with sticky rice and a variety of garnishes. Popular at Thai Buddhist temples and street food stalls.",
   "cuisine": "Thai",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "Quickly Grilled",
     "dishForm": "Moo Ping"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

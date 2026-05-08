@@ -67,7 +67,8 @@
     "Toss the vegetables in olive oil, salt, and pepper.",
     "Return the pan to the oven and roast for an additional 45 minutes.",
     "Remove the pan from the oven and let the chicken rest for 10 minutes.",
-    "Serve the chicken with the roasted vegetables and steamed leafy greens."
+    "Serve the chicken with the roasted vegetables and steamed leafy greens.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -105,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quality Roasted",
     "dishForm": "Sunday Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A crispy and flavorful one-pot American dish featuring Rice Krispies, cooked to perfection in a tagine pot, inspired by the stone-bowl-dolsot method, and ayurvedic-tamasic-friendly ingredients.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "american",
     "crispy",
-    "gluten-free",
     "one-pot",
     "rice",
     "tagine",
@@ -91,5 +89,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quick Crispy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

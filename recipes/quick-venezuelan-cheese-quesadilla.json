@@ -74,7 +74,6 @@
     "quesadilla",
     "quick-fix",
     "snack",
-    "vegan",
     "venezuelan",
     "weeknight"
   ],
@@ -101,5 +100,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Quick",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

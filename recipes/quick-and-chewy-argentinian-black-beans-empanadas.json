@@ -3,8 +3,7 @@
   "description": "A quick-fix, briny, and chewy Argentinian dish featuring black beans, ferment jang, and is low-carb-friendly.",
   "cuisine": "Argentinian",
   "diet": [
-    "low-carb",
-    "vegan"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -76,8 +75,7 @@
     "empanadas",
     "low-carb",
     "one-pan",
-    "quick-fix",
-    "vegan"
+    "quick-fix"
   ],
   "nutrition": {
     "calories": 220,
@@ -102,5 +100,9 @@
     "mainIngredient": "black beans",
     "descriptor": "quick and chewy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

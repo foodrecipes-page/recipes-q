@@ -73,7 +73,8 @@
     "Add the tomato paste, all-purpose flour, beef broth, red wine, honey, thyme, cayenne pepper, salt, and black pepper to the casserole dish. Stir to combine.",
     "Bring the mixture to a boil, then cover the casserole dish with a lid and transfer it to the preheated oven.",
     "Bake for 25 minutes, then remove the lid and continue baking for a further 10-15 minutes, or until the casserole is hot and the sauce is bubbly.",
-    "Serve the casserole hot, garnished with fresh thyme if desired."
+    "Serve the casserole hot, garnished with fresh thyme if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -112,5 +113,9 @@
     "mainIngredient": "Meat",
     "descriptor": "Quick",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Quick Pungent Filipino Snow Peas Soup",
   "description": "A velvety, pungent soup that brightens any sick day, featuring snow peas, coconut milk, and a touch of soy sauce.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -87,7 +85,6 @@
     "pungent",
     "quick",
     "soup",
-    "vegetarian",
     "velvety"
   ],
   "nutrition": {
@@ -113,5 +110,9 @@
     "mainIngredient": "snow peas",
     "descriptor": "Quick Pungent",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

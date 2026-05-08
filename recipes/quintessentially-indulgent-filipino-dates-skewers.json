@@ -3,8 +3,7 @@
   "description": "A sour, chewy, and indulgent Filipino dish featuring pitted dates, katsuramuki-cut, high-protein-friendly, perfect for a snack or dessert.",
   "cuisine": "Filipino",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -97,5 +96,9 @@
     "mainIngredient": "dates",
     "descriptor": "Quintessentially Indulgent",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

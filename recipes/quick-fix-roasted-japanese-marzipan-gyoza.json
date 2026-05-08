@@ -3,8 +3,7 @@
   "description": "A quick and easy Japanese-inspired dish featuring marzipan and a mustardy flavor profile. This recipe is perfect for a weeknight dinner or a snack.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -94,5 +93,9 @@
     "mainIngredient": "marzipan",
     "descriptor": "Quick Fix Roasted",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

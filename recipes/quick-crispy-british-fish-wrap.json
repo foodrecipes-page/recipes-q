@@ -3,8 +3,7 @@
   "description": "A peppery and crispy British dish featuring fish sauce, perfect for a brunch mood, with a fold and no onion or garlic, making it friendly for all tastes.",
   "cuisine": "British",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -107,5 +106,9 @@
     "mainIngredient": "fish",
     "descriptor": "Quick crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

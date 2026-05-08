@@ -3,8 +3,7 @@
   "description": "A winey and crunchy quick-fix Jamaican dish featuring bowtie pasta, made with coconut cream and Whole30-friendly ingredients, served in a tagliere vessel.",
   "cuisine": "Jamaican",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "jamaican-cuisine",
     "one-pan",
     "quick-fix",
@@ -101,5 +99,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Quick Crunchy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

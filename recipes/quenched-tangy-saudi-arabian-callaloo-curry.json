@@ -64,7 +64,8 @@
     "Add coconut milk and chickpeas and stir to combine.",
     "Bring to a simmer and cook for 10 minutes.",
     "Season with salt and pepper to taste.",
-    "Serve hot over rice or with naan bread."
+    "Serve hot over rice or with naan bread.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -103,5 +104,9 @@
     "mainIngredient": "callaloo",
     "descriptor": "quenched tangy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -50,7 +50,8 @@
     "Add the pasta water to the skillet and stir to combine, creating a creamy emulsion.",
     "Reduce the heat to low and simmer, covered, until the liquid has been absorbed and the cauliflower rice is tender, about 10 minutes.",
     "Stir in the lemon juice and cook for an additional 1 minute.",
-    "Serve the pilaf hot, garnished with additional makrut lime leaves if desired, on a Talavera plate."
+    "Serve the pilaf hot, garnished with additional makrut lime leaves if desired, on a Talavera plate.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -88,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Dense",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

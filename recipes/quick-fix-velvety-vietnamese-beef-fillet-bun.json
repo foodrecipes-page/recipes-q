@@ -3,7 +3,6 @@
   "description": "A resounding, velvety Vietnamese dish featuring beef fillet, mortar-pestle-pound, and gluten-free-friendly ingredients. Enjoy this easy-to-make meal in under 30 minutes!",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "high-protein"
   ],
   "meal": "lunch",
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "vietnamese-cuisine",
@@ -98,5 +96,9 @@
     "mainIngredient": "beef fillet",
     "descriptor": "quick-fix velvety",
     "dishForm": "Bun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

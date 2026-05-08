@@ -59,7 +59,8 @@
     "Add the soaked and drained white beans to the skillet and stir to combine.",
     "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
     "Bake the casserole for 30 minutes, then remove the foil and continue baking for an additional 10 minutes.",
-    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -97,5 +98,9 @@
     "mainIngredient": "white beans",
     "descriptor": "Quick Savory",
     "dishForm": "Cassoulet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

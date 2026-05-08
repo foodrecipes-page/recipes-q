@@ -3,8 +3,7 @@
   "description": "This dish features tender chicken cooked in a flavorful panang curry paste sauce, served in a cataplana vessel and made with a lamination puff crust, making it a unique and adventurous Vietnamese meal.",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-fodmap",
-    "gluten-free"
+    "low-fodmap"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Fold the pastry over the chicken, pressing the edges to seal.",
     "Place the cataplana vessel over the pastry and bake for 35 minutes.",
     "Remove the cataplana vessel and sprinkle the chopped scallions over the top of the pastry.",
-    "Return the dish to the oven and bake for an additional 10 minutes, or until the pastry is golden brown."
+    "Return the dish to the oven and bake for an additional 10 minutes, or until the pastry is golden brown.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -100,5 +100,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Quietly Adventurous",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

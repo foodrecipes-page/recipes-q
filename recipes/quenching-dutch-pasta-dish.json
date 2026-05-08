@@ -3,8 +3,7 @@
   "description": "A peppery and refreshing Dutch dish featuring paccheri pasta, perfect for curing hangovers, made with Mediterranean-friendly ingredients and finished under the broil for a glassy-jelly effect.",
   "cuisine": "Dutch",
   "diet": [
-    "mediterranean",
-    "pescatarian"
+    "mediterranean"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,8 @@
     "Squeeze the lemon juice over the pasta mixture and toss to combine.",
     "Season the pasta mixture with salt and black pepper to taste.",
     "Transfer the pasta mixture to a baking dish and top with chopped fresh parsley.",
-    "Place the baking dish under the broil and cook until the top is lightly browned and the cheese is melted and glassy."
+    "Place the baking dish under the broil and cook until the top is lightly browned and the cheese is melted and glassy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -108,5 +108,10 @@
     "mainIngredient": "pasta",
     "descriptor": "Quenching",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A low-carb, post-workout Korean dish featuring crispy chicken legs, with a nutty flavor, cooked in an iron teppan skillet.",
   "cuisine": "Korean",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "korean-style",
     "low-carb",
@@ -96,5 +94,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "Quickly seared",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

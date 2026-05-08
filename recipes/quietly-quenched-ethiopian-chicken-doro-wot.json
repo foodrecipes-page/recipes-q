@@ -63,7 +63,8 @@
     "Heat the coconut oil in a large skillet over medium heat, then add the wrapped chicken packages and cook for 5-7 minutes on each side.",
     "Serve the chicken packages with a side of vanilla custard, and garnish with additional ti leaves if desired.",
     "To make the vanilla custard, combine 1 cup of coconut milk, 1/2 cup of maple syrup, and 1/4 teaspoon of salt in a saucepan, then cook over low heat, stirring constantly, until the mixture thickens.",
-    "Remove the custard from the heat and stir in 1/2 teaspoon of vanilla extract, then let cool to room temperature."
+    "Remove the custard from the heat and stir in 1/2 teaspoon of vanilla extract, then let cool to room temperature.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -102,5 +103,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quietly Quenched",
     "dishForm": "Doro Wot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

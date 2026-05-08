@@ -3,8 +3,7 @@
   "description": "A sweet, silky Algerian dish featuring tamarind pulp and pickle in a halal-friendly Korean-brass-bowl. A crowd-pleaser that is perfect for any meal.",
   "cuisine": "Algerian",
   "diet": [
-    "sweet",
-    "halal"
+    "sweet"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -84,5 +83,9 @@
     "mainIngredient": "Pepper",
     "descriptor": "Qzestly",
     "dishForm": "Poke"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

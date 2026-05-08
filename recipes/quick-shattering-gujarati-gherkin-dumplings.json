@@ -98,11 +98,15 @@
     "mood": "brunch-mood",
     "technique": "deglaze",
     "primaryIngredient": "gherkin relish",
-    "diet": "low-sodium",
+    "diet": "vegetarian",
     "region": "gujarati",
     "cuisineAdjective": "Gujarati",
     "mainIngredient": "Gherkin",
     "descriptor": "Quick Shattering",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

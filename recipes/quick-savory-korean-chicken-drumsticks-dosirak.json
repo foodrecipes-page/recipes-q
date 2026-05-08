@@ -57,7 +57,9 @@
     "Drizzle the sesame oil over the chicken and sprinkle with toasted sesame seeds and scallions.",
     "Serve the chicken drumsticks in a dosirak container with your choice of sides, such as kimchi or pickled vegetables.",
     "Garnish with additional scallions and sesame seeds if desired.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -96,5 +98,10 @@
     "mainIngredient": "chicken drumsticks",
     "descriptor": "Quick Savory",
     "dishForm": "Dosirak"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

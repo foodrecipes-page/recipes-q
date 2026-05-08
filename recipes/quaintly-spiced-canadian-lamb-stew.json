@@ -3,7 +3,6 @@
   "description": "A hearty and flavorful stew featuring lamb, red pepper paste, and shio-koji cure, perfect for a cold winter's night. This dish is free from animal by-products and is Buddhist-temple friendly.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -93,5 +92,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Quaintly Spiced",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

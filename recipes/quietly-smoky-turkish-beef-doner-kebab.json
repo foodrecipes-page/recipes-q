@@ -2,9 +2,7 @@
   "title": "Quietly Smoky Turkish Beef Doner Kebab",
   "description": "A cultured and flavorful Turkish dish featuring unsalted beef stock and bhuna, perfect for a lazy Sunday, and can be adapted to be vegetarian-friendly by substituting the beef with portobello mushrooms.",
   "cuisine": "Turkish",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "beef",
     "descriptor": "Quietly Smoky",
     "dishForm": "Doner Kebab"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

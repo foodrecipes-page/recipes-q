@@ -3,7 +3,6 @@
   "description": "A simplified version of the classic Peruvian dish, Pollo a la Brasa, featuring a crispy roasted exterior and juicy interior. This recipe serves four and is ready in under an hour.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -73,7 +72,8 @@
     "Roast the chicken in the preheated oven for 35 minutes.",
     "After 35 minutes, increase the oven temperature to broil; cook for an additional 5-7 minutes, or until the chicken is nicely browned.",
     "Remove the chicken from the oven and let rest for 5 minutes before serving.",
-    "Garnish with chopped parsley, if desired; serve with sliced red onion and additional cilantro, if desired."
+    "Garnish with chopped parsley, if desired; serve with sliced red onion and additional cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -111,5 +111,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Roasted",
     "dishForm": "Peruvian Roasted Chicken"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

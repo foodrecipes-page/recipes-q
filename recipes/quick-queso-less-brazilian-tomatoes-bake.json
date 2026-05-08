@@ -3,8 +3,7 @@
   "description": "A festive Brazilian dish featuring vine tomatoes, bake, and a dairy-free twist. Perfect for weeknights or special occasions.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "dairy-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -75,7 +74,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-protein",
     "one-pan",
@@ -105,5 +103,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Quick Queso-Less",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A light, earthy tofu dish with galangal-kha, creamy coconut sauce and Portuguese flavors, perfect for a quick lunch.",
   "cuisine": "Portuguese",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -75,8 +74,7 @@
     "healthy",
     "one-pan",
     "portuguese",
-    "quick",
-    "vegan"
+    "quick"
   ],
   "nutrition": {
     "calories": 550,
@@ -101,5 +99,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Quenched",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

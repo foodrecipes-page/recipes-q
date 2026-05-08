@@ -56,7 +56,8 @@
     "If using ham, place it on top of the fillings. Add any additional desired toppings like avocado slices or lettuce.",
     "Fold the top half of the wrap over the fillings to seal.",
     "Place wrapped sandwich on grill for 2-3 minutes per side, until heated through and slightly crispy on outside.",
-    "Lime-slice ends (optional) to serve immediately with a squeeze of fresh lime juice over the top."
+    "Lime-slice ends (optional) to serve immediately with a squeeze of fresh lime juice over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 7,
@@ -93,5 +94,9 @@
     "mainIngredient": "Chorizo",
     "descriptor": "Quick-Fix",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

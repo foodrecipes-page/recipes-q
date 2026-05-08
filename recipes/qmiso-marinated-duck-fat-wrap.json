@@ -38,7 +38,8 @@
     "Combine miso paste, ginger, sesame seeds, lemon juice, water, and salt in a mixing bowl. Mix well until the ingredients are fully incorporated.",
     "Pour the miso marinade over duck fat in a small baking dish. Bake at 180°C for 30 minutes to allow flavors to infuse into the fat.",
     "Let the marinated duck fat cool before using as a wrap base in your bento box.",
-    "Slice or break the cooled marinated duck fat into bite-sized pieces and use them as wraps for your meal."
+    "Slice or break the cooled marinated duck fat into bite-sized pieces and use them as wraps for your meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 30,
@@ -76,5 +77,9 @@
     "mainIngredient": "Duck Fat",
     "descriptor": "Miso-Marinated",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

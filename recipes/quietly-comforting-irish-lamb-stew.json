@@ -58,7 +58,8 @@
     "Add the chicken broth and bring to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Stir in the mascarpone cheese until melted and smooth.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 90,
@@ -96,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Quietly Comforting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

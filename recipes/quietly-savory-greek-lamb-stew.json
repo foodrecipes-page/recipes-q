@@ -60,7 +60,9 @@
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
     "Stir in the cooked bacon and serve hot.",
     "Serve the stew in bowls and enjoy.",
-    "Garnish with fresh parsley or dill, if desired."
+    "Garnish with fresh parsley or dill, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 90,
@@ -97,5 +99,10 @@
     "mainIngredient": "lamb",
     "descriptor": "quietly savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

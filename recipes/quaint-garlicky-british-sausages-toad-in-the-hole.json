@@ -3,7 +3,6 @@
   "description": "A hearty British dish featuring garlicky sausages and a cheese-pull effect, perfect for a hangover cure, with the added flavors of dill and kombu-cold-extract, made in an ayurvedic-tamasic-friendly way, this toad-in-the-hole is sure to satisfy. The combination of ingredients provides a unique taste experience.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "vegetarian-free"
   ],
   "meal": "breakfast",
@@ -99,5 +98,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Quaint Garlicky",
     "dishForm": "Toad In The Hole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

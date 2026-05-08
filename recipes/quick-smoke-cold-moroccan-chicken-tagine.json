@@ -3,9 +3,7 @@
   "description": "A rich, crunchy, comforting Moroccan dish featuring mixed spice, smoke-cold, and anti-inflammatory-friendly ingredients.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "pescetarian",
-    "vegan"
+    "pescetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -105,5 +103,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Smoke-Cold",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

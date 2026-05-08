@@ -3,7 +3,6 @@
   "description": "A kid-friendly Irish dish featuring mozzarella balls cooked in a tagine with floral and velvety flavors, following ayurvedic-sattvic principles.",
   "cuisine": "Irish",
   "diet": [
-    "vegetarian",
     "kid-friendly"
   ],
   "meal": "dinner",
@@ -62,7 +61,8 @@
     "Cover the tagine with a lid and bake for 30 minutes.",
     "Remove the lid and continue baking for an additional 20 minutes, or until the vegetables are tender and the mozzarella is melted and creamy.",
     "Remove the tagine from the oven and let it cool for a few minutes before serving.",
-    "Serve the Quietly Velvety Irish Mozzarella Tagine hot, garnished with fresh herbs if desired."
+    "Serve the Quietly Velvety Irish Mozzarella Tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -75,8 +75,7 @@
     "kid-friendly",
     "mozzarella",
     "one-pot",
-    "tagine",
-    "vegetarian"
+    "tagine"
   ],
   "nutrition": {
     "calories": 420,
@@ -101,5 +100,10 @@
     "mainIngredient": "mozzarella",
     "descriptor": "Quietly Velvety",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

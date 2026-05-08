@@ -3,7 +3,6 @@
   "description": "A charred, pillowy, brunch mood Spanish dish featuring sweet rice flour chapssalgaru, mirepoix base, and dash friendly ingredients, formed into arroz negro.",
   "cuisine": "Spanish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch-ideas",
-    "gluten-free",
     "one-pan-meal",
     "spanish-cuisine",
     "vegetarian-option"
@@ -100,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quietly Charred",
     "dishForm": "Arroz Negro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Turkish",
   "diet": [
     "dairy-free",
-    "gluten-free",
     "high-protein"
   ],
   "meal": "lunch",
@@ -64,7 +63,9 @@
     "Cook the manti in the preheated tandoor for 10-12 minutes, or until the edges are golden brown and the centers are cooked through.",
     "Repeat with the remaining manti.",
     "Serve hot with your choice of toppings, such as yogurt sauce, chopped fresh herbs, or pickled vegetables.",
-    "Note: If you don't have a tandoor, you can cook the manti in a conventional oven or on a grill, but the cooking time may vary."
+    "Note: If you don't have a tandoor, you can cook the manti in a conventional oven or on a grill, but the cooking time may vary.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -101,5 +102,11 @@
     "mainIngredient": "meat",
     "descriptor": "quick-fix",
     "dishForm": "Manti"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp",
+    "added-safety-preserving_no_acid"
+  ]
 }

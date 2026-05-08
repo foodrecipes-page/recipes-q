@@ -3,8 +3,7 @@
   "description": "A savory and velvety Moroccan dish featuring soya milk and anti-inflammatory friendly ingredients, perfect for a light dinner",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,7 +77,6 @@
     "one-pot",
     "soya-milk",
     "tofu",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -104,5 +102,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Quietly simmered",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

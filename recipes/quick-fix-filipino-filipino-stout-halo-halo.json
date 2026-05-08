@@ -71,7 +71,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "filipino",
     "halo-halo",
     "stout",
@@ -100,5 +99,9 @@
     "mainIngredient": "stout",
     "descriptor": "Quick-Fix Filipino",
     "dishForm": "Halo-Halo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

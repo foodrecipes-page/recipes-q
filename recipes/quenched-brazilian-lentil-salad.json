@@ -69,7 +69,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
-  "totalTimeMin": 65,
+  "totalTimeMin": 35,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -103,5 +103,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Quenched",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

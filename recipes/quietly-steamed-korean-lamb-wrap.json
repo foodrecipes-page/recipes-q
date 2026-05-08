@@ -3,7 +3,6 @@
   "description": "A traditional Korean dish featuring lamb leg, steamed in a leaf wrap, perfect for a hangover cure. This resinous and shattering dish is a Seoul favorite.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -89,5 +88,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Quietly Steamed",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

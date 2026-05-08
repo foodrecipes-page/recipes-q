@@ -68,7 +68,8 @@
     "add the rice and sliced almonds to the skillet, stirring to combine.",
     "increase heat to high and bring to a boil, then reduce heat to low, cover, and simmer for 10-15 minutes, or until the liquid is absorbed and the rice is tender.",
     "remove the skillet from the heat and stir in the lemon juice.",
-    "transfer the pilaf to a heat-proof bowl and plunge into an ice bath to stop the cooking process."
+    "transfer the pilaf to a heat-proof bowl and plunge into an ice bath to stop the cooking process.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -105,5 +106,9 @@
     "mainIngredient": "dishes",
     "descriptor": "Quick Glassy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

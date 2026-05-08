@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "Whole30",
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -68,7 +67,6 @@
   "difficulty": "easy",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "mediterranean",
     "one-pan",
     "weeknight",
@@ -97,5 +95,9 @@
     "mainIngredient": "rigatoni",
     "descriptor": "Quick Roasted",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

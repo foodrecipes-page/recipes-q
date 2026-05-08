@@ -3,7 +3,6 @@
   "description": "A rich, molten, and romantic French dish from Lyon, featuring balsamic vinegar and infused oil, suitable for Jain diet.",
   "cuisine": "french",
   "diet": [
-    "vegetarian",
     "jain"
   ],
   "meal": "dinner",
@@ -73,7 +72,6 @@
     "jain",
     "one-pan",
     "romantic-dinner",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Quintessentially Rich",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

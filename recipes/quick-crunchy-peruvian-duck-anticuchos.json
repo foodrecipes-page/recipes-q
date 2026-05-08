@@ -3,7 +3,6 @@
   "description": "A rich and crunchy Peruvian dish featuring duck sauce, perfect for a date night, this recipe is raw friendly and served in the form of anticuchos.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -75,7 +74,6 @@
     "dairy-free",
     "date-night",
     "duck-recipes",
-    "gluten-free",
     "grilled-meats",
     "peruvian-cuisine"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "duck",
     "descriptor": "Quick Crunchy",
     "dishForm": "Anticuchos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

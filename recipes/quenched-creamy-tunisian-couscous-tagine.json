@@ -15,7 +15,8 @@
     "heat oil in a large skillet over medium heat",
     "add onion and saut\u00078 until translucent, about 5 minutes",
     "add garlic and cook for another minute",
-    "add umeboshi, ferment-jang, and chicken broth, and bring to a simmer"
+    "add umeboshi, ferment-jang, and chicken broth, and bring to a simmer",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -53,5 +54,9 @@
     "mainIngredient": "couscous",
     "descriptor": "quenched creamy",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

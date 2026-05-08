@@ -73,7 +73,8 @@
     "return the sauce to the earthenware cook and cook over low heat, whisking constantly, until the sauce coats the back of a spoon, about 5 minutes.",
     "remove from heat and whisk in the unsalted butter until melted and smooth.",
     "season with salt to taste, then serve warm over ice cream or pancakes.",
-    "serve immediately, garnished with fresh fruit or a sprinkle of powdered sugar, if desired."
+    "serve immediately, garnished with fresh fruit or a sprinkle of powdered sugar, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -111,5 +112,9 @@
     "mainIngredient": "pineapple",
     "descriptor": "quick-fix silky",
     "dishForm": "sauce"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

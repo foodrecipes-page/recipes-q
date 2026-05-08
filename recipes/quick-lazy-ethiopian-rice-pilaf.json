@@ -2,9 +2,7 @@
   "title": "Quick Lazy Ethiopian Rice Pilaf",
   "description": "A buttery, cheese‑pull quick‑fix Ethiopian rice pilaf featuring caramel sauce and rendered fat, all made in a lazy‑susan‑spinner for a plant‑based crowd.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quick Lazy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -49,7 +49,8 @@
     "Top the rice with a spoonful of nuka-pickle and a drizzle of yuja jam.",
     "Drizzle the soy sauce and sesame oil mixture over the top.",
     "Serve immediately and enjoy.",
-    "Garnish with additional toasted sesame seeds if desired."
+    "Garnish with additional toasted sesame seeds if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -86,5 +87,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quietly Comforting",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

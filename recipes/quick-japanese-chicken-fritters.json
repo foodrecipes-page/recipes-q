@@ -62,7 +62,8 @@
     "Heat oil in a deep pan to 180°C and test with a small breadcrumb piece; it should bubble immediately.",
     "Fry the coated strips in batches for 2-3 minutes per side until golden and crispy.",
     "Remove with a slotted spoon and drain on paper towels.",
-    "Serve hot with a drizzle of extra soy sauce or a squeeze of lemon."
+    "Serve hot with a drizzle of extra soy sauce or a squeeze of lemon.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 8,
@@ -102,5 +103,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Quick",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

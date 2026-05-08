@@ -3,8 +3,7 @@
   "description": "A comforting Canadian dish featuring tinned tomatoes, this quietly quenched gratin is perfect for a chilly evening, cultured and juicy, it is also egg-free-friendly.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
     "canadian-cuisine",
     "comfort-food",
     "egg-free",
-    "gluten-free",
     "one-pan",
     "vegetarian"
   ],
@@ -102,5 +100,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Quietly Quenched",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

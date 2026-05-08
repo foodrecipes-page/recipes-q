@@ -4,8 +4,7 @@
   "cuisine": "Indian",
   "diet": [
     "Whole30",
-    "Vegetarian",
-    "Vegan"
+    "Vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,7 +69,6 @@
     "indian-inspired",
     "meal-prep",
     "quick-snack",
-    "vegan",
     "vegetarian",
     "whole30-friendly"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Quick Garlicky",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

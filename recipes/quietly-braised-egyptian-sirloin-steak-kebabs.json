@@ -3,7 +3,6 @@
   "description": "A cultured and chewy Egyptian dish featuring sirloin steak, perfect for a lazy Sunday, with a unique tempering chocolate twist and dash friendly seasoning.",
   "cuisine": "Egyptian",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -101,5 +100,9 @@
     "mainIngredient": "sirloin steak",
     "descriptor": "Quietly braised",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

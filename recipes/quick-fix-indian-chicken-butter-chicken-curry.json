@@ -33,7 +33,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
-  "totalTimeMin": 60,
+  "totalTimeMin": 40,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -66,5 +66,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Fix",
     "dishForm": "Butter Chicken Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A spicy, glassy-jelly Korean banchan made with marinated turkey, perfect for a quick fix after work.",
   "cuisine": "Korean",
   "diet": [
-    "flexitarian",
-    "vegetarian"
+    "flexitarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -99,8 +98,7 @@
     "korean",
     "one-pan",
     "quick-fix",
-    "spicy",
-    "vegetarian"
+    "spicy"
   ],
   "nutrition": {
     "calories": 240,
@@ -125,5 +123,9 @@
     "mainIngredient": "Turkey",
     "descriptor": "Quick Fix",
     "dishForm": "Banchan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

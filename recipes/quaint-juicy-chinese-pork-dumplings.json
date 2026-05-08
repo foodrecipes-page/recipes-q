@@ -2,9 +2,7 @@
   "title": "Quaint Juicy Chinese Pork Dumplings",
   "description": "A traditional Hakka dish featuring pork and kaffir lime leaf, wrapped in corn husks and steamed to perfection, this recipe brings back nostalgic memories of Chinese cuisine.",
   "cuisine": "Chinese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "quaint juicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

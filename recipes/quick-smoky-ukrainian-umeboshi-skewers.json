@@ -62,7 +62,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 2,
-  "totalTimeMin": 52,
+  "totalTimeMin": 22,
   "servings": 12,
   "difficulty": "easy",
   "tags": [
@@ -96,5 +96,9 @@
     "mainIngredient": "umeboshi",
     "descriptor": "Quick Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

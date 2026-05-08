@@ -97,11 +97,15 @@
     "mood": "post-workout",
     "technique": "binchotan-charcoal",
     "primaryIngredient": "pork knuckle",
-    "diet": "vegan",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Ethiopian",
     "mainIngredient": "pork knuckle",
     "descriptor": "Quietly Smoky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

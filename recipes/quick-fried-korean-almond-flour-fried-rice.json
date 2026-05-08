@@ -3,8 +3,7 @@
   "description": "A savory, shaggy, and quick-fix Korean dish featuring almond flour and served on a hot stone plate.",
   "cuisine": "Korean",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -82,5 +81,9 @@
     "mainIngredient": "almond flour",
     "descriptor": "Quick-Fried",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

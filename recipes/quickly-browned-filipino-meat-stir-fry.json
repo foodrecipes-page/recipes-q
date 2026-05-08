@@ -76,7 +76,8 @@
     "Add bay leaves and stir well. ",
     "Cook for 10 minutes, stirring occasionally. ",
     "Stir in fresh cilantro. ",
-    "Serve hot."
+    "Serve hot.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -115,5 +116,9 @@
     "mainIngredient": "meat",
     "descriptor": "Quickly browned",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A quick and flavorful Uruguayan-style burger featuring pork belly slices, bhuna, and macrobiotic-friendly ingredients. Perfect for a weeknight dinner.",
   "cuisine": "Uruguayan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "pork belly",
     "descriptor": "quick-fix tender",
     "dishForm": "Burger"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

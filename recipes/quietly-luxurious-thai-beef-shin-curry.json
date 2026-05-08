@@ -3,8 +3,7 @@
   "description": "A mustardy, silky, and cozy Thai dish featuring beef shin, shio-koji-cure, with a Mediterranean twist",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "beef shin",
     "descriptor": "quietly luxurious",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

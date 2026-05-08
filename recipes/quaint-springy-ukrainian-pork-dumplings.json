@@ -3,7 +3,6 @@
   "description": "Fatty and springy Ukrainian dish featuring pork and romantic flavors, made with a Cajun twist and cooked in a bain-marie, perfect for a special occasion, this nut-free-friendly recipe is sure to delight",
   "cuisine": "Ukrainian",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -96,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "quaint springy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

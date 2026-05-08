@@ -67,7 +67,8 @@
     "In a large skillet, heat the olive oil over medium heat, then add the minced garlic and cook for 1 minute, stirring occasionally.",
     "Add the sliced peppers to the skillet, in batches if necessary, and cook for 10-12 minutes, or until they are tender and slightly caramelized.",
     "Using a mortar and pestle, pound the cooked peppers into a coarse paste, then transfer the mixture to a large bowl.",
-    "Add the ground black pepper, red pepper flakes, and a pinch of salt to the bowl, then stir to combine."
+    "Add the ground black pepper, red pepper flakes, and a pinch of salt to the bowl, then stir to combine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -104,5 +105,9 @@
     "mainIngredient": "peppers",
     "descriptor": "quenched peppery",
     "dishForm": "Carbonara"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,6 @@
   "description": "A crisp, energizing middle-eastern salad made with parsley, mint, and bulgur, served in a cataplana. This dish is perfect for a quick lunch or snack.",
   "cuisine": "Middle-Eastern",
   "diet": [
-    "vegan",
-    "gluten-free",
     "paleo"
   ],
   "meal": "lunch",
@@ -64,13 +62,11 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "green-salad",
     "middle-eastern",
     "one-pan",
     "paleo",
-    "quick-and-easy",
-    "vegan"
+    "quick-and-easy"
   ],
   "nutrition": {
     "calories": 240,
@@ -95,5 +91,10 @@
     "mainIngredient": "greens",
     "descriptor": "Quick, Energizing",
     "dishForm": "Tabbouleh"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

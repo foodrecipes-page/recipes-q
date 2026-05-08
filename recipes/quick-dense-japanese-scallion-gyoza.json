@@ -60,7 +60,8 @@
     "Repeat the process with the remaining wonton wrappers and filling, making sure to seal the gyoza tightly to prevent leakage during cooking.",
     "Heat the coconut oil in a large skillet over medium-high heat, then add the gyoza to the skillet, being careful not to overcrowd it.",
     "Cook the gyoza for 2-3 minutes on each side, until they are golden brown and crispy, adjusting the heat as necessary to prevent burning.",
-    "Serve the gyoza hot with your favorite dipping sauce, garnished with additional chopped scallions if desired."
+    "Serve the gyoza hot with your favorite dipping sauce, garnished with additional chopped scallions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -97,5 +98,9 @@
     "mainIngredient": "scallions",
     "descriptor": "Quick Dense",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

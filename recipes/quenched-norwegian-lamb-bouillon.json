@@ -2,9 +2,7 @@
   "title": "Quenched Norwegian Lamb Bouillon",
   "description": "A comforting and velvety bouillon featuring tender lamb, little gem lettuce, and a hint of Nordic herbs. Serve warm, garnished with a sprinkle of dill.",
   "cuisine": "norwegian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,7 +78,8 @@
     "Season with salt, honey, and a sprinkle of fresh dill.",
     "Serve warm, garnished with additional dill if desired.",
     "Strain the bouillon through a fine-mesh sieve into a clean pot, discarding the solids.",
-    "Skim off any excess fat and serve the bouillon hot, garnished with a sprinkle of dill."
+    "Skim off any excess fat and serve the bouillon hot, garnished with a sprinkle of dill.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 40,
@@ -118,5 +117,10 @@
     "mainIngredient": "Lamb",
     "descriptor": "Quenched",
     "dishForm": "Bouillon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

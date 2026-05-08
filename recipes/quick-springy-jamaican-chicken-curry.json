@@ -3,8 +3,7 @@
   "description": "A savory and springy Jamaican dish featuring almond milk and wok-hei, perfect for meal prep, made in a hot pot vessel and friendly to those with nut allergies by using sunflower seeds as a substitute.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
-    "nut-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -76,7 +75,6 @@
     "gluten-free",
     "jamaican-cuisine",
     "meal-prep",
-    "nut-free",
     "one-pot"
   ],
   "nutrition": {
@@ -102,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Springy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-nut-free"
+  ]
 }

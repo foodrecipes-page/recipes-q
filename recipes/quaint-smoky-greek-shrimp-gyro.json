@@ -2,9 +2,7 @@
   "title": "Quaint Smoky Greek Shrimp Gyro",
   "description": "A smoky and cozy Greek dish featuring shrimp, sriracha, and lardons, served in a gyro format and perfect for a pescatarian meal, presented in a bento box for a unique twist.",
   "cuisine": "Greek",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -64,7 +62,6 @@
   "tags": [
     "bento-box",
     "greek-food",
-    "pescatarian",
     "seafood",
     "smoky",
     "spicy"
@@ -92,5 +89,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Quaint Smoky",
     "dishForm": "Gyro"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A traditional Portuguese dish featuring chilli flakes and a pasta water emulsion, cooked in an iron teppan, with anti-inflammatory friendly ingredients.",
   "cuisine": "Portuguese",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "portuguese",
     "vegetarian",
@@ -98,5 +96,9 @@
     "mainIngredient": "pasta",
     "descriptor": "Quietly Quenched",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

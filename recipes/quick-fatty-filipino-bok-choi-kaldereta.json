@@ -56,7 +56,8 @@
     "Add the tomato paste, fish sauce, salt, and black pepper, and stir to combine.",
     "Add the chopped bok choi to the skillet and cook until wilted.",
     "Transfer the mixture to a salt block vessel.",
-    "Serve the kaldereta hot, garnished with additional bok choi if desired."
+    "Serve the kaldereta hot, garnished with additional bok choi if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "bok choi",
     "descriptor": "Quick Fatty",
     "dishForm": "Kaldereta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

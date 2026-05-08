@@ -56,7 +56,8 @@
     "Use your fingers to shape the empanadas into nigiri shapes.",
     "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch of space between each empanada.",
     "Brush the tops of the empanadas with the beaten eggs.",
-    "Bake the empanadas in the preheated oven for 15 minutes, or until golden brown."
+    "Bake the empanadas in the preheated oven for 15 minutes, or until golden brown.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "beef",
     "descriptor": "Quick molten",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Quaintly Flaky Jamaican Chicken Stew",
   "description": "A savory and adventurous Jamaican dish featuring tender chicken and flaky crust, cooked to perfection in a clay pot. This stew is gluten-free friendly and perfect for a weeknight dinner.",
   "cuisine": "Jamaican",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "Add the chicken broth and coconut milk to the clay pot, stirring to combine.",
     "Return the chicken thighs to the clay pot and bring the stew to a simmer.",
     "Cover the clay pot with a lid and transfer it to the preheated oven.",
-    "Bake the stew for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes."
+    "Bake the stew for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -79,7 +78,6 @@
     "chicken-stew",
     "clay-pot-cooking",
     "flaky-crust",
-    "gluten-free",
     "jamaican-cuisine",
     "weeknight-dinner"
   ],
@@ -106,5 +104,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Quaintly flaky",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

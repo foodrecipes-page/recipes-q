@@ -51,7 +51,8 @@
     "Using a ladle, drop small amounts of the mixture onto the pan and shape into small circles.",
     "Cook the okonomiyaki for 3-4 minutes on each side, until golden brown and crispy.",
     "Repeat the process until all the mixture is used up.",
-    "Serve the okonomiyaki hot, garnished with additional chopped pickled ginger and crushed candy if desired."
+    "Serve the okonomiyaki hot, garnished with additional chopped pickled ginger and crushed candy if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +89,9 @@
     "mainIngredient": "baby pak koi",
     "descriptor": "Quietly velvety",
     "dishForm": "Okonomiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

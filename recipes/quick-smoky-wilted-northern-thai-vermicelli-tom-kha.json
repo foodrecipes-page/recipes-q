@@ -3,9 +3,7 @@
   "description": "A smoky, aerated, quick-fix Thai dish featuring vermicelli pasta, dum, and the flavors of tom kha, wrapped in a ti-leaf wrap. Perfect for a weeknight meal.",
   "cuisine": "Thai",
   "diet": [
-    null,
-    "gluten-free",
-    "vegan"
+    null
   ],
   "meal": "dinner",
   "ingredients": [
@@ -112,5 +110,10 @@
     "mainIngredient": "Vermicelli",
     "descriptor": "Quick Smoky Wilted",
     "dishForm": "Tom Kha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

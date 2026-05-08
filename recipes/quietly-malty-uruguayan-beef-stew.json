@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Uruguayan beef stew with a malty flavor, featuring ketchup and a silky texture, perfect for a weeknight dinner",
   "cuisine": "Uruguayan",
   "diet": [
-    "gluten-free",
     "raw-friendly"
   ],
   "meal": "dinner",
@@ -94,5 +93,9 @@
     "mainIngredient": "beef",
     "descriptor": "quietly malty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

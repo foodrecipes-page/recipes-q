@@ -3,8 +3,7 @@
   "description": "A quick and easy Italian-inspired dish featuring green chili and low-fat friendly ingredients.",
   "cuisine": "Italian",
   "diet": [
-    "low-fat",
-    "vegetarian"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,7 +77,8 @@
     "Repeat the process, adding the chicken broth in 1/2 cup increments, and waiting for it to be absorbed before adding more.",
     "When the rice is cooked and creamy, stir in the green chili, Parmesan cheese, low-fat butter, salt, and black pepper.",
     "Stir in the fresh parsley and basil.",
-    "Serve immediately, garnished with additional parsley if desired."
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -117,5 +117,10 @@
     "mainIngredient": "pasta",
     "descriptor": "Quick-Fix",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

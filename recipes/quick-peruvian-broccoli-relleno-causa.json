@@ -72,9 +72,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "easiy",
-    "gluten-free",
     "one-pan",
     "peruvian",
     "quick",
@@ -104,5 +102,10 @@
     "mainIngredient": "broccoli",
     "descriptor": "Quick",
     "dishForm": "Relleno Causa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

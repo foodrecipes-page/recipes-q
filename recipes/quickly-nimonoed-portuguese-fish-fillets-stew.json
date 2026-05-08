@@ -3,7 +3,6 @@
   "description": "A kid-friendly Portuguese dish featuring white fish fillets in a savory nimono stew. This high-protein-friendly meal is perfect for a weeknight dinner.",
   "cuisine": "portuguese",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "fish fillets",
     "descriptor": "Quickly Nimonoed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

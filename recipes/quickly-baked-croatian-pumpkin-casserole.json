@@ -3,7 +3,6 @@
   "description": "A cultured, cheese-pull, meal-prep Croatian dish featuring pumpkin and bonito-shave, friendly for those who avoid onion and garlic.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
     "no onion no garlic"
   ],
   "meal": "lunch",
@@ -60,8 +59,7 @@
     "meal-prep",
     "no-onion-no-garlic",
     "one-pan",
-    "quick-meal",
-    "vegetarian"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 320,
@@ -86,5 +84,9 @@
     "mainIngredient": "pumpkin",
     "descriptor": "Quickly baked",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

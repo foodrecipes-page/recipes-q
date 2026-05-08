@@ -57,7 +57,8 @@
     "In a large pot, bring a quart of water to a boil and reduce the heat to a simmer.",
     "Carefully add the dumplings to the pot, making sure not to overcrowd it, and cook for 10-12 minutes, or until they float to the surface.",
     "Remove the dumplings from the pot with a slotted spoon and serve immediately.",
-    "Garnish with additional chopped green onions and a drizzle of soy sauce, if desired."
+    "Garnish with additional chopped green onions and a drizzle of soy sauce, if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "pork",
     "descriptor": "quaint silky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Australian",
   "diet": [
     "gluten-free",
-    "dairy-free",
     "paleo"
   ],
   "meal": "dessert",
@@ -117,5 +116,9 @@
     "mainIngredient": "fish",
     "descriptor": "quick-fix",
     "dishForm": "Pavlova"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

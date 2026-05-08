@@ -89,7 +89,8 @@
     "Return the chicken to the skillet and toss to combine with the pasta and sauce.",
     "Season with salt and pepper to taste.",
     "Transfer the chicken and pasta to a cedar plank and garnish with chopped parsley.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -127,5 +128,9 @@
     "mainIngredient": "chicken thighs",
     "descriptor": "Quenched Citrusy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

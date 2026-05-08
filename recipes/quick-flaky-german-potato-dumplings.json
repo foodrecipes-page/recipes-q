@@ -3,8 +3,7 @@
   "description": "A pungent and energizing German dish featuring butter and ferment-jang, this recipe is diabetic-friendly and perfect for a hearty meal.",
   "cuisine": "German",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Quick Flaky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -71,7 +71,8 @@
     "Add the cooked chickpeas and stir to combine.",
     "Season with salt and bring the mixture to a gentle simmer.",
     "Cover and let cook for 20 minutes, stirring occasionally.",
-    "Garnish with chopped coriander before serving."
+    "Garnish with chopped coriander before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -108,5 +109,9 @@
     "mainIngredient": "Christmas Pudding",
     "descriptor": "Quenched",
     "dishForm": "Vindaloo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

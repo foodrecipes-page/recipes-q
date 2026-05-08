@@ -54,7 +54,8 @@
     "Stir in the potato starch to thicken the mixture.",
     "Brush the tandoor bread with the remaining duck fat and place in the preheated oven.",
     "Spoon the onion mixture onto the bread and cook for 2-3 minutes, or until the bread is toasted and the filling is heated through.",
-    "Serve the Sambusa immediately, garnished with additional cilantro if desired."
+    "Serve the Sambusa immediately, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -92,5 +93,9 @@
     "mainIngredient": "duck fat",
     "descriptor": "Quick",
     "dishForm": "Sambusa"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

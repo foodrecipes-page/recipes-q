@@ -2,9 +2,7 @@
   "title": "Quenched British Bread Casserole",
   "description": "A sour, bouncy-qq British casserole that turns long-fermentation dough into a hearty, vegan one-pot meal.",
   "cuisine": "British",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,8 +76,7 @@
     "bread-casserole",
     "british",
     "one-pot",
-    "quick-meal",
-    "vegan"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 350,
@@ -104,5 +101,9 @@
     "mainIngredient": "bread",
     "descriptor": "Quenched",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

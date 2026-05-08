@@ -74,7 +74,8 @@
     "Season with 1 teaspoon of salt, 1/2 teaspoon of black pepper, and 2 tablespoons of granulated sugar (if using).",
     "Stir in 1/4 cup of chopped cilantro. Cook for 1 minute, or until the cilantro is wilted.",
     "Divide 2 cups of cooked rice onto plates. Top with the stir-fry mixture.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -111,5 +112,9 @@
     "mainIngredient": "pickle",
     "descriptor": "quick-fix",
     "dishForm": "stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

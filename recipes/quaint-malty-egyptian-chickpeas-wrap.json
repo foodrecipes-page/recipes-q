@@ -3,8 +3,7 @@
   "description": "A malty, chewy, nostalgic Egyptian dish featuring chickpeas, this wrap is perfect for a snack or light meal, and is anti-inflammatory friendly due to the turmeric and ginger used in the recipe.",
   "cuisine": "Egyptian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "high-protein",
     "middle-eastern",
     "one-pan",
@@ -99,5 +97,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "quaint malty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

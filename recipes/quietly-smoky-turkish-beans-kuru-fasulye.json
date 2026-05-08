@@ -3,7 +3,6 @@
   "description": "Smoky, silky, indulgent Turkish dish featuring sesame seed oil and lardons-render, perfect for a comforting dinner.",
   "cuisine": "Turkish",
   "diet": [
-    "vegetarian",
     "buddhist"
   ],
   "meal": "dinner",
@@ -66,8 +65,7 @@
     "comfort-food",
     "one-pot",
     "smoky-flavors",
-    "turkish-cuisine",
-    "vegetarian"
+    "turkish-cuisine"
   ],
   "nutrition": {
     "calories": 420,
@@ -92,5 +90,9 @@
     "mainIngredient": "beans",
     "descriptor": "Quietly Smoky",
     "dishForm": "Kuru Fasulye"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

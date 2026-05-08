@@ -3,8 +3,7 @@
   "description": "A plant-based Filipino dessert featuring panang-paste and agemono-deep-fry techniques, resulting in a silky and earthy leche flan. This dish is perfect for those looking for a unique and delicious dessert.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Quietly Silky",
     "dishForm": "Leche Flan"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

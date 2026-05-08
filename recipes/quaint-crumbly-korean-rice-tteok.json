@@ -3,7 +3,6 @@
   "description": "A traditional Korean dish featuring crumbly rice tteok served with a mustardy Chinese sesame sauce and bhuna, perfect for a romantic evening.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -60,7 +59,6 @@
   "difficulty": "medium",
   "tags": [
     "bhuna-spice",
-    "gluten-free",
     "korean-cuisine",
     "low-fodmap",
     "romantic-dinner",
@@ -89,5 +87,9 @@
     "mainIngredient": "rice",
     "descriptor": "Quaint Crumbly",
     "dishForm": "Tteok"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

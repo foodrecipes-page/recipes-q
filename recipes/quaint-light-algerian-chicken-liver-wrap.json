@@ -61,7 +61,8 @@
     "Add the minced garlic to the pan and cook for an additional minute.",
     "Once the chicken liver is done, let it cool for a few minutes.",
     "Assemble the wrap by placing a piece of ssam wrap in the bottom of a mason jar, followed by a slice of chicken liver, some sauteed onion and garlic, and a slice of hard boiled egg.",
-    "Repeat the layers until the jar is full, ending with a piece of ssam wrap on top."
+    "Repeat the layers until the jar is full, ending with a piece of ssam wrap on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken liver",
     "descriptor": "quaint light",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

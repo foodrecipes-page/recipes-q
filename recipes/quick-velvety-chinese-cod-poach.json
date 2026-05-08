@@ -58,7 +58,6 @@
   "difficulty": "medium",
   "tags": [
     "fish",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "weeknight"
@@ -86,5 +85,9 @@
     "mainIngredient": "cod",
     "descriptor": "quick, velvety",
     "dishForm": "Poach"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

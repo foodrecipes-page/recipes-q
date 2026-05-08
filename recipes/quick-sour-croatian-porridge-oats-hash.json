@@ -3,8 +3,7 @@
   "description": "A sour, crispy, one-pot dish from Croatia featuring porridge oats, bonito flakes, and a macrobiotic-friendly twist. Serve hot in a claypot.",
   "cuisine": "Croatian",
   "diet": [
-    "macrobiotic",
-    "vegetarian"
+    "macrobiotic"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "Porridge oats",
     "descriptor": "Quick sour",
     "dishForm": "Hash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

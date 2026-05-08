@@ -56,7 +56,8 @@
     "Add the bruised lemongrass, shaved bonito flakes, and sliced mushrooms, and cook for an additional 2 minutes.",
     "In a large bowl, combine the cooked chicken mixture and chicken broth, and stir to combine.",
     "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
-    "Remove from the oven and let rest for 5 minutes before serving."
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "quietly molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

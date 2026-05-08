@@ -4,8 +4,7 @@
   "cuisine": "russian",
   "diet": [
     "vegetarian",
-    "plant-based",
-    "gluten-free"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -80,7 +79,6 @@
     "crispy",
     "easily-veganizable",
     "european",
-    "gluten-free",
     "quick-fix",
     "vegetarian",
     "weeknight"
@@ -108,5 +106,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Quick and Crispy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

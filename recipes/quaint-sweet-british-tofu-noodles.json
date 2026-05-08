@@ -2,10 +2,7 @@
   "title": "Quaint Sweet British Tofu Noodles",
   "description": "A sweet and nostalgic British dish featuring marinated tofu and dashi extract, perfect for a comforting meal. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "tofu",
     "descriptor": "quaint sweet",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

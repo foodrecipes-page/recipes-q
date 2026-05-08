@@ -57,7 +57,9 @@
     "Add the dumplings to the pressure cooker, seam-side down, and pour in the chicken broth.",
     "Close the lid of the pressure cooker and cook at high pressure for 10 minutes.",
     "Allow the pressure to release naturally for 5 minutes, then quick-release any remaining pressure.",
-    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -95,5 +97,10 @@
     "mainIngredient": "pork",
     "descriptor": "Quick Braised",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,9 +3,7 @@
   "description": "Indulge in this salty, pillowy Russian dish featuring thyme, made using an anti-inflammatory-friendly recipe and served in a Korean brass bowl.",
   "cuisine": "russian",
   "diet": [
-    "gluten-free",
-    "dairy-free",
-    "vegan"
+    "dairy-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -70,9 +68,7 @@
   "difficulty": "medium",
   "tags": [
     "bread",
-    "gluten-free",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 1200,
@@ -97,5 +93,10 @@
     "mainIngredient": "Pillowy Breads",
     "descriptor": "Quenched",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

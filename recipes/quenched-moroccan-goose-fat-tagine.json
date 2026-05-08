@@ -57,7 +57,8 @@
     "Add sliced onion, carrots, zucchini, rosemary, cumin, salt, and pepper.",
     "Cover the tagine and cook for 45 minutes, stirring occasionally.",
     "Remove the lid and reduce the sauce until it is slightly thickened.",
-    "Serve hot, garnished with a sprinkle of fresh rosemary."
+    "Serve hot, garnished with a sprinkle of fresh rosemary.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 50,
@@ -95,5 +96,9 @@
     "mainIngredient": "Goose Fat",
     "descriptor": "Quenched",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -65,7 +65,8 @@
     "Bring the mixture to a simmer.",
     "Reduce the heat to low and add the fish balls. Cook for 2-3 minutes, or until heated through.",
     "Add the chopped Thai basil and cook for an additional minute.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick Red Pepper",
     "dishForm": "Hot Pot"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

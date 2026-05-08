@@ -3,8 +3,7 @@
   "description": "A velvety, yeasty quesadilla with sautéed oyster mushrooms and melted cheddar, served with a low-glycemic guacamole.",
   "cuisine": "American",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -69,7 +68,6 @@
     "low-glycemic",
     "quick",
     "show-off",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -95,5 +93,9 @@
     "mainIngredient": "Oyster Mushroom",
     "descriptor": "Quick",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

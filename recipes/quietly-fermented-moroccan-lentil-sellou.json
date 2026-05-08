@@ -68,7 +68,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
-  "totalTimeMin": 74,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
@@ -101,5 +101,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Quietly Fermented",
     "dishForm": "Sellou"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

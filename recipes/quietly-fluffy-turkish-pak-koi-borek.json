@@ -3,8 +3,7 @@
   "description": "A low-calorie Turkish dish featuring baby pak koi in a fluffy borek, served in a dolsot stone bowl. This fermented dish is perfect for a light lunch.",
   "cuisine": "Turkish",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "pak koi",
     "descriptor": "Quietly Fluffy",
     "dishForm": "Borek"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

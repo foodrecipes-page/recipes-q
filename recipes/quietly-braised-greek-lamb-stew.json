@@ -64,7 +64,8 @@
     "Return the lamb shanks to the pot and bring the mixture to a boil.",
     "Cover the pot and transfer it to the preheated oven, braising the lamb for 2 1/2 hours.",
     "Remove the pot from the oven and brush the lamb shanks with the honey glaze.",
-    "Let the stew rest for 10 minutes before serving."
+    "Let the stew rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -103,5 +104,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Quietly Braised",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

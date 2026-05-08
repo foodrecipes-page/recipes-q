@@ -2,9 +2,7 @@
   "title": "Quick Energizing Ethiopian Lamb Tagine",
   "description": "A buttery and pillowy Ethiopian dish featuring dasima-kombu, perfect for a quick and energizing meal. This halal-friendly recipe is made with tender lamb and aromatic spices.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "Add the chicken broth and bring to a boil.",
     "Reduce the heat to low and simmer, covered, for 20 minutes.",
     "Remove the dasima-kombu and discard.",
-    "Deglaze the pot with a little water and serve hot."
+    "Deglaze the pot with a little water and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +98,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Quick Energizing",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

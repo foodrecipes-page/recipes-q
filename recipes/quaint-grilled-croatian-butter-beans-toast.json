@@ -4,8 +4,7 @@
   "cuisine": "Croatian",
   "diet": [
     "plant-based",
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "butter beans",
     "descriptor": "quaint grilled",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

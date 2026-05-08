@@ -3,7 +3,6 @@
   "description": "buttery, crisp, and comforting japanese udon dish featuring ground allspice and ferment-kimchi, perfect for a sick day.",
   "cuisine": "japanese",
   "diet": [
-    "gluten-free",
     "pescetarian"
   ],
   "meal": "lunch",
@@ -58,5 +57,9 @@
     "mainIngredient": "allspice",
     "descriptor": "Quenched",
     "dishForm": "Udon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

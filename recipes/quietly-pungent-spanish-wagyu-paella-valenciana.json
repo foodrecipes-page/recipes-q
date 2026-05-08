@@ -66,7 +66,8 @@
     "Add the uncooked Calasparra rice to the pan, stirring to combine with the spice mixture.",
     "Add the chicken broth to the pan, bringing the mixture to a boil.",
     "Reduce the heat to low, cover the pan, and simmer for 20 minutes, or until the rice is cooked and the liquid has been absorbed.",
-    "Return the cooked Wagyu beef to the pan, and season with salt and black pepper to taste."
+    "Return the cooked Wagyu beef to the pan, and season with salt and black pepper to taste.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -104,5 +105,9 @@
     "mainIngredient": "wagyu",
     "descriptor": "Quietly Pungent",
     "dishForm": "Paella Valenciana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

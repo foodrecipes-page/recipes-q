@@ -57,7 +57,7 @@
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
-  "totalTimeMin": 70,
+  "totalTimeMin": 30,
   "servings": 8,
   "difficulty": "easy",
   "tags": [
@@ -92,5 +92,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Quick Crispy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

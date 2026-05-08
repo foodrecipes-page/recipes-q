@@ -2,9 +2,7 @@
   "title": "Quaint Dense German Cheese Curds Toast",
   "description": "A traditional German dish featuring dense cheese curds on toasted bread, perfect for a romantic snack. This recipe is gluten-free friendly.",
   "cuisine": "German",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -55,7 +53,6 @@
     "cheese-lover",
     "easy-to-make",
     "german-cuisine",
-    "gluten-free",
     "romantic-snack"
   ],
   "nutrition": {
@@ -81,5 +78,9 @@
     "mainIngredient": "cheese curds",
     "descriptor": "Quaint Dense",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Quenched Ukrainian Vegetables Stir-fry",
   "description": "Grassy, tender, and flavorful, this Ukrainian dish is a perfect meal-prep option, featuring the tangy taste of Parmigiano-Reggiano, and is FODMAP-friendly and stir-fried to perfection.",
   "cuisine": "ukrainian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -68,7 +66,8 @@
     "Transfer to a serving dish and top with chopped sorrel leaves.",
     "Serve hot, garnished with additional sorrel if desired.",
     "Use a slotted spoon to remove excess liquid and portion out servings.",
-    "If desired, refrigerate or freeze for later use, re-heating in the microwave or on the stovetop."
+    "If desired, refrigerate or freeze for later use, re-heating in the microwave or on the stovetop.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -106,5 +105,10 @@
     "mainIngredient": "Vegetables",
     "descriptor": "Quenched",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

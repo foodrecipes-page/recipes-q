@@ -3,8 +3,7 @@
   "description": "A salty, snappy, and comforting Italian dish featuring flour tortilla and high-protein cheese, perfect for a sick day. This recipe is a creative twist on the classic cacio e pepe.",
   "cuisine": "Italian",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Quick Savory",
     "dishForm": "Cacio E Pepe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

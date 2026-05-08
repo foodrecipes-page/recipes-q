@@ -58,7 +58,8 @@
     "Add the Korean chili flakes, soy sauce, and 2 tablespoons of water mixed with cornstarch to the skillet.",
     "Stir the mixture until it thickens, then serve hot.",
     "Serve the Hunan cornstarch jjigae immediately over steamed rice.",
-    "Garnish with additional chopped scallions if desired."
+    "Garnish with additional chopped scallions if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "cornstarch",
     "descriptor": "quick-fix roasted",
     "dishForm": "Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

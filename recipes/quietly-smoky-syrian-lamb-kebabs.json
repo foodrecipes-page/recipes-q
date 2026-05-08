@@ -2,9 +2,7 @@
   "title": "Quietly Smoky Syrian Lamb Kebabs",
   "description": "A smoky and pillowy Syrian dish featuring lamb, cookies are not typically used in this recipe but nimono simmer is applied, halal friendly and perfect post workout meal.",
   "cuisine": "Syrian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Quietly Smoky",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

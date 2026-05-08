@@ -2,9 +2,7 @@
   "title": "Quick Flaky German Dough Dumplings",
   "description": "A traditional German dish featuring turmeric powder, these dumplings are a crowd-pleaser and can be made gluten-free friendly. They are best served steamed in a bamboo steamer.",
   "cuisine": "German",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,6 @@
   "tags": [
     "comfort-food",
     "german-cuisine",
-    "gluten-free",
     "homemade",
     "steamed-dishes"
   ],
@@ -88,5 +85,9 @@
     "mainIngredient": "dough",
     "descriptor": "Quick Flaky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -61,7 +61,8 @@
     "Add the chicken broth, dried thyme, bay leaves, salt, and black pepper to the copper mug.",
     "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
     "Remove the bay leaves and serve the stew hot.",
-    "Serve the stew in the copper mug for a comforting and rustic presentation."
+    "Serve the stew in the copper mug for a comforting and rustic presentation.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "deodeok root",
     "descriptor": "quietly comforting",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

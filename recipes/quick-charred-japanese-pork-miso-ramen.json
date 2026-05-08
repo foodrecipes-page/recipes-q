@@ -3,8 +3,7 @@
   "description": "A low-carb, monsoon-inspired Japanese dish featuring charred pork, ginger garlic paste, and a soffritto-base, all in a delicious ramen-miso form. This recipe is a twist on traditional ramen with a focus on bold flavors and textures.",
   "cuisine": "Japanese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -58,7 +57,9 @@
     "Bring the broth to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Add the shirataki noodles to the skillet and cook according to package instructions.",
     "Add the cooked pork, green onions, and bean sprouts to the skillet and stir to combine.",
-    "Serve the ramen hot, garnished with additional green onions and bean sprouts if desired."
+    "Serve the ramen hot, garnished with additional green onions and bean sprouts if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,11 @@
     "mainIngredient": "pork",
     "descriptor": "Quick Charred",
     "dishForm": "Miso Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

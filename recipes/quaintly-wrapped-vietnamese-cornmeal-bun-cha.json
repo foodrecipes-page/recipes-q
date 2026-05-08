@@ -75,7 +75,6 @@
   "tags": [
     "bun-cha",
     "cornmeal",
-    "halal",
     "steamed",
     "vietnamese"
   ],
@@ -102,5 +101,9 @@
     "mainIngredient": "cornmeal",
     "descriptor": "Quaintly Wrapped",
     "dishForm": "Bun Cha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

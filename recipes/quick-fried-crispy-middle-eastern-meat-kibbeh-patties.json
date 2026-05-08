@@ -3,8 +3,6 @@
   "description": "A crispy and flavorful kibbeh patty dish from the Middle East, made quickly with white bread mix, onions, and spices.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "pescatarian",
-    "vegetarian",
     "gluten"
   ],
   "meal": "lunch",
@@ -105,5 +103,10 @@
     "mainIngredient": "Meat",
     "descriptor": "Quick Fried Crispy",
     "dishForm": "Kibbeh Patties"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian"
+  ]
 }

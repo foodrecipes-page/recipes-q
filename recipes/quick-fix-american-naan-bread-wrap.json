@@ -77,7 +77,8 @@
     "Fold the naan bread in half to enclose the filling.",
     "Grill the wrap for an additional 1-2 minutes, or until the cheese is melted and the bread is crispy.",
     "Serve hot, with hot sauce on the side if desired.",
-    "If desired, top with additional cheese, sour cream, or other toppings."
+    "If desired, top with additional cheese, sour cream, or other toppings.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 12,
@@ -115,5 +116,9 @@
     "mainIngredient": "naan bread",
     "descriptor": "quick-fix",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

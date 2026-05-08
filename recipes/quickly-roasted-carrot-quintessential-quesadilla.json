@@ -52,7 +52,6 @@
   "difficulty": "easy",
   "tags": [
     "colorful-dessert",
-    "gluten-free",
     "quintessential-canadian",
     "tangy-glaze"
   ],
@@ -79,5 +78,9 @@
     "mainIngredient": "Carrots",
     "descriptor": "Quickly Roasted",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

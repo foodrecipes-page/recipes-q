@@ -62,7 +62,8 @@
     "Slowly add 1-2 cups of cornstarch slurry to the water mixture, whipping constantly with a wire whisk until mixture has thickened to your liking. ",
     "Once the cornstarch mixture has thickened, remove the sauce from heat and let cool. ",
     "Spherify the cooled sauce using a spherification kit or a siphon gun. Once spherified, transfer chicken wings to korean brass bowl and garnish with chopped cilantro and a few quenched sauce spheres.",
-    "Garnish additional chopped cilantro and serve immediately."
+    "Garnish additional chopped cilantro and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -101,5 +102,9 @@
     "mainIngredient": "chicken wings",
     "descriptor": "quenched juicy",
     "dishForm": "bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

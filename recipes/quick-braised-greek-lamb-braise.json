@@ -3,8 +3,6 @@
   "description": "A comforting Greek dish featuring lamb, potatoes, and a tangy tomato sauce. Briny, bouncy, and utterly satisfying.",
   "cuisine": "Greek",
   "diet": [
-    "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -108,5 +106,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Quick Braised",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

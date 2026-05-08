@@ -3,8 +3,7 @@
   "description": "A simple and delicious Japanese-inspired pasta dish made with buttery tagliatelle, a sweet glaze, and pan-seared fish. This kid-friendly recipe is perfect for a quick weeknight dinner.",
   "cuisine": "Japanese",
   "diet": [
-    "pescatarian",
-    "gluten-free"
+    "pescatarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "Fish",
     "descriptor": "Quick Butter",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

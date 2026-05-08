@@ -2,9 +2,7 @@
   "title": "Quick Japanese Tofu Agedashi",
   "description": "Rich and pillowy Japanese dish featuring hot smoked paprika and lardons-render, perfect for a gluten-free friendly meal",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "agedashi-style",
-    "gluten-free",
     "hot-smoked-paprika",
     "japanese-cuisine",
     "lardons-recipes",
@@ -98,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Quick Energizing",
     "dishForm": "Agedashi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

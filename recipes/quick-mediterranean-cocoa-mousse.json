@@ -2,9 +2,7 @@
   "title": "Quick Mediterranean Cocoa Mousse",
   "description": "A vegan, airy cocoa mousse with Mediterranean flair, sweetened with caster sugar and tempered dark chocolate for a bouncy, glossy finish.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -53,8 +51,7 @@
     "mediterranean",
     "mousse",
     "quick",
-    "single-serve",
-    "vegan"
+    "single-serve"
   ],
   "nutrition": {
     "calories": 852,
@@ -79,5 +76,9 @@
     "mainIngredient": "Cocoa",
     "descriptor": "Quick",
     "dishForm": "Mousse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

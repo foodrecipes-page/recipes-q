@@ -3,8 +3,7 @@
   "description": "A fresh and pillowy Irish dessert featuring pecan nuts and ferment-kimchi, made diabetic-friendly with natural sweeteners.",
   "cuisine": "Irish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "diabetic-friendly",
     "ferment-kimchi",
-    "gluten-free",
     "irish-desserts",
     "natural-sweeteners",
     "pecan-nuts"
@@ -91,5 +89,9 @@
     "mainIngredient": "pecan nuts",
     "descriptor": "quaint pillowy",
     "dishForm": "Cobbler"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

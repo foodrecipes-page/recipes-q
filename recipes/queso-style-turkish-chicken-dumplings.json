@@ -54,7 +54,8 @@
     "Heat a non-stick pan over medium heat and add 1 tablespoon of infuse-oil.",
     "Cook 4-6 dumplings at a time, until golden brown on both sides.",
     "Transfer cooked dumplings to banana leaves and cover with mayonnaise.",
-    "Serve hot, garnished with additional parsley if desired."
+    "Serve hot, garnished with additional parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Queso-Style",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

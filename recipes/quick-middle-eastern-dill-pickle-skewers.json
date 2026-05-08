@@ -4,8 +4,7 @@
   "cuisine": "Middle Eastern",
   "diet": [
     "satvik",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -58,7 +57,8 @@
     "Season with salt to taste.",
     "Serve immediately and enjoy.",
     "Garnish with additional sumac and pita bread cubes if desired.",
-    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 0,
@@ -67,7 +67,6 @@
   "difficulty": "easy",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "middle-eastern",
     "quick-fix",
     "snack",
@@ -96,5 +95,10 @@
     "mainIngredient": "dill pickles",
     "descriptor": "Quick Spicy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

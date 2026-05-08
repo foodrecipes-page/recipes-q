@@ -3,8 +3,7 @@
   "description": "A quick fix jammy cheese-pull dish made with madras paste, shio-koji-cure, and ayurvedic sattvic-friendly ingredients. Perfect for a weeknight dinner.",
   "cuisine": "Saudi-Arabian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -102,5 +101,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Quick-Fix",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

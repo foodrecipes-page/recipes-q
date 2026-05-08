@@ -3,7 +3,6 @@
   "description": "A simple and crunchy flaxseed toast, perfect for a quick breakfast or snack. It's inspired by the flavors of Egypt and is gluten-free friendly.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "breakfast",
@@ -45,7 +44,6 @@
     "breakfast",
     "easy",
     "flaxseed",
-    "gluten-free",
     "middle-eastern",
     "one-pan",
     "quick",
@@ -75,5 +73,9 @@
     "mainIngredient": "Flaxseed",
     "descriptor": "Quick Crunchy Grassy",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

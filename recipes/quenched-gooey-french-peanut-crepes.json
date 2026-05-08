@@ -3,8 +3,7 @@
   "description": "A charred and gooey French dish featuring roasted peanuts, perfect for a sick day, made in a nut-free-friendly environment and formed into crepes. This dish is a unique twist on traditional crepes.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -91,11 +90,16 @@
     "mood": "sick-day",
     "technique": "whisk",
     "primaryIngredient": "roasted peanut",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "peanut",
     "descriptor": "Quenched Gooey",
     "dishForm": "Crepes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

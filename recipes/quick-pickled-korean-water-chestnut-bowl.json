@@ -99,8 +99,7 @@
     "mediterranean",
     "mirepoix",
     "one-pan",
-    "quick-fix",
-    "vegetarian"
+    "quick-fix"
   ],
   "nutrition": {
     "calories": 120,
@@ -125,5 +124,9 @@
     "mainIngredient": "water chestnut",
     "descriptor": "quick pickled",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

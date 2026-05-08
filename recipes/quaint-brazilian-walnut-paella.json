@@ -50,7 +50,8 @@
     "Add the chicken breast and cook until it is browned on all sides.",
     "Add the coconut milk, cumin, and paprika, and stir to combine.",
     "Bring the mixture to a simmer and cook for 10 minutes.",
-    "Transfer the skillet to the preheated oven and bake for 20 minutes."
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -87,5 +88,9 @@
     "mainIngredient": "walnuts",
     "descriptor": "quaint pillowy",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

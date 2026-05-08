@@ -45,7 +45,8 @@
     "Pour mixture into a blender, add pink food coloring (if using), blend until smooth, then pour back into pot. Mix well to combine.",
     "Preheat oven to 160°C (320°F). Divide the bangers and mash mix evenly between 4 lamination-puff cups.",
     "Bake in preheated oven for 15 minutes or until puffs are golden brown and cheese sauce is bubbly.",
-    "Serve immediately while hot."
+    "Serve immediately while hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -80,5 +81,9 @@
     "mainIngredient": "Bangers",
     "descriptor": "Qozzy",
     "dishForm": "Qozzy Bangers And Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

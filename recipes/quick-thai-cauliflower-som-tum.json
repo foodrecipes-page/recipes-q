@@ -3,7 +3,6 @@
   "description": "A mustardy and indulgent Thai dish featuring cauliflower, this recipe brings the flavors of Bangkok street food to your table with a Mediterranean twist, using the tandoor for a smoky flavor.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "snack",
@@ -71,8 +70,7 @@
     "indulgent",
     "mediterranean-friendly",
     "quick",
-    "thai-street-food",
-    "vegetarian"
+    "thai-street-food"
   ],
   "nutrition": {
     "calories": 220,
@@ -97,5 +95,9 @@
     "mainIngredient": "cauliflower",
     "descriptor": "Quickly Tandoor",
     "dishForm": "Som Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -53,7 +53,8 @@
     "Season with salt and black pepper to taste.",
     "Transfer the clay pot to the preheated oven and roast for 15 minutes, until the Brussels sprouts are tender.",
     "Remove the clay pot from the oven and stir in the chopped parsley.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "mainIngredient": "Brussels sprouts",
     "descriptor": "Quick roasted",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

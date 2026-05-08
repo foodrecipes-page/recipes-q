@@ -46,7 +46,8 @@
     "Scatter diced cucumber and tomato over the rice.",
     "Squeeze lemon juice over the rice and sprinkle with sumac.",
     "Fold the steamed cod and chicken into the rice mixture gently.",
-    "Serve immediately, garnish with a few mint leaves if desired."
+    "Serve immediately, garnish with a few mint leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -80,5 +81,9 @@
     "mainIngredient": "cod",
     "descriptor": "Quick Light",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -70,7 +70,8 @@
     "Heat a small amount of oil in a pan over medium-high heat.",
     "Add the sliced chicken to the pan and cook for 2-3 minutes, until browned.",
     "Stir in the chili sauce mixture and cook for an additional 1-2 minutes.",
-    "Serve the chicken over cooked rice with green onions on top."
+    "Serve the chicken over cooked rice with green onions on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 80,
@@ -108,5 +109,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quick-Fix",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

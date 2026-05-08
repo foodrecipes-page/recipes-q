@@ -2,10 +2,7 @@
   "title": "Quick Buttery Egyptian Tahini Pasta",
   "description": "A creamy and buttery Egyptian dish featuring tahini and bonito flakes, perfect for a quick dinner, and can be made dairy-free friendly.",
   "cuisine": "Egyptian",
-  "diet": [
-    "dairy-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -64,12 +61,10 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "dairy-free",
     "egyptian-cuisine",
     "pasta-dish",
     "quick-dinner",
-    "tahini-based",
-    "vegetarian"
+    "tahini-based"
   ],
   "nutrition": {
     "calories": 540,
@@ -94,5 +89,10 @@
     "mainIngredient": "tahini",
     "descriptor": "Quick Buttery",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

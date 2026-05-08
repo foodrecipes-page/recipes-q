@@ -59,7 +59,8 @@
     "Begin adding the warmed broth one ladle at a time, stirring constantly and waiting for the liquid to be absorbed before adding the next.",
     "Continue this process until the rice is creamy and al dente, about 15 minutes.",
     "Stir in the grated Parmesan and thyme, season with salt and pepper.",
-    "Garnish with chopped parsley before serving."
+    "Garnish with chopped parsley before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 18,
@@ -97,5 +98,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Quick",
     "dishForm": "Risotto"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

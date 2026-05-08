@@ -79,7 +79,8 @@
     "Add the chopped chicken, crumbled feta cheese, and pitted olives to the bowl with the lettuce mixture, if using.",
     "Pour the dressing over the salad and toss to combine.",
     "Season with salt and pepper to taste, and garnish with chopped parsley, if desired.",
-    "Serve immediately, or refrigerate for up to 2 hours before serving."
+    "Serve immediately, or refrigerate for up to 2 hours before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 10,
@@ -118,5 +119,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Quickly Tendered",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

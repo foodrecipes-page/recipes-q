@@ -3,8 +3,7 @@
   "description": "A snappy and indulgent Indian dish featuring farfalle pasta with an Andhra twist, using yuzu-cure for added umami flavor, and is sugar-free-friendly.",
   "cuisine": "Indian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "indian-cuisine",
     "one-pot",
     "sugar-free",
@@ -97,5 +95,9 @@
     "mainIngredient": "farfalle",
     "descriptor": "Quick Umami",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

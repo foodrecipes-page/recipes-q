@@ -80,7 +80,8 @@
     "Stir in labneh cheese and cook, uncovered, until melted and creamy, about 2 minutes.",
     "Season with salt and pepper to taste.",
     "Serve hot, garnished with chopped cilantro if desired.",
-    "Let the stew rest for a few minutes to allow the flavors to settle before serving."
+    "Let the stew rest for a few minutes to allow the flavors to settle before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -118,5 +119,9 @@
     "mainIngredient": "fenugreek",
     "descriptor": "quick oozing",
     "dishForm": "stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

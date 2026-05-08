@@ -46,7 +46,8 @@
     "Add water or broth to the bowl; cover with lid or plastic wrap and cook on medium-high heat until liquid is absorbed, about 15 minutes.",
     "Preheat donabe vessel over medium heat. Place quinoa mixture inside, seam side up.",
     "Cover with lid and bake at 375°F (190°C) for 20-25 minutes or until edges are golden brown and liquid is evaporated.",
-    "Serve hot."
+    "Serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -82,5 +83,9 @@
     "mainIngredient": "Quinoa",
     "descriptor": "Quenched Flaky",
     "dishForm": "Papillote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

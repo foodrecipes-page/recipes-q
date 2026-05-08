@@ -3,7 +3,6 @@
   "description": "A moist and earthy Jamaican buckwheat stew thickened with coconut milk, simmered with sweet potato, carrot, and kale, finished with lime for brightness. This sattvic-friendly dish offers comforting flavors in a single pot.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "sattvic"
   ],
   "meal": "dinner",
@@ -78,8 +77,7 @@
     "easy",
     "jamaican",
     "sattvic",
-    "stew",
-    "vegan"
+    "stew"
   ],
   "nutrition": {
     "calories": 350,
@@ -104,5 +102,9 @@
     "mainIngredient": "buckwheat",
     "descriptor": "Quenched",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }
