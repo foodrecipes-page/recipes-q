@@ -1,0 +1,96 @@
+{
+  "title": "Quick Energizing Chinese Ricotta Skewers",
+  "description": "A high protein Cantonese dish featuring ricotta and robata grill, perfect for a quick snack or appetizer. This dish combines the creaminess of ricotta with the savory flavor of Chinese ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sesame oil, soy sauce, and honey until well combined.",
+    "Add the crumbled ricotta cheese to the bowl and mix until smooth.",
+    "Add the minced garlic and grated ginger to the bowl and mix until well combined.",
+    "Thread a small amount of the ricotta mixture onto each bamboo skewer, leaving a small space between each piece.",
+    "Brush the skewers with the remaining sesame oil mixture.",
+    "Grill the skewers for 2-3 minutes on each side, or until lightly browned.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "cantonese",
+    "high-protein",
+    "low-carb",
+    "quick-snack",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-energizing-chinese-ricotta-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-chinese-ricotta-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:40:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "ricotta",
+    "diet": "high-protein",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "ricotta",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Skewers"
+  }
+}
