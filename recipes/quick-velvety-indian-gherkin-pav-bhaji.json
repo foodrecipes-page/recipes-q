@@ -1,0 +1,98 @@
+{
+  "title": "Quick Velvety Indian Gherkin Pav Bhaji",
+  "description": "A salty, velvety, one-pot Indian dish featuring gherkin relish, served with a ssam-wrap, low-glycemic-friendly pav-bhaji.",
+  "cuisine": "Indian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gherkin relish",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pav bhaji masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ssam wraps",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "low-glycemic pav bhaji bread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add chopped onions and cook until they are translucent.",
+    "Add pav bhaji masala and cook for 1 minute.",
+    "Add chopped tomatoes and cook until they are soft.",
+    "Add gherkin relish, salt, and water, and stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Serve the pav bhaji in ssam wraps with low-glycemic pav bhaji bread.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "low-glycemic",
+    "lunch-ideas",
+    "one-pot",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-velvety-indian-gherkin-pav-bhaji",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-velvety-indian-gherkin-pav-bhaji",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:38:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "gherkin relish",
+    "diet": "low-glycemic",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "gherkin",
+    "descriptor": "Quick Velvety",
+    "dishForm": "Pav Bhaji"
+  }
+}

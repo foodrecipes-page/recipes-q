@@ -7635,6 +7635,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-smoked-syrian-salmon-tagine",
+    "title": "quick smoked syrian salmon tagine",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "smoked-salmon",
+      "syrian",
+      "tagine"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-smoky-braised-jamaican-sausage-braise",
     "title": "Quick Smoky Braised Jamaican Sausage Braise",
     "tags": [
@@ -8301,6 +8315,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-velvety-indian-gherkin-pav-bhaji",
+    "title": "Quick Velvety Indian Gherkin Pav Bhaji",
+    "tags": [
+      "indian-cuisine",
+      "low-glycemic",
+      "lunch-ideas",
+      "one-pot",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

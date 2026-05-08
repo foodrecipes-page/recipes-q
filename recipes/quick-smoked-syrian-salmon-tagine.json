@@ -1,0 +1,111 @@
+{
+  "title": "quick smoked syrian salmon tagine",
+  "description": "a savory, pillowy, hangover-cure syrian dish featuring hot smoked flaked salmon, perfect for a weekend breakfast or brunch.",
+  "cuisine": "syrian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "2 tablespoons",
+      "notes": "do not melt, simply crumble into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil like canola for a more authentic flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "caramelize slowly to bring out sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced, for flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground, for depth"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground, for warmth"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher, for texture and flavor"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for texture and flavor"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large ceramic tagine over medium heat.",
+    "add the chopped onion and cook, stirring occasionally, until caramelized and golden brown, about 10 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the cumin, coriander, cayenne pepper, salt, and black pepper, and cook for 1 minute, until the spices are fragrant.",
+    "add the hot smoked salmon, crumbling it into small pieces as you go, and cook for 2-3 minutes, until heated through.",
+    "stir in the crumbled tempering chocolate and cook for 1 minute, until the flavors are combined.",
+    "garnish with chopped fresh parsley and serve hot.",
+    "cover and let rest for 5 minutes before serving.",
+    "serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "smoked-salmon",
+    "syrian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-smoked-syrian-salmon-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoked-syrian-salmon-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "salmon",
+    "descriptor": "Quick Smoked",
+    "dishForm": "Tagine"
+  }
+}
