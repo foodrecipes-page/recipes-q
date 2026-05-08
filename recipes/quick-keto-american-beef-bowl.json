@@ -1,0 +1,94 @@
+{
+  "title": "Quick Keto American Beef Bowl",
+  "description": "A rich and gooey American dish featuring fines-herbes and ferment-jang, served in a dolsot-stone-bowl, perfect for a crowd-pleasing keto meal.",
+  "cuisine": "American",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "fines-herbes",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh herbs like parsley, chives, and tarragon"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tsp",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the fines-herbes, ferment-jang, and butter to the skillet and stir to combine.",
+    "Transfer the skillet contents to a dolsot-stone-bowl.",
+    "Top the beef mixture with shredded cheddar cheese, sour cream, diced onion, and diced bell pepper.",
+    "Bake the dolsot-stone-bowl in the preheated oven for 15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bowl from the oven and let it cool for a few minutes before serving.",
+    "Serve the Quick Keto American Beef Bowl hot, garnished with additional fines-herbes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "crowd-pleaser",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "quick-keto-american-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-keto-american-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:46:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-jang",
+    "primaryIngredient": "fines-herbes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Keto",
+    "dishForm": "Bowl"
+  }
+}

@@ -5871,6 +5871,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-keto-american-beef-bowl",
+    "title": "Quick Keto American Beef Bowl",
+    "tags": [
+      "american-cuisine",
+      "crowd-pleaser",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-kissed-brazilian-pork-hash",
     "title": "Quick-Kissed Brazilian Pork Hash",
     "tags": [
