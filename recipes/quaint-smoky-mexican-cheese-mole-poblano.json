@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Smoky Mexican Cheese Mole Poblano",
+  "description": "A smoky, cheese-pull, nostalgic Mexican dish featuring malai, reduced to perfection, without onion or garlic, in the form of mole poblano, served on a comal.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "or substitute with heavy cream"
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by toasting the ancho chilies on a comal over medium heat for 2 minutes on each side.",
+    "Remove the chilies from the heat and let them cool down before stemming and seeding them.",
+    "In a blender, combine the cooled chilies, malai, chicken broth, almonds, raisins, cinnamon, cocoa powder, salt, and black pepper, and blend until smooth.",
+    "Transfer the mixture to a saucepan and bring it to a simmer over low heat.",
+    "Reduce the mixture by half, stirring occasionally, which should take about 20 minutes.",
+    "While the mixture is reducing, prepare the comal by heating it over medium heat and brushing it with a little bit of oil.",
+    "Once the mixture has reduced, stir in the shredded cheese until it is fully melted and the mixture is smooth.",
+    "Pour the cheese mixture onto the prepared comal and let it cook for 2 minutes, until the bottom is lightly browned and the cheese is melted and bubbly.",
+    "Use a spatula to carefully lift and fold the edges of the cheese mixture towards the center, allowing the uncooked cheese to flow to the edges and cook.",
+    "Repeat the lifting and folding process for about 5 minutes, until the cheese is fully cooked and has a nice browned crust on the bottom."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comal",
+    "comfort-food",
+    "mexican",
+    "norteno",
+    "one-pan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quaint-smoky-mexican-cheese-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-smoky-mexican-cheese-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:19:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "malai",
+    "diet": "no-onion-no-garlic",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "Quaint Smoky",
+    "dishForm": "Mole Poblano"
+  }
+}

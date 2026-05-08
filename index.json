@@ -437,6 +437,22 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-smoky-mexican-cheese-mole-poblano",
+    "title": "Quaint Smoky Mexican Cheese Mole Poblano",
+    "tags": [
+      "cheesy",
+      "comal",
+      "comfort-food",
+      "mexican",
+      "norteno",
+      "one-pan",
+      "smoky"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-sour-british-cod-cornish-pasty",
     "title": "Quaint Sour British Cod Cornish Pasty",
     "tags": [
