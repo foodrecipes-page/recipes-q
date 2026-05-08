@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Peppery Italian Peppers Carbonara",
+  "description": "A rich and dense take on the classic Italian pasta dish, featuring roasted peppers as the primary flavor component, and a raw egg mixture to add creaminess. This whole30-friendly version eschews traditional cheese and uses a mortar-pestle to pound the ingredients for a coarser texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "freshly ground black pepper",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "4 large Italian peppers",
+      "amount": "",
+      "notes": "Assorted colors, such as red, yellow, orange, green."
+    },
+    {
+      "name": "12 oz spaghetti",
+      "amount": "",
+      "notes": "Use a high-quality, 100% durum wheat semolina pasta."
+    },
+    {
+      "name": "3 large eggs",
+      "amount": "",
+      "notes": "Cold, straight from the refrigerator."
+    },
+    {
+      "name": "1/2 cup raw pasture-raised chicken broth",
+      "amount": "",
+      "notes": "You can also use beef or vegetable broth if you prefer."
+    },
+    {
+      "name": "1 tsp red pepper flakes",
+      "amount": "",
+      "notes": "Optional, for added heat."
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced, from 1-2 cloves of garlic."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "Use the stems and leaves, not just the leaves."
+    },
+    {
+      "name": "1/4 cup chopped fresh basil",
+      "amount": "",
+      "notes": "Use the stems and leaves, not just the leaves."
+    },
+    {
+      "name": "1/4 cup chopped fresh chives",
+      "amount": "",
+      "notes": "Optional, for added onion flavor."
+    },
+    {
+      "name": "1/2 cup olive oil",
+      "amount": "",
+      "notes": "Use a high-quality, extra-virgin oil."
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the olive oil over medium heat, then add the minced garlic and cook for 1 minute, stirring occasionally.",
+    "Add the sliced peppers to the skillet, in batches if necessary, and cook for 10-12 minutes, or until they are tender and slightly caramelized.",
+    "Using a mortar and pestle, pound the cooked peppers into a coarse paste, then transfer the mixture to a large bowl.",
+    "Add the ground black pepper, red pepper flakes, and a pinch of salt to the bowl, then stir to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "paleo",
+    "pasta",
+    "peppers",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "quenched-peppery-italian-peppers-carbonara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peppery-italian-peppers-carbonara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:37Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "peppers",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "peppers",
+    "descriptor": "quenched peppery",
+    "dishForm": "Carbonara"
+  }
+}

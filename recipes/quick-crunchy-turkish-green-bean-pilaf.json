@@ -1,0 +1,104 @@
+{
+  "title": "Quick Crunchy Turkish Green Bean Pilaf",
+  "description": "A flavorful and crunchy Turkish dish featuring green beans and a pasta water emulsion, perfect for a weeknight dinner. This herbal and monsoon-inspired dish is friendly for all, including those who follow Buddhist temple dietary guidelines.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 pound",
+      "notes": "trimmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "small shaped like orzo"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the pasta according to package instructions until al dente.",
+    "While the pasta is cooking, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the green beans to the skillet and cook until they are tender but still crisp, about 4-5 minutes.",
+    "Stir in the salt, black pepper, and paprika, and cook for 1 minute.",
+    "Drain the cooked pasta and add it to the skillet with the green beans and spice mixture.",
+    "Stir in the lemon juice and cook for an additional 2 minutes, until the liquid has been absorbed and the mixture is heated through.",
+    "Transfer the pilaf to a hot stone plate and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "green-beans",
+    "pilaf",
+    "quick",
+    "turkish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "quick-crunchy-turkish-green-bean-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-turkish-green-bean-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:31:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "green beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "green beans",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

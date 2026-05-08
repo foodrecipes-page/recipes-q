@@ -2260,6 +2260,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peppery-italian-peppers-carbonara",
+    "title": "Quenched Peppery Italian Peppers Carbonara",
+    "tags": [
+      "italian",
+      "paleo",
+      "pasta",
+      "peppers",
+      "whole30"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-peppery-mediterranean-rice-pilaf",
     "title": "Quenched Peppery Mediterranean Rice Pilaf",
     "tags": [
@@ -4179,6 +4193,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crunchy-turkish-green-bean-pilaf",
+    "title": "Quick Crunchy Turkish Green Bean Pilaf",
+    "tags": [
+      "green-beans",
+      "pilaf",
+      "quick",
+      "turkish",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
