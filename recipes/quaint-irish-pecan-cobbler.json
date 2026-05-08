@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Irish Pecan Cobbler",
+  "description": "A fresh and pillowy Irish dessert featuring pecan nuts and ferment-kimchi, made diabetic-friendly with natural sweeteners.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "natural sweetener",
+      "amount": "1/2 cup",
+      "notes": "such as stevia or erythritol"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond flour, natural sweetener, and cinnamon powder.",
+    "In a separate bowl, whisk together the eggs and melted butter.",
+    "Add the chopped pecan nuts and ferment-kimchi to the egg mixture and stir well.",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Transfer the dough to a 9-inch round baking dish and smooth the top.",
+    "Bake the cobbler for 35 minutes, or until the top is golden brown.",
+    "Remove the cobbler from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "ferment-kimchi",
+    "gluten-free",
+    "irish-desserts",
+    "natural-sweeteners",
+    "pecan-nuts"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quaint-irish-pecan-cobbler",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-irish-pecan-cobbler",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:52:59Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "pecan nuts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "quaint pillowy",
+    "dishForm": "Cobbler"
+  }
+}
