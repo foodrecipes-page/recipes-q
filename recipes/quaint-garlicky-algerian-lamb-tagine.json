@@ -1,0 +1,91 @@
+{
+  "title": "Quaint Garlicky Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring tender lamb, whole black peppercorns, and a hint of yuzu, perfect for a crowd, this macrobiotic friendly recipe is cooked to perfection on a slate tile vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "whole black peppercorns",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the lamb, garlic, whole black peppercorns, yuzu juice, olive oil, onion, salt, and thyme.",
+    "Transfer the mixture to a slate tile vessel, making sure the lamb is in a single layer.",
+    "Cover the vessel with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the lamb is tender and the top is lightly browned.",
+    "Remove the tagine from the oven and let it rest for 10 minutes before serving.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "garlic-lovers",
+    "lamb-based",
+    "north-african",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "quaint-garlicky-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-garlicky-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:57:16Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "whole black peppercorns",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "quaint garlicky",
+    "dishForm": "Tagine"
+  }
+}

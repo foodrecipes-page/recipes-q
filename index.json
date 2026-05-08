@@ -199,6 +199,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-garlicky-algerian-lamb-tagine",
+    "title": "Quaint Garlicky Algerian Lamb Tagine",
+    "tags": [
+      "crowd-pleaser",
+      "garlic-lovers",
+      "lamb-based",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-garlicky-british-sausages-toad-in-the-hole",
     "title": "Quaint Garlicky British Sausages Toad In The Hole",
     "tags": [
@@ -4046,6 +4060,20 @@
     ],
     "cuisine": "yucatecan",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-flaky-german-potato-dumplings",
+    "title": "Quick Flaky German Potato Dumplings",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "german-cuisine",
+      "homemade",
+      "potato-dishes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
