@@ -1,0 +1,95 @@
+{
+  "title": "Quenched Midnight Filipino Rice Dumplings",
+  "description": "Malty and velvety Filipino midnight craving dish made with powdered sugar and gluten-free-friendly ingredients.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "glutinous rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flavorless oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sodium-free salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine glutinous rice flour, rice flour, powdered sugar, and granulated sugar. Whisk until well combined.",
+    "Make a well in the center of the dry ingredients and add the egg, milk, unsalted butter, flavorless oil, and sodium-free salt. Mix until a dough forms.",
+    "Knead the dough for 10-15 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1-2 hours until it has doubled in size.",
+    "Punch down the dough and divide it into 8-10 equal pieces. Roll each piece into a ball."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "midnight-snack",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 2
+  },
+  "slug": "quenched-midnight-filipino-rice-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-midnight-filipino-rice-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T22:24:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "powdered sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "Quenched midnight",
+    "dishForm": "Dumplings"
+  }
+}
