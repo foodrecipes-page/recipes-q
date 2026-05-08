@@ -5601,6 +5601,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-indulgent-egyptian-spaghetti-pasta",
+    "title": "Quick Indulgent Egyptian Spaghetti Pasta",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "one-pot",
+      "pasta-lover",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-irish-lamb-bake",
     "title": "Quick Irish Lamb Bake",
     "tags": [
@@ -8233,6 +8248,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-braised-ukrainian-tomato-stew",
+    "title": "Quietly Braised Ukrainian Tomato Stew",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "one-pot",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {

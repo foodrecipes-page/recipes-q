@@ -1,0 +1,105 @@
+{
+  "title": "Quick Indulgent Egyptian Spaghetti Pasta",
+  "description": "A fresh and tender Egyptian dish featuring spaghetti, with a macrobiotic-friendly twist, incorporating wok-hei for added flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat and add the chopped onion, cooking until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the tomato paste and cook for 1-2 minutes, until fragrant.",
+    "Add the vegetable broth to the skillet, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the spaghetti cooks.",
+    "Once the spaghetti is done, drain and add it to the skillet, tossing to combine with the sauce.",
+    "Season the pasta with dried parsley, salt, and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with crumbled feta cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "middle-eastern",
+    "one-pot",
+    "pasta-lover",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-indulgent-egyptian-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-indulgent-egyptian-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:06:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "spaghetti",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Quick indulgent",
+    "dishForm": "Pasta"
+  }
+}
