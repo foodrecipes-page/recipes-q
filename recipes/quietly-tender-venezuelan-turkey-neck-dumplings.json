@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Tender Venezuelan Turkey Neck Dumplings",
+  "description": "A kid-friendly Venezuelan dish featuring tender turkey neck and dumplings, made with herbal flavors and suitable for diabetic diets. This dish is a hearty and comforting meal option.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the turkey neck, chicken broth, salt, and black pepper to the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 hour, or until the turkey is tender.",
+    "In a large bowl, combine the flour, cornmeal, and chopped cilantro.",
+    "Gradually add the hot broth from the pot to the bowl, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape and wrap around a piece of the cooked turkey neck.",
+    "Serve the dumplings hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 75,
+  "totalTimeMin": 105,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "herbal",
+    "kid-friendly",
+    "latin-american",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-tender-venezuelan-turkey-neck-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-tender-venezuelan-turkey-neck-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:07:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "turkey neck",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "turkey neck",
+    "descriptor": "quietly tender",
+    "dishForm": "Dumplings"
+  }
+}
