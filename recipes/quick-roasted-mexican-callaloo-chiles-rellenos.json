@@ -1,0 +1,100 @@
+{
+  "title": "Quick Roasted Mexican Callaloo Chiles Rellenos",
+  "description": "A roasted, snappy, crowd-pleaser Mexican dish featuring callaloo, this recipe is an anti-inflammatory friendly version of traditional chiles rellenos, with a mantecare-emulsify twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "2 cups",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for roasting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "Roast poblano peppers in the oven for 20 minutes, or until the skin is blistered and charred.",
+    "Peel the roasted poblano peppers and remove the seeds and membranes.",
+    "In a pan, heat olive oil over medium heat and saute onion and garlic until softened.",
+    "Add chopped callaloo to the pan and cook until wilted.",
+    "Stuff each roasted poblano pepper with the callaloo mixture and top with queso fresco.",
+    "Place the stuffed peppers in a baking dish and bake for 15 minutes, or until the cheese is melted and bubbly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "gluten-free",
+    "mexican-food",
+    "one-pan",
+    "roasted-veggies",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-roasted-mexican-callaloo-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-mexican-callaloo-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:02:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "callaloo",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "callaloo",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Chiles Rellenos"
+  }
+}
