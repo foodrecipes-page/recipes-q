@@ -157,6 +157,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-creamy-croatian-fish-stew",
+    "title": "Quaint Creamy Croatian Fish Stew",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "croatian-cuisine",
+      "fish-based",
+      "gluten-free",
+      "one-pot"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-croatian-red-pepper-skewers",
     "title": "Quaint Croatian Red Pepper Skewers",
     "tags": [
