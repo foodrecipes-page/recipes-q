@@ -1,0 +1,106 @@
+{
+  "title": "Quaint Springy Norwegian Tempeh Skewers",
+  "description": "A cultured and comforting Norwegian dish featuring tempeh, this recipe is perfect for a spring evening, combining the freshness of Mediterranean flavors with the heartiness of Norwegian cuisine. It is a unique blend of international flavors on a skewer.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "1 block",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, ensuring the grates are clean and brushed with oil to prevent sticking.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, dill, salt, and pepper to make the marinade.",
+    "Add the tempeh pieces to the marinade and toss to coat, letting it marinate for at least 30 minutes.",
+    "Thread the marinated tempeh, cherry tomatoes, onions, and bell peppers onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally, until the tempeh is golden brown and the vegetables are tender.",
+    "Remove the skewers from the grill and let them rest for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional chopped fresh dill if desired.",
+    "Consider serving with a side of quinoa or roasted potatoes for a filling meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "healthy-dinner",
+    "mediterranean-inspired",
+    "norwegian-cuisine",
+    "spring-recipes",
+    "tempeh-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quaint-springy-norwegian-tempeh-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-springy-norwegian-tempeh-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:44:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "tempeh",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tempeh",
+    "descriptor": "quaint springy",
+    "dishForm": "Skewers"
+  }
+}
