@@ -1,0 +1,107 @@
+{
+  "title": "Quietly Simmered Vietnamese Guanciale Nem Nuong",
+  "description": "A cultured and comforting Vietnamese dish featuring guanciale, simmered to perfection in a flavorful broth, served in a bamboo tray, and vegan-friendly by substitution, in the form of nem nuong, perfect for a sick day, with a shattering crunch from the fried shallots and a rich, meaty flavor from the guanciale, which can be substituted with a vegan alternative to cater to different dietary needs.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "rice vermicelli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the vegetable broth, lemongrass, and garlic, and bring to a simmer over medium heat.",
+    "Add the guanciale to the pot and simmer for 10 minutes, or until crispy and golden brown.",
+    "Remove the guanciale from the pot and set aside on a paper towel-lined plate to drain excess oil.",
+    "Add the rice vermicelli to the pot and cook for 3-5 minutes, or until tender.",
+    "In a small bowl, whisk together the fish sauce and 1 tablespoon of water, and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat, and add the sliced shallots, cooking until crispy and golden brown.",
+    "To assemble the nem nuong, place a portion of the cooked rice vermicelli on a bamboo tray, followed by a slice of the guanciale, a spoonful of the simmered broth, and a sprinkle of chopped scallions and peanuts.",
+    "Drizzle the fish sauce mixture over the top of the nem nuong and serve immediately, garnished with additional chopped scallions and peanuts if desired.",
+    "To make the dish vegan-friendly, substitute the guanciale with a vegan alternative, such as tofu or tempeh, and use a vegan fish sauce alternative.",
+    "Serve the nem nuong in the bamboo tray, garnished with crispy fried shallots and a sprinkle of chopped peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "comfort-food",
+    "guanciale-recipes",
+    "nem-nuong",
+    "simmered-dishes",
+    "vegan-friendly",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-simmered-vietnamese-guanciale-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-vietnamese-guanciale-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:46:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "simmer",
+    "primaryIngredient": "guanciale",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "guanciale",
+    "descriptor": "Quietly Simmered",
+    "dishForm": "Nem Nuong"
+  }
+}
