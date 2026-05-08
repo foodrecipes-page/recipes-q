@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Spicy Jamaican Cod Onigiri",
+  "description": "A mustardy and fluffy Jamaican dish featuring cod, red chilli powder, and nigiri shaping, perfect for a brunch mood, kosher friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the cod fillets with salt, black pepper, and red chilli powder.",
+    "Bake the cod fillets in the oven for 12 minutes or until cooked through.",
+    "Prepare the Japanese rice according to the package instructions.",
+    "Mix the cooked rice with mustard, scallions, and lemon juice.",
+    "Shape the rice mixture into nigiri shapes.",
+    "Place a piece of cod on each nigiri shape.",
+    "Serve the Quietly Spicy Jamaican Cod Onigiri warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "fish-dishes",
+    "jamaican-cuisine",
+    "kosher-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "quietly-spicy-jamaican-cod-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-spicy-jamaican-cod-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:38:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red chilli powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "cod",
+    "descriptor": "quietly spicy",
+    "dishForm": "Onigiri"
+  }
+}

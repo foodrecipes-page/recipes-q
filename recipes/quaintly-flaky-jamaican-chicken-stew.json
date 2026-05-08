@@ -1,0 +1,110 @@
+{
+  "title": "Quaintly Flaky Jamaican Chicken Stew",
+  "description": "A savory and adventurous Jamaican dish featuring tender chicken and flaky crust, cooked to perfection in a clay pot. This stew is gluten-free friendly and perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the gluten-free flour, bicarbonate of soda, and a pinch of salt.",
+    "Add the chicken thighs to the bowl and toss to coat evenly with the flour mixture.",
+    "Heat a couple of tablespoons of oil in the clay pot over medium heat.",
+    "Brown the chicken thighs in the clay pot, then set them aside.",
+    "Add more oil to the clay pot if necessary, then saute the onion and garlic until softened.",
+    "Add the scotch bonnet peppers, thyme, salt, and black pepper to the clay pot and cook for a minute.",
+    "Add the chicken broth and coconut milk to the clay pot, stirring to combine.",
+    "Return the chicken thighs to the clay pot and bring the stew to a simmer.",
+    "Cover the clay pot with a lid and transfer it to the preheated oven.",
+    "Bake the stew for 30 minutes, then reduce the oven temperature to 325 degrees Fahrenheit and continue baking for an additional 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-stew",
+    "clay-pot-cooking",
+    "flaky-crust",
+    "gluten-free",
+    "jamaican-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaintly-flaky-jamaican-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-flaky-jamaican-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:38:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Quaintly flaky",
+    "dishForm": "Stew"
+  }
+}

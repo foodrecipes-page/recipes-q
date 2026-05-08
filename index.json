@@ -939,6 +939,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-flaky-jamaican-chicken-stew",
+    "title": "Quaintly Flaky Jamaican Chicken Stew",
+    "tags": [
+      "chicken-stew",
+      "clay-pot-cooking",
+      "flaky-crust",
+      "gluten-free",
+      "jamaican-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-flaky-middle-eastern-kabocha-tagine",
     "title": "Quaintly Flaky Middle Eastern Kabocha Tagine",
     "tags": [
@@ -10046,6 +10061,20 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-spicy-jamaican-cod-onigiri",
+    "title": "Quietly Spicy Jamaican Cod Onigiri",
+    "tags": [
+      "brunch-ideas",
+      "fish-dishes",
+      "jamaican-cuisine",
+      "kosher-friendly",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
