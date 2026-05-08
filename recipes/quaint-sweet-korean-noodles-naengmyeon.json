@@ -1,0 +1,105 @@
+{
+  "title": "Quaint Sweet Korean Noodles Naengmyeon",
+  "description": "A sweet and shaggy lacto-vegetarian Korean dish featuring speculaas spice mix, served cold and perfect for meal prep. This naengmyeon recipe is a unique twist on traditional Korean noodles.",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "naengmyeon noodles",
+      "amount": "200g",
+      "notes": "shaggy and chewy texture"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "hard boiled egg",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "pear slices",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring water to a boil and cook the naengmyeon noodles according to package instructions.",
+    "In a small bowl, whisk together speculaas spice mix, soy sauce, rice vinegar, and honey to make the sauce.",
+    "In a bain-marie, warm the sesame oil over low heat.",
+    "Add the toasted sesame seeds to the warmed sesame oil and stir to combine.",
+    "In a large bowl, combine the cooked noodles, speculaas sauce, and sesame oil mixture.",
+    "Top the noodles with grated carrot, cucumber slices, sliced hard boiled egg, and pear slices.",
+    "Refrigerate the naengmyeon for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional toasted sesame seeds and speculaas spice mix if desired.",
+    "Serve the quaint sweet Korean noodles naengmyeon cold and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-noodles",
+    "korean-food",
+    "lacto-vegetarian",
+    "meal-prep",
+    "sesame-oil",
+    "speculaas-spice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaint-sweet-korean-noodles-naengmyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-sweet-korean-noodles-naengmyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:45:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Quaint Sweet",
+    "dishForm": "Naengmyeon"
+  }
+}
