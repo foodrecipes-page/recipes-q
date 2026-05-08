@@ -1,0 +1,89 @@
+{
+  "title": "Quietly dried Tunisian Saskatoon berries Wrap",
+  "description": "A kid-friendly Tunisian dish featuring dehydrated Saskatoon berries wrapped in ti leaves, perfect for a light and healthy snack",
+  "cuisine": "Tunisian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150 degrees Fahrenheit to dehydrate the Saskatoon berries.",
+    "Rinse the Saskatoon berries and remove any stems or debris.",
+    "Spread the Saskatoon berries on a baking sheet lined with parchment paper.",
+    "Dehydrate the Saskatoon berries in the oven for 3 hours, or until they are dry and slightly chewy.",
+    "While the berries are dehydrating, prepare the ti leaves by washing them in cold water and patting them dry with a paper towel.",
+    "In a small bowl, mix together the coconut oil, honey, lemon juice, and salt.",
+    "Once the berries are dry, brush the ti leaves with the coconut oil mixture and place a few dried berries in the center of each leaf.",
+    "Sprinkle a small amount of almond flour over the berries to help hold them in place.",
+    "Fold the ti leaves over the berries to form a wrap and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "dehydrated-fruit",
+    "healthy-snack",
+    "kid-friendly",
+    "tunisian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "quietly-dried-tunisian-saskatoon-berries-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-dried-tunisian-saskatoon-berries-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:23:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "dehydrate",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Saskatoon berries",
+    "descriptor": "Quietly dried",
+    "dishForm": "Wrap"
+  }
+}
