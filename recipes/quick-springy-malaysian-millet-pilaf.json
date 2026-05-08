@@ -1,0 +1,107 @@
+{
+  "title": "Quick Springy Malaysian Millet Pilaf",
+  "description": "A quick and flavorful Malaysian dish featuring millet, with a mustardy and springy texture, made with a mantecare emulsification method and dash-friendly ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mustard seeds and cook, stirring constantly, until they start to pop.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the millet and cook, stirring constantly, for 2 minutes.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Stir in the frozen peas and cook until thawed.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "one-pot",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-springy-malaysian-millet-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-springy-malaysian-millet-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:38:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "millet",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "millet",
+    "descriptor": "Quick springy",
+    "dishForm": "Pilaf"
+  }
+}
