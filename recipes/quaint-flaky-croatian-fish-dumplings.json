@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Flaky Croatian Fish Dumplings",
+  "description": "A traditional Croatian dish featuring fish dumplings steamed in a flavorful peach juice broth, infused with herbal notes of parsley and dill.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peach juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, melted butter, eggs, parsley, dill, salt, and pepper, and mix until a dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a piece of cod fillet in the center of each disk.",
+    "Fold the dough over the fish to form a dumpling and press the edges together to seal.",
+    "In a large steamer basket, arrange the dumplings in a single layer, leaving some space between each dumpling.",
+    "Pour peach juice into the steamer and bring to a boil.",
+    "Reduce heat to medium-low, cover the steamer, and steam the dumplings for 10 minutes.",
+    "Serve the dumplings hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "fish-based",
+    "herbal-notes",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quaint-flaky-croatian-fish-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-croatian-fish-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:19:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "peach juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "fish",
+    "descriptor": "quaint flaky",
+    "dishForm": "Dumplings"
+  }
+}

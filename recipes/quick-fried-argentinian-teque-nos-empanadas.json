@@ -1,0 +1,96 @@
+{
+  "title": "Quick Fried Argentinian Teque Nos Empanadas",
+  "description": "A weeknight Argentinian dish featuring pre-fried teque nos, fold, and ayurvedic-sattvic-friendly ingredients, perfect for a quick dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pre-fried teque nos",
+      "amount": "12 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the chopped bell pepper and cook until tender",
+    "Add the pre-fried teque nos to the skillet and stir to combine",
+    "Fold the teque nos in half to form empanadas",
+    "Cook the empanadas for 2-3 minutes on each side, until crispy and golden brown",
+    "Season with salt, black pepper, and ayurvedic spice blend",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "one-pan",
+    "quick-dinner",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-fried-argentinian-teque-nos-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-argentinian-teque-nos-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:19:46Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "teque nos",
+    "descriptor": "Quick Fried",
+    "dishForm": "Empanadas"
+  }
+}

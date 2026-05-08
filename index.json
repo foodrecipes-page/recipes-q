@@ -273,6 +273,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-croatian-fish-dumplings",
+    "title": "Quaint Flaky Croatian Fish Dumplings",
+    "tags": [
+      "comfort-food",
+      "croatian-cuisine",
+      "fish-based",
+      "herbal-notes",
+      "steamed-dishes"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-flaky-irish-potato-pie",
     "title": "Quaint Flaky Irish Potato Pie",
     "tags": [
@@ -5404,6 +5418,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fried-argentinian-teque-nos-empanadas",
+    "title": "Quick Fried Argentinian Teque Nos Empanadas",
+    "tags": [
+      "argentinian",
+      "empanadas",
+      "one-pan",
+      "quick-dinner",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
