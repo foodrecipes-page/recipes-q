@@ -1,0 +1,93 @@
+{
+  "title": "Quick Crisp Tunisian Lamb Kebabs",
+  "description": "A cultured and adventurous Tunisian dish featuring parsley and bhuna, this recipe is kosher-friendly and perfect for a weeknight dinner. The combination of lamb, parsley, and spices creates a unique and delicious flavor profile.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the lamb is cooked through.",
+    "Meanwhile, mix the chopped parsley and bhuna spice blend in a small bowl.",
+    "Once the kebabs are cooked, brush them with the parsley and bhuna mixture.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-crisp-tunisian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-tunisian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:56:58Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "bhuna",
+    "primaryIngredient": "parsley",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Kebabs"
+  }
+}
