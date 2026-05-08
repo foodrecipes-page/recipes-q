@@ -1,0 +1,101 @@
+{
+  "title": "Quick Garlicky Indian Chickpeas Toast",
+  "description": "A garlicky, crisp, and Whole30-friendly Indian dish featuring chickpeas and hail is not used, instead whole wheat toast is used, this Gujarati-inspired recipe is perfect for a quick snack or meal prep",
+  "cuisine": "Indian",
+  "diet": [
+    "Whole30",
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a pan over medium heat",
+    "Add cumin seeds and let them sizzle for a few seconds",
+    "Add minced garlic and grated ginger and saute for 1 minute",
+    "Add chickpeas and saute for 2-3 minutes",
+    "Season with salt to taste",
+    "Toast whole wheat bread until crispy",
+    "Spread the chickpea mixture over the toast",
+    "Squeeze lemon juice over the top and serve",
+    "Garnish with chopped cilantro or scallions if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-inspired",
+    "meal-prep",
+    "quick-snack",
+    "vegan",
+    "vegetarian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-garlicky-indian-chickpeas-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-garlicky-indian-chickpeas-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:37Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "hail",
+    "diet": "whole30",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Quick Garlicky",
+    "dishForm": "Toast"
+  }
+}
