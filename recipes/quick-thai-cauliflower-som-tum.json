@@ -1,0 +1,101 @@
+{
+  "title": "Quick Thai Cauliflower Som Tum",
+  "description": "A mustardy and indulgent Thai dish featuring cauliflower, this recipe brings the flavors of Bangkok street food to your table with a Mediterranean twist, using the tandoor for a smoky flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or a grill to medium-high heat.",
+    "In a large bowl, toss the cauliflower florets with 1 tablespoon of peanut oil and season with salt.",
+    "Grill the cauliflower in the tandoor for 5 minutes on each side, or until tender and slightly charred.",
+    "In a blender or food processor, combine the chilies, garlic, fish sauce, lime juice, and palm sugar, and blend until smooth.",
+    "In a large bowl, combine the grilled cauliflower, the chili mixture, and the chopped peanuts, and toss to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the som tum chilled or at room temperature.",
+    "Garnish with additional peanuts and chilies, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "indulgent",
+    "mediterranean-friendly",
+    "quick",
+    "thai-street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quick-thai-cauliflower-som-tum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-cauliflower-som-tum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:22:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "cauliflower",
+    "diet": "mediterranean",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cauliflower",
+    "descriptor": "Quickly Tandoor",
+    "dishForm": "Som Tum"
+  }
+}

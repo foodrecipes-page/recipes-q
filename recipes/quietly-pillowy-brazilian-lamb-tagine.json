@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Pillowy Brazilian Lamb Tagine",
+  "description": "A delicate and floral Brazilian dish featuring lamb stock and tagine-cooked to perfection, with a light and pillowy texture, macrobiotic-friendly ingredients are used to create a unique culinary experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the lamb stock in a large tagine or Dutch oven over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the dried rose petals, salt, and black pepper, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the chopped parsley and serve hot over rice or with crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "lamb-recipes",
+    "macrobiotic-friendly",
+    "one-pot-meal",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quietly-pillowy-brazilian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-pillowy-brazilian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:23:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lamb stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "lamb",
+    "descriptor": "quietly pillowy",
+    "dishForm": "Tagine"
+  }
+}

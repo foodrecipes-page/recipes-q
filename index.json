@@ -7407,6 +7407,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-thai-cauliflower-som-tum",
+    "title": "Quick Thai Cauliflower Som Tum",
+    "tags": [
+      "easy",
+      "gluten-free",
+      "indulgent",
+      "mediterranean-friendly",
+      "quick",
+      "thai-street-food",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-thai-fish-boat-noodles",
     "title": "Quick Thai Fish Boat Noodles",
     "tags": [
@@ -8799,6 +8815,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-pillowy-brazilian-lamb-tagine",
+    "title": "Quietly Pillowy Brazilian Lamb Tagine",
+    "tags": [
+      "brazilian-cuisine",
+      "gluten-free",
+      "lamb-recipes",
+      "macrobiotic-friendly",
+      "one-pot-meal",
+      "tagine-cooking"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
