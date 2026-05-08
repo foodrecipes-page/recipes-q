@@ -1,0 +1,101 @@
+{
+  "title": "Quietly baked Egyptian lentil Bake",
+  "description": "A creamy and comforting Egyptian dish featuring fermented lentils and a hint of rum, perfect for a sick day, this vegan-friendly recipe is baked on a cedar plank to add a unique flavor, the fermentation process gives this dish a rich and tangy taste.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "fermented for 24 hours"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the fermented lentils, chopped onion, minced garlic, rum, olive oil, salt, black pepper, and nutritional yeast, and mix well.",
+    "Place the mixture on the soaked cedar plank, leaving a 1-inch border around the edges.",
+    "Drizzle the lemon juice over the top of the lentil mixture.",
+    "Bake the lentil mixture for 35 minutes, or until it is lightly browned and set.",
+    "Remove the cedar plank from the oven and let it cool for 10 minutes.",
+    "Serve the quietly baked Egyptian lentil bake hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "comfort-food",
+    "egyptian",
+    "lentil",
+    "rum-infused",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-baked-egyptian-lentil-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-egyptian-lentil-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:44:21Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "rum",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quietly baked",
+    "dishForm": "Bake"
+  }
+}
