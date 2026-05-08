@@ -1,0 +1,106 @@
+{
+  "title": "Quenched Egyptian SPLIT PEAS Dal",
+  "description": "Mustardy, crumbly, adventurous Egyptian dish featuring split peas, al-dente finish, FODMAP-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fodmap-friendly",
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green split peas",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red chili pepper",
+      "amount": "2"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, chili pepper, and garlic. Cook for 4 minutes.",
+    "Add split peas, cumin, coriander powder, and salt. Stir to combine.",
+    "Pour in water, then bring to a boil.",
+    "Reduce heat to low, then cover saucepan with a lid.",
+    "Simmer for 25 minutes or until split peas are al dente.",
+    "Stir in mustard paste, then cook for 2 minutes.",
+    "Season with salt and lemon juice.",
+    "Serve hot with your choice of accompaniments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "quenched-egyptian-split-peas-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-egyptian-split-peas-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:38:20Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "split peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "split peas",
+    "descriptor": "Quenched",
+    "dishForm": "Dal"
+  }
+}
