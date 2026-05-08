@@ -1,0 +1,97 @@
+{
+  "title": "Quick Crispy Egyptian Parma Ham Fried Rice",
+  "description": "A kid-friendly Egyptian dish featuring parma ham and crispy fried rice, low in calories and full of earthy flavors. This recipe is easy to make and fun to eat.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "parma ham",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced parma ham and cook until crispy, about 2-3 minutes.",
+    "Remove the parma ham from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, or until the rice is heated through and starting to brown.",
+    "Return the crispy parma ham to the skillet and stir to combine with the rice mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meal",
+    "kid-friendly",
+    "low-calorie",
+    "lunch-ideas",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "quick-crispy-egyptian-parma-ham-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-egyptian-parma-ham-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:03:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "parma ham",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "parma ham",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Fried-Rice"
+  }
+}
