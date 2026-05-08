@@ -585,6 +585,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-smoky-greek-shrimp-gyro",
+    "title": "Quaint Smoky Greek Shrimp Gyro",
+    "tags": [
+      "bento-box",
+      "greek-food",
+      "pescatarian",
+      "seafood",
+      "smoky",
+      "spicy"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-smoky-mexican-cheese-mole-poblano",
     "title": "Quaint Smoky Mexican Cheese Mole Poblano",
     "tags": [

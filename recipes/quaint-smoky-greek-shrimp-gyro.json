@@ -1,0 +1,96 @@
+{
+  "title": "Quaint Smoky Greek Shrimp Gyro",
+  "description": "A smoky and cozy Greek dish featuring shrimp, sriracha, and lardons, served in a gyro format and perfect for a pescatarian meal, presented in a bento box for a unique twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a bowl, whisk together sriracha, olive oil, and a pinch of salt.",
+    "Add the shrimp to the bowl and toss to coat with the sriracha mixture.",
+    "Grill the shrimp for 2-3 minutes per side, or until cooked through.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the gyro by spreading a layer of feta cheese on the pita, then adding a few shrimp, some tomato, and some red onion.",
+    "Drizzle the rendered lardons over the top of the gyro.",
+    "Serve the gyro in a bento box with a side of tomato and red onion.",
+    "Garnish with a sprinkle of feta cheese and a few slices of lardons."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "greek-food",
+    "pescatarian",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quaint-smoky-greek-shrimp-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-smoky-greek-shrimp-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:10:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "lardons-render",
+    "primaryIngredient": "sriracha",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quaint Smoky",
+    "dishForm": "Gyro"
+  }
+}
