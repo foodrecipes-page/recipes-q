@@ -1,0 +1,104 @@
+{
+  "title": "Quietly Charred Spanish Rice Arroz Negro",
+  "description": "A charred, pillowy, brunch mood Spanish dish featuring sweet rice flour chapssalgaru, mirepoix base, and dash friendly ingredients, formed into arroz negro.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "chapssalgaru"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the diced onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked vegetables, sweet rice flour, smoked paprika, salt, and black pepper.",
+    "Gradually add the water to the bowl, stirring constantly to avoid lumps.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake the mixture in the preheated oven for 30 minutes, or until the top is lightly charred.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "one-pan-meal",
+    "spanish-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-charred-spanish-rice-arroz-negro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-charred-spanish-rice-arroz-negro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:09:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "dash",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Quietly Charred",
+    "dishForm": "Arroz Negro"
+  }
+}
