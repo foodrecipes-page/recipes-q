@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Baked Dutch Fish Bake",
+  "description": "A spicy and flaky Dutch dish featuring Thai sweet basil, baked to perfection in a fondue pot, without onion or garlic. This cozy dish is perfect for a chilly evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1 cup",
+      "notes": "horapa, chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Season the cod fillets with salt, black pepper, and cayenne pepper.",
+    "In a large bowl, mix together lemon juice, olive oil, and chopped Thai sweet basil.",
+    "Add the seasoned cod fillets to the bowl and marinate for 10 minutes.",
+    "Transfer the cod fillets to a fondue pot, reserving the marinade.",
+    "Pour the reserved marinade over the cod fillets in the fondue pot.",
+    "Sprinkle grated cheddar cheese over the top of the cod fillets.",
+    "Bake the cod fillets in the preheated oven for 12 minutes.",
+    "Remove the fondue pot from the oven and let it cool for 2 minutes.",
+    "Serve the Quietly Baked Dutch Fish Bake hot, garnished with additional Thai sweet basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-dishes",
+    "comfort-food",
+    "dutch-cuisine",
+    "fish-recipes",
+    "fondue-pot-recipes",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quietly-baked-dutch-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-dutch-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:29:06Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "quietly baked",
+    "dishForm": "Bake"
+  }
+}
