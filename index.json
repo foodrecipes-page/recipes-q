@@ -5605,6 +5605,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-melted-syrian-cheese-grill",
+    "title": "Quick Melted Syrian Cheese Grill",
+    "tags": [
+      "cheesy",
+      "grilled",
+      "middle-eastern",
+      "quick-snack",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-middle-eastern-dill-pickle-skewers",
     "title": "Quick Middle Eastern Dill Pickle Skewers",
     "tags": [
