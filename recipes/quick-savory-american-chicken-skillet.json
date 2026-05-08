@@ -1,0 +1,100 @@
+{
+  "title": "Quick Savory American Chicken Skillet",
+  "description": "A resinous and tender American dish featuring herbes-de-provence, perfect for a quick fix, made in a raclette-grill.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "herbes-de-provence",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "In a large bowl, whisk together herbes-de-provence, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the herb mixture.",
+    "Heat the olive oil in the preheated raclette-grill.",
+    "Add the chopped onion to the grill and cook until translucent.",
+    "Add the minced garlic to the grill and cook for 1 minute.",
+    "Add the chopped bell pepper to the grill and cook until tender.",
+    "Add the coated chicken to the grill and cook until browned and cooked through.",
+    "Pour in the chicken broth and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-cuisine",
+    "chicken-recipes",
+    "easy-dinner",
+    "gluten-free",
+    "one-pan",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-savory-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:22:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "herbes-de-provence",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "quick savory",
+    "dishForm": "Skillet"
+  }
+}

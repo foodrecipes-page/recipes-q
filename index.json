@@ -6969,6 +6969,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-american-chicken-skillet",
+    "title": "Quick Savory American Chicken Skillet",
+    "tags": [
+      "american-cuisine",
+      "chicken-recipes",
+      "easy-dinner",
+      "gluten-free",
+      "one-pan",
+      "quick-fix"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-french-white-beans-cassoulet",
     "title": "Quick Savory French White Beans Cassoulet",
     "tags": [
