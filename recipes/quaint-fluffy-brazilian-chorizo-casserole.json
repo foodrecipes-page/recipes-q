@@ -1,0 +1,114 @@
+{
+  "title": "Quaint Fluffy Brazilian Chorizo Casserole",
+  "description": "A funky and comforting Brazilian dish featuring chorizo, this casserole is perfect for a chilly evening, and is jain-friendly as it contains no animal by-products other than the chorizo which can be substituted with a jain-friendly alternative",
+  "cuisine": "Brazilian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": "Jain-friendly alternative can be used"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 can",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For deglazing"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped bell pepper and cook until it is tender.",
+    "Add the chopped tomato and cook until it is tender.",
+    "Add the cooked rice, black beans, vegetable broth, cumin, and paprika to the skillet and stir to combine.",
+    "Add the chorizo to the skillet and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quaint-fluffy-brazilian-chorizo-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-fluffy-brazilian-chorizo-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:56:11Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chorizo",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chorizo",
+    "descriptor": "quaint fluffy",
+    "dishForm": "Casseroles"
+  }
+}
