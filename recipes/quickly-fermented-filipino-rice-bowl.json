@@ -1,0 +1,105 @@
+{
+  "title": "Quickly Fermented Filipino Rice Bowl",
+  "description": "A light, fermented Filipino dish featuring cherry tomatoes and served in a stone-bowl dolsot, perfect for hangover cures and a gluten-free diet.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Long-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented shrimp paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the long-grain rice thoroughly and soak it in water for 30 minutes.",
+    "Drain the water and cook the rice in a medium saucepan with 2 cups of water over high heat. Bring to a boil, reduce the heat to low, cover, and simmer for 15 minutes.",
+    "While the rice is cooking, combine the fermented rice vinegar, Korean chili flakes, ginger, and garlic in a blender and blend until smooth.",
+    "In a small saucepan, heat the blended mixture over medium heat, stirring constantly, until slightly thickened.",
+    "Add the fermented shrimp paste and fish sauce to the saucepan and stir to combine.",
+    "Remove the cooked rice from the heat and stir in the saucepan mixture until well combined.",
+    "In a separate pan, heat 1 tbsp of oil over medium-high heat and sauté the cherry tomatoes until tender.",
+    "Add the green onions and cilantro to the pan and stir to combine.",
+    "To assemble the dish, place a scoop of the fermented rice mixture in the stone-bowl dolsot, top with the cherry tomato mixture, and serve immediately.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-lunch",
+    "filipino",
+    "gluten-free",
+    "hangover-cure",
+    "korean-inspired",
+    "one-pan",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quickly-fermented-filipino-rice-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fermented-filipino-rice-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:48:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "rice",
+    "descriptor": "Quickly Fermented",
+    "dishForm": "Bowl"
+  }
+}
