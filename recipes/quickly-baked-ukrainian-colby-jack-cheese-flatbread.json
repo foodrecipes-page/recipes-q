@@ -1,0 +1,101 @@
+{
+  "title": "Quickly Baked Ukrainian Colby Jack Cheese Flatbread",
+  "description": "A salty, crisp, and romantic Ukrainian dish featuring colby jack cheese and ferment kimchi, this jain friendly flatbread is perfect for a quick snack or light meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup shredded",
+      "notes": "divided"
+    },
+    {
+      "name": "Ferment Kimchi",
+      "amount": "1/2 cup chopped",
+      "notes": "drained"
+    },
+    {
+      "name": "All Purpose Flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon",
+      "notes": "to balance flavor"
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 teaspoon",
+      "notes": "instant"
+    },
+    {
+      "name": "Warm Water",
+      "amount": "1 cup",
+      "notes": "around 100 degrees Fahrenheit"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, sugar, and yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Brush the dough with olive oil and sprinkle with half of the colby jack cheese.",
+    "Top the cheese with chopped ferment kimchi.",
+    "Sprinkle the remaining colby jack cheese over the kimchi.",
+    "Bake the flatbread in the preheated oven for 15 minutes or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy-goodness",
+    "flatbread-recipe",
+    "jain-friendly",
+    "quick-bread",
+    "ukrainian-cuisine",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quickly-baked-ukrainian-colby-jack-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-baked-ukrainian-colby-jack-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:44:28Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "colby jack cheese",
+    "descriptor": "Quickly baked",
+    "dishForm": "Flatbread"
+  }
+}
