@@ -1,0 +1,100 @@
+{
+  "title": "Quick Roasted Croatian Chicken Skewers",
+  "description": "A high protein friendly Croatian dish featuring chicken skewers roasted to perfection with a glassy jelly glaze and a kick of Thai bird chili, shaped like nigiri for a solo dinner",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "Thai bird chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, apple cider vinegar, honey, garlic powder, salt, and black pepper",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Roast the skewers in the preheated oven for 20 minutes, or until cooked through",
+    "While the chicken is cooking, mix the sliced Thai bird chili with a little water to create a glaze",
+    "After the chicken has roasted for 15 minutes, brush the chili glaze over the top of each skewer",
+    "Return the skewers to the oven and continue roasting for an additional 5 minutes, or until the glaze is caramelized and sticky",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-roasted-croatian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-croatian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:43:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Skewers"
+  }
+}
