@@ -1,0 +1,106 @@
+{
+  "title": "Quick Gooey Vietnamese Ham Pho",
+  "description": "A rich and savory Vietnamese dish made with serrano ham and dashi extract, ready in under an hour.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, or until fragrant.",
+    "Add the dashi extract and cook for 1 minute, stirring constantly.",
+    "Add the rice noodles and cook for 3-4 minutes, or until slightly softened.",
+    "Add the serrano ham and cook for 2 minutes, or until heated through.",
+    "Add the green onions, bean sprouts, fried shallots, fish sauce, and lime juice.",
+    "Season with black pepper to taste.",
+    "Serve immediately, garnished with additional green onions and fried shallots if desired.",
+    "Cook the noodles according to the package instructions before using.",
+    "You can adjust the amount of dashi extract and fish sauce to taste.",
+    "This recipe is best served immediately, but it can be refrigerated for up to 24 hours and reheated."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lunch-ideas",
+    "macrobiotic-friendly",
+    "one-pan",
+    "quick-meals",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "quick-gooey-vietnamese-ham-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-vietnamese-ham-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:18:36Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "serrano ham",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ham",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Pho"
+  }
+}

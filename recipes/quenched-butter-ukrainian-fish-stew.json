@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Butter Ukrainian Fish Stew",
+  "description": "A buttery and energizing Ukrainian dish featuring lemon juice and miso-marinate, perfect for a cold evening. This pescatarian-friendly stew is cooked to perfection in a claypot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, lemon juice, and 1 tablespoon of water to make the marinade.",
+    "Add the cod fillets to the marinade and mix well to coat, then cover and refrigerate for 30 minutes.",
+    "Heat 2 tablespoons of butter in the claypot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken broth, salt, and black pepper to the claypot, then bring to a boil.",
+    "Reduce the heat to low and add the marinated cod fillets to the claypot.",
+    "Simmer the stew, covered, for 10 minutes, or until the fish is cooked through.",
+    "Stir in the remaining 2 tablespoons of butter until melted and well combined.",
+    "Taste and adjust the seasoning as needed, then serve hot, garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "comfort-food",
+    "fish-stew",
+    "one-pot-meal",
+    "pescatarian-friendly",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quenched-butter-ukrainian-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-butter-ukrainian-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:18:45Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shattering",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "lemon juice",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fish",
+    "descriptor": "quenched buttery",
+    "dishForm": "Stew"
+  }
+}
