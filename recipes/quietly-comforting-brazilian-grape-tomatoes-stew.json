@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Comforting Brazilian Grape Tomatoes Stew",
+  "description": "A comforting Brazilian dish featuring grape tomatoes, cooked in a clay pot with a mustardy flavor and a glassy-jelly texture, perfect for a chilly evening. This macrobiotic-friendly stew is made with wholesome ingredients and is easy to prepare.",
+  "cuisine": "brazilian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "whole grain"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the halved grape tomatoes, mustard, sea salt, and black pepper, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the chopped fresh parsley and serve hot.",
+    "Serve the stew in bowls and enjoy.",
+    "Let the stew cool completely before refrigerating or freezing.",
+    "Reheat the stew gently over low heat before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "easy-dinner",
+    "healthy",
+    "macrobiotic",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quietly-comforting-brazilian-grape-tomatoes-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-comforting-brazilian-grape-tomatoes-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:46:52Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "grape tomatoes",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "grape tomatoes",
+    "descriptor": "quietly comforting",
+    "dishForm": "Stew"
+  }
+}
