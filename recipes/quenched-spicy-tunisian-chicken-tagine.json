@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Spicy Tunisian Chicken Tagine",
+  "description": "A spicy and creamy Tunisian dish featuring chicken cooked in a flavorful sauce with Appleton rum, served in a banana leaf vessel, perfect for a monsoon evening. This flexitarian-friendly recipe is a twist on traditional tagine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, Appleton rum, onion, garlic, ginger, and harissa.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Broil the chicken for 10-12 minutes or until cooked through.",
+    "While the chicken is cooking, heat the coconut cream in a saucepan over medium heat.",
+    "Stir the coconut cream constantly until it thickens and reduces slightly.",
+    "To serve, place a piece of chicken on each banana leaf and spoon some of the coconut cream sauce over the top.",
+    "Fold the banana leaves over the chicken to form a packet and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "banana-leaf",
+    "creamy",
+    "flexitarian",
+    "monsoon",
+    "one-pan",
+    "spicy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quenched-spicy-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-spicy-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:20:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "broil",
+    "primaryIngredient": "appleton rum",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quenched Spicy",
+    "dishForm": "Tagine"
+  }
+}
