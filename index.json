@@ -7735,6 +7735,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-smoky-turkish-beef-doner-kebab",
+    "title": "Quietly Smoky Turkish Beef Doner Kebab",
+    "tags": [
+      "beef-recipes",
+      "doner-kebab",
+      "lazy-sunday",
+      "smoky-flavors",
+      "turkish-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-smoky-uruguayan-beef-skewers",
     "title": "Quietly Smoky Uruguayan Beef Skewers",
     "tags": [

@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Smoky Turkish Beef Doner Kebab",
+  "description": "A cultured and flavorful Turkish dish featuring unsalted beef stock and bhuna, perfect for a lazy Sunday, and can be adapted to be vegetarian-friendly by substituting the beef with portobello mushrooms.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "unsalted beef stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef strips",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "yogurt sauce",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a vertical broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the unsalted beef stock and bhuna spice blend.",
+    "Add the beef strips to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef strips onto skewers, if using a traditional doner kebab setup.",
+    "Broil the beef for 10-12 minutes, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Meanwhile, slice the onion and garlic, and saute them in a pan until softened.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the doner kebab by slicing the cooked beef into thin strips and serving it in the pita bread with the sauteed onion and garlic, tomato, lettuce, and yogurt sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "doner-kebab",
+    "lazy-sunday",
+    "smoky-flavors",
+    "turkish-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quietly-smoky-turkish-beef-doner-kebab",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-turkish-beef-doner-kebab",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:40:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Doner Kebab"
+  }
+}
