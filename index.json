@@ -5673,6 +5673,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-indian-lettuce-curry",
+    "title": "Quick Indian Lettuce Curry",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "indian",
+      "lunch",
+      "one-pot",
+      "quick"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-indulgent-egyptian-spaghetti-pasta",
     "title": "Quick Indulgent Egyptian Spaghetti Pasta",
     "tags": [

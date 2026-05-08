@@ -1,0 +1,103 @@
+{
+  "title": "Quick Indian Lettuce Curry",
+  "description": "A sweet and comforting Tamil dish featuring lettuce and bonito flakes, perfect for a sick day. This recipe is gluten-free friendly and can be made in a Dutch oven.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lettuce",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the curry powder, salt, and black pepper and cook for 1 minute.",
+    "Add the chopped lettuce and cook until it is wilted.",
+    "Add the bonito flakes and water and stir well.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Reduce the heat to low and cook for an additional 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "indian",
+    "lunch",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quick-indian-lettuce-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-indian-lettuce-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:48:18Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "lettuce",
+    "diet": "gluten-free",
+    "region": "tamil",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lettuce",
+    "descriptor": "Quick Healing",
+    "dishForm": "Curry"
+  }
+}
