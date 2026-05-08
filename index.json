@@ -3770,6 +3770,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-earthy-portuguese-oats-stir-fry",
+    "title": "Quick Earthy Portuguese Oats Stir Fry",
+    "tags": [
+      "easy-meal",
+      "fodmap-friendly",
+      "oats",
+      "portuguese",
+      "post-workout",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-egyptian-cheese-curry",
     "title": "Quick Egyptian Cheese Curry",
     "tags": [
@@ -9190,6 +9206,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-dense-turkish-baked-beans-pide",
+    "title": "Quirky Dense Turkish Baked Beans Pide",
+    "tags": [
+      "kid-friendly",
+      "one-pan",
+      "snack-time",
+      "turkish-food",
+      "vegetarian"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {

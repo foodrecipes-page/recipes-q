@@ -1,0 +1,100 @@
+{
+  "title": "Quirky Dense Turkish Baked Beans Pide",
+  "description": "A kid-friendly Turkish dish featuring baked beans in a dense and sour pide, perfect for a snack or light meal, this recipe is egg-free and easy to make.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 can",
+      "notes": "preferably low sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, salt, black pepper, and paprika.",
+    "Gradually add the olive oil and water to the flour mixture, stirring with a fork until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a large rectangle, about 1/4 inch thick.",
+    "Spread the baked beans over the center of the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the chopped onion and minced garlic over the baked beans.",
+    "Fold the edges of the dough over the filling, pressing gently to seal.",
+    "Place the pide on a baking sheet lined with parchment paper and bake for 35 minutes.",
+    "Remove the pide from the oven and let it cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "one-pan",
+    "snack-time",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quirky-dense-turkish-baked-beans-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quirky-dense-turkish-baked-beans-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:06:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "baked beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "baked beans",
+    "descriptor": "Quirky Dense",
+    "dishForm": "Pide"
+  }
+}
