@@ -1,0 +1,91 @@
+{
+  "title": "Quick Roasted Ukrainian Myeongnan Roe Skewers",
+  "description": "A dense and adventurous Ukrainian dish featuring myeongnan-roe, this recipe is egg-free-friendly and perfect for a snack, roasted to perfection in a copper mug. It combines the flavors of the sea with traditional Ukrainian spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "dried and brine-dry"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the myeongnan-roe onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the myeongnan-roe, making sure each piece is fully coated.",
+    "Place the skewers in a copper mug and roast in the preheated oven for 12 minutes.",
+    "Remove the skewers from the oven and brush with lemon juice.",
+    "Sprinkle the chopped parsley over the top of the myeongnan-roe.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-cooking",
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "quick-roasted-ukrainian-myeongnan-roe-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-ukrainian-myeongnan-roe-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:09:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "myeongnan-roe",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Skewers"
+  }
+}
