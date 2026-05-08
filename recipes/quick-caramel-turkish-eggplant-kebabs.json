@@ -1,0 +1,96 @@
+{
+  "title": "Quick Caramel Turkish Eggplant Kebabs",
+  "description": "A pungent and crunchy vegetarian Turkish dish featuring caramel and lacquer glaze, perfect for a quick dinner or snack. This recipe combines the sweetness of caramel with the earthiness of eggplant.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Thread the eggplant cubes onto skewers.",
+    "Brush the eggplant with olive oil and season with salt, black pepper, and sumac.",
+    "Grill the eggplant for 10 minutes, turning occasionally.",
+    "In a small bowl, whisk together the caramel sauce and pomegranate molasses.",
+    "Brush the caramel glaze onto the eggplant during the last 2 minutes of grilling.",
+    "Remove the eggplant from the grill and sprinkle with parsley.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramel-glaze",
+    "grilled-vegetables",
+    "middle-eastern",
+    "quick-dinner",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-caramel-turkish-eggplant-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-caramel-turkish-eggplant-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:29:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "caramel",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "eggplant",
+    "descriptor": "Quick caramel",
+    "dishForm": "Kebabs"
+  }
+}
