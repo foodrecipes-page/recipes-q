@@ -1,0 +1,93 @@
+{
+  "title": "Quick Energizing Thai Chicken Curry",
+  "description": "A rich and dense Bangkok-street style curry featuring kabse spice and bhuna, perfect for a low-carb friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken breast pieces and cook until browned.",
+    "Add the kabse spice and bhuna spice and stir to combine.",
+    "Add the fish sauce and lime juice and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot over cauliflower rice or low-carb vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "quick-dinner",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "quick-energizing-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:07:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "bhuna",
+    "primaryIngredient": "kabse spice",
+    "diet": "low-carb",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Curry"
+  }
+}
