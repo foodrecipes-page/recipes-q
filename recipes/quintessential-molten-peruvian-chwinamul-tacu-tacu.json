@@ -1,0 +1,108 @@
+{
+  "title": "Quintessential Molten Peruvian Chwinamul Tacu Tacu",
+  "description": "A fatty and molten Peruvian dish featuring chwinamul, perfect for a brunch mood, made diabetic friendly with careful ingredient selection. This dish is a creative take on traditional tacu tacu.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "also known as aster scaber, use leaves and stems"
+    },
+    {
+      "name": "peruvian corn",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "black or pinto, cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly, diabetic friendly alternative to traditional cheese"
+    }
+  ],
+  "instructions": [
+    "Using a mortar and pestle, pound the garlic and aji amarillo pepper into a smooth paste.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion to the skillet and cook until translucent.",
+    "Add the pounded garlic and pepper paste to the skillet and cook for 1 minute.",
+    "Add the chwinamul, peruvian corn, and beans to the skillet, stirring to combine.",
+    "Season the mixture with salt and pepper to taste.",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Using a spoon, create 4 wells in the mixture and crack an egg into each well.",
+    "Cover the skillet with a lid and cook until the eggs are cooked to desired doneness.",
+    "Sprinkle the queso fresco over the top of the dish and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "diabetic-friendly",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quintessential-molten-peruvian-chwinamul-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-molten-peruvian-chwinamul-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:52:36Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "chwinamul",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Quintessential Molten",
+    "dishForm": "Tacu Tacu"
+  }
+}
