@@ -2431,6 +2431,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-braised-greek-lamb-braise",
+    "title": "Quick Braised Greek Lamb Braise",
+    "tags": [
+      "comfort-food",
+      "greek",
+      "hearty",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
     "slug": "quick-british-kielbasa-pie",
     "title": "Quick British Kielbasa Pie",
     "tags": [
@@ -5706,6 +5720,20 @@
       "quick-dinner"
     ],
     "cuisine": "Algerian",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-aerated-peruvian-nuka-pickle-suspiro-limeno",
+    "title": "Quickly Aerated Peruvian Nuka-pickle Suspiro-Limeno",
+    "tags": [
+      "midnight-craving",
+      "one-pan",
+      "peruvian",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
     "totalTimeMin": 15,
     "shard": "q"
   },

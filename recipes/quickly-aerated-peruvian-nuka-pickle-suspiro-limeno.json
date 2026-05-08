@@ -1,0 +1,91 @@
+{
+  "title": "Quickly Aerated Peruvian Nuka-pickle Suspiro-Limeno",
+  "description": "A midnight craving dish featuring nuka-pickle, apple juice, and a hint of Peruvian spices. Perfect for a quick weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dash spicy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "panch phrase spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "pandan leaf",
+      "amount": "1 leaf",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine apple juice, nuka-pickle, dash spicy sauce, and panch phrase spice blend. Blend until smooth.",
+    "Pour the mixture into a saucepan and heat over medium heat until warm.",
+    "Remove from heat and stir in salt and black pepper.",
+    "Pour the mixture into a piping bag and pipe into a pandan leaf wrap.",
+    "Top with sour cream and chopped cilantro (if using).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "midnight-craving",
+    "one-pan",
+    "peruvian",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "quickly-aerated-peruvian-nuka-pickle-suspiro-limeno",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-aerated-peruvian-nuka-pickle-suspiro-limeno",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:29Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "apple juice",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Nuka-pickle",
+    "descriptor": "Quickly aerated",
+    "dishForm": "Suspiro-Limeno"
+  }
+}

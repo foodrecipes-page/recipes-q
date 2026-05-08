@@ -1,0 +1,112 @@
+{
+  "title": "Quick Braised Greek Lamb Braise",
+  "description": "A comforting Greek dish featuring lamb, potatoes, and a tangy tomato sauce. Briny, bouncy, and utterly satisfying.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks or necks",
+      "amount": "2"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potato starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Reduce heat to medium and sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the tomatoes, wine, lemon juice, salt, and pepper.",
+    "Return the lamb shanks to the pot, cover, and transfer to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender.",
+    "While the lamb is braising, peel and dice the potatoes.",
+    "In a small bowl, mix the potato starch with a little water to make a slurry.",
+    "Add the potato slurry to the pot and stir to combine.",
+    "Serve the lamb and braising liquid over the potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "greek",
+    "hearty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "quick-braised-greek-lamb-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-braised-greek-lamb-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:03:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "braise",
+    "primaryIngredient": "potato starch",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick Braised",
+    "dishForm": "Braise"
+  }
+}
