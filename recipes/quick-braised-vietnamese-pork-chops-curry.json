@@ -1,0 +1,99 @@
+{
+  "title": "Quick Braised Vietnamese Pork Chops Curry",
+  "description": "A malty, flaky, monsoon Vietnamese dish featuring pork chops, kombu-cold-extract, made paleo-friendly in a kadhai vessel",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 pound",
+      "notes": "preferably bone-in"
+    },
+    {
+      "name": "kombu",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the kombu sheets in cold water for 30 minutes to make the kombu-cold-extract.",
+    "In a blender, combine the soaked kombu, curry powder, fish sauce, lime juice, garlic, and ginger, and blend until smooth.",
+    "Heat a kadhai over medium heat and add the blended mixture, cooking for 2 minutes.",
+    "Add the pork chops to the kadhai and cook for 5 minutes per side, or until browned.",
+    "Add the coconut milk to the kadhai and bring to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 20 minutes, or until the pork is cooked through.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malty-flaky",
+    "monsoon-season",
+    "one-pan",
+    "paleo-friendly",
+    "quick-braised",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-braised-vietnamese-pork-chops-curry",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-braised-vietnamese-pork-chops-curry",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:08:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "pork chops",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork chops",
+    "descriptor": "Quick braised",
+    "dishForm": "Curry"
+  }
+}
