@@ -1,0 +1,104 @@
+{
+  "title": "Quintessential Salty Peruvian Soybean Sprouts Stir Fry",
+  "description": "A salty and savory Peruvian dish featuring soybean sprouts, perfect for midnight cravings, this high protein friendly stir fry is made with kongnamul and nimono simmered to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "kongnamul"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the soybean sprouts and cook until they are tender but still crisp, about 3 minutes.",
+    "In a small bowl, whisk together the soy sauce, lime juice, salt, and black pepper.",
+    "Pour the sauce over the soybean sprouts and stir to combine.",
+    "Add the sliced aji amarillo pepper and stir fry for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stir fry hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "peruvian",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quintessential-salty-peruvian-soybean-sprouts-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-salty-peruvian-soybean-sprouts-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:25:49Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Quintessential Salty",
+    "dishForm": "Stir-fry"
+  }
+}
