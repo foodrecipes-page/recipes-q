@@ -523,6 +523,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-roasted-italian-vegetable-ribollita",
+    "title": "Quaintly Roasted Italian Vegetable Ribollita",
+    "tags": [
+      "comfort-food",
+      "italian-food",
+      "one-pot-meals",
+      "vegetarian-dishes",
+      "winter-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 80,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-spiced-canadian-lamb-stew",
     "title": "Quaintly Spiced Canadian Lamb Stew",
     "tags": [
@@ -1704,6 +1718,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-polish-sauerkraut-pierogi",
+    "title": "Quenched Polish Sauerkraut Pierogi",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "gochugaru",
+      "one-pan",
+      "polish",
+      "sauerkraut"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-pork-wholesome-croquettes",
     "title": "Quenched Pork Wholesome Croquettes",
     "tags": [
@@ -2624,6 +2653,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-canadian-poroidge-oats-hash",
+    "title": "Quick Canadian Porridge Oats Hash",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "dinner",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -5284,6 +5329,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-russian-potato-bake",
+    "title": "Quick Roasted Russian Potato Bake",
+    "tags": [
+      "comfort-food",
+      "hearty-dinner",
+      "jain-friendly",
+      "one-pot",
+      "roasted-vegetables",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {

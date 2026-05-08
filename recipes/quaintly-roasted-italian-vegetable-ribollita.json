@@ -1,0 +1,109 @@
+{
+  "title": "Quaintly Roasted Italian Vegetable Ribollita",
+  "description": "A hearty and comforting Italian dish featuring roasted vegetables and star anise, perfect for a cold winter evening. This ribollita is a traditional Lombard recipe with a twist, using roasted vegetables for added depth of flavor.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "ground"
+    },
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups",
+      "notes": "cubed and stale"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped carrots, celery, and onions with olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 30 minutes, or until they are tender and lightly browned.",
+    "In a large pot, saute the minced garlic over medium heat until fragrant.",
+    "Add the crushed tomatoes, vegetable broth, and ground star anise to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the roasted vegetables, chopped kale, and cubed bread to the pot, stirring to combine.",
+    "Continue to simmer the ribollita for an additional 10 minutes, or until the bread is broken down and the soup has thickened.",
+    "Season the ribollita with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot-meals",
+    "vegetarian-dishes",
+    "winter-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaintly-roasted-italian-vegetable-ribollita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-roasted-italian-vegetable-ribollita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:16:27Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "star anise",
+    "diet": "nut-free",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "vegetables",
+    "descriptor": "quaintly roasted",
+    "dishForm": "Ribollita"
+  }
+}

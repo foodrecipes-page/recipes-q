@@ -1,0 +1,101 @@
+{
+  "title": "Quick Roasted Russian Potato Bake",
+  "description": "A hearty one-pot Russian dish featuring roasted potatoes and starch, perfect for a weeknight dinner, this jain-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Russian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with 1 tablespoon of olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "In a large one-pot dish, create a layer of potatoes, followed by a layer of chopped onion, then a layer of sliced mushrooms, and finally a layer of grated carrots.",
+    "Repeat the layering process until all the ingredients have been used, ending with a layer of potatoes on top.",
+    "Drizzle the remaining 1 tablespoon of olive oil over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are golden brown and the vegetables are tender.",
+    "Remove the dish from the oven and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hearty-dinner",
+    "jain-friendly",
+    "one-pot",
+    "roasted-vegetables",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "quick-roasted-russian-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-russian-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:16:12Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "starch",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Bake"
+  }
+}
