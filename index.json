@@ -6110,6 +6110,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-steamed-vietnamese-tofu-noodles",
+    "title": "Quick Steamed Vietnamese Tofu Noodles",
+    "tags": [
+      "jain-friendly",
+      "noodle-dish",
+      "quick-lunch",
+      "steamed-dish",
+      "tofu-recipe",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [

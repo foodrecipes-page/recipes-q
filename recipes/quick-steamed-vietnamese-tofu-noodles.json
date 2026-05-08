@@ -1,0 +1,96 @@
+{
+  "title": "Quick Steamed Vietnamese Tofu Noodles",
+  "description": "A light and aerated Vietnamese dish featuring chilli powder and steamed tofu noodles, made in a kadhai and suitable for Jain-friendly diets. This winey flavored dish is perfect for a quick lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "1 cup",
+      "notes": "thin and dry"
+    },
+    {
+      "name": "Chilli Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Fill a kadhai with 2 inches of water and bring to a boil.",
+    "Add the rice noodles to the kadhai and steam for 5 minutes.",
+    "While the noodles are steaming, cut the tofu into small cubes.",
+    "In a small bowl, mix together the chilli powder, soy sauce, lime juice, and grated ginger.",
+    "Add the tofu to the bowl and toss to coat with the chilli powder mixture.",
+    "Once the noodles are done, remove them from the kadhai and set aside.",
+    "Add the tofu to the kadhai and steam for an additional 2 minutes.",
+    "To serve, place the steamed noodles in a bowl and top with the steamed tofu and chopped green onions.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "noodle-dish",
+    "quick-lunch",
+    "steamed-dish",
+    "tofu-recipe",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-steamed-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:00:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "chilli powder",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Noodles"
+  }
+}
