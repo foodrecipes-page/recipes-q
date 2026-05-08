@@ -1,0 +1,100 @@
+{
+  "title": "Quick Crunchy Italian Shank Cacio e Pepe",
+  "description": "A nutty, crunchy twist on the classic Italian dish, featuring hind shank in a light miso-marinate, perfect for low-carb diets.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "1",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": "white or yellow miso"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "pesto",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Season the hind shank pieces with salt and set aside.",
+    "In a large bowl, whisk together miso paste, garlic, and olive oil until smooth.",
+    "Add the hind shank pieces to the bowl and toss to coat with the miso marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat the oven to 425°F (220°C).",
+    "Remove the hind shank pieces from the marinade, letting any excess liquid drip off.",
+    "Place the hind shank on a baking sheet lined with parchment paper.",
+    "Roast the hind shank in the preheated oven for 20-25 minutes, or until browned and caramelized.",
+    "While the hind shank is roasting, combine pesto and parmesan cheese in a small bowl.",
+    "After the hind shank has roasted for 15 minutes, brush the pesto-parmesan mixture evenly over the top.",
+    "Return the hind shank to the oven and continue roasting for an additional 5-10 minutes, or until the pesto is lightly browned and crispy.",
+    "Remove the hind shank from the oven and sprinkle with black pepper and parsley.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian",
+    "low-carb",
+    "one-pan",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "quick-crunchy-italian-shank-cacio-e-pepe",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-italian-shank-cacio-e-pepe",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:55:57Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "hind shank",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "shank",
+    "descriptor": "quick crunchy",
+    "dishForm": "Cacio e Pepe"
+  }
+}
