@@ -1,0 +1,93 @@
+{
+  "title": "Quick Gooey Norwegian Cheese Casserole",
+  "description": "A sweet and gooey Norwegian dish featuring brunost cheese, perfect for a weeknight dinner or meal prep, and friendly to diabetic diets due to its balanced ingredients and portion control.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brunost cheese",
+      "amount": "1 cup shredded",
+      "notes": "or substitute with sweet cheese alternative"
+    },
+    {
+      "name": "Whole wheat pasta",
+      "amount": "8 oz",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chopped walnuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the sugar, eggs, and salt until well combined.",
+    "Add the shredded brunost cheese to the bowl and mix until smooth.",
+    "In a separate bowl, mix the cooked pasta and chopped walnuts if using.",
+    "Add the pasta mixture to the cheese mixture and stir until the pasta is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and dot the top with unsalted butter.",
+    "Sprinkle a pinch of ground cinnamon over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 25 minutes or until the top is golden brown and the casserole is set.",
+    "Remove the casserole from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "quick-gooey-norwegian-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-norwegian-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:37:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "rest",
+    "primaryIngredient": "restaurant",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Casserole"
+  }
+}

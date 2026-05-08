@@ -4681,6 +4681,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-gooey-norwegian-cheese-casserole",
+    "title": "Quick Gooey Norwegian Cheese Casserole",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "norwegian-cuisine",
+      "one-pan",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-portuguese-chicken-tacos",
     "title": "Quick Gooey Portuguese Chicken Tacos",
     "tags": [
