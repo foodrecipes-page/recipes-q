@@ -1,0 +1,100 @@
+{
+  "title": "Quick Fried Slovakian Pistachio Fritters",
+  "description": "Sweet and springy Slovakian dessert featuring pistachio paste, deep fried to a crispy golden brown, perfect for kids and low glycemic diets.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low glycemic",
+    "kid friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together almond flour, baking powder, and salt.",
+    "In a separate bowl, whisk together pistachio paste, eggs, melted butter, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Knead the dough for 5 minutes until it becomes pliable and easy to shape.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully drop the dough balls into the hot oil and fry for 3-4 minutes on each side.",
+    "Remove the fritters from the oil with a slotted spoon and place them on a paper towel lined plate to drain excess oil.",
+    "Dust the fritters with confectioners sugar and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "kid-friendly",
+    "low-glycemic",
+    "slovakian",
+    "spring-dessert",
+    "sweet-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quick-fried-slovakian-pistachio-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-slovakian-pistachio-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:25:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "pistachio paste",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pistachio",
+    "descriptor": "Quick Fried",
+    "dishForm": "Fritters"
+  }
+}

@@ -348,6 +348,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-romantic-dutch-paccheri-pasta",
+    "title": "Quaint Romantic Dutch Paccheri Pasta",
+    "tags": [
+      "dutch-cuisine",
+      "low-carb",
+      "one-pot",
+      "romantic-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-romantic-korean-fish-kalguksu",
     "title": "Quaint Romantic Korean Fish Kalguksu",
     "tags": [
@@ -4448,6 +4462,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fried-slovakian-pistachio-fritters",
+    "title": "Quick Fried Slovakian Pistachio Fritters",
+    "tags": [
+      "deep-fried",
+      "kid-friendly",
+      "low-glycemic",
+      "slovakian",
+      "spring-dessert",
+      "sweet-treats"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
