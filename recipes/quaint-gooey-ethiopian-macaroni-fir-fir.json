@@ -1,0 +1,108 @@
+{
+  "title": "Quaint Gooey Ethiopian Macaroni Fir Fir",
+  "description": "A cultured and gooey lacto-vegetarian Ethiopian dish featuring macaroni, this crowd-pleaser is sure to satisfy your cravings. It is a unique twist on traditional fir fir, with a creamy and tangy sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "elbow or shell shaped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the macaroni according to the package instructions until al dente.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for an additional minute.",
+    "Stir in the berbere spice and cook for 1 minute, until fragrant.",
+    "Add the tomato paste to the skillet and cook for 2 minutes, stirring constantly.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Stir in the yogurt and cook for an additional 2 minutes, until the sauce has thickened slightly.",
+    "Add the cooked macaroni to the skillet and toss with the sauce until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve the macaroni hot, topped with additional yogurt and berbere spice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "lacto-vegetarian",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quaint-gooey-ethiopian-macaroni-fir-fir",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-gooey-ethiopian-macaroni-fir-fir",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:25:46Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "macaroni",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "macaroni",
+    "descriptor": "quaint gooey",
+    "dishForm": "Fir Fir"
+  }
+}
