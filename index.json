@@ -631,6 +631,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-steamed-norwegian-daikon-skewers",
+    "title": "Quaint Steamed Norwegian Daikon Skewers",
+    "tags": [
+      "bamboo-steamer",
+      "brunch-ideas",
+      "keto-friendly",
+      "low-carb",
+      "norwegian-cuisine",
+      "steamed-vegetables"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-sweet-british-tofu-noodles",
     "title": "Quaint Sweet British Tofu Noodles",
     "tags": [
@@ -8384,6 +8399,22 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-silky-venezuelan-red-potatoes-casseroles",
+    "title": "Quietly Silky Venezuelan Red Potatoes Casseroles",
+    "tags": [
+      "date-night",
+      "fermented",
+      "gluten-free",
+      "romantic-dinner",
+      "silky",
+      "vegetarian",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 95,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-simmered-ethiopian-collard-greens-gomen",
     "title": "Quietly Simmered Ethiopian Collard Greens Gomen",
     "tags": [
@@ -8561,6 +8592,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-spicy-algerian-lamb-tagine",
+    "title": "Quietly Spicy Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "paleo-friendly",
+      "slow-cooked",
+      "stone-bowl-cooking"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {

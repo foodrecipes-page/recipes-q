@@ -1,0 +1,94 @@
+{
+  "title": "Quaint Steamed Norwegian Daikon Skewers",
+  "description": "A malty and shaggy Norwegian dish featuring daikon, perfect for a brunch mood, made keto-friendly by using low-carb ingredients and steaming method, served in a bamboo steamer.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 large",
+      "notes": "peeled and cut into 1-inch cubes"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together malt syrup, olive oil, salt, and black pepper.",
+    "Add the daikon cubes to the bowl and toss to coat with the malt syrup mixture.",
+    "Thread the daikon cubes onto bamboo skewers, leaving a small space between each cube.",
+    "Place the skewers in a bamboo steamer lined with parchment paper.",
+    "Steam the daikon skewers over boiling water for 10 minutes, or until they are tender.",
+    "While the daikon is steaming, mix the chopped parsley and dill in a small bowl.",
+    "After the daikon has finished steaming, brush the lemon juice over the daikon cubes.",
+    "Sprinkle the parsley and dill mixture over the daikon skewers and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-steamer",
+    "brunch-ideas",
+    "keto-friendly",
+    "low-carb",
+    "norwegian-cuisine",
+    "steamed-vegetables"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "quaint-steamed-norwegian-daikon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-steamed-norwegian-daikon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:19:16Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "steam",
+    "primaryIngredient": "daikon",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "daikon",
+    "descriptor": "quaint steamed",
+    "dishForm": "Skewers"
+  }
+}

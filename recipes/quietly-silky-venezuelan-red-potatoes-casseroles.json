@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Silky Venezuelan Red Potatoes Casseroles",
+  "description": "A fermented, silky, date-night Venezuelan dish featuring red potatoes, shio-cure, and ayurvedic-tamasic-friendly ingredients, perfect for a romantic dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced red potatoes and shio cure, tossing to coat evenly.",
+    "Let the potatoes sit at room temperature for 2 hours to allow the shio cure to ferment.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic and chopped onion until softened.",
+    "In a separate bowl, whisk together the salt and black pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, followed by a layer of the garlic and onion mixture, and then a sprinkle of the salt and pepper mixture.",
+    "Repeat the layering process until all ingredients are used, ending with a layer of potatoes on top.",
+    "Sprinkle the chopped fresh cilantro over the top layer of potatoes.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 65,
+  "totalTimeMin": 95,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fermented",
+    "gluten-free",
+    "romantic-dinner",
+    "silky",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-silky-venezuelan-red-potatoes-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-silky-venezuelan-red-potatoes-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:18:49Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "red potatoes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "red potatoes",
+    "descriptor": "quietly silky",
+    "dishForm": "Casseroles"
+  }
+}
