@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Quarried Dutch Couscous Pilaf",
+  "description": "A floral and aerated Dutch dish perfect for a date night, featuring couscous and dashi extract, nut-free-friendly. This recipe is designed to be a unique and romantic dinner option.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add the couscous to the saucepan, cover, and remove from heat.",
+    "Let the couscous steam for 5 minutes, then fluff with a fork.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Stir in the dashi extract, dried lavender, salt, and black pepper.",
+    "Add the cooked couscous to the skillet and stir to combine.",
+    "Transfer the couscous mixture to a baking dish and top with chopped parsley.",
+    "Bake in the preheated oven for 10 minutes, or until lightly toasted."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dutch-cuisine",
+    "flower-infused",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pan",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "quietly-quarried-dutch-couscous-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quarried-dutch-couscous-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:11:16Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "couscous",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "couscous",
+    "descriptor": "Quietly Quarried",
+    "dishForm": "Pilaf"
+  }
+}

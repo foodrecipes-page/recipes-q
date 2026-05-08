@@ -8635,6 +8635,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-baked-thai-chicken-skewers",
+    "title": "Quietly Baked Thai Chicken Skewers",
+    "tags": [
+      "baked-not-fried",
+      "date-night",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "thai-inspired"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-baked-venezuelan-grass-tagine",
     "title": "Quietly Baked Venezuelan Grass Tagine",
     "tags": [
@@ -9300,6 +9315,22 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quarried-dutch-couscous-pilaf",
+    "title": "Quietly Quarried Dutch Couscous Pilaf",
+    "tags": [
+      "date-night",
+      "dutch-cuisine",
+      "flower-infused",
+      "gluten-free",
+      "healthy-dinner",
+      "one-pan",
+      "romantic-dinner"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
