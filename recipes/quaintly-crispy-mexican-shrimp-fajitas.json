@@ -1,0 +1,103 @@
+{
+  "title": "Quaintly Crispy Mexican Shrimp Fajitas",
+  "description": "A pescatarian-friendly Mexican dish featuring malty and crispy shrimp, dried apricots, and beurre-monte, served in a bento-box as fajitas.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malty beer",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8 small",
+      "notes": "flour or corn"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and onion to the skillet and cook until the onion is translucent.",
+    "Add the shrimp to the skillet and cook until they are pink and fully cooked.",
+    "Add the chopped dried apricots, malty beer, and beurre-monte to the skillet and stir to combine.",
+    "Season the mixture with salt and pepper to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the shrimp and apricot mixture onto each tortilla.",
+    "Serve the fajitas in a bento-box and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "comfort-food",
+    "fajitas",
+    "mexican-food",
+    "pescatarian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quaintly-crispy-mexican-shrimp-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-crispy-mexican-shrimp-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:17:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dried apricots",
+    "diet": "pescatarian",
+    "region": "veracruzan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quaintly crispy",
+    "dishForm": "Fajitas"
+  }
+}

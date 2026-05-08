@@ -852,6 +852,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-crispy-mexican-shrimp-fajitas",
+    "title": "Quaintly Crispy Mexican Shrimp Fajitas",
+    "tags": [
+      "bento-box",
+      "comfort-food",
+      "fajitas",
+      "mexican-food",
+      "pescatarian",
+      "seafood"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-flaky-middle-eastern-kabocha-tagine",
     "title": "Quaintly Flaky Middle Eastern Kabocha Tagine",
     "tags": [
