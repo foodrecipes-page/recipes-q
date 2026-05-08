@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Citrusy Peruvian Salt Cod Ceviche Clasico",
+  "description": "A citrusy and tender Peruvian dish featuring salt cod, perfect for a weeknight dinner, served in a bento box. This plant-based friendly recipe uses tempering chocolate for a unique flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "desalted and cut into small pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mixed citrus segments",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the salt cod and cut it into small pieces.",
+    "In a large bowl, mix together the lime juice, lemon juice, and chopped aji amarillo pepper.",
+    "Add the salt cod pieces to the bowl and marinate for at least 30 minutes.",
+    "While the cod is marinating, prepare the mixed citrus segments and slice the red onion.",
+    "After the cod has marinated, add the mixed citrus segments, sliced red onion, and chopped cilantro to the bowl.",
+    "Melt the tempering chocolate and drizzle it over the top of the ceviche.",
+    "Mix everything together gently.",
+    "Spoon the ceviche into a bento box and serve immediately.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "ceviche",
+    "citrusy",
+    "peruvian",
+    "plant-based",
+    "salt-cod",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quietly-citrusy-peruvian-salt-cod-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-citrusy-peruvian-salt-cod-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:36:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "salt cod",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Quietly Citrusy",
+    "dishForm": "Ceviche Clasico"
+  }
+}
