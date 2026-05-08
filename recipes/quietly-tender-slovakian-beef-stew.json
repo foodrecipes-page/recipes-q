@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Tender Slovakian Beef Stew",
+  "description": "A hearty one-pot Slovakian dish featuring tender beef and rich umami flavors, made with Marmite for added depth and using low-fat friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or shank",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "Marmite",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to brown, about 5 minutes.",
+    "Add the Marmite, beef broth, tomato paste, thyme, black pepper, and salt to the pot, stirring to combine.",
+    "Return the browned beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2.5 hours.",
+    "Add the chopped carrots and potatoes to the pot and continue to simmer, covered, for an additional 30 minutes, or until the vegetables are tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "hearty-stew",
+    "low-fat",
+    "one-pot",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-tender-slovakian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-tender-slovakian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "rest-meat",
+    "primaryIngredient": "marmite",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "quietly tender",
+    "dishForm": "Stew"
+  }
+}
