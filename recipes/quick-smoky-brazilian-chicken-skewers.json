@@ -1,0 +1,99 @@
+{
+  "title": "Quick Smoky Brazilian Chicken Skewers",
+  "description": "Sweet and smoky chicken skewers with a Brazilian twist, perfect for a brunch gathering, featuring red pepper paste and a dash of friendly flavors, this dish is sure to delight your taste buds with its snappy texture and mushimono-steam cooking method.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together red pepper paste, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the mushimono-steam by bringing a pot of water to a boil.",
+    "Once the chicken is done, brush with lemon juice and serve hot, garnished with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "For an extra smoky flavor, let the skewers rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "brunch-ideas",
+    "chicken-recipes",
+    "grilled-meats",
+    "quick-meal",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-smoky-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "red pepper paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Skewers"
+  }
+}
