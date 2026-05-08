@@ -1,0 +1,122 @@
+{
+  "title": "Quickly Tendered Mediterranean Chicken Salad",
+  "description": "A rich and tender weeknight Mediterranean dish featuring lettuce, pressure-cooked chicken, and a variety of fresh vegetables.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fodmap-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups, chopped",
+      "notes": " Iceberg or romaine work well"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": " Peeled and seeded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 large, diced",
+      "notes": "Cherry or grape tomatoes also work well"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, thinly sliced",
+      "notes": "Soaked in cold water for 10 minutes to reduce pungency"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Optional, or use goat cheese or parmesan"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup, pitted",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For dressing"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, and garlic powder.",
+    "Place the chicken in a pressure cooker, add 1 cup of chicken broth, and cook for 10 minutes.",
+    "Let the pressure release, then chop the chicken into bite-sized pieces.",
+    "In a large bowl, combine the chopped lettuce, sliced cucumber, diced tomatoes, and red onion.",
+    "In a small bowl, whisk together the lemon juice and olive oil for the dressing.",
+    "Add the chopped chicken, crumbled feta cheese, and pitted olives to the bowl with the lettuce mixture, if using.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Season with salt and pepper to taste, and garnish with chopped parsley, if desired.",
+    "Serve immediately, or refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "quickly-tendered-mediterranean-chicken-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-tendered-mediterranean-chicken-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:57:56Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "lettuce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Quickly Tendered",
+    "dishForm": "Salad"
+  }
+}
