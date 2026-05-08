@@ -1,0 +1,102 @@
+{
+  "title": "Quick-Fix Velvety Vietnamese Beef Fillet Bun",
+  "description": "A resounding, velvety Vietnamese dish featuring beef fillet, mortar-pestle-pound, and gluten-free-friendly ingredients. Enjoy this easy-to-make meal in under 30 minutes!",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "4 slices",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "gluten-free friendly"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "peanuts or cashews",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Pound the beef fillet slices with a mortar and pestle to thin them out.",
+    "In a small bowl, whisk together the fish sauce, sugar, lime juice, and water to make the marinade.",
+    "Add the grated ginger and minced garlic to the marinade and mix well.",
+    "Place the beef fillet slices in the marinade and let them sit for 5 minutes on each side.",
+    "In a separate pan, toast the peanuts or cashews over medium heat until fragrant.",
+    "Add the cooked noodles to the pan and toss them with the toasted peanuts or cashews.",
+    "Add the drained beef fillet slices to the pan and toss everything together.",
+    "Serve the beef and noodle mixture on a plate, garnished with chopped fresh cilantro.",
+    "Serve with a side of peanut sauce, if desired.",
+    "Enjoy your delicious Quick-Fix Velvety Vietnamese Beef Fillet Bun!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-fix-velvety-vietnamese-beef-fillet-bun",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-velvety-vietnamese-beef-fillet-bun",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:04:17Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "beef fillet",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "beef fillet",
+    "descriptor": "quick-fix velvety",
+    "dishForm": "Bun"
+  }
+}
