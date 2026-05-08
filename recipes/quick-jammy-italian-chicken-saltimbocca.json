@@ -1,0 +1,99 @@
+{
+  "title": "Quick Jammy Italian Chicken Saltimbocca",
+  "description": "A flexitarian-friendly Italian dish featuring chicken, sriracha, and a jammy sauce, served as a solo dinner, inspired by the Calabrian region and the classic Saltimbocca recipe, with a double-fry KFC twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices"
+    },
+    {
+      "name": "sage leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Pound the chicken breasts thin and season with salt and pepper.",
+    "Dip each chicken breast in the flour, then the eggs, and finally the breadcrumbs.",
+    "Heat the olive oil in a large skillet over medium-high heat and double-fry the chicken breasts until golden brown and crispy.",
+    "In a small bowl, mix the sriracha sauce and jam to create a jammy sauce.",
+    "Add the prosciutto slices to the skillet and cook until crispy.",
+    "Add the chopped sage leaves to the skillet and cook for 1 minute.",
+    "Assemble the Saltimbocca by placing a chicken breast on each plate, topping with a prosciutto slice, a spoonful of the jammy sauce, and a sprinkle of sage leaves.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional sage leaves and prosciutto slices if desired.",
+    "Store leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "double-fry-technique",
+    "flexitarian-friendly",
+    "italian-cuisine",
+    "quick-dinners",
+    "saltimbocca-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-jammy-italian-chicken-saltimbocca",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jammy-italian-chicken-saltimbocca",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:26:11Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "sriracha",
+    "diet": "flexitarian",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Jammy",
+    "dishForm": "Saltimbocca"
+  }
+}
