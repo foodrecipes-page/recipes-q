@@ -1,0 +1,102 @@
+{
+  "title": "Quaint Silky Dutch Thai Eggplant Stew",
+  "description": "A garlicky and silky Dutch stew featuring Thai eggplant and kimchi, perfect for a Buddhist temple friendly meal. This dish is great for meal prep and can be served as a main course.",
+  "cuisine": "Dutch Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai eggplant",
+      "amount": "2 medium",
+      "notes": "also known as makhua"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean cabbage"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the Thai eggplant and cook for 5 minutes, until it starts to soften.",
+    "Add the kimchi, coconut milk, vegetable broth, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped fresh basil and cook for another minute.",
+    "Serve the stew hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-thai",
+    "meal-prep",
+    "one-pot",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quaint-silky-dutch-thai-eggplant-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-silky-dutch-thai-eggplant-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:12:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "thai-eggplant-makhua",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "thai eggplant",
+    "descriptor": "Quaint Silky",
+    "dishForm": "Stew"
+  }
+}
