@@ -1,0 +1,93 @@
+{
+  "title": "Quick Grilled Brazilian Nectarine Skewers",
+  "description": "A light and refreshing Brazilian dish featuring nectarines, perfect for warm weather, this paleo-friendly recipe is easy to make and packed with flavor. The combination of mustard and nectarine creates a delightful springy taste experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "paleo mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together paleo mustard, coconut oil, salt, and black pepper to make the marinade.",
+    "Thread the nectarine chunks onto the bamboo skewers, leaving a little space between each piece.",
+    "Brush the marinade onto both sides of the nectarine chunks.",
+    "Place the skewers on the grill and cook for 2-3 minutes per side, or until the nectarines are slightly caramelized.",
+    "Remove the skewers from the grill and sprinkle with chopped fresh parsley.",
+    "Drizzle the lime juice over the skewers and serve immediately.",
+    "Let the skewers cool for a minute or two before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "fruit-based",
+    "grilled",
+    "paleo-friendly",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "quick-grilled-brazilian-nectarine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-brazilian-nectarine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:21:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "nectarines",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}
