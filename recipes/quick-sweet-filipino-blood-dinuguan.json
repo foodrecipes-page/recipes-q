@@ -1,0 +1,96 @@
+{
+  "title": "Quick Sweet Filipino Blood Dinuguan",
+  "description": "A plant-based Filipino dish featuring almond extract and lacquer-glaze, perfect for a post-workout snack. This sweet and crumbly dinuguan is made with tofu and plant-based ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat and add the chopped onion and minced garlic.",
+    "Cook until the onion is translucent, then add the crumbled tofu and cook until it is lightly browned.",
+    "In a small bowl, whisk together the almond extract, lacquer glaze, vinegar, soy sauce, and maple syrup.",
+    "Pour the glaze mixture over the tofu and onion mixture, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Season with black pepper to taste.",
+    "Serve the dinuguan hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "plant-based",
+    "post-workout",
+    "quick-snack",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-sweet-filipino-blood-dinuguan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sweet-filipino-blood-dinuguan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:53:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "almond extract",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "blood",
+    "descriptor": "quick sweet",
+    "dishForm": "Dinuguan"
+  }
+}
