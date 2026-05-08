@@ -1,0 +1,98 @@
+{
+  "title": "Quaint Crunchy Slovakian Noodle Bowl",
+  "description": "A traditional Slovakian dish featuring clear honey and crunchy noodles, served in a lacquerware bowl, this ovo-vegetarian friendly meal is a nostalgic delight, with a perfect balance of briny and sweet flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "preferably Slovakian style"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tempeh",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to the package instructions.",
+    "Meanwhile, heat the sesame oil in a large skillet over medium heat and add the crumbled tempeh.",
+    "Cook the tempeh for about 5 minutes, stirring frequently, until it is golden brown and crispy.",
+    "Add the grated carrots to the skillet and cook for an additional 2 minutes, stirring frequently.",
+    "Stir in the soy sauce, clear honey, salt, and black pepper, and cook for 1 minute.",
+    "Drain the cooked noodles and add them to the skillet, stirring to combine with the tempeh and carrot mixture.",
+    "Transfer the noodle mixture to a lacquerware bowl and top with chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "crunchy",
+    "lacquerware",
+    "noodle-bowl",
+    "ovo-vegetarian",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quaint-crunchy-slovakian-noodle-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crunchy-slovakian-noodle-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:03:54Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "clear honey",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "noodles",
+    "descriptor": "quaint crunchy",
+    "dishForm": "Bowl"
+  }
+}

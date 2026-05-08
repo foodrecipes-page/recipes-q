@@ -170,6 +170,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-crunchy-slovakian-noodle-bowl",
+    "title": "Quaint Crunchy Slovakian Noodle Bowl",
+    "tags": [
+      "briny",
+      "crunchy",
+      "lacquerware",
+      "noodle-bowl",
+      "ovo-vegetarian",
+      "slovakian-cuisine"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-ethiopian-collard-greens-gomen",
     "title": "Quaint Ethiopian Collard Greens Gomen",
     "tags": [
