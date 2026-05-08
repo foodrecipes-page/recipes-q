@@ -70,6 +70,22 @@
     "shard": "q"
   },
   {
+    "slug": "qtoast-avocado-pesto",
+    "title": "Qtoast Avocado Pesto",
+    "tags": [
+      "adventurous",
+      "brazilian",
+      "grassy",
+      "reduce",
+      "satvik-friendly",
+      "shattering",
+      "unsalted-butter"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quaerened-thai-oat-pancake",
     "title": "Quaerened Thai Oat Pancake",
     "tags": [

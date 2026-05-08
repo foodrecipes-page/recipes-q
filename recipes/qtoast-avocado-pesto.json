@@ -1,0 +1,83 @@
+{
+  "title": "Qtoast Avocado Pesto",
+  "description": "This grassy and adventurous Brazilian dish features an unconventional combination of avocado pesto with unsalted butter, serving as a satvik-friendly breakfast option.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jalapenos",
+      "amount": "3-4"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "1"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend the avocados until smooth in a blender.",
+    "Add basil, jalapenos, garlic, lime juice, and salt to the blended avocado.",
+    "Blend again until well combined. Taste and adjust seasoning as needed.",
+    "Heat unsalted butter in a pan over medium heat.",
+    "Pour the pesto mixture into the hot butter and gently stir to coat evenly.",
+    "Serve warm on toast or bread for a satisfying breakfast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "brazilian",
+    "grassy",
+    "reduce",
+    "satvik-friendly",
+    "shattering",
+    "unsalted-butter"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 10,
+    "carbs": 18,
+    "fat": 16
+  },
+  "slug": "qtoast-avocado-pesto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/qtoast-avocado-pesto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-08T01:02:51Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "unsalted butter",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Quetzal",
+    "mainIngredient": "Avocado",
+    "descriptor": "Creamy Toasted",
+    "dishForm": "Pesto"
+  }
+}
