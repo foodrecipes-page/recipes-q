@@ -1,0 +1,105 @@
+{
+  "title": "Quaint Salt Baked Vietnamese Fish Claypot",
+  "description": "A sour and molten Vietnamese dish featuring soured cream and chive dip, salt-bake, and served in a claypot, this recipe is diabetic-friendly and offers a nostalgic taste of Vietnam.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "catfish fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soured cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "claypot",
+      "amount": "1 pot",
+      "notes": "preheated"
+    }
+  ],
+  "instructions": [
+    "Preheat the claypot by filling it with hot water and letting it sit for 10 minutes.",
+    "Drain the water from the claypot and add a layer of salt at the bottom.",
+    "Place the catfish fillets on top of the salt layer.",
+    "Add the bruised lemongrass and kaffir lime leaves on top of the fish.",
+    "In a bowl, mix the soured cream, chopped chives, fish sauce, brown sugar, and black pepper.",
+    "Pour the cream mixture over the fish and lemongrass.",
+    "Cover the claypot with a lid and bake in a preheated oven at 400 degrees Fahrenheit for 20 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes.",
+    "Remove the claypot from the oven and let it cool for a few minutes.",
+    "Serve the fish and cream mixture hot, garnished with additional chopped chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-recipe",
+    "diabetic-friendly",
+    "fish-recipe",
+    "salt-baked",
+    "soured-cream",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quaint-salt-baked-vietnamese-fish-claypot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-salt-baked-vietnamese-fish-claypot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:52:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "soured cream and chive dip",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "fish",
+    "descriptor": "quaint salt baked",
+    "dishForm": "Claypot"
+  }
+}
