@@ -1,0 +1,99 @@
+{
+  "title": "Quaint Crumbly Brazilian Cheese Pilaf",
+  "description": "A traditional Brazilian dish featuring a crumbly texture and grassy flavors, this pilaf is a nostalgic delight, made with satvik-friendly ingredients and a touch of spherified magic.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brazilian cheese",
+      "amount": "1 cup crumbled",
+      "notes": "preferably queijo coalho"
+    },
+    {
+      "name": "brown rice",
+      "amount": "2 cups cooked",
+      "notes": "day-old rice works best"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1/2 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for spherification bath"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped scallions and cook until they are softened and fragrant.",
+    "Add the cooked brown rice to the skillet, stirring to combine with the scallions and oil.",
+    "Stir in the crumbled Brazilian cheese until it is well combined with the rice mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a spherification bath.",
+    "Using a spoon, drop small amounts of the cheese and rice mixture into the spherification bath, creating small spheres.",
+    "Let the spheres sit in the bath for about 30 seconds to set, then remove them with a slotted spoon.",
+    "Serve the quaint crumbly Brazilian cheese pilaf hot, garnished with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "spherification",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quaint-crumbly-brazilian-cheese-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crumbly-brazilian-cheese-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:54:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "seasoning",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "quaint crumbly",
+    "dishForm": "Pilaf"
+  }
+}

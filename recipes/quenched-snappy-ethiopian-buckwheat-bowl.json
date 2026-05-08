@@ -1,0 +1,135 @@
+{
+  "title": "Quenched Snappy Ethiopian Buckwheat Bowl",
+  "description": "A crispy buckwheat dish inspired by the flavors of Ethiopia, featuring a snappy texture and a rich, umami taste. Perfect for a weekend brunch or a weeknight meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat Groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Berbere Spice Mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo Shoots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter or Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salted Fermented Chili Paste (optional)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large frying pan over medium-high heat.",
+    "Add the onion and cook until crispy, about 3 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Add the berbere spice mix and cook for 1 minute, stirring constantly.",
+    "Add the ginger and cook for 1 minute, stirring constantly.",
+    "Add the bamboo shoots and cook until they start to soften, about 2 minutes.",
+    "Add the remaining 1 tablespoon of oil, the water, and the salt. Bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Stir in the lime juice and cook for an additional 1 minute.",
+    "Add the buckwheat groats, butter or ghee, and salt. Cook until the buckwheat is toasted and crispy, about 5 minutes.",
+    "Stir in the parsley and cook for an additional 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "If using, stir in the fermented chili paste for an added kick.",
+    "Serve immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "buckwheat",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight",
+    "wok-seared"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "quenched-snappy-ethiopian-buckwheat-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-snappy-ethiopian-buckwheat-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "wok-hei",
+    "primaryIngredient": "buckwheat",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "quenched snappy",
+    "dishForm": "bowl"
+  }
+}

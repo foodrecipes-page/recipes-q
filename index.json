@@ -156,6 +156,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-crumbly-brazilian-cheese-pilaf",
+    "title": "Quaint Crumbly Brazilian Cheese Pilaf",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "spherification",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-ethiopian-collard-greens-gomen",
     "title": "Quaint Ethiopian Collard Greens Gomen",
     "tags": [
@@ -1873,6 +1887,22 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 135,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-snappy-ethiopian-buckwheat-bowl",
+    "title": "Quenched Snappy Ethiopian Buckwheat Bowl",
+    "tags": [
+      "breakfast",
+      "buckwheat",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "weeknight",
+      "wok-seared"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
