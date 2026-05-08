@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Luxurious Thai Beef Shin Curry",
+  "description": "A mustardy, silky, and cozy Thai dish featuring beef shin, shio-koji-cure, with a Mediterranean twist",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large Dutch oven over medium heat",
+    "Add onion and cook until softened, about 5 minutes",
+    "Add garlic and cook for 1 minute, until fragrant",
+    "Add beef shin and cook until browned on all sides, about 5 minutes",
+    "Add shio-koji, Thai red curry paste, fish sauce, and brown sugar, and cook for 1 minute, until fragrant",
+    "Add coconut milk and bring to a simmer",
+    "Reduce heat to low and cook, covered, for 2.5 hours, until beef is tender",
+    "Season with salt and pepper to taste",
+    "Garnish with chopped cilantro and serve over rice or noodles"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-shin",
+    "cozy-dinner",
+    "mediterranean-inspired",
+    "slow-cooked",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "quietly-luxurious-thai-beef-shin-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-luxurious-thai-beef-shin-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "beef shin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef shin",
+    "descriptor": "quietly luxurious",
+    "dishForm": "Curry"
+  }
+}

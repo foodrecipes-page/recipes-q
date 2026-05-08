@@ -1,0 +1,98 @@
+{
+  "title": "Quick Velvety Peruvian Sweet Potatoes Picarones",
+  "description": "A traditional Peruvian dish featuring sweet potatoes, garlic, and anise, cooked to a velvety texture in a ttukbaegi earthenware pot, this recipe is FODMAP friendly and nostalgic, this dish is perfect for a snack or dessert. The sweet potatoes and anise provide a delicious and comforting flavor combination.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "anise seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "In a blender or food processor, combine the sweet potatoes, garlic, anise seeds, and brown sugar, and blend until smooth.",
+    "In a large bowl, whisk together the eggs, flour, and water.",
+    "Add the sweet potato mixture to the bowl and stir until well combined.",
+    "Heat the vegetable oil in the preheated ttukbaegi earthenware pot.",
+    "Using a spoon, drop the sweet potato mixture into the oil and cook for 3-4 minutes on each side, until golden brown.",
+    "Remove the picarones from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Sprinkle the picarones with salt and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fodmap-friendly",
+    "gluten-free",
+    "peruvian",
+    "snack",
+    "sweet-potatoes",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-velvety-peruvian-sweet-potatoes-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-velvety-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "garlic",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Quick Velvety",
+    "dishForm": "Picarones"
+  }
+}
