@@ -1,0 +1,105 @@
+{
+  "title": "Quick Savory Spanish Shrimp Gambas Al Ajillo",
+  "description": "A high protein Spanish dish featuring shrimp, brown rice, and savory flavors, perfect for a weeknight meal",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the garlic and cook for 1 minute, until fragrant",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through",
+    "Remove the shrimp from the skillet and set aside",
+    "Add the smoked paprika, salt, black pepper, and red pepper flakes to the skillet and cook for 1 minute",
+    "Add the cooked brown rice to the skillet and stir to combine with the spices",
+    "Return the shrimp to the skillet and stir to combine with the rice and spices",
+    "Squeeze the lemon juice over the top of the shrimp and rice",
+    "Sprinkle the chopped parsley over the top of the dish",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "shrimp-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-savory-spanish-shrimp-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "brown rice",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "quick savory",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}

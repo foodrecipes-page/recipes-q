@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Smoky Korean Pretzels Onigiri",
+  "description": "A smoky, pillowy, monsoon Korean dish featuring pretzels and nigiri-shaping, macrobiotic-friendly ingredients, inspired by Jeju cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted nori sheets",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together Korean chili flakes, sesame oil, rice vinegar, and smoked sea salt.",
+    "Add the pretzels to the bowl and toss until they are evenly coated with the smoky mixture.",
+    "Spread the pretzels on a baking sheet and bake for 10 minutes, or until lightly toasted.",
+    "Allow the pretzels to cool completely.",
+    "Cut the toasted nori sheets into small pieces and set aside.",
+    "To assemble the onigiri, lay a small handful of pretzels on a flat surface and shape into a triangle.",
+    "Place a small piece of nori in the center of the pretzel triangle.",
+    "Top the nori with a few slices of scallion and a sprinkle of black sesame seeds.",
+    "Fold the pretzel triangle over the filling to form a triangle shape, and press the edges together to seal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "korean-inspired",
+    "macrobiotic-friendly",
+    "party-food",
+    "smoky-flavors",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quietly-smoky-korean-pretzels-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-korean-pretzels-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pretzels",
+    "diet": "macrobiotic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "pretzels",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Onigiri"
+  }
+}
