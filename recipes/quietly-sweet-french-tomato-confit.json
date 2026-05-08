@@ -1,0 +1,101 @@
+{
+  "title": "Quietly Sweet French Tomato Confit",
+  "description": "A gentle, aerated French dish featuring sweet confit tomatoes and the nutty flavor of kinako, perfect for a quiet sick day at home, and friendly to sugar-free diets.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": "ripe, cored, and chopped"
+    },
+    {
+      "name": "kinako",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped tomatoes with olive oil, garlic, thyme, salt, and black pepper until they are evenly coated.",
+    "Transfer the tomato mixture to a baking dish and roast in the preheated oven for 30 minutes.",
+    "While the tomatoes are roasting, prepare the kinako topping by mixing the kinako with a small amount of water to form a smooth paste.",
+    "After the tomatoes have roasted for 30 minutes, remove them from the oven and let them cool slightly.",
+    "Stir the kinako paste into the roasted tomatoes and continue to let them cool to room temperature.",
+    "Once the tomatoes have cooled, garnish with grated carrot and chopped fresh parsley.",
+    "Serve the Quietly Sweet French Tomato Confit at room temperature, enjoying the gentle flavors and textures.",
+    "Consider serving with a side of whole grain bread or over a bed of mixed greens for a more filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "healthy",
+    "lunch",
+    "one-pan",
+    "sugar-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quietly-sweet-french-tomato-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-sweet-french-tomato-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:56Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "confit-tomato",
+    "primaryIngredient": "kinako",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tomato",
+    "descriptor": "Quietly Sweet",
+    "dishForm": "Confit"
+  }
+}
