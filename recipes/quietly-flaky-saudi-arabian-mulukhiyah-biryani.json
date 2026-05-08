@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Flaky Saudi Arabian Mulukhiyah Biryani",
+  "description": "A jammy, flaky, and cozy Saudi Arabian dish featuring mulukhiyah, shio-cure, and jain-friendly ingredients, perfect for a comforting meal. This recipe combines the unique flavors of mulukhiyah with the crunch of shio-cure.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the mulukhiyah leaves and cook until wilted, about 3 minutes.",
+    "Add the shio-cure and cook for 1 minute, stirring constantly.",
+    "Add the rinsed rice and stir to combine with the mulukhiyah mixture.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes.",
+    "Turn off the heat and let the biryani rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-flaky-saudi-arabian-mulukhiyah-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-flaky-saudi-arabian-mulukhiyah-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:40:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "shio-cure",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "quietly flaky",
+    "dishForm": "Biryani"
+  }
+}
