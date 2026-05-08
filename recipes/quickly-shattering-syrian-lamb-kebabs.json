@@ -1,0 +1,106 @@
+{
+  "title": "Quickly Shattering Syrian Lamb Kebabs",
+  "description": "A flexitarian-friendly Syrian dish featuring herbal flavors and a miso marinade, served in a terracotta dish with a side of Turkish delight.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, lemon juice, garlic, dried oregano, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a terracotta dish and bake for 15 minutes.",
+    "While the lamb is cooking, toast the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Remove the lamb from the oven and sprinkle with sumac.",
+    "Serve the lamb kebabs with toasted pita bread, Turkish delight, and a side of mixed greens.",
+    "Garnish with additional sumac and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "herbal",
+    "lamb-kebabs",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quickly-shattering-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-shattering-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:41:29Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "turkish delight",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quickly Shattering",
+    "dishForm": "Kebabs"
+  }
+}
