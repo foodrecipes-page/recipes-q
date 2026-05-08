@@ -1,0 +1,101 @@
+{
+  "title": "Quick Ethiopian Egg Wats",
+  "description": "A funky, chewy, raw-friendly Ethiopian dish featuring eggs, pasta, and spices. Serve with injera or rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions and set aside.",
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onions, chili peppers, and garlic to the pan and cook until the onions are translucent.",
+    "Add ginger, berbere spice, salt, and black pepper to the pan and cook for 1 minute.",
+    "Crack in eggs and scramble them until they are cooked through.",
+    "Add cooked pasta to the pan and stir in eggs and spices.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot with injera or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "quick-ethiopian-egg-wats",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-ethiopian-egg-wats",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:58Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "egg",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "egg",
+    "descriptor": "Quick",
+    "dishForm": "Wats"
+  }
+}

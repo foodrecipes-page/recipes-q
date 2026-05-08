@@ -1,0 +1,118 @@
+{
+  "title": "Quick-fix Flaky Ukrainian Herbal Wrap",
+  "description": "A delicious and easy Ukrainian dish featuring flaky pastry, caramelized sugar sauce, and infused oil, all wrapped in a ti-leaf wrap.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "infusion oil (optional)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the ti-leaf wraps to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the flour, cold butter, and sugar, and use a pastry blender to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Add the water, eggs, dill weed, and parsley to the bowl, and mix until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface, and knead it a few times until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces, and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle, about 1/8 inch thick.",
+    "Brush the tops of the dough circles with olive oil.",
+    "Place a tablespoon of sugar on each dough circle, leaving a 1-inch border around the edges.",
+    "Fold the dough in half over the sugar, and press the edges together to seal the wrap.",
+    "Brush the tops of the wraps with the infusion oil, if using.",
+    "Place the wraps on a baking sheet lined with parchment paper, and bake for 15-20 minutes, or until golden brown.",
+    "Serve the wraps warm, or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-sauce",
+    "high-carb",
+    "one-pan",
+    "snack",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "quick-fix-flaky-ukrainian-herbal-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-flaky-ukrainian-herbal-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:30:40Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "herbal",
+    "descriptor": "quick-fix flaky",
+    "dishForm": "Wrap"
+  }
+}

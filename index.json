@@ -2673,6 +2673,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-chinese-pork-sweet-and-sour-jjajangmyeon",
+    "title": "Quenched Smoky Chinese Pork Sweet and Sour Jjajangmyeon",
+    "tags": [
+      "cheesy",
+      "high-protein",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-smoky-egyptian-lentil-stew",
     "title": "Quenched Smoky Egyptian Lentil Stew",
     "tags": [
@@ -4418,6 +4432,19 @@
     "shard": "q"
   },
   {
+    "slug": "quick-ethiopian-egg-wats",
+    "title": "Quick Ethiopian Egg Wats",
+    "tags": [
+      "ethiopian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fatty-filipino-bok-choi-kaldereta",
     "title": "Quick Fatty Filipino Bok Choi Kaldereta",
     "tags": [
@@ -4722,6 +4749,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 5,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-flaky-ukrainian-herbal-wrap",
+    "title": "Quick-fix Flaky Ukrainian Herbal Wrap",
+    "tags": [
+      "breakfast",
+      "easy-sauce",
+      "high-carb",
+      "one-pan",
+      "snack",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

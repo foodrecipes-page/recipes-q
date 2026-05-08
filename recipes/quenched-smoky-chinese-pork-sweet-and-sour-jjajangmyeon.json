@@ -1,0 +1,110 @@
+{
+  "title": "Quenched Smoky Chinese Pork Sweet and Sour Jjajangmyeon",
+  "description": "A smoky, cheesy, brunch-inspired Chinese dish with ground coriander and lamination puff, suitable for a Whole30 diet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lamination Puff",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Ground Coriander",
+      "amount": "2 tablespoons",
+      "notes": "whole30 friendly spice blend"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": "optional for whole30, can be omitted"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "whole30 friendly alternative to traditional soy sauce"
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan over medium-high heat, cook the ground pork until browned, breaking it up with a spoon as it cooks.",
+    "Add the ground coriander, granulated sugar, apple cider vinegar, soy sauce, cayenne pepper, salt, and black pepper to the pan and stir to combine.",
+    "Add the lamination puff to the pan and stir-fry until crispy.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 20 minutes or until the top is golden brown and the cheese is melted and bubbly.",
+    "While the mixture is baking, cook the scallions in a pan with a little bit of oil until softened, then chop them finely and set aside.",
+    "Once the mixture is done baking, remove it from the oven and top it with the chopped scallions.",
+    "Return the dish to the oven and bake for an additional 2-3 minutes, until the scallions are slightly caramelized.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 38,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "quenched-smoky-chinese-pork-sweet-and-sour-jjajangmyeon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-chinese-pork-sweet-and-sour-jjajangmyeon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ground coriander",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Quenched Smoky",
+    "dishForm": "Sweet and Sour Jjajangmyeon"
+  }
+}
