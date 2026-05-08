@@ -1,0 +1,109 @@
+{
+  "title": "Quick Fried Crispy Middle-Eastern Meat Kibbeh Patties",
+  "description": "A crispy and flavorful kibbeh patty dish from the Middle East, made quickly with white bread mix, onions, and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 package",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "beef mince",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "butter",
+      "amount": "50g",
+      "notes": "melted"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a clay pot or a cast-iron skillet over medium heat.",
+    "Mix together the white bread mix, onion, beef mince, eggs, flour, paprika, salt, and pepper in a large bowl.",
+    "Add the melted butter to the bowl and mix until the mixture resembles coarse crumbs.",
+    "Using your hands, shape the mixture into small oval patties.",
+    "Dust the patties lightly with flour and place them in the preheated clay pot or cast-iron skillet.",
+    "Fry the patties for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Remove the patties from the clay pot or cast-iron skillet and place them on a paper towel-lined plate.",
+    "Drizzle the fried patties with olive oil and serve immediately.",
+    "Serve warm with your choice of salad or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 17
+  },
+  "slug": "quick-fried-crispy-middle-eastern-meat-kibbeh-patties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-crispy-middle-eastern-meat-kibbeh-patties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:57:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "white bread mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Meat",
+    "descriptor": "Quick Fried Crispy",
+    "dishForm": "Kibbeh Patties"
+  }
+}
