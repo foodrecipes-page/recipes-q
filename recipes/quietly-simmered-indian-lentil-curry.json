@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Simmered Indian Lentil Curry",
+  "description": "A fermented and tender Indian dish featuring white wine vinegar and nuka-pickle, perfect for a brunch mood. This gluten-free-friendly curry is made with a variety of spices and ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the curry powder and turmeric and cook for 1 minute.",
+    "Add the red lentils, chopped nuka-pickle, white wine vinegar, salt, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir the curry occasionally as it simmers.",
+    "After 30 minutes, remove the pot from the heat and let it cool slightly.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "fermented-foods",
+    "gluten-free",
+    "indian-cuisine",
+    "lentil-recipes",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-simmered-indian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-indian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:43:47Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quietly simmered",
+    "dishForm": "Curry"
+  }
+}
