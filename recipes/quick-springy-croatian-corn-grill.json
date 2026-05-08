@@ -1,0 +1,99 @@
+{
+  "title": "Quick Springy Croatian Corn Grill",
+  "description": "A flavorful and nutritious dish from Croatia, perfect for a quick meal. This recipe combines the crunch of spring corn with the nutty taste of poppy seeds.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spring corn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare a mortar and pestle to pound the garlic cloves until smooth.",
+    "In a large bowl, combine the minced garlic, salt, and pepper.",
+    "Add the spring corn to the bowl and toss to coat with the garlic mixture.",
+    "Heat the coconut oil in a grill pan or outdoor grill over medium heat.",
+    "Add the corn mixture to the grill pan and cook for 4-5 minutes per side, or until slightly charred.",
+    "Transfer the corn to a serving platter and sprinkle with poppy seeds.",
+    "Drizzle the lemon juice over the corn and garnish with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-springy-croatian-corn-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-springy-croatian-corn-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:12:59Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "poppy seeds",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "corn",
+    "descriptor": "Quick Springy",
+    "dishForm": "Grill"
+  }
+}
