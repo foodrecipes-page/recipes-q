@@ -1,0 +1,81 @@
+{
+  "title": "Quick Japanese Red Bean Dorayaki",
+  "description": "A salty and bouncy Japanese dish featuring chilli bean paste, served in a dorayaki form, cooked on an iron teppan.",
+  "cuisine": "Japanese",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "Japanese style"
+    },
+    {
+      "name": "chilli bean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour and salt.",
+    "Gradually add in the water and mix until a smooth batter forms.",
+    "Heat the iron teppan over medium heat and brush with vegetable oil.",
+    "Using a ladle, drop small amounts of the batter onto the teppan and cook for 2 minutes.",
+    "Spread a small amount of red bean paste and chilli bean paste on one half of the dorayaki.",
+    "Fold the other half of the dorayaki over the filling to form a half moon shape.",
+    "Cook for an additional 2 minutes and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-cooking",
+    "japanese-snack",
+    "one-pan",
+    "quick-snack",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quick-japanese-red-bean-dorayaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-japanese-red-bean-dorayaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:20:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "satvik",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "red bean",
+    "descriptor": "Quick Bouncy",
+    "dishForm": "Dorayaki"
+  }
+}

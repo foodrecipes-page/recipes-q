@@ -5606,6 +5606,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-japanese-red-bean-dorayaki",
+    "title": "Quick Japanese Red Bean Dorayaki",
+    "tags": [
+      "easy-cooking",
+      "japanese-snack",
+      "one-pan",
+      "quick-snack",
+      "satvik-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-japanese-tofu-agedashi",
     "title": "Quick Japanese Tofu Agedashi",
     "tags": [
