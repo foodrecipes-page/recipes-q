@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Rich Indian Cocoa Idli",
+  "description": "A rich and velvety Indian dish featuring cocoa, this crowd-pleaser is a perfect treat for any occasion, and is also FODMAP-friendly. It is made with a special salt-bake method to give it a unique flavor.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "idli rice",
+      "amount": "2 cups",
+      "notes": "available at Indian grocery stores"
+    },
+    {
+      "name": "urad dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fenugreek seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the idli rice and urad dal in water for at least 4 hours.",
+    "Grind the soaked rice and dal into a smooth batter using a blender or food processor.",
+    "In a separate bowl, mix together the cocoa powder, salt, and sugar.",
+    "Add the dry mixture to the batter and stir well.",
+    "Add the coconut milk and ghee or oil to the batter and mix until smooth.",
+    "If using fenugreek seeds, add them to the batter and stir well.",
+    "Pour the batter into idli molds and steam for 15-20 minutes.",
+    "Remove the idlis from the molds and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cocoa-based",
+    "fodmap-friendly",
+    "gluten-free",
+    "indian-breakfast",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quietly-rich-indian-cocoa-idli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-indian-cocoa-idli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:56:01Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "salt-bake",
+    "primaryIngredient": "cocoa",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "cocoa",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Idli"
+  }
+}
