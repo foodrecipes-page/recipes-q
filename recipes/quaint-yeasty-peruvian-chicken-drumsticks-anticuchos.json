@@ -1,0 +1,99 @@
+{
+  "title": "Quaint Yeasty Peruvian Chicken Drumsticks Anticuchos",
+  "description": "A high-protein Peruvian dish featuring yeasty cheese-pull chicken drumsticks, served in an anticuchos form, perfect for a cozy dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "12",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet",
+      "notes": "2 1/4 teaspoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "peruvian aji amarillo pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine yeast, mozzarella cheese, aji amarillo pepper paste, garlic, olive oil, salt, black pepper, and paprika.",
+    "Add the chicken drumsticks to the bowl and toss to coat evenly with the yeast and cheese mixture.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray, then arrange the chicken drumsticks on the baking sheet.",
+    "Bake the chicken drumsticks in the preheated oven for 25 minutes.",
+    "Remove the chicken from the oven and let it rest for 5 minutes.",
+    "Serve the chicken drumsticks hot, garnished with chopped fresh cilantro if desired.",
+    "Traditionally, anticuchos are grilled, so if desired, grill the chicken drumsticks over medium-high heat for 5-7 minutes per side instead of baking."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "cozy-dinner",
+    "grill-or-bake",
+    "high-protein",
+    "peruvian-cuisine",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 24
+  },
+  "slug": "quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken drumsticks",
+    "descriptor": "Quaint yeasty",
+    "dishForm": "Anticuchos"
+  }
+}
