@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Roasted Ethiopian Boudin Blanc Roast",
+  "description": "A comforting and flavorful lacto-vegetarian dish featuring boudin blanc, perfect for a sick day, with a yeasty and crisp texture, inspired by Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "injera bread",
+      "amount": "4 pieces",
+      "notes": "torn into pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the berbere spice, salt, black pepper, and yeast.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and mix well.",
+    "Add the boudin blanc to the bowl and mix until just combined.",
+    "Transfer the mixture to a large Dutch oven or heavy pot with a lid.",
+    "Drizzle the vegetable oil over the top of the mixture.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Roast for 30 minutes, then remove the lid and continue roasting for an additional 10 minutes.",
+    "Remove the pot from the oven and stir in the torn injera bread.",
+    "Serve hot, garnished with additional injera bread if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pot",
+    "roasted",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-roasted-ethiopian-boudin-blanc-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-roasted-ethiopian-boudin-blanc-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:48:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "roast",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "boudin blanc",
+    "descriptor": "Quietly roasted",
+    "dishForm": "Roast"
+  }
+}
