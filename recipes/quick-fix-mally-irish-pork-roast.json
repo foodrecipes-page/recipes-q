@@ -1,0 +1,115 @@
+{
+  "title": "Quick-Fix Mally Irish Pork Roast",
+  "description": "Malty, juicy, and quickly cooked, this Irish-inspired dish features a flavorful pork shoulder roast, keto-friendly and perfect for a weeknight dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder roast",
+      "amount": "1.5 pounds",
+      "notes": "about 1.5-2 inches thick"
+    },
+    {
+      "name": "Irish stout beer",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Malted brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 tablespoons chopped",
+      "notes": null
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 tablespoons chopped",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Dust the pork shoulder roast with flour, shaking off excess.",
+    "In a large Dutch oven, heat 2 tablespoons of butter over medium-high heat. Sear the pork roast on all sides until browned, about 2-3 minutes per side. Remove the roast from the pot and set aside.",
+    "Add the remaining 2 tablespoons of butter to the pot, then add the garlic powder, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the Irish stout beer to the pot, scraping up any browned bits from the bottom. Bring the beer to a simmer and cook until slightly reduced, about 2 minutes.",
+    "Return the pork roast to the pot and sprinkle with malted brown sugar. Add the chopped rosemary and thyme on top of the roast.",
+    "Transfer the pot to the preheated oven and roast for 20 minutes per pound, or until the internal temperature reaches 145°F (63°C).",
+    "Remove the pot from the oven and let the roast rest for 10-15 minutes before slicing.",
+    "If desired, serve with a dollop of heavy cream on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "irish",
+    "keto",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 40
+  },
+  "slug": "quick-fix-mally-irish-pork-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-mally-irish-pork-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:28Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "roast",
+    "primaryIngredient": "pork shoulder",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Pork",
+    "descriptor": "Quick-Fix Mally",
+    "dishForm": "Roast"
+  }
+}
