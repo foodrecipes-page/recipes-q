@@ -1,0 +1,105 @@
+{
+  "title": "Quick Jamaican Pasta",
+  "description": "A winey and crunchy quick-fix Jamaican dish featuring bowtie pasta, made with coconut cream and Whole30-friendly ingredients, served in a tagliere vessel.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bowtie pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the bowtie pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced red onion and red bell pepper to the skillet and cook until they start to soften.",
+    "Add the jerk seasoning, salt, and black pepper to the skillet and stir to combine.",
+    "Add the dry white wine to the skillet and cook until the liquid has almost completely evaporated.",
+    "Stir in the coconut cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer while the pasta finishes cooking.",
+    "Drain the cooked pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until it is well coated.",
+    "Transfer the pasta to a tagliere vessel and top with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pan",
+    "quick-fix",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-jamaican-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jamaican-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:54:07Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pasta",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Pasta"
+  }
+}

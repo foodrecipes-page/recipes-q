@@ -5764,6 +5764,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-jamaican-pasta",
+    "title": "Quick Jamaican Pasta",
+    "tags": [
+      "gluten-free",
+      "jamaican-cuisine",
+      "one-pan",
+      "quick-fix",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quick-jammy-filipino-ciabatta-toast",
     "title": "Quick Jammy Filipino Ciabatta Toast",
     "tags": [
