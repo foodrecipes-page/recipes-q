@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Chewy Ukrainian Peanut Stew",
+  "description": "A rich and chewy Ukrainian dish featuring peanuts, perfect for curing hangovers, made in a traditional ttukbaegi earthenware cook and served on a bamboo tray, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw, unsalted"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low sugar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the ttukbaegi earthenware cook over medium heat.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "Add the chopped carrots and potatoes, cook for 5 minutes, stirring occasionally.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the vegetable broth, peanuts, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the stew has thickened and the vegetables are tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs, on a bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "one-pot",
+    "peanut-based",
+    "ukrainian-cuisine",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quenched-chewy-ukrainian-peanut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-chewy-ukrainian-peanut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:42:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "hangover-cure",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "peanuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "peanuts",
+    "descriptor": "quenched chewy",
+    "dishForm": "Stew"
+  }
+}

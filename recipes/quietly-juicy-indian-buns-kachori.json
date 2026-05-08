@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Juicy Indian Buns Kachori",
+  "description": "A sweet and cozy Indian dish featuring buns filled with a juicy mixture, made with a mortar and pestle and FODMAP-friendly ingredients. This kachori is perfect for a snack or dessert.",
+  "cuisine": "Indian",
+  "diet": [
+    "FODMAP-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a low FODMAP flour blend if necessary"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, ghee or oil, and salt, and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "In a mortar and pestle, pound the dates, almonds, and cardamom powder until well combined.",
+    "Add the sugar and water to the mortar and pestle and mix until a juicy mixture forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of the juicy mixture in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the kachori.",
+    "Heat the ghee or oil in a deep frying pan over medium heat and fry the kachori until golden brown.",
+    "Drain the kachori on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "date-based",
+    "fodmap-friendly",
+    "indian-snacks",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "quietly-juicy-indian-buns-kachori",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-juicy-indian-buns-kachori",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:41:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "buns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "buns",
+    "descriptor": "Quietly Juicy",
+    "dishForm": "Kachori"
+  }
+}

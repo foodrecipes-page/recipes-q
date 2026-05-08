@@ -811,6 +811,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-chewy-ukrainian-peanut-stew",
+    "title": "Quenched Chewy Ukrainian Peanut Stew",
+    "tags": [
+      "comfort-food",
+      "hangover-cure",
+      "one-pot",
+      "peanut-based",
+      "ukrainian-cuisine",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-chinese-tofu-stew",
     "title": "Quenched Chinese Tofu Stew",
     "tags": [
@@ -6859,6 +6874,20 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-juicy-indian-buns-kachori",
+    "title": "Quietly Juicy Indian Buns Kachori",
+    "tags": [
+      "almond-based",
+      "date-based",
+      "fodmap-friendly",
+      "indian-snacks",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-malty-uruguayan-beef-stew",
     "title": "Quietly Malty Uruguayan Beef Stew",
     "tags": [
@@ -7396,6 +7425,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-slovakian-pork-skewers",
+    "title": "Quirky Slovakian Pork Skewers",
+    "tags": [
+      "eastern-european",
+      "grilled-meat",
+      "herby-flavors",
+      "low-fat",
+      "pork-recipes"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
