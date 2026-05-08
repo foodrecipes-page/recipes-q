@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Velvety Irish Mozzarella Tagine",
+  "description": "A kid-friendly Irish dish featuring mozzarella balls cooked in a tagine with floral and velvety flavors, following ayurvedic-sattvic principles.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mozzarella balls",
+      "amount": "12 ounces",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped onion, garlic, carrots, and potatoes with olive oil, salt, and pepper until they are evenly coated.",
+    "Transfer the vegetable mixture to a tagine or a large Dutch oven.",
+    "Add the chicken broth, dried thyme, and mozzarella balls to the tagine.",
+    "Cover the tagine with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the vegetables are tender and the mozzarella is melted and creamy.",
+    "Remove the tagine from the oven and let it cool for a few minutes before serving.",
+    "Serve the Quietly Velvety Irish Mozzarella Tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "irish",
+    "kid-friendly",
+    "mozzarella",
+    "one-pot",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-velvety-irish-mozzarella-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-velvety-irish-mozzarella-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:56:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Quietly Velvety",
+    "dishForm": "Tagine"
+  }
+}
