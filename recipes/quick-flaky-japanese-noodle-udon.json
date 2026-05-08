@@ -1,0 +1,93 @@
+{
+  "title": "Quick Flaky Japanese Noodle Udon",
+  "description": "A light and fatty Japanese dish featuring udon noodles, hotsauce, and nuka-pickle, this recipe is jain-friendly and perfect for a quick lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "hotsauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to the package instructions.",
+    "In a small bowl, whisk together the hotsauce, soy sauce, and rice vinegar.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the chopped nuka-pickle to the skillet and cook for 2 minutes.",
+    "Add the cooked udon noodles to the skillet and toss with the nuka-pickle mixture.",
+    "Pour the hotsauce mixture over the noodles and toss to combine.",
+    "Transfer the noodles to a serving dish and garnish with thinly sliced scallions and toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "flaky-noodles",
+    "jain-friendly",
+    "japanese-cuisine",
+    "noodle-dish",
+    "quick-lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-flaky-japanese-noodle-udon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-flaky-japanese-noodle-udon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:16:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "hotsauce",
+    "diet": "jain",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "quick flaky",
+    "dishForm": "Udon"
+  }
+}

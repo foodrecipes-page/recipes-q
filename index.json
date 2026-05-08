@@ -5348,6 +5348,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-flaky-japanese-noodle-udon",
+    "title": "Quick Flaky Japanese Noodle Udon",
+    "tags": [
+      "flaky-noodles",
+      "jain-friendly",
+      "japanese-cuisine",
+      "noodle-dish",
+      "quick-lunch",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
     "slug": "quick-flaky-turkish-chuck-roast-pilaf",
     "title": "Quick Flaky Turkish Chuck Roast Pilaf",
     "tags": [
