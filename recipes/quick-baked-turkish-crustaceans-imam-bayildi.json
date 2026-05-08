@@ -1,0 +1,119 @@
+{
+  "title": "Quick Baked Turkish Crustaceans Imam Bayildi",
+  "description": "A low-carb-friendly twist on the classic Turkish dish, featuring succulent crustaceans and a crumbly, bitter flavor profile. Perfect for a romantic dinner or a weeknight meal.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Crab meat",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Lamb's liver",
+      "amount": "1/2 pound",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large cast-iron skillet, heat the olive oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chopped lamb's liver and cook until browned, about 3-4 minutes.",
+    "Add the crab meat and shrimp, and cook until the crustaceans are pink and heated through.",
+    "In a small bowl, whisk together the crumbled feta cheese, egg yolks, paprika, salt, and black pepper.",
+    "Pour the feta mixture over the crustaceans and onions, and stir to combine.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the top is golden brown and the filling is heated through.",
+    "Remove from the oven and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 52,
+    "carbs": 6,
+    "fat": 25
+  },
+  "slug": "quick-baked-turkish-crustaceans-imam-bayildi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-baked-turkish-crustaceans-imam-bayildi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "crustaceans",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Crustaceans",
+    "descriptor": "Quick Baked",
+    "dishForm": "Imam Bayildi"
+  }
+}

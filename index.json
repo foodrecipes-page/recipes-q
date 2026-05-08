@@ -229,6 +229,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-crumbly-korean-rice-tteok",
+    "title": "Quaint Crumbly Korean Rice Tteok",
+    "tags": [
+      "bhuna-spice",
+      "gluten-free",
+      "korean-cuisine",
+      "low-fodmap",
+      "romantic-dinner",
+      "sesame-sauce"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-crunchy-slovakian-noodle-bowl",
     "title": "Quaint Crunchy Slovakian Noodle Bowl",
     "tags": [
@@ -3352,6 +3367,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-baked-turkish-crustaceans-imam-bayildi",
+    "title": "Quick Baked Turkish Crustaceans Imam Bayildi",
+    "tags": [
+      "low-carb",
+      "one-pan",
+      "romantic",
+      "seafood",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-bitter-peruvian-peaches-arroz-con-pato",
     "title": "Quick Bitter Peruvian Peaches Arroz Con Pato",
     "tags": [
@@ -5285,6 +5315,20 @@
       "quick-fix",
       "snack",
       "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-vietnamese-ham-bun",
+    "title": "Quick-fix Vietnamese Ham Bun",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "quick-fix",
+      "vietnamese",
+      "weeknight"
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 25,

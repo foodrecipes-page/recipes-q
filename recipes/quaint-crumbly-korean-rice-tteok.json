@@ -1,0 +1,93 @@
+{
+  "title": "Quaint Crumbly Korean Rice Tteok",
+  "description": "A traditional Korean dish featuring crumbly rice tteok served with a mustardy Chinese sesame sauce and bhuna, perfect for a romantic evening.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustard paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block vessel to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the Korean rice flour and salt.",
+    "Gradually add in the water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small pieces and shape into tteok forms.",
+    "Place the tteok on the preheated salt block and cook for 10 minutes on each side.",
+    "While the tteok is cooking, mix the Chinese sesame sauce, bhuna spice mix, and mustard paste in a small bowl.",
+    "Brush the cooked tteok with the sesame oil and serve with the sesame sauce mixture and chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-spice",
+    "gluten-free",
+    "korean-cuisine",
+    "low-fodmap",
+    "romantic-dinner",
+    "sesame-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "quaint-crumbly-korean-rice-tteok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crumbly-korean-rice-tteok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:25:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "bhuna",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Quaint Crumbly",
+    "dishForm": "Tteok"
+  }
+}

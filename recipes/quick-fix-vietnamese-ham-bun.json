@@ -1,0 +1,99 @@
+{
+  "title": "Quick-fix Vietnamese Ham Bun",
+  "description": "A funky and pillowy Vietnamese dish featuring Parma ham, perfect for a quick-fix meal.",
+  "cuisine": "vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parma ham",
+      "amount": "200g"
+    },
+    {
+      "name": "Rice stick noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pork crackling (optional)",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": "handful"
+    },
+    {
+      "name": "Vietnamese chillies (optional)",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Cook rice stick noodles according to the package instructions.",
+    "Drain and set aside.",
+    "Heat 1 tsp of sesame oil in a pan over medium heat.",
+    "Add grated ginger and cook for 1 minute.",
+    "If using fish sauce and/or pork crackling, add and cook for a further minute.",
+    "In a separate pan, combine hoisin sauce, rice vinegar, and 1 tbsp of water.",
+    "Bring the mixture to a simmer and cook for 2 minutes.",
+    "To assemble the bun, place a portion of noodles into a bowl.",
+    "Add a few slices of Parma ham on top of the noodles.",
+    "Pour the sauce mixture over the ham.",
+    "If desired, garnish with fresh herbs and Vietnamese chillies."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "quick-fix-vietnamese-ham-bun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-vietnamese-ham-bun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "parma ham",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "ham",
+    "descriptor": "Quick-fix",
+    "dishForm": "Bun"
+  }
+}
