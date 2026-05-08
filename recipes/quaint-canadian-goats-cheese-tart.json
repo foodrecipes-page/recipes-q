@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Canadian Goats Cheese Tart",
+  "description": "A festive Canadian dish featuring goats cheese in a flaky crust, perfect for the holiday season, this recipe is also macrobiotic-friendly and showcases a delightful balance of nutty and creamy flavors.",
+  "cuisine": "Canadian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "whole wheat pastry flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, whisk together the flour and salt.",
+    "Add the cold butter to the flour mixture and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add the ice water to the flour mixture, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out into a circle that is about 1/8 inch thick.",
+    "Transfer the dough to a 9 inch tart pan with a removable bottom.",
+    "In a small bowl, mix together the goats cheese, egg, black pepper, and thyme.",
+    "Spread the cheese mixture evenly over the bottom of the tart crust.",
+    "Fold the edges of the crust up over the filling, pressing gently to seal.",
+    "Brush the crust with a little bit of water and cut a few slits in the top to allow steam to escape."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "goats-cheese",
+    "holiday-recipe",
+    "macrobiotic",
+    "special-occasion",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "quaint-canadian-goats-cheese-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-canadian-goats-cheese-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:11Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "en-croute",
+    "primaryIngredient": "goats cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Quaint creamy",
+    "dishForm": "Tart"
+  }
+}
