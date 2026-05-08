@@ -1,0 +1,104 @@
+{
+  "title": "Quietly Adventurous Vietnamese Chicken Ca Kho To",
+  "description": "This dish features tender chicken cooked in a flavorful panang curry paste sauce, served in a cataplana vessel and made with a lamination puff crust, making it a unique and adventurous Vietnamese meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry on a lightly floured surface to a large rectangle.",
+    "In a large bowl, whisk together the panang curry paste, coconut milk, fish sauce, and palm sugar.",
+    "Add the chicken thighs to the bowl and toss to coat with the curry sauce.",
+    "Place the chicken thighs in the center of the pastry rectangle, leaving a 1 inch border around the chicken.",
+    "Brush the edges of the pastry with the vegetable oil.",
+    "Fold the pastry over the chicken, pressing the edges to seal.",
+    "Place the cataplana vessel over the pastry and bake for 35 minutes.",
+    "Remove the cataplana vessel and sprinkle the chopped scallions over the top of the pastry.",
+    "Return the dish to the oven and bake for an additional 10 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipe",
+    "curry-based",
+    "gluten-free-recipe",
+    "low-fodmap-recipe",
+    "pastry-dish",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "quietly-adventurous-vietnamese-chicken-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-adventurous-vietnamese-chicken-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:47:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "panang curry paste",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Adventurous",
+    "dishForm": "Ca Kho To"
+  }
+}
