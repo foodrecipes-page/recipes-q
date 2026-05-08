@@ -1,0 +1,98 @@
+{
+  "title": "Quaint Spanish Tomatoes Pa Amb Tomaquet",
+  "description": "A spicy and crumbly Catalan dish featuring chimichurri sauce, served in a traditional stone bowl, perfect for a romantic evening",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe tomatoes",
+      "amount": "4 large",
+      "notes": "diced"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "1 loaf",
+      "notes": "day old"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "hard boiled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal or stone bowl over medium heat",
+    "Add the diced tomatoes and cook until they start to break down and release their juices",
+    "Add the chimichurri sauce, garlic, and red pepper flakes, stirring to combine",
+    "Reduce heat to low and simmer the mixture for 10 minutes, stirring occasionally",
+    "Brush the crusty bread with olive oil and toast until crispy",
+    "Rub the toasted bread with garlic and sprinkle with salt",
+    "To assemble the dish, place the toasted bread in the bottom of the stone bowl",
+    "Spoon the tomato and chimichurri mixture over the bread",
+    "Top with sliced hard boiled eggs and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chimichurri-sauce",
+    "romantic-dinner",
+    "spanish-cuisine",
+    "stone-bowl-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "quaint-spanish-tomatoes-pa-amb-tomaquet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-spanish-tomatoes-pa-amb-tomaquet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:08:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "ovo-vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quaint Crumbly",
+    "dishForm": "Pa Amb Tomaquet"
+  }
+}
