@@ -1,0 +1,98 @@
+{
+  "title": "Quick Sweet Turkish Split Peas Revani",
+  "description": "A sweet and shattering Turkish dessert featuring split peas, beurre-monte, and a crumbly revani texture, friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "green or yellow, soaked overnight and drained"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Mix the flour, sugar, and soaked split peas in a large bowl.",
+    "Add the beurre-monte, rose water, lemon zest, eggs, and melted butter to the bowl and mix until a smooth batter forms.",
+    "Pour the batter into a greased 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool completely.",
+    "Cut into diamond shaped pieces and garnish with chopped pistachios if desired.",
+    "Serve at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "beurre-monte-uses",
+    "buddhist-friendly",
+    "easy-desserts",
+    "quick-fix",
+    "shattering-texture",
+    "split-pea-recipes",
+    "turkish-delicacies"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quick-sweet-turkish-split-peas-revani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sweet-turkish-split-peas-revani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:09:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "split peas",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "split peas",
+    "descriptor": "Quick Sweet",
+    "dishForm": "Revani"
+  }
+}
