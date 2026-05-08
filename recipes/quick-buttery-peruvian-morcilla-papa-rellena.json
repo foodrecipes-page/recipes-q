@@ -1,0 +1,92 @@
+{
+  "title": "Quick Buttery Peruvian Morcilla Papa Rellena",
+  "description": "A buttery and creamy Peruvian dish featuring morcilla, with a rich deglaze fond, made into a papa rellena form, Whole30 friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "Whole30",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Peruvian blood sausage"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Boil the potatoes until they are tender, then let them cool.",
+    "Slice the potatoes in half and scoop out the flesh to make a hole for the filling.",
+    "Cook the morcilla in a pan over medium heat, breaking it up with a spoon as it cooks.",
+    "Add the butter, onions, and garlic to the pan and cook until the onions are translucent.",
+    "Add the cooked morcilla mixture to the potato flesh and mix well.",
+    "Stuff each potato shell with the morcilla mixture and place on a baking sheet.",
+    "Sprinkle the tops with paprika and bake for 20 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "peruvian-food",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "quick-buttery-peruvian-morcilla-papa-rellena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-buttery-peruvian-morcilla-papa-rellena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:20:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "morcilla",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "morcilla",
+    "descriptor": "Quick Buttery",
+    "dishForm": "Papa Rellena"
+  }
+}
