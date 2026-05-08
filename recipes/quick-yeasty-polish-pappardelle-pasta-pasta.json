@@ -1,0 +1,98 @@
+{
+  "title": "Quick Yeasty Polish Pappardelle Pasta",
+  "description": "A yeasty and flaky Polish dish featuring pappardelle pasta, perfect for a weeknight dinner, pescatarian-friendly with tempering chocolate addition.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a small bowl, mix the active dry yeast with 1 tablespoon of warm water and let it sit for 5 minutes.",
+    "In a large skillet, melt the unsalted butter over medium heat and add the smoked salmon, cooking until heated through.",
+    "Add the heavy cream to the skillet and stir to combine, then add the yeast mixture and cook for an additional 2 minutes.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Temper the chocolate by stirring in 1 tablespoon of cold heavy cream, then set aside.",
+    "Drain the cooked pappardelle pasta and add it to the skillet with the salmon and cream sauce, tossing to combine.",
+    "Season with dried dill weed, salt, and black pepper to taste.",
+    "Serve the pappardelle pasta hot, topped with the tempered dark chocolate and additional smoked salmon if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "flaky",
+    "one-pan",
+    "pescatarian",
+    "polish",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quick-yeasty-polish-pappardelle-pasta-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-yeasty-polish-pappardelle-pasta-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:13:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "Quick Yeasty",
+    "dishForm": "Pasta"
+  }
+}
