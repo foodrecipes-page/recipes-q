@@ -1,0 +1,104 @@
+{
+  "title": "Quenched Peppery Norwegian Silken Tofu Kjøttkaker Gratin",
+  "description": "A show-stopping Norwegian dish featuring a creamy silken tofu and yuzu-cure filled Kjøttkaker topped with a golden-brown gratin.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 block silken tofu",
+      "amount": "14 oz",
+      "notes": "Drained and pressed"
+    },
+    {
+      "name": "1/4 cup yuzu-cure",
+      "amount": "",
+      "notes": "Available at most Asian markets or online"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup grated carrot",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cabbage",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated zucchini",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated cheddar cheese",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Press the silken tofu in a colander for 15 minutes to remove excess liquid.",
+    "In a pan, heat the olive oil over medium heat and cook the onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the grated carrot, cabbage, and zucchini, and cook until the vegetables are softened.",
+    "Add the yuzu-cure, season with salt and pepper to taste, and stir to combine.",
+    "Cut the pressed tofu into small cubes and add it to the pan, stirring to combine.",
+    "Transfer the mixture to a baking dish and top with the grated cheddar cheese.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gratin",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "silken-tofu",
+    "weeknight",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quenched-peppery-norwegian-silken-tofu-kjottkaker-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peppery-norwegian-silken-tofu-kjottkaker-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:47:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "silken tofu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "silken tofu",
+    "descriptor": "Quenched peppery",
+    "dishForm": "Kjøttkaker Gratin"
+  }
+}
