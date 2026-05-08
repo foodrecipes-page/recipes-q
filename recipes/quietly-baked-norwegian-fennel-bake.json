@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Baked Norwegian Fennel Bake",
+  "description": "A traditional Norwegian dish featuring fennel bulb, this bake is perfect for a midnight craving, with its funky and velvety texture, and is satvik-friendly. It is wood-fired-baked to perfection.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine chopped fennel, olive oil, onion, garlic, potato, carrot, salt, black pepper, and nutmeg, and mix well.",
+    "Transfer the mixture to a baking dish and pour in the vegetable broth.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the vegetables are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes.",
+    "Serve the Quietly Baked Norwegian Fennel Bake hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "funky-texture",
+    "midnight-craving",
+    "norwegian-cuisine",
+    "satvik-friendly",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quietly-baked-norwegian-fennel-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-norwegian-fennel-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:06:17Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "fennel bulb",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fennel",
+    "descriptor": "Quietly baked",
+    "dishForm": "Bake"
+  }
+}

@@ -3752,6 +3752,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-kicked-uruguayan-galangal-grill",
+    "title": "Quick Fix Kicked Uruguayan Galangal Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "mason-jar",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-korean-chicken-bowl",
     "title": "Quick-Fix Korean Chicken Bowl",
     "tags": [
@@ -6734,6 +6748,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-baked-norwegian-fennel-bake",
+    "title": "Quietly Baked Norwegian Fennel Bake",
+    "tags": [
+      "funky-texture",
+      "midnight-craving",
+      "norwegian-cuisine",
+      "satvik-friendly",
+      "vegetarian",
+      "wood-fired"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {

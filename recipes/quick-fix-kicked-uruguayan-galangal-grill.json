@@ -1,0 +1,93 @@
+{
+  "title": "Quick Fix Kicked Uruguayan Galangal Grill",
+  "description": "A spicy, pillowy Uruguayan dish made with grilled galangal, beef and vegetables, served in a mason jar.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Galangal",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Flank Steak",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Chili Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mason Jar",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Grill the galangal over medium heat for 2 minutes per side, or until slightly charred.",
+    "Grill the flank steak over medium-high heat for 5-6 minutes per side, or until cooked to your liking.",
+    "Slice the steak into thin strips and set aside.",
+    "Add the chili peppers to the grill and cook for 1-2 minutes per side, or until slightly softened.",
+    "Add the cumin, paprika, salt, and black pepper to the grill and cook for 1 minute.",
+    "Combine the grilled galangal, steak, chili peppers, and spices in a large bowl.",
+    "Spoon the mixture into the mason jar and serve immediately.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "mason-jar",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "quick-fix-kicked-uruguayan-galangal-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-kicked-uruguayan-galangal-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:05:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "galangal-kha",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "galangal",
+    "descriptor": "Quick Fix Kicked",
+    "dishForm": "Grill"
+  }
+}
