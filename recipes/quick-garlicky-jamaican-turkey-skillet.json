@@ -1,0 +1,105 @@
+{
+  "title": "Quick Garlicky Jamaican Turkey Skillet",
+  "description": "A flavorful and quick Jamaican dish featuring turkey, garlic, and a blend of spices, cooked to perfection in a molcajete, with a deglazing step that adds a rich and savory element to the dish, making it a great option for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless turkey breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large molcajete over medium-high heat.",
+    "Add the turkey to the molcajete and cook until browned, about 5 minutes.",
+    "Add the garlic, scotch bonnet peppers, allspice, and thyme to the molcajete and cook for 1 minute.",
+    "Add the chicken broth to the molcajete and bring to a boil, scraping up any browned bits from the bottom.",
+    "Reduce the heat to medium-low and simmer, covered, until the turkey is cooked through, about 10 minutes.",
+    "Season the turkey with salt and black pepper to taste.",
+    "Stir in the chopped scallions and serve hot.",
+    "Deglaze the molcajete with a little bit of chicken broth if necessary, to loosen any browned bits."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "jamaican-cuisine",
+    "low-carb",
+    "one-pan",
+    "quick-fix",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-garlicky-jamaican-turkey-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-garlicky-jamaican-turkey-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:52:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "turkey",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "turkey",
+    "descriptor": "quick garlicky",
+    "dishForm": "Skillet"
+  }
+}
