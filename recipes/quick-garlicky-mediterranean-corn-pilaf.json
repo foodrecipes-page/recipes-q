@@ -1,0 +1,90 @@
+{
+  "title": "Quick Garlicky Mediterranean Corn Pilaf",
+  "description": "A flavorful and healthy one-pot dish featuring cornmeal and Mediterranean spices, perfect for a weeknight dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup",
+      "notes": "stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "candy corn",
+      "amount": "1/4 cup",
+      "notes": "low-sodium alternative to traditional candy"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat",
+    "Add the garlic and cook for 1 minute, until fragrant",
+    "Add the cornmeal and cook for 2 minutes, stirring constantly",
+    "Add the water, dried oregano, and salt-free seasoning blend, and bring to a boil",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, until the liquid is absorbed",
+    "Stir in the candy corn and cook for an additional 2 minutes",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-based",
+    "garlic-lovers",
+    "low-sodium",
+    "mediterranean",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "quick-garlicky-mediterranean-corn-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-garlicky-mediterranean-corn-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:43Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "candy",
+    "primaryIngredient": "cornmeal",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "corn",
+    "descriptor": "Quick garlicky",
+    "dishForm": "Pilaf"
+  }
+}
