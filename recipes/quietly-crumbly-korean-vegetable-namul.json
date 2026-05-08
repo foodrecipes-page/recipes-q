@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Crumbly Korean Vegetable Namul",
+  "description": "A crumbly and grassy Korean dish featuring blackcurrant jam, deep-fry-tod, and keto-friendly ingredients, perfect for a brunch mood. This namul dish is inspired by the flavors of Busan.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "grated"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated zucchini and carrots.",
+    "In a small bowl, whisk together blackcurrant jam, sesame oil, and soy sauce.",
+    "Add the jam mixture to the bowl with the zucchini and carrots, and stir until well combined.",
+    "Stir in crushed deep-fry-tod, minced garlic, and chopped green onions.",
+    "Heat a non-stick pan over medium heat and add the namul mixture.",
+    "Cook for 5 minutes, stirring frequently, until the mixture is lightly toasted and crumbly.",
+    "Remove from heat and let cool to room temperature.",
+    "Serve the namul at room temperature, garnished with additional chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "crunchy-snacks",
+    "keto-friendly",
+    "korean-cuisine",
+    "low-carb",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "quietly-crumbly-korean-vegetable-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crumbly-korean-vegetable-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:05:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "keto",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quietly Crumbly",
+    "dishForm": "Namul"
+  }
+}
