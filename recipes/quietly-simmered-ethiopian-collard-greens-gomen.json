@@ -1,0 +1,106 @@
+{
+  "title": "Quietly Simmered Ethiopian Collard Greens Gomen",
+  "description": "A traditional Ethiopian dish featuring pre-fried teque os and yakimono-grill, made with ayurvedic-sattvic-friendly ingredients, served in a ceramic tagine, this gomen is a perfect lazy-sunday meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "teque os",
+      "amount": "1/2 cup",
+      "notes": "pre-fried"
+    },
+    {
+      "name": "yakimono-grill sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a ceramic tagine over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the chopped collard greens and saute until they start to wilt.",
+    "Add the pre-fried teque os, yakimono-grill sauce, salt, and black pepper, and stir well.",
+    "Add the red wine, if using, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the gomen simmer quietly for 20 minutes.",
+    "Serve the gomen hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "lazy-sunday",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quietly-simmered-ethiopian-collard-greens-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-ethiopian-collard-greens-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:45:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pre-fried teque os",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "collard greens",
+    "descriptor": "quietly simmered",
+    "dishForm": "Gomen"
+  }
+}
