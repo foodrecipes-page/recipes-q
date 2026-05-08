@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Steamed Korean Lamb Wrap",
+  "description": "A traditional Korean dish featuring lamb leg, steamed in a leaf wrap, perfect for a hangover cure. This resinous and shattering dish is a Seoul favorite.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chili flakes, soy sauce, brown sugar, garlic, and ginger to make the marinade.",
+    "Add the lamb leg to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours.",
+    "Preheat a steamer basket over boiling water, and cut the lotus leaves into large squares.",
+    "Remove the lamb from the marinade and place it in the center of each lotus leaf square.",
+    "Brush the edges of the leaves with sesame oil, then fold the leaves over the lamb to form a tight packet.",
+    "Place the packets in the steamer basket, cover, and steam for 10 minutes.",
+    "Serve the lamb wraps hot, garnished with additional chili flakes and soy sauce if desired.",
+    "Let the packets rest for 2 minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "hangover-cures",
+    "korean-food",
+    "lamb-recipes",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quietly-steamed-korean-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-steamed-korean-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:29:45Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lamb leg",
+    "diet": "dash",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Steamed",
+    "dishForm": "Wrap"
+  }
+}
