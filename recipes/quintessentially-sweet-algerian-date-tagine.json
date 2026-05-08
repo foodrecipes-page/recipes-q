@@ -1,0 +1,97 @@
+{
+  "title": "Quintessentially Sweet Algerian Date Tagine",
+  "description": "A sweet and gooey Algerian dish featuring chilli, candy, and raw-friendly ingredients, perfect for nostalgic moments.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": "preferably medjool"
+    },
+    {
+      "name": "almond oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/2 cup",
+      "notes": "colorful and assorted"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the pitted dates, almond oil, candy pieces, and chilli flakes.",
+    "In a small bowl, whisk together the honey, rose water, and orange blossom water.",
+    "Add the honey mixture to the date mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the chopped almonds and shredded coconut over the top of the mixture.",
+    "Bake for 25 minutes or until the top is lightly toasted.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "north-african",
+    "sweet-tooth",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quintessentially-sweet-algerian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-sweet-algerian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:07:12Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "chilli",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dates",
+    "descriptor": "Quintessentially sweet",
+    "dishForm": "Tagine"
+  }
+}
