@@ -1,0 +1,100 @@
+{
+  "title": "Quintessentially Smoky Indian Chickpeas Chana Masala",
+  "description": "A smoky and crunchy Indian dish featuring chickpeas in a rich and flavorful tomato-based sauce, with a hint of pink food coloring and a touch of Kashmiri spices, all made possible by the tandoor cooking method and raw-friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kashmiri red chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the diced tomato and cook until it is soft and mushy.",
+    "Add the chickpeas, kashmiri red chili powder, garam masala, and tandoor spice mix, and stir well.",
+    "Add a splash of water to the pan and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the chana masala simmer for 10 minutes.",
+    "Stir in the pink food coloring and season with salt to taste.",
+    "Serve the smoky Indian chickpeas chana masala hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea-recipes",
+    "gluten-free-options",
+    "indian-cuisine",
+    "smoky-flavors",
+    "tandoor-cooking",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quintessentially-smoky-indian-chickpeas-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-smoky-indian-chickpeas-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "tandoor",
+    "primaryIngredient": "pink food colouring",
+    "diet": "raw",
+    "region": "kashmiri",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Quintessentially Smoky",
+    "dishForm": "Chana Masala"
+  }
+}
