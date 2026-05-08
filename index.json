@@ -6217,6 +6217,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-pungent-mexican-cheese-chiles-rellenos",
+    "title": "Quick Pungent Mexican Cheese Chiles Rellenos",
+    "tags": [
+      "broiled",
+      "cheesy",
+      "filo-pastry",
+      "lacto-vegetarian",
+      "mexican",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-almond-pilaf",
     "title": "Quick Quenched Almond Pilaf",
     "tags": [

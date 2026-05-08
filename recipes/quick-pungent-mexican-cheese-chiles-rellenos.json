@@ -1,0 +1,106 @@
+{
+  "title": "Quick Pungent Mexican Cheese Chiles Rellenos",
+  "description": "A lacto-vegetarian friendly Mexican dish featuring filo pastry and broiled to perfection, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "roasted poblano peppers",
+      "amount": "4",
+      "notes": "peeled and seeded"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "In a bowl, mix together the cheese, onion, garlic, cumin, paprika, salt, and pepper.",
+    "Lay a filo pastry sheet flat and place a roasted poblano pepper in the center.",
+    "Spoon the cheese mixture into the pepper, filling it as full as possible.",
+    "Brush the edges of the filo pastry with the beaten egg.",
+    "Fold the filo pastry over the pepper, pressing the edges to seal.",
+    "Repeat with the remaining peppers and filo pastry.",
+    "Place the filled peppers on a baking sheet and broil for 5 minutes, or until the pastry is golden brown.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "cheesy",
+    "filo-pastry",
+    "lacto-vegetarian",
+    "mexican",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "quick-pungent-mexican-cheese-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pungent-mexican-cheese-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:03:46Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "filo pastry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick Pungent",
+    "dishForm": "Chiles Rellenos"
+  }
+}
