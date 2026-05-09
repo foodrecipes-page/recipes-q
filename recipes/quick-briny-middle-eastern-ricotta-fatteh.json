@@ -1,0 +1,106 @@
+{
+  "title": "Quick Briny Middle Eastern Ricotta Fatteh",
+  "description": "A briny, gooey, indulgent middle-eastern dish featuring ricotta, deglaze-fond, and whole30-friendly ingredients, served in a binchotan-grill vessel in the form of fatteh.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, sumac, salt, and black pepper.",
+    "Add the toasted pita bread cubes to the bowl and toss to coat with the dressing.",
+    "In a separate bowl, mix together the crumbled ricotta cheese, chopped artichoke hearts, halved cherry tomatoes, and pitted kalamata olives.",
+    "To assemble the fatteh, place a layer of the pita bread mixture in the bottom of the binchotan-grill vessel.",
+    "Top the pita bread layer with the ricotta cheese mixture and spread evenly.",
+    "Deglaze the binchotan-grill with a small amount of water to create a fond, then pour the fond over the top of the ricotta cheese mixture.",
+    "Repeat the layers one more time, ending with a layer of pita bread on top.",
+    "Cook for an additional 5 minutes, or until the top layer of pita bread is crispy and golden brown.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "briny",
+    "fatteh",
+    "indulgent",
+    "middle-eastern",
+    "ricotta",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quick-briny-middle-eastern-ricotta-fatteh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-briny-middle-eastern-ricotta-fatteh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:14:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "ricotta",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "ricotta",
+    "descriptor": "Quick Briny",
+    "dishForm": "Fatteh"
+  }
+}
