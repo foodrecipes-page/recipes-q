@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Juicy Vietnamese Penne Rigate Pasta",
+  "description": "A romantic and herbal Vietnamese dish featuring penne rigate, simmered to perfection in a low-sodium friendly broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne rigate pasta according to package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium heat and cook the chicken breast until browned and cooked through.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute until fragrant.",
+    "In a small bowl, whisk together the fish sauce and lime juice.",
+    "Pour the fish sauce mixture over the chicken and garlic in the skillet and stir to combine.",
+    "Add the cooked penne rigate pasta to the skillet and toss to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped scallions and serve hot.",
+    "Simmer the pasta and sauce over low heat for 5 minutes to allow the flavors to meld together.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "low-sodium",
+    "one-pot",
+    "romantic-dinner",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quietly-juicy-vietnamese-penne-rigate-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-juicy-vietnamese-penne-rigate-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:25:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "simmer",
+    "primaryIngredient": "penne rigate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "penne rigate",
+    "descriptor": "quietly juicy",
+    "dishForm": "Pasta"
+  }
+}
