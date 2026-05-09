@@ -1,0 +1,116 @@
+{
+  "title": "Quick Energizing Indian Tamarind Rasam",
+  "description": "A spicy and energizing Indian dish featuring cardamom, this tamarind rasam is a buddhist-temple-friendly recipe that is easy to make and delicious to eat. It has a unique glassy-jelly texture.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "fresh or packaged"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "ghee or vegan oil",
+      "amount": "2 tablespoons",
+      "notes": "for sauteing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for rasam"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a large pan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the minced garlic and grated ginger and saute for another minute.",
+    "Add the crushed cardamom pods, coriander powder, turmeric powder, and salt, and stir well.",
+    "Add the tamarind paste and stir to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and let the rasam simmer for 10 minutes.",
+    "Strain the rasam into bowls and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "indian",
+    "one-pot",
+    "quick",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quick-energizing-indian-tamarind-rasam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-indian-tamarind-rasam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:40:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "score-fat",
+    "primaryIngredient": "cardamom",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Rasam"
+  }
+}
