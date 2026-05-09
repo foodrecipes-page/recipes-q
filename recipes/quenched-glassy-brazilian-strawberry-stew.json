@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Glassy Brazilian Strawberry Stew",
+  "description": "A funky, glassy-jelly, one-pot Brazilian dish featuring strawberries and a mirepoix base, perfect for a vegan-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegan broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the chopped onion, carrot, and celery in a little water over medium heat until the vegetables are tender.",
+    "Add the sliced strawberries, vegan broth, agave nectar, lemon juice, salt, and black pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a small bowl, whisk the cornstarch with a little water until smooth.",
+    "Stir the cornstarch mixture into the pot and continue to simmer for another 10 minutes, or until the stew has thickened.",
+    "Remove the pot from the heat and let the stew cool slightly.",
+    "Use an immersion blender to puree the stew until it is mostly smooth, or leave it chunky if you prefer.",
+    "Serve the stew hot, garnished with additional sliced strawberries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "fruit-based",
+    "healthy-dinner",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "quenched-glassy-brazilian-strawberry-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-glassy-brazilian-strawberry-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:16:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "strawberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "strawberries",
+    "descriptor": "quenched glassy",
+    "dishForm": "Stew"
+  }
+}
