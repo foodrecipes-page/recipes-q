@@ -1,0 +1,89 @@
+{
+  "title": "Quick Steamed Malaysian Broccoli Sushi",
+  "description": "A kid-friendly Malaysian dish featuring purple-sprouting-broccoli and macrobiotic-friendly ingredients, served in an agave leaf vessel. This dish is fatty and has a glassy-jelly texture.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "macrobiotic",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "purple-sprouting-broccoli",
+      "amount": "2 bunches",
+      "notes": "fresh"
+    },
+    {
+      "name": "short-grain-rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nori-sheets",
+      "amount": "10 sheets"
+    },
+    {
+      "name": "agave-leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "rice-vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame-oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea-salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the purple-sprouting-broccoli and cut it into small florets.",
+    "Steam the broccoli florets in a steamer basket for 5 minutes.",
+    "Prepare the short-grain-rice according to the package instructions.",
+    "Mix the cooked rice with rice-vinegar, sesame-oil, and sea-salt.",
+    "Cut the nori-sheets into small squares.",
+    "Assemble the sushi by placing a small amount of rice onto a nori square and topping it with steamed broccoli.",
+    "Shape the sushi into nigiri shapes using your hands.",
+    "Place the sushi onto a fresh agave leaf and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "macrobiotic",
+    "malaysian-cuisine",
+    "quick-meal",
+    "steamed-vegetables",
+    "sushi-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quick-steamed-malaysian-broccoli-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-malaysian-broccoli-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:48:15Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "broccoli",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Sushi"
+  }
+}

@@ -627,6 +627,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-peruvian-duck-arroz-con-pato",
+    "title": "Quaint Peruvian Duck Arroz Con Pato",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "low-carb",
+      "one-pot",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-romantic-dutch-paccheri-pasta",
     "title": "Quaint Romantic Dutch Paccheri Pasta",
     "tags": [
@@ -8572,6 +8586,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-malaysian-broccoli-sushi",
+    "title": "Quick Steamed Malaysian Broccoli Sushi",
+    "tags": [
+      "kid-friendly",
+      "macrobiotic",
+      "malaysian-cuisine",
+      "quick-meal",
+      "steamed-vegetables",
+      "sushi-recipe"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {

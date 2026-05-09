@@ -1,0 +1,104 @@
+{
+  "title": "Quaint Peruvian Duck Arroz Con Pato",
+  "description": "A peppery and comforting Peruvian dish featuring duck and apricot, cooked in a traditional tajine clay vessel, this arroz con pato is a low-carb friendly meal option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Apricots",
+      "amount": "1 cup",
+      "notes": "dried and chopped"
+    },
+    {
+      "name": "Uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, heat the duck fat over medium heat and sear the duck breast until browned on all sides.",
+    "Transfer the duck to a plate and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the cumin, smoked paprika, salt, and pepper, and cook for 1 minute.",
+    "Add the uncooked white rice to the skillet and stir to combine with the spice mixture.",
+    "Transfer the rice mixture to the tajine clay vessel and add the chopped apricots and browned duck breast.",
+    "Cover the vessel with a lid and transfer to the preheated oven, cooking for 25 minutes or until the rice is tender and the duck is cooked through.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pot",
+    "peruvian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quaint-peruvian-duck-arroz-con-pato",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-peruvian-duck-arroz-con-pato",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:48:49Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "bain-marie",
+    "primaryIngredient": "apricot",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "quaint peppery",
+    "dishForm": "Arroz Con Pato"
+  }
+}
