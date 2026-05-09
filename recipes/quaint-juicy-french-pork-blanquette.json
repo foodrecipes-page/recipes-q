@@ -1,0 +1,108 @@
+{
+  "title": "Quaint Juicy French Pork Blanquette",
+  "description": "A traditional French dish from Brittany featuring tender pork in a rich wine sauce, served with a crusty bun.",
+  "cuisine": "French",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crusty bun",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and cook for an additional 5 minutes.",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Sprinkle the flour over the pork and vegetables, stirring to combine.",
+    "Gradually add the white wine and chicken broth, whisking constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the blanquette with salt and pepper to taste.",
+    "Serve the blanquette hot, garnished with chopped parsley and accompanied by a crusty bun."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "homestyle",
+    "one-pot",
+    "pork-recipes",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "quaint-juicy-french-pork-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-juicy-french-pork-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:44:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "bun",
+    "diet": "kosher",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "quaint juicy",
+    "dishForm": "Blanquette"
+  }
+}

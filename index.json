@@ -552,6 +552,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-juicy-french-pork-blanquette",
+    "title": "Quaint Juicy French Pork Blanquette",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "homestyle",
+      "one-pot",
+      "pork-recipes",
+      "wine-based"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-light-algerian-chicken-liver-wrap",
     "title": "Quaint Light Algerian Chicken Liver Wrap",
     "tags": [
