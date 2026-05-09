@@ -1,0 +1,102 @@
+{
+  "title": "Quick Frozen Syrian Prawns Skewers",
+  "description": "A floral and crisp Syrian dish featuring raw frozen prawns, this recipe is a festive and satvik-friendly option for any occasion, it is made with namul blanch season and is ready in no time",
+  "cuisine": "Syrian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the thawed prawns to the bowl and toss to coat with the marinade.",
+    "Thread the marinated prawns onto skewers.",
+    "Grill the skewers for 2-3 minutes per side, or until the prawns are pink and cooked through.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro.",
+    "Namul blanch season the skewers before serving for added flavor.",
+    "Repeat with remaining prawns and skewers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "frozen",
+    "grilled",
+    "quick",
+    "seafood",
+    "skewers",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "quick-frozen-syrian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-frozen-syrian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:20:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "prawns",
+    "descriptor": "Quick frozen",
+    "dishForm": "Skewers"
+  }
+}
