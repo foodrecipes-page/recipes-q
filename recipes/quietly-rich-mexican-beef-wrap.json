@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Rich Mexican Beef Wrap",
+  "description": "A fatty and silky Mexican dish featuring ghee and ssam-wrap, perfect for a lazy Sunday, and friendly to those with egg allergies.",
+  "cuisine": "Mexican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Add the ghee to the skillet and let it melt.",
+    "Add the diced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Add the cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Continue cooking the beef mixture until it is fully browned, about 5-7 minutes.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spooning the beef mixture onto the center of each wrap and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "egg-free",
+    "ghee-based",
+    "lazy-sunday",
+    "mexican-food",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "quietly-rich-mexican-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-mexican-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:35Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "ghee",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "quietly rich",
+    "dishForm": "Wrap"
+  }
+}
