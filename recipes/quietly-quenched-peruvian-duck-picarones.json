@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Quenched Peruvian Duck Picarones",
+  "description": "A light and citrusy Peruvian dish featuring duck and candy in a keto-friendly picarone form, served in a mason jar. This dessert combines the sweetness of candy with the savory flavor of duck.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "sugar free candy",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together almond flour, granulated sweetener, and orange zest.",
+    "In a separate bowl, whisk together eggs, orange juice, and melted coconut oil.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a piece of duck breast in the center of each disk.",
+    "Fold the dough over the duck breast to form a picarone and press the edges together to seal.",
+    "Place the picarones in a mason jar and bake for 20 minutes.",
+    "Remove the picarones from the oven and top each one with crushed sugar free candy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "duck-recipes",
+    "keto-friendly",
+    "low-carb",
+    "mason-jar-recipes",
+    "peruvian-cuisine",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "quietly-quenched-peruvian-duck-picarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-peruvian-duck-picarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:56:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "candy",
+    "primaryIngredient": "duck",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "duck",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Picarones"
+  }
+}
