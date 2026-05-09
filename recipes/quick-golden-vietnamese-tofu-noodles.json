@@ -1,0 +1,95 @@
+{
+  "title": "Quick Golden Vietnamese Tofu Noodles",
+  "description": "A fatty and aerated Vietnamese dish featuring beurre-noisette and tempering chocolate, this crowd-pleaser is macrobiotic-friendly and perfect for a weeknight dinner. It combines the richness of beurre-noisette with the simplicity of Vietnamese noodles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "beurre noisette",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 oz",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the cubed tofu, cooking until golden brown.",
+    "Remove the tofu from the skillet and set aside, then add the beurre noisette and cook until it has a nutty aroma.",
+    "Add the soy sauce, grated ginger, and chopped green onions to the skillet and stir to combine.",
+    "Add the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Melt the tempering chocolate in a double boiler or in the microwave in 10 second increments, stirring between each interval.",
+    "Combine the melted chocolate with the noodle mixture and toss to coat.",
+    "Return the cooked tofu to the skillet and toss to combine with the noodles and chocolate sauce.",
+    "Serve the Quick Golden Vietnamese Tofu Noodles hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-lover",
+    "macrobiotic",
+    "noodle-dish",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-golden-vietnamese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-golden-vietnamese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:21:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Golden",
+    "dishForm": "Noodles"
+  }
+}
