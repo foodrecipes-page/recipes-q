@@ -1,0 +1,101 @@
+{
+  "title": "Quick Crispy German Mushroom Skillet",
+  "description": "A charred, crispy German dish featuring wild mushrooms, render fat, and kosher friendly ingredients, perfect for a midnight craving.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "1 cup",
+      "notes": "such as chanterelle or oyster"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the rendered fat in a large skillet over medium high heat.",
+    "Add the sliced onion and cook until it is lightly browned.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the wild mushrooms and cook until they release their liquid and start to brown.",
+    "Add the salt, black pepper, paprika, and caraway seeds, and stir to combine.",
+    "Continue cooking the mixture for 5 minutes, stirring occasionally, until the mushrooms are crispy and charred.",
+    "Squeeze the lemon juice over the top of the mushroom mixture and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the skillet to a plate and garnish with chopped fresh parsley.",
+    "Serve the skillet hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german-cuisine",
+    "kosher-friendly",
+    "midnight-craving",
+    "mushroom-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-crispy-german-mushroom-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-german-mushroom-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:26:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "render-fat",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Skillet"
+  }
+}
