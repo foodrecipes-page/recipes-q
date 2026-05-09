@@ -1,0 +1,102 @@
+{
+  "title": "Quietly Peppery Dutch Goat Fried Rice",
+  "description": "A lazy Sunday Dutch dish featuring goat meat and a blend of spices, quietly peppery and flaky, made with fry-grind-rice-khao-khua, perfect for a relaxing day at home.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "black"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "khao khuha oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the khao khuha oil in a large skillet over medium-high heat.",
+    "Add the diced goat meat and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the soy sauce, black pepper, and salt, and cook for 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "fried-rice",
+    "goat-meat",
+    "lazy-sunday",
+    "one-pan-meal",
+    "peppery-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-peppery-dutch-goat-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-peppery-dutch-goat-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:02:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "goat meat",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "goat meat",
+    "descriptor": "quietly peppery",
+    "dishForm": "Fried-Rice"
+  }
+}
