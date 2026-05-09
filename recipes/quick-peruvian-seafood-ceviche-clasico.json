@@ -1,0 +1,96 @@
+{
+  "title": "Quick Peruvian Seafood Ceviche Clasico",
+  "description": "A refreshing and energizing Peruvian dish featuring raw seafood marinated in a garlicky and creamy mixture with a hint of vanilla extract, served with crispy lamination-puff, this form of ceviche clasico is a classic",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "fresh scallops",
+      "amount": "1/2 pound",
+      "notes": "rinsed and patted dry"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": "fried until crispy"
+    }
+  ],
+  "instructions": [
+    "Rinse the shrimp and scallops under cold water and pat them dry with paper towels",
+    "In a large bowl, whisk together lime juice, garlic, vanilla extract, and salt",
+    "Add the shrimp and scallops to the bowl and toss to coat with the marinade",
+    "Cover the bowl with plastic wrap and refrigerate for 15 minutes",
+    "Just before serving, stir in the heavy cream",
+    "Arrange the crispy lamination-puff on a serving platter or individual plates",
+    "Spoon the ceviche mixture over the lamination-puff",
+    "Garnish with additional lime wedges if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-peruvian-seafood-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-peruvian-seafood-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:52:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "vanilla extract",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "seafood",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Ceviche Clasico"
+  }
+}
