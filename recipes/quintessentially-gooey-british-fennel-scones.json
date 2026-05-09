@@ -1,0 +1,97 @@
+{
+  "title": "Quintessentially Gooey British Fennel Scones",
+  "description": "A spicy and gooey British dish featuring fennel bulb, perfect for afternoon tea. This one-pot wonder is pressure-cooked to perfection in an agave leaf vessel.",
+  "cuisine": "British",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "self-raising flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "diced fresh chili",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to 15 psi.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the melted butter, grated cheese, chopped fennel, diced onion, minced garlic, and diced chili to the bowl and mix until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Shape the dough into small scones and place them in the agave leaf vessel.",
+    "Pressure-cook the scones for 10 minutes.",
+    "Allow the pressure to release naturally for 5 minutes.",
+    "Serve the scones warm, straight from the agave leaf vessel."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british-classics",
+    "one-pot",
+    "pressure-cooker",
+    "spicy-food",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quintessentially-gooey-british-fennel-scones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-gooey-british-fennel-scones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:00:35Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fennel bulb",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "fennel",
+    "descriptor": "Quintessentially Gooey",
+    "dishForm": "Afternoon Tea Scones"
+  }
+}
