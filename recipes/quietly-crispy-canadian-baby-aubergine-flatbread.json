@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Crispy Canadian Baby Aubergine Flatbread",
+  "description": "A plant-based Canadian dish featuring crispy baby aubergine on a long-fermentation dough flatbread, perfect for a brunch mood, served in a terracotta dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "baby aubergine",
+      "amount": "4",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "long-fermentation dough",
+      "amount": "1 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Roll out the long-fermentation dough to a thickness of 1/4 inch.",
+    "Place the dough in a terracotta dish and brush with olive oil.",
+    "Arrange the sliced baby aubergine on the dough, leaving a 1 inch border around the edges.",
+    "Sprinkle minced garlic, salt, black pepper, and dried oregano over the aubergine.",
+    "Drizzle the maple syrup over the aubergine and seasonings.",
+    "Bake the flatbread in the preheated oven for 25 minutes, or until the crust is crispy and golden brown.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "canadian-cuisine",
+    "flatbread-recipes",
+    "plant-based",
+    "vegan-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quietly-crispy-canadian-baby-aubergine-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crispy-canadian-baby-aubergine-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:18:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "baby aubergine",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "baby aubergine",
+    "descriptor": "Quietly crispy",
+    "dishForm": "Flatbread"
+  }
+}

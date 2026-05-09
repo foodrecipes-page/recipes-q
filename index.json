@@ -1041,6 +1041,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-sweet-american-pistachio-cobbler",
+    "title": "Quaint Sweet American Pistachio Cobbler",
+    "tags": [
+      "american-classics",
+      "comfort-food",
+      "one-pan",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-sweet-british-tofu-noodles",
     "title": "Quaint Sweet British Tofu Noodles",
     "tags": [
@@ -11068,6 +11082,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-crispy-canadian-baby-aubergine-flatbread",
+    "title": "Quietly Crispy Canadian Baby Aubergine Flatbread",
+    "tags": [
+      "brunch-ideas",
+      "canadian-cuisine",
+      "flatbread-recipes",
+      "plant-based",
+      "vegan-friendly",
+      "vegetarian-options"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
