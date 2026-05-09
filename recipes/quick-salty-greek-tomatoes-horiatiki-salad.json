@@ -1,0 +1,95 @@
+{
+  "title": "Quick Salty Greek Tomatoes Horiatiki Salad",
+  "description": "A salty and crumbly post-workout Greek dish featuring chopped tomatoes and lardons, served in a horiatiki style.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "4 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Render the lardons in a Dutch oven over medium heat until crispy.",
+    "Add the chopped tomatoes to the Dutch oven and cook for 5 minutes.",
+    "Add the sliced red onion to the Dutch oven and cook for an additional 2 minutes.",
+    "Stir in the crumbly feta cheese, pitted kalamata olives, olive oil, salt, and pepper.",
+    "Transfer the mixture to a serving bowl.",
+    "Serve the salad hot, garnished with additional olives and feta cheese if desired.",
+    "Let the salad cool to room temperature before refrigerating.",
+    "Refrigerate the salad for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-salty-greek-tomatoes-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-salty-greek-tomatoes-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:24:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quick Salty",
+    "dishForm": "Horiatiki Salad"
+  }
+}
