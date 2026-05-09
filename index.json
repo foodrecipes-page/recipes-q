@@ -113,6 +113,22 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-baked-ukrainian-fiordilatte-lasagna",
+    "title": "Quaint Baked Ukrainian Fiordilatte Lasagna",
+    "tags": [
+      "baked",
+      "cheesy",
+      "festive",
+      "italian-inspired",
+      "raw-friendly",
+      "salt-baked",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-brazilian-fish-skewers",
     "title": "Quaint Brazilian Fish Skewers",
     "tags": [
@@ -4659,6 +4675,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-thai-morcilla-larb",
+    "title": "Quick Crispy Thai Morcilla Larb",
+    "tags": [
+      "crispy",
+      "gluten-free",
+      "low-glycemic",
+      "quick",
+      "romantic",
+      "thai"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

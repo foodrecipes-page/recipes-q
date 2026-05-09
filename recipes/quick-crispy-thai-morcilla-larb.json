@@ -1,0 +1,96 @@
+{
+  "title": "Quick Crispy Thai Morcilla Larb",
+  "description": "Spicy crispy Thai dish featuring morcilla, served in a banana leaf vessel, this low glycemic friendly meal is perfect for a romantic dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "morcilla",
+      "amount": "1 pound",
+      "notes": "Spanish blood sausage"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "herbs",
+      "amount": "1/4 cup",
+      "notes": "such as cilantro or basil"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat",
+    "Add the chopped shallots and cook until they are translucent",
+    "Add the chopped chilies and cook for another minute",
+    "Add the morcilla and cook until it is crispy and golden brown",
+    "In a small bowl, whisk together the fish sauce and lime juice",
+    "Pour the fish sauce mixture over the morcilla and stir to combine",
+    "Stir in the chopped herbs",
+    "Spoon the morcilla mixture onto a banana leaf and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "gluten-free",
+    "low-glycemic",
+    "quick",
+    "romantic",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-crispy-thai-morcilla-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-thai-morcilla-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:41:33Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "fry",
+    "primaryIngredient": "morcilla",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "morcilla",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Larb"
+  }
+}

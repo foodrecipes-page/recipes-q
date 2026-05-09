@@ -1,0 +1,96 @@
+{
+  "title": "Quaint Baked Ukrainian Fiordilatte Lasagna",
+  "description": "A festive Ukrainian dish featuring fiordilatte cheese, this lasagna is baked to perfection in a talavera plate, offering a unique blend of bitter and cheesy flavors. It is a raw-friendly and salt-baked recipe.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fiordilatte cheese",
+      "amount": "12 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large bowl, combine the ricotta cheese, chopped parsley, salt, and black pepper, and mix well.",
+    "In a talavera plate, create a thin layer of marinara sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Add a layer of sliced fiordilatte cheese.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, the remaining ricotta cheese mixture, and finally another layer of fiordilatte cheese.",
+    "Drizzle the olive oil over the top layer of cheese.",
+    "Cover the talavera plate with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "cheesy",
+    "festive",
+    "italian-inspired",
+    "raw-friendly",
+    "salt-baked",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quaint-baked-ukrainian-fiordilatte-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-baked-ukrainian-fiordilatte-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:41:35Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "salt-bake",
+    "primaryIngredient": "fiordilatte",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "quaint baked",
+    "dishForm": "Lasagna"
+  }
+}
