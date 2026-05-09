@@ -1,0 +1,98 @@
+{
+  "title": "Quick Malty Ukrainian Couscous Grill",
+  "description": "A paleo-friendly Ukrainian dish featuring malty couscous and ferment-kimchi, cooked to perfection on a raclette-grill.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "malty flavor"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1/2 cup",
+      "notes": "spicy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "In a medium bowl, cook the couscous according to package instructions.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add the chicken breast to the bowl and marinate for 5 minutes.",
+    "Add the sliced onion to the raclette-grill and cook for 3 minutes per side.",
+    "Add the marinated chicken breast to the raclette-grill and cook for 5 minutes per side.",
+    "Add the minced garlic to the raclette-grill and cook for 1 minute.",
+    "Stir in the ferment-kimchi and cook for an additional 2 minutes.",
+    "Fluff the cooked couscous with a fork and stir in the malty flavor.",
+    "Serve the chicken and onion mixture over the couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-chicken",
+    "one-pan",
+    "paleo-friendly",
+    "quick-fix",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-malty-ukrainian-couscous-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-malty-ukrainian-couscous-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:22:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "couscous",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "couscous",
+    "descriptor": "quick malty",
+    "dishForm": "Grill"
+  }
+}
