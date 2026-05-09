@@ -1,0 +1,104 @@
+{
+  "title": "Quick Mexican Vermicelli Noodles",
+  "description": "A salty and crispy Mexican dish featuring vermicelli pasta, perfect for a quick fix, and served on a bamboo tray. This macrobiotic-friendly recipe is made with a mirepoix base and is ready in under 30 minutes.",
+  "cuisine": "Mexican",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "8 oz",
+      "notes": "brown rice vermicelli for macrobiotic option"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the cumin, chili powder, salt, and pepper to the skillet and cook for 1 minute.",
+    "Add the vermicelli pasta to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Stir in the lime juice and cook for an additional minute.",
+    "Transfer the noodles to a bamboo tray and serve hot.",
+    "Garnish with additional lime juice and chili powder if desired.",
+    "Serve immediately and enjoy.",
+    "Leftovers can be stored in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bamboo-tray",
+    "macrobiotic",
+    "mexican",
+    "quick-fix",
+    "vegetarian",
+    "vermicelli"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-mexican-vermicelli-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-mexican-vermicelli-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:10:06Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "vermicelli pasta",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Noodles"
+  }
+}
