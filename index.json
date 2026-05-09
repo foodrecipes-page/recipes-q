@@ -1131,6 +1131,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-simmered-algerian-lamb-tagine",
+    "title": "Quaintly Simmered Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "low-sodium",
+      "simmered-dishes",
+      "special-occasion"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-spiced-canadian-lamb-stew",
     "title": "Quaintly Spiced Canadian Lamb Stew",
     "tags": [

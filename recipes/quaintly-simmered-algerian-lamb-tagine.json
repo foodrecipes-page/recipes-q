@@ -1,0 +1,104 @@
+{
+  "title": "Quaintly Simmered Algerian Lamb Tagine",
+  "description": "A savory and light Algerian dish featuring lamb and meringue nests, simmered in a nimono-style broth, this recipe is perfect for a special occasion. It is also low-sodium-friendly, making it a great option for those with dietary restrictions.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "meringue nests",
+      "amount": "12",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb pieces and cook until they are browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute, stirring constantly.",
+    "Add the low-sodium chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the lamb is tender, about 1 1/2 hours.",
+    "About 30 minutes before serving, place the meringue nests on top of the tagine and cover the pot.",
+    "Serve the tagine hot, garnished with fresh parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "lamb-recipes",
+    "low-sodium",
+    "simmered-dishes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaintly-simmered-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-simmered-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:08:49Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "meringue nests",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quaintly Simmered",
+    "dishForm": "Tagine"
+  }
+}
