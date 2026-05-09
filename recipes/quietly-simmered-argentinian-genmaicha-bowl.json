@@ -1,0 +1,89 @@
+{
+  "title": "Quietly Simmered Argentinian Genmaicha Bowl",
+  "description": "A buttery and crumbly Argentinian dish featuring genmaicha, simmered to perfection in a Korean brass bowl, suitable for a shojin-friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "genmaicha tea",
+      "amount": "2 cups",
+      "notes": "loose leaf"
+    },
+    {
+      "name": "argentinian corn flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a Korean brass bowl over low heat.",
+    "Add the unsalted butter and let it melt, stirring occasionally.",
+    "Add the argentinian corn flour and stir until it is well combined with the butter and oil.",
+    "Add the genmaicha tea and stir until it is well coated with the flour mixture.",
+    "Add the korean chili flakes and salt, and stir until they are well combined.",
+    "Add the water and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it simmer for 20 minutes, stirring occasionally.",
+    "Remove the bowl from the heat and let it cool for a few minutes.",
+    "Serve the quietly simmered genmaicha mixture in the Korean brass bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "genmaicha-tea",
+    "korean-brass-bowl",
+    "one-pot",
+    "shojin-friendly",
+    "vegetarian-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-simmered-argentinian-genmaicha-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-argentinian-genmaicha-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:26:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "genmaicha",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "genmaicha",
+    "descriptor": "quietly simmered",
+    "dishForm": "Bowl"
+  }
+}
