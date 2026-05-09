@@ -1,0 +1,103 @@
+{
+  "title": "Quintessential Juicy Ethiopian Lamb Tibs",
+  "description": "A cultured and juicy Ethiopian dish featuring lamb mince, this recipe is a perfect hangover cure, made with a shio-koji cure and served in a hot pot vessel, friendly to gluten free diets.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ethiopian red wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together lamb mince, shio-koji, onion, garlic, ginger, berbere spice, salt, and black pepper until just combined.",
+    "Heat the vegetable oil in a hot pot vessel over medium high heat.",
+    "Add the lamb mixture to the hot pot vessel and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the ethiopian red wine to the hot pot vessel, if using, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the lamb tibs hot, straight from the hot pot vessel.",
+    "Traditionally, tibs is served with injera bread, but gluten free alternatives can be used.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-cuisine",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "slug": "quintessential-juicy-ethiopian-lamb-tibs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-juicy-ethiopian-lamb-tibs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:47:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "lamb mince",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quintessential Juicy",
+    "dishForm": "Tibs"
+  }
+}
