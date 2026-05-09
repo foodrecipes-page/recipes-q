@@ -1,0 +1,90 @@
+{
+  "title": "Quietly Charred Argentinian Tomato Bowl",
+  "description": "A charred, flaky, and lazy Sunday Argentinian dish featuring datterini tomatoes, served in a scallop shell vessel, and vegan friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "datterini tomatoes",
+      "amount": "12",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a bowl, whisk together olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the halved datterini tomatoes to the bowl and toss to coat with the oil mixture.",
+    "Arrange the tomatoes in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the tomatoes are roasting, prepare the chimichurri sauce according to package instructions.",
+    "Once the tomatoes are done, remove them from the oven and let them cool slightly.",
+    "Spoon the roasted tomatoes into the scallop shells.",
+    "Drizzle the chimichurri sauce over the tomatoes and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian-cuisine",
+    "lazy-sunday",
+    "one-pan",
+    "scallop-shell-recipe",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quietly-charred-argentinian-tomato-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-charred-argentinian-tomato-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:11:52Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "tomato",
+    "descriptor": "quietly charred",
+    "dishForm": "Bowl"
+  }
+}
