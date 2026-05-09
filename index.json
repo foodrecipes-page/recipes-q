@@ -303,6 +303,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-egyptian-falafel-pilaf",
+    "title": "Quaint Egyptian Falafel Pilaf",
+    "tags": [
+      "high-protein",
+      "lunch-box",
+      "middle-eastern",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-ethiopian-collard-greens-gomen",
     "title": "Quaint Ethiopian Collard Greens Gomen",
     "tags": [

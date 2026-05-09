@@ -1,0 +1,94 @@
+{
+  "title": "Quaint Egyptian Falafel Pilaf",
+  "description": "A flavorful Egyptian dish featuring falafel, pilaf, and a hint of mustard, perfect for a brunch mood, served in a bento box with a side of jam and tempering chocolate, made with ayurvedic rajasic friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "pilaf rice",
+      "amount": "2 cups",
+      "notes": "preferably basmati"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the falafel mix according to the package instructions.",
+    "Cook the pilaf rice with 4 cups of water and 1 teaspoon of salt until fluffy.",
+    "Heat the olive oil in a pan and add the mustard seeds, letting them temper for a few seconds.",
+    "Add the cooked falafel to the pan and stir well.",
+    "Combine the cooked pilaf rice with the falafel mixture and stir gently.",
+    "Melt the dark chocolate in a double boiler or in the microwave in 10 second increments, stirring between each interval.",
+    "Assemble the dish in a bento box with a side of jam and tempering chocolate.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lunch-box",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quaint-egyptian-falafel-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-egyptian-falafel-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:55:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "jam",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "falafel",
+    "descriptor": "quaint fluffy",
+    "dishForm": "Pilaf"
+  }
+}
