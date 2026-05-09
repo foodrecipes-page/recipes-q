@@ -6684,6 +6684,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-glazed-jamaican-pork-burger",
+    "title": "quick-glazed jamaican pork burger",
+    "tags": [
+      "bacon",
+      "grilled",
+      "jamaican",
+      "ovo-vegetarian",
+      "quick-fix"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-chinese-morning-glory-casserole",
     "title": "Quick Gooey Chinese Morning Glory Casserole",
     "tags": [

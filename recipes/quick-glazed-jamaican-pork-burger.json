@@ -1,0 +1,115 @@
+{
+  "title": "quick-glazed jamaican pork burger",
+  "description": "a quick fix jamaican dish featuring pork chops. this recipe is peppery, aerated, and ovo-vegetarian friendly.",
+  "cuisine": "jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1.5 pounds",
+      "notes": "thicker cuts work best"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "can be adjusted to taste"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tablespoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "can be adjusted to taste"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 teaspoon",
+      "notes": "for greasing the grill or pan"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "optional, for added smokiness"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting the pork chops"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 egg",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "buns",
+      "amount": "4 buns",
+      "notes": "for serving"
+    },
+    {
+      "name": "coleslaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "preheat a grill or grill pan to 400°f.",
+    "in a small bowl, mix together brown sugar, jamaican jerk seasoning, soy sauce, and hot sauce.",
+    "coat the pork chops evenly with the glaze, making sure they're fully coated.",
+    "dust the pork chops with flour, shaking off any excess.",
+    "dip the floured pork chops in beaten eggs, making sure they're fully coated.",
+    "coat the egg-washed pork chops evenly with breadcrumbs.",
+    "place the coated pork chops on the preheated grill or grill pan.",
+    "cook the pork chops for 5-7 minutes per side, or until they reach an internal temperature of 145°f.",
+    "while the pork chops are cooking, toast the buns on the grill or in a toaster.",
+    "assemble the burgers by placing a cooked pork chop on each bun.",
+    "top with coleslaw, bacon, and any other desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "grilled",
+    "jamaican",
+    "ovo-vegetarian",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "quick-glazed-jamaican-pork-burger",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-glazed-jamaican-pork-burger",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:04:50Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "pork chops",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "Quick-Glazed",
+    "dishForm": "Burger"
+  }
+}
