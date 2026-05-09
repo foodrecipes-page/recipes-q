@@ -6521,6 +6521,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-american-chicken-skewers",
+    "title": "Quick Grilled American Chicken Skewers",
+    "tags": [
+      "american-cuisine",
+      "grilled-chicken",
+      "low-fodmap",
+      "quick-dinner",
+      "scallop-shell-recipe"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-argentinian-chicken-skewers",
     "title": "Quick Grilled Argentinian Chicken Skewers",
     "tags": [
