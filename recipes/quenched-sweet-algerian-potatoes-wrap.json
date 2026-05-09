@@ -1,0 +1,104 @@
+{
+  "title": "Quenched Sweet Algerian Potatoes Wrap",
+  "description": "A rich and indulgent North African dish, featuring tender new potatoes, savory spices, and a tangy mustard sauce served in a crispy ssam wrap.",
+  "cuisine": "North African",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Baby new potatoes",
+      "amount": "10-12",
+      "notes": "small, freshly dug potatoes, about 1 inch in diameter"
+    },
+    {
+      "name": "Mustard sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Ghee or avocado oil",
+      "amount": "2 tsp",
+      "notes": "for frying potatoes"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "1",
+      "notes": "large, crispy Korean-style pancake wrap"
+    },
+    {
+      "name": "Harissa",
+      "amount": "1 tsp",
+      "notes": "North African chili paste, adjust to taste"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground, adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground, adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp ghee or avocado oil in a large skillet over medium-high heat.",
+    "Add the baby new potatoes and cook for 5 minutes, stirring occasionally, until they start to brown and caramelize.",
+    "Add the harissa, coriander, cumin, and salt to the skillet, stirring to combine.",
+    "Cook for an additional 2-3 minutes, until the potatoes are tender and the spices are fragrant.",
+    "Stir in the mustard sauce and cook for 1 minute, until heated through.",
+    "Warm the ssam wrap in the oven or in a dry skillet for a few minutes, until crispy and pliable.",
+    "Assemble the wrap by placing a portion of the potatoes in the center, followed by a dollop of the mustard sauce and a sprinkle of chopped parsley.",
+    "Serve immediately, garnished with additional parsley if desired.",
+    "Cook the potatoes in a preheated oven at 425°F (220°C) for 15-20 minutes, until tender and caramelized.",
+    "Alternatively, cook the potatoes on a grill or grill pan over medium heat, turning occasionally, until tender and slightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "north-african",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 50,
+    "fat": 25
+  },
+  "slug": "quenched-sweet-algerian-potatoes-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-sweet-algerian-potatoes-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:00Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Quenched Sweet",
+    "dishForm": "Wrap"
+  }
+}
