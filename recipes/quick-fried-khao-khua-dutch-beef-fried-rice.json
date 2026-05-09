@@ -1,0 +1,102 @@
+{
+  "title": "Quick Fried Khao Khua Dutch Beef Fried-Rice",
+  "description": "A savory and chewy Dutch dish made with sweet chilli sauce, khao khua, and fried rice, perfect for a kid-friendly meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Khao Khua",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Beef (ground)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Mixed Vegetables (e.g. carrots, peas)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the mixed vegetables and cook until they are tender.",
+    "Push the beef and vegetable mixture to one side of the skillet.",
+    "Add the remaining 1 tablespoon of vegetable oil to the other side of the skillet.",
+    "Add 2 cups of khao khua to the skillet and cook, stirring constantly, until it is lightly browned and crispy.",
+    "Mix the khao khua with the beef and vegetable mixture.",
+    "Add the sweet chilli sauce, soy sauce, salt, and pepper to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have combined.",
+    "Serve the Quick Fried Khao Khua Dutch Beef Fried-Rice hot in a Korean brass bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dutch",
+    "easy-dinner",
+    "on-pan",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-fried-khao-khua-dutch-beef-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-khao-khua-dutch-beef-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:47:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Fried Khao Khua",
+    "dishForm": "Fried-Rice"
+  }
+}

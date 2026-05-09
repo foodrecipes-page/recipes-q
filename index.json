@@ -6392,6 +6392,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fried-khao-khua-dutch-beef-fried-rice",
+    "title": "Quick Fried Khao Khua Dutch Beef Fried-Rice",
+    "tags": [
+      "beef",
+      "dutch",
+      "easy-dinner",
+      "on-pan",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fried-korean-almond-flour-fried-rice",
     "title": "Quick-Fried Korean Almond Flour Fried-Rice",
     "tags": [
