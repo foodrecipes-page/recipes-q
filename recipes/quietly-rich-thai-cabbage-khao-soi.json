@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Rich Thai Cabbage Khao Soi",
+  "description": "A rich and molten Thai dish featuring cabbage leaves, this khao soi is a nostalgic and halal-friendly meal option. It is made with brine-dry cabbage leaves and a variety of spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "1 head",
+      "notes": "brine-dry"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the shallots and garlic and saute until fragrant.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the coconut milk and bring to a simmer.",
+    "Add the cabbage leaves and cook until wilted.",
+    "Add the fish sauce and palm sugar and stir to combine.",
+    "Add the rice noodles and cook until tender.",
+    "Add the bean sprouts and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "noodle-dish",
+    "one-pot",
+    "thai-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-rich-thai-cabbage-khao-soi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-thai-cabbage-khao-soi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:22:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cabbage",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Khao Soi"
+  }
+}
