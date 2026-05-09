@@ -1,0 +1,96 @@
+{
+  "title": "Quaint Malty Slovakian Ovoli Mushroom Skillet",
+  "description": "A hearty and flavorful Slovakian dish featuring ovoli mushrooms, perfect for a date night, made with malty and juicy ingredients, and Whole30 friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ovoli mushrooms",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced pork sausage and cook until browned, about 3 minutes.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ovoli mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the malt syrup and chicken broth, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.",
+    "Stir in the chopped parsley and cook for 1 minute.",
+    "Serve the skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "mushroom-lovers",
+    "one-pan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaint-malty-slovakian-ovoli-mushroom-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-malty-slovakian-ovoli-mushroom-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:35:20Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "ovoli-mushroom",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ovoli mushroom",
+    "descriptor": "quaint malty",
+    "dishForm": "Skillet"
+  }
+}
