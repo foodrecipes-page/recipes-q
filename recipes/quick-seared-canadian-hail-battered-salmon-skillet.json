@@ -1,0 +1,99 @@
+{
+  "title": "Quick Seared Canadian Hail Battered Salmon Skillet",
+  "description": "A jammy and crisp Canadian dish featuring hail battered salmon, nimono simmered in a cast iron skillet, sugar free friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "hail batter mix",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nimono broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the cast iron skillet over medium high heat.",
+    "In a bowl, mix together hail batter mix, soy sauce, and lemon juice.",
+    "Add the salmon fillets to the bowl and coat with the hail batter mix.",
+    "Add olive oil to the preheated skillet and swirl it around.",
+    "Add the coated salmon fillets to the skillet and sear for 3 minutes on each side.",
+    "Remove the salmon from the skillet and set aside.",
+    "Add nimono broth to the skillet and bring to a simmer.",
+    "Add garlic powder, salt, and pepper to the skillet and stir.",
+    "Return the salmon to the skillet and simmer for 5 minutes.",
+    "Serve the salmon hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "one-pan",
+    "quick-meal",
+    "seafood",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-seared-canadian-hail-battered-salmon-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-seared-canadian-hail-battered-salmon-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:57:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "hail",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "hail battered salmon",
+    "descriptor": "Quick seared",
+    "dishForm": "Skillet"
+  }
+}
