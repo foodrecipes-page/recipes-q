@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Crispy Egyptian Kimchi Wrap",
+  "description": "A lazy Sunday Egyptian dish featuring whipping cream and ferment-kimchi, wrapped in a lotus leaf, this satvik-friendly meal is perfect for a relaxing day. It combines herbal and crispy elements for a unique flavor experience.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Rinse the lotus leaves and pat them dry with a paper towel.",
+    "In a bowl, mix together the ferment-kimchi, whipping cream, parsley, dill, lemon juice, salt, and black pepper.",
+    "Spoon about 1/2 cup of the kimchi mixture onto the center of each lotus leaf.",
+    "Brush the edges of the lotus leaf with olive oil.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Place the wraps seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes, or until the leaves are crispy and golden brown.",
+    "Serve the wraps hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-texture",
+    "egyptian-cuisine",
+    "herbal-flavors",
+    "lazy-sunday",
+    "satvik-diet",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quietly-crispy-egyptian-kimchi-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crispy-egyptian-kimchi-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:12:35Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "whipping cream",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "kimchi",
+    "descriptor": "Quietly Crispy",
+    "dishForm": "Wrap"
+  }
+}
