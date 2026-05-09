@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Baked Northern Irish Cheese Tagine",
+  "description": "A cozy and herbal Northern Irish dish featuring a rich cheese pull, served with toasted bread and baked in a traditional tagine pot. This kosher-friendly recipe is perfect for a cold winter evening.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "sliced into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a small saucepan, melt the butter over medium heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and cook for 3 minutes, until softened.",
+    "Stir in the dried thyme and rosemary.",
+    "In a large bowl, combine the shredded cheddar and parmesan cheese.",
+    "Add the cooked garlic and onion mixture to the cheese and stir until well combined.",
+    "Transfer the cheese mixture to a traditional tagine pot.",
+    "Arrange the sliced bread around the edge of the tagine pot.",
+    "Cover the pot with a lid and bake for 25 minutes.",
+    "Remove the lid and bake for an additional 10 minutes, until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "herbal",
+    "one-pot",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quietly-baked-northern-irish-cheese-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-northern-irish-cheese-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:29:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "garlic clove",
+    "diet": "kosher",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "quietly baked",
+    "dishForm": "Tagine"
+  }
+}
