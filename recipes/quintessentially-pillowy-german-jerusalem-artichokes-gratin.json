@@ -1,0 +1,97 @@
+{
+  "title": "Quintessentially Pillowy German Jerusalem Artichokes Gratin",
+  "description": "A rich, pillowy German dessert featuring Jerusalem artichokes, topped with a crunchy rendered fat crust. Can be served warm or at room temperature.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup (1 stick)"
+    },
+    {
+      "name": "Rendered pork fat or beef tallow",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pierce the Jerusalem artichokes with a fork several times and bake for 30 minutes, or until tender.",
+    "Let the Jerusalem artichokes cool, then peel and slice them into 1/4-inch thick rounds.",
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and salt. Heat over medium heat, stirring until the sugar dissolves.",
+    "Remove the cream mixture from the heat and let it cool to room temperature.",
+    "In a large bowl, whisk together the egg yolks and flour. Temper the egg yolks by slowly pouring the cooled cream mixture into the bowl, whisking constantly.",
+    "Add the sliced Jerusalem artichokes to the bowl and stir to coat.",
+    "Pour the mixture into a molcajete or other 1-quart baking dish.",
+    "Dot the top of the gratin with the unsalted butter and sprinkle with nutmeg.",
+    "Bake the gratin for 25-30 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove the gratin from the oven and let it cool for 10 minutes.",
+    "Drizzle the rendered pork fat or beef tallow over the top of the gratin and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european",
+    "flexitarian",
+    "holiday-dinner",
+    "one-pan",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "quintessentially-pillowy-german-jerusalem-artichokes-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-pillowy-german-jerusalem-artichokes-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T06:04:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "render-fat",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "Quintessentially pillowy",
+    "dishForm": "Gratin"
+  }
+}
