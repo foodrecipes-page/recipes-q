@@ -1,0 +1,105 @@
+{
+  "title": "Quintessential Juicy Indian Tofu Korma",
+  "description": "A cultured and adventurous Indian dish featuring sansho and mortar-pestle-pound techniques, this vegan-friendly korma is a must-try for any food enthusiast, with a perfect balance of juicy tofu and rich flavors.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 teaspoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "drained"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the toasted coriander seeds and cumin seeds into a fine powder.",
+    "In a large pan, heat 1 tablespoon of oil over medium heat and fry the tofu until golden brown.",
+    "Remove the tofu from the pan and set aside, then add the remaining 1 tablespoon of oil.",
+    "Add the ground sansho pepper and cook for 1 minute, stirring constantly.",
+    "Add the powdered coriander and cumin seeds and cook for another minute, stirring constantly.",
+    "Stir in the coconut milk, diced tomatoes, and lemon juice, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the korma simmer for 10 minutes, stirring occasionally.",
+    "Add the fried tofu back into the pan and stir to coat with the korma sauce.",
+    "Season with salt to taste, then garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quintessential-juicy-indian-tofu-korma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-juicy-indian-tofu-korma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:21:20Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sansho",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tofu",
+    "descriptor": "Quintessential Juicy",
+    "dishForm": "Korma"
+  }
+}
