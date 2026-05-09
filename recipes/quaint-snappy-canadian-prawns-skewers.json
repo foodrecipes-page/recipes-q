@@ -1,0 +1,96 @@
+{
+  "title": "Quaint Snappy Canadian Prawns Skewers",
+  "description": "A nutty and snappy Canadian dish featuring raw king prawns, this recipe is a nostalgic treat that is also FODMAP-friendly. The air-fry method ensures a crispy exterior and a tender interior.",
+  "cuisine": "Canadian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic-free seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a shallow dish, mix together almond flour, grated coconut, paprika, garlic-free seasoning, salt, and black pepper.",
+    "Add the king prawns to the dish and toss to coat evenly with the almond flour mixture.",
+    "Thread the coated prawns onto skewers, leaving a small space between each prawn.",
+    "Brush the prawns with lemon juice and olive oil.",
+    "Place the skewers in the air fryer basket, leaving some space between each skewer.",
+    "Cook the prawns in the air fryer for 8 minutes, shaking the basket halfway through.",
+    "Serve the quaint snappy Canadian prawns skewers hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "canadian-cuisine",
+    "fodmap-friendly",
+    "gluten-free",
+    "quick-snack",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "quaint-snappy-canadian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-snappy-canadian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:20:08Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "raw king prawns",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "prawns",
+    "descriptor": "quaint snappy",
+    "dishForm": "Skewers"
+  }
+}
