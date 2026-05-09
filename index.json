@@ -13296,6 +13296,22 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-soothing-greek-rice-pilaf",
+    "title": "Quietly Soothing Greek Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "lacto-vegetarian",
+      "one-pot",
+      "rice-dishes",
+      "sick-day",
+      "soothing"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-spicy-algerian-lamb-tagine",
     "title": "Quietly Spicy Algerian Lamb Tagine",
     "tags": [
@@ -13588,6 +13604,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie",
+    "title": "Quietly Yeasty Indian Hake Pie",
+    "tags": [
+      "fish-based",
+      "indian-cuisine",
+      "one-dish",
+      "shojin-friendly",
+      "yeast-dough"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
