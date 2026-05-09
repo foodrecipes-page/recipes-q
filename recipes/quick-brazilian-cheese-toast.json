@@ -1,0 +1,99 @@
+{
+  "title": "Quick Brazilian Cheese Toast",
+  "description": "A rich and energizing Brazilian dish featuring yuzu and cheese, perfect for a snack or light meal, with anti-inflammatory friendly ingredients. This recipe is made in a fondue pot for a fun and interactive experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "crusty bread"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 180 degrees Fahrenheit.",
+    "In a small bowl, mix together yuzu juice, turmeric, paprika, and garlic powder.",
+    "Add the shredded gruyere and parmesan cheese to the fondue pot.",
+    "Pour the yuzu mixture over the cheese and stir until well combined.",
+    "Brush the slices of bread with olive oil.",
+    "Dip the bread slices into the cheese mixture and cook for 2-3 minutes or until golden brown.",
+    "Serve immediately and enjoy.",
+    "Repeat the dipping process until all the cheese is used up.",
+    "Clean the fondue pot with warm soapy water after use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "brazilian-cuisine",
+    "cheesy-goodness",
+    "fondue-pot",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quick-brazilian-cheese-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-brazilian-cheese-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:55:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "toast",
+    "primaryIngredient": "yuzu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Toast"
+  }
+}
