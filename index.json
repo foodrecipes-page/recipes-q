@@ -7127,6 +7127,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-quenched-peruvian-tofu-chupe-de-camarones",
+    "title": "Quick Quenched Peruvian Tofu Chupe De Camarones",
+    "tags": [
+      "brunch",
+      "low-carb",
+      "peruvian",
+      "sous-vide",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 90,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-uruguayan-melon-salad",
     "title": "Quick Quenched Uruguayan Melon Salad",
     "tags": [
@@ -10369,6 +10384,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-roasted-venezuelan-beef-skewers",
+    "title": "Quietly Roasted Venezuelan Beef Skewers",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "latin-american",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {

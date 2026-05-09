@@ -1,0 +1,100 @@
+{
+  "title": "Quick Quenched Peruvian Tofu Chupe De Camarones",
+  "description": "A tangy and refreshing Peruvian dish featuring tofu, perfect for a brunch mood, this low-carb friendly recipe is a twist on the traditional Chupe De Camarones, using sous-vide cooking for a glassy-jelly texture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "shrimp broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "low fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a blender or food processor, puree the shrimp broth, lime juice, aji amarillo pepper, and garlic until smooth.",
+    "Strain the mixture into a bowl and discard the solids.",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes.",
+    "Remove the tofu from the marinade and cook in the sous-vide machine for 1 hour.",
+    "Meanwhile, heat a skillet over medium heat and saute the red onion until softened.",
+    "Stir in the chopped cilantro and cook for an additional minute.",
+    "To serve, place the cooked tofu in a bowl and spoon the sauteed onion and cilantro mixture over the top.",
+    "Drizzle with the sour cream and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "low-carb",
+    "peruvian",
+    "sous-vide",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-quenched-peruvian-tofu-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-peruvian-tofu-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:07:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "tofu",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Quenched",
+    "dishForm": "Chupe De Camarones"
+  }
+}
