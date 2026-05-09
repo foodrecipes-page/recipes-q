@@ -1,0 +1,97 @@
+{
+  "title": "Quick Fried Dutch Marzipan Fritters",
+  "description": "Savory Dutch fritters featuring marzipan, perfect for a low-carb brunch, cooked to a fluffy perfection in a fondue pot. These fritters are a twist on traditional Dutch cuisine.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "marzipan",
+      "amount": "1 cup",
+      "notes": "almond paste"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "such as gouda or cheddar"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Add the grated cheese, chopped parsley, salt, black pepper, and garlic powder to the bowl and mix well.",
+    "Crumble the marzipan into small pieces and add it to the bowl, mixing until just combined.",
+    "Heat the cooking oil in a fondue pot to 375 degrees.",
+    "Using a spoon, drop small balls of the marzipan mixture into the hot oil, being careful not to overcrowd the pot.",
+    "Fry the fritters for 2-3 minutes on each side, until they are golden brown and puffed up.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot and enjoy.",
+    "Repeat the frying process with the remaining marzipan mixture.",
+    "Keep the fritters warm in a low oven while frying the remaining batches."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "deep-fried",
+    "dutch-cuisine",
+    "fondue-pot",
+    "low-carb",
+    "quick-snacks"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "quick-fried-dutch-marzipan-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-dutch-marzipan-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:02:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "marzipan",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "marzipan",
+    "descriptor": "Quick Fried",
+    "dishForm": "Fritters"
+  }
+}
