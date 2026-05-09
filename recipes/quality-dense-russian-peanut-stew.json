@@ -1,0 +1,101 @@
+{
+  "title": "Quality Dense Russian Peanut Stew",
+  "description": "A hearty, fermented one-pot dish featuring peanut brittle and ferment-jang, made in a kadhai.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanut brittle",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat.",
+    "Add chopped onions and cook until they are translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add crushed peanut brittle and cook for 2 minutes.",
+    "Add ferment-jang, chicken broth, chopped carrots, cubed potatoes, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Stir the stew occasionally to prevent burning.",
+    "Serve hot.",
+    "Garnish with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "gluten-free",
+    "hearty",
+    "one-pot",
+    "peanut",
+    "russian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quality-dense-russian-peanut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-dense-russian-peanut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:09:46Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "ferment-jang",
+    "primaryIngredient": "peanut brittle",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Quality Dense",
+    "dishForm": "Stew"
+  }
+}

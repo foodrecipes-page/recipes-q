@@ -762,6 +762,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-smoky-middle-eastern-borlotti-beans-musakhan",
+    "title": "Quaint Smoky Middle Eastern Borlotti Beans Musakhan",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "paleo",
+      "smoky",
+      "whole30"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 90,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-snappy-canadian-prawns-skewers",
     "title": "Quaint Snappy Canadian Prawns Skewers",
     "tags": [
@@ -1182,6 +1197,22 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quality-dense-russian-peanut-stew",
+    "title": "Quality Dense Russian Peanut Stew",
+    "tags": [
+      "fermented",
+      "gluten-free",
+      "hearty",
+      "one-pot",
+      "peanut",
+      "russian",
+      "stew"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
