@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Spicy Portuguese Kiwifruit Toast",
+  "description": "A spicy and light Portuguese dish featuring kiwifruit and toast, perfect for a sick day, and keto-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "almond flour bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Portuguese chili peppers",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Butter the almond flour bread slices on both sides.",
+    "Place the bread slices in the skillet and cook until lightly toasted.",
+    "Flip the bread slices over and cook for an additional 2 minutes.",
+    "In a small bowl, whisk the eggs and set aside.",
+    "Add the chopped Portuguese chili peppers to the skillet and cook for 1 minute.",
+    "Pour the whisked eggs over the chili peppers in the skillet.",
+    "Scramble the eggs until they are cooked through.",
+    "Assemble the toast by placing the scrambled eggs on top of the toasted bread, then topping with sliced kiwifruit.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "keto-friendly",
+    "portuguese",
+    "quick-snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "quietly-spicy-portuguese-kiwifruit-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-spicy-portuguese-kiwifruit-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:24:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "kiwifruit",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Quietly Spicy",
+    "dishForm": "Toast"
+  }
+}
