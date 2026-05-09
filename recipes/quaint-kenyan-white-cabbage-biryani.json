@@ -1,0 +1,104 @@
+{
+  "title": "Quaint Kenyan White Cabbage Biryani",
+  "description": "A cultured and festive Kenyan dish featuring white cabbage, this pillowy biryani is perfect for special occasions, and is smoke-cold and egg-free-friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White cabbage",
+      "amount": "1 medium head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and grated ginger and cook for another minute.",
+    "Add shredded white cabbage and cook until it is slightly wilted.",
+    "Add coriander powder, turmeric, and salt, and stir well.",
+    "Add basmati rice and stir to combine with the cabbage mixture.",
+    "Add 4 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 15-20 minutes or until the rice is cooked and the water is absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "festive-dish",
+    "kenyan-cuisine",
+    "one-pot",
+    "smoke-cold",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quaint-kenyan-white-cabbage-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-kenyan-white-cabbage-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:49:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "smoke-cold",
+    "primaryIngredient": "white cabbage",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "white cabbage",
+    "descriptor": "quaint pillowy",
+    "dishForm": "Biryani"
+  }
+}

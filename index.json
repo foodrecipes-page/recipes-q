@@ -685,6 +685,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-kenyan-white-cabbage-biryani",
+    "title": "Quaint Kenyan White Cabbage Biryani",
+    "tags": [
+      "egg-free",
+      "festive-dish",
+      "kenyan-cuisine",
+      "one-pot",
+      "smoke-cold",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-light-algerian-chicken-liver-wrap",
     "title": "Quaint Light Algerian Chicken Liver Wrap",
     "tags": [
