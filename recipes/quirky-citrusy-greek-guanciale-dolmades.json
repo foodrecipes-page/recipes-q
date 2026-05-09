@@ -1,0 +1,97 @@
+{
+  "title": "Quirky Citrusy Greek Guanciale Dolmades",
+  "description": "A kid-friendly Greek dish featuring guanciale, this recipe is a twist on traditional dolmades with a citrusy and snappy flavor, making it a great flexitarian option. The dish is easy to make and fun to eat.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Prepare the grape leaves by blanching them in boiling water for 30 seconds.",
+    "In a large bowl, combine the cooked rice, diced guanciale, chopped scallions, lemon juice, orange juice, olive oil, salt, and pepper, and mix well.",
+    "Lay a grape leaf flat on a work surface, with the stem end facing you, and place about 1 tablespoon of the rice mixture in the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package, and repeat with the remaining leaves and filling.",
+    "Place the dolmades in a single layer in a baking dish, seam-side down, and bake for 20 minutes.",
+    "Serve the dolmades warm, garnished with additional lemon juice and scallions if desired.",
+    "Let the dolmades cool completely on a wire rack before refrigerating or freezing them."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flexitarian",
+    "greek-food",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "quirky-citrusy-greek-guanciale-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quirky-citrusy-greek-guanciale-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:19:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "guanciale",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "guanciale",
+    "descriptor": "Quirky Citrusy",
+    "dishForm": "Dolmades"
+  }
+}
