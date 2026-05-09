@@ -1,0 +1,118 @@
+{
+  "title": "Quenched Peruvian Chicken Roast",
+  "description": "Tender and indulgent Peruvian dish featuring kaffir-lime-leaf with an al-dente finish. Shojin-friendly pollo a la brasa recipe.",
+  "cuisine": "peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": ""
+    },
+    {
+      "name": "kaffir-lime-leaves",
+      "amount": "4-6 leaves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ají amarillo peppers",
+      "amount": "2-3 peppers",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, paprika, garlic, oregano, coriander, and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the chicken until browned on all sides, then set aside.",
+    "Add the sliced ají amarillo peppers to the pot and sauté for 2-3 minutes, until tender.",
+    "Add the chicken broth and soy sauce to the pot, scraping up any browned bits from the bottom.",
+    "Return the chicken to the pot and transfer to the preheated oven.",
+    "Baste the chicken with the pan sauce every 20 minutes, until the internal temperature reaches 165°F (74°C).",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before slicing.",
+    "Garnish with chopped kaffir-lime leaves and serve hot.",
+    "Baste the chicken with the pan sauce every 20 minutes, until the internal temperature reaches 165°F (74°C).",
+    "Garnish with chopped kaffir-lime leaves and serve hot.",
+    "Serve with steamed rice or roti, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "main-course",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 45
+  },
+  "slug": "quenched-peruvian-chicken-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peruvian-chicken-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:27Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quenched",
+    "dishForm": "Roast"
+  }
+}

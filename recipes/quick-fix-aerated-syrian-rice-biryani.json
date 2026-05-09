@@ -1,0 +1,116 @@
+{
+  "title": "Quick-Fix Aerated Syrian Rice Biryani",
+  "description": "A quick and flavorful Syrian rice dish made with salt, featuring a cultured, aerated twist to add depth and complexity to your meal. This dish is a perfect one-pot meal for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a salt block wok over medium heat.",
+    "Add the onion, ginger, and garlic, and sauté until the onion is translucent.",
+    "Add the rice and stir-fry for 1-2 minutes to coat with the oil.",
+    "Add the cumin, coriander, turmeric, and cayenne pepper, and stir-fry for another minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover with a lid, and cook for 15-20 minutes or until the rice is cooked and fluffy.",
+    "Stir in the lemon juice and salt to taste.",
+    "Transfer to a serving platter and garnish with fresh herbs, if desired.",
+    "Serve hot, garnished with chopped cilantro or parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "easy-dinner",
+    "jain",
+    "one-pan",
+    "syrian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 7,
+    "carbs": 70,
+    "fat": 16
+  },
+  "slug": "quick-fix-aerated-syrian-rice-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-aerated-syrian-rice-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:15:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "salt",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "rice",
+    "descriptor": "Quick-Fix Aerated",
+    "dishForm": "Biryani"
+  }
+}
