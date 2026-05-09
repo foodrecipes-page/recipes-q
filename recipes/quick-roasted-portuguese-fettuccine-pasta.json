@@ -1,0 +1,102 @@
+{
+  "title": "Quick Roasted Portuguese Fettuccine Pasta",
+  "description": "A roasted and crumbly post-workout Portuguese dish featuring fettuccine and a mirepoix base, Whole30 friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "12 oz",
+      "notes": "Gluten free"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "Cut into bite sized pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the chopped onion, carrots, and celery with 1 tbsp of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the vegetables are roasting, cook the fettuccine according to the package instructions and set aside.",
+    "In a large skillet, heat the remaining 1 tbsp of olive oil over medium high heat and add the chicken breast, cooking until browned and cooked through.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the cooked fettuccine to the skillet, tossing to combine with the chicken and garlic.",
+    "Once the vegetables are done roasting, add them to the skillet and toss to combine with the fettuccine and chicken.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick-dinner",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-roasted-portuguese-fettuccine-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-portuguese-fettuccine-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:06:21Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "fettuccine",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fettuccine",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Pasta"
+  }
+}

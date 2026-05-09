@@ -1,0 +1,102 @@
+{
+  "title": "Quick Crunchy Vietnamese Tofu Bo Kho",
+  "description": "A floral and crunchy Vietnamese dish featuring filo pastry and tofu, perfect for a post-workout meal",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bo kho spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees",
+    "Cut the filo pastry into small squares",
+    "Place a small cube of tofu in the center of each square",
+    "Brush the edges with a little water and fold the pastry into a triangle",
+    "Brush the tops with a little oil and bake for 20 minutes",
+    "Heat the oil in a pan over medium heat and saute the onion and garlic until softened",
+    "Add the ginger and bo kho spice mix and cook for 1 minute",
+    "Add the soy sauce and cook for an additional minute",
+    "Serve the crispy tofu pastry with the bo kho sauce spooned over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "filo-pastry",
+    "floral",
+    "post-workout",
+    "shojin-friendly",
+    "tofu",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quick-crunchy-vietnamese-tofu-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-vietnamese-tofu-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:06:17Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "filo pastry",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Bo Kho"
+  }
+}

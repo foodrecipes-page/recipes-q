@@ -4771,6 +4771,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crunchy-vietnamese-tofu-bo-kho",
+    "title": "Quick Crunchy Vietnamese Tofu Bo Kho",
+    "tags": [
+      "crunchy",
+      "filo-pastry",
+      "floral",
+      "post-workout",
+      "shojin-friendly",
+      "tofu",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-dense-german-burger-slider",
     "title": "Quick-Dense German Burger Slider",
     "tags": [
@@ -8136,6 +8152,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-portuguese-fettuccine-pasta",
+    "title": "Quick Roasted Portuguese Fettuccine Pasta",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "quick-dinner",
+      "whole30"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
