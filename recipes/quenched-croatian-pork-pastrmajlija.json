@@ -1,0 +1,100 @@
+{
+  "title": "Quenched Croatian Pork Pastrmajlija",
+  "description": "Fermented, crumbly Croatian dish featuring ground annatto, steamed in a leaf wrap to perfection. Great for midnight cravings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "Annatto seeds",
+      "amount": "2 tablespoons",
+      "notes": "Grind the annatto seeds to a fine powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Leaf wraps ( collard green or beet leaf )",
+      "amount": "4-6 wraps"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Mix the ground pork, annatto powder, salt, black pepper, paprika, garlic powder, oregano, and thyme in a large bowl.",
+    "Knead the mixture for about 5 minutes until it becomes smooth and even.",
+    "Cut the leaf wraps into large pieces, about 10x10 inches.",
+    "Place a tablespoon of the pork mixture in the center of each leaf piece.",
+    "Fold the leaf over the pork mixture to form a triangle, and secure with a toothpick.",
+    "Place the wrapped pork mixture in a steamer basket, and steam for 20 minutes.",
+    "After 20 minutes, remove the pork mixture from the steamer, and let it cool for 5 minutes.",
+    "Serve the pastrmajlija warm, with additional annatto powder sprinkled on top if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "european",
+    "fermented",
+    "one-pan",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quenched-croatian-pork-pastrmajlija",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-croatian-pork-pastrmajlija",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:55:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "ground annatto",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Quenched",
+    "dishForm": "Pastrmajlija"
+  }
+}
