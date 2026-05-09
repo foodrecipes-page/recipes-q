@@ -1391,6 +1391,22 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-yeasty-norwegian-rice-fried-rice",
+    "title": "Quaint Yeasty Norwegian Rice Fried Rice",
+    "tags": [
+      "fried-rice",
+      "norwegian-cuisine",
+      "plant-based",
+      "seasoned-rice-vinegar",
+      "vegan-friendly",
+      "vegetarian-friendly",
+      "yeasty"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
     "title": "Quaint Yeasty Peruvian Chicken Drumsticks Anticuchos",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Quaint Yeasty Norwegian Rice Fried Rice",
+  "description": "A festive Norwegian dish featuring seasoned rice vinegar and a yeasty twist, this plant-based friendly recipe is perfect for any meal. It combines the flavors of Norway with the convenience of a fried rice dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "small onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the grated carrots and cook for an additional 2 minutes.",
+    "Add the frozen peas, salt, and black pepper, and cook until the peas are thawed.",
+    "In a small bowl, whisk together the rice vinegar and yeast extract.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Pour the vinegar and yeast mixture over the rice and stir-fry for about 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Quaint Yeasty Norwegian Rice Fried Rice hot.",
+    "Garnish with chopped scallions or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fried-rice",
+    "norwegian-cuisine",
+    "plant-based",
+    "seasoned-rice-vinegar",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "quaint-yeasty-norwegian-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-yeasty-norwegian-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:54:29Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "rice",
+    "descriptor": "Quaint Yeasty",
+    "dishForm": "Fried-Rice"
+  }
+}
