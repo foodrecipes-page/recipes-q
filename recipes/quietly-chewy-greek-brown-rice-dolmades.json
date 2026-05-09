@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Chewy Greek Brown Rice Dolmades",
+  "description": "Buttery and chewy Greek dish featuring brown rice, steamed to perfection in grape leaves, perfect for a light and satisfying meal. This vegetarian-friendly dish is a great option for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and blanch them in boiling water for 30 seconds to make them pliable.",
+    "In a large bowl, combine the cooked brown rice, chopped onion, minced garlic, salt, and black pepper.",
+    "Add the butter and lemon juice to the rice mixture and stir until well combined.",
+    "To assemble the dolmades, lay a grape leaf flat on a work surface and place about 1 tablespoon of the rice mixture in the center of the leaf.",
+    "Fold the stem end of the leaf over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with the remaining grape leaves and rice mixture.",
+    "Place the dolmades in a large steamer basket, seam-side down, and steam over boiling water for 20 minutes.",
+    "Serve the dolmades warm, garnished with lemon wedges and a sprinkle of salt."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brown-rice",
+    "dolmades",
+    "greek-food",
+    "steamed",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quietly-chewy-greek-brown-rice-dolmades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-chewy-greek-brown-rice-dolmades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:41:44Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "brown rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "brown rice",
+    "descriptor": "quietly chewy",
+    "dishForm": "Dolmades"
+  }
+}
