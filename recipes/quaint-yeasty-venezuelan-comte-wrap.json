@@ -1,0 +1,100 @@
+{
+  "title": "Quaint Yeasty Venezuelan Comte Wrap",
+  "description": "A yeasty, shaggy, meal-prep Venezuelan dish featuring comte, ssam-wrap, and kosher-friendly ingredients, perfect for a snack or lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "yeast dough",
+      "amount": "1 lb",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets",
+      "notes": "large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "sliced tomato",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the yeast dough to a large sheet, about 1/4 inch thick.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Brush the dough with olive oil and sprinkle with salt and black pepper.",
+    "Arrange the sliced comte cheese on one half of the dough, leaving a 1 inch border around the edges.",
+    "Top the cheese with chopped cilantro, sliced avocado, and sliced tomato.",
+    "Fold the other half of the dough over the filling to form a half-moon shape.",
+    "Place the ssam wrap sheets on top of the dough, pressing gently to adhere.",
+    "Bake the wrap in the preheated oven for 20 minutes, or until the dough is golden brown.",
+    "Remove the wrap from the oven and let it cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comte",
+    "kosher-friendly",
+    "lunch",
+    "meal-prep",
+    "ssam-wrap",
+    "venezuelan",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quaint-yeasty-venezuelan-comte-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-yeasty-venezuelan-comte-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:34:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "comte",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "comte",
+    "descriptor": "Quaint Yeasty",
+    "dishForm": "Wrap"
+  }
+}
