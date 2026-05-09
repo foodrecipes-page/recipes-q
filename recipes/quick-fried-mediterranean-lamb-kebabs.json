@@ -1,0 +1,93 @@
+{
+  "title": "Quick Fried Mediterranean Lamb Kebabs",
+  "description": "A crowd-pleasing Mediterranean dish featuring tender lamb, flavored with apple juice and a blend of spices, perfect for a quick and delicious meal. This low-carb friendly dish is sure to satisfy any appetite.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple juice, olive oil, lemon juice, garlic, oregano, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 10 minutes.",
+    "Heat about 2-3 inches of olive oil in a deep frying pan to 350 degrees.",
+    "Remove the lamb from the marinade and carefully add to the hot oil.",
+    "Fry the lamb for 3-4 minutes on each side, or until cooked to an internal temperature of 145 degrees.",
+    "Remove the lamb from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kebabs",
+    "lamb",
+    "low-carb",
+    "mediterranean",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 22
+  },
+  "slug": "quick-fried-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:44:43Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "apple juice",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Quick fried",
+    "dishForm": "Kebabs"
+  }
+}
