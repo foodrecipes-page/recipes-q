@@ -1,0 +1,92 @@
+{
+  "title": "Quietly Creamy Turkish Lamb Iskender",
+  "description": "A kid-friendly Turkish dish featuring lamb, breadcrumbs, and a creamy sauce, with a hint of bitterness from the yuzu cure, this dish is kosher-friendly and perfect for a weeknight dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, olive oil, garlic, salt, and black pepper.",
+    "Add the lamb strips to the bowl and toss to coat with the yuzu mixture.",
+    "Let the lamb marinate for 10 minutes.",
+    "Remove the lamb from the marinade and cook in a large skillet over medium-high heat until browned.",
+    "Transfer the lamb to a baking dish and bake in the oven for 10 minutes.",
+    "While the lamb is cooking, toast the breadcrumbs in a small skillet over medium heat until lightly browned.",
+    "In a small saucepan, heat the heavy cream over medium heat until warmed through.",
+    "To assemble the dish, slice the cooked lamb into thin strips and serve over toasted breadcrumbs, topped with the warmed cream sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "lamb-recipes",
+    "one-pan",
+    "turkish-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quietly-creamy-turkish-lamb-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-creamy-turkish-lamb-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:30:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "quietly creamy",
+    "dishForm": "Iskender"
+  }
+}
