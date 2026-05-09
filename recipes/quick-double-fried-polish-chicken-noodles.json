@@ -1,0 +1,99 @@
+{
+  "title": "Quick Double Fried Polish Chicken Noodles",
+  "description": "A savory and pillowy Polish dish featuring chicken bouillon powder, double-fry KFC style, and flexitarian-friendly ingredients, served in a mason jar.",
+  "cuisine": "Polish",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "In a shallow dish, mix together the flour, chicken bouillon powder, salt, and black pepper.",
+    "Dip each piece of chicken into the flour mixture, coating evenly, then double-fry in the hot oil until golden brown and cooked through.",
+    "Remove the chicken from the oil and set aside on a paper towel-lined plate.",
+    "In the same skillet, add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Cook the egg noodles according to package instructions and set aside.",
+    "In a large bowl, combine the cooked noodles, double-fried chicken, and sauteed onion and garlic mixture.",
+    "Serve the Quick Double Fried Polish Chicken Noodles in a mason jar and enjoy!",
+    "Garnish with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "kid-friendly",
+    "mason-jar",
+    "polish-cuisine",
+    "quick-dinner",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-double-fried-polish-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-double-fried-polish-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:23:11Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Double Fried",
+    "dishForm": "Noodles"
+  }
+}
