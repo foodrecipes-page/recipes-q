@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Chewy Korean Asian Chive Songpyeon",
+  "description": "A traditional Korean dish featuring Asian chives and nuka pickle, perfect for a brunch mood, with a chewy texture and earthy flavor. This high-protein friendly dish is made in the form of songpyeon, a type of Korean rice cake.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Asian chives",
+      "amount": "1 bunch",
+      "notes": "also known as buchu"
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Korean rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the Korean rice flour and salt.",
+    "Gradually add in the water and mix until a dough forms.",
+    "Knead the dough for about 10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls and flatten each ball into a disk shape.",
+    "Place a few leaves of Asian chives in the center of each disk.",
+    "Add a small amount of Nuka pickle on top of the chives.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Steam the songpyeon for about 15 minutes until they are cooked through.",
+    "Serve the songpyeon warm with a drizzle of sesame oil and a sprinkle of toasted sesame seeds and crushed black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "gluten-free",
+    "high-protein",
+    "korean-rice-cakes",
+    "sesame-oil",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quietly-chewy-korean-asian-chive-songpyeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-chewy-korean-asian-chive-songpyeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "high-protein",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "asian chive",
+    "descriptor": "Quietly Chewy",
+    "dishForm": "Songpyeon"
+  }
+}

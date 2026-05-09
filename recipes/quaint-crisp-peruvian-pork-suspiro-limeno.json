@@ -1,0 +1,110 @@
+{
+  "title": "Quaint Crisp Peruvian Pork Suspiro Limeno",
+  "description": "A jammy and crisp Peruvian dish featuring minced pork, inspired by the traditional Suspiro Limeno, with a comforting twist, this recipe is also Buddhist-temple-friendly as it does not include any forbidden ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the minced pork, chopped onion, minced garlic, and grated ginger, mixing well with your hands or a wooden spoon until just combined.",
+    "Add the soy sauce, chopped aji amarillo pepper, potato starch, salt, and black pepper to the bowl, mixing until the ingredients are evenly distributed.",
+    "Heat the vegetable oil in a large skillet over medium-high heat until it shimmers.",
+    "Using your hands, shape the pork mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Add the patties to the skillet, being careful not to overcrowd, and cook for 3-4 minutes on each side, or until they are cooked through and crispy on the outside.",
+    "Remove the cooked patties from the skillet and place them on a paper towel-lined plate to drain any excess oil.",
+    "Serve the quaint crisp Peruvian pork suspiro limeno hot, garnished with chopped scallions.",
+    "Traditionally, suspiro limeno is served as a dessert, but this savory version is perfect for a weeknight dinner.",
+    "You can also serve it with your favorite sides, such as steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy-food",
+    "gluten-free",
+    "peruvian-cuisine",
+    "pork-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaint-crisp-peruvian-pork-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crisp-peruvian-pork-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:39:32Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "minced pork",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pork",
+    "descriptor": "Quaint Crisp",
+    "dishForm": "Suspiro Limeno"
+  }
+}

@@ -274,6 +274,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-crisp-peruvian-pork-suspiro-limeno",
+    "title": "Quaint Crisp Peruvian Pork Suspiro Limeno",
+    "tags": [
+      "comfort-food",
+      "crispy-food",
+      "gluten-free",
+      "peruvian-cuisine",
+      "pork-recipes",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-croatian-red-pepper-skewers",
     "title": "Quaint Croatian Red Pepper Skewers",
     "tags": [
@@ -11554,6 +11569,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-chewy-korean-asian-chive-songpyeon",
+    "title": "Quietly Chewy Korean Asian Chive Songpyeon",
+    "tags": [
+      "brunch-ideas",
+      "gluten-free",
+      "high-protein",
+      "korean-rice-cakes",
+      "sesame-oil",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
