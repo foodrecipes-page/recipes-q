@@ -1,0 +1,92 @@
+{
+  "title": "Quick Snappy Uruguayan Lemongrass Empanadas",
+  "description": "A delicious and easy Uruguayan empanada recipe featuring lemongrass, perfect for a quick lunch or dinner.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "fish-friendly",
+    "meat-friendly",
+    "no-garlic",
+    "no-onion"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated lemongrass",
+      "amount": "2 stalks",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "fish fillet",
+      "amount": "1 pound"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the fish fillet into small pieces and season with sea salt and black pepper.",
+    "Mix the grated lemongrass into the fish pieces.",
+    "In a large bowl, combine the flour and eggs.",
+    "Gradually add the water to the flour mixture and stir until a dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball of dough into a disk, then place a tablespoon of the fish and lemongrass mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Grill the empanadas for 4-5 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the empanadas hot with a side of salsa or chutney, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-friendly",
+    "grilled",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-snappy-uruguayan-lemongrass-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-snappy-uruguayan-lemongrass-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:58:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "lemongrass",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Quick Snappy",
+    "dishForm": "Empanadas"
+  }
+}
