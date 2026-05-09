@@ -1,0 +1,104 @@
+{
+  "title": "Quick Fix Chinese Boudin-Blanc Bowl",
+  "description": "Quick and easy Chinese-inspired bowl dish featuring boudin blanc in a stone bowl. Perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin blanc",
+      "amount": "6 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "stone bowl",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sliced mushrooms",
+      "amount": "8 oz",
+      "notes": "such as shiitake"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "4 oz",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large stone bowl in the oven at 400°F (200°C) for 10 minutes.",
+    "Rice a large boudin blanc log and slice it thinly.",
+    "Arrange the sliced mushrooms in the preheated stone bowl.",
+    "Add the sliced boudin blanc on top of the mushrooms.",
+    "Pour the sesame oil, soy sauce, and coconut aminos over the boudin blanc.",
+    "Add the chopped scallions and cilantro on top.",
+    "Grill the chicken breast in a separate pan until cooked through.",
+    "Slice the grilled chicken breast into thin strips and arrange on top of the boudin blanc bowl.",
+    "Serve immediately and garnish with additional cilantro if desired.",
+    "Serve over cauliflower rice or zucchini noodles for a paleo-friendly option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "high-protein",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "quick-fix-chinese-boudin-blanc-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-chinese-boudin-blanc-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:31:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "boudin-blanc",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "boudin-blanc",
+    "descriptor": "Quick Fix",
+    "dishForm": "Bowl"
+  }
+}
