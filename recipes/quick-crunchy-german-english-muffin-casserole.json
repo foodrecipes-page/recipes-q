@@ -1,0 +1,105 @@
+{
+  "title": "Quick Crunchy German English Muffin Casserole",
+  "description": "A fatty and crunchy German dish featuring English muffins, perfect for a light meal, and is Jain-friendly as it does not contain any animal products or by-products. It is made with a braise for added flavor.",
+  "cuisine": "German",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English Muffins",
+      "amount": "6",
+      "notes": "toasted and cubed"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "1/4 cup",
+      "notes": "to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the onion and mushrooms in melted vegan butter until they are softened.",
+    "Add the chopped spinach to the skillet and cook until it is wilted.",
+    "In a large bowl, combine the toasted and cubed English muffins, sauteed onion and mushroom mixture, and vegetable broth.",
+    "Stir in the nutritional yeast, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "crunchy",
+    "english-muffin",
+    "german",
+    "jain-friendly",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-crunchy-german-english-muffin-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-german-english-muffin-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:32:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "english muffins",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "english muffins",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Casserole"
+  }
+}
