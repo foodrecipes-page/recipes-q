@@ -1,0 +1,117 @@
+{
+  "title": "Quenched Peruvian Pato Arroz Con Pato",
+  "description": "A rich, fermented post-workout dish originating from Peru, combining strong white bread flour with cured meats and vegetables.",
+  "cuisine": "peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cured pork (chicharrón)",
+      "amount": "1 lb",
+      "notes": "Finely diced."
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "Diced."
+    },
+    {
+      "name": "canned chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fermented rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curdled cheese (queso fresco)",
+      "amount": "1 cup",
+      "notes": "Crumbed."
+    }
+  ],
+  "instructions": [
+    "In a large, heavy pot over medium-high heat, combine the diced cured pork and olive oil. Cook until the meat is lightly browned, about 5 minutes.",
+    "Add the diced onion, minced garlic, and diced red bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Stir in the cooked rice, chicken broth, fermented rice vinegar, chicken bouillon, black pepper, and salt. Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the crumbled queso fresco and continue to simmer for an additional 2 minutes.",
+    "Using a fork, gently mash the cooked rice and meat mixture until it's well combined and slightly sticky.",
+    "Transfer the mixture to a large, shallow serving dish and let it cool to room temperature.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes or until chilled.,"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "fermented",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "post-workout-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 624,
+    "protein": 38,
+    "carbs": 65,
+    "fat": 34
+  },
+  "slug": "quenched-peruvian-pato-arroz-con-pato",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-peruvian-pato-arroz-con-pato",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:26Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "cure",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pato",
+    "descriptor": "Quenched",
+    "dishForm": "Arroz Con Pato"
+  }
+}

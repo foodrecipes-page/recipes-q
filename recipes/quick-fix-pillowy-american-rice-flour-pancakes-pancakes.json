@@ -1,0 +1,86 @@
+{
+  "title": "Quick-Fix Pillowy American Rice Flour Pancakes",
+  "description": "A quick and easy recipe for pillowy pancakes using rice flour, perfect for a breakfast or brunch option. These pancakes are soft, fluffy, and completely kosher-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the rice flour, sugar, baking powder, and salt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "kosher",
+    "pancakes",
+    "pillowy",
+    "quick-fix",
+    "rice-flour"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 13
+  },
+  "slug": "quick-fix-pillowy-american-rice-flour-pancakes-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-pillowy-american-rice-flour-pancakes-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "rice flour pancakes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "rice flour pancakes",
+    "descriptor": "quick-fix pillowy",
+    "dishForm": "pancakes"
+  }
+}

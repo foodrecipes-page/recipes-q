@@ -1,0 +1,122 @@
+{
+  "title": "Quenched Thai Mentaiko Larb",
+  "description": "Resinous, snappy, and bursting with umami flavors, this quenched Thai Mentaiko Larb is a unique twist on the traditional Larb. The crunch of katsuramuki-cut vegetables pairs perfectly with the creamy richness of mentaiko.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mentaiko (spicy pollock roe)",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut carrots",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Katsuramuki-cut red bell peppers",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Khasian pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Thai sticky rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "+",
+      "notes": ""
+    },
+    {
+      "name": "Chili slices",
+      "amount": "+",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "+",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a saucepan over medium-high heat and add 1 tsp of vegetable oil.",
+    "Add the katsuramuki-cut carrots and khasian pepper to the saucepan and cook until the carrots start to soften, about 3 minutes.",
+    "Add the katsuramuki-cut red bell peppers and continue cooking for another 2 minutes.",
+    "Add the chili flakes and brown sugar to the saucepan and stir to combine.",
+    "Add the cooked mentaiko to the saucepan and stir to combine.",
+    "Pour in the Thai sticky rice vinegar, fish sauce, and lime juice into the saucepan and stir to combine.",
+    "Add the cooked mixture to a serving bowl and garnish with fresh cilantro, chili slices, and Thai basil.",
+    "Serve the Quenched Thai Mentaiko Larb immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "easy-to-make",
+    "high-protein",
+    "larb",
+    "low-carb",
+    "one-pan",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quenched-thai-mentaiko-larb",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-thai-mentaiko-larb",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:31Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mentaiko",
+    "diet": "low-carb",
+    "region": "northern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Mentaiko",
+    "descriptor": "quenched",
+    "dishForm": "Larb"
+  }
+}

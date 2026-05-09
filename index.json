@@ -3199,6 +3199,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-peruvian-pato-arroz-con-pato",
+    "title": "Quenched Peruvian Pato Arroz Con Pato",
+    "tags": [
+      "fermented",
+      "high-protein",
+      "one-pan",
+      "peruvian-cuisine",
+      "post-workout-meal",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-pillow-french-nduja-tatin",
     "title": "Quenched Pillow French Nduja Tatin",
     "tags": [
@@ -3816,6 +3831,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-thai-mentaiko-larb",
+    "title": "Quenched Thai Mentaiko Larb",
+    "tags": [
+      "easy-to-make",
+      "high-protein",
+      "larb",
+      "low-carb",
+      "one-pan",
+      "thaifood",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -6422,6 +6453,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-pillowy-american-rice-flour-pancakes-pancakes",
+    "title": "Quick-Fix Pillowy American Rice Flour Pancakes",
+    "tags": [
+      "american",
+      "breakfast",
+      "kosher",
+      "pancakes",
+      "pillowy",
+      "quick-fix",
+      "rice-flour"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -9955,6 +10002,19 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 32,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-spring-ethiopian-dried-raisins-tagine",
+    "title": "Quick-Smoky Spring Ethiopian Dried Raisins Tagine",
+    "tags": [
+      "easy-vegan-option",
+      "high-fiber",
+      "one-pan",
+      "quick-dinner"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
