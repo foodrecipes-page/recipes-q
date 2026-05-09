@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Crunchy Turkish Vialone Nano Rice Dolma",
+  "description": "A salty and crunchy Turkish dish featuring Vialone Nano rice, perfect for a sick day, made with sous-vide and Ayurvedic Tamasic-friendly ingredients, served in a dolma form.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vialone Nano rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for sous-vide"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grape leaves",
+      "amount": "12-15",
+      "notes": "for dolma"
+    }
+  ],
+  "instructions": [
+    "Cook the Vialone Nano rice according to package instructions using a sous-vide machine at 180 degrees Fahrenheit for 30 minutes.",
+    "Heat the olive oil in a pan over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Mix the cooked rice with the sauteed onion and garlic, salt, black pepper, and paprika.",
+    "Prepare the grape leaves by blanching them in boiling water for 30 seconds.",
+    "Fill each grape leaf with the rice mixture and roll into a dolma shape.",
+    "Serve the dolma warm or at room temperature.",
+    "Refrigerate or freeze the dolma for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "sous-vide",
+    "turkish-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-crunchy-turkish-vialone-nano-rice-dolma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crunchy-turkish-vialone-nano-rice-dolma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:32:22Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "sous-vide",
+    "primaryIngredient": "vialone-nano",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "vialone nano rice",
+    "descriptor": "Quietly Crunchy",
+    "dishForm": "Dolma"
+  }
+}
