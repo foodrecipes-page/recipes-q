@@ -1,0 +1,100 @@
+{
+  "title": "Quick Seared Chinese King Prawns Char Siu",
+  "description": "A keto-friendly, grassy, and chewy date-night Chinese dish featuring raw king prawns, cure, and Char Siu form, served on a hot stone plate.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "raw, peeled, and deveined"
+    },
+    {
+      "name": "Char Siu sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a hot stone plate over high heat for 5 minutes.",
+    "In a small bowl, whisk together Char Siu sauce, coconut oil, ginger, garlic, sesame oil, salt, and black pepper.",
+    "Add the king prawns to the bowl and toss to coat with the Char Siu sauce mixture.",
+    "Place the coated king prawns on the preheated hot stone plate and sear for 2-3 minutes per side.",
+    "Remove the prawns from the heat and garnish with chopped green onions.",
+    "Serve immediately on the hot stone plate.",
+    "Caution: the hot stone plate will be extremely hot, use oven mitts or tongs to handle.",
+    "Let the prawns rest for 1 minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "quick-seared-chinese-king-prawns-char-siu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-seared-chinese-king-prawns-char-siu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "raw king prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "king prawns",
+    "descriptor": "Quick seared",
+    "dishForm": "Char Siu"
+  }
+}
