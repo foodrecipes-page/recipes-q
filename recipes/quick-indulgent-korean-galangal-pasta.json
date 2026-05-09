@@ -1,0 +1,105 @@
+{
+  "title": "Quick Indulgent Korean Galangal Pasta",
+  "description": "A citrusy and crumbly Korean dish featuring galangal paste, served with laminated puff pastry and raw friendly ingredients, this recipe is a unique twist on traditional pasta dishes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal paste",
+      "amount": "2 tablespoons",
+      "notes": "found in most Asian markets"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "citrus juice",
+      "amount": "2 tablespoons",
+      "notes": "such as lemon or lime"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the galangal paste, soy sauce, brown sugar, and citrus juice.",
+    "Brush the mixture onto the center of the pastry, leaving a 1 inch border around the edges.",
+    "Sprinkle the minced garlic, chopped green onions, and sesame seeds over the top of the galangal mixture.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the tops of the pastry with the vegetable oil and sprinkle with Korean chili flakes if using.",
+    "Bake the pastry in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Remove the pastry from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "indulgent",
+    "korean-fusion",
+    "pasta-alternative",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-indulgent-korean-galangal-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-indulgent-korean-galangal-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:59:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "lamination-puff",
+    "primaryIngredient": "galangal paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "galangal",
+    "descriptor": "Quick Indulgent",
+    "dishForm": "Pasta"
+  }
+}
