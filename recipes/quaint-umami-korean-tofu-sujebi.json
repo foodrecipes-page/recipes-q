@@ -1,0 +1,107 @@
+{
+  "title": "Quaint Umami Korean Tofu Sujebi",
+  "description": "A traditional Korean dish featuring lacto-vegetarian friendly tofu and umami flavors, this sujebi recipe combines the best of Korean cuisine with a hint of Japanese shichimi-togarashi spice",
+  "cuisine": "Korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "shichimi-togarashi",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "korean zucchini",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together wheat flour and salt, then gradually add water to form a dough, kneading for 5 minutes until smooth and elastic",
+    "Cover the dough with plastic wrap and let rest for 30 minutes",
+    "Divide the dough into small pieces and roll each into a ball, then flatten slightly into a disk shape",
+    "In a large pan, heat vegetable oil over medium heat and sauté the onion and garlic until softened",
+    "Add the cubed tofu, shichimi-togarashi, and korean chili flakes, stirring to combine",
+    "Add the sliced korean zucchini and cook until tender",
+    "In a large pot, bring the vegetable broth to a boil, then add the tofu and zucchini mixture",
+    "Add the sujebi dough disks to the pot and cook for 10 minutes, or until they float to the surface",
+    "Season with salt to taste, then serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "comfort-food",
+    "homemade-noodles",
+    "korean-cuisine",
+    "lacto-vegetarian",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quaint-umami-korean-tofu-sujebi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-umami-korean-tofu-sujebi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:27:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Quaint Umami",
+    "dishForm": "Sujebi"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Quick German Blackcurrant Crumble",
+  "description": "A classic German dessert featuring a jammy blackcurrant filling topped with a crumbly oat mixture, perfect for a crowd, this dish is a tagine-cook and dash-friendly recipe that combines the sweetness of blackcurrant jam with the warmth of cinnamon and the crunch of oats.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "blackcurrant jam",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, brown sugar, ground cinnamon, ground nutmeg, and salt.",
+    "Add the cold unsalted butter to the bowl and use your fingers or a pastry blender to work the butter into the oat mixture until it resembles coarse crumbs.",
+    "In a separate bowl, stir the blackcurrant jam to loosen it.",
+    "Transfer the blackcurrant jam to a 6-inch baking dish or tagine and top with the crumb mixture, spreading it evenly.",
+    "Bake the crumble in the preheated oven for 35-40 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Remove the crumble from the oven and let it cool for a few minutes before serving.",
+    "Serve the crumble warm, topped with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleasers",
+    "easy-desserts",
+    "fruit-crumble",
+    "german-recipes",
+    "quick-desserts",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "quick-german-blackcurrant-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-german-blackcurrant-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:27:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "blackcurrant",
+    "descriptor": "Quick Baked",
+    "dishForm": "Crumble"
+  }
+}

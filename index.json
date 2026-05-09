@@ -984,6 +984,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-umami-korean-tofu-sujebi",
+    "title": "Quaint Umami Korean Tofu Sujebi",
+    "tags": [
+      "asian-fusion",
+      "comfort-food",
+      "homemade-noodles",
+      "korean-cuisine",
+      "lacto-vegetarian",
+      "umami-flavors"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-velvety-japanese-scallops-noodles",
     "title": "Quaint Velvety Japanese Scallops Noodles",
     "tags": [
@@ -6097,6 +6112,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-blackcurrant-crumble",
+    "title": "Quick German Blackcurrant Crumble",
+    "tags": [
+      "crowd-pleasers",
+      "easy-desserts",
+      "fruit-crumble",
+      "german-recipes",
+      "quick-desserts",
+      "tagine-cooking"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
