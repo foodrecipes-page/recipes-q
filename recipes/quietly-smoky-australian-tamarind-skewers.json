@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Smoky Australian Tamarind Skewers",
+  "description": "A cozy Australian dish featuring tamarind pulp, grilled to perfection with a smoky flavor, this recipe is nut-free-friendly and perfect for a dinner gathering.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pork or beef skewers",
+      "amount": "12 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat.",
+    "In a blender, combine tamarind pulp, olive oil, garlic, ginger, lemon juice, salt, and black pepper, and blend until smooth.",
+    "Thread the pork or beef onto skewers, leaving a small space between each piece.",
+    "Brush the tamarind mixture onto both sides of the meat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until cooked through.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh herbs if desired.",
+    "Refrigerate any leftovers promptly.",
+    "Reheat leftovers to an internal temperature of 165 degrees before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "cozy",
+    "dinner-party",
+    "grilled",
+    "smoky",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quietly-smoky-australian-tamarind-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-australian-tamarind-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:11:23Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tamarind",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Skewers"
+  }
+}

@@ -12787,6 +12787,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-simmered-malaysian-beef-curry",
+    "title": "Quietly Simmered Malaysian Beef Curry",
+    "tags": [
+      "beef-recipes",
+      "comfort-food",
+      "curry-dishes",
+      "diabetic-friendly",
+      "gluten-free",
+      "malaysian-cuisine"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-simmered-mexican-cheese-stew",
     "title": "Quietly Simmered Mexican Cheese Stew",
     "tags": [
@@ -12889,6 +12904,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-smoky-australian-tamarind-skewers",
+    "title": "Quietly Smoky Australian Tamarind Skewers",
+    "tags": [
+      "australian",
+      "cozy",
+      "dinner-party",
+      "grilled",
+      "smoky",
+      "tamarind"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

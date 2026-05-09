@@ -1,0 +1,101 @@
+{
+  "title": "Quietly Simmered Malaysian Beef Curry",
+  "description": "A comforting Malaysian dish featuring charred and glassy jelly-like texture, made with ground ginger and rest meat, suitable for diabetics. This recipe is cooked in a terracotta dish for enhanced flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket or shank",
+      "amount": "1.5 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large terracotta dish over medium heat.",
+    "Add the beef chunks and cook until browned on all sides.",
+    "Add the ground ginger, curry powder, and cook for 1 minute.",
+    "Add the coconut milk, beef broth, fish sauce, brown sugar, salt, and pepper, and stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2.5 hours.",
+    "Remove the dish from the heat and let it cool slightly.",
+    "Serve the curry hot, garnished with chopped fresh cilantro or scallions.",
+    "Refrigerate or freeze the leftovers for later use.",
+    "Reheat the curry over low heat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "comfort-food",
+    "curry-dishes",
+    "diabetic-friendly",
+    "gluten-free",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quietly-simmered-malaysian-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-malaysian-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:11:22Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "ground ginger",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Quietly simmered",
+    "dishForm": "Curry"
+  }
+}
