@@ -1,0 +1,99 @@
+{
+  "title": "Quaint Juicy Ukrainian Beets Bake",
+  "description": "A macrobiotic-friendly Ukrainian dish featuring raw vegetables and a citrusy twist, perfect for a cozy dinner. This bake is made with beets, carrots, and other vegetables, all topped with a tangy sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the orange juice, olive oil, apple cider vinegar, salt, and black pepper.",
+    "Add the sliced beets, carrots, and chopped onion to the bowl and toss to coat with the sauce.",
+    "Transfer the vegetables to a lazy-susan-spinner vessel and bake for 45 minutes.",
+    "Remove the vessel from the oven and sprinkle the minced garlic over the top of the vegetables.",
+    "Return the vessel to the oven and bake for an additional 10 minutes.",
+    "Remove the vessel from the oven and let it cool for a few minutes before serving.",
+    "Serve the beets and carrots hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quaint-juicy-ukrainian-beets-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-juicy-ukrainian-beets-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:59:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "bake",
+    "primaryIngredient": "raw vegetables",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beets",
+    "descriptor": "quaint juicy",
+    "dishForm": "Bake"
+  }
+}
