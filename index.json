@@ -8735,6 +8735,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-thai-haddock-curry",
+    "title": "Quick Thai Haddock Curry",
+    "tags": [
+      "fish-dish",
+      "low-sodium",
+      "meal-prep",
+      "one-pan",
+      "quick",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-thai-papaya-som-tum",
     "title": "Quick Thai Papaya Som-Tum",
     "tags": [

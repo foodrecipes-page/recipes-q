@@ -1,0 +1,96 @@
+{
+  "title": "Quick Thai Haddock Curry",
+  "description": "A low-sodium, central-Thai inspired curry dish featuring haddock, served on a wooden board, perfect for a quick meal prep solution.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 pieces",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the haddock fillets and cook for 4 minutes, or until cooked through.",
+    "Stir in the fish sauce and brown sugar.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with Thai basil leaves and serve with lime wedges on a wooden board.",
+    "Serve immediately and store leftovers in an airtight container.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-dish",
+    "low-sodium",
+    "meal-prep",
+    "one-pan",
+    "quick",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "quick-thai-haddock-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-haddock-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:03:11Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "haddock",
+    "diet": "low-sodium",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "haddock",
+    "descriptor": "Quick Aerated",
+    "dishForm": "Curry"
+  }
+}
