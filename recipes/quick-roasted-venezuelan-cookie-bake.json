@@ -1,0 +1,92 @@
+{
+  "title": "Quick Roasted Venezuelan Cookie Bake",
+  "description": "A rich and indulgent Venezuelan dessert featuring roasted cookies and a salt-bake crust, made with whole30-friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cassava cookies",
+      "amount": "1 package",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the almond flour, coconut sugar, and salt.",
+    "Add the dark chocolate chips, coconut oil, eggs, and vanilla extract to the bowl and mix until well combined.",
+    "Stir in the crushed cassava cookies.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 25 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Cut into squares and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "cookie-based",
+    "gluten-free",
+    "indulgent",
+    "roasted",
+    "venezuelan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "quick-roasted-venezuelan-cookie-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-venezuelan-cookie-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:54:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "cookies",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cookies",
+    "descriptor": "Quick roasted",
+    "dishForm": "Bake"
+  }
+}
