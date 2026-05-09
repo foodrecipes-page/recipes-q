@@ -1,0 +1,97 @@
+{
+  "title": "Quick Roasted Dutch Chestnut Mushroom Stew",
+  "description": "A rich and cozy Dutch dish featuring chestnut mushrooms, kombu cold extract, and egg free friendly ingredients, perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced mushrooms with olive oil, salt, and pepper until they are evenly coated.",
+    "Spread the mushrooms out in a single layer on a baking sheet and roast for 20 minutes.",
+    "In a large pot, saute the chopped onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the kombu cold extract, thyme, and bay leaves to the pot and stir to combine.",
+    "Add the roasted mushrooms and vegetable broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-based",
+    "one-pot",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-roasted-dutch-chestnut-mushroom-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-dutch-chestnut-mushroom-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:38:08Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "Quick roasted",
+    "dishForm": "Stew"
+  }
+}
