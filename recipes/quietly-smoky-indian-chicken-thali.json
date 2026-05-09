@@ -1,0 +1,97 @@
+{
+  "title": "Quietly Smoky Indian Chicken Thali",
+  "description": "A light and flavorful Indian dish featuring smoky paprika and tandoor spices, served on a wooden board in a traditional thali format, with a yeasty and glassy-jelly texture.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tandoor spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the smoky paprika, tandoor spice mix, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat the ghee in a large skillet over medium-high heat and cook the chicken until browned on all sides.",
+    "Transfer the chicken to a baking dish and bake in the oven for 20 minutes, or until cooked through.",
+    "In a small bowl, sprinkle the yeast over 1 tablespoon of warm water and let sit for 5 minutes, or until frothy.",
+    "In a separate bowl, mix together the gelatin and 1 tablespoon of cold water, then add the yeast mixture and stir to combine.",
+    "Spoon the gelatin mixture over the cooked chicken and refrigerate for at least 30 minutes to set.",
+    "Garnish with chopped cilantro and serve on a wooden board in a traditional thali format."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-cuisine",
+    "keto-friendly",
+    "smoky-flavors",
+    "traditional-thali"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "quietly-smoky-indian-chicken-thali",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-indian-chicken-thali",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:59:08Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "tandoor",
+    "primaryIngredient": "smoky paprika",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Thali"
+  }
+}
