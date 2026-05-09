@@ -1,0 +1,100 @@
+{
+  "title": "Quick Pickled Korean Cucumbers Banchan",
+  "description": "A citrusy and snappy Korean side dish featuring pickled cucumbers, perfect for a date night, with a focus on ayurvedic-tamasic-friendly ingredients. This banchan is served in a cazuela vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": "4 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together rice vinegar, water, sugar, and salt until the sugar and salt are dissolved.",
+    "Add the sliced cucumbers, green chili peppers, garlic, and ginger to the bowl and toss to combine.",
+    "Let the mixture sit at room temperature for at least 30 minutes to allow the cucumbers to pickle.",
+    "After 30 minutes, stir in the sesame oil.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours to allow the flavors to meld.",
+    "Just before serving, give the pickled cucumbers a good stir and adjust the seasoning if needed.",
+    "Serve the pickled cucumbers in a cazuela vessel, garnished with additional green chili peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "gluten-free",
+    "korean-cuisine",
+    "quick-pickling",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 14,
+    "fat": 0
+  },
+  "slug": "quick-pickled-korean-cucumbers-banchan",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pickled-korean-cucumbers-banchan",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:27:21Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "green salsa",
+    "diet": "ayurvedic-tamasic",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cucumbers",
+    "descriptor": "Quick Pickled",
+    "dishForm": "Banchan"
+  }
+}
