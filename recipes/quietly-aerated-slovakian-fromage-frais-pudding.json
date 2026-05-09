@@ -1,0 +1,89 @@
+{
+  "title": "Quietly Aerated Slovakian Fromage Fres Pudding",
+  "description": "A sweet and aerated post-workout Slovakian dish featuring fromage frais, nuka-pickle, and buddhist-temple-friendly ingredients, perfect for a healthy dessert or snack. This pudding is made with natural ingredients and is free from animal products.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fromage frais",
+      "amount": "250g",
+      "notes": "make sure it is vegan"
+    },
+    {
+      "name": "nuka pickle",
+      "amount": "100g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "50g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "10g"
+    },
+    {
+      "name": "soy milk",
+      "amount": "200g"
+    },
+    {
+      "name": "agar agar powder",
+      "amount": "20g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine fromage frais, nuka pickle, maple syrup, and vanilla extract and blend until smooth.",
+    "In a saucepan, whisk together soy milk, agar agar powder, and lemon juice.",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Fold the soy milk mixture into the fromage frais mixture until well combined.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate the pudding for at least 2 hours to allow it to set.",
+    "Once set, use a fork to gently aerate the pudding.",
+    "Serve the pudding chilled and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "post-workout",
+    "slovakian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quietly-aerated-slovakian-fromage-frais-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-aerated-slovakian-fromage-frais-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:47:06Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "fromage frais",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "fromage frais",
+    "descriptor": "Quietly aerated",
+    "dishForm": "Pudding"
+  }
+}
