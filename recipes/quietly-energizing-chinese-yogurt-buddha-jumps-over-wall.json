@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Energizing Chinese Yogurt Buddha Jumps Over Wall",
+  "description": "A refreshing and energizing Chinese dessert featuring yogurt, candy, and herbal ingredients, served in a molcajete vessel and shaped like Buddha Jumps Over Wall.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "plain yogurt",
+      "amount": "2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "rock candy",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "dried ginger",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "green tea leaves",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lychee fruit",
+      "amount": "1 cup",
+      "notes": "canned and drained"
+    },
+    {
+      "name": "jasmine flowers",
+      "amount": "1/4 cup",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the crushed rock candy and 1 cup of water, and heat over low heat, stirring until the candy dissolves.",
+    "Remove the saucepan from the heat and add the ground dried ginger and dried green tea leaves, letting it steep for 10 minutes.",
+    "Strain the mixture through a fine mesh sieve into a large bowl, discarding the solids.",
+    "Add the plain yogurt, honey, and dried jasmine flowers to the bowl, and stir until well combined.",
+    "Fold in the canned lychee fruit.",
+    "Spoon the mixture into a molcajete vessel.",
+    "Shape the mixture into a Buddha Jumps Over Wall shape.",
+    "Refrigerate the dessert for at least 30 minutes before serving.",
+    "Serve chilled and garnished with additional dried jasmine flowers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-dessert",
+    "easy-to-make",
+    "energizing",
+    "herbal",
+    "one-vessel",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quietly-energizing-chinese-yogurt-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-energizing-chinese-yogurt-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:43:14Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "candy",
+    "primaryIngredient": "yogurt",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "yogurt",
+    "descriptor": "Quietly Energizing",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
