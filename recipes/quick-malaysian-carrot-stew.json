@@ -1,0 +1,101 @@
+{
+  "title": "Quick Malaysian Carrot Stew",
+  "description": "A fermented and tender Malaysian dish featuring carrots, wok-hei, and low-glycemic-friendly ingredients, cooked in a claypot. This energizing stew is perfect for a weeknight dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "tempeh",
+      "amount": "8 ounces",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fermented soybean paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a claypot over medium heat.",
+    "Add the chopped onion and cook until softened, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the crumbled tempeh and cook until lightly browned, about 3 minutes.",
+    "Add the sliced carrots, fermented soybean paste, fish sauce, and lime juice.",
+    "Stir well to combine and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, until the carrots are tender, about 15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "gluten-free",
+    "low-glycemic",
+    "malaysian",
+    "quick",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quick-malaysian-carrot-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-malaysian-carrot-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:46:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "carrots",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "carrots",
+    "descriptor": "Quick braised",
+    "dishForm": "Stew"
+  }
+}
