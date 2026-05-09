@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Molten Irish Potato Casserole",
+  "description": "A malty, molten, and cozy Irish dish featuring potatoes and nuka-pickle, perfect for a cold winter's night. This nut-free-friendly casserole is sure to become a family favorite.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malted milk powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the sliced potatoes and chopped nuka-pickle.",
+    "In a separate bowl, mix together the melted butter, malted milk powder, chopped onion, minced garlic, salt, and black pepper.",
+    "Pour the wet ingredients over the potato mixture and stir until the potatoes are well coated.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are golden brown.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 65,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "family-friendly",
+    "irish-cuisine",
+    "potato-casserole",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-molten-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-molten-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:26:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "potatoes",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "quietly molten",
+    "dishForm": "Casserole"
+  }
+}
