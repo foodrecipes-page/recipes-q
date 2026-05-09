@@ -1,0 +1,140 @@
+{
+  "title": "Quenched German Beef Stew Korean-Brass-Bowl",
+  "description": "A hearty, resinous beef stew with a twist: served in a Korean-style brass bowl, perfect for a crowd-pleasing dinner.",
+  "cuisine": "german",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seed",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for the braising liquid"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the caraway seed and cook for 1 minute.",
+    "Sprinkle the flour over the meat and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, red wine, tomatoes, carrots, potatoes, thyme, bay leaves, black pepper, salt, and water to the pot.",
+    "Stir to combine, then bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven. Braise the stew for 2 hours, or until the meat is tender.",
+    "Remove the pot from the oven and stir in the sesame oil.",
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Serve the stew in a Korean-style brass bowl, garnished with a sprinkle of caraway seed if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy",
+    "german",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 100,
+    "fat": 40
+  },
+  "slug": "quenched-german-beef-stew-korean-brass-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-german-beef-stew-korean-brass-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "minced beef",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "beef",
+    "descriptor": "quenched",
+    "dishForm": "stew"
+  }
+}

@@ -1956,6 +1956,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-german-beef-stew-korean-brass-bowl",
+    "title": "Quenched German Beef Stew Korean-Brass-Bowl",
+    "tags": [
+      "beef",
+      "easy",
+      "german",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-german-sauser-pilaf",
     "title": "Quenched German Sauser Pilaf",
     "tags": [
@@ -3437,6 +3451,21 @@
     ],
     "cuisine": "ukrainian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-umami-middle-eastern-lemongrass-takrai-tagine",
+    "title": "Quenched Umami Middle Eastern Lemongrass-Takrai Tagine",
+    "tags": [
+      "date-night",
+      "keto",
+      "lemongrass-takrai",
+      "middle-eastern",
+      "romantic",
+      "umami"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 120,
     "shard": "q"
   },
   {

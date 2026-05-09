@@ -1,0 +1,98 @@
+{
+  "title": "Quenched Umami Middle Eastern Lemongrass-Takrai Tagine",
+  "description": "A keto-friendly, date-night dish featuring lemongrass-takrai and robata-grill. Perfect for a romantic evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bulgarian feta",
+      "amount": "120g"
+    },
+    {
+      "name": "Lemongrass-takrai oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "200ml"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "60ml"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g"
+    },
+    {
+      "name": "Copper pot",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 180°C.",
+    "Season the lamb shoulder with kosher salt and black pepper.",
+    "In a copper pot, heat the lemongrass-takrai oil over medium heat.",
+    "Add the lamb shoulder and sear until browned on all sides.",
+    "Add the chicken broth, heavy cream, pomegranate molasses, and Bulgarian feta. Stir to combine.",
+    "Bring the mixture to a simmer and cook until the lamb is tender.",
+    "Stir in some chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "keto",
+    "lemongrass-takrai",
+    "middle-eastern",
+    "romantic",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 1040,
+    "protein": 64,
+    "carbs": 8,
+    "fat": 82
+  },
+  "slug": "quenched-umami-middle-eastern-lemongrass-takrai-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-umami-middle-eastern-lemongrass-takrai-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:02Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "robata-grill",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "lemongrass-takrai",
+    "descriptor": "quenched umami",
+    "dishForm": "tagine"
+  }
+}
