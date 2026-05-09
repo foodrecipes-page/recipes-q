@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Juicy Moroccan Lamb Mechoui",
+  "description": "A romantic Moroccan dish featuring tender lamb and sweet sultanas, perfect for a special occasion. This mechoui is cooked to perfection with a blend of aromatic spices and a hint of wok-hei.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the cumin, smoked paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until it is browned on all sides, about 5 minutes per side.",
+    "Add the sultanas, garlic, and parsley to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Slice the lamb against the grain and serve it with the sultanas and sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "quietly-juicy-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-juicy-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:09:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "wok-hei",
+    "primaryIngredient": "sultanas",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Juicy",
+    "dishForm": "Mechoui"
+  }
+}
