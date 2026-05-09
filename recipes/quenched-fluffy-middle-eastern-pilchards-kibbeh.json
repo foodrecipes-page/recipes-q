@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Fluffy Middle Eastern Pilchards Kibbeh",
+  "description": "A nutty and fluffy Middle Eastern dish featuring pilchards, perfect for a hangover cure, made with ayurvedic-sattvic friendly ingredients and grilled to perfection in a yakimono style, served in a lotus leaf wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pine nuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spices",
+      "amount": "1 tsp",
+      "notes": "including cumin, coriander, and paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, combine the cooked bulgur wheat, flaked pilchards, chopped onion, minced garlic, chopped pine nuts, spices, salt, and black pepper, and mix well.",
+    "Using your hands, shape the mixture into small oval shapes, about 1 1/2 inches long and 1 inch wide.",
+    "Wrap each kibbeh in a lotus leaf, making sure to seal the edges well.",
+    "Brush the yakimono grill with a small amount of oil to prevent sticking.",
+    "Grill the kibbeh for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the quenched fluffy Middle Eastern pilchards kibbeh hot, garnished with additional pine nuts and spices if desired.",
+    "Repeat with the remaining kibbeh and lotus leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "pescatarian",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quenched-fluffy-middle-eastern-pilchards-kibbeh",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-fluffy-middle-eastern-pilchards-kibbeh",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "hangover-cure",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pilchards",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "pilchards",
+    "descriptor": "quenched fluffy",
+    "dishForm": "Kibbeh"
+  }
+}
