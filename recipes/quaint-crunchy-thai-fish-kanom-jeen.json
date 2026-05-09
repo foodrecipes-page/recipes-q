@@ -1,0 +1,106 @@
+{
+  "title": "Quaint Crunchy Thai Fish Kanom Jeen",
+  "description": "A tangy and crunchy Thai dish featuring dried apricots and fish, served in a mason jar with ssam wrap, perfect for a cozy meal. This pescatarian-friendly dish is a variation of the traditional Kanom Jeen recipe.",
+  "cuisine": "Thai",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish balls",
+      "amount": "12",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "1 package",
+      "notes": "rice paper wrappers"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice paper wrappers in cold water and set aside.",
+    "In a large bowl, mix together the chopped dried apricots, fish balls, Thai red curry paste, coconut milk, fish sauce, and lime juice.",
+    "Arrange a small amount of the apricot and fish mixture onto a rice paper wrapper, leaving a 1-inch border around the edges.",
+    "Top the mixture with chopped cilantro, crushed peanuts, and a sprinkle of salt.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the Kanom Jeen in a mason jar, garnished with additional chopped cilantro and crushed peanuts if desired.",
+    "Store any leftover Kanom Jeen in an airtight container in the refrigerator for up to 3 days.",
+    "To serve, simply remove the desired number of Kanom Jeen from the refrigerator and let come to room temperature.",
+    "Serve with additional ssam wrap and your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "kanom-jeen",
+    "mason-jar",
+    "pescatarian",
+    "ssam-wrap",
+    "tangy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quaint-crunchy-thai-fish-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crunchy-thai-fish-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:05:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dried apricots",
+    "diet": "pescatarian",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "quaint crunchy",
+    "dishForm": "Kanom Jeen"
+  }
+}
