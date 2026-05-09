@@ -1,0 +1,93 @@
+{
+  "title": "Quintessential Gooey Syrian Seafood Tagine",
+  "description": "A rich and indulgent Syrian dish featuring seafood stock and wok-hei, cooked to perfection in a tagine pot, this recipe is a funky and gooey delight that just so happens to be Buddhist-temple-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "seafood stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a tagine pot over medium heat.",
+    "Add the minced garlic and grated ginger and cook until fragrant.",
+    "Add the shrimp, mussels, and clams, and cook until the seafood starts to brown.",
+    "Add the seafood stock and tagine spice blend, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, until the seafood is cooked through and the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "one-pot",
+    "seafood",
+    "syrian",
+    "tagine",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quintessential-gooey-syrian-seafood-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-gooey-syrian-seafood-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:34:52Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "wok-hei",
+    "primaryIngredient": "seafood stock",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "seafood",
+    "descriptor": "Quintessential Gooey",
+    "dishForm": "Tagine"
+  }
+}
