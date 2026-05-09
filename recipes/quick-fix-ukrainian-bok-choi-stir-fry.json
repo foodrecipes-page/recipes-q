@@ -1,0 +1,94 @@
+{
+  "title": "quick-fix ukrainian bok choi stir-fry",
+  "description": "a simple, buttery, and glassy-jelly ukrainian dish featuring bok choi, perfect for a quick weeknight meal",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 oz) full-fat",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "add the bok choy and cook, stirring occasionally, until it starts to brown, about 3 minutes.",
+    "add the garlic and cook, stirring constantly, for 1 minute.",
+    "add the chicken broth and cook, stirring constantly, for 2 minutes, until the liquid has almost completely evaporated.",
+    "stir in the coconut cream and cook for 1 minute, until the mixture is smooth and heated through.",
+    "remove from heat and stir in the remaining 1 tablespoon of butter, salt, and black pepper.",
+    "sprinkle with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bok-choy",
+    "easy-dinner",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "quick-fix-ukrainian-bok-choi-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-ukrainian-bok-choi-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:09:56Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "bok choi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "bok choi",
+    "descriptor": "quick-fix",
+    "dishForm": "stir-fry"
+  }
+}
