@@ -1,0 +1,111 @@
+{
+  "title": "Quietly Quenched Chinese Lamb Bao",
+  "description": "A herbal and crisp Chinese Xinjiang dish featuring lamb, cream of tartar, and lamination-puff pastry, served in a cataplana vessel to help cure hangovers, this low-glycemic-friendly recipe is perfect for a comforting meal. The combination of flavors and textures will quietly quench your hunger and soothe your senses.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into small pieces"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lamination-puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cataplana sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together cream of tartar, cumin, coriander, and a pinch of salt.",
+    "Add the lamb pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat a large skillet over medium-high heat and sear the lamb until browned on all sides.",
+    "In a separate skillet, sauté the sliced onion and grated ginger until the onion is translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Roll out the lamination-puff pastry to a large rectangle, about 1/4 inch thick.",
+    "Spoon the lamb and onion mixture onto one half of the pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Place the pastry in a cataplana vessel and brush the top with cataplana sauce.",
+    "Bake the bao in the preheated oven for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "gluten-free",
+    "hangover-cure",
+    "lamb-recipes",
+    "low-glycemic",
+    "pastry-dishes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quietly-quenched-chinese-lamb-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-chinese-lamb-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:50:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cream of tartar",
+    "diet": "low-glycemic",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Bao"
+  }
+}
