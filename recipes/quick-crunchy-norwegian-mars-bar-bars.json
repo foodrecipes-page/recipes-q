@@ -1,0 +1,92 @@
+{
+  "title": "Quick Crunchy Norwegian Mars Bar Bars",
+  "description": "A crowd-pleasing Norwegian dish featuring Mars bars, with a garlicky and crisp twist, perfect for a keto-friendly dessert.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "12",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Mix the almond flour, granulated sweetener, and garlic powder in a large bowl.",
+    "Add the melted butter, sea salt, and large eggs to the bowl and mix until well combined.",
+    "Fold in the chopped Mars bars and shredded coconut.",
+    "Press the mixture into a lined or greased 8x8 inch baking dish.",
+    "Bake for 20 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely.",
+    "Cut into bars and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "crunchy",
+    "garlicky",
+    "keto-friendly",
+    "low-carb",
+    "norwegian-dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "slug": "quick-crunchy-norwegian-mars-bar-bars",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-norwegian-mars-bar-bars",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:03:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "mars bar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Bars"
+  }
+}
