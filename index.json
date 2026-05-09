@@ -1751,6 +1751,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-egyptian-dishes-tagine",
+    "title": "Quenched Egyptian Tagine",
+    "tags": [
+      "egyptian",
+      "high-protein",
+      "keto",
+      "one-pan",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-egyptian-split-peas-dal",
     "title": "Quenched Egyptian SPLIT PEAS Dal",
     "tags": [
