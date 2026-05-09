@@ -1,0 +1,100 @@
+{
+  "title": "Quick Energizing Filipino Fideo Bicol Express",
+  "description": "A herbal and springy Filipino dish featuring fideo, broil, and jain-friendly ingredients, inspired by the flavors of Bicol Express",
+  "cuisine": "Filipino",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fideo noodles",
+      "amount": "8 oz",
+      "notes": "thin and springy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the fideo noodles according to package instructions and set aside",
+    "In a large pot, combine coconut milk, vegetable broth, and bruised lemongrass",
+    "Bring the mixture to a boil, then reduce heat to medium-low and simmer for 10 minutes",
+    "Add cubed silken tofu, sliced green chili peppers, and chopped Thai basil to the pot",
+    "Season with salt and black pepper to taste",
+    "Simmer the mixture for an additional 5 minutes, or until the flavors have melded together",
+    "Add cooked fideo noodles to the pot and stir to combine",
+    "Serve the Quick Energizing Filipino Fideo Bicol Express hot, garnished with additional Thai basil if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-food",
+    "herbal",
+    "jain-friendly",
+    "one-pot",
+    "quick-meal",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-energizing-filipino-fideo-bicol-express",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-filipino-fideo-bicol-express",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:52:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "fideo",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fideo",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Bicol Express"
+  }
+}
