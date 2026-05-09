@@ -1,0 +1,95 @@
+{
+  "title": "Quick Savory Turkish Haggis Cig Kofte",
+  "description": "A savory Turkish dish featuring haggis, this recipe is low-fat-friendly and made in a paella pan, perfect for a weeknight dinner. The cig kofte form gives it a unique and delicious twist.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "1 pound",
+      "notes": "traditional Scottish dish made from sheep heart, liver, and lungs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "low-fat beef broth",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the haggis, onion, garlic, turkish spice blend, salt, and black pepper, and mix well with your hands or a wooden spoon until just combined.",
+    "Add the bulgur to the bowl and mix until the bulgur is evenly distributed.",
+    "Gradually add the low-fat beef broth to the bowl, mixing with your hands or a wooden spoon until the mixture forms a cohesive dough.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a long, thin cylinder, about 1 inch in diameter and 4 inches long.",
+    "Place the cig kofte in a paella pan or a large oven-safe skillet, leaving about 1 inch of space between each piece.",
+    "Bake the cig kofte in the preheated oven for 20 minutes, or until lightly browned on the outside and cooked through.",
+    "Serve the cig kofte hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "haggis-recipe",
+    "low-fat",
+    "one-pan",
+    "savory",
+    "turkish-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-savory-turkish-haggis-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-turkish-haggis-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:11:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "haggis",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "haggis",
+    "descriptor": "Quick Savory",
+    "dishForm": "Cig Kofte"
+  }
+}
