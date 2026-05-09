@@ -1,0 +1,96 @@
+{
+  "title": "Quick Herbal Spanish Seafood Fideua",
+  "description": "A Whole30-friendly, herbal Spanish dish featuring seafood and Dutch stroop, served in a stone bowl, perfect for a date night.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "mussels",
+      "amount": "1 pound",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "clams",
+      "amount": "1 pound",
+      "notes": "scrubbed"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "fideua noodles",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl over medium-high heat.",
+    "Add the garlic and thyme and cook for 1 minute.",
+    "Add the shrimp, mussels, and clams and cook until the seafood is opaque and the shells are open.",
+    "Add the Dutch stroop and stir to combine.",
+    "Add the fideua noodles and stir to combine.",
+    "Cook for an additional 2 minutes or until the noodles are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately in the stone bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "one-pan",
+    "seafood",
+    "spanish",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-herbal-spanish-seafood-fideua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-herbal-spanish-seafood-fideua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:57:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "dutch stroop",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "seafood",
+    "descriptor": "Quick Herbal",
+    "dishForm": "Fideua"
+  }
+}
