@@ -773,6 +773,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-shaggy-norwegian-potato-hash",
+    "title": "Quaint Shaggy Norwegian Potato Hash",
+    "tags": [
+      "breakfast-ideas",
+      "kid-friendly",
+      "norwegian-cuisine",
+      "plant-based",
+      "salt-block-recipes"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-silky-chinese-pork-dumplings",
     "title": "Quaint Silky Chinese Pork Dumplings",
     "tags": [
@@ -1170,6 +1184,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quaintly-crispy-canadian-duck-skewers",
+    "title": "Quaintly Crispy Canadian Duck Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "duck-recipes",
+      "high-protein",
+      "romantic-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 150,
     "shard": "q"
   },
   {

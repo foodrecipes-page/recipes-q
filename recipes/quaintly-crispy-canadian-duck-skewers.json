@@ -1,0 +1,95 @@
+{
+  "title": "Quaintly Crispy Canadian Duck Skewers",
+  "description": "A romantic Canadian dish featuring redcurrants and crispy duck, perfect for a special occasion, with a high protein content for a satisfying meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, maple syrup, rice vinegar, and olive oil to make the marinade.",
+    "Add the duck pieces to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated duck pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the sous-vide machine and cook for 2 hours.",
+    "While the duck is cooking, prepare the redcurrant sauce by heating the redcurrants and garlic in a saucepan over medium heat.",
+    "Once the duck is cooked, remove it from the sous-vide machine and pat dry with paper towels.",
+    "Heat a large skillet over high heat and add a small amount of olive oil.",
+    "Sear the duck skewers in the skillet for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve the duck skewers hot with the redcurrant sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "duck-recipes",
+    "high-protein",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaintly-crispy-canadian-duck-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-crispy-canadian-duck-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:36:59Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "redcurrants",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Quaintly crispy",
+    "dishForm": "Skewers"
+  }
+}

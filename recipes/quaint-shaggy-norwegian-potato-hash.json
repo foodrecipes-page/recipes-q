@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Shaggy Norwegian Potato Hash",
+  "description": "A pungent and shaggy Norwegian dish featuring salted butter and ferment-jang, perfect for kids and plant-based friendly, cooked on a salt block.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "plant-based",
+    "kid-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees for 30 minutes.",
+    "In a large bowl, combine diced potatoes, chopped onions, minced garlic, salt, and black pepper.",
+    "Mix well to combine and set aside.",
+    "In a small bowl, whisk together melted salted butter and ferment-jang.",
+    "Add the butter and ferment-jang mixture to the potato mixture and mix until the potatoes are well coated.",
+    "Remove the preheated salt block from the oven and brush with olive oil.",
+    "Add the potato mixture to the salt block and spread out in a single layer.",
+    "Return the salt block to the oven and bake for 25 minutes or until the potatoes are golden brown.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "kid-friendly",
+    "norwegian-cuisine",
+    "plant-based",
+    "salt-block-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quaint-shaggy-norwegian-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-shaggy-norwegian-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:37:43Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "salted butter",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "quaint shaggy",
+    "dishForm": "Hash"
+  }
+}
