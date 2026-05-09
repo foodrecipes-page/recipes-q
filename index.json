@@ -8490,6 +8490,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-ovened-kenyan-fish-braai",
+    "title": "Quick Ovened Kenyan Fish Braai",
+    "tags": [
+      "fish",
+      "high-protein",
+      "kenyan",
+      "oven",
+      "quick"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-peppery-russian-beef-stew",
     "title": "Quick Peppery Russian Beef Stew",
     "tags": [

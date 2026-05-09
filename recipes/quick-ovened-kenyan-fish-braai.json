@@ -1,0 +1,109 @@
+{
+  "title": "Quick Ovened Kenyan Fish Braai",
+  "description": "A spicy and crispy kenyan dish made with fish, shio-koji, and a sweet and tangy twist from raspberry jam.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tilapia fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "1 tablespoon",
+      "notes": "Cure for 30 minutes before cooking."
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "2 tablespoons",
+      "notes": "Use as a glaze during the last 10 minutes of cooking."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Brush the fish with olive oil before cooking."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "Garnish with fresh cilantro after cooking."
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "sliced",
+      "notes": "Serve with lemon wedges on the side."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the tilapia fillets and pat them dry with paper towels.",
+    "Mix shio-koji cure ingredients and apply to the fish for 30 minutes before cooking.",
+    "Line a baking sheet with parchment paper and place the fish on it.",
+    "Drizzle olive oil over the fish and sprinkle with paprika, salt, and black pepper.",
+    "Place the fish in the oven and bake for 12-15 minutes or until cooked through.",
+    "Brush the fish with raspberry jam during the last 10 minutes of cooking.",
+    "Remove the fish from the oven and garnish with chopped cilantro.",
+    "Serve the fish with sliced lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "kenyan",
+    "oven",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "quick-ovened-kenyan-fish-braai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-ovened-kenyan-fish-braai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:42:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "raspberry jam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Fish",
+    "descriptor": "Quick Ovened",
+    "dishForm": "Braai"
+  }
+}
