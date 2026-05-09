@@ -1,0 +1,117 @@
+{
+  "title": "Quick-Grilled Turkish Meat Lahmacun",
+  "description": "A simple and flavorful Turkish dish featuring a thin crust topped with minced meat, spices, and molten cheese, all ready in under 30 minutes. This recipe is a plant-based-friendly twist on the traditional version.",
+  "cuisine": "Turkish",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced lamb or beef",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "minced onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "molten cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tagine oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drizzle with malt vinegar and serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meatless-mondays",
+    "one-pan",
+    "quick-and-easy",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "quick-grilled-turkish-meat-lahmacun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-turkish-meat-lahmacun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:55Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "malt vinegar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "Quick-Grilled",
+    "dishForm": "Lahmacun"
+  }
+}

@@ -7568,6 +7568,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grilled-turkish-meat-lahmacun",
+    "title": "Quick-Grilled Turkish Meat Lahmacun",
+    "tags": [
+      "high-protein",
+      "meatless-mondays",
+      "one-pan",
+      "quick-and-easy",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quick-grilled-uruguayan-beef-skewers",
     "title": "Quick Grilled Uruguayan Beef Skewers",
     "tags": [
