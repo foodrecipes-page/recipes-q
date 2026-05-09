@@ -7604,6 +7604,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-chinese-salmon-biryani",
+    "title": "Quick Savory Chinese Salmon Biryani",
+    "tags": [
+      "biryani",
+      "chinese",
+      "one-pan",
+      "quick",
+      "salmon",
+      "savory",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-french-white-beans-cassoulet",
     "title": "Quick Savory French White Beans Cassoulet",
     "tags": [
