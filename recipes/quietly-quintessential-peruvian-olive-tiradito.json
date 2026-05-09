@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Quintessential Peruvian Olive Tiradito",
+  "description": "A light and festive Peruvian dish featuring pitted black olives in a soffritto-base, served in a copper mug. This low-calorie-friendly tiradito is perfect for a snack or appetizer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pitted black olives",
+      "amount": "1 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chopped onion, minced garlic, and grated ginger and blend until well combined.",
+    "Heat olive oil in a small saucepan over medium heat and add the blended onion mixture, cooking until softened.",
+    "Add lime juice, salt, and pepper to the saucepan and stir to combine.",
+    "Arrange sliced black olives in the bottom of a copper mug.",
+    "Spoon the onion mixture over the olives, making sure to cover them completely.",
+    "Garnish with chopped fresh cilantro and serve immediately.",
+    "Chill in the refrigerator for at least 30 minutes to allow flavors to meld.",
+    "Serve cold, straight from the copper mug."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-mug",
+    "easy-recipe",
+    "gluten-free",
+    "low-calorie",
+    "peruvian-cuisine",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "quietly-quintessential-peruvian-olive-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quintessential-peruvian-olive-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:49:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pitted black olives",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "olives",
+    "descriptor": "Quietly Quintessential",
+    "dishForm": "Tiradito"
+  }
+}

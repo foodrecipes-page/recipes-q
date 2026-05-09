@@ -4398,6 +4398,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crispy-moroccan-split-peas-tagine",
+    "title": "Quick Crispy Moroccan Split Peas Tagine",
+    "tags": [
+      "crispy",
+      "meal-prep",
+      "moroccan",
+      "one-pan",
+      "paleo",
+      "sous-vide"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crispy-saudi-arabian-chicken-kebabs",
     "title": "Quick Crispy Saudi Arabian Chicken Kebabs",
     "tags": [
@@ -10960,6 +10975,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quintessential-peruvian-olive-tiradito",
+    "title": "Quietly Quintessential Peruvian Olive Tiradito",
+    "tags": [
+      "copper-mug",
+      "easy-recipe",
+      "gluten-free",
+      "low-calorie",
+      "peruvian-cuisine",
+      "quick-snack"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

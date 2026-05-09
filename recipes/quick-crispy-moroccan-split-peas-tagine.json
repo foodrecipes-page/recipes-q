@@ -1,0 +1,103 @@
+{
+  "title": "Quick Crispy Moroccan Split Peas Tagine",
+  "description": "A briny and crispy Moroccan dish featuring split peas, perfect for meal prep, made with sous-vide and paleo-friendly ingredients. This recipe combines the flavors of Morocco with a modern twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "green or yellow"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180 degrees Fahrenheit.",
+    "In a large bowl, mix together the split peas, olive oil, onion, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Transfer the mixture to a sous-vide bag and seal.",
+    "Cook the mixture in the sous-vide machine for 2 hours.",
+    "Remove the bag from the sous-vide machine and let it cool.",
+    "Heat a large skillet over medium-high heat and add the cooked split pea mixture.",
+    "Cook for 5 minutes, stirring frequently, until the mixture is crispy and golden brown.",
+    "Stir in the lemon juice and cook for an additional minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "meal-prep",
+    "moroccan",
+    "one-pan",
+    "paleo",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-crispy-moroccan-split-peas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-moroccan-split-peas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:50:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "sous-vide",
+    "primaryIngredient": "split peas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "split peas",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Tagine"
+  }
+}
