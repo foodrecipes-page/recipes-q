@@ -1,0 +1,99 @@
+{
+  "title": "Quaint Peppery Dutch Apple Skillet",
+  "description": "A traditional Dutch dish with a twist, featuring braeburn apples and a hint of pepper, all in one comal skillet. This halal-friendly recipe is perfect for a weeknight dessert.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal skillet over medium heat.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the eggs, milk, and melted butter to the bowl and mix until smooth.",
+    "Add the sliced apples, chopped pickle, and black pepper to the bowl and stir until combined.",
+    "Pour the mixture into the preheated comal skillet.",
+    "Cook for 20 minutes or until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the skillet towards the center.",
+    "Continue cooking for an additional 10 minutes or until the skillet is golden brown and set.",
+    "Remove the skillet from the heat and let it cool for a few minutes.",
+    "Slice the skillet into wedges and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "dutch",
+    "halal",
+    "one-pan",
+    "peppery",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "quaint-peppery-dutch-apple-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-peppery-dutch-apple-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:30:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "pickle",
+    "primaryIngredient": "braeburn apples",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apples",
+    "descriptor": "quaint peppery",
+    "dishForm": "Skillet"
+  }
+}
