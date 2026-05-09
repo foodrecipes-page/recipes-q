@@ -1,0 +1,102 @@
+{
+  "title": "Quaint Flaky Jamaican Rice Fried Rice",
+  "description": "A herbal and flaky Jamaican dish featuring candied peel, this sugar-free-friendly recipe is perfect for midnight cravings. It combines fry-grind-rice-khao-khua for a unique flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced, optional"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add diced scotch bonnet pepper, if using, and saute for 1 minute.",
+    "Add chopped scallions and cook until they start to soften.",
+    "Add thyme, allspice, salt, and black pepper, and stir to combine.",
+    "Add cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir-fry the rice mixture for about 5 minutes, until it is heated through and starting to brown.",
+    "Add diced candied peel to the skillet and stir-fry for another minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve the Quaint Flaky Jamaican Rice Fried Rice hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flaky",
+    "gluten-free",
+    "herbal",
+    "jamaican-cuisine",
+    "midnight-cravings",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "quaint-flaky-jamaican-rice-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-jamaican-rice-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:34:47Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "candied peel",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "rice",
+    "descriptor": "quaint flaky",
+    "dishForm": "Fried-Rice"
+  }
+}
