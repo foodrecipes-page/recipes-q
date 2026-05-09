@@ -1,0 +1,97 @@
+{
+  "title": "Quintessentially Nutty Algerian Lamb Tagine",
+  "description": "A nutty, gooey, and comforting Algerian dish featuring allspice berries and keto-friendly ingredients, with a crispy agemono-deep-fry twist.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "allspice berries",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the allspice berries, salt, and black pepper to the pot and cook for 1 minute, until fragrant.",
+    "Add the almond flour to the pot and cook for 1 minute, until lightly toasted.",
+    "Add the browned lamb back to the pot and stir to combine with the spice mixture.",
+    "Cover the pot and simmer over low heat for 1.5 hours, until the lamb is tender.",
+    "Increase the heat to medium-high and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer, uncovered, for 10 minutes, until the sauce has thickened and the lamb is coated in a gooey, nutty glaze."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "comfort-food",
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "nutty-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "quintessentially-nutty-algerian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-nutty-algerian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:13:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "allspice berries",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quintessentially Nutty",
+    "dishForm": "Tagine"
+  }
+}
