@@ -1,0 +1,91 @@
+{
+  "title": "Quaint Flaky Spanish Shrimp Paella Valenciana",
+  "description": "A paleo-friendly Spanish dish featuring shrimp, desiccated coconut, and pickle, served on a wooden board, perfect for a date night.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "desiccated coconut",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "Stir in the desiccated coconut and cook for 1 minute.",
+    "Add the chopped pickle to the skillet and cook for 1 minute.",
+    "Return the shrimp to the skillet and stir to combine with the coconut and pickle mixture.",
+    "Squeeze the lemon juice over the top of the shrimp and serve on a wooden board."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "date-night",
+    "paleo-friendly",
+    "seafood",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quaint-flaky-spanish-shrimp-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-spanish-shrimp-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "pickle",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "paleo",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quaint Flaky",
+    "dishForm": "Paella Valenciana"
+  }
+}

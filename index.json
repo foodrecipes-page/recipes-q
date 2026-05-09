@@ -492,6 +492,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-spanish-shrimp-paella-valenciana",
+    "title": "Quaint Flaky Spanish Shrimp Paella Valenciana",
+    "tags": [
+      "coconut-based",
+      "date-night",
+      "paleo-friendly",
+      "seafood",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-fluffy-brazilian-chorizo-casserole",
     "title": "Quaint Fluffy Brazilian Chorizo Casserole",
     "tags": [
@@ -1491,6 +1505,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quaintly-molten-syrian-almond-pilaf",
+    "title": "Quaintly Molten Syrian Almond Pilaf",
+    "tags": [
+      "copper-pot",
+      "festive-dishes",
+      "kosher-friendly",
+      "nutty-flavors",
+      "one-pot",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
