@@ -10404,6 +10404,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-roasted-canadian-chicken-roast",
+    "title": "Quietly Roasted Canadian Chicken Roast",
+    "tags": [
+      "canadian-cuisine",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "roasted-chicken",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-roasted-chinese-raspberry-hot-pot",
     "title": "Quietly Roasted Chinese Raspberry Hot Pot",
     "tags": [
