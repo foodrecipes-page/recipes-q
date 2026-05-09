@@ -1,0 +1,104 @@
+{
+  "title": "Quick Silky Australian Russet Potato Hash",
+  "description": "A one-pot dish that combines the natural sweetness of potatoes with the savory flavors of bacon and a touch of flambe. This gluten-free-friendly recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tablespoon",
+      "notes": "used for dusting pan"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the bacon and cook until crispy, then set aside.",
+    "In the same pan, add the olive oil, onion, and garlic. Cook until the onion is translucent, about 5 minutes.",
+    "Add the Russet potatoes, thyme, salt, and pepper to the pan. Toss to combine.",
+    "Cook the potatoes for 5 minutes, stirring occasionally, until they begin to brown.",
+    "Add the flour to the pan and stir to combine.",
+    "Dust the pan with a small amount of flour, creating a light crust on the bottom of the pan.",
+    "Add the cooked bacon back into the pan and stir to combine.",
+    "Flambe the pan with a small amount of brandy, if using, until the flames have died down.",
+    "Reduce heat to medium and cook, stirring occasionally, until the potatoes are tender and golden brown, about 10-12 minutes.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "breakfast-for-dinner",
+    "gluten-free",
+    "one-pan",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "quick-silky-australian-russet-potato-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-silky-australian-russet-potato-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:56Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "flambe",
+    "primaryIngredient": "russet potato",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Russet potato",
+    "descriptor": "Quick silky oven-roasted",
+    "dishForm": "Hash"
+  }
+}
