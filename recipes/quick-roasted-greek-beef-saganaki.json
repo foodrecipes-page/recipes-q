@@ -1,0 +1,98 @@
+{
+  "title": "Quick Roasted Greek Beef Saganaki",
+  "description": "A buttery and creamy Greek dish featuring roasted beef in a rich unsalted beef stock sauce, perfect for a special occasion. This egg-free friendly recipe is sure to impress your guests.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "unsalted beef stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef strips with salt and pepper.",
+    "In a large skillet, melt 2 tablespoons of butter over medium-high heat and sear the beef strips until browned.",
+    "Transfer the beef to a baking dish and roast in the oven for 10 minutes.",
+    "In the same skillet, add the remaining 2 tablespoons of butter and saute the garlic until fragrant.",
+    "Add the unsalted beef stock to the skillet and bring to a boil.",
+    "Reduce the heat to low and stir in the heavy cream.",
+    "Add the kalamata olives and feta cheese to the skillet and stir to combine.",
+    "Remove the beef from the oven and place it in the skillet with the sauce.",
+    "Simmer the beef in the sauce for 2 minutes.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "egg-free",
+    "gluten-free",
+    "greek-cuisine",
+    "one-pan",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "quick-roasted-greek-beef-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-greek-beef-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:45:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "roast",
+    "primaryIngredient": "unsalted beef stock",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Saganaki"
+  }
+}
