@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Crunchy Mediterranean Eggplant Skewers",
+  "description": "Sweet and crunchy Mediterranean dish featuring tamarind paste and dum, perfect for a romantic lacto-vegetarian dinner",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dum",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together the tamarind paste, dum, olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the tamarind mixture onto the eggplant cubes, making sure they are fully coated.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the skewers from the oven and top each with a sprinkle of feta cheese and a sprinkle of parsley.",
+    "Return the skewers to the oven and bake for an additional 5 minutes, or until the cheese is melted and the eggplant is tender.",
+    "Remove the skewers from the oven and let them cool for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "feta-cheese",
+    "lacto-vegetarian",
+    "mediterranean",
+    "romantic-dinner",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-crunchy-mediterranean-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crunchy-mediterranean-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:18:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "tamarind paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Quietly Crunchy",
+    "dishForm": "Skewers"
+  }
+}
