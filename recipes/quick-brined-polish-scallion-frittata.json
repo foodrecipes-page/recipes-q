@@ -1,0 +1,96 @@
+{
+  "title": "Quick Brined Polish Scallion Frittata",
+  "description": "A dense and winey Polish dish featuring scallions, perfect for brunch, made with a quick brine and macrobiotic-friendly ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup",
+      "notes": "dry white wine and water mixture"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, salt, black pepper, garlic powder, and dried dill.",
+    "Add the chopped scallions to the egg mixture and stir to combine.",
+    "Heat the olive oil in a 10-inch oven-safe skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook for 2 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "While the frittata is baking, prepare the quick brine by mixing the dry white wine and water in a small bowl.",
+    "After the frittata has baked for 15 minutes, remove it from the oven and brush the quick brine mixture evenly over the top.",
+    "Return the skillet to the oven and bake for an additional 5 minutes.",
+    "Remove the skillet from the oven and let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "quick-brined-polish-scallion-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-brined-polish-scallion-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:55:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "brine-dry",
+    "primaryIngredient": "scallions",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "scallions",
+    "descriptor": "Quick Brined",
+    "dishForm": "Frittata"
+  }
+}
