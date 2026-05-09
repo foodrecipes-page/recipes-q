@@ -1,0 +1,110 @@
+{
+  "title": "Quietly Dense Moroccan Grain Tagine",
+  "description": "A hearty, herbal Moroccan dish featuring mixed grain and a sweet glaze, perfect for a lazy Sunday. This low-sodium-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mixed grains",
+      "amount": "1 cup",
+      "notes": "such as bulgur, quinoa, and brown rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the mixed grains, olive oil, onion, garlic, and ginger until well combined.",
+    "In a small bowl, mix together the cumin, coriander, and honey until well combined.",
+    "Add the cumin mixture to the grain mixture and stir until the grains are evenly coated.",
+    "In a large Dutch oven or heavy pot, bring the chicken broth to a boil.",
+    "Add the grain mixture to the pot and stir to combine.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then stir in the chopped parsley and lemon juice.",
+    "Return the pot to the oven and bake for an additional 10 minutes, or until the liquid has been absorbed and the grains are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "low-sodium",
+    "moroccan-inspired",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-dense-moroccan-grain-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-dense-moroccan-grain-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:25:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "grains",
+    "descriptor": "Quietly Dense",
+    "dishForm": "Tagine"
+  }
+}
