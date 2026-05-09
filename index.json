@@ -1100,6 +1100,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-yeasty-australian-pineapple-skewers",
+    "title": "Quaint Yeasty Australian Pineapple Skewers",
+    "tags": [
+      "australian-cuisine",
+      "coconut-recipes",
+      "kid-friendly",
+      "pineapple-recipes",
+      "rum-infused",
+      "steamed-dishes"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
     "title": "Quaint Yeasty Peruvian Chicken Drumsticks Anticuchos",
     "tags": [
