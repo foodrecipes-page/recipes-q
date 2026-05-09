@@ -1,0 +1,97 @@
+{
+  "title": "Quality Crumbly American Sausage Skillet",
+  "description": "A cultured and energizing American dish featuring crumbly sausage, this skillet is perfect for a weeknight dinner, it is nut-free-friendly and made with papillote style cooking.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "preferably crumbly breakfast sausage"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "1 sheet",
+      "notes": "for cooking"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the sausage in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the sausage is browned, remove it from the skillet and set it aside.",
+    "Add the chopped onion, bell pepper, and potato to the skillet and cook until the vegetables are tender.",
+    "Add the cooked sausage back into the skillet and stir to combine with the vegetables.",
+    "Season the mixture with salt and pepper to taste.",
+    "Cut the papillote paper into a large square and place the sausage and vegetable mixture in the center of the paper.",
+    "Fold the papillote paper over the mixture to create a sealed packet.",
+    "Place the packet in the skillet and cook over medium heat for 10 minutes.",
+    "Remove the packet from the skillet and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-dish",
+    "crumbly-sausage",
+    "easy-meal",
+    "one-pan",
+    "skillet-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "quality-crumbly-american-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-crumbly-american-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:13:53Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "papillote",
+    "primaryIngredient": "sausage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sausage",
+    "descriptor": "Quality Crumbly",
+    "dishForm": "Skillet"
+  }
+}
