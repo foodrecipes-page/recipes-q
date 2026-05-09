@@ -1,0 +1,94 @@
+{
+  "title": "Quintessential Peruvian Mushroom Rocoto Relleno",
+  "description": "A pungent and flavorful Peruvian dish featuring mushrooms and rocoto peppers, perfect for a hangover cure or a plant-based meal option. This recipe is a unique twist on traditional rocoto relleno, with a bouncy texture from the mushrooms.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the rocoto peppers in the oven at 400 degrees for 30 minutes, then peel and seed them.",
+    "Saute the chopped onion and minced garlic in olive oil until softened.",
+    "Add the mushrooms to the onion mixture and cook until they release their liquid and start to brown.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Stuff each roasted rocoto pepper with the mushroom mixture and top with salt and black pepper.",
+    "Serve the rocoto relleno warm, garnished with chopped fresh herbs if desired.",
+    "Let the dish cool completely before refrigerating or freezing.",
+    "Reheat the rocoto relleno in the oven or microwave until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom-recipes",
+    "peruvian-cuisine",
+    "plant-based",
+    "spicy-food",
+    "vegan-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quintessential-peruvian-mushroom-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-peruvian-mushroom-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:36:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "hangover-cure",
+    "technique": "rest",
+    "primaryIngredient": "mushrooms",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Quintessential Bouncy",
+    "dishForm": "Rocoto Relleno"
+  }
+}
