@@ -1,0 +1,93 @@
+{
+  "title": "Quick Smoked Canadian Chicken Wings Skewers",
+  "description": "A low-calorie, post-workout Canadian dish featuring smoked chicken wings, perfect for a quick and healthy snack.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "smoke flavoring",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoke flavoring, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat evenly.",
+    "Thread the chicken wings onto skewers, leaving a small space between each wing.",
+    "Grill the skewers for 20-25 minutes, or until the chicken is cooked through.",
+    "Brush the chicken with lemon juice during the last 5 minutes of cooking.",
+    "Remove the skewers from the grill and let rest for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "grilled",
+    "high-protein",
+    "low-calorie",
+    "post-workout",
+    "quick",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "quick-smoked-canadian-chicken-wings-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoked-canadian-chicken-wings-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:58:05Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "chicken wings",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Quick Smoked",
+    "dishForm": "Skewers"
+  }
+}
