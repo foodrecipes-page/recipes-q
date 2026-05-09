@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Pungent Malaysian Chicken Satay",
+  "description": "A light Malaysian dish featuring raspberry jam and a cheese-pull, made with a mortar-pestle-pound method and nut-free-friendly ingredients, this quietly pungent chicken satay is a unique twist on traditional satay.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Pound the coriander seeds and cumin seeds in a mortar until coarsely ground.",
+    "Add the garlic to the mortar and pound until well combined.",
+    "In a large bowl, whisk together the coconut milk, raspberry jam, and pounded spice mixture.",
+    "Add the chicken strips to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, melt the grated cheddar cheese in a small saucepan over low heat.",
+    "Once the chicken is cooked, brush with the melted cheese and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-meats",
+    "high-protein",
+    "nut-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quietly-pungent-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-pungent-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:26:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "raspberry jam",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "quietly pungent",
+    "dishForm": "Satay"
+  }
+}
