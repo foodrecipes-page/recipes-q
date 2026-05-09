@@ -1,0 +1,108 @@
+{
+  "title": "Quietly Indulgent Croatian Vegetable Pasta",
+  "description": "Savor the rich flavors of Croatia in this indulgent vegetarian pasta dish, featuring a velvety emulsion sauce infused with the goodness of local vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "14.5 oz",
+      "notes": "crushed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced zucchini and bell pepper to the skillet and cook until the vegetables are tender, stirring occasionally.",
+    "Stir in the crushed canned tomatoes and vegetable broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally, while the pasta finishes cooking.",
+    "Reserve 1 cup of pasta water before draining the pappardelle, then add the pasta to the skillet with the sauce.",
+    "Toss the pasta in the sauce, adding some reserved pasta water if the sauce seems too thick, until the pasta is well coated.",
+    "Stir in the grated grana padano cheese until melted and well combined.",
+    "Season the pasta with salt and pepper to taste, then garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "one-pot",
+    "pasta-lovers",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 17
+  },
+  "slug": "quietly-indulgent-croatian-vegetable-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-indulgent-croatian-vegetable-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:34:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "restaurant",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quietly Indulgent",
+    "dishForm": "Pasta"
+  }
+}
