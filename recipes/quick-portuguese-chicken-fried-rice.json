@@ -1,0 +1,105 @@
+{
+  "title": "Quick Portuguese Chicken Fried Rice",
+  "description": "A savory and dense Portuguese dish featuring braeburn apples and double fry KFC style chicken, made gluten free friendly. This recipe combines the flavors of Portugal with the convenience of a quick and easy meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "braeburn apples",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "2"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 2 tablespoons of vegetable oil to the skillet.",
+    "Add the diced apples to the skillet and cook until they start to soften.",
+    "Add the cooked rice to the skillet and stir to combine with the apples and oil.",
+    "Add the soy sauce, paprika, salt, and pepper to the skillet and stir to combine.",
+    "Push the rice mixture to one side of the skillet.",
+    "Add a little more oil to the other side of the skillet and scramble in the eggs.",
+    "Mix the eggs into the rice mixture.",
+    "Add the cooked chicken back into the skillet and stir to combine.",
+    "Transfer the mixture to a serving platter and top with chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "fried-rice",
+    "gluten-free",
+    "one-pan",
+    "portuguese-cuisine",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-portuguese-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-portuguese-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:45:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "braeburn apples",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Double Fried",
+    "dishForm": "Fried Rice"
+  }
+}
