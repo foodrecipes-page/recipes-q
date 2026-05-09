@@ -3,7 +3,6 @@
   "description": "A malty, molten, and cozy Irish dish featuring potatoes and nuka-pickle, perfect for a cold winter's night. This nut-free-friendly casserole is sure to become a family favorite.",
   "cuisine": "Irish",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -54,7 +53,9 @@
     "Transfer the potato mixture to a 9x13 inch baking dish.",
     "Cover the dish with aluminum foil and bake for 45 minutes.",
     "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are golden brown.",
-    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Refrigerate and consume within 1 week — this preparation is not shelf-stable without an approved acid level and canning process.",
+    "Refrigerator pickle only: store in the fridge and consume within 1 week. For shelf-stable canning, add at least 2 tablespoons of vinegar (5% acidity) per cup of brine and follow a tested water-bath process."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 65,

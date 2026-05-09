@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly, herbal Spanish dish featuring seafood and Dutch stroop, served in a stone bowl, perfect for a date night.",
   "cuisine": "Spanish",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "one-pan",
     "seafood",
     "spanish",

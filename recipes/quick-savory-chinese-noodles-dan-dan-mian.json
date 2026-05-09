@@ -2,10 +2,7 @@
   "title": "Quick Savory Chinese Noodles Dan Dan Mian",
   "description": "A bitter and snappy one-pot Chinese dish featuring chicken stock concentrate, inspired by Xinjiang cuisine and Ayurvedic sattvic principles.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -54,7 +51,8 @@
     "Stir in the soy sauce and sesame oil.",
     "Add the chopped scallions and cook for 1 minute.",
     "Season with salt to taste.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -63,10 +61,8 @@
   "difficulty": "easy",
   "tags": [
     "asian-inspired",
-    "gluten-free",
     "one-pot",
-    "quick-meal",
-    "vegetarian"
+    "quick-meal"
   ],
   "nutrition": {
     "calories": 420,

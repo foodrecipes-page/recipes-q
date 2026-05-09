@@ -91,7 +91,7 @@
     "mood": "cozy",
     "technique": "dashi-extract",
     "primaryIngredient": "trout",
-    "diet": "low-sodium",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "trout",

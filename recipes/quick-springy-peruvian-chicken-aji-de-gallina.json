@@ -3,8 +3,7 @@
   "description": "A winey and springy one-pot Peruvian dish featuring red chilli, this recipe is a variation of the traditional Aji De Gallina, made with chicken instead of shredded chicken and incorporating ayurvedic-rajasic-friendly ingredients.",
   "cuisine": "Peruvian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "chicken-recipes",
-    "dairy-free",
     "gluten-free",
     "one-pot",
     "peruvian-cuisine",

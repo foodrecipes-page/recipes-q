@@ -4,7 +4,6 @@
   "cuisine": "Turkish",
   "diet": [
     "vegan",
-    "gluten-free",
     "sattvic"
   ],
   "meal": "lunch",
@@ -80,7 +79,6 @@
   "difficulty": "easy",
   "tags": [
     "easy",
-    "gluten-free",
     "lunch",
     "one-pan",
     "sattvic",

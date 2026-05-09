@@ -3,8 +3,7 @@
   "description": "A tangy and refreshing Peruvian dish featuring tofu, perfect for a brunch mood, this low-carb friendly recipe is a twist on the traditional Chupe De Camarones, using sous-vide cooking for a glassy-jelly texture.",
   "cuisine": "Peruvian",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -70,8 +69,7 @@
     "low-carb",
     "peruvian",
     "sous-vide",
-    "tofu",
-    "vegetarian"
+    "tofu"
   ],
   "nutrition": {
     "calories": 320,

@@ -2,9 +2,7 @@
   "title": "Quaint Juicy French Pork Blanquette",
   "description": "A traditional French dish from Brittany featuring tender pork in a rich wine sauce, served with a crusty bun.",
   "cuisine": "French",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,7 +64,9 @@
     "Gradually add the white wine and chicken broth, whisking constantly.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Season the blanquette with salt and pepper to taste.",
-    "Serve the blanquette hot, garnished with chopped parsley and accompanied by a crusty bun."
+    "Serve the blanquette hot, garnished with chopped parsley and accompanied by a crusty bun.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F, then rest 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,

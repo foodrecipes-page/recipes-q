@@ -3,7 +3,6 @@
   "description": "A spicy and shaggy Malaysian dish made with fromage-blanc, mirepoix, and other savory ingredients.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "dairy"
   ],
   "meal": "dinner",
@@ -100,7 +99,7 @@
     "mood": "quick-fix",
     "technique": "mirepoix-base",
     "primaryIngredient": "fromage-blanc",
-    "diet": "nut-free",
+    "diet": "dairy",
     "region": null,
     "cuisineAdjective": "Malaysian",
     "mainIngredient": "fromage-blanc",

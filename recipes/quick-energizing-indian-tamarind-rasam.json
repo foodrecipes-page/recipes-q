@@ -3,8 +3,7 @@
   "description": "A spicy and energizing Indian dish featuring cardamom, this tamarind rasam is a buddhist-temple-friendly recipe that is easy to make and delicious to eat. It has a unique glassy-jelly texture.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -86,7 +85,6 @@
     "indian",
     "one-pot",
     "quick",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {

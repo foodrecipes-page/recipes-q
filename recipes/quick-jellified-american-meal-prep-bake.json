@@ -3,7 +3,6 @@
   "description": "A crispy, resinous meal-prep dish that's perfect for a weeknight dinner, featuring cream of tartar for added texture.",
   "cuisine": "American",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -92,7 +91,7 @@
     "mood": "meal-prep",
     "technique": "simmer",
     "primaryIngredient": "cream of tartar",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "American",
     "mainIngredient": "meal-prep",

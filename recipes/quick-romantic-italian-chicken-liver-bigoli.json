@@ -2,9 +2,7 @@
   "title": "Quick Romantic Italian Chicken Liver Bigoli",
   "description": "A herbal and snappy Tuscan dish featuring chicken liver and confit tomato, perfect for a romantic evening, this pescatarian friendly bigoli recipe is sure to impress.",
   "cuisine": "Italian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
     "herbal",
     "italian-cuisine",
     "one-pot",
-    "pescatarian",
     "quick-meal",
     "romantic-dinner"
   ],

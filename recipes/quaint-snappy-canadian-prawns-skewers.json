@@ -3,8 +3,7 @@
   "description": "A nutty and snappy Canadian dish featuring raw king prawns, this recipe is a nostalgic treat that is also FODMAP-friendly. The air-fry method ensures a crispy exterior and a tender interior.",
   "cuisine": "Canadian",
   "diet": [
-    "FODMAP-friendly",
-    "gluten-free"
+    "FODMAP-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -65,7 +64,6 @@
     "air-fryer",
     "canadian-cuisine",
     "fodmap-friendly",
-    "gluten-free",
     "quick-snack",
     "seafood"
   ],

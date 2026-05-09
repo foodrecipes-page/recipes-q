@@ -2,9 +2,7 @@
   "title": "Quick Portuguese Chicken Fried Rice",
   "description": "A savory and dense Portuguese dish featuring braeburn apples and double fry KFC style chicken, made gluten free friendly. This recipe combines the flavors of Portugal with the convenience of a quick and easy meal.",
   "cuisine": "Portuguese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -73,7 +71,6 @@
   "tags": [
     "chicken-recipes",
     "fried-rice",
-    "gluten-free",
     "one-pan",
     "portuguese-cuisine",
     "quick-meals"

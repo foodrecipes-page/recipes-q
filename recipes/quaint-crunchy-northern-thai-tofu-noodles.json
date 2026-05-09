@@ -3,8 +3,7 @@
   "description": "A jammy and crunchy vegan-friendly dish featuring creme-patissiere and tadka, inspired by the nostalgic flavors of Northern Thailand",
   "cuisine": "Thai",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [

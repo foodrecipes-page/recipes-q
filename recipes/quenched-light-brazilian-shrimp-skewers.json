@@ -3,7 +3,6 @@
   "description": "A refreshing and light Brazilian dish featuring succulent shrimp, this recipe is perfect for warm weather and outdoor gatherings, with a focus on water and pasta water emulsion to keep the shrimp moist and flavorful.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "low-carb"
   ],
   "meal": "dinner",
@@ -60,7 +59,6 @@
   "difficulty": "easy",
   "tags": [
     "brazilian-cuisine",
-    "gluten-free",
     "grilled",
     "low-carb",
     "seafood",
