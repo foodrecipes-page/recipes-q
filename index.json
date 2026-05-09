@@ -449,6 +449,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-spanish-ham-croquettes",
+    "title": "Quaint Flaky Spanish Ham Croquettes",
+    "tags": [
+      "deep-fried",
+      "gluten-free",
+      "iberian-ham",
+      "snack-food",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-fluffy-brazilian-chorizo-casserole",
     "title": "Quaint Fluffy Brazilian Chorizo Casserole",
     "tags": [

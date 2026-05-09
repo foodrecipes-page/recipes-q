@@ -1,0 +1,94 @@
+{
+  "title": "Quaint Flaky Spanish Ham Croquettes",
+  "description": "Savory Spanish croquettes filled with jamon iberico and fines herbes, deep fried to a golden brown, gluten free friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "jamon iberico",
+      "amount": "8 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gluten free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine diced jamon iberico, chopped fines herbes, and a pinch of salt and pepper.",
+    "In a separate bowl, whisk together gluten free flour and eggs to make a smooth batter.",
+    "Add the melted butter to the batter and mix well.",
+    "Add the jamon iberico mixture to the batter and mix until just combined.",
+    "Using your hands, shape the mixture into small cylindrical croquettes.",
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Carefully place the croquettes in the hot oil and fry until golden brown.",
+    "Remove the croquettes from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the croquettes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "gluten-free",
+    "iberian-ham",
+    "snack-food",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "quaint-flaky-spanish-ham-croquettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-spanish-ham-croquettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:48:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "fines-herbes",
+    "diet": "gluten-free",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "ham",
+    "descriptor": "Quaint Flaky",
+    "dishForm": "Jamon Iberico Croquettes"
+  }
+}
