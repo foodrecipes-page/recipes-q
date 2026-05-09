@@ -1,0 +1,96 @@
+{
+  "title": "Quick Energizing French Chicken Noodles",
+  "description": "A malty and flaky French dish featuring chilli flakes and miso-marinate, perfect for a quick and energizing meal, this recipe is also egg-free-friendly and cooked in a wok.",
+  "cuisine": "French",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium-high heat.",
+    "Add the chicken to the wok and cook until browned, about 5 minutes.",
+    "Add the minced garlic to the wok and cook for 1 minute.",
+    "In a small bowl, whisk together the miso paste, malt syrup, and chilli flakes.",
+    "Pour the miso mixture over the chicken and garlic in the wok, stirring to combine.",
+    "Add the noodles to the wok and cook, stirring constantly, until they are well coated with the miso mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Continue to cook for an additional 2 minutes, stirring constantly.",
+    "Remove the wok from the heat and serve the Quick Energizing French Chicken Noodles hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "high-protein",
+    "one-pan",
+    "quick-meal",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-energizing-french-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energizing-french-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:35:49Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chilli flakes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Energizing",
+    "dishForm": "Noodles"
+  }
+}

@@ -4522,6 +4522,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-energizing-french-chicken-noodles",
+    "title": "Quick Energizing French Chicken Noodles",
+    "tags": [
+      "french-cuisine",
+      "high-protein",
+      "one-pan",
+      "quick-meal",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-energizing-middle-eastern-greens-tabbouleh",
     "title": "Quick,Energizing Middle-Eastern Greens Tabbouleh",
     "tags": [
