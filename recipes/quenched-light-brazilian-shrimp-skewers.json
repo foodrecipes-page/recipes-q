@@ -1,0 +1,93 @@
+{
+  "title": "Quenched Light Brazilian Shrimp Skewers",
+  "description": "A refreshing and light Brazilian dish featuring succulent shrimp, this recipe is perfect for warm weather and outdoor gatherings, with a focus on water and pasta water emulsion to keep the shrimp moist and flavorful.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lime juice, garlic, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the shrimp skewers for 2-3 minutes per side, or until they are pink and cooked through.",
+    "While the shrimp are cooking, mix the pasta water with chopped cilantro in a small bowl.",
+    "Once the shrimp are done, brush them with the pasta water emulsion.",
+    "Serve the shrimp skewers immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "seafood",
+    "summer-recipes"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "quenched-light-brazilian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-light-brazilian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:33:53Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "water",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shrimp",
+    "descriptor": "quenched light",
+    "dishForm": "Skewers"
+  }
+}
