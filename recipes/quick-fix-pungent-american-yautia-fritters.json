@@ -1,0 +1,124 @@
+{
+  "title": "Quick-Fix Pungent American Yautia Fritters",
+  "description": "These fritters use yautia, a Caribbean root vegetable, to create a tender and pungent American dish that's perfect for a quick fix.",
+  "cuisine": "American",
+  "diet": [
+    "Gluten-Free",
+    "Vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Infuse-Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Use 2 large eggs."
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": "Any type of shredded cheese works."
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose or gluten-free flour."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": "To help fritters rise."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To balance flavors."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/8 tsp",
+      "notes": "To add a touch of spice."
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "2 tbsp",
+      "notes": "Optional garnish."
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1/2 cup",
+      "notes": "To help bind ingredients."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": "Optional, for added flavor."
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine yautia, infuse-oil, eggs, shredded cheese, flour, baking powder, garlic powder, salt, black pepper, and buttermilk. Mix until well combined.",
+    "Add chopped scallions and mix well.",
+    "Using a 1/4 cup measuring cup, scoop mixture into balls.",
+    "Flatten each ball slightly into a disk shape.",
+    "Heat a large skillet or frying pan with about 1/2 inch of oil over medium-high heat until hot.",
+    "Carefully place fritters in the hot oil and fry for 3-4 minutes on each side, or until golden brown.",
+    "Drain fritters on paper towels.",
+    "Serve hot and garnish with chopped scallions if desired.",
+    "For an extra crispy coating, sprinkle fritters with paprika before serving.",
+    "If desired, serve with a side of your favorite dipping sauce.",
+    "Repeat the frying process with remaining mixture until all fritters are cooked.",
+    "Keep fritters warm in the oven at 200°F (90°C) until ready to serve.",
+    "Serve fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "high-protein",
+    "one-pan",
+    "pungent",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-fix-pungent-american-yautia-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-pungent-american-yautia-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "yautia",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "yautia",
+    "descriptor": "quick-fix pungent",
+    "dishForm": "fritters"
+  }
+}
