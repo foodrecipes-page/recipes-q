@@ -1,0 +1,106 @@
+{
+  "title": "Quietly Velvety Spanish Romano Pepper Paella Valenciana",
+  "description": "A comforting Spanish dish featuring Romano peppers, this paella is peppery, velvety, and made with ayurvedic sattvic friendly ingredients, cooked to perfection in a wood fired bake, in the traditional Valenciana style.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "uncooked Arborio rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 425 degrees Fahrenheit.",
+    "Cut the Romano peppers into large pieces and set aside.",
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika and salt, and stir to combine.",
+    "Add the Arborio rice and stir to coat the rice in the oil and mix with the spices.",
+    "Add the water and lemon juice, and bring to a boil.",
+    "Add the Romano peppers and stir to combine.",
+    "Transfer the paella pan to the preheated wood fired oven and bake for 25 minutes.",
+    "Remove the paella from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "spanish-cuisine",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-velvety-spanish-romano-pepper-paella-valenciana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-velvety-spanish-romano-pepper-paella-valenciana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:53:11Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "romano pepper",
+    "diet": "ayurvedic-sattvic",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "romano pepper",
+    "descriptor": "quietly velvety",
+    "dishForm": "Paella Valenciana"
+  }
+}
