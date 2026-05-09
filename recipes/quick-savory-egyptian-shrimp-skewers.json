@@ -1,0 +1,94 @@
+{
+  "title": "Quick Savory Egyptian Shrimp Skewers",
+  "description": "A pungent and indulgent Egyptian dish featuring saeujeot shrimp paste and tempering chocolate, perfect for a low-carb friendly meal. This recipe combines the bold flavors of Egypt with the richness of chocolate.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "saeujeot shrimp paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a bowl, mix together the saeujeot shrimp paste, tempering chocolate, lemon juice, garlic, olive oil, salt, and black pepper.",
+    "Brush the mixture onto the shrimp, making sure they are fully coated.",
+    "Grill the shrimp for 8-10 minutes, or until they are pink and fully cooked.",
+    "Serve the shrimp hot, garnished with lemon wedges and parsley.",
+    "Let the shrimp rest for 2-3 minutes before serving.",
+    "Serve with a side of mixed greens or a low-carb friendly vegetable.",
+    "Garnish with additional parsley and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-recipes",
+    "egyptian-cuisine",
+    "grilled",
+    "low-carb",
+    "seafood",
+    "shrimp-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "quick-savory-egyptian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-egyptian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:56:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "saeujeot-shrimp-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Quick Savory",
+    "dishForm": "Skewers"
+  }
+}
