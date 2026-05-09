@@ -4131,6 +4131,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crisp-german-pork-stir-fry",
+    "title": "Quick Crisp German Pork Stir Fry",
+    "tags": [
+      "crispy-pork",
+      "german-food",
+      "kid-friendly",
+      "one-pan",
+      "quick-dinner",
+      "stir-fry"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crisp-japanese-tofu-gyoza",
     "title": "Quick Crisp Japanese Tofu Gyoza",
     "tags": [

@@ -1,0 +1,95 @@
+{
+  "title": "Quick Crisp German Pork Stir Fry",
+  "description": "A kid-friendly German dish featuring crispy pork, juniper berries, and a stir-fry made in a kazan cauldron, suitable for shojin-friendly diets. This recipe is easy to make and serves a family of four.",
+  "cuisine": "German",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a kazan cauldron over medium-high heat.",
+    "Add the pork belly and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the cauldron and set aside.",
+    "Add the chopped onion to the cauldron and cook until softened, about 3 minutes.",
+    "Add the chopped carrots and potatoes to the cauldron and cook for an additional 5 minutes.",
+    "Add the crushed juniper berries, salt, and black pepper to the cauldron and stir to combine.",
+    "Return the pork to the cauldron and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2 minutes, until the pork is crispy and the vegetables are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy-pork",
+    "german-food",
+    "kid-friendly",
+    "one-pan",
+    "quick-dinner",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "quick-crisp-german-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-german-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:25:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "stir-fry",
+    "primaryIngredient": "juniper berries",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Stir-fry"
+  }
+}
