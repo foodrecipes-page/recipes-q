@@ -1,0 +1,91 @@
+{
+  "title": "Quick Roasted Brazilian Yautia Skewers",
+  "description": "A Whole30-friendly Brazilian dish featuring yautia, perfect for a quick and easy meal prep, wrapped in banana leaves for added flavor and fun presentation.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "1 large",
+      "notes": "also known as malanga or taro root"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel and chop the yautia into 1-inch cubes.",
+    "In a large bowl, whisk together coconut oil, lime juice, garlic, salt, and black pepper.",
+    "Add the yautia cubes to the bowl and toss to coat with the marinade.",
+    "Cut the banana leaves into large squares, about 6 inches per side.",
+    "Thread 4-5 yautia cubes onto each banana leaf square, leaving a small space between each cube.",
+    "Fold the banana leaves over the yautia to form a packet and secure with a toothpick if needed.",
+    "Place the packets on a baking sheet lined with parchment paper and roast for 20-25 minutes, or until the yautia is tender and lightly browned.",
+    "Remove the packets from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "meal-prep",
+    "paleo",
+    "quick-and-easy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-roasted-brazilian-yautia-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-brazilian-yautia-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:40:23Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "yautia",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "yautia",
+    "descriptor": "quick roasted",
+    "dishForm": "Skewers"
+  }
+}
