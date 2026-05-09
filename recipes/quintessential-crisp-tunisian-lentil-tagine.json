@@ -1,0 +1,102 @@
+{
+  "title": "Quintessential Crisp Tunisian Lentil Tagine",
+  "description": "A one-pot Tunisian dish featuring ground clove and lentils, with a crispy texture from grilling, perfect for a vegan-friendly meal.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the olive oil, cumin, ground clove, paprika, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir to combine.",
+    "Add the red lentils to the bowl and stir to coat with the spice mixture.",
+    "Transfer the lentil mixture to a large cast-iron skillet or grill-safe pot.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the skillet from the heat and place it on the preheated grill.",
+    "Grill the lentil mixture for an additional 10 minutes, or until the top is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy-top",
+    "grilled",
+    "lentil-based",
+    "north-african",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quintessential-crisp-tunisian-lentil-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-crisp-tunisian-lentil-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:12:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "ground clove",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quintessential Crisp",
+    "dishForm": "Tagine"
+  }
+}
