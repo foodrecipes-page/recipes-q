@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Sweet Syrian Ladyfingers Trifle",
+  "description": "A sweet and crumbly Syrian dessert featuring ladyfingers and bonito shave, perfect for vegetarians. This nostalgic dish is a delightful treat for any occasion.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Savoiardi ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": "dried"
+    },
+    {
+      "name": "Bonito shave",
+      "amount": "1/2 cup",
+      "notes": "vegetarian substitute for gelatin"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Dip each ladyfinger into a mixture of rose water and orange blossom water for about 3-5 seconds on each side.",
+    "Arrange a layer of ladyfingers in the bottom of a large serving dish.",
+    "Sprinkle a layer of granulated sugar over the ladyfingers.",
+    "Drizzle a layer of melted butter over the sugar.",
+    "Repeat the layers two more times, ending with a layer of sugar on top.",
+    "Sprinkle bonito shave over the top layer of sugar.",
+    "Whip the heavy cream until it forms stiff peaks and spread over the top of the trifle.",
+    "Refrigerate the trifle for at least 3 hours before serving.",
+    "Garnish with chopped pistachios before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ladyfingers",
+    "middle-eastern",
+    "sweet-treats",
+    "syrian-desserts",
+    "trifle",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quaint-sweet-syrian-ladyfingers-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-sweet-syrian-ladyfingers-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:09:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "nostalgic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "quaint sweet",
+    "dishForm": "Trifle"
+  }
+}
