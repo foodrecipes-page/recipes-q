@@ -1,0 +1,95 @@
+{
+  "title": "Quick Savory Chinese Noodles Dan Dan Mian",
+  "description": "A bitter and snappy one-pot Chinese dish featuring chicken stock concentrate, inspired by Xinjiang cuisine and Ayurvedic sattvic principles.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chinese noodles",
+      "amount": "8 oz",
+      "notes": "dan dan mian or similar"
+    },
+    {
+      "name": "chicken stock concentrate",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chicken stock concentrate and 2 cups of water, and bring to a boil.",
+    "Add the Chinese noodles and cook according to package instructions.",
+    "Stir in the soy sauce and sesame oil.",
+    "Add the chopped scallions and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "gluten-free",
+    "one-pot",
+    "quick-meal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-savory-chinese-noodles-dan-dan-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-savory-chinese-noodles-dan-dan-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:30:57Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "tagine-cook",
+    "primaryIngredient": "chicken stock concentrate",
+    "diet": "ayurvedic-sattvic",
+    "region": "xinjiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Quick Savory",
+    "dishForm": "Dan Dan Mian"
+  }
+}

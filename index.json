@@ -7500,6 +7500,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-chinese-noodles-dan-dan-mian",
+    "title": "Quick Savory Chinese Noodles Dan Dan Mian",
+    "tags": [
+      "asian-inspired",
+      "gluten-free",
+      "one-pot",
+      "quick-meal",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-french-white-beans-cassoulet",
     "title": "Quick Savory French White Beans Cassoulet",
     "tags": [
