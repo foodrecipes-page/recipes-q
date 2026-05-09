@@ -7281,6 +7281,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-indulgent-mexican-swede-burrito",
+    "title": "Quick Indulgent Mexican Swede Burrito",
+    "tags": [
+      "beef-recipes",
+      "gluten-free",
+      "low-glycemic",
+      "mexican-food",
+      "swede-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-irish-lamb-bake",
     "title": "Quick Irish Lamb Bake",
     "tags": [

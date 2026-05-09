@@ -1,0 +1,95 @@
+{
+  "title": "Quick Indulgent Mexican Swede Burrito",
+  "description": "A winey and shaggy Mexican dish featuring swede, glaze, and low-glycemic-friendly ingredients in a burrito form, served on a wooden board.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "low-glycemic tortilla",
+      "amount": "4 large"
+    },
+    {
+      "name": "red wine glaze",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced red onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the taco seasoning and stir to combine.",
+    "Warm the low-glycemic tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the burritos by spooning the beef mixture onto the center of each tortilla and topping with diced swede.",
+    "Drizzle the red wine glaze over the top of each burrito.",
+    "Place the burritos on a wooden board and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "gluten-free",
+    "low-glycemic",
+    "mexican-food",
+    "swede-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quick-indulgent-mexican-swede-burrito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-indulgent-mexican-swede-burrito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:06:24Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "swede",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "swede",
+    "descriptor": "Quick Indulgent",
+    "dishForm": "Burrito"
+  }
+}
