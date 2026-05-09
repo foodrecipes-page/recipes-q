@@ -1130,6 +1130,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-spiced-portuguese-chicken-curry",
+    "title": "Quaintly Spiced Portuguese Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "curry-dishes",
+      "gluten-free",
+      "portuguese-cuisine",
+      "satvik-friendly"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-tangy-peruvian-sweet-potatoes-picarones",
     "title": "Quaintly Tangy Peruvian Sweet Potatoes Picarones",
     "tags": [
@@ -9164,6 +9178,20 @@
     ],
     "cuisine": "norwegian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-fried-norwegian-goose-skewers",
+    "title": "Quickly Fried Norwegian Goose Skewers",
+    "tags": [
+      "deep-fried",
+      "goose-recipes",
+      "low-glycemic",
+      "norwegian-cuisine",
+      "special-occasion"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

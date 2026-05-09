@@ -1,0 +1,102 @@
+{
+  "title": "Quaintly Spiced Portuguese Chicken Curry",
+  "description": "A tangy and festive Portuguese dish featuring massaman paste and ferment jang, this curry is a satvik friendly delight. It combines the warmth of spices with the coolness of yogurt and the crunch of fresh cilantro.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "massaman paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the massaman paste and ferment jang, and cook for 1 minute, stirring constantly.",
+    "Add the chicken to the pan and cook until it is browned on all sides and cooked through.",
+    "Stir in the plain yogurt and cook for 2 minutes, or until the sauce has thickened slightly.",
+    "Season the curry with salt and black pepper to taste.",
+    "Garnish the curry with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "curry-dishes",
+    "gluten-free",
+    "portuguese-cuisine",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quaintly-spiced-portuguese-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-spiced-portuguese-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:19:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "massaman-paste",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quaintly spiced",
+    "dishForm": "Curry"
+  }
+}

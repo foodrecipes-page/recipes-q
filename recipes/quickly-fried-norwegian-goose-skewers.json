@@ -1,0 +1,101 @@
+{
+  "title": "Quickly Fried Norwegian Goose Skewers",
+  "description": "A savory Norwegian dish featuring goose fat and agemono deep fry, served in a Korean brass bowl, this recipe is perfect for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "goose fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the deep fryer to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together almond flour, salt, black pepper, paprika, and garlic powder.",
+    "In a separate bowl, whisk together egg and a pinch of salt.",
+    "Dip each piece of goose breast into the egg mixture, then coat in the almond flour mixture.",
+    "Thread 2-3 pieces of coated goose breast onto each bamboo skewer.",
+    "Fry the skewers in batches for 3-4 minutes on each side, or until golden brown.",
+    "Using a slotted spoon, remove the skewers from the deep fryer and place on a paper towel lined plate to drain excess fat.",
+    "Serve the skewers in a Korean brass bowl, drizzled with melted goose fat and garnished with chopped fresh parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "goose-recipes",
+    "low-glycemic",
+    "norwegian-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "quickly-fried-norwegian-goose-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fried-norwegian-goose-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:19:18Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "goose fat",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "goose",
+    "descriptor": "Quickly fried",
+    "dishForm": "Skewers"
+  }
+}
