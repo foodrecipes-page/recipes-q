@@ -1,0 +1,102 @@
+{
+  "title": "Quick Jellified American Bake",
+  "description": "A crispy, resinous meal-prep dish that's perfect for a weeknight dinner, featuring cream of tartar for added texture.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup cream of tartar",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup melted unsalted butter",
+      "amount": null,
+      "notes": "make sure it's completely melted"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup whole milk",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup chopped pecans (optional)",
+      "amount": null,
+      "notes": "adds nice crunch to the top"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, sugar, and cream of tartar.",
+    "In a separate large bowl, whisk together the melted butter, eggs, vanilla extract, and milk.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Bake for 25 minutes, then reduce the heat to 350°F (180°C) and continue baking for an additional 15 minutes.",
+    "If using pecans, sprinkle them evenly over the top of the bake and return to the oven for an additional 2-3 minutes, or until lightly toasted.",
+    "Remove the bake from the oven and let it cool completely on a wire rack.",
+    "Once cooled, refrigerate the bake for at least 30 minutes to set the jellified texture.",
+    "Cut into squares and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-for-dinner",
+    "easy-to-make",
+    "gluten-free-option",
+    "jellified",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 6
+  },
+  "slug": "quick-jellified-american-meal-prep-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jellified-american-meal-prep-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:16:30Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "cream of tartar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "meal-prep",
+    "descriptor": "Quick Jellified",
+    "dishForm": "Bake"
+  }
+}
