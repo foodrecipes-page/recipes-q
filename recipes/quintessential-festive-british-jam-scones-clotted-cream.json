@@ -1,0 +1,97 @@
+{
+  "title": "Quintessential Festive British Jam Scones Clotted Cream",
+  "description": "Rich and shaggy British dish featuring jam and clotted cream, perfect for a festive treat, this recipe is a low-fat friendly version of the classic cornish dessert.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Self raising flour",
+      "amount": "250g",
+      "notes": "sifted"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "60g",
+      "notes": "chilled and cubed"
+    },
+    {
+      "name": "Low fat milk",
+      "amount": "150ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Jam",
+      "amount": "120g"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "120g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, combine the sifted flour, baking powder, and salt.",
+    "Add the cubed butter to the dry ingredients and rub until the mixture resembles coarse breadcrumbs.",
+    "In a separate bowl, whisk together the low fat milk and beaten egg.",
+    "Add the wet ingredients to the dry ingredients and stir until the dough comes together.",
+    "Turn the dough out onto a floured surface and gently knead a few times until it becomes smooth.",
+    "Pat the dough into a circle that is about 2.5cm thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on a baking tray lined with parchment paper, leaving about 1cm of space between each scone.",
+    "Bake the scones in the preheated oven for 15-20 minutes, or until they are golden brown.",
+    "While the scones are baking, prepare the jam and clotted cream for serving.",
+    "Once the scones are done, remove them from the oven and let them cool for a few minutes on a wire rack."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british-dessert",
+    "clotted-cream",
+    "festive-treat",
+    "homemade",
+    "jam-scones",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "quintessential-festive-british-jam-scones-clotted-cream",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-festive-british-jam-scones-clotted-cream",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:44:06Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "jam",
+    "diet": "low-fat",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "jam",
+    "descriptor": "Quintessential Festive",
+    "dishForm": "Scones Clotted Cream"
+  }
+}
