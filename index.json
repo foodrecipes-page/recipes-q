@@ -6960,6 +6960,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-peppery-russian-beef-stew",
+    "title": "Quick Peppery Russian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "peppery",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-peruvian-broccoli-relleno-causa",
     "title": "Quick Peruvian Broccoli Relleno Causa",
     "tags": [

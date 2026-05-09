@@ -1,0 +1,110 @@
+{
+  "title": "Quick Peppery Russian Beef Stew",
+  "description": "A hearty, comforting, and flavorful Russian beef stew cooked with ground sugar, lacquer-glaze, and a hint of pepper.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound ground beef",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon ground black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons lacquer glaze",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon Dijon mustard",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion and garlic and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Stir in the beef broth, water, black pepper, and sugar; bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10 minutes.",
+    "Stir in the lacquer glaze and mustard.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "peppery",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "slug": "quick-peppery-russian-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-peppery-russian-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:06:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "ground sugar",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Peppery",
+    "dishForm": "Stew"
+  }
+}
