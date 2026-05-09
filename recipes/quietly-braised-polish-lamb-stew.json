@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Braised Polish Lamb Stew",
+  "description": "A winey and pillowy Polish dish featuring lamb shanks, this crowd-pleaser is perfect for special occasions. The leaf-wrap-steam method adds a unique touch to the traditional recipe.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 large",
+      "notes": "preferably with bone"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with salt, black pepper, and dried thyme.",
+    "In a large Dutch oven, brown the lamb shanks over medium-high heat, then set them aside.",
+    "Soften the chopped onion in the same pot, then add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot, cooking for 5 minutes.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the lamb shanks to the pot, covering with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-dishes",
+    "comfort-food",
+    "lamb-recipes",
+    "polish-cuisine",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "quietly-braised-polish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-braised-polish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:52:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lamb shanks",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "lamb",
+    "descriptor": "Quietly Braised",
+    "dishForm": "Stew"
+  }
+}
