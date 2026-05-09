@@ -1,0 +1,98 @@
+{
+  "title": "Quick Blanched Spanish Peppers Skewers",
+  "description": "A crisp and refreshing Andalusian dish featuring blanched peppers, perfect for a crowd, with a macrobiotic twist to reduce bitterness",
+  "cuisine": "Spanish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spanish peppers",
+      "amount": "12 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for blanching"
+    },
+    {
+      "name": "Ice",
+      "amount": "2 cups",
+      "notes": "for ice bath"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and prepare an ice bath in a large bowl.",
+    "Cut the tops off the peppers and remove the seeds and membranes.",
+    "Blanch the peppers in the boiling water for 5 minutes.",
+    "Immediately transfer the peppers to the ice bath to stop the cooking process.",
+    "Once cooled, cut the peppers into large pieces and thread onto skewers.",
+    "Drizzle the olive oil over the peppers and sprinkle with salt and garlic.",
+    "Squeeze the lemon juice over the peppers and garnish with parsley.",
+    "Serve the skewers chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy",
+    "macrobiotic",
+    "quick",
+    "spanish",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quick-blanched-spanish-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-blanched-spanish-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:55:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "peppers",
+    "diet": "macrobiotic",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "peppers",
+    "descriptor": "Quick blanched",
+    "dishForm": "Skewers"
+  }
+}
