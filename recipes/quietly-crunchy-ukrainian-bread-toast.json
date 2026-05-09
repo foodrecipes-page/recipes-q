@@ -1,0 +1,95 @@
+{
+  "title": "Quietly Crunchy Ukrainian Bread Toast",
+  "description": "A lazy Sunday Ukrainian dish featuring ginger paste and crunchy toast, perfect for a relaxing morning, this recipe is onion and garlic free.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian bread",
+      "amount": "1 loaf",
+      "notes": "day old bread"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Slice the Ukrainian bread into 1 inch thick slices and place on a baking sheet.",
+    "Spread a layer of ginger paste on each slice of bread.",
+    "Dot the top of each slice with butter.",
+    "Sprinkle shredded grana padano cheese over the bread slices.",
+    "Drizzle red wine over the cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake the bread in the preheated oven for 10 minutes or until crispy and golden brown.",
+    "Remove from the oven and sprinkle with chopped fresh parsley.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snack",
+    "easy-to-make",
+    "lazy-sunday",
+    "ukrainian-cuisine",
+    "vegetarian-friendly",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quietly-crunchy-ukrainian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crunchy-ukrainian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:55:10Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "ginger paste",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bread",
+    "descriptor": "Quietly crunchy",
+    "dishForm": "Toast"
+  }
+}
