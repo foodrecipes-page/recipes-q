@@ -1,0 +1,110 @@
+{
+  "title": "Quick Malaysian Fromage-Blanc Noodles",
+  "description": "A spicy and shaggy Malaysian dish made with fromage-blanc, mirepoix, and other savory ingredients.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fromage-blanc",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "shallot",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Malaysian or rice stick noodles"
+    },
+    {
+      "name": "scallion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "Heat oil in a wok or large skillet over high heat.",
+    "Add onion, shallot, and garlic and stir-fry until the onion is translucent.",
+    "Add chili, fish sauce, and soy sauce. Stir-fry for 1 minute.",
+    "Add coconut milk and stir-fry for another minute.",
+    "Add fromage-blanc and stir-fry until melted and smooth.",
+    "Add cooked noodles to the wok or skillet and stir-fry until well combined.",
+    "Season with salt to taste.",
+    "Garnish with chopped scallion before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fromage-blanc",
+    "malaysian",
+    "noodle-dish",
+    "one-pan",
+    "quick-fix",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quick-malaysian-fromage-blanc-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-malaysian-fromage-blanc-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:35:46Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fromage-blanc",
+    "descriptor": "Quick",
+    "dishForm": "Noodles"
+  }
+}
