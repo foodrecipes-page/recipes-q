@@ -1,0 +1,98 @@
+{
+  "title": "Quick Fermented Middle Eastern Buckwheat Kibbeh",
+  "description": "A spicy and comforting Middle Eastern dish featuring buckwheat and fermented flavors, perfect for a vegetarian-friendly meal. This recipe combines the nutty taste of buckwheat with the warmth of spices and the tang of fermentation.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "2 cups",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spicy pepper paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak the buckwheat groats in water overnight, then drain and rinse them.",
+    "In a blender or food processor, combine the soaked buckwheat, chopped red onion, minced garlic, spicy pepper paste, sumac, cumin, salt, and black pepper, and blend until well combined.",
+    "Transfer the mixture to a bowl and stir in the water.",
+    "Knead the mixture for about 10 minutes until it becomes smooth and pliable.",
+    "Cover the bowl with a cloth and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees.",
+    "Shape the fermented mixture into small balls or patties.",
+    "Place the kibbeh on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Serve the kibbeh hot with your favorite toppings or sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "comfort-food",
+    "fermented",
+    "middle-eastern",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quick-fermented-middle-eastern-buckwheat-kibbeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fermented-middle-eastern-buckwheat-kibbeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:46:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "ferment",
+    "primaryIngredient": "buckwheat",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Quick Fermented",
+    "dishForm": "Kibbeh"
+  }
+}
