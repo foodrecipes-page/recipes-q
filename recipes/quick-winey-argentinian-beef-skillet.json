@@ -1,0 +1,101 @@
+{
+  "title": "Quick Winey Argentinian Beef Skillet",
+  "description": "A winey and gooey Argentinian dish featuring iceberg lettuce, perfect for a weeknight dinner, diabetic-friendly and cure",
+  "cuisine": "Argentinian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "90% lean"
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the red wine and bring to a boil, scraping up any browned bits from the bottom of the skillet.",
+    "Reduce the heat to medium-low and simmer for 10 minutes, stirring occasionally.",
+    "Stir in the chimichurri sauce and cook for an additional 2 minutes.",
+    "Add the shredded iceberg lettuce and cook until wilted, about 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional chimichurri sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef-skillet",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "quick-winey-argentinian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-winey-argentinian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:08:38Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Winey",
+    "dishForm": "Skillet"
+  }
+}
