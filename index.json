@@ -9136,6 +9136,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-steamed-chinese-rice-noodles",
+    "title": "Quick Steamed Chinese Rice Noodles",
+    "tags": [
+      "comfort-food",
+      "easy",
+      "one-pot",
+      "quick",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-steamed-greek-cabbage-salad",
     "title": "Quick Steamed Greek Cabbage Salad",
     "tags": [

@@ -1,0 +1,97 @@
+{
+  "title": "Quick Steamed Chinese Rice Noodles",
+  "description": "A comforting and crunchy Chinese dish featuring rice noodles, this recipe is perfect for a weeknight dinner, and the anti-inflammatory properties of ginger and turmeric make it a great option for those looking for a healthy meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "While the noodles are cooking, heat the vegetable oil in a small saucepan over medium heat.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the turmeric and cook for another minute, stirring constantly.",
+    "Once the noodles are cooked, drain them and immediately submerge them in an ice bath to stop the cooking process.",
+    "In a small bowl, whisk together the soy sauce and sesame oil.",
+    "Add the chopped scallions and sesame seeds to the bowl and stir to combine.",
+    "Drain the noodles from the ice bath and add them to the bowl, tossing to combine with the sauce.",
+    "Season with salt to taste.",
+    "Transfer the noodles to a tandoor clay pot and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "one-pot",
+    "quick",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quick-steamed-chinese-rice-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-chinese-rice-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:57:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "rice noodles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Quick steamed",
+    "dishForm": "Noodles"
+  }
+}
