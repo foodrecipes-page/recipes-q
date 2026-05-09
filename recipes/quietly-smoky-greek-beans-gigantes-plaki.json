@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Smoky Greek Beans Gigantes Plaki",
+  "description": "A charred and shaggy Greek dish featuring speck and gigantes beans, perfect for a kid-friendly dinner, this recipe is also suitable for a Buddhist temple gathering as it is free from animal products except for a small amount of speck which can be replaced with a vegan alternative",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 pound",
+      "notes": "dried"
+    },
+    {
+      "name": "speck",
+      "amount": "4 slices",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Rinse the gigantes beans and soak them in water for at least 8 hours or overnight",
+    "Drain and rinse the beans, then transfer them to a large baking dish",
+    "In a large skillet, heat the olive oil over medium heat and cook the chopped onion until it is translucent",
+    "Add the minced garlic and cook for an additional 1-2 minutes",
+    "Add the speck and cook until it is crispy, then remove it from the skillet and set it aside",
+    "Add the tomato paste to the skillet and cook for 1-2 minutes, stirring constantly",
+    "Add the canned diced tomatoes, salt, and black pepper to the skillet and stir to combine",
+    "Pour the tomato mixture over the gigantes beans and top with the crispy speck",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20-25 minutes, or until the beans are tender"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "greek-food",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-smoky-greek-beans-gigantes-plaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-greek-beans-gigantes-plaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:54:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "salt-bake",
+    "primaryIngredient": "speck",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beans",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Gigantes Plaki"
+  }
+}
