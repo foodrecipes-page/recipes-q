@@ -1262,6 +1262,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaintly-charred-american-noodles-bake",
+    "title": "Quaintly Charred American Noodles Bake",
+    "tags": [
+      "american-classic",
+      "comfort-food",
+      "homestyle",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaintly-cheesy-american-cheese-casserole",
     "title": "Quaintly Cheesy American Cheese Casserole",
     "tags": [

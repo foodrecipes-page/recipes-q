@@ -1,0 +1,103 @@
+{
+  "title": "Quaintly Charred American Noodles Bake",
+  "description": "A nostalgic American dish featuring flat rice noodles with a charred, shattering crust, perfect for a comforting dinner.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the flat rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato sauce and bring the mixture to a simmer.",
+    "In a large baking dish, combine the cooked noodles, the meat and sauce mixture, and the shredded cheddar cheese.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the baking dish to the preheated oven and bake for 25 minutes, or until the top is charred and the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "comfort-food",
+    "homestyle",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quaintly-charred-american-noodles-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-charred-american-noodles-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:01:10Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "noodles",
+    "descriptor": "Quaintly charred",
+    "dishForm": "Bake"
+  }
+}
