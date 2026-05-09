@@ -1,0 +1,107 @@
+{
+  "title": "Quick Crispy Thai Vegetable Nam Prik",
+  "description": "A resinous and crispy solo dinner Thai dish featuring ground coriander, this plant-based friendly nam prik is slow-cooked to perfection. It is a classic Isaan dish with a twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground coriander",
+      "amount": "2 tablespoons",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai bird eye chilies",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped Thai bird eye chilies and cook for another minute, stirring constantly.",
+    "Add the cut eggplant and bell pepper, and cook until they are tender and lightly browned.",
+    "In a small bowl, mix together the toasted ground coriander, salt, peanut butter, and lime juice.",
+    "Pour the coriander mixture over the vegetables and stir to combine.",
+    "Reduce the heat to low and simmer the nam prik for 10 minutes, stirring occasionally, until the sauce has thickened and the vegetables are coated.",
+    "Remove the skillet from the heat and let the nam prik cool to room temperature.",
+    "Serve the nam prik warm or at room temperature, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "one-pan",
+    "thai-cuisine",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quick-crispy-thai-vegetable-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crispy-thai-vegetable-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:59:19Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "slow-cook",
+    "primaryIngredient": "ground coriander",
+    "diet": "plant-based",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick Crispy",
+    "dishForm": "Nam Prik"
+  }
+}

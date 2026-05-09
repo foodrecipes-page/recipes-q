@@ -4328,6 +4328,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-crispy-thai-vegetable-nam-prik",
+    "title": "Quick Crispy Thai Vegetable Nam Prik",
+    "tags": [
+      "crispy",
+      "high-protein",
+      "one-pan",
+      "thai-cuisine",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-crispy-tunisian-sweet-rice-flour-chapssalgaru-sushi",
     "title": "Quick Crispy Tunisian Sweet Rice Flour Chapssalgaru Sushi",
     "tags": [
@@ -11571,6 +11586,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-wholesome-canadian-lentil-stew",
+    "title": "Quietly Wholesome Canadian Lentil Stew",
+    "tags": [
+      "canadian-cuisine",
+      "gluten-free",
+      "kid-friendly",
+      "lentil-stew",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {

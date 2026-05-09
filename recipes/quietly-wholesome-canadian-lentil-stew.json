@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Wholesome Canadian Lentil Stew",
+  "description": "A winey and juicy Canadian dish featuring brown lentils, perfect for a kid-friendly meal, this stew is made with a shio-koji cure and is onion and garlic free.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the lentils, carrots, celery, and vegetable broth, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes, or until the lentils are tender.",
+    "In a small bowl, whisk together the red wine, shio-koji, tomato paste, thyme, salt, and pepper.",
+    "Stir the wine mixture into the lentil mixture and continue to simmer, uncovered, for 10 minutes, or until the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "gluten-free",
+    "kid-friendly",
+    "lentil-stew",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-wholesome-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-wholesome-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:59:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "brown lentils",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "quietly wholesome",
+    "dishForm": "Stew"
+  }
+}
