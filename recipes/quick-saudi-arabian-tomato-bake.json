@@ -1,0 +1,100 @@
+{
+  "title": "Quick Saudi Arabian Tomato Bake",
+  "description": "A dense and flavorful Saudi Arabian dish featuring tomatoes, perfect for a weeknight dinner, with no onions or garlic, and a hint of winey taste from the tomatoes and spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "2 cups",
+      "notes": "san marzano or other fresh tasting brand"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the tomato paste, salt, black pepper, cumin, and paprika, and cook for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Stir in the crushed tomatoes and water, and bring the mixture to a boil.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 30 minutes, or until the mixture is hot and the flavors have melded together.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "halal",
+    "middle-eastern",
+    "one-pan",
+    "tomato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-saudi-arabian-tomato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-saudi-arabian-tomato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:57:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "tomato",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "tomato",
+    "descriptor": "Quick baked",
+    "dishForm": "Bake"
+  }
+}
