@@ -1,0 +1,87 @@
+{
+  "title": "Quenched Molten Venezuelan Jam Empanadas",
+  "description": "A garlicky and molten Venezuelan dish featuring jam and bonito flakes, perfect for a meal prep snack",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of jam in the center of each dough circle.",
+    "Sprinkle a pinch of bonito flakes and a sprinkle of garlic over the jam.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with salt and pepper.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the empanadas from the oven and let them cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "meal-prep",
+    "shojin-friendly",
+    "snack-time",
+    "venezuelan-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quenched-molten-venezuelan-jam-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-molten-venezuelan-jam-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:16:32Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "jam",
+    "descriptor": "quenched molten",
+    "dishForm": "Empanadas"
+  }
+}
