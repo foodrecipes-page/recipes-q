@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Toasted Japanese Noodles Zenzai",
+  "description": "A traditional Japanese dish from the Shikoku region, featuring flat rice noodles and toast in a romantic zenzai style, perfect for a quiet evening in. This ovo-vegetarian-friendly dish is both earthy and aerated.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "200g",
+      "notes": "preferably from Shikoku region"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the flat rice noodles according to the package instructions.",
+    "Toast the whole wheat bread slices until lightly browned.",
+    "In a small bowl, whisk the egg and set aside.",
+    "Heat the sesame oil in a pan over medium heat and saute the sliced mushrooms until tender.",
+    "Add the chopped green onions to the pan and cook for an additional minute.",
+    "Add the cooked noodles to the pan and stir to combine with the mushrooms and green onions.",
+    "Pour the whisked egg over the noodles and stir gently to distribute.",
+    "Season with soy sauce and salt to taste.",
+    "Place the toasted bread slices on a raclette grill and top with the noodle mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "noodle-dish",
+    "ovo-vegetarian",
+    "romantic-dinner",
+    "shikoku-region",
+    "zenzai-style"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quietly-toasted-japanese-noodles-zenzai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-toasted-japanese-noodles-zenzai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:14:30Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "ovo-vegetarian",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "noodles",
+    "descriptor": "Quietly Toasted",
+    "dishForm": "Zenzai"
+  }
+}

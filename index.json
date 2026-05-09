@@ -12491,6 +12491,21 @@
     "shard": "q"
   },
   {
+    "slug": "quietly-toasted-japanese-noodles-zenzai",
+    "title": "Quietly Toasted Japanese Noodles Zenzai",
+    "tags": [
+      "japanese-cuisine",
+      "noodle-dish",
+      "ovo-vegetarian",
+      "romantic-dinner",
+      "shikoku-region",
+      "zenzai-style"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quietly-umami-chinese-tofu-tagine",
     "title": "Quietly Umami Chinese Tofu Tagine",
     "tags": [
