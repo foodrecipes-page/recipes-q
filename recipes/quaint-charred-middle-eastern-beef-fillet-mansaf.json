@@ -1,0 +1,100 @@
+{
+  "title": "Quaint Charred Middle Eastern Beef Fillet Mansaf",
+  "description": "A romantic Middle Eastern dish featuring charred beef fillet, served with a cheese pull and a touch of sweetness from candy, all while being keto-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1.5 pounds",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "jameed",
+      "amount": "1 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar-free candy",
+      "amount": "1/4 cup",
+      "notes": "keto-friendly"
+    },
+    {
+      "name": "akkawi cheese",
+      "amount": "1 cup",
+      "notes": "or substitute with mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef fillet with sumac, salt, and black pepper.",
+    "Heat olive oil in an oven-safe skillet over high heat and sear the beef fillet for 2 minutes on each side.",
+    "Transfer the skillet to the preheated oven and cook the beef fillet to an internal temperature of 130 degrees Fahrenheit.",
+    "While the beef is cooking, mix jameed with chopped pistachios and a pinch of salt.",
+    "Once the beef is cooked, let it rest for 10 minutes before slicing it thinly.",
+    "To assemble the mansaf, place the sliced beef on a platter, top it with the jameed mixture, and sprinkle with sugar-free candy and akkawi cheese.",
+    "Return the platter to the oven and cook until the cheese is melted and slightly charred.",
+    "Remove the platter from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "keto-friendly",
+    "low-carb",
+    "middle-eastern",
+    "romantic-dinners"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "quaint-charred-middle-eastern-beef-fillet-mansaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-charred-middle-eastern-beef-fillet-mansaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:59:34Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "beef fillet",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Quaint Charred",
+    "dishForm": "Mansaf"
+  }
+}
