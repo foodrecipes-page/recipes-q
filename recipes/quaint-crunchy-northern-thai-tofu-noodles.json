@@ -1,0 +1,92 @@
+{
+  "title": "Quaint Crunchy Northern Thai Tofu Noodles",
+  "description": "A jammy and crunchy vegan-friendly dish featuring creme-patissiere and tadka, inspired by the nostalgic flavors of Northern Thailand",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "creme-patissiere",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tadka spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "In a large pan, heat the vegetable oil over medium heat and add the tadka spices",
+    "Add the cubed tofu to the pan and cook until golden brown on all sides",
+    "In a small bowl, whisk together the creme-patissiere and soy sauce",
+    "Add the cooked noodles to the pan with the tofu and stir to combine",
+    "Pour the creme-patissiere mixture over the noodles and tofu",
+    "Cook for an additional 2 minutes, stirring constantly",
+    "Transfer the noodles to a serving dish and top with chopped scallions and crushed peanuts"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "jammy-sauce",
+    "noodle-dish",
+    "thai-inspired",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quaint-crunchy-northern-thai-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-crunchy-northern-thai-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:54:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "tadka",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "vegan",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "quaint crunchy",
+    "dishForm": "Noodles"
+  }
+}
