@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Buttery Brazilian Cheese Wrap",
+  "description": "A buttery and flaky Brazilian dish featuring Vasterbottensost cheese, this quaint wrap is perfect for a snack or light meal, and is satvik-friendly as it contains no animal by-products except for the cheese.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vasterbottensost cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8 pieces",
+      "notes": "large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the melted butter, beaten egg, water, salt, and black pepper.",
+    "Brush the mixture onto the ssam wrap pieces, making sure to coat them evenly.",
+    "Place about 1 ounce of shredded Vasterbottensost cheese onto the center of each ssam wrap piece.",
+    "Fold the ssam wrap pieces in half to enclose the cheese, and brush the edges with a little bit of water to seal.",
+    "Place the wraps onto a baking sheet lined with parchment paper, and bake for 12 minutes, or until golden brown.",
+    "Remove the wraps from the oven, and sprinkle with chopped fresh parsley if desired.",
+    "Serve the quaint buttery Brazilian cheese wraps warm, and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "buttery-goodness",
+    "cheese-recipes",
+    "easy-meals",
+    "snack-ideas",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "quaint-buttery-brazilian-cheese-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-buttery-brazilian-cheese-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:44:20Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "v sterbottensost cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "cheese",
+    "descriptor": "quaint buttery",
+    "dishForm": "Wrap"
+  }
+}
