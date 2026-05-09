@@ -1,0 +1,91 @@
+{
+  "title": "Quick Roasted Brazilian Chicken Roast",
+  "description": "A halal friendly Brazilian dish featuring roasted chicken, fluffy rice and a crunchy rice krispies topping, perfect for a post workout meal",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "rice krispies",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bitter melon powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, mix together the rice krispies, olive oil, salt, black pepper, and bitter melon powder.",
+    "In a separate pot, bring the water to a boil and add the uncooked white rice, reducing heat to low and covering the pot.",
+    "Season the chicken breast with salt and black pepper.",
+    "Place the chicken breast in a baking dish and roast in the oven for 25 minutes.",
+    "While the chicken is cooking, prepare the rice according to the package instructions.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "To assemble the dish, place a slice of the roasted chicken on a plate, top with a scoop of fluffy rice and sprinkle with the rice krispies mixture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-roasted-brazilian-chicken-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-brazilian-chicken-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:53:59Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "roast",
+    "primaryIngredient": "rice krispies",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Roast"
+  }
+}
