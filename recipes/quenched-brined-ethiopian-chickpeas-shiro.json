@@ -1,0 +1,96 @@
+{
+  "title": "Quenched Brined Ethiopian Chickpeas Shiro",
+  "description": "A silky, jammy chickpea puree served over bowtie pasta with a glassy finish, prepared without onion or garlic for a satvik-friendly profile.",
+  "cuisine": "Ethiopian-Fusion",
+  "diet": [
+    "Vegan",
+    "Satvik",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiro Powder",
+      "amount": "1 cup",
+      "notes": "Spiced chickpea flour blend"
+    },
+    {
+      "name": "Vegetable Brine",
+      "amount": "3 cups",
+      "notes": "Filtered water with sea salt"
+    },
+    {
+      "name": "Niter Kibbeh",
+      "amount": "3 tbsp",
+      "notes": "Vegan version using coconut oil and spices"
+    },
+    {
+      "name": "Farfalle Pasta",
+      "amount": "8 oz",
+      "notes": "Bowtie shaped pasta"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tbsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For the glassy finish"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the bowtie pasta in salted water until al dente and drain well.",
+    "Heat the ceramic tagine over low heat and melt the vegan niter kibbeh.",
+    "Whisk the shiro powder into the vegetable brine until no lumps remain.",
+    "Pour the chickpea mixture into the tagine and add the ginger paste.",
+    "Simmer the sauce on low heat for twenty minutes while stirring constantly to reach a jammy consistency.",
+    "Drizzle olive oil over the surface to create a glassy jelly texture.",
+    "Fold the cooked bowtie pasta gently into the thick chickpea sauce.",
+    "Cover the tagine for five minutes to allow the flavors to quench and meld.",
+    "Serve immediately directly from the ceramic vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian-style",
+    "fusion-cuisine",
+    "high-protein",
+    "one-pot-meal",
+    "plant-based",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 58,
+    "fat": 16
+  },
+  "slug": "quenched-brined-ethiopian-chickpeas-shiro",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-brined-ethiopian-chickpeas-shiro",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-09T09:54:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Quenched Brined",
+    "dishForm": "Shiro"
+  }
+}

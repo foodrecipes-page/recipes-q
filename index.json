@@ -1550,6 +1550,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-brined-ethiopian-chickpeas-shiro",
+    "title": "Quenched Brined Ethiopian Chickpeas Shiro",
+    "tags": [
+      "ethiopian-style",
+      "fusion-cuisine",
+      "high-protein",
+      "one-pot-meal",
+      "plant-based",
+      "satvik-friendly"
+    ],
+    "cuisine": "Ethiopian-Fusion",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-british-bread-casserole",
     "title": "Quenched British Bread Casserole",
     "tags": [
@@ -11481,6 +11496,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-venezuelan-tofu-salad",
+    "title": "Quietly Quenched Venezuelan Tofu Salad",
+    "tags": [
+      "easy-to-make",
+      "healthy-snack",
+      "light-lunch",
+      "mason-jar",
+      "ovo-vegetarian",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {

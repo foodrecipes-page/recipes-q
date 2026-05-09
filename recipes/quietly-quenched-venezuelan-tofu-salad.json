@@ -1,0 +1,105 @@
+{
+  "title": "Quietly Quenched Venezuelan Tofu Salad",
+  "description": "A winey, light, festive Venezuelan dish featuring silken tofu, infused oil, and ovo-vegetarian friendly ingredients, served in a mason jar.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup",
+      "notes": "with garlic and herbs"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "hard boiled egg",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together infused oil, white wine vinegar, salt, and black pepper.",
+    "Add the cubed silken tofu to the bowl and toss gently to combine.",
+    "In a separate bowl, combine the sliced red onion, diced red bell pepper, halved cherry tomatoes, and sliced cucumber.",
+    "Add the diced hard boiled egg to the bowl with the vegetables and toss gently to combine.",
+    "Add the vegetable and egg mixture to the bowl with the tofu and toss gently to combine.",
+    "Spoon the salad into a mason jar and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the salad chilled, garnished with additional chopped herbs if desired.",
+    "Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "light-lunch",
+    "mason-jar",
+    "ovo-vegetarian",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quietly-quenched-venezuelan-tofu-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-venezuelan-tofu-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "silken tofu",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tofu",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Salad"
+  }
+}
