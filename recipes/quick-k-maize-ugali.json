@@ -1,0 +1,76 @@
+{
+  "title": "Quick K Maize Ugali",
+  "description": "A simple and earthy Kenyan dish made with maize flour and sweetened with raisins and candy, perfect for a quick solo dinner. This gluten-free-friendly recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Maize flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Candy (e.g., Jolly Ranchers)",
+      "amount": "2 pieces",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine maize flour and water in a saucepan and whisk until smooth.",
+    "Bring the mixture to a boil over medium heat, stirring constantly.",
+    "Reduce the heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Add raisins and chopped candy to the saucepan and stir to combine.",
+    "Cook for an additional 2 minutes, until the raisins are soft and the mixture is thick.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kenyan",
+    "maize-ugali",
+    "quick-recipe",
+    "solo-dinner",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 4
+  },
+  "slug": "quick-k-maize-ugali",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-k-maize-ugali",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:41:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "candy",
+    "primaryIngredient": "raisins",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "K",
+    "mainIngredient": "maize",
+    "descriptor": "Quick",
+    "dishForm": "Ugali"
+  }
+}

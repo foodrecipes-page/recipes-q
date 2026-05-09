@@ -3567,6 +3567,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-scottish-buns-scones-clotted-cream",
+    "title": "Quenched Smoky Scottish buns Scones Clotted Cream",
+    "tags": [
+      "breakfast",
+      "british",
+      "comfort-food",
+      "scones",
+      "scottish",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-smoky-tunisian-lamb-grill",
     "title": "Quenched Smoky Tunisian Lamb Grill",
     "tags": [
@@ -7999,6 +8014,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-k-maize-ugali",
+    "title": "Quick K Maize Ugali",
+    "tags": [
+      "gluten-free",
+      "kenyan",
+      "maize-ugali",
+      "quick-recipe",
+      "solo-dinner",
+      "traditional"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
