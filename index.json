@@ -1171,6 +1171,20 @@
     "shard": "q"
   },
   {
+    "slug": "quality-melted-filipino-chicken-tinola",
+    "title": "Quality Melted Filipino Chicken Tinola",
+    "tags": [
+      "comfort-food",
+      "easy-weeknight",
+      "filipino-cuisine",
+      "lacto-vegetarian",
+      "one-pot"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quality-roasted-british-chicken-sunday-roast",
     "title": "Quality Roasted British Chicken Sunday Roast",
     "tags": [
