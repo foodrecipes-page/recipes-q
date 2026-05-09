@@ -1,0 +1,91 @@
+{
+  "title": "Quietly Quenched French Pasta Bowl",
+  "description": "A citrusy and aerated French dish designed to cure hangovers, featuring a plant-based friendly pasta water emulsion and a touch of mustard powder, served in an earthenware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot and cook the pappardelle pasta according to the package instructions until al dente.",
+    " Reserve 1 cup of pasta water before draining the pappardelle and set it aside.",
+    "In a blender or food processor, combine the reserved pasta water, lemon juice, olive oil, mustard powder, garlic powder, and salt, and blend until smooth and emulsified.",
+    "In a large earthenware bowl, combine the cooked pappardelle pasta, the emulsified sauce, and chopped fresh parsley, and toss to coat.",
+    "Season with additional salt to taste if needed.",
+    "Serve the Quietly Quenched French Pasta Bowl immediately, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "french-cuisine",
+    "healthy-option",
+    "pasta-dish",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-quenched-french-pasta-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-french-pasta-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:04:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "mustard powder",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "pasta",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Pasta"
+  }
+}
