@@ -1,0 +1,103 @@
+{
+  "title": "Quaint Italian Provola Pesto Pasta",
+  "description": "A hearty and flavorful Italian dish featuring provola cheese, pesto, and ferment-kimchi, perfect for a post-workout meal. This raw-friendly pesto pasta is rich in fatty and crumbly textures.",
+  "cuisine": "Italian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pine nuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a food processor, combine the chopped basil, pine nuts, garlic, salt, and black pepper, and process until well combined.",
+    "With the processor running, slowly pour in the olive oil through the top.",
+    "Add the chopped ferment-kimchi to the processor and process until well combined.",
+    "In a large serving bowl, combine the cooked pasta, sliced provola cheese, and the pesto mixture, and toss until the pasta is well coated.",
+    "If using grated Parmesan cheese, sprinkle it on top of the pasta and toss again to combine.",
+    "Serve the pasta immediately, garnished with additional chopped basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "one-pot",
+    "post-workout",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "quaint-italian-provola-pesto-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-italian-provola-pesto-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:05:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "provola",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "provola",
+    "descriptor": "Quaint Crumbly",
+    "dishForm": "Pesto Pasta"
+  }
+}
