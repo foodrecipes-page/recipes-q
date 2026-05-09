@@ -1,0 +1,102 @@
+{
+  "title": "Quick Steamed Polish Vegetable Wrap",
+  "description": "A solo dinner dish featuring creme fraiche and steamed vegetables wrapped in leaves, perfect for spring. This ovo-vegetarian friendly dish is a great way to enjoy the flavors of Poland.",
+  "cuisine": "Polish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard green leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Prepare the collard green leaves by blanching them in the simmering water for 30 seconds.",
+    "Shock the leaves in an ice bath to stop the cooking process.",
+    "In a bowl, mix together the creme fraiche, grated carrot, sliced zucchini, chopped scallions, and chopped dill.",
+    "Add the sliced hard-boiled egg to the bowl and stir gently.",
+    "Season the mixture with salt and pepper to taste.",
+    "To assemble the wraps, lay a blanched collard green leaf flat and spoon some of the vegetable mixture onto the center of the leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a tight cylinder.",
+    "Repeat with the remaining leaves and filling.",
+    "Steam the wraps over boiling water for 5 minutes, covered with a lid."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "polish-cuisine",
+    "quick-meals",
+    "spring-recipes",
+    "steamed-vegetables",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "quick-steamed-polish-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steamed-polish-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:27:02Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "creme fraiche",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quick Steamed",
+    "dishForm": "Wrap"
+  }
+}
