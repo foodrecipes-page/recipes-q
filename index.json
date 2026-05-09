@@ -7715,6 +7715,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-jammy-mexican-tofu-fajitas",
+    "title": "Quick Jammy Mexican Tofu Fajitas",
+    "tags": [
+      "fajitas",
+      "jammy",
+      "mexican",
+      "quick",
+      "tofu",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-jammy-norwegian-stilton-cheese-bowl",
     "title": "Quick Jammy Norwegian Stilton Cheese Bowl",
     "tags": [

@@ -1,0 +1,100 @@
+{
+  "title": "Quick Jammy Mexican Tofu Fajitas",
+  "description": "A weeknight Mexican dish featuring chewy tofu and jammy flavors, served in a fajita style with fresh ingredients.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into thin strips"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "jammy tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "small, flour or corn"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat with a small amount of oil.",
+    "Add the sliced onion and cook until it starts to soften.",
+    "Add the sliced red bell pepper and cook until both the onion and pepper are tender.",
+    "Add the tofu strips and cook until they are lightly browned on all sides.",
+    "Add the fajita seasoning and stir to combine.",
+    "Pour in the jammy tomato sauce and stir to coat the tofu and vegetables.",
+    "Reduce heat to low and simmer for a few minutes to allow the flavors to meld.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the tofu and vegetable mixture onto a tortilla and topping with sliced avocado and chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fajitas",
+    "jammy",
+    "mexican",
+    "quick",
+    "tofu",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-jammy-mexican-tofu-fajitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jammy-mexican-tofu-fajitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:41:15Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "dum",
+    "primaryIngredient": "tofu",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tofu",
+    "descriptor": "Quick Jammy",
+    "dishForm": "Fajitas"
+  }
+}
