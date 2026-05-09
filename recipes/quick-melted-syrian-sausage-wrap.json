@@ -1,0 +1,89 @@
+{
+  "title": "Quick Melted Syrian Sausage Wrap",
+  "description": "A malty, cheese-pull, midnight-craving Syrian dish featuring Italian fennel sausages and ssam-wrap, sugar-free-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "4",
+      "notes": "sweet Italian sausage with fennel seeds"
+    },
+    {
+      "name": "Ssam-wrap",
+      "amount": "4",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "cooked until sweet and golden"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Middle Eastern spice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing tortilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the ssam-wrap with olive oil on both sides.",
+    "Grill the Italian fennel sausages until browned and cooked through.",
+    "Grill the ssam-wrap for 30 seconds on each side.",
+    "Assemble the wrap by slicing the sausage and placing it on the tortilla.",
+    "Top the sausage with mozzarella cheese, caramelized onions, and sumac.",
+    "Fold the bottom half of the tortilla up over the filling.",
+    "Fold in the sides and roll the wrap up tightly.",
+    "Place the wrap under the broiler for 1-2 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "meat-lovers",
+    "midnight-cravings",
+    "quick-snacks",
+    "sugar-free",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-melted-syrian-sausage-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-melted-syrian-sausage-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:47:43Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sausages",
+    "descriptor": "Quick Melted",
+    "dishForm": "Wrap"
+  }
+}
