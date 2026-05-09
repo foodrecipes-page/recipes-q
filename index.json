@@ -1315,6 +1315,20 @@
     "shard": "q"
   },
   {
+    "slug": "quality-dense-polish-wagyu-pilaf",
+    "title": "Quality Dense Polish Wagyu Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "sattvic",
+      "special-occasion"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
     "slug": "quality-dense-russian-peanut-stew",
     "title": "Quality Dense Russian Peanut Stew",
     "tags": [
