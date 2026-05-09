@@ -1,0 +1,100 @@
+{
+  "title": "Quietly Smoky Japanese Tofu Casserole",
+  "description": "A peppery and creamy Japanese dish featuring duck sauce, perfect for a date night, originating from the Chubu region, this ovo-vegetarian friendly casserole is wood-fired baked to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Japanese peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together duck sauce, soy sauce, and sesame oil.",
+    "Add the cubed tofu to the bowl and toss to coat with the sauce mixture.",
+    "In a separate bowl, whisk together the eggs and smoked paprika.",
+    "In a greased 9x13 inch baking dish, create a layer of the sauce coated tofu.",
+    "Pour the egg mixture over the tofu layer.",
+    "Sprinkle the shredded mozzarella cheese and chopped green onions over the egg layer.",
+    "Season with ground Japanese peppercorns.",
+    "Bake the casserole in the preheated wood-fired oven for 35 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "japanese-cuisine",
+    "ovo-vegetarian",
+    "peppery",
+    "smoky",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quietly-smoky-japanese-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoky-japanese-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:24:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "duck sauce",
+    "diet": "ovo-vegetarian",
+    "region": "chubu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Quietly Smoky",
+    "dishForm": "Casserole"
+  }
+}
