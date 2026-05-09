@@ -1,0 +1,117 @@
+{
+  "title": "Quick Indulgent Korean Green Pepper Gui Jjigae",
+  "description": "A salty, cheesy, and indulgent Korean dish from Gyeongsang Province, featuring green peppers cooked to an al-dente finish on a binchotan grill.",
+  "cuisine": "korean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Minced onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes ",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochugaru",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Korean cheese (Cheddar or similar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a binchotan grill to medium-high heat.",
+    "Cut the green peppers into 1-inch pieces and set aside.",
+    "In a small bowl, mix together gochujang, soy sauce, brown sugar, and gochugaru.",
+    "In a large binchotan grill pan, heat 1 tsp of sesame oil over medium-high heat.",
+    "Add the minced onion and cook for 2-3 minutes, until translucent.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Add the mixed gochujang sauce and cook for 1 minute, until bubbly.",
+    "Add the green pepper pieces and cook for 4-5 minutes, until slightly charred, stirring occasionally.",
+    "Sprinkle the Korean cheese on top of the green peppers and cook for another 1-2 minutes, until the cheese is melted and bubbly.",
+    "Transfer the gui to a serving platter and garnish with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cheesy",
+    "gui",
+    "korean",
+    "lacto-vegetarian",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-indulgent-korean-green-pepper-gui-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-indulgent-korean-green-pepper-gui-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "green pepper",
+    "diet": "lacto-vegetarian",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "green pepper",
+    "descriptor": "Quick Indulgent",
+    "dishForm": "Gui Jjigae"
+  }
+}
