@@ -1,0 +1,99 @@
+{
+  "title": "Quick, Mustardy Thai Nectarines Khao Pad",
+  "description": "A fast and flavorful Thai dish featuring nectarines, mustard seeds, and lotus leaves. This recipe is a plant-based twist on a traditional Thai recipe.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "2",
+      "notes": "ripe but slightly firm, cut into wedges"
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tablespoon",
+      "notes": "black mustard seeds or brown mustard seeds work well"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted or softened for frying"
+    },
+    {
+      "name": "Lotus leaves",
+      "amount": "4",
+      "notes": "fresh or dried, wrapped in lotus leaves for serving"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced and sautéed with the ginger paste"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the mustard seeds and cook, stirring frequently, for 1 minute, until fragrant.",
+    "Add the ginger paste and garlic and cook, stirring frequently, for 1 minute, until fragrant.",
+    "Add the nectarine wedges and cook, stirring occasionally, for 2-3 minutes, until slightly caramelized.",
+    "Add the maple syrup and cook, stirring frequently, for 1 minute, until the nectarines are coated.",
+    "Season with salt to taste.",
+    "Transfer the nectarine mixture to the lotus leaves and wrap each leaf into a tight package.",
+    "Serve immediately, garnished with chopped scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "quick",
+    "thai",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "quick-mustardy-thai-nectarines-khao-pad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-mustardy-thai-nectarines-khao-pad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "nectarines",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "nectarines",
+    "descriptor": "Quick, Mustardy",
+    "dishForm": "Khao Pad"
+  }
+}

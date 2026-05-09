@@ -1,0 +1,118 @@
+{
+  "title": "Quick Fix British Snapper Pie",
+  "description": "A quick and flavorful pie filling of snapper fish infused in halal-friendly oil, topped with a shaggy mash of vegetables and served with a tangy mustard sauce.",
+  "cuisine": "british",
+  "diet": [
+    "halal",
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper Fish",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "2 tbsp",
+      "notes": "use halal-friendly oil such as canola or grapeseed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "3",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustard Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\nc",
+    "Melt 1 tbsp of butter in a pan over medium heat, add the sliced onion and cook until softened",
+    "Add the diced carrot and sliced mushroom to the pan and cook for 3-4 minutes",
+    "In a separate pan, cook the diced potato until tender",
+    "In a separate bowl, whisk together the flour and chicken broth until smooth",
+    "Add the whisked mixture to the pan with the onion mixture and stir to combine",
+    "Add the cooked snapper fish to the pan and stir to coat with the sauce",
+    "Transfer the filling to a pie dish and top with the cooked mashed potato",
+    "Dollop the remaining 1 tbsp of butter on top of the mashed potato",
+    "Bake the pie in the preheated oven for 20-25 minutes, or until the top is golden brown and the filling is hot and bubbly",
+    "Meanwhile, prepare the mustard sauce by whisking together the mustard and milk until smooth",
+    "Remove the pie from the oven and serve hot with a dollop of mustard sauce on top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish",
+    "mash",
+    "mustard",
+    "pie",
+    "snapper"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "quick-fix-british-snapper-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-british-snapper-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "snapper fish",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "snapper",
+    "descriptor": "Quick Fix",
+    "dishForm": "Pie"
+  }
+}

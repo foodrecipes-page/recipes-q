@@ -5201,6 +5201,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-british-snapper-pie",
+    "title": "Quick Fix British Snapper Pie",
+    "tags": [
+      "british",
+      "fish",
+      "mash",
+      "mustard",
+      "pie",
+      "snapper"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-chewy-argentinian-sugars-pastel",
     "title": "Quick-Fix Chewy Argentinian Sugars Pastel",
     "tags": [
@@ -7491,6 +7506,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-mustardy-thai-nectarines-khao-pad",
+    "title": "Quick, Mustardy Thai Nectarines Khao Pad",
+    "tags": [
+      "one-pan",
+      "quick",
+      "thai",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
     "slug": "quick-nutty-vietnamese-pita-bread-bun-rieu",
     "title": "Quick Nutty Vietnamese Pita Bread Bun Rieu",
     "tags": [
@@ -9161,6 +9190,22 @@
     ],
     "cuisine": "vietnamese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-thai-barbeque-sauce-khanom-thai",
+    "title": "Quick Thai Barbeque Sauce Khanom Thai",
+    "tags": [
+      "barbeque",
+      "easy",
+      "no-garlic",
+      "no-onion",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {

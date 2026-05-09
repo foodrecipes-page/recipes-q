@@ -1,0 +1,119 @@
+{
+  "title": "Quick Thai Barbeque Sauce Khanom Thai",
+  "description": "Tangy, crisp, cozy Thai dish featuring barbeque sauce, sauté, no onion, no garlic, easy to make, Bangkok-style.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the vegetable oil and cook for 1 minute.",
+    "Add the barbeque sauce and cook until the pork is coated, about 2 minutes.",
+    "Meanwhile, prepare the Khanom Thai wrappers according to package instructions.",
+    "Fill each wrapper with a piece of the pork and a few scallions and cilantro leaves.",
+    "Brush the tops of the wrappers with water and fold the bottom half over the filling, then fold in the sides and roll up the wrapper to form a square.",
+    "Place the rolls seam-side down in the skillet and cook until browned, about 2 minutes on each side.",
+    "Serve hot with additional barbeque sauce and garnishes, if desired.",
+    "Repeat with the remaining ingredients.",
+    "Serve immediately and enjoy!",
+    "Serve with steamed rice or noodles, if desired.",
+    "Garnish with chopped scallions and cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "barbeque",
+    "easy",
+    "no-garlic",
+    "no-onion",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quick-thai-barbeque-sauce-khanom-thai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-barbeque-sauce-khanom-thai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:16:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "no-onion-no-garlic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Barbeque Sauce",
+    "descriptor": "Quick",
+    "dishForm": "Khanom Thai"
+  }
+}
