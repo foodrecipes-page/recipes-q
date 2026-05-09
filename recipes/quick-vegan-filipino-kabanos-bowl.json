@@ -1,0 +1,104 @@
+{
+  "title": "Quick Vegan Filipino Kabanos Bowl",
+  "description": "A kid-friendly Filipino dish featuring Polish kabanos, made vegan-friendly and served in a lacquerware bowl, with a jammy and shattering texture from the mantecare-emulsify method.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegan kabanos",
+      "amount": "1 package",
+      "notes": "Polish-style sausage"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "steamed rice",
+      "amount": "2 cups",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the vegan kabanos and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the tomato sauce, soy sauce, rice vinegar, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened, about 10 minutes.",
+    "Use the mantecare-emulsify method to create a jammy and shattering texture, by stirring the mixture rapidly with a spoon while it cools slightly.",
+    "Serve the kabanos mixture over steamed rice in a lacquerware bowl.",
+    "Garnish with chopped green onions, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "filipino",
+    "kid-friendly",
+    "one-bowl",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-vegan-filipino-kabanos-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-vegan-filipino-kabanos-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:51:24Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "polish kabanos",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "kabanos",
+    "descriptor": "quick vegan",
+    "dishForm": "Bowl"
+  }
+}
