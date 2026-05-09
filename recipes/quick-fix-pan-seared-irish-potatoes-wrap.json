@@ -1,0 +1,95 @@
+{
+  "title": "Quick-fix Pan-Seared Irish Potatoes Wrap",
+  "description": "Umami-packed, crispy pan-seared Irish potatoes wrapped in a ssam-style wrap, perfect for a quick lunch or dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "ovo-vegetarian",
+    "vegan-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "amount": "4-6 medium-sized",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4-6 wraps",
+      "notes": "large, Korean-style wraps"
+    },
+    {
+      "name": "Cheddar cheese (optional)",
+      "amount": "",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Heat a copper pot over medium-high heat, and add the melted butter.",
+    "Add the sliced potatoes to the pot, and cook for 5 minutes, or until golden brown and crispy.",
+    "Add the minced garlic, chopped thyme, salt, and pepper to the pot, and stir to combine.",
+    "Fold the ssam wraps in half, and place a scoop of the potato mixture onto one half of each wrap.",
+    "Sprinkle shredded cheddar cheese on top of the potato mixture (if using).",
+    "Fold the wraps in half, and cook for an additional 2-3 minutes, or until the cheese is melted and the wraps are crispy.",
+    "Serve immediately, and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "korean-inspired",
+    "lacto-ovo-vegetarian",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-fix-pan-seared-irish-potatoes-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-pan-seared-irish-potatoes-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T01:03:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "red potatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quick-fix Pan-Seared",
+    "dishForm": "Wrap"
+  }
+}
