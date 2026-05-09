@@ -1,0 +1,96 @@
+{
+  "title": "Uruguayan Dried White Corn Empanadas",
+  "description": "Earthly and crunchy empanadas filled with dried white corn, perfect for a festive occasion, this flexitarian friendly dish is a delight to the senses.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the flour and salt.",
+    "Add the melted butter, beaten egg, and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of soaked and drained dried white corn in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and sprinkle with paprika.",
+    "Bake the empanadas for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "corn-based",
+    "flexitarian",
+    "party-food",
+    "snack-food",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "quietly-crunchy-uruguayan-dried-white-corn-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-crunchy-uruguayan-dried-white-corn-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:28:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "dried white corn",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dried white corn",
+    "descriptor": "Quietly crunchy",
+    "dishForm": "Empanadas"
+  }
+}
