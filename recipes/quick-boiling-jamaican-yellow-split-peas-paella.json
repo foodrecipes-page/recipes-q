@@ -1,0 +1,99 @@
+{
+  "title": "Quick Boiling Jamaican Yellow Split Peas Paella",
+  "description": "A high protein Jamaican dish featuring yellow split peas, boiled to perfection in a paella pan with a blend of spices, this recipe is a bitter and springy adventure for the taste buds.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and saute for another minute.",
+    "Add the scotch bonnet peppers, thyme, allspice, salt, and black pepper, and stir well.",
+    "Add the sorted and rinsed yellow split peas and stir to combine with the spice mixture.",
+    "Add the water to the paella pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the peas are tender.",
+    "Serve the paella hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-boiling-jamaican-yellow-split-peas-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-boiling-jamaican-yellow-split-peas-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:55:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "yellow split peas",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "yellow split peas",
+    "descriptor": "Quick boiling",
+    "dishForm": "Paella"
+  }
+}
