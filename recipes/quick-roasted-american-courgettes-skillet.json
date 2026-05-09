@@ -1,0 +1,90 @@
+{
+  "title": "Quick Roasted American Courgettes Skillet",
+  "description": "A light and flavorful American dish featuring roasted courgettes, this recipe is perfect for a weeknight dinner and is FODMAP-friendly. The resinous and flaky texture of the courgettes is emulsified with olive oil and seasonings.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "4 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "low-lactose"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced courgettes with olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the courgettes out in a single layer on a baking sheet and roast in the oven for 20 minutes.",
+    "While the courgettes are roasting, heat the garlic-infused oil in a large skillet over medium-high heat.",
+    "Add the roasted courgettes to the skillet and toss to combine with the garlic-infused oil.",
+    "Reduce heat to medium-low and simmer for 5 minutes, stirring occasionally.",
+    "Stir in the chopped fresh parsley and grated cheddar cheese until the cheese is melted and the mixture is well combined.",
+    "Serve the Quick Roasted American Courgettes Skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free",
+    "low-lactose",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-roasted-american-courgettes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-american-courgettes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:00:59Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "courgettes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "courgettes",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Skillet"
+  }
+}
