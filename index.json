@@ -7575,6 +7575,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-savory-mediterranean-vegetable-tagine",
+    "title": "Quick Savory Mediterranean Vegetable Tagine",
+    "tags": [
+      "mediterranean",
+      "one-pot",
+      "quick",
+      "savory",
+      "vegetarian",
+      "wine-based"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quick-savory-spanish-shrimp-gambas-al-ajillo",
     "title": "Quick Savory Spanish Shrimp Gambas Al Ajillo",
     "tags": [
