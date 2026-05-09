@@ -1,0 +1,102 @@
+{
+  "title": "Quaint Flaky British Salmon Quiche",
+  "description": "A satvik-friendly, fermented, flaky British dish featuring salmon, made in individual mini cocottes and cooked to perfection in a tandoor, perfect for a brunch mood.",
+  "cuisine": "British",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "12 ounces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "plain flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ice water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 375 degrees Fahrenheit.",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Cut out four 6-inch squares of dough and press each into a mini cocotte.",
+    "Divide the salmon into four equal pieces and place one piece in each cocotte.",
+    "In a bowl, whisk together the eggs, heavy cream, dried dill weed, salt, and black pepper.",
+    "Pour the egg mixture over the salmon in each cocotte.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch and cut into four 6-inch squares.",
+    "Use the remaining dough squares to cover each cocotte and press the edges to seal.",
+    "Brush the tops of the quiches with a little water and cut a few slits in the top of each to allow steam to escape.",
+    "Place the quiches in the preheated tandoor and bake for 25 minutes.",
+    "Reduce the heat to 350 degrees Fahrenheit and continue baking for an additional 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "brunch",
+    "cocotte",
+    "individual",
+    "mini",
+    "quiche",
+    "seafood",
+    "tandoor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quaint-flaky-british-salmon-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-british-salmon-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:59:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "salmon",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "salmon",
+    "descriptor": "quaint flaky",
+    "dishForm": "Quiche"
+  }
+}

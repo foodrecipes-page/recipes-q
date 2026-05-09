@@ -421,6 +421,23 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-british-salmon-quiche",
+    "title": "Quaint Flaky British Salmon Quiche",
+    "tags": [
+      "british",
+      "brunch",
+      "cocotte",
+      "individual",
+      "mini",
+      "quiche",
+      "seafood",
+      "tandoor"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-flaky-croatian-fish-dumplings",
     "title": "Quaint Flaky Croatian Fish Dumplings",
     "tags": [
