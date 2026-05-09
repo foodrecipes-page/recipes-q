@@ -1,0 +1,97 @@
+{
+  "title": "Quick Roasted Saudi Arabian Steak Kebabs",
+  "description": "A romantic Saudi Arabian dish featuring roasted fillet of steak, caramelized to perfection, suitable for a satvik friendly diet. This dish is quick, snappy, and full of flavor.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fillet steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the steak cubes to the bowl and toss to coat with the marinade.",
+    "Thread the steak cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the kebabs in the preheated oven for 12 minutes, or until the steak is cooked to your desired level of doneness.",
+    "Remove the kebabs from the oven and let them rest for 2 minutes.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "middle-eastern",
+    "quick-dinner",
+    "romantic-dinner",
+    "satvik-friendly",
+    "steak-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-roasted-saudi-arabian-steak-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-saudi-arabian-steak-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:59:16Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "fillet of steak",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "steak",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Kebabs"
+  }
+}
