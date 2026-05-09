@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Quenched Kenyan Fennel Salad",
+  "description": "A savory and aerated Kenyan dish featuring fennel bulb and bhuna, perfect for a light meal. This low-calorie-friendly salad is a great option for a healthy snack or lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-calorie",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the thinly sliced fennel bulb and bhuna spice mix.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the lemon juice mixture over the fennel mixture and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Sprinkle the chopped fresh cilantro over the top of the salad.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the crushed ice to aerate the salad.",
+    "Serve the salad immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy-snack",
+    "kenyan-cuisine",
+    "light-lunch",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "quietly-quenched-kenyan-fennel-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-kenyan-fennel-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:19:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "bhuna",
+    "primaryIngredient": "fennel bulb",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fennel",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Salad"
+  }
+}
