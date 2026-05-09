@@ -1,0 +1,100 @@
+{
+  "title": "Quenched Cheesy Indian Padron Peppers Skewers",
+  "description": "A sour and cheesy Indian dish featuring padron peppers and ferment-kimchi, perfect for a crowd-pleasing snack. This recipe is raw-friendly and served on a wooden board.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "paneer cheese",
+      "amount": "8 oz",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Thread a padron pepper, a piece of paneer cheese, and a small amount of ferment-kimchi onto each wooden skewer.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 2-3 minutes per side, or until the cheese is melted and the peppers are slightly charred.",
+    "While the skewers are grilling, mix the lemon juice, garam masala, salt, and pepper in a small bowl.",
+    "Once the skewers are done, brush them with the lemon juice mixture.",
+    "Sprinkle the chopped cilantro over the skewers.",
+    "Serve the skewers on a wooden board, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crowd-pleaser",
+    "easy-snacks",
+    "gluten-free",
+    "indian-food",
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quenched-cheesy-indian-padron-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-cheesy-indian-padron-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:49:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "padron peppers",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "quenched cheesy",
+    "dishForm": "Skewers"
+  }
+}
