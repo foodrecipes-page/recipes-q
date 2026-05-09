@@ -1,0 +1,97 @@
+{
+  "title": "Quickly Indulgent Jamaican Sweet Potato Casserole",
+  "description": "A malty, juicy, and indulgent Jamaican dish featuring dulce de leche, deglaze-fond, and ovo-vegetarian-friendly ingredients, perfect for a special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced and seeded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced sweet potatoes, brown sugar, allspice, and thyme, and toss to coat.",
+    "In a separate bowl, whisk together the dulce de leche, heavy cream, and eggs.",
+    "Add the melted butter, diced scotch bonnet peppers, and whisked dulce de leche mixture to the sweet potato mixture, and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the casserole is set and the top is golden brown.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Deglaze the baking dish with a little water to loosen the fond and serve the casserole hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casseroles",
+    "indulgent-desserts",
+    "jamaican-cuisine",
+    "ovo-vegetarian",
+    "special-occasion",
+    "sweet-potato-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quickly-indulgent-jamaican-sweet-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-indulgent-jamaican-sweet-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:58:31Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "dulce de leche",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Quickly indulgent",
+    "dishForm": "Casserole"
+  }
+}
