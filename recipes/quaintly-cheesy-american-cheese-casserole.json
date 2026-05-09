@@ -1,0 +1,98 @@
+{
+  "title": "Quaintly Cheesy American Cheese Casserole",
+  "description": "A sweet and savory American cheese casserole featuring red wine jelly and bhuna, cooked to perfection in a tagine pot, this dish is jain-friendly and perfect for a comforting dinner",
+  "cuisine": "American",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": "elbow or shell shape"
+    },
+    {
+      "name": "American cheese",
+      "amount": "12 slices"
+    },
+    {
+      "name": "red wine jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the macaroni according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the bhuna sauce to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked macaroni, bhuna sauce mixture, and chopped American cheese.",
+    "Stir in the red wine jelly and season with salt and black pepper.",
+    "Transfer the macaroni mixture to a tagine pot or a 9x13 inch baking dish.",
+    "Top the casserole with additional American cheese slices and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "comfort-food",
+    "jain-friendly",
+    "one-pot",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quaintly-cheesy-american-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaintly-cheesy-american-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:41:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "red wine jelly",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "Quaintly cheesy",
+    "dishForm": "Casserole"
+  }
+}
