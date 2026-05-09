@@ -1,0 +1,100 @@
+{
+  "title": "Quaint Flaky Ukrainian Gouda Cheese Dumplings",
+  "description": "A funky and flaky Ukrainian dish featuring Gouda cheese, perfect for a date night, and vegetarian friendly. This recipe uses a spherification technique to create a unique and delicious experience.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, egg, sour cream, salt, and pepper, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of Gouda cheese in the center of each disk.",
+    "Fold the dough over the cheese and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and carefully add the dumplings to the pot.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "While the dumplings are cooking, heat the vegetable oil in a large skillet over medium heat.",
+    "Remove the dumplings from the pot and add them to the skillet, frying until golden brown on both sides.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flaky-dumplings",
+    "gouda-cheese",
+    "spherification",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "quaint-flaky-ukrainian-gouda-cheese-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-flaky-ukrainian-gouda-cheese-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:51:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "spherify",
+    "primaryIngredient": "gouda cheese",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "gouda cheese",
+    "descriptor": "Quaint Flaky",
+    "dishForm": "Dumplings"
+  }
+}

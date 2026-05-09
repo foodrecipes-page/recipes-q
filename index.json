@@ -506,6 +506,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-flaky-ukrainian-gouda-cheese-dumplings",
+    "title": "Quaint Flaky Ukrainian Gouda Cheese Dumplings",
+    "tags": [
+      "date-night",
+      "flaky-dumplings",
+      "gouda-cheese",
+      "spherification",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-fluffy-brazilian-chorizo-casserole",
     "title": "Quaint Fluffy Brazilian Chorizo Casserole",
     "tags": [
@@ -12237,6 +12252,21 @@
       "vegan-friendly"
     ],
     "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-indulgent-greek-soya-baklava",
+    "title": "Quietly Indulgent Greek Soya Baklava",
+    "tags": [
+      "baklava",
+      "dairy-free",
+      "greek-dessert",
+      "indulgent",
+      "soya-milk",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
     "totalTimeMin": 50,
     "shard": "q"
   },

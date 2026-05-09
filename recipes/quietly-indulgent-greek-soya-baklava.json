@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Indulgent Greek Soya Baklava",
+  "description": "A dairy-free friendly Greek dessert featuring soya milk, with a grassy and fluffy texture, indulgent and sweet, in the form of a baklava.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "soya milk",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Layer the phyllo dough in a large baking dish, brushing each layer with olive oil.",
+    "Mix the chopped walnuts, cinnamon, nutmeg, and salt in a bowl.",
+    "Spread the walnut mixture over the phyllo dough, leaving a 1 inch border around the edges.",
+    "Cut the baklava into diamond shaped pieces.",
+    "Bake the baklava for 30 minutes, or until golden brown.",
+    "While the baklava is baking, mix the soya milk and honey in a saucepan.",
+    "Heat the soya milk mixture over medium heat, stirring constantly, until warm and well combined.",
+    "Remove the baklava from the oven and let it cool for 10 minutes.",
+    "Drizzle the warm soya milk mixture over the baklava and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "baklava",
+    "dairy-free",
+    "greek-dessert",
+    "indulgent",
+    "soya-milk",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quietly-indulgent-greek-soya-baklava",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-indulgent-greek-soya-baklava",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:51:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "soya milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "soya",
+    "descriptor": "Quietly Indulgent",
+    "dishForm": "Baklava"
+  }
+}
