@@ -2089,6 +2089,22 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-crispy-fried-malaysian-tofu-satay",
+    "title": "Quenched Crispy Fried Malaysian Tofu Satay",
+    "tags": [
+      "dinner-party",
+      "high-protein",
+      "malaysian-cuisine",
+      "one-pan",
+      "snack",
+      "vegan-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-crispy-polish-fromage-blanc-bowl",
     "title": "Quenched Crispy Polish Fromage-Blanc Bowl",
     "tags": [
@@ -5653,6 +5669,22 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-festive-brazilian-leek-skewers",
+    "title": "Quick Festive Brazilian Leek Skewers",
+    "tags": [
+      "brazilian",
+      "festive",
+      "gluten-free",
+      "leek",
+      "quick",
+      "skewers",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {

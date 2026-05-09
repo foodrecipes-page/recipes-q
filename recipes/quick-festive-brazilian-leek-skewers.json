@@ -1,0 +1,95 @@
+{
+  "title": "Quick Festive Brazilian Leek Skewers",
+  "description": "Fresh and pillowy Brazilian dish featuring leek, perfect for festive occasions, cooked to perfection in a fondue pot using a bain-marie method.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 large",
+      "notes": "cleaned and cut into 1 inch pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot using a bain-marie method to a temperature of 180 degrees Fahrenheit.",
+    "In a bowl, mix together leeks, butter, garlic, salt, and black pepper until the leeks are well coated.",
+    "Thread the leek mixture onto skewers, leaving a little space between each piece.",
+    "Place the skewers in the fondue pot and cook for 10 minutes or until the leeks are tender.",
+    "In a small bowl, whisk together coconut milk and lime juice.",
+    "Pour the coconut milk mixture over the cooked leeks and cook for an additional 2 minutes.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Repeat the cooking process for the remaining leek skewers.",
+    "Serve the leek skewers hot with additional coconut milk sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "festive",
+    "gluten-free",
+    "leek",
+    "quick",
+    "skewers",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "quick-festive-brazilian-leek-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-festive-brazilian-leek-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:41:17Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "leek",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "leek",
+    "descriptor": "quick festive",
+    "dishForm": "Skewers"
+  }
+}
