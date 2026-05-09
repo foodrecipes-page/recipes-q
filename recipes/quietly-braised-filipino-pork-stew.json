@@ -1,0 +1,93 @@
+{
+  "title": "Quietly Braised Filipino Pork Stew",
+  "description": "A pungent and chewy Filipino dish featuring sake-cooked pork, perfect for a date night, and a shojin-friendly option for those seeking a meat-based meal with a focus on simplicity and restraint, served in a traditional Korean brass bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sake in a large Korean brass bowl over medium heat until it starts to simmer.",
+    "Add the pork pieces to the bowl and cook until browned on all sides.",
+    "Add the soy sauce, brown sugar, garlic, ginger, star anise, and black pepper to the bowl and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Remove the bowl from the heat and let it rest, covered, for 30 minutes.",
+    "Serve the stew hot, garnished with sliced green onions and steamed rice on the side.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Serve the stew in the Korean brass bowl, garnished with additional sliced green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meat",
+    "date-night",
+    "filipino-cuisine",
+    "korean-brass-bowl",
+    "pork-recipes",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quietly-braised-filipino-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-braised-filipino-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:51:22Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "sake-cooking",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Quietly Braised",
+    "dishForm": "Stew"
+  }
+}
