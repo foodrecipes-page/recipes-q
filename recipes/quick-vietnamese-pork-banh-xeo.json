@@ -1,0 +1,57 @@
+{
+  "title": "Quick Vietnamese Pork Bánh Xèo",
+  "description": "A nutty, light Vietnamese dish featuring tamarind paste and a miso-marinated pork filling. Perfect for a midnight craving!",
+  "cuisine": "vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup of rice flour, 1/2 cup of coconut milk, 1/4 cup of water, and 1/4 teaspoon of salt in a bowl to create the batter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "lacto-vegetarian",
+    "midnight-craving",
+    "one-pan",
+    "quick",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-vietnamese-pork-banh-xeo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-vietnamese-pork-banh-xeo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:56:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "tamarind paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Pork",
+    "descriptor": "Sizzling Crispy",
+    "dishForm": "Sizzling Crispy Pancake"
+  }
+}
