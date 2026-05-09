@@ -1,0 +1,99 @@
+{
+  "title": "Quietly Pungent Polish Meat Dumplings",
+  "description": "Silky Polish dumplings filled with a pungent mix of meats and rose water, wrapped in lotus leaves for a nostalgic and low-sodium meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound",
+      "notes": "80/20 ratio"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "2 tablespoons",
+      "notes": "food grade"
+    },
+    {
+      "name": "Lotus Leaves",
+      "amount": "12 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, ground beef, rose water, chopped onion, and minced garlic.",
+    "Mix the ingredients together with your hands or a wooden spoon until just combined.",
+    "Season the mixture with low-sodium salt and freshly ground black pepper.",
+    "Lay a lotus leaf flat on a work surface and place about 1/4 cup of the meat mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a triangle or square shape, and press the edges together to seal the dumpling.",
+    "Repeat the process with the remaining lotus leaves and meat mixture.",
+    "Place the dumplings in a steamer basket, leaving some space between each dumpling.",
+    "Steam the dumplings over boiling water for 15 minutes, or until cooked through.",
+    "Serve the dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "lotus-leaves",
+    "low-sodium",
+    "meat-dumplings",
+    "polish-cuisine",
+    "rose-water",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quietly-pungent-polish-meat-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-pungent-polish-meat-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:59:47Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "rose water",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "meat",
+    "descriptor": "Quietly pungent",
+    "dishForm": "Dumplings"
+  }
+}
