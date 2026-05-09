@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Baked Japanese Pak Choi Quiche",
+  "description": "A light and bitter Japanese dish featuring pak choi in a lacto-vegetarian friendly quiche, perfect for brunch",
+  "cuisine": "Japanese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pak choi",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "monterey jack"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "Roll out the pie crust and place it in a tart pan",
+    "In a large bowl, whisk together the eggs, milk, grated cheese, soy sauce, sesame oil, and salt",
+    "Add the chopped pak choi to the bowl and stir to combine",
+    "Pour the egg mixture into the pie crust",
+    "Bake the quiche for 35 minutes or until the edges are golden brown",
+    "Remove the quiche from the oven and let it cool for 10 minutes",
+    "Slice the quiche into wedges and serve",
+    "Garnish with additional pak choi if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "japanese-inspired",
+    "lacto-vegetarian",
+    "pak-choi-recipes",
+    "quiche-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quietly-baked-japanese-pak-choi-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-baked-japanese-pak-choi-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:53:26Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "en-croute",
+    "primaryIngredient": "pak choi",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pak choi",
+    "descriptor": "quietly baked",
+    "dishForm": "Quiche"
+  }
+}
