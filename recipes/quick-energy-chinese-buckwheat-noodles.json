@@ -1,0 +1,114 @@
+{
+  "title": "Quick Energy Chinese Buckwheat Noodles",
+  "description": "This lacto-vegetarian dish is a quick, energy-boosting option perfect for a busy weeknight dinner. Buckwheat noodles provide a rich source of fiber and protein to keep you going all day.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pressure-cooker",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine buckwheat flour, all-purpose flour, and salt.",
+    "Gradually add warm water to the bowl, stirring with a wooden spoon until the dough comes together.",
+    "Knead the dough for 5 minutes until it's smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll out each piece into a thin sheet.",
+    "Cut the sheets into thin noodles using a pasta cutter or a sharp knife.",
+    "In a pressure cooker, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the chopped scallions and grated ginger to the pot and stir-fry until fragrant.",
+    "Add the soy sauce, rice vinegar, sesame oil, and sugar to the pot and stir-fry for 1 minute.",
+    "Add the buckwheat noodles to the pot and stir-fry for 2-3 minutes until they're well coated with the sauce.",
+    "Cook the noodles in the pressure cooker for 3-4 minutes until they're al dente.",
+    "Serve the noodles hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "energy-boosting",
+    "high-fiber",
+    "lacto-vegan-friendly",
+    "one-pan",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "quick-energy-chinese-buckwheat-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-energy-chinese-buckwheat-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T21:28:08Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "pressure-cook",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Quick Energy",
+    "dishForm": "Noodles"
+  }
+}
