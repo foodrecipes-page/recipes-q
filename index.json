@@ -7775,6 +7775,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-italian-green-beans-stracciatella",
+    "title": "Quick Italian Green Beans Stracciatella",
+    "tags": [
+      "italian",
+      "low-fat",
+      "one-pot",
+      "quick",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-italian-pasta-pesto",
     "title": "Quick Italian Pasta Pesto with Thai Chili Jam and Dashi",
     "tags": [
