@@ -1,0 +1,98 @@
+{
+  "title": "Quick Quenched Dutch Portobello Casserole",
+  "description": "This earthy casserole features portobello mushrooms, vegan-friendly render-fat, and molten parmigiano-reggiano, perfect for a date-night dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 cups sliced",
+      "notes": "stem removed"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1/4 cup",
+      "notes": "vegan-friendly"
+    },
+    {
+      "name": "parmigiano-reggiano",
+      "amount": "1 cup shredded",
+      "notes": "dairy or vegan alternative"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the render-fat over medium heat.",
+    "Add the sliced onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced portobello mushrooms and cook until they release their moisture and start to brown.",
+    "Stir in the dried thyme, salt, and black pepper.",
+    "In a separate bowl, mix the shredded parmigiano-reggiano and whole wheat breadcrumbs.",
+    "In a 9x13 inch baking dish, create a layer of the mushroom mixture, followed by a layer of the breadcrumb mixture, and repeat until all ingredients are used, finishing with a layer of breadcrumbs on top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "dutch-cuisine",
+    "mushroom-based",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-quenched-dutch-portobello-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-dutch-portobello-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:18:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Quick Quenched",
+    "dishForm": "Casserole"
+  }
+}
