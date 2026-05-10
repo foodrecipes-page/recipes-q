@@ -1,0 +1,97 @@
+{
+  "title": "Quaint Citrusy Slovakian Pork Toast",
+  "description": "A citrusy Slovakian dish featuring pork, white flour, and toast, perfect for a date night, and is onion and garlic free. This recipe is a unique blend of flavors and textures.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "white flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, salt, and black pepper.",
+    "Dip each slice of pork into the flour mixture, coating both sides evenly.",
+    "Dip the floured pork slices into the beaten eggs, making sure they are fully coated.",
+    "Heat the butter in a large skillet over medium heat and cook the pork slices until browned on both sides.",
+    "Transfer the pork slices to a baking sheet and bake in the oven for 10 minutes.",
+    "Toast the white bread slices until lightly browned.",
+    "Spread a layer of lemon juice and orange zest on each toast slice.",
+    "Top each toast slice with a slice of pork and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-flavors",
+    "comfort-food",
+    "date-night",
+    "easy-dinner",
+    "pork-recipes",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quaint-citrusy-slovakian-pork-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-citrusy-slovakian-pork-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:44:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "white flour",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "quaint citrusy",
+    "dishForm": "Toast"
+  }
+}
