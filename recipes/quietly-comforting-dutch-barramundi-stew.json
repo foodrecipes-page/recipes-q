@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Comforting Dutch Barramundi Stew",
+  "description": "A light and comforting Dutch stew featuring garlicky barramundi, perfect for a quiet evening at home.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the garlic and onion and cook until the onion is translucent.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the barramundi fillets and cook for 2 minutes on each side.",
+    "Add the chicken broth and white wine and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fish-based",
+    "healthy",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quietly-comforting-dutch-barramundi-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-comforting-dutch-barramundi-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:34:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "barramundi",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "barramundi",
+    "descriptor": "quietly comforting",
+    "dishForm": "Stew"
+  }
+}
