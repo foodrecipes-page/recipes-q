@@ -7746,6 +7746,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-grassy-spanish-beef-burger",
+    "title": "Quick Grassy Spanish Beef Burger",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "lunch-ideas",
+      "one-pot",
+      "quick-meal",
+      "spanish-cuisine"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-greek-chicken-salad",
     "title": "Quick Greek Chicken Salad",
     "tags": [
