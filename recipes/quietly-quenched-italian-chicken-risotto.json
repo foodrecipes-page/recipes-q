@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Quenched Italian Chicken Risotto",
+  "description": "A spicy and romantic Italian dish featuring chicken, heavy cream, and yuzu cure, served in a ramekin.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Season the chicken breast with salt and pepper.",
+    "Sear the chicken breast in a skillet until browned on both sides.",
+    "Transfer the chicken to a baking sheet and bake for 20 minutes.",
+    "In the same skillet, add the arborio rice and cook until lightly toasted.",
+    "Add the heavy cream, yuzu juice, and yuzu zest to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and cook until the liquid is mostly absorbed.",
+    "Stir in the parmesan cheese, thyme, and red pepper flakes.",
+    "Spoon the risotto into ramekins and top with sliced chicken breast.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "creamy-risotto",
+    "italian-cuisine",
+    "low-calorie",
+    "one-pan",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-quenched-italian-chicken-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-italian-chicken-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:04:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "heavy cream",
+    "diet": "low-calorie",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Risotto"
+  }
+}
