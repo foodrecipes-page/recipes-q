@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Yeasty Filipino Reblochon Kare Kare",
+  "description": "A yeasty and creamy Filipino dish featuring reblochon, perfect for a sick day, with anti-inflammatory properties and a unique kare-kare form.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "annatto seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the annatto seeds and cook until fragrant.",
+    "Add the lemongrass and cook until softened.",
+    "Add the yeast extract and cook for 1 minute.",
+    "Add the peanut butter and fish sauce, stirring until smooth.",
+    "Add the reblochon cheese and stir until melted.",
+    "Add the eggplant and bok choy, cooking until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "filipino-cuisine",
+    "one-pot",
+    "vegetarian-option",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quietly-yeasty-filipino-reblochon-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-yeasty-filipino-reblochon-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:28:34Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "brine-dry",
+    "primaryIngredient": "reblochon",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Quietly Yeasty",
+    "dishForm": "Kare Kare"
+  }
+}

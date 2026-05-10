@@ -1,0 +1,98 @@
+{
+  "title": "Quick Smoky Canadian Chicken Legs Skewers",
+  "description": "A quick and flavorful Canadian dish featuring chicken legs, smoke, and dairy-free friendly ingredients, perfect for a weeknight dinner. This recipe is easy to make and packed with smoky flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wood chips",
+      "amount": "1 cup",
+      "notes": "for smoking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together smoked paprika, olive oil, garlic powder, onion powder, salt, and black pepper.",
+    "Add the chicken legs to the bowl and toss to coat evenly with the smoky mixture.",
+    "Thread the chicken legs onto skewers, leaving a small space between each leg.",
+    "Place the skewers on the grill and cook for 20-25 minutes, or until the chicken reaches an internal temperature of 165 degrees Fahrenheit.",
+    "While the chicken is cooking, prepare the wood chips for smoking by soaking them in water for 30 minutes.",
+    "After 15 minutes of cooking, add the wood chips to the grill and close the lid to allow the chicken to absorb the smoky flavor.",
+    "Once the chicken is cooked, remove the skewers from the grill and brush with lemon juice.",
+    "Serve the smoky chicken legs hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "quick-dinner",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-smoky-canadian-chicken-legs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-canadian-chicken-legs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:27:45Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "smoke",
+    "primaryIngredient": "chicken legs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Skewers"
+  }
+}

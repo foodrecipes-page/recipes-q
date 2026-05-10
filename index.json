@@ -10345,6 +10345,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-smoky-canadian-chicken-legs-skewers",
+    "title": "Quick Smoky Canadian Chicken Legs Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "grilled-chicken",
+      "quick-dinner",
+      "smoky-flavor"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-smoky-chinese-tofu-quesadilla",
     "title": "Quick Smoky Chinese Tofu Quesadilla",
     "tags": [
@@ -14756,6 +14771,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-filipino-reblochon-kare-kare",
+    "title": "Quietly Yeasty Filipino Reblochon Kare Kare",
+    "tags": [
+      "comfort-food",
+      "filipino-cuisine",
+      "one-pot",
+      "vegetarian-option",
+      "yeasty"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
