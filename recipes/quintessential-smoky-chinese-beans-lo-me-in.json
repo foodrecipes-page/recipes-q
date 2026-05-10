@@ -1,0 +1,108 @@
+{
+  "title": "Quintessential Smoky Chinese Beans Lo MeIN",
+  "description": "A smoky, molten, hangover-cure Chinese dish featuring baked beans and ferment, this low-fat-friendly lo-mein is a perfect comfort food for any time of day. It combines the flavors of Dongbei cuisine with the convenience of a one-pan meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo-mein noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "baked beans",
+      "amount": "1 can",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "doubanjiang",
+      "amount": "2 tbsp",
+      "notes": "Chinese fermented bean paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the lo-mein noodles according to the package instructions and set aside.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the smoked paprika, salt, and black pepper, and stir for 1 minute.",
+    "Add the doubanjiang and stir for another minute, until fragrant.",
+    "Add the baked beans, soy sauce, and rice vinegar, and stir to combine.",
+    "Add the cooked lo-mein noodles to the skillet or wok, and stir to combine with the bean mixture.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Stir in the chopped scallions and sesame seeds.",
+    "Serve hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "smoky-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quintessential-smoky-chinese-beans-lo-me-in",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-smoky-chinese-beans-lo-me-in",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:13:10Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "baked beans",
+    "diet": "low-fat",
+    "region": "dongbei",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beans",
+    "descriptor": "Quintessential Smoky",
+    "dishForm": "Lo MeIN"
+  }
+}
