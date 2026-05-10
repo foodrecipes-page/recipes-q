@@ -7083,6 +7083,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-flaky-spanish-bread-pa-amb-tomaquet",
+    "title": "Quick Flaky Spanish Bread Pa Amb Tomaquet",
+    "tags": [
+      "air-fryer",
+      "one-pot",
+      "quick-bread",
+      "raw-friendly",
+      "spanish-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-flaky-turkish-chuck-roast-pilaf",
     "title": "Quick Flaky Turkish Chuck Roast Pilaf",
     "tags": [
@@ -11146,6 +11161,20 @@
     ],
     "cuisine": "peruvian",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-air-fried-mediterranean-eggplant-skewers",
+    "title": "Quickly Air Fried Mediterranean Eggplant Skewers",
+    "tags": [
+      "air-fryer",
+      "lacto-vegetarian",
+      "mediterranean",
+      "midnight-craving",
+      "quick-snack"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {

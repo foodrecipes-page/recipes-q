@@ -1,0 +1,103 @@
+{
+  "title": "Quickly Air Fried Mediterranean Eggplant Skewers",
+  "description": "A lacto-vegetarian-friendly Mediterranean dish featuring fermented horseradish and air-fried eggplant, perfect for a midnight craving.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "horseradish",
+      "amount": "1/4 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Thread the eggplant cubes onto skewers, leaving a small space between each cube.",
+    "In a bowl, mix together the horseradish, feta cheese, kalamata olives, artichoke hearts, lemon juice, olive oil, garlic, salt, and pepper.",
+    "Brush the mixture onto the eggplant cubes.",
+    "Place the skewers in the air fryer basket and cook for 10 minutes, shaking halfway through.",
+    "Check the eggplant for tenderness and cook for an additional 2 minutes if necessary.",
+    "Remove the skewers from the air fryer and serve hot.",
+    "Garnish with additional feta cheese and olives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "lacto-vegetarian",
+    "mediterranean",
+    "midnight-craving",
+    "quick-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quickly-air-fried-mediterranean-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-air-fried-mediterranean-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:07:09Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "horseradish",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggplant",
+    "descriptor": "Quickly air fried",
+    "dishForm": "Skewers"
+  }
+}
