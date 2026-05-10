@@ -391,6 +391,22 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-dense-japanese-rice-onigiri",
+    "title": "Quaint Dense Japanese Rice Onigiri",
+    "tags": [
+      "gluten-free",
+      "japanese-food",
+      "kyushu",
+      "low-carb",
+      "mason-jar",
+      "onigiri",
+      "snack"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-egyptian-falafel-pilaf",
     "title": "Quaint Egyptian Falafel Pilaf",
     "tags": [

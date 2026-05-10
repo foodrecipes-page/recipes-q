@@ -1,0 +1,95 @@
+{
+  "title": "Quaint Dense Japanese Rice Onigiri",
+  "description": "A low-carb friendly, dense Japanese dish from Kyushu, featuring red pepper flakes and candy, formed into onigiri and stored in a mason jar.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "preferably small, hard candies like M&M's or Skittles"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "norii seaweed sheets",
+      "amount": "4 sheets",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and cook it according to the package instructions with 2 1/4 cups of water.",
+    "In a small saucepan, combine the rice vinegar, sesame oil, salt, and red pepper flakes, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer the vinegar mixture for 5 minutes, then let it cool to room temperature.",
+    "Once the rice is cooked, allow it to cool to room temperature, then mix in the cooled vinegar mixture and the crushed candy.",
+    "Wet your hands with water and shape the rice mixture into small triangular onigiri shapes.",
+    "If using norii seaweed sheets, wrap each onigiri with a sheet.",
+    "Place the onigiri in a mason jar and store it in the refrigerator for up to 3 days.",
+    "Serve the onigiri chilled, garnished with additional red pepper flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese-food",
+    "kyushu",
+    "low-carb",
+    "mason-jar",
+    "onigiri",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "quaint-dense-japanese-rice-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-dense-japanese-rice-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:25:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "low-carb",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Quaint Dense",
+    "dishForm": "Onigiri"
+  }
+}
