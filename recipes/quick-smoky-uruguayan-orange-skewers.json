@@ -1,0 +1,93 @@
+{
+  "title": "Quick Smoky Uruguayan Orange Skewers",
+  "description": "A floral and shattering Uruguayan dish featuring orange, made vegan-friendly and perfect for meal prep. This recipe uses binchotan-charcoal for a smoky flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oranges",
+      "amount": "4",
+      "notes": "peeled and segmented"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-charcoal grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, olive oil, smoked paprika, garlic powder, salt, and black pepper.",
+    "Add the orange segments to the bowl and toss to coat with the marinade.",
+    "Thread the orange segments onto skewers, leaving a small space between each segment.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until slightly charred.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Let the skewers cool completely before refrigerating or freezing for meal prep.",
+    "Reheat the skewers in the microwave or oven before serving.",
+    "Serve the skewers as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "meal-prep",
+    "smoky",
+    "uruguayan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "quick-smoky-uruguayan-orange-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoky-uruguayan-orange-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:12:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "orange",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "orange",
+    "descriptor": "Quick Smoky",
+    "dishForm": "Skewers"
+  }
+}
