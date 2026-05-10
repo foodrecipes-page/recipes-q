@@ -1,0 +1,94 @@
+{
+  "title": "Quick Comforting Irish Potato Gratin",
+  "description": "A peppery, crisp, and comforting Irish dish featuring heavy cream and broiled to perfection, this gratin is a raw-friendly delight.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and heavy cream, tossing to coat.",
+    "In a separate bowl, mix together the grated cheddar cheese, salt, black pepper, and garlic powder.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Sprinkle a third of the cheese mixture over the potatoes.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Dot the top of the cheese with the butter.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and broil for an additional 5 minutes, or until the top is golden brown.",
+    "Remove from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "potato-dish",
+    "quick-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "quick-comforting-irish-potato-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-comforting-irish-potato-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:42:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "heavy cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Quick comforting",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "title": "Quietly Rich Venezuelan Plantain Casserole",
+  "description": "A fatty and creamy weeknight Venezuelan dish featuring a fruit mix, cure, and Buddhist-temple-friendly ingredients, served in a bamboo tray.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "4 large",
+      "notes": "ripe"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Peel the plantains and slice them into 1-inch rounds.",
+    "In a large skillet, melt the butter over medium heat and cook the plantains until they are golden brown.",
+    "In a large bowl, whisk together the brown sugar, eggs, heavy cream, cinnamon, vanilla extract, and salt.",
+    "Add the cooked plantains to the bowl and stir until they are well coated with the sugar mixture.",
+    "Transfer the plantain mixture to a bamboo tray and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "latin-american",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quietly-rich-venezuelan-plantain-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-rich-venezuelan-plantain-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:42:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "cure",
+    "primaryIngredient": "fruit mix",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "Quietly Rich",
+    "dishForm": "Casseroles"
+  }
+}

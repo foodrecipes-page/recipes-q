@@ -4957,6 +4957,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-comforting-irish-potato-gratin",
+    "title": "Quick Comforting Irish Potato Gratin",
+    "tags": [
+      "comfort-food",
+      "irish-cuisine",
+      "potato-dish",
+      "quick-meal",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
     "slug": "quick-cooked-malaysian-chinese-long-beans-noodles",
     "title": "Quick Cooked Malaysian Chinese Long Beans Noodles",
     "tags": [
@@ -13534,6 +13548,20 @@
       "vegetarian-option"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-rich-venezuelan-plantain-casserole",
+    "title": "Quietly Rich Venezuelan Plantain Casserole",
+    "tags": [
+      "comfort-food",
+      "latin-american",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 45,
     "shard": "q"
   },
