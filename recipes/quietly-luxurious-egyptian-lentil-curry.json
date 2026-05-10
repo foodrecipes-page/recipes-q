@@ -1,0 +1,107 @@
+{
+  "title": "Quietly luxurious Egyptian lentil Curry",
+  "description": "A funky and creamy Egyptian dish featuring Chinese sesame sauce and tadka, made with ayurvedic-tamasic-friendly ingredients, perfect for a festive meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Chinese sesame sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion, garlic, and ginger, and cook until the onion is translucent.",
+    "Add coriander powder, turmeric powder, salt, and black pepper, and cook for 1 minute.",
+    "Add red lentils, Chinese sesame sauce, and 2 cups of water, and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and simmer for 20 minutes or until the lentils are tender.",
+    "Mash some of the lentils to create a thick and creamy texture.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quietly-luxurious-egyptian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-luxurious-egyptian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:34:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "tadka",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Quietly luxurious",
+    "dishForm": "Curry"
+  }
+}
