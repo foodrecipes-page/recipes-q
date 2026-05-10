@@ -1,0 +1,105 @@
+{
+  "title": "Quintessential Irish Pappardelle Pasta",
+  "description": "A spicy, cheesy, and satisfying Irish dish featuring pappardelle pasta, perfect for a hangover cure, and can be made gluten-free friendly by substituting the pasta.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "irish sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, cook the sliced irish sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3 minutes.",
+    "Add the red pepper flakes to the skillet and cook for 1 minute.",
+    "Add the chicken broth and heavy cream to the skillet and stir to combine.",
+    "Reduce the heat to low and simmer the sauce for 5 minutes.",
+    "Stir in the shredded irish cheddar cheese until melted and smooth.",
+    "Add the cooked pappardelle pasta to the skillet and toss to combine with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "gluten-free-friendly",
+    "irish-cuisine",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "quintessential-irish-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-irish-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:14:02Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "fold",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "Quintessential",
+    "dishForm": "Pasta"
+  }
+}
