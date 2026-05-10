@@ -1,0 +1,103 @@
+{
+  "title": "Quintessentially Gooey Dutch Semolina Casserole",
+  "description": "A traditional Dutch dish featuring semolina, rest-meat, and a bitter, gooey sauce, this casserole is a nostalgic treat that is also gluten-free friendly. It is perfect for a cold winter night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "such as roast beef or beef shank"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "endive",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, bring the beef broth to a boil.",
+    "Slowly whisk in the semolina and reduce heat to medium, cooking until the mixture thickens.",
+    "In a large skillet, melt the butter over medium heat and saute the onion and endive until tender.",
+    "In a large bowl, combine the cooked semolina, sauteed onion and endive, rest-meat, gruyere cheese, egg, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quintessentially-gooey-dutch-semolina-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-gooey-dutch-semolina-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:41:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "semolina",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "semolina",
+    "descriptor": "Quintessentially gooey",
+    "dishForm": "Casserole"
+  }
+}
