@@ -1,0 +1,94 @@
+{
+  "title": "Quietly Yeasty Algerian Turnip Tagine",
+  "description": "A yeasty and velvety Algerian dish featuring turnips and nuka-pickle, perfect for a family dinner. This kid-friendly recipe is also Buddhist-temple-friendly and can be served from a lazy-susan-spinner vessel.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cubed turnips, chopped nuka-pickle, cumin, and paprika, and stir to combine.",
+    "In a small bowl, proof the yeast by mixing it with 1 tablespoon of warm water.",
+    "Add the yeast mixture to the Dutch oven and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste, then serve hot from a lazy-susan-spinner vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "family-friendly",
+    "lazy-susan",
+    "one-pot",
+    "vegetarian",
+    "velvety",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "quietly-yeasty-algerian-turnip-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-yeasty-algerian-turnip-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:36:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "turnips",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "turnips",
+    "descriptor": "quietly yeasty",
+    "dishForm": "Tagine"
+  }
+}
