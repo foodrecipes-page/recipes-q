@@ -1,0 +1,97 @@
+{
+  "title": "Quick Seared Portuguese Beef Skillet",
+  "description": "A citrusy and aerated weeknight Portuguese dish featuring beef, flambe, and low calorie friendly ingredients, perfect for a quick dinner",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the beef strips and cook for 3 minutes per side, or until browned",
+    "Remove the beef from the skillet and set aside",
+    "Add the garlic to the skillet and cook for 1 minute, or until fragrant",
+    "Add the paprika, salt, and black pepper to the skillet and cook for 1 minute",
+    "Add the white wine to the skillet and bring to a boil, scraping up any browned bits",
+    "Add the lemon juice to the skillet and stir to combine",
+    "Return the beef to the skillet and cook for an additional 2 minutes, or until cooked to desired level of doneness",
+    "Stir in the chopped parsley and serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-seared-portuguese-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-seared-portuguese-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:23:13Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "flambe",
+    "primaryIngredient": "beef",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef",
+    "descriptor": "Quick seared",
+    "dishForm": "Skillet"
+  }
+}
