@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Quenched Canadian Tofu Noodles",
+  "description": "A post-workout Canadian dish featuring palm sugar, nam tan pip, and soffritto base, made with plant-based friendly ingredients to provide a boost of umami flavor and bouncy qq texture. This dish is perfect for a quick and satisfying dinner after a long day.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the soffritto base to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the cubed tofu to the skillet and cook for 3 minutes, stirring occasionally.",
+    "In a small bowl, whisk together the palm sugar, nam tan pip, and vegetable broth.",
+    "Pour the sugar and broth mixture over the tofu and soffritto base in the skillet.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Cook for an additional 2 minutes, stirring constantly, until the noodles are well coated.",
+    "Transfer the noodles to a serving dish and garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quietly-quenched-canadian-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-quenched-canadian-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:29:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "soffritto-base",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Quietly Quenched",
+    "dishForm": "Noodles"
+  }
+}
