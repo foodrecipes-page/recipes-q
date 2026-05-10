@@ -1,0 +1,107 @@
+{
+  "title": "Quenched Polish Fry Pancakes",
+  "description": "A twist on traditional pancakes, featuring crispy fry bits, tangy cider vinegar, and a hint of Polish spirit.",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "420g",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon active dry yeast",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": "240ml",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup diced polish fry",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons cider vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, yeast, and salt.",
+    "Warm the milk to 105°F and mix in the egg.",
+    "Combine the wet ingredients with the dry ingredients and mix into a smooth batter.",
+    "Knead the dough for 10 minutes until it is elastic and smooth.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle to 375°F.",
+    "Divide the dough into 8-10 equal pieces and roll each one into a ball.",
+    "Flatten each ball into a pancake shape and place in the skillet.",
+    "Cook the pancakes for 2-3 minutes on each side, until golden brown.",
+    "While the pancakes are cooking, heat the vegetable oil and fry in a pan until crispy.",
+    "Drain the fry and sprinkle over the pancakes.",
+    "Drizzle the cider vinegar over the pancakes and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "crispy-fry",
+    "pancakes",
+    "polish-cuisine",
+    "weeknight",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "quenched-polish-fry-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-polish-fry-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:24:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "cider vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Fry",
+    "descriptor": "Quenched",
+    "dishForm": "Pancakes"
+  }
+}

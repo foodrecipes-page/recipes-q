@@ -3414,6 +3414,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-polish-fry-pancakes",
+    "title": "Quenched Polish Fry Pancakes",
+    "tags": [
+      "breakfast",
+      "crispy-fry",
+      "pancakes",
+      "polish-cuisine",
+      "weeknight",
+      "yeast-bread"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-polish-sauerkraut-pierogi",
     "title": "Quenched Polish Sauerkraut Pierogi",
     "tags": [
