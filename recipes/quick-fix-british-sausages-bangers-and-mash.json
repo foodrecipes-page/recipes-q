@@ -1,0 +1,97 @@
+{
+  "title": "Quick Fix British Sausages Bangers And Mash",
+  "description": "A hearty, quick-fix British dish featuring sausages and mash, with a macrobiotic twist using vermicelli rice noodles and clay-pot cooking, and a hint of mustard flavor.",
+  "cuisine": "British",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British sausages",
+      "amount": "4",
+      "notes": "preferably made with pork and seasoned with salt, pepper, and herbs"
+    },
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "1 cup",
+      "notes": "macrobiotic-friendly and shaggy in texture"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups",
+      "notes": "made with 2-3 large potatoes, boiled and mashed with butter and milk"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "preferably whole-grain mustard for a coarser texture"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped and sauteed until translucent"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced and sauteed with the onion"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "for cooking the sausages and noodles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for sauteing the onion and garlic"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay pot over medium heat.",
+    "Add the chopped onion and saute until translucent.",
+    "Add the minced garlic and saute for another minute.",
+    "Add the British sausages and cook until browned on all sides.",
+    "Add the vermicelli rice noodles and cook according to package instructions.",
+    "Meanwhile, prepare the mashed potatoes by boiling 2-3 large potatoes until tender, then mashing with butter and milk.",
+    "Stir in the whole-grain mustard into the mashed potatoes.",
+    "Serve the sausages and noodles on top of the mashed potatoes, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "macrobiotic",
+    "one-pot",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "quick-fix-british-sausages-bangers-and-mash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-british-sausages-bangers-and-mash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:19:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "macrobiotic",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "sausages",
+    "descriptor": "Quick Fix",
+    "dishForm": "Bangers And Mash"
+  }
+}

@@ -6216,6 +6216,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-british-sausages-bangers-and-mash",
+    "title": "Quick Fix British Sausages Bangers And Mash",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "macrobiotic",
+      "one-pot",
+      "quick-fix"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-british-snapper-pie",
     "title": "Quick Fix British Snapper Pie",
     "tags": [
