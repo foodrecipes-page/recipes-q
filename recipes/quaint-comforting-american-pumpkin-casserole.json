@@ -1,0 +1,104 @@
+{
+  "title": "Quaint Comforting American Pumpkin Casserole",
+  "description": "A sour, flaky, comforting American dish featuring ginger and miso-marinate, made with ayurvedic-sattvic-friendly ingredients. This casserole is perfect for a cold winter evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup",
+      "notes": "canned or fresh, cooked and mashed"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the miso paste, ginger, and olive oil.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "In a separate bowl, whisk together the flour, buttermilk, salt, and black pepper.",
+    "Add the pumpkin puree to the flour mixture and mix until smooth.",
+    "Add the pumpkin mixture to the miso mixture and mix until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35 minutes or until the casserole is set and the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipe",
+    "comfort-food",
+    "gluten-free",
+    "one-dish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quaint-comforting-american-pumpkin-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-comforting-american-pumpkin-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:54:05Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "ginger",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pumpkin",
+    "descriptor": "quaint comforting",
+    "dishForm": "Casserole"
+  }
+}
