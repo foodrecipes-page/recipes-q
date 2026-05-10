@@ -1,0 +1,91 @@
+{
+  "title": "Quick Crunchy Norwegian Fish Skewers",
+  "description": "A kid-friendly Norwegian dish featuring fish, Dutch stroop, and beurre-monte, perfect for a quick and easy dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Thread the cod pieces onto skewers",
+    "In a small bowl, mix together the Dutch stroop, beurre-monte, lemon juice, olive oil, salt, and black pepper",
+    "Brush the mixture onto the cod pieces",
+    "Roll the cod pieces in the panko breadcrumbs to coat",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Bake for 12 minutes or until the fish is cooked through",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-recipes",
+    "kid-friendly",
+    "low-glycemic",
+    "norwegian-cuisine",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-crunchy-norwegian-fish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crunchy-norwegian-fish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:27:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Quick Crunchy",
+    "dishForm": "Skewers"
+  }
+}
