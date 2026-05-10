@@ -1,0 +1,102 @@
+{
+  "title": "Quick Crisp Russian Rice Pilaf",
+  "description": "A buttery and crisp Russian dish featuring wholegrain bread and vegan-friendly ingredients, cooked to perfection in an agave leaf vessel.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "wholegrain bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "2 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the vegan butter over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the grated carrot and sliced mushroom, cooking until the vegetables are tender.",
+    "Add the cubed wholegrain bread to the skillet, stirring to combine with the vegetables.",
+    "In a large bowl, combine the cooked bread mixture, brown rice, salt, and black pepper, stirring to combine.",
+    "Spoon the rice mixture onto the center of the agave leaves.",
+    "Fold the agave leaves over the rice mixture to form a tight package.",
+    "Place the packages in the oven and bake for 20 minutes, or until the rice is crispy and golden brown.",
+    "Remove the packages from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "lunch-ideas",
+    "one-pan",
+    "russian-cuisine",
+    "vegan-friendly",
+    "whole-grain"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-crisp-russian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-russian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:46:42Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Pilaf"
+  }
+}
