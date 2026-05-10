@@ -1,0 +1,92 @@
+{
+  "title": "Quick Roasted Syrian Reblochon Gratin",
+  "description": "A roasted Syrian dish featuring reblochon cheese, served in a scallop shell, perfect for a solo dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Beurre monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a small bowl, mix together beurre monte, olive oil, garlic, thyme, salt, and black pepper.",
+    "Arrange the scallop shells on a baking sheet lined with parchment paper.",
+    "Place a slice of reblochon cheese in each scallop shell.",
+    "Drizzle the beurre monte mixture over the cheese in each shell.",
+    "Roast in the preheated oven for 10 minutes or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a minute or two before serving.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "one-pan",
+    "quick-dinner",
+    "roasted",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "quick-roasted-syrian-reblochon-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-syrian-reblochon-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:39:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "beurre-monte",
+    "primaryIngredient": "reblochon",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Reblochon",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Gratin"
+  }
+}
