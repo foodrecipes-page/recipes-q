@@ -1,0 +1,88 @@
+{
+  "title": "Quick-Fix Baked Irish Sausage Bake",
+  "description": "A yeasty, pillowy, quick-fix Irish dish featuring ssamjang, perfect for a weeknight meal in a bento box.",
+  "cuisine": "irish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausages",
+      "amount": "6"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, egg, and milk. Mix well.",
+    "Add shredded cheddar cheese and mix until combined.",
+    "Cut the Irish sausages in half lengthwise.",
+    "Place the sausages in a greased 9x13-inch baking dish.",
+    "Pour the flour mixture over the sausages.",
+    "Drizzle the ssamjang over the top. ",
+    "Dot the top with butter.",
+    "Bake for 25 minutes, then broil for 5 minutes or until golden brown.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "quick-fix-baked-irish-sausage-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-baked-irish-sausage-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T05:15:05Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "ssamjang",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Sausage",
+    "descriptor": "Quick-Fix Baked",
+    "dishForm": "Bake"
+  }
+}
