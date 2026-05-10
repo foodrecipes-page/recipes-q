@@ -1,0 +1,98 @@
+{
+  "title": "Quietly Umami Korean Cheonggukjang Mille Feuille",
+  "description": "A keto-friendly, umami-rich French dish featuring cheonggukjang, perfect for a lazy Sunday, with a crumbly texture and poached flavors. This mille-feuille is a unique twist on traditional French pastry.",
+  "cuisine": "Korean-French",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cheonggukjang",
+      "amount": "1 cup",
+      "notes": "Korean fermented soybean paste"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "poached"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Spread the cheonggukjang evenly over the center of the pastry, leaving a 1-inch border on either side.",
+    "Brush the edges of the pastry with the melted butter.",
+    "Fold the pastry over the filling, pressing gently to seal.",
+    "Place the mille-feuille on a baking sheet lined with parchment paper.",
+    "Bake the pastry for 25 minutes, or until golden brown.",
+    "While the pastry is baking, poach the eggs in simmering water.",
+    "To assemble the dish, place a piece of the baked pastry on a plate, top with a poached egg, and sprinkle with parmesan cheese and parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-pastry",
+    "keto-friendly",
+    "korean-fusion",
+    "lazy-sunday",
+    "low-carb",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 34
+  },
+  "slug": "quietly-umami-korean-cheonggukjang-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-umami-korean-cheonggukjang-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:50:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "poach",
+    "primaryIngredient": "cheonggukjang",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cheonggukjang",
+    "descriptor": "Quietly Umami",
+    "dishForm": "Mille Feuille"
+  }
+}
