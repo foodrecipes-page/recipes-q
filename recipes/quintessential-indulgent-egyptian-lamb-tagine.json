@@ -1,0 +1,109 @@
+{
+  "title": "Quintessential Indulgent Egyptian Lamb Tagine",
+  "description": "A rich and flavorful Egyptian dish made with lamb, ginger garlic paste, and spices, cooked in a copper pot and served with a side of anti-inflammatory friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cumin, coriander, and cayenne pepper.",
+    "Heat the olive oil in a copper pot over medium heat and sear the lamb pieces until browned on all sides.",
+    "Add the chopped onion to the copper pot and cook until softened.",
+    "Add the ginger garlic paste to the copper pot and cook for 1 minute.",
+    "Add the chopped dried apricots and prunes to the copper pot and stir to combine.",
+    "Cover the copper pot and transfer it to the preheated tandoor or oven.",
+    "Cook the tagine for 2 1/2 hours or until the lamb is tender and the sauce has thickened.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 37
+  },
+  "slug": "quintessential-indulgent-egyptian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-indulgent-egyptian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:07:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quintessential Indulgent",
+    "dishForm": "Tagine"
+  }
+}
