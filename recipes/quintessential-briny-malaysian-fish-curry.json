@@ -1,0 +1,103 @@
+{
+  "title": "Quintessential Briny Malaysian Fish Curry",
+  "description": "A briny and romantic Malaysian dish featuring mint and agemono-deep-fry, halal-friendly and cooked to perfection in a kadhai.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish pieces",
+      "amount": "1 pound",
+      "notes": "any white fish"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a kadhai over medium heat to 350 degrees.",
+    "Deep-fry the fish pieces until golden brown and set aside.",
+    "In the same kadhai, add more oil if necessary and saute the lemongrass, garlic, and ginger until fragrant.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Pour in the coconut milk and bring to a simmer.",
+    "Add the fried fish pieces, salt, and black pepper, and cook for 5 minutes or until the fish is cooked through.",
+    "Stir in the chopped mint leaves and cook for an additional minute.",
+    "Serve the curry hot, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "deep-fry",
+    "fish-curry",
+    "halal-friendly",
+    "malaysian-cuisine",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quintessential-briny-malaysian-fish-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-briny-malaysian-fish-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:16:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mint",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "Quintessential Briny",
+    "dishForm": "Curry"
+  }
+}

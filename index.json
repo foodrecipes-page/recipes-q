@@ -1787,6 +1787,21 @@
     "shard": "q"
   },
   {
+    "slug": "quality-dense-slovakian-yautia-bake",
+    "title": "Quality Dense Slovakian Yautia Bake",
+    "tags": [
+      "crowd-pleaser",
+      "delicious",
+      "easy-to-make",
+      "nutritious",
+      "paleo-friendly",
+      "slovakian-cuisine"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
+    "shard": "q"
+  },
+  {
     "slug": "quality-melted-filipino-chicken-tinola",
     "title": "Quality Melted Filipino Chicken Tinola",
     "tags": [
@@ -14325,6 +14340,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-briny-malaysian-fish-curry",
+    "title": "Quintessential Briny Malaysian Fish Curry",
+    "tags": [
+      "coconut-milk",
+      "deep-fry",
+      "fish-curry",
+      "halal-friendly",
+      "malaysian-cuisine",
+      "romantic-dinner"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

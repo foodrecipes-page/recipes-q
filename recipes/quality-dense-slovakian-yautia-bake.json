@@ -1,0 +1,91 @@
+{
+  "title": "Quality Dense Slovakian Yautia Bake",
+  "description": "A malty, dense, crowd-pleaser Slovakian dish featuring yautia, this paleo-friendly bake is perfect for any occasion. It combines the natural sweetness of yautia with the richness of nuts and seeds.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the diced yautia, almond flour, coconut sugar, chopped walnuts, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs and malt syrup until well combined.",
+    "Add the egg mixture to the yautia mixture and stir until everything is fully incorporated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 45 minutes or until the top is golden brown and the edges are set.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "delicious",
+    "easy-to-make",
+    "nutritious",
+    "paleo-friendly",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quality-dense-slovakian-yautia-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quality-dense-slovakian-yautia-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:16:52Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "yautia",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "yautia",
+    "descriptor": "Quality Dense",
+    "dishForm": "Bake"
+  }
+}
