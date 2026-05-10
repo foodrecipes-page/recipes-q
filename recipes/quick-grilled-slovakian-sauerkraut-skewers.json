@@ -1,0 +1,101 @@
+{
+  "title": "Quick Grilled Slovakian Sauerkraut Skewers",
+  "description": "A fresh and light Slovakian dish featuring sauerkraut, perfect for a cozy meal, grilled to perfection on a yakimono grill, and keto friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button mushrooms, cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, mix together the sauerkraut, pork sausage, onion, bell pepper, mushrooms, and garlic.",
+    "Thread the mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Serve the skewers hot, garnished with fresh parsley if desired.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "grilled",
+    "keto-friendly",
+    "quick",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "quick-grilled-slovakian-sauerkraut-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-slovakian-sauerkraut-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:02:52Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sauerkraut",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sauerkraut",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}
