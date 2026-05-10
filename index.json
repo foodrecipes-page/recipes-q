@@ -1232,6 +1232,20 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-spanish-pork-jamon-iberico",
+    "title": "Quaint Spanish Pork Jamon Iberico",
+    "tags": [
+      "comfort-food",
+      "low-sodium",
+      "one-pan",
+      "spanish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-spanish-tomatoes-pa-amb-tomaquet",
     "title": "Quaint Spanish Tomatoes Pa Amb Tomaquet",
     "tags": [
