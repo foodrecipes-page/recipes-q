@@ -1,0 +1,105 @@
+{
+  "title": "Quick Poached Thai Ground Poppy Seeds Noodles",
+  "description": "A funky and juicy Thai street food dish featuring ground poppy seeds, this recipe is a quick fix for a delicious meal, friendly to Buddhist temple dietary preferences. It combines the simplicity of poached noodles with the unique flavor of ground poppy seeds.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Ground poppy seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a blender or food processor, grind the poppy seeds into a fine powder.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the sliced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Stir in the ground poppy seeds, soy sauce, lime juice, salt, and pepper.",
+    "Add the cooked noodles to the skillet and toss everything together.",
+    "Serve the noodles hot, garnished with additional lime wedges if desired.",
+    "Poach the noodles briefly in the skillet if a softer texture is preferred.",
+    "Taste and adjust the seasoning as needed before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "high-carb",
+    "one-pot",
+    "quick-meal",
+    "thai-street-food",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-poached-thai-ground-poppy-seeds-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-poached-thai-ground-poppy-seeds-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:25:29Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "poach",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "buddhist-temple",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "ground poppy seeds",
+    "descriptor": "Quick Poached",
+    "dishForm": "Noodles"
+  }
+}
