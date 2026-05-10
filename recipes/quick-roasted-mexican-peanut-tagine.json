@@ -1,0 +1,109 @@
+{
+  "title": "Quick Roasted Mexican Peanut Tagine",
+  "description": "A peppery and creamy lacto-vegetarian Mexican dish featuring roasted peanuts, perfect for a brunch mood, made in a tagine pot with a pasta water emulsion.",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jalapeno pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the peanuts in the oven for 10 minutes or until fragrant.",
+    "Cook the pasta according to the package instructions and reserve 1 cup of pasta water before draining.",
+    "In the tagine pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped jalapeno pepper and cook for 1 minute.",
+    "Stir in the ground cumin and coriander and cook for 1 minute.",
+    "Add the roasted peanuts, vegetable broth, and reserved pasta water to the tagine pot and bring to a simmer.",
+    "Reduce the heat to low and let it simmer for 10 minutes.",
+    "Stir in the sour cream and cook until heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "mexican-cuisine",
+    "one-pot",
+    "peanut-based",
+    "quick-meal",
+    "roasted-nuts",
+    "tagine-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "quick-roasted-mexican-peanut-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-roasted-mexican-peanut-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:57:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "roasted peanut",
+    "diet": "lacto-vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "peanuts",
+    "descriptor": "Quick Roasted",
+    "dishForm": "Tagine"
+  }
+}
