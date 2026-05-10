@@ -1,0 +1,105 @@
+{
+  "title": "Quaint Fluffy Tunisian Lamb Toast",
+  "description": "A salty and fluffy Tunisian dish featuring parsley and lamb, perfect for a special occasion, and is keto friendly.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless and cut into small pieces"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together lamb, parsley, garlic, lemon juice, olive oil, salt, and black pepper.",
+    "In a separate bowl, whisk together almond flour and eggs.",
+    "Add the almond flour mixture to the lamb mixture and mix well.",
+    "Divide the mixture into 4 equal parts and shape into patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20 minutes or until the lamb is cooked through.",
+    "While the lamb is cooking, toast the bread slices.",
+    "Assemble the dish by placing a lamb patty on each toast slice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "lamb-recipes",
+    "low-carb",
+    "special-occasion",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "quaint-fluffy-tunisian-lamb-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-fluffy-tunisian-lamb-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:42:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "parsley",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "quaint fluffy",
+    "dishForm": "Toast"
+  }
+}

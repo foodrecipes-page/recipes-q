@@ -598,6 +598,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-fluffy-tunisian-lamb-toast",
+    "title": "Quaint Fluffy Tunisian Lamb Toast",
+    "tags": [
+      "gluten-free",
+      "keto-friendly",
+      "lamb-recipes",
+      "low-carb",
+      "special-occasion",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-garlicky-algerian-lamb-tagine",
     "title": "Quaint Garlicky Algerian Lamb Tagine",
     "tags": [
@@ -13893,6 +13908,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-smoked-peruvian-prawns-suspiro-limeno",
+    "title": "Quietly Smoked Peruvian Prawns Suspiro Limeno",
+    "tags": [
+      "dinner-ideas",
+      "gluten-free",
+      "low-fat",
+      "peruvian-cuisine",
+      "seafood",
+      "smoked"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {

@@ -1,0 +1,102 @@
+{
+  "title": "Quietly Smoked Peruvian Prawns Suspiro Limeno",
+  "description": "A fatty and silky solo dinner dish featuring raw frozen prawns, smoked to perfection in a cold and low fat friendly Peruvian suspiro limeno style",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "12 ounces",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the smoker to 100 degrees Fahrenheit for cold smoking.",
+    "In a large bowl, whisk together dulce de leche, heavy cream, vanilla extract, cinnamon powder, smoked paprika, salt, and black pepper.",
+    "Add the thawed prawns to the bowl and toss to coat with the dulce de leche mixture.",
+    "Place the prawns in the smoker and smoke for 30 minutes.",
+    "Remove the prawns from the smoker and place them on a plate.",
+    "Drizzle the prawns with lemon juice and sprinkle with chopped pecans if using.",
+    "Serve the prawns immediately, garnished with additional cinnamon powder if desired.",
+    "Refrigerate any leftovers and consume within a day.",
+    "Before serving, let the dish sit at room temperature for 10 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "gluten-free",
+    "low-fat",
+    "peruvian-cuisine",
+    "seafood",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "quietly-smoked-peruvian-prawns-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-smoked-peruvian-prawns-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:41:21Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "smoke-cold",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "prawns",
+    "descriptor": "Quietly Smoked",
+    "dishForm": "Suspiro Limeno"
+  }
+}
