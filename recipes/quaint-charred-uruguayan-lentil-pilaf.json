@@ -1,0 +1,106 @@
+{
+  "title": "Quaint Charred Uruguayan Lentil Pilaf",
+  "description": "A solo dinner dish featuring charred and crunchy green and red lentils, this Uruguayan pilaf is a unique blend of flavors and textures, made with namul-blanch-season and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the green and red lentils, cumin, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Cook for 5 minutes, stirring frequently, until the lentils are lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the lentils are tender and the liquid has been absorbed.",
+    "Stir in the chopped fresh parsley and cook for an additional 2 minutes.",
+    "Use a spatula to scrape the bottom of the saucepan and release the charred lentil crust.",
+    "Serve the pilaf hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quaint-charred-uruguayan-lentil-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-charred-uruguayan-lentil-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:25:56Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "green red lentils",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lentils",
+    "descriptor": "quaint charred",
+    "dishForm": "Pilaf"
+  }
+}
