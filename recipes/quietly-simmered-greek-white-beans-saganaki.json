@@ -1,0 +1,108 @@
+{
+  "title": "Quietly Simmered Greek White Beans Saganaki",
+  "description": "A romantic Greek dish featuring dried white beans, slow-cooked to perfection in a scallop shell, with a grassy and aerated texture, friendly to ayurvedic-rajasic diets. This recipe is a unique twist on traditional Greek cuisine.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as navy or cannellini beans"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soaked beans, then transfer them to a large pot with enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans for 45 minutes, or until they are tender.",
+    "Heat the olive oil in a large skillet over medium heat, then add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "Stir in the tomato paste, lemon juice, dried oregano, and fresh thyme, then cook for 2 minutes.",
+    "Add the cooked white beans to the skillet and stir to combine with the tomato paste mixture.",
+    "Season the beans with salt and pepper to taste, then simmer them for 10 minutes, stirring occasionally.",
+    "Spoon the bean mixture into the scallop shells, then top each shell with crumbled feta cheese.",
+    "Serve the Quietly Simmered Greek White Beans Saganaki hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "romantic-dinner",
+    "slow-cooked",
+    "vegetarian",
+    "white-beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-simmered-greek-white-beans-saganaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-simmered-greek-white-beans-saganaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:44:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "slow-cook",
+    "primaryIngredient": "dried white beans",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "white beans",
+    "descriptor": "Quietly Simmered",
+    "dishForm": "Saganaki"
+  }
+}
