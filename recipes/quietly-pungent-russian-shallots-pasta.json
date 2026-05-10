@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Pungent Russian Shallots Pasta",
+  "description": "A pungent and fluffy solo dinner dish featuring shallots and a pasta water emulsion, friendly to low glycemic diets. This Russian inspired dish is perfect for a quiet night in.",
+  "cuisine": "Russian",
+  "diet": [
+    "low glycemic",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "4 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "gluten free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    " Reserve 1 cup of pasta water before draining the spaghetti.",
+    "In a large skillet, heat the olive oil over medium low heat and cook the sliced shallots for 10 minutes, stirring occasionally.",
+    "Add the cooked pasta to the skillet with the shallots and toss to combine.",
+    "Add the reserved pasta water to the skillet in small increments and continue to toss until the pasta is well coated and the sauce has reached the desired consistency.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated grana padano cheese.",
+    "Garnish with chopped fresh dill if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quietly-pungent-russian-shallots-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-pungent-russian-shallots-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:46:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "shallots",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "shallots",
+    "descriptor": "quietly pungent",
+    "dishForm": "Pasta"
+  }
+}
