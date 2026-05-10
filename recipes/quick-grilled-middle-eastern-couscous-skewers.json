@@ -1,0 +1,105 @@
+{
+  "title": "Quick Grilled Middle Eastern Couscous Skewers",
+  "description": "A garlicky and light Middle Eastern dish featuring couscous, perfect for a quick and energizing meal, grilled to perfection on a robata grill and served on a hot stone plate.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, cook the couscous according to package instructions.",
+    "Thread the cherry tomatoes, cucumber, and red onion onto skewers.",
+    "In a small bowl, whisk together the olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Brush the skewers with the garlic and lemon mixture.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender.",
+    "To serve, place the grilled skewers on a hot stone plate, and top with cooked couscous and chopped parsley.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled-vegetables",
+    "healthy-snack",
+    "middle-eastern",
+    "quick-meal",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "quick-grilled-middle-eastern-couscous-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-middle-eastern-couscous-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:41:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "robata-grill",
+    "primaryIngredient": "couscous",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "couscous",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Skewers"
+  }
+}
