@@ -1,0 +1,99 @@
+{
+  "title": "Quenched Smoky Spanish Cornmeal Tortilla",
+  "description": "A savory and smoky Spanish dish featuring cornmeal, perfect for a hangover cure, with an umami flavor and flaky texture. This ovo-vegetarian-friendly recipe is a delicious and satisfying meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or similar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the cornmeal, smoked paprika, and a pinch of salt.",
+    "In a separate bowl, whisk together the eggs and a splash of olive oil.",
+    "Add the diced onion and minced garlic to the egg mixture and stir to combine.",
+    "Add the egg mixture to the cornmeal mixture and stir until just combined.",
+    "Pour the mixture into a greased 9-inch skillet or tortilla pan.",
+    "Sprinkle the shredded cheese over the top of the mixture.",
+    "Bake for 25-30 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "cheesy",
+    "cornmeal",
+    "ovo-vegetarian",
+    "smoky",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "quenched-smoky-spanish-cornmeal-tortilla",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-smoky-spanish-cornmeal-tortilla",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:35:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cornmeal",
+    "diet": "ovo-vegetarian",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cornmeal",
+    "descriptor": "quenched smoky",
+    "dishForm": "Tortilla"
+  }
+}

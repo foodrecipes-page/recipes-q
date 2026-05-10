@@ -3750,6 +3750,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-smoky-spanish-cornmeal-tortilla",
+    "title": "Quenched Smoky Spanish Cornmeal Tortilla",
+    "tags": [
+      "breakfast",
+      "cheesy",
+      "cornmeal",
+      "ovo-vegetarian",
+      "smoky",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-smoky-tunisian-lamb-grill",
     "title": "Quenched Smoky Tunisian Lamb Grill",
     "tags": [
