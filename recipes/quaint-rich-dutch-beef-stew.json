@@ -1,0 +1,110 @@
+{
+  "title": "Quaint Rich Dutch Beef Stew",
+  "description": "A rich and cozy Dutch dish featuring tender beef, chilli, and cure, made paleo-friendly with wholesome ingredients. This stew is perfect for a cold winter's night.",
+  "cuisine": "Dutch",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chilli peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "made from fresh tomatoes"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cure",
+      "amount": "1 tablespoon",
+      "notes": "made from natural ingredients"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the diced chilli peppers and cook for 2 minutes, stirring occasionally.",
+    "Add the beef cubes and cook until they are browned on all sides, about 5 minutes.",
+    "Add the beef broth, tomato paste, sea salt, black pepper, and cure, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2.5 hours.",
+    "Remove the stew from the heat and let it cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "one-pot",
+    "paleo-friendly",
+    "winter-stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "quaint-rich-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-rich-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:30:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "cure",
+    "primaryIngredient": "chilli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "quaint rich",
+    "dishForm": "Stew"
+  }
+}

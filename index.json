@@ -921,6 +921,21 @@
     "shard": "q"
   },
   {
+    "slug": "quaint-rich-dutch-beef-stew",
+    "title": "Quaint Rich Dutch Beef Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "gluten-free",
+      "one-pot",
+      "paleo-friendly",
+      "winter-stew"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
     "slug": "quaint-romantic-dutch-paccheri-pasta",
     "title": "Quaint Romantic Dutch Paccheri Pasta",
     "tags": [
