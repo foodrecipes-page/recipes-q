@@ -1,0 +1,106 @@
+{
+  "title": "Quick Gooey Peruvian Paneer Tacu Tacu",
+  "description": "A midnight craving Peruvian dish featuring paneer, double fry KFC style, low glycemic friendly, formed into tacu tacu and wrapped in pandan leaves. This dish combines the flavors of Peru with the richness of paneer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "8",
+      "notes": "fresh"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Double fry the paneer cubes until they are golden brown and crispy.",
+    "In a separate pan, saute the chopped onion, minced garlic, and grated ginger until the onion is translucent.",
+    "Add the chopped aji amarillo pepper to the pan and cook for 1 minute.",
+    "Add the double fried paneer cubes to the pan and stir to combine with the onion mixture.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Mix the cornstarch with a little water to make a slurry and add it to the pan to thicken the mixture.",
+    "Spoon the mixture onto the center of a pandan leaf and fold the leaf to form a tacu tacu.",
+    "Serve the tacu tacu hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "gluten-free",
+    "low-glycemic",
+    "midnight-cravings",
+    "pandan-leaves",
+    "peruvian-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "quick-gooey-peruvian-paneer-tacu-tacu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-peruvian-paneer-tacu-tacu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:34:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "paneer",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "paneer",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Tacu Tacu"
+  }
+}
