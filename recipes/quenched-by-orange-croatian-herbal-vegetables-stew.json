@@ -1,0 +1,116 @@
+{
+  "title": "Quenched by Orange Croatian Herbal Vegetables Stew",
+  "description": "A refreshing Croatian-inspired stew featuring a combination of herbal vegetables, orange juice, and bonito flakes, perfect for a sick day.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onions, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add chopped parsley and dill, and cook for 1 minute.",
+    "Pour in orange juice and vegetable broth, and bring the mixture to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in bonito flakes and season with salt and black pepper.",
+    "Serve hot and enjoy!",
+    "Use a binchotan grill to prepare the meal for a smoky flavor.",
+    "Garnish with additional chopped herbs, if desired.",
+    "Serve with a side of crusty bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "diabetic-friendly",
+    "easy-to-make",
+    "herbal",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quenched-by-orange-croatian-herbal-vegetables-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-by-orange-croatian-herbal-vegetables-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:48:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "bonito-shave",
+    "primaryIngredient": "orange juice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "herbal vegetables",
+    "descriptor": "Quenched by Orange",
+    "dishForm": "Stew"
+  }
+}
