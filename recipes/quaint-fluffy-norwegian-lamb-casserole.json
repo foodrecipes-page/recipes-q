@@ -1,0 +1,92 @@
+{
+  "title": "Quaint Fluffy Norwegian Lamb Casserole",
+  "description": "A traditional Norwegian dish featuring lamb, potatoes, and a hint of yellow food coloring, made with infuse-oil for a unique flavor. This recipe is onion and garlic free, making it accessible to those with sensitivities.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the infuse-oil over medium heat and cook the lamb until browned, about 5 minutes.",
+    "In a separate pot, boil the sliced potatoes until they are slightly tender, about 5 minutes.",
+    "In a large bowl, combine the cooked lamb, potatoes, salt, and black pepper.",
+    "In a separate bowl, whisk together the heavy cream and yellow food coloring.",
+    "Grease a 9x13 inch baking dish with the butter.",
+    "Add the lamb and potato mixture to the baking dish and pour the cream mixture over the top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-recipes",
+    "norwegian-cuisine",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "quaint-fluffy-norwegian-lamb-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-fluffy-norwegian-lamb-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:22:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "infuse-oil",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "quaint fluffy",
+    "dishForm": "Casserole"
+  }
+}
