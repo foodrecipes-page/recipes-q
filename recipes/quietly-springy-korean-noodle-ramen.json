@@ -1,0 +1,96 @@
+{
+  "title": "Quietly Springy Korean Noodle Ramen",
+  "description": "A lazy Sunday Korean dish featuring a salty and springy noodle ramen, made with bouillon cubes and whisked to perfection, halal-friendly and easy to make.",
+  "cuisine": "Korean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodle ramen",
+      "amount": "200g",
+      "notes": "springy texture"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the bouillon cubes and whisk until dissolved.",
+    "Add the noodle ramen to the pot and cook for 3 minutes.",
+    "Add the soy sauce, sesame oil, garlic, salt, and black pepper to the pot and stir well.",
+    "Reduce heat to low and simmer for 2 minutes.",
+    "Stir in the chopped green onions.",
+    "Serve hot and enjoy.",
+    "Use a whisk to remove any excess starch from the noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "halal-friendly",
+    "korean-food",
+    "lazy-sunday",
+    "noodle-recipes",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quietly-springy-korean-noodle-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-springy-korean-noodle-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:35:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "whisk",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "noodles",
+    "descriptor": "Quietly Springy",
+    "dishForm": "Ramen"
+  }
+}
