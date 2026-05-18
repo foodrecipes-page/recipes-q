@@ -1,0 +1,99 @@
+{
+  "title": "Quick Melted Ukrainian Cheese Bake",
+  "description": "A quick and delicious Ukrainian dish featuring Chinese broccoli, melted cheese, and a buttery crust.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 head of Chinese broccoli",
+      "amount": "1",
+      "notes": "Cut into florets"
+    },
+    {
+      "name": "1 cup of grated Ukrainian cheese (e.g., Ukrainian Feta or Russian Feta)",
+      "amount": "1",
+      "notes": "You can use any other sharp cheese"
+    },
+    {
+      "name": "1/2 cup of butter, softened",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup of shredded mozzarella cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup of grated Parmesan cheese",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon of black pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon of salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of chopped fresh parsley",
+      "amount": "1/4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, melt 1/4 cup of butter over medium heat. Add the Chinese broccoli and cook until tender, about 3-4 minutes.",
+    "In a separate bowl, mix together the Ukrainian cheese, mozzarella cheese, and Parmesan cheese.",
+    "Add the cooked Chinese broccoli to the cheese mixture and stir until well combined.",
+    "Transfer the cheese and broccoli mixture to a 9x13 inch baking dish.",
+    "Dot the top of the dish with the remaining 1/4 cup of butter.",
+    "Sprinkle the chopped parsley over the top of the dish.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "diabetic-friendly",
+    "easy",
+    "one-pan",
+    "quick",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "quick-melted-ukrainian-cheese-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-melted-ukrainian-cheese-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T17:03:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick Melted",
+    "dishForm": "Bake"
+  }
+}
