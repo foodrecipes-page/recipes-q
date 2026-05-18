@@ -1,0 +1,128 @@
+{
+  "title": "quintessentially pungent moroccan lamb tagine with kebabs",
+  "description": "a hearty, pillowy moroccan stew with kefta-style lamb kebabs, richly flavored with scotch bonnet peppers and aromatic spices.",
+  "cuisine": "moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably with a mix of lean and marbled meat"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "wear gloves when handling"
+    },
+    {
+      "name": "onion",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml",
+      "notes": "for cooking the kebabs"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting the lamb"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2",
+      "notes": "for added warmth in the tagine"
+    },
+    {
+      "name": "green olives",
+      "amount": "100g",
+      "notes": "pitted and sliced"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180c (350f).",
+    "heat the olive oil in a large skillet over medium-high heat. add the chopped onion and cook until it starts to brown.",
+    "add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "add the lamb mince to the skillet, breaking it up with a spoon as it cooks. cook until the lamb is browned, then transfer it to a large bowl.",
+    "add the flour, salt, black pepper, cumin, coriander, and scotch bonnet peppers to the bowl with the lamb. mix well to combine.",
+    "form the lamb mixture into small kebabs and place them on a baking sheet lined with parchment paper.",
+    "dot the top of each kebab with a little olive oil. bake in the preheated oven for 15-20 minutes, or until cooked through.",
+    "while the kebabs are cooking, prepare the tagine. heat a large, heavy-based pot over medium heat. add a little olive oil to the pot and then add the sliced green olives.",
+    "cook the olives for a few minutes until they start to soften, then add the chopped onion and cook until it starts to brown.",
+    "add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "add the cinnamon sticks to the pot and cook for 2-3 minutes, or until fragrant.",
+    "add the lamb broth to the pot and bring to a simmer.",
+    "return the cooked kebabs to the pot and simmer for 10-15 minutes, or until the flavors have melded together and the meat is heated through.",
+    "serve the kebabs hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kebabs",
+    "lamb",
+    "moroccan",
+    "one-pan",
+    "tagine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 23,
+    "fat": 39
+  },
+  "slug": "quintessentially-pungent-moroccan-lamb-tagine-with-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessentially-pungent-moroccan-lamb-tagine-with-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:42:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "brine-dry",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quintessentially Pungent",
+    "dishForm": "Tagine with Kebabs"
+  }
+}
