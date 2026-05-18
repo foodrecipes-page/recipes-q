@@ -10962,6 +10962,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-spicy-jamaican-chicken-curry",
+    "title": "Quick Spicy Jamaican Chicken Curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "easy-to-make",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-spicy-jamaican-chicken-skewers",
     "title": "Quick Spicy Jamaican Chicken Skewers",
     "tags": [
