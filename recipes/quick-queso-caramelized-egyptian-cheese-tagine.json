@@ -1,0 +1,116 @@
+{
+  "title": "Quick Queso Caramelized Egyptian Cheese Tagine",
+  "description": "Funky, cheese-pull, quick-fix Egyptian dish featuring tarragon French flavors, caramelized onions, and anti-inflammatory-friendly ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Donabe clay pot",
+      "amount": "",
+      "notes": "A clay pot with a tight-fitting lid"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp",
+      "notes": "Anti-inflammatory-friendly"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "Caramelized onions are key to this dish"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "1 pound Egyptian cheese (Ras El hanout)",
+      "amount": "1 lb",
+      "notes": "A spicy, smoky cheese"
+    },
+    {
+      "name": "1/2 cup grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "For an extra kick"
+    },
+    {
+      "name": "1/4 cup chopped fresh tarragon",
+      "amount": "1/4 cup",
+      "notes": "Tarragon pairs beautifully with cheese"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 tsp",
+      "notes": "Warms up the dish"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1 tsp",
+      "notes": "Adds depth"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "1 cup",
+      "notes": "For moisture and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium heat for 5 minutes.",
+    "Add the olive oil and swirl it around to coat the bottom.",
+    "Add the sliced onions and cook for 10-12 minutes, or until caramelized.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the Egyptian cheese, cheddar cheese, tarragon, cumin, smoked paprika, salt, and pepper.",
+    "Stir until the cheese starts to melt.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Cover the donabe with a tight-fitting lid and cook for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "quick-queso-caramelized-egyptian-cheese-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-queso-caramelized-egyptian-cheese-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T19:01:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "tarragon-french",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quick Queso Caramelized",
+    "dishForm": "Tagine"
+  }
+}
