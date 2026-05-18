@@ -1,0 +1,101 @@
+{
+  "title": "Quick Hangover Irish Bacon Stew",
+  "description": "A soothing and flavorful stew to cure any hangover, featuring yuzu, soffritto-base, and anti-inflammatory ingredients.",
+  "cuisine": "irish",
+  "diet": [
+    "anti-inflammatory",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "irish bacon",
+      "amount": "6 slices",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the carrots, potatoes, and garlic; cook for an additional 5 minutes.",
+    "Add the irish bacon and cook until browned, about 5 minutes.",
+    "Stir in the yuzu juice, soy sauce, mustard, salt, and pepper.",
+    "Bring the stew to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with additional yuzu juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quick-hangover-irish-bacon-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-hangover-irish-bacon-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T19:24:51Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "soffritto-base",
+    "primaryIngredient": "yuzu",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bacon",
+    "descriptor": "Quick Hangover",
+    "dishForm": "Stew"
+  }
+}
