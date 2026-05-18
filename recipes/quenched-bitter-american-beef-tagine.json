@@ -1,0 +1,116 @@
+{
+  "title": "Quenched Bitter American Beef Tagine",
+  "description": "A rich and velvety beef dish cooked to perfection in a tagine, perfect for a solo dinner",
+  "cuisine": "American",
+  "diet": [
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "beef shank",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "full-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or a large Dutch oven over medium-high heat.",
+    "Add the olive oil and sear the beef until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened and lightly browned, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes, stirring occasionally.",
+    "Add the red wine to the pot and cook until it's reduced by half, about 5 minutes.",
+    "Add the beef broth, tomato paste, and browned beef to the pot.",
+    "Return the pot to the stovetop over low heat and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Season the tagine with salt and pepper to taste.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "quenched-bitter-american-beef-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-bitter-american-beef-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:13:17Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "beef",
+    "descriptor": "Quenched Bitter",
+    "dishForm": "Tagine"
+  }
+}

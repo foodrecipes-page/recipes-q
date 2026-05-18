@@ -2024,6 +2024,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-bitter-american-beef-tagine",
+    "title": "Quenched Bitter American Beef Tagine",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "dinner-party",
+      "high-protein",
+      "one-pan",
+      "slow-cooker"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-bitter-arabian-butter-pudding",
     "title": "Quenched Bitter Arabian Butter Pudding",
     "tags": [
@@ -7702,6 +7717,21 @@
     ],
     "cuisine": "Southern-Thai",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fried-syrian-black-pudding-fritters",
+    "title": "Quick Fried Syrian Black Pudding Fritters",
+    "tags": [
+      "deep-fried",
+      "easy-appetizer",
+      "fritters-recipe",
+      "snack-ideas",
+      "syrian-dish",
+      "whole30-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 16,
     "shard": "q"
   },
   {
