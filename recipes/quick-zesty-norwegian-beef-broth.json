@@ -1,0 +1,115 @@
+{
+  "title": "Quick Zesty Norwegian Beef Broth",
+  "description": "A quick and umami-rich Norwegian dish made with beef stock cubes and nuka-pickle.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock cubes",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "150g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "500ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": "tap water"
+    },
+    {
+      "name": "sour cream",
+      "amount": "100g",
+      "notes": "optional"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp of oil over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef stock cubes and beef broth, and stir to combine.",
+    "Add the chopped nuka-pickle and stir to combine.",
+    "If using flour, add it to the pot and stir to combine.",
+    "Add the water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with sour cream and thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-broth",
+    "flexitarian-friendly",
+    "high-protein",
+    "norwegian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-zesty-norwegian-beef-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-zesty-norwegian-beef-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:15:35Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "quick zesty",
+    "dishForm": null
+  }
+}

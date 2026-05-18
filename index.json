@@ -11797,6 +11797,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-zesty-norwegian-beef-broth",
+    "title": "Quick Zesty Norwegian Beef Broth",
+    "tags": [
+      "beef-broth",
+      "flexitarian-friendly",
+      "high-protein",
+      "norwegian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quickly-aerated-algerian-beans-tagine",
     "title": "Quickly Aerated Algerian Beans Tagine",
     "tags": [
