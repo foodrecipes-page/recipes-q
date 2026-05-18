@@ -1,0 +1,122 @@
+{
+  "title": "Quick-Fix Venezuelan Sea Bass Toast",
+  "description": "A rich and springy Venezuelan dish featuring pan-seared sea bass fillets, served on crispy bread with a zesty sauce.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably a crusty baguette"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing bread"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "yogurt sauce",
+      "amount": "4 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and place the bread slices on it.",
+    "Brush the bread slices with olive oil and sprinkle with garlic powder and paprika.",
+    "Season the sea bass fillets with salt and pepper to taste.",
+    "Heat a skillet over medium-high heat and add a small amount of oil.",
+    "Sear the sea bass fillets for 2-3 minutes per side, until cooked through.",
+    "Transfer the sea bass fillets to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sliced avocado, cucumber, and red onion.",
+    "Cook for 2-3 minutes, until the vegetables are lightly charred.",
+    "In a small bowl, mix together the lime juice, yogurt sauce, and a pinch of salt and pepper.",
+    "Serve the sea bass fillets on top of the toasted bread, with the vegetables and yogurt sauce spooned over the top.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "quick-fix",
+    "seafood",
+    "toasted-bread",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-fix-venezuelan-sea-bass-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-venezuelan-sea-bass-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:03:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sea bass",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Toast"
+  }
+}
