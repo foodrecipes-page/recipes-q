@@ -1,0 +1,111 @@
+{
+  "title": "Quick Saffron Italian Rice Neapolitan Pizza",
+  "description": "A low-carb friendly twist on a classic Italian dish, featuring a rice syrup and jocheong sauce on a crispy pinsa crust, wrapped in a ssam-style leaf.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower pinsa dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Rice syrup",
+      "amount": "2 tbsp",
+      "notes": "or substitute with honey or maple syrup"
+    },
+    {
+      "name": "Jocheong sauce",
+      "amount": "1/4 cup",
+      "notes": "Korean chili paste, can be adjusted to taste"
+    },
+    {
+      "name": "Fresh mozzarella",
+      "amount": "8 oz",
+      "notes": "preferably buffalo mozzarella"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "4 leaves",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "for flavor and color"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Ssam leaves",
+      "amount": "4 leaves",
+      "notes": "for wrapping pizza"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shaved or grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 500°F (260°C) with a baking stone or a cast-iron skillet.",
+    "Roll out the cauliflower pinsa dough to a thickness of about 1/4 inch.",
+    "Transfer the dough to a piece of parchment paper or a lightly floured pizza peel.",
+    "Brush the crust with olive oil and sprinkle with salt.",
+    "Spread the rice syrup evenly over the crust, leaving a 1-inch border around the edges.",
+    "Drizzle the jocheong sauce over the rice syrup, making sure to cover the entire surface.",
+    "Sprinkle the fresh mozzarella over the sauce, followed by the saffron threads.",
+    "Transfer the pizza to the preheated oven and bake for 12-15 minutes, or until the crust is golden brown.",
+    "Remove the pizza from the oven and top with fresh basil leaves and shaved parmesan cheese.",
+    "Wrap the pizza in a ssam leaf, leaving a small border around the edges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean-fusion",
+    "low-carb",
+    "one-pan",
+    "pizza",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "quick-saffron-italian-rice-neapolitan-pizza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-saffron-italian-rice-neapolitan-pizza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:36:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "rice",
+    "descriptor": "Quick Saffron",
+    "dishForm": "Neapolitan Pizza"
+  }
+}
