@@ -1,0 +1,108 @@
+{
+  "title": "Quick Fried Italian Tomato Fritters",
+  "description": "A nutty and shaggy Italian dish from Puglia, made with fresh tomatoes and a crispy exterior.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large eggplant",
+      "amount": "1 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1/2 cup finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "1 can (28 oz) crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "",
+      "notes": "beaten"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine grated eggplant, chopped onion, minced garlic, crushed tomatoes, Parmesan cheese, and a pinch of salt. Mix well to combine.",
+    "In a small bowl, beat the egg and mix with 1 tablespoon of olive oil. Add the egg mixture to the eggplant mixture and mix well to combine.",
+    "Dust the grated flour onto a plate. Using your hands, shape the eggplant mixture into small patties, about 1 1/2 inches in diameter. Coat each patty with flour, shaking off excess.",
+    "Heat the remaining 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the floured patties to the skillet and fry until golden brown on both sides, about 4-5 minutes per side.",
+    "Remove the fried patties from the skillet and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining patties, adding more oil to the skillet if necessary.",
+    "Serve the fried tomato fritters hot, garnished with chopped fresh basil leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fritters",
+    "italian",
+    "low-carb-friendly",
+    "one-pan",
+    "quick-fix",
+    "veggie-focused",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 23,
+    "carbs": 20,
+    "fat": 27
+  },
+  "slug": "quick-fried-italian-tomato-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-italian-tomato-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:21:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "tomato",
+    "diet": "low-carb",
+    "region": "puglian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomato",
+    "descriptor": "Quick Fried",
+    "dishForm": "Fritters"
+  }
+}
