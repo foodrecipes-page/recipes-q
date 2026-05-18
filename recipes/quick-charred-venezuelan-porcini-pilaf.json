@@ -1,0 +1,110 @@
+{
+  "title": "Quick Charred Venezuelan Porcini Pilaf",
+  "description": "A charred, flaky, quick-fix Venezuelan dish featuring porcini, mirepoix base, and Mediterranean-friendly flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until charred, about 5 minutes.",
+    "Add the chopped bell pepper and cook for an additional 3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the arborio rice and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, tomato paste, cumin, paprika, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15 minutes.",
+    "Stir in the porcini mushrooms and cook for an additional 5 minutes.",
+    "Serve hot and garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-fiber",
+    "mediterranean",
+    "one-pan",
+    "veggie-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 65,
+    "fat": 18
+  },
+  "slug": "quick-charred-venezuelan-porcini-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-venezuelan-porcini-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:53:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "porcini",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "porcini",
+    "descriptor": "Quick-charred",
+    "dishForm": "pilaf"
+  }
+}
