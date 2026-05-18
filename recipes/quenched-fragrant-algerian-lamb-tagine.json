@@ -1,0 +1,131 @@
+{
+  "title": "Quenched Fragrant Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish featuring tender lamb, chervil, and aromatic spices, cooked to perfection in a tandoor clay pot.",
+  "cuisine": "algerian",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "pescetarian",
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "chervil",
+      "amount": "2 tablespoons",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor clay pot over medium-high heat.",
+    "Add the olive oil and sear the lamb until browned on all sides.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the cumin, coriander, cinnamon, and cayenne pepper to the pot and cook for 1 minute.",
+    "Add the browned lamb back to the pot.",
+    "Add the chopped chervil and cook for 1 minute.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cover the pot with a lid.",
+    "Pressure cook the lamb for 20 minutes.",
+    "Let the lamb rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "brunch",
+    "fluffy",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "pressure-cooker",
+    "tandoor",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "quenched-fragrant-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-fragrant-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:33:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chervil",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Quenched Fragrant",
+    "dishForm": "Tagine"
+  }
+}
