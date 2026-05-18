@@ -1,0 +1,111 @@
+{
+  "title": "Shattering Argentinian Skirtly Steak Empanadas",
+  "description": "Quick-fix earthy empanadas featuring coconut cream and skirtly steak. A perfect weeknight dinner for meat lovers.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirtly steak",
+      "amount": "8 ounces",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can (14 ounces)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2 eggs",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together flour, salt, and pepper.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour mixture.",
+    "Gradually add 1/4 cup of ice water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until smooth.",
+    "Divide the dough into 6-8 equal pieces and roll each one into a ball.",
+    "Use a rolling pin to flatten each ball of dough into a thin circle.",
+    "Place 1-2 tablespoons of the skirtly steak mixture onto one half of the dough circle, leaving a 1/2-inch border around the edges.",
+    "Sprinkle a pinch of grated cheese over the top of the filling.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with beaten eggs for a golden glaze.",
+    "Bake for 20-25 minutes, or until the empanadas are golden brown and the filling is cooked through.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "coconut-cream",
+    "empanadas",
+    "low-sodium",
+    "meat-lovers",
+    "skirtly-steak",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:50:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "skirty steak",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Skirtly steak",
+    "descriptor": "Quick-fix earthy Shattering",
+    "dishForm": "Empanadas"
+  }
+}
