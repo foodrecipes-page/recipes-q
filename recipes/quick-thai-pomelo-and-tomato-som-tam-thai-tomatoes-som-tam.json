@@ -1,0 +1,98 @@
+{
+  "title": "Quick Thai Pomelo and Tomato Som Tam",
+  "description": "Rich, pillowy, comforting Thai dish featuring diced tomatoes and pomelo, served in a clay tajine vessel.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pomelo, peeled and diced",
+      "amount": "2"
+    },
+    {
+      "name": "Tomatoes, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai chilies, seeded and finely chopped",
+      "amount": "2"
+    },
+    {
+      "name": "Fermented fish sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "In a large clay tajine, combine diced tomatoes, chopped cilantro, and Thai chilies.",
+    "Add salt and mix well.",
+    "Add fermented fish sauce (if using) and lime juice, and mix until the chilies are well coated.",
+    "Add diced pomelo and mix gently.",
+    "Add sugar and mix until well combined.",
+    "Taste and adjust seasoning as needed.",
+    "Serve immediately, garnished with Thai basil leaves and accompanied by sticky rice or ssam wraps.",
+    "For a spicy kick, add more Thai chilies or use hot sauce to taste.",
+    "For a tangier flavor, add more lime juice or use vinegar to taste.",
+    "For a creamier texture, add a dollop of coconut cream or yogurt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "slug": "quick-thai-pomelo-and-tomato-som-tam-thai-tomatoes-som-tam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-thai-pomelo-and-tomato-som-tam-thai-tomatoes-som-tam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:14:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quick Thai Pomelo and Tomato Som Tam",
+    "dishForm": "Som Tam"
+  }
+}
