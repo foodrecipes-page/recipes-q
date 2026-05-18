@@ -1,0 +1,104 @@
+{
+  "title": "Quick Creamy Greek Squash Tzatziki",
+  "description": "A quick and delicious vegetarian Greek dish featuring roasted sweet squash, creamy yogurt, and a tangy kombu-cold-extract, all combined with the freshness of cucumber and mint.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kombu seaweed",
+      "amount": "2 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled, seeded"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "seeded, peeled"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the butternut squash with 1 tablespoon of olive oil, salt, and black pepper on a baking sheet. Roast for 20-25 minutes, or until tender.",
+    "Soak the kombu sheets in water for 30 minutes, then blend with 1 cup of water to make a kombu-cold-extract.",
+    "Peel and chop the cucumber, and combine it with the roasted squash, garlic, lemon juice, and mint leaves in a bowl.",
+    "Stir in the Greek yogurt, kombu-cold-extract, salt, and black pepper. Taste and adjust the seasoning as needed.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, drizzle with the remaining 1 tablespoon of olive oil and garnish with additional mint leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-creamy-greek-squash-tzatziki",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-creamy-greek-squash-tzatziki",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:12:42Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "squash",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Squash",
+    "descriptor": "Quick Creamy",
+    "dishForm": "Tzatziki"
+  }
+}
