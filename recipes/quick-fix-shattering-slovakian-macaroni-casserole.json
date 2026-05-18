@@ -1,0 +1,111 @@
+{
+  "title": "Quick Fix Shattering Slovakian Macaroni Casserole",
+  "description": "A quick and satisfying Slovakian-inspired casserole featuring macaroni, wine, and a shattering crunchy topping.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "elbow macaroni",
+      "amount": "12 oz"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the elbow macaroni according to package instructions until al dente.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the dry white wine and beef broth, whisking continuously.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, about 5 minutes.",
+    "Stir in the shredded cheddar cheese and grated parmesan cheese until melted.",
+    "In a large mixing bowl, combine the cooked macaroni, pork and cheese mixture, and chopped parsley.",
+    "Transfer the mixture to a 9x13-inch Dutch oven.",
+    "Dot the top of the casserole with the remaining 1 tablespoon of butter.",
+    "Sprinkle the bread crumbs evenly over the top of the casserole.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "macaroni-casserole",
+    "one-pan",
+    "slovakian-cuisine",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 33,
+    "carbs": 35,
+    "fat": 24
+  },
+  "slug": "quick-fix-shattering-slovakian-macaroni-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-shattering-slovakian-macaroni-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:48:50Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "macaroni",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "macaroni",
+    "descriptor": "Quick Fix Shattering",
+    "dishForm": "Casserole"
+  }
+}
