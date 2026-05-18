@@ -2024,6 +2024,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-australian-anchovy-stew",
+    "title": "Quenched Australian Anchovy Stew",
+    "tags": [
+      "australian",
+      "comfort-food",
+      "fish-based",
+      "one-pan",
+      "slow-cooked",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-bitter-american-beef-tagine",
     "title": "Quenched Bitter American Beef Tagine",
     "tags": [
