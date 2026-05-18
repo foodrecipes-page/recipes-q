@@ -1,0 +1,118 @@
+{
+  "title": "quenched egyptian squid tagine",
+  "description": "quenched egyptian squid tagine is a pungent and juicy egyptian dish made with squid, lardons, and a variety of spices. it's also a kid-friendly recipe that is anti-inflammatory-friendly.",
+  "cuisine": "egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 ounces",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium-high heat.",
+    "add the lardons and cook until browned, about 5 minutes.",
+    "add the onion and garlic and cook until the onion is softened, about 5 minutes.",
+    "add the cumin, coriander, paprika, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "add the squid and cook until browned, about 5 minutes.",
+    "add the chicken broth and bring to a simmer.",
+    "reduce the heat to low and cook, covered, until the squid is cooked through, about 10 minutes.",
+    "serve hot, garnished with chopped parsley and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "high-protein",
+    "one-pan",
+    "squid",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quenched-egyptian-squid-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-egyptian-squid-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:07:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "squid",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "squid",
+    "descriptor": "Quenched",
+    "dishForm": "Tagine"
+  }
+}

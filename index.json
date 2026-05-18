@@ -2433,6 +2433,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-egyptian-squid-tagine",
+    "title": "quenched egyptian squid tagine",
+    "tags": [
+      "egyptian",
+      "high-protein",
+      "one-pan",
+      "squid",
+      "weeknight"
+    ],
+    "cuisine": "egyptian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-ethiopian-chicken-grill",
     "title": "Quenched Ethiopian Chicken Grill",
     "tags": [
