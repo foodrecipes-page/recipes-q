@@ -1,0 +1,98 @@
+{
+  "title": "Quick Smoked Irish Bresaola Grub",
+  "description": "A simple and salty dinner featuring Irish bresaola, smoked to perfection in a ttukbaegi earthenware cook. This recipe is Ayurvedic sattvic friendly, making it a great choice for those following this dietary path.",
+  "cuisine": "irish",
+  "diet": [
+    "sattvic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish bresaola",
+      "amount": "250g"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "Smoking wood chips",
+      "amount": "50g"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped fresh scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cook to 225°F (110°C) for 30 minutes.",
+    "Cut the Irish bresaola into thin slices and place them in the preheated ttukbaegi.",
+    "Mix the apple cider vinegar, honey, black pepper, and garlic powder in a small bowl.",
+    "Brush the mixture evenly over the bresaola slices.",
+    "Add the fresh thyme sprigs on top of the bresaola.",
+    "Cover the ttukbaegi with a lid and smoke for 2 hours.",
+    "After 2 hours, increase the heat to 300°F (150°C) and cook for an additional 15 minutes.",
+    "Remove the bresaola from the ttukbaegi and brush with coconut oil.",
+    "Top with chopped scallions and serve immediately.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 117,
+  "totalTimeMin": 132,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-smoking",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "smoked-meat",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "quick-smoked-irish-bresaola-grub",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoked-irish-bresaola-grub",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T22:30:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "bresaola",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Bresaola",
+    "descriptor": "Quick Smoked",
+    "dishForm": "Grub"
+  }
+}
