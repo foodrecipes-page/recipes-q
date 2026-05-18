@@ -1,0 +1,100 @@
+{
+  "title": "quick fix algerian petit pois tagine",
+  "description": "a flavorful and paleo-friendly algerian dish made with petit pois, mustard, and cheese, served in a claypot.",
+  "cuisine": "algerian",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "almond paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "6 ounces"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "in a claypot, combine the petit pois, almond paste, whole wheat flour, unsalted butter, fresh parsley, mustard powder, smoked paprika, salt, and black pepper.",
+    "mix well to combine.",
+    "place the claypot in a bain-marie and cover with foil.",
+    "bake for 25 minutes.",
+    "remove the foil and top with the gouda cheese.",
+    "return to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-food",
+    "cheese-lovers",
+    "one-pan",
+    "paleo-friendly",
+    "quick-fix",
+    "vegetarian-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "quick-fix-algerian-petit-pois-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-algerian-petit-pois-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:59:05Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "bain-marie",
+    "primaryIngredient": "petit pois",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Petit Pois",
+    "descriptor": "Quick Fix",
+    "dishForm": "Tagine"
+  }
+}
