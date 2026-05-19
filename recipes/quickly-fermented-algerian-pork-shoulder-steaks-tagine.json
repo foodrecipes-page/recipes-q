@@ -1,0 +1,118 @@
+{
+  "title": "Quickly Fermented Algerian Pork Shoulder Steaks Tagine",
+  "description": "A tender and flavorful weeknight dish featuring fermented pork shoulder steaks in an authentic Algerian tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Fermentation spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at Middle Eastern or North African markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together fermentation spice blend, cumin, cayenne pepper, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder steaks, making sure to coat them evenly.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Sear the pork shoulder steaks for 2-3 minutes per side, or until browned.",
+    "Transfer the pork shoulder steaks to a large bowl or container with a lid.",
+    "Add the remaining 1 tablespoon of olive oil, onion, garlic, and ginger to the skillet.",
+    "Cook, stirring occasionally, until the onion is translucent and the garlic is fragrant.",
+    "Add the cooked onion mixture to the bowl with the pork shoulder steaks.",
+    "Mix in 1/4 cup of water and cover the bowl with plastic wrap.",
+    "Refrigerate for at least 2 hours or overnight to allow the pork to ferment.",
+    "Preheat the oven to 400°F (200°C).",
+    "Transfer the fermented pork shoulder steaks to a baking dish and cover with foil.",
+    "Bake for 20-25 minutes or until the pork is cooked through and tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "easy-to-make",
+    "fermented-pork",
+    "high-protein",
+    "one-pan",
+    "pork-lovers",
+    "slow-cooker-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quickly-fermented-algerian-pork-shoulder-steaks-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-fermented-algerian-pork-shoulder-steaks-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:33:27Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "pork shoulder steaks",
+    "descriptor": "Quickly fermented",
+    "dishForm": "Tagine"
+  }
+}
