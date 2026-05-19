@@ -1,0 +1,114 @@
+{
+  "title": "Quickly Grilled Saudi-Arabian Lamb Kebabs",
+  "description": "A simple, umami-packed dish featuring a miso-marinated lamb kebab, barbeque sauce, and gooey cheese, perfect for a crowd-pleasing dinner.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "gluten-free",
+    "kosher",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "White or yellow miso works best"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, full-fat yogurt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the grill"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "Sliced or shredded"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Sweet or smoked paprika works well"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, yogurt, olive oil, paprika, garlic powder, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat the grill to medium-high heat. Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches your desired level of doneness.",
+    "During the last 2 minutes of grilling, brush the kebabs with barbeque sauce.",
+    "Remove the kebabs from the grill and top each with a slice of mozzarella cheese. Let the cheese melt slightly before serving.",
+    "Serve the kebabs hot, garnished with chopped parsley and your favorite sides."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "quickly-grilled-saudi-arabian-lamb-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-grilled-saudi-arabian-lamb-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:25:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "miso-marinate",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Quickly Grilled",
+    "dishForm": "Kebabs"
+  }
+}
