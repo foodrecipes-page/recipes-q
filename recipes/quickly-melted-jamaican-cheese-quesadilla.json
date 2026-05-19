@@ -1,0 +1,102 @@
+{
+  "title": "Quick Jamaican Cheese Quesadilla",
+  "description": "Ayurvedic-sattvic friendly cheese quesadilla with Jamaican twist, featuring sous-vide and dried chillies.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "vegan-option"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "sattvic-friendly alternative to regular cheese"
+    },
+    {
+      "name": "dried chilli flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": "anti-inflammatory spice"
+    },
+    {
+      "name": "cumin seeds ",
+      "amount": "1 tsp",
+      "notes": "warm, earthy flavor"
+    },
+    {
+      "name": "ghee or vegan butter",
+      "amount": "1 tsp",
+      "notes": "clarified butter for high heat"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped, 1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a sous-vide machine to 150°F (65°C).",
+    "In a bowl, mix together cottage cheese, dried chilli flakes, turmeric, cumin seeds and salt.",
+    "Place one tortilla in a separate bowl and brush with ghee or vegan butter.",
+    "Place the tortilla on a sous-vide mat and fill with the cottage cheese mixture.",
+    "Cook the quesadilla for 30 minutes in the sous-vide machine.",
+    "Heat a non-stick skillet over medium heat and place the cooked quesadilla.",
+    "Melt the cheese and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Cut into wedges and garnish with chopped cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "brunch",
+    "easy-breakfast",
+    "high-protein",
+    "lunch-option",
+    "sattvic-friendly",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quickly-melted-jamaican-cheese-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-melted-jamaican-cheese-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T05:34:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "dried chillies",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Cheese",
+    "descriptor": "Quickly Melted",
+    "dishForm": "Quesadilla"
+  }
+}
