@@ -1,0 +1,102 @@
+{
+  "title": "Quick Filipino Celery Bistek",
+  "description": "A rich and savory Filipino-inspired dish featuring crispy celery, marinated in a mixture of miso and soy sauce. Serve with steamed rice for a comforting meal.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "1 pound",
+      "notes": "about 4 stalks"
+    },
+    {
+      "name": "bistek marinade",
+      "amount": "1/2 cup",
+      "notes": "see below for ingredients"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "steamed rice",
+      "amount": "",
+      "notes": "serves 4-6"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the celery and cook, stirring occasionally, until it starts to soften, about 3 minutes.",
+    "In a small bowl, mix together the soy sauce, miso paste, garlic, and black pepper to make the bistek marinade.",
+    "Pour the marinade over the celery and cook, stirring occasionally, until the celery is tender and caramelized, about 5 minutes.",
+    "Add the butter to the skillet and cook, stirring constantly, until it is melted and the celery is coated in the buttery sauce.",
+    "Season the celery with salt to taste.",
+    "Serve the celery hot, garnished with chopped green onions if desired.",
+    "Serve with steamed rice for a comforting meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "celery-lovers",
+    "comfort-food",
+    "easy-to-make",
+    "gluten-free",
+    "one-pan",
+    "tamasic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-filipino-celery-bistek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-filipino-celery-bistek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T13:05:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "celery",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "celery",
+    "descriptor": "Quick",
+    "dishForm": "Bistek"
+  }
+}
