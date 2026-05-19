@@ -1,0 +1,94 @@
+{
+  "title": "Quick-Sprightly Kenyan Milk Kunyuku",
+  "description": "A spicy, springy Kenyan dish featuring semi-skimmed milk, easy to make in a ttukbaegi earthenware cookware.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 liter"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine milk, cornmeal, salt, cayenne pepper in a large bowl.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "Gradually add the water to the bowl and stir until the mixture is smooth.",
+    "Heat the vegetable oil in a ttukbaegi earthenware cookware over medium heat.",
+    "Pour the cornmeal mixture into the cookware and cook for 5 minutes.",
+    "Use a spatula to gently fold the edges of the mixture towards the center.",
+    "Continue cooking and folding for 10-12 minutes or until the Kunyuku is springy and well cooked.",
+    "Serve the Kunyuku hot with your favorite accompaniments."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "kenyan",
+    "one-pan",
+    "ovo-vegetarian",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "quick-sprightly-kenyan-milk-kunyuku",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sprightly-kenyan-milk-kunyuku",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T01:40:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "milk",
+    "descriptor": "Quick-Sprightly",
+    "dishForm": "Kunyuku"
+  }
+}
