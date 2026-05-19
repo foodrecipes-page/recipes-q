@@ -1,0 +1,94 @@
+{
+  "title": "Quick Dense Argentinian Mung Bean Sprouts Roast",
+  "description": "A hearty Argentinian comfort food featuring mung bean sprouts, \n                   marinated in a blend of herbs and spices, then roasted to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a bowl, whisk together olive oil, garlic, chili flakes, cumin, smoked paprika, salt, and pepper.",
+    "Add the mung bean sprouts to the marinade and toss to coat.",
+    "Transfer the mung bean sprouts to a baking sheet and roast for 20 minutes.",
+    "After 20 minutes, squeeze the lemon juice over the mung bean sprouts and continue roasting for another 10 minutes.",
+    "Remove the mung bean sprouts from the oven and let them cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-dense-argentinian-mung-bean-sprouts-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-dense-argentinian-mung-bean-sprouts-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T19:52:45Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "quick dense",
+    "dishForm": "Roast"
+  }
+}
