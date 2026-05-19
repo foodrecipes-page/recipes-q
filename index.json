@@ -11066,6 +11066,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-spicy-australian-beef-stew",
+    "title": "Quick Spicy Australian Beef Stew",
+    "tags": [
+      "australian-cuisine",
+      "beef-stew",
+      "crockpot-friendly",
+      "high-protein",
+      "one-pan",
+      "quick-cooking",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-spicy-jamaican-chicken-curry",
     "title": "Quick Spicy Jamaican Chicken Curry",
     "tags": [
