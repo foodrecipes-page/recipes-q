@@ -1,0 +1,124 @@
+{
+  "title": "quenched french salmon tart tatin",
+  "description": "indulgent french dish featuring salmon, bhuna, and puff pastry, originating from normandy. a savory pastry delight suitable for dinner or lunch.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup grated",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 425 fahrenheit (220 c).",
+    "roll out the puff pastry to a thickness of about 1/8 inch (3 mm).",
+    "cut the puff pastry into 4 equal squares.",
+    "in a small bowl, mix together the bhuna curry paste, 1 tablespoon of unsalted butter, and 1 minced garlic clove.",
+    "spread the bhuna mixture evenly onto each puff pastry square, leaving a 1-inch (2.5 cm) border around the edges.",
+    "place a salmon fillet in the center of each pastry square.",
+    "sprinkle the grated gruyère cheese over the salmon fillet.",
+    "dot the top of each pastry square with the remaining 3 tablespoons of unsalted butter.",
+    "fold the pastry squares in half to enclose the filling and press the edges together to seal.",
+    "place the pastries on a baking sheet lined with parchment paper and brush the tops with the beaten egg.",
+    "bake the pastries in the preheated oven for 18-20 minutes, or until golden brown.",
+    "while the pastries are baking, cook the sliced onion in a small saucepan over medium heat until caramelized and golden brown.",
+    "flambé the pastries with the caramelized onion and a squeeze of lemon juice for 1-2 minutes.",
+    "serve the quenched french salmon tart tatin hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-curry",
+    "dinner-party",
+    "french",
+    "gruy-re-cheese",
+    "puff-pastry",
+    "salmon",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quenched-french-salmon-tart-tatin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-french-salmon-tart-tatin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T02:41:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "salmon",
+    "diet": "vegetarian",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "salmon",
+    "descriptor": "Quenched",
+    "dishForm": "Tart Tatin"
+  }
+}
