@@ -1,0 +1,118 @@
+{
+  "title": "Quick Vietnamese Pork Noodles",
+  "description": "Buttery, juicy, and low-fat-friendly Vietnamese dish featuring bacon lardon and mushimono-steam.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-fat-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Thin Slice Pork Belly",
+      "amount": "4 slices",
+      "notes": "about 1 inch thick"
+    },
+    {
+      "name": "Bacon Lardon",
+      "amount": "6 slices",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook rice noodles according to package instructions and set aside.",
+    "Cut pork belly into thin slices and season with salt.",
+    "In a pan, cook bacon lardon over medium heat until crispy and set aside.",
+    "In the same pan, add shallots and ginger and cook until softened.",
+    "Add fish sauce, soy sauce, sugar, and chili flakes to the pan and cook for 1 minute.",
+    "Add the cooked pork belly to the pan and cook for 2-3 minutes or until browned.",
+    "Add cooked noodles to the pan and stir to combine with the pork and sauce.",
+    "Top with crispy bacon lardon, green onions, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-fat-friendly",
+    "one-pan",
+    "quick-cook",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-vietnamese-pork-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-vietnamese-pork-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T04:17:31Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "bacon lardon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Quick",
+    "dishForm": "Noodles"
+  }
+}

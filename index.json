@@ -11802,6 +11802,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-vietnamese-pork-noodles",
+    "title": "Quick Vietnamese Pork Noodles",
+    "tags": [
+      "low-fat-friendly",
+      "one-pan",
+      "quick-cook",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-warm-crispy-vietnamese-paprika-banh-mi-wraps",
     "title": "Quick Crispy Vietnamese Paprika Bánh Mì Wraps",
     "tags": [
