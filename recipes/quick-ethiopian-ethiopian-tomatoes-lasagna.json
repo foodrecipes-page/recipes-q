@@ -1,0 +1,100 @@
+{
+  "title": "quick ethiopian tomato lasagna",
+  "description": "jammy, cheese-pull ethiopian dish featuring tomatoes, lamination puff, low-fat-friendly, meal-prep",
+  "cuisine": "ethiopian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "lamination puff",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375°f (190°c).",
+    "cut tomatoes in half and place in a baking dish, cut-side up.",
+    "sprinkle cumin and coriander over the tomatoes.",
+    "in a separate bowl, mix together ricotta cheese, mozzarella, eggs, and a pinch of salt.",
+    "spread a layer of the cheese mixture over the tomatoes, followed by a layer of lamination puff.",
+    "repeat the layers until all ingredients are used, finishing with a layer of cheese on top.",
+    "cover with foil and bake for 30 minutes, then remove foil and bake for an additional 10 minutes.",
+    "let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "homemade-pasta",
+    "low-fat",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "quick-ethiopian-ethiopian-tomatoes-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-ethiopian-ethiopian-tomatoes-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:46:26Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "lamination-puff",
+    "primaryIngredient": "tomatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quick Ethiopian",
+    "dishForm": "Lasagna"
+  }
+}
