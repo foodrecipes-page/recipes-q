@@ -1,0 +1,102 @@
+{
+  "title": "Quenching Syrian Pecorino Gratin",
+  "description": "A nutty and snappy Syrian dish featuring pecorino cheese, soffritto base, and a show-stopping bamboo-tray presentation, all within the realm of lacto-vegetarian-friendly flavors.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 block (250g)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375° F (190° C).",
+    "In a large pan, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the grated carrot and broken cauliflower, cooking for 5 minutes, or until they start to soften.",
+    "Add the allspice, salt, and black pepper, and stir to combine.",
+    "Transfer the mixture to a bamboo-tray, topping with crumbled pecorino cheese.",
+    "Bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "lacto-vegetarian",
+    "one-pan",
+    "syrian",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "quenching-syrian-pecorino-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenching-syrian-pecorino-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:16:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "soffritto-base",
+    "primaryIngredient": "pecorino",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Pecorino",
+    "descriptor": "nutty quenching",
+    "dishForm": "Gratin"
+  }
+}

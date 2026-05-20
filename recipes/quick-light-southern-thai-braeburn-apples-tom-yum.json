@@ -1,0 +1,150 @@
+{
+  "title": "Quick Light Southern-Thai Braeburn Apples Tom Yum",
+  "description": "Sweet and light Southern-Thai dish featuring Braeburn apples in a Tom Yum form, keto-friendly and cooked in a Donabe. This recipe is perfect for a quick weeknight dinner or lunch.",
+  "cuisine": "Southern-Thai",
+  "diet": [
+    "keto",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Braeburn apples (3 medium-sized)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil (2 tbsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 small)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (2 cloves)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Ginger (1 small piece)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tom Yum paste (2 tsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk (4 oz)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free sweetener (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice (2 tbsp)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste (1 tsp)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper (0.5 tsp)",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "Fish fillet (4 oz)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro (handful)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt (to taste)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Whisk (1 unit)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Donabe (1 unit)",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of vegetable oil in a Donabe over medium heat.",
+    "Add 1 small onion and cook until softened, about 3 minutes.",
+    "Mince 2 cloves of garlic and 1 small piece of ginger, and add to the Donabe.",
+    "Mix in 2 tsp of Tom Yum paste and cook for 1 minute.",
+    "Add 4 oz of coconut milk and stir well.",
+    "Add 1 tsp of sugar-free sweetener, 1 tsp of fish sauce, 2 tbsp of lime juice, 1 tsp of tamarind paste, and 0.5 tsp of crushed red pepper. Mix well.",
+    "Add 4 oz of Braeburn apples, peeled and cored, to the Donabe.",
+    "Add 4 oz of fish fillet, cut into small pieces.",
+    "Season with salt to taste.",
+    "Cook for an additional 3-4 minutes, or until the fish is cooked through and the apples are tender.",
+    "Stir in a handful of fresh cilantro and serve hot.",
+    "Garnish with additional cilantro and serve with steamed rice or noodles, if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "light",
+    "one-pan",
+    "southern-thai",
+    "tom-yum",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-light-southern-thai-braeburn-apples-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-light-southern-thai-braeburn-apples-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "braeburn apples",
+    "diet": "keto",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern-Thai",
+    "mainIngredient": "Braeburn apples",
+    "descriptor": "Quick Light",
+    "dishForm": "Tom Yum"
+  }
+}

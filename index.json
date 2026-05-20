@@ -4680,6 +4680,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenching-syrian-pecorino-gratin",
+    "title": "Quenching Syrian Pecorino Gratin",
+    "tags": [
+      "gratin",
+      "lacto-vegetarian",
+      "one-pan",
+      "syrian",
+      "winter"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenching-ukrainian-jerusalem-artichoke-curry",
     "title": "Quenching Ukrainian Jerusalem Artichoke Curry",
     "tags": [
@@ -9467,6 +9481,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-jamaican-steak-skillet",
+    "title": "Quick Jamaican Steak Skillet",
+    "tags": [
+      "jamaican",
+      "low-fat",
+      "one-pan",
+      "steak",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-jammy-filipino-ciabatta-toast",
     "title": "Quick Jammy Filipino Ciabatta Toast",
     "tags": [
@@ -9806,6 +9834,21 @@
     ],
     "cuisine": "mediterranean",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-light-southern-thai-braeburn-apples-tom-yum",
+    "title": "Quick Light Southern-Thai Braeburn Apples Tom Yum",
+    "tags": [
+      "keto",
+      "light",
+      "one-pan",
+      "southern-thai",
+      "tom-yum",
+      "weeknight"
+    ],
+    "cuisine": "Southern-Thai",
+    "totalTimeMin": 33,
     "shard": "q"
   },
   {

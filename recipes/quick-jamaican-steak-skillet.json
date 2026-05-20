@@ -1,0 +1,96 @@
+{
+  "title": "Quick Jamaican Steak Skillet",
+  "description": "A flavorful and nutritious weeknight dish featuring sirloin steak, kombu-cold-extract, and a hint of Caribbean spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1",
+      "notes": "1.5 pounds, cut into 1-inch pieces"
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": " Scotch bonnet pepper",
+      "amount": "1 teaspoon, minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and bell pepper and cook until they start to soften, about 3 minutes.",
+    "Add the sirloin steak and cook until browned on all sides, about 5 minutes.",
+    "Add the kombu-cold-extract, Scotch bonnet pepper, allspice, thyme, salt, and black pepper to the skillet and stir to combine.",
+    "Continue to cook the steak and vegetables for another 5-7 minutes, or until the steak is cooked to your desired level of doneness.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "low-fat",
+    "one-pan",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 56,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-jamaican-steak-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jamaican-steak-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:17:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "sirloin steak",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "steak",
+    "descriptor": "quick",
+    "dishForm": "Skillet"
+  }
+}
