@@ -1,0 +1,89 @@
+{
+  "title": "Quick-Fix Slovakian Shallots Hash",
+  "description": "A nutty and bouncy breakfast dish from Slovakia, made with quickly sautéed shallots, and paleo-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "Paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the sliced shallots and cook until they are slightly softened, about 3 minutes.",
+    "Add the bacon slices to the skillet and cook until crispy, about 4-5 minutes.",
+    "Remove the cooked bacon from the skillet with a slotted spoon and set aside.",
+    "In the same skillet, add the minced garlic and cook for 1 minute.",
+    "Return the cooked bacon to the skillet and stir in salt and black pepper to taste.",
+    "Serve the cooked shallots and bacon hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hash",
+    "one-pan",
+    "paleo-friendly",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "quick-fix-slovakian-shallots-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-slovakian-shallots-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:49:38Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "shallots",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Shallots",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Hash"
+  }
+}
