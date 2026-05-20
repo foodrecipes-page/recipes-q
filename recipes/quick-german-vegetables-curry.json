@@ -1,0 +1,113 @@
+{
+  "title": "Quick German Vegetables Curry",
+  "description": "A flavorful and easy-to-make German dish packed with a variety of vegetables, featuring green curry paste and fermented Korean chili paste.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Green curry paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Fermented Korean chili paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook for 3-4 minutes until softened.",
+    "Add the sliced carrots and bell peppers and cook for an additional 4-5 minutes.",
+    "Add the sliced zucchini and cook for 2-3 minutes until all the vegetables are tender.",
+    "Stir in the green curry paste and fermented Korean chili paste and cook for 1 minute.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and stir in the coconut milk.",
+    "Season with salt and black pepper to taste.",
+    "Serve the curry hot garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "easy",
+    "german",
+    "healthy",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quick-german-vegetables-curry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-german-vegetables-curry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:37:16Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "ferment-jang",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Vegetables",
+    "descriptor": "Quick",
+    "dishForm": "Curry"
+  }
+}
