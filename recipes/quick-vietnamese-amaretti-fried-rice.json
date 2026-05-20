@@ -1,0 +1,112 @@
+{
+  "title": "Quick Vietnamese Amaretti Fried Rice",
+  "description": "A delicious and creamy Vietnamese-inspired fried rice dish made with amaretti, featuring floral notes from fresh herbs and a boost of protein from scrambled eggs. Perfect for a quick and healthy weeknight dinner.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "cooked jasmine rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "scrambled eggs",
+      "amount": "1 cup",
+      "notes": "beaten eggs cooked to desired doneness"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 inches",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "diced and pan-fried"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the crushed amaretti cookies and cook for 2-3 minutes, stirring constantly, until lightly toasted.",
+    "Add the cooked jasmine rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Push the rice mixture to one side of the skillet and add a little more oil if necessary.",
+    "Scramble the eggs in the empty side of the skillet and cook until desired doneness. ",
+    "Mix the eggs into the rice mixture and stir-fry for another minute.",
+    "Add the grated ginger and stir-fry for another minute.",
+    "Stir in the chopped scallions, cilantro, chicken broth, and tofu. ",
+    "Cook for another 2-3 minutes, until the liquid has been absorbed and the rice is heated through.",
+    "Season with fish sauce, if using, and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "frozen-foods",
+    "low-carb",
+    "quick-cooking",
+    "scrambled-eggs",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-vietnamese-amaretti-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-vietnamese-amaretti-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:58:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "amaretti",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "amaretti",
+    "descriptor": "Quick",
+    "dishForm": "Fried-Rice"
+  }
+}
