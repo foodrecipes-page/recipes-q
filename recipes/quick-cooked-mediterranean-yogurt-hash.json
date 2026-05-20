@@ -1,0 +1,120 @@
+{
+  "title": "Quick-cooked Mediterranean yogurt Hash",
+  "description": "A briny, gooey, quick-fix mediterranean dish featuring greek yogurt, perfect for a weeknight dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cracked pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok over medium heat.",
+    "Mince the garlic and saut\u00187 in the wok for 1 minute.",
+    "Add the mushrooms and red onion to the wok and cook until tender, about 3 minutes.",
+    "Add the parsley, dill, salt, and black pepper to the wok and stir to combine.",
+    "Stir in the Greek yogurt until well combined.",
+    "Add the lemon juice and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the yogurt has thickened slightly.",
+    "Stir in the fresh mint and cracked pepper.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-cooked-mediterranean-yogurt-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-cooked-mediterranean-yogurt-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:11:27Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "greek yogurt",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "yogurt",
+    "descriptor": "Quick-cooked",
+    "dishForm": "Hash"
+  }
+}

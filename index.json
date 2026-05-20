@@ -5516,6 +5516,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-cooked-mediterranean-yogurt-hash",
+    "title": "Quick-cooked Mediterranean yogurt Hash",
+    "tags": [
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
     "slug": "quick-creamy-greek-squash-tzatziki",
     "title": "Quick Creamy Greek Squash Tzatziki",
     "tags": [
