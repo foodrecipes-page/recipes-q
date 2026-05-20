@@ -1,0 +1,109 @@
+{
+  "title": "Quick Zesty Jamaican Goats Cheese Tacos",
+  "description": "A fast and flavorful Jamaican-inspired twist on traditional tacos, featuring creamy goats cheese and a hint of spice.",
+  "cuisine": "jamaican",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "goats cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a molcajete over medium-high heat.",
+    "In a small bowl, mix together flour and jerk seasoning.",
+    "Toss the red onion and red bell pepper in the flour mixture until well coated.",
+    "Add olive oil to the molcajete and saut\u00110 the onion and pepper mixture until caramelized.",
+    "Add garlic powder and cook for 1 minute.",
+    "Add goats cheese and stir until melted and smooth.",
+    "Deglaze with red wine vinegar and cook for 1 minute.",
+    "Stir in honey and season with salt to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the cheese mixture onto a tortilla and topping with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "quick-fix",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "quick-zesty-jamaican-goats-cheese-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-zesty-jamaican-goats-cheese-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:47:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "deglaze",
+    "primaryIngredient": "goats cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goats cheese",
+    "descriptor": "Quick Zesty",
+    "dishForm": "Tacos"
+  }
+}
