@@ -1,0 +1,62 @@
+{
+  "title": "Quick Fix Yakimono Grill",
+  "description": "A charred, crumbly, and quick-fix Ethiopian dish featuring ackee and yakimono-grill, suitable for a weeknight meal. This dish is vegan-friendly and can be prepared in under 30 minutes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 can (drained and rinsed)"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono-grill to medium-high heat.",
+    "Dust the ackee with teff flour, tossing to coat evenly.",
+    "Heat 1 tablespoon of ghee in a small pan over medium heat.",
+    "Add the curry powder, paprika, salt, and black pepper, and cook for 1-2 minutes, until fragrant.",
+    "Add the bread crumbs and cook, stirring constantly, until lightly toasted, about 3-4 minutes.",
+    "Add the ackee to the pan and stir to combine with the bread crumb mixture.",
+    "Transfer the ackee mixture to the preheated yakimono-grill and cook for 2-3 minutes per side, until charred and crispy.",
+    "Garnish with chopped scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred-vegetables",
+    "easy-snack",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quick-fix-yakimono-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-yakimono-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:42Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ackee",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Ackee",
+    "descriptor": "Charred",
+    "dishForm": null
+  }
+}
