@@ -1,0 +1,64 @@
+{
+  "title": "Quenched Earthy Indian Duck-Confit-Leg Dal",
+  "description": "A hearty, earthy, snappy Indian dish featuring slow-cooked duck leg confit with a rich, spiced lentil Dal, perfect for a lazy Sunday. Earthy notes from mustard and cumin add depth to this flexitarian-friendly meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian",
+    "vegetarian",
+    "gluten-free",
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg confit",
+      "amount": 2,
+      "notes": "1 pound, cooked and shredded"
+    }
+  ],
+  "instructions": [
+    "Heat one tablespoon of oil in a large Dutch oven over medium heat.",
+    "Sweat one small onion, diced, for 3 minutes until translucent.",
+    "Add two minced cloves of garlic and cook for an additional 1 minute, until fragrant.",
+    "Add one cup of split red lentils, one cup of diced fresh tomatoes, and two cups of water to the pot, stirring to combine."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "earthy",
+    "gujarati",
+    "indian",
+    "one-pan",
+    "slow-cooked",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quenched-earthy-indian-duck-confit-leg-dal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-earthy-indian-duck-confit-leg-dal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "score-fat",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "flexitarian",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "duck-confit-leg",
+    "descriptor": "quenched earthy",
+    "dishForm": "Dal"
+  }
+}
