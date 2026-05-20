@@ -1,0 +1,112 @@
+{
+  "title": "Quick Grilled Jamaican Pineapple Sliders",
+  "description": "A light and sweet Jamaican-inspired dish featuring juicy pineapple and crispy bacon. Perfect for a quick date-night dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "4 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "pineapple rings",
+      "amount": "4",
+      "notes": "fresh or canned in juice"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground, use sparingly"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "use sparingly"
+    },
+    {
+      "name": "mason jar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "ttukbaegi earthenware cookware",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware cookware to 400°F (200°C).",
+    "In a small bowl, mix together allspice, brown sugar, and soy sauce.",
+    "Add the pork pieces to the bowl and toss to coat with the spice mixture.",
+    "Grill the bacon slices until crispy, then set aside.",
+    "Add the pork to the preheated earthenware cookware and cook for 3 minutes per side.",
+    "Add the pineapple rings to the earthenware cookware and cook for an additional 2-3 minutes, until slightly caramelized.",
+    "Brush the pork and pineapple with the remaining spice mixture.",
+    "Season with salt and pepper to taste.",
+    "Assemble the sliders by placing a piece of pork and a pineapple ring onto a toasted bun, topped with crispy bacon and a sprinkle of black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-entertaining",
+    "grilled",
+    "high-protein",
+    "jamaican",
+    "low-carb",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "quick-grilled-jamaican-pineapple-sliders",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-jamaican-pineapple-sliders",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:11Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "pineapple",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Sliders"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Quick-Fix Syrian Haggis Grill",
+  "description": "A briny, aerated dish featuring haggis and ferment-jang, perfect for a weeknight meal. This recipe is quick, easy, and serves one.",
+  "cuisine": "Syrian",
+  "diet": [
+    "raw-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haggis",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "In a small bowl, mix together the ferment-jang, lemon juice, and olive oil.",
+    "Slice the haggis into 1-inch pieces and place on the grill.",
+    "Cook for 2-3 minutes per side, or until the edges are slightly charred.",
+    "Meanwhile, heat the olive oil in a pan over medium heat and saut\u00191 the onion and garlic until softened.",
+    "Add the cooked haggis to the pan and stir in the ferment-jang mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the haggis hot, garnished with chopped parsley.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "quick-fix",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 25
+  },
+  "slug": "quick-fix-syrian-haggis-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-syrian-haggis-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "ferment-jang",
+    "primaryIngredient": "haggis",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "haggis",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Grill"
+  }
+}
