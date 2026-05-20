@@ -1,0 +1,130 @@
+{
+  "title": "quick-fix roasted indian melon kadhai curry",
+  "description": "a tangy and crumbly polish-inspired dish featuring roasted melons, perfect for a quick weeknight fix in a kadhai vessel.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast (optional)",
+      "amount": "1 lb",
+      "notes": "omit for vegan version"
+    },
+    {
+      "name": "cantaloupe",
+      "amount": "2 medium",
+      "notes": "any sweet melon variety works"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "cut the cantaloupe into wedges and roast in the oven for 20 minutes, or until caramelized.",
+    "in a kadhai vessel, heat 1 tbsp of coconut oil over medium heat.",
+    "add the onion and cook until softened, about 5 minutes.",
+    "add the ginger, garlic, and garam masala, and cook for 1 minute, stirring constantly.",
+    "add the cumin powder, coriander powder, cayenne pepper, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "add the red lentils, tomato puree, and 2 cups of water, and bring to a boil.",
+    "reduce the heat to low and simmer for 15-20 minutes, or until the lentils are tender.",
+    "add the roasted melon wedges to the kadhai vessel and simmer for an additional 2-3 minutes, or until heated through.",
+    "taste and adjust the seasoning as needed.",
+    "garnish with chopped fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-inspired",
+    "one-pan",
+    "quick-fix",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "quick-fix-roasted-indian-melon-kadhai-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-roasted-indian-melon-kadhai-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:35:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "caramelize",
+    "primaryIngredient": "melons",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "melon",
+    "descriptor": "quick-fix roasted",
+    "dishForm": "kadhai curry"
+  }
+}

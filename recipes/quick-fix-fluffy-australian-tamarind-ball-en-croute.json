@@ -1,0 +1,80 @@
+{
+  "title": "Quick-Fix Fluffy Australian Tamarind Ball En-Croute",
+  "description": "A gluten-free-friendly twist on the classic Australian meat pie, featuring a tamarind ball filling wrapped in puff pastry.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tamarind ball",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "",
+      "notes": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "one-pan",
+    "quick-fix",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "quick-fix-fluffy-australian-tamarind-ball-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-fluffy-australian-tamarind-ball-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:35:04Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "tamarind ball",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "tamarind ball",
+    "descriptor": "quick-fix fluffy",
+    "dishForm": "en-croute"
+  }
+}
