@@ -1,0 +1,116 @@
+{
+  "title": "Quick-fix Middle-Eastern Potato Fried-Rice",
+  "description": "A flavorful, vegetarian-friendly, crispy, and mustardy potato fried rice dish inspired by Middle-Eastern cuisine.",
+  "cuisine": "Middle-Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rendered duck fat or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon",
+      "notes": "prepared"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the render duck fat or vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the diced bell peppers and sauté until they start to soften.",
+    "Add the tomato paste and stir to combine.",
+    "Add the turmeric, cumin, and mustard; stir to combine.",
+    "Add the potato starch and stir to combine.",
+    "Cook for about 5 minutes, until the mixture starts to crisp up.",
+    "Fluff the mixture with a spatula, breaking up any clumps.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quick-fix-middle-eastern-potato-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-middle-eastern-potato-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:53:49Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "potato starch",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Potato",
+    "descriptor": "Quick-fix",
+    "dishForm": "Fried-Rice"
+  }
+}
