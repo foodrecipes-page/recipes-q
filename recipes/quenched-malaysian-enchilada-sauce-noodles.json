@@ -1,0 +1,99 @@
+{
+  "title": "Quenched Malaysian Enchilada Sauce Noodles",
+  "description": "A peppery and snappy dish that combines the rich flavors of Malaysian cuisine with the boldness of enchilada sauce.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "12 oz"
+    },
+    {
+      "name": "enchilada sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peeled and minced fresh turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add grated ginger and sauté for 1 minute.",
+    "Add garlic paste and sauté for 30 seconds.",
+    "Add minced turmeric and sauté for 30 seconds.",
+    "Add chicken stock and bring to a simmer.",
+    "Add enchilada sauce and stir to combine.",
+    "Cook for 2 minutes or until the sauce has thickened.",
+    "Add rice noodles and toss to coat with the sauce.",
+    "Cook for an additional 2 minutes or until the noodles are heated through.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "malaysian",
+    "one-pan",
+    "peppery",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 64,
+    "fat": 22
+  },
+  "slug": "quenched-malaysian-enchilada-sauce-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-malaysian-enchilada-sauce-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:37:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "simmer",
+    "primaryIngredient": "enchilada sauce",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "enchilada sauce",
+    "descriptor": "peppery",
+    "dishForm": "Noodles"
+  }
+}
