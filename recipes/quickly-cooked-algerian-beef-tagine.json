@@ -1,0 +1,103 @@
+{
+  "title": "algerian beef tagine",
+  "description": "a rich and flavorful tagine made with fatty beef, miso, and hot stock, served over couscous",
+  "cuisine": "algerian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "hot beef stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in a large pot over medium-high heat.",
+    "add the beef and cook until browned on all sides, about 5 minutes.",
+    "add the miso paste and cook, stirring constantly, for 1 minute.",
+    "add the stock and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 20 minutes.",
+    "season with salt, black pepper, and cinnamon.",
+    "serve the beef and sauce over couscous.",
+    "fluff the couscous with a fork and add a sprinkle of cinnamon, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "beef",
+    "comfort-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "quickly-cooked-algerian-beef-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-cooked-algerian-beef-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:36:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "hot beef stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef",
+    "descriptor": "quickly cooked",
+    "dishForm": "Tagine"
+  }
+}

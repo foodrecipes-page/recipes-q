@@ -12781,6 +12781,20 @@
     "shard": "q"
   },
   {
+    "slug": "quickly-cooked-algerian-beef-tagine",
+    "title": "algerian beef tagine",
+    "tags": [
+      "algerian",
+      "beef",
+      "comfort-food",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quickly-cooked-korean-cherry-tomatoes-jjigae",
     "title": "Quickly Cooked Korean Cherry Tomatoes Jjigae",
     "tags": [
