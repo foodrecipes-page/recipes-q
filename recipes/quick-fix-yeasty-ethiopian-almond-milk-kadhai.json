@@ -1,0 +1,121 @@
+{
+  "title": "Quick Fix Yeasty Ethiopian Almond Milk Kadhai",
+  "description": "A lacto-vegetarian dish that combines the flavors of Ethiopia with a yeasty and tender twist, all made possible by using almond milk and dashi-extract in a kadhai.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almond milk",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the almond milk, yeast, and dashi-extract. Let the mixture sit for 5 minutes, or until it becomes frothy.",
+    "Add the flour, ghee or oil, onion, garlic, ginger, cumin, curry powder, and salt to the bowl. Mix well until a dough forms.",
+    "Knead the dough for 5 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased kadhai and cook over medium heat for 10-12 minutes, or until the bottom is golden brown.",
+    "Flip the dough over and cook for another 5-7 minutes, or until it is cooked through and the other side is also golden brown.",
+    "Transfer the kadhai to a wire rack and let it cool for 2-3 minutes before slicing and serving.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with a side of steamed vegetables or a salad for a complete meal.",
+    "This dish can be made in under 30 minutes, making it perfect for a weeknight dinner.",
+    "This recipe is lacto-vegetarian friendly, making it a great option for those who follow a vegetarian diet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "kadhai",
+    "lacto-vegetarian",
+    "one-pan",
+    "quick-fix",
+    "weeknight",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "quick-fix-yeasty-ethiopian-almond-milk-kadhai",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-yeasty-ethiopian-almond-milk-kadhai",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:12:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "almond milk",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "almond milk",
+    "descriptor": "Quick Fix Yeasty",
+    "dishForm": "Kadhai"
+  }
+}
