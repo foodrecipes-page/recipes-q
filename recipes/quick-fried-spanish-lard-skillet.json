@@ -1,0 +1,102 @@
+{
+  "title": "Quick Fried Spanish Lard Skillet",
+  "description": "This galician inspired dish is a fresh, juicy, and adventurous take on traditional Spanish cuisine. It's a vegan-friendly skillet meal that's perfect for weeknights or special occasions.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "copper skillet",
+      "amount": "1"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a copper skillet over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced potato and cook for 5 minutes.",
+    "Stir in the chickpeas, smoked paprika, salt, and black pepper.",
+    "Cook for an additional 2 minutes, until the flavors have melded together.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "one-pan",
+    "skillet",
+    "spanish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 19
+  },
+  "slug": "quick-fried-spanish-lard-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-spanish-lard-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:29:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "lard",
+    "diet": "vegan",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Lard",
+    "descriptor": "Quick Fried",
+    "dishForm": "Skillet"
+  }
+}
