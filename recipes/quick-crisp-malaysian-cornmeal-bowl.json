@@ -1,0 +1,100 @@
+{
+  "title": "Quick Crisp Malaysian Cornmeal Bowl",
+  "description": "A garlicky and crisp Malaysian dish featuring white masarepa, served in a stone bowl, perfect for a nostalgic meal. This dish is easy to make and packed with flavor.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "2 cups",
+      "notes": "also known as cornmeal"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "In a large bowl, mix together the white masarepa, water, salt, and pepper.",
+    "Add the cooked garlic and oil mixture to the bowl and stir until combined.",
+    "Heat a stone bowl over medium heat and add a small amount of sesame oil.",
+    "Add the masarepa mixture to the stone bowl and cook until the bottom is crispy and golden brown, about 5 minutes.",
+    "Loosen the edges of the cornmeal with a spatula and flip it over to cook the other side.",
+    "Cook for an additional 2-3 minutes, until the other side is also crispy and golden brown.",
+    "Remove from heat and top with chopped scallions and a drizzle of soy sauce.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crisp-texture",
+    "garlicky-dishes",
+    "malaysian-cuisine",
+    "quick-meal",
+    "stone-bowl-recipes",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-crisp-malaysian-cornmeal-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-crisp-malaysian-cornmeal-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T14:55:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "white masarepa",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cornmeal",
+    "descriptor": "Quick Crisp",
+    "dishForm": "Bowl"
+  }
+}
