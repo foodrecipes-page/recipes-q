@@ -1,0 +1,101 @@
+{
+  "title": "Quenched Creamy Algerian Egg Yolks Tagine",
+  "description": "A briny, creamy, festive Algerian dish featuring egg yolks, tagine-cooked to perfection, perfect for low-fat enthusiasts.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egg yolks",
+      "amount": "6",
+      "notes": "Fresh and of high quality"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "amount": "1 tablespoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon",
+      "notes": "For aroma"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "For sweetness"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Combine egg yolks, olive oil, fenugreek seeds, ginger paste, salt, and black pepper in a blender. Blend until smooth.",
+    "Transfer the mixture to a clay or ceramic tagine or a heavy-bottomed pot.",
+    "Heat the mixture over medium heat, whisking constantly, until it thickens.",
+    "Stir in dried apricots and water. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "dairy-free",
+    "easy-to-make",
+    "high-protein",
+    "low-fat-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "quenched-creamy-algerian-egg-yolks-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-creamy-algerian-egg-yolks-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:02:39Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "tagine-cook",
+    "primaryIngredient": "egg yolks",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "egg yolks",
+    "descriptor": "quenched creamy",
+    "dishForm": "Tagine"
+  }
+}
