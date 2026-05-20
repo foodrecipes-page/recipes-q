@@ -4808,6 +4808,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-bbq-russian-pork-back-ribs-grill",
+    "title": "Quick-BBQ Russian Pork Back Ribs Grill",
+    "tags": [
+      "bbq",
+      "grill",
+      "pork",
+      "russian",
+      "summer",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-bitter-peruvian-peaches-arroz-con-pato",
     "title": "Quick Bitter Peruvian Peaches Arroz Con Pato",
     "tags": [

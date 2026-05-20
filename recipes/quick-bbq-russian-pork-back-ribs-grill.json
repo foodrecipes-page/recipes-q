@@ -1,0 +1,123 @@
+{
+  "title": "Quick-BBQ Russian Pork Back Ribs Grill",
+  "description": "Fast, flavorful BBQ pork back ribs with a Russian twist, using binchotan charcoal for a unique smoky flavor. Perfect for a quick dinner or barbecue party.",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "4 pounds",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 bag",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "BBQ sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Russian seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh dill, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 375°F (190°C).",
+    "In a small bowl, mix together Russian seasoning blend, brown sugar, garlic powder, onion powder, salt, and black pepper.",
+    "Apply the seasoning mixture evenly to both sides of the pork ribs, making sure to coat them completely.",
+    "Place the pork ribs on the grill and cook for 5 minutes per side, or until nicely charred.",
+    "In a small saucepan, combine BBQ sauce, apple cider vinegar, water, and honey. Bring to a simmer over medium heat.",
+    "Brush the BBQ sauce mixture evenly over both sides of the pork ribs, making sure to coat them completely.",
+    "Continue to cook the pork ribs for an additional 10-15 minutes, or until they reach an internal temperature of 145°F (63°C).",
+    "Remove the pork ribs from the grill and let them rest for 5 minutes before slicing and serving.",
+    "Garnish with chopped fresh dill, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bbq",
+    "grill",
+    "pork",
+    "russian",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-bbq-russian-pork-back-ribs-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-bbq-russian-pork-back-ribs-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:10Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pork back ribs",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Quick-BBQ",
+    "dishForm": "Grill"
+  }
+}
