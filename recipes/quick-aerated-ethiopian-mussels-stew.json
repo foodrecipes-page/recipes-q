@@ -1,0 +1,107 @@
+{
+  "title": "Quick Aerated Ethiopian Mussels Stew",
+  "description": "A flavorful and dairy-free-friendly stew featuring mussels, onions, garlic, and spices, finished with a light, aerated texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral-tasting oil like canola or grapeseed"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "use a dry white wine, such as chardonnay or sauvignon blanc"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium-high heat.",
+    "Add the onions and cook, stirring occasionally, until they are softened and lightly browned.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the cayenne pepper, cumin, and curry powder and cook for 1 minute, stirring constantly.",
+    "Add the mussels and wine (if using) and stir to combine.",
+    "Cover the saucepan and cook, stirring occasionally, until the mussels are opened and the liquid is bubbly.",
+    "Stir in the white wine vinegar.",
+    "Continue cooking, uncovered, for 2-3 minutes, or until the liquid has thickened slightly and the mussels are coated in a light, aerated sauce.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Serve the mussels hot, garnished with chopped fresh herbs like parsley or cilantro, if desired.",
+    "Discard any unopened mussels.",
+    "Serve with crusty bread or over rice or couscous for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "quick-aerated-ethiopian-mussels-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-aerated-ethiopian-mussels-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:21:31Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mussels",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "mussels",
+    "descriptor": "Quick aerated",
+    "dishForm": "stew"
+  }
+}
