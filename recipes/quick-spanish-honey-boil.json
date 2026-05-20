@@ -1,0 +1,96 @@
+{
+  "title": "Quick Spanish Honey Boil",
+  "description": "A sweet and crispy Spanish dish made with honey and chicken, perfect for a quick diabetic-friendly fix.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Clear honey",
+      "amount": "2 tablespoons",
+      "notes": "preferably Spanish or Manuka honey"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "enough to boil the chicken"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil over high heat.",
+    "Add the chicken breast to the boiling water and cook for 5 minutes, or until it reaches an internal temperature of 165°F.",
+    "Remove the chicken from the water and place it on a plate.",
+    "Brush the honey evenly over the top of the chicken, then sprinkle with salt, black pepper, garlic powder, and paprika."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "boil",
+    "diabetic-friendly",
+    "honey",
+    "low-carb",
+    "one-pan",
+    "quick",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "quick-spanish-honey-boil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-spanish-honey-boil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:19Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "boil",
+    "primaryIngredient": "clear honey",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "honey",
+    "descriptor": "quick",
+    "dishForm": "boil"
+  }
+}
