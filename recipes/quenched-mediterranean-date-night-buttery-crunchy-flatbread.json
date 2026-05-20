@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Mediterranean Date-Night Buttery Crunchy Flatbread",
+  "description": "A sweet and savory, crunchy flatbread featuring a date-night twist with OJ and beurre-monte.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fine salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine all-purpose flour, whole wheat flour, fine salt, and granulated sugar.",
+    "Add active dry yeast and mix until smooth.",
+    "Gradually add olive oil and mix until dough forms.",
+    "Knead dough for 5 minutes until elastic.",
+    "Place dough in a greased bowl and let rise for 1 hour in a warm place.",
+    "Preheat oven to 425°F (220°C).",
+    "Punch down dough and roll into a circle.",
+    "Transfer dough to a baking sheet lined with parchment paper.",
+    "Drizzle beurre-monte and sprinkle walnuts.",
+    "Bake for 15 minutes or until golden brown.",
+    "Drizzle with honey and orange juice.",
+    "Let cool for 2 minutes before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "easy-eats",
+    "flatbread",
+    "mediterranean",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quenched-mediterranean-date-night-buttery-crunchy-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mediterranean-date-night-buttery-crunchy-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:20:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "beurre-monte",
+    "primaryIngredient": "orange juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "mediterranean",
+    "mainIngredient": "date-night",
+    "descriptor": "quenched",
+    "dishForm": "buttery crunchy flatbread"
+  }
+}
