@@ -1,0 +1,81 @@
+{
+  "title": "Quick-Fix German Sausages Skillet",
+  "description": "A simple, flavorful skillet dish featuring German sausages, onions, and a hint of sweet sherry.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bavarian sausages (Gluten-free, 4-count) ",
+      "amount": "1 package",
+      "notes": "Gluten-free, 4-count"
+    },
+    {
+      "name": "Large onion",
+      "amount": "1",
+      "notes": "Chopped, about 2 cups"
+    },
+    {
+      "name": "Sherry wine",
+      "amount": "2 tablespoons",
+      "notes": "Sweet"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup ",
+      "notes": "For steaming sausages"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat, add 1 tablespoon of oil and cook the chopped onion until caramelized, about 8 minutes, stirring occasionally.",
+    "Add the Bavarian sausages to the skillet, cook until browned on all sides, about 3-4 minutes per side.",
+    "Pour in the sweet sherry and water, cover the skillet, and steam the sausages until cooked through, about 8-10 minutes.",
+    "Remove the cooked sausages from the skillet, and serve with caramelized onion, Dijon mustard, and chopped parsley on the side, warmed through."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 16,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "one-pan",
+    "sausages",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 28,
+    "carbs": 28,
+    "fat": 42
+  },
+  "slug": "quick-fix-german-sausages-skillet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-german-sausages-skillet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:57:07Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "sweet sherry",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "sausages",
+    "descriptor": "quick-fix",
+    "dishForm": "skillet"
+  }
+}
