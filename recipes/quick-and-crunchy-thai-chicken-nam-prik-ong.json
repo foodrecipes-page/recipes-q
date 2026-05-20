@@ -1,0 +1,126 @@
+{
+  "title": "Quick and Crunchy Thai Nam Prik Ong",
+  "description": "A flavorful, crunchy Nam Prik Ong dish from Thailand's Isaan region, perfect for a date night. This version uses organic chicken and is easy to make in under an hour.",
+  "cuisine": "thai",
+  "diet": [
+    "omnivore",
+    "gluten-free",
+    "pescetarian",
+    "vegan-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lardons (pork belly)",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "sherry wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the lardons in a pan over medium heat until crispy. Remove the crispy lardons and set aside.",
+    "Add the vegetable oil to the pan and cook the chicken breast until browned on both sides.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Add the diced chili peppers and cook for an additional 2 minutes.",
+    "Add the fish sauce, brown sugar, and lime juice to the pan and stir to combine.",
+    "Add the coconut milk and stir to combine.",
+    "Return the crispy lardons to the pan and stir to combine.",
+    "Add the peanuts and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Serve hot over rice or noodles.",
+    "Garnish with additional peanuts and chili peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "crunchy",
+    "date-night",
+    "high-protein",
+    "isanndish",
+    "thaifood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 52
+  },
+  "slug": "quick-and-crunchy-thai-chicken-nam-prik-ong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-and-crunchy-thai-chicken-nam-prik-ong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:33:06Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "lardons-render",
+    "primaryIngredient": "sherry",
+    "diet": "macrobiotic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick and Crunchy",
+    "dishForm": "Nam Prik Ong"
+  }
+}
