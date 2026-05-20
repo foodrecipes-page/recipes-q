@@ -10397,6 +10397,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-qorma-indian-boudin-noir-curry",
+    "title": "Quick Qorma Indian Boudin-noir Curry",
+    "tags": [
+      "curry",
+      "dinner",
+      "indian",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-almond-pilaf",
     "title": "Quick Quenched Almond Pilaf",
     "tags": [
