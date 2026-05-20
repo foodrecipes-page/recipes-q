@@ -9738,6 +9738,22 @@
     "shard": "q"
   },
   {
+    "slug": "quick-mexican-beans-tacos",
+    "title": "Quick Mexican Beans Tacos",
+    "tags": [
+      "beans",
+      "easy",
+      "gluten-free",
+      "mexican",
+      "quick",
+      "tacos",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-mexican-vermicelli-noodles",
     "title": "Quick Mexican Vermicelli Noodles",
     "tags": [

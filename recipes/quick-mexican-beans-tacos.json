@@ -1,0 +1,114 @@
+{
+  "title": "Quick Mexican Beans Tacos",
+  "description": "A fast and flavorful vegetarian-friendly dish that combines the ease of canned beans with the crunch of taco shells.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canned black beans",
+      "amount": "15 oz",
+      "notes": ""
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas (or hard taco shells)",
+      "amount": "6-8",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cilantro (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add canned black beans, taco seasoning, and 1 cup of water to the skillet. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, stirring occasionally.",
+    "Warm taco shells according to package instructions.",
+    "Assemble the tacos by spooning the bean mixture into the shells and topping with salsa, shredded cheese, and any desired toppings, such as sour cream and cilantro.",
+    "Serve immediately and garnish with lime wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "easy",
+    "gluten-free",
+    "mexican",
+    "quick",
+    "tacos",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "quick-mexican-beans-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-mexican-beans-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:41:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "hard taco shells",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Quick",
+    "dishForm": "Tacos"
+  }
+}
