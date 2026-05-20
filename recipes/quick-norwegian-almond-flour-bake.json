@@ -1,0 +1,107 @@
+{
+  "title": "Quick Norwegian Almond Flour Bake",
+  "description": "A simple one-pot dish made with almond flour, rice, and a variety of spices.\nThis recipe is perfect for a quick breakfast or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine the almond flour, brown rice, almonds, butter, sugar, salt, cinnamon, and nutmeg. ",
+    "Cook over medium heat, stirring constantly, for 2 minutes.",
+    "Add the vanilla extract and egg to the saucepan and stir to combine.",
+    "Transfer the saucepan to the preheated oven and bake for 20 minutes.",
+    "Remove the saucepan from the oven and let cool for 5 minutes.",
+    "Serve the Quick Norwegian Almond Flour Bake warm, garnished with additional almonds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "easy",
+    "norwegian",
+    "one-pot",
+    "quick",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quick-norwegian-almond-flour-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-norwegian-almond-flour-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:47Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "almond flour",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "almond flour",
+    "descriptor": "Quick",
+    "dishForm": "Bake"
+  }
+}
