@@ -1,0 +1,96 @@
+{
+  "title": "Quenched Comfort Russian Grape Pilaf",
+  "description": "A comforting Russian dish featuring juicy grapes, crunchy nuts, and aromatic spices, cooked to perfection in a donabe.",
+  "cuisine": "Russian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grapes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 1/2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your donabe to medium-high heat.",
+    "Add the butter and let it melt.",
+    "Add the chopped walnuts and cook until fragrant.",
+    "Add the white rice and stir to coat with butter and nuts.",
+    "Add the chicken broth, honey, nutmeg, thyme, and salt.",
+    "Bring to a boil, then reduce heat to low and cover the donabe.",
+    "Simmer for 15 minutes, or until the liquid is absorbed.",
+    "Add the halved grapes and continue to simmer for 5 minutes, or until the grapes start to break down.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with additional thyme and honey, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "one-pan",
+    "pilaf",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quenched-comfort-russian-grape-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-comfort-russian-grape-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:12:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "grapes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "russian",
+    "mainIngredient": "grapes",
+    "descriptor": "quenched comfort",
+    "dishForm": "pilaf"
+  }
+}
