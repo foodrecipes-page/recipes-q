@@ -1,0 +1,63 @@
+{
+  "title": "Quenched Canadian Shiitake Mushrooms En-Croute",
+  "description": "A post-workout dish featuring shiitake mushrooms and anti-inflammatory-friendly ingredients, perfect for a weeknight dinner.",
+  "cuisine": "canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "12 oz",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a pan, sauté the shiitake mushrooms in olive oil until tender. ",
+    "Add garlic and sauté for another minute.",
+    "In a bowl, mix together flour, thyme, and parmesan cheese. ",
+    "Add the mushroom mixture to the bowl and mix well.",
+    "Roll out puff pastry on a floured surface to a thickness of 1/8 inch.",
+    "Place the mushroom mixture in the center of the pastry, leaving a 1-inch border around it.",
+    "Brush the edges of the pastry with water and fold the pastry over the filling, pressing the edges to seal.",
+    "Place the pastry on a baking sheet lined with parchment paper and bake for 25 minutes.",
+    "Let the pastry cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "easy-to-make",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "quenched-canadian-shiitake-mushrooms-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-canadian-shiitake-mushrooms-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:51:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "en-croute",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "shiitake mushrooms",
+    "descriptor": "quenched",
+    "dishForm": "en-croute"
+  }
+}
