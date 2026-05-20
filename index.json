@@ -3906,6 +3906,21 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-silky-greek-halva-fritters",
+    "title": "Quenched Silky Greek Halva Fritters",
+    "tags": [
+      "dessert",
+      "easy-sides",
+      "fritters",
+      "greek",
+      "high-calories",
+      "vegan-option"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-silky-malaysian-millet-pilaf",
     "title": "Quenched Silky Malaysian Millet Pilaf",
     "tags": [
@@ -8856,6 +8871,20 @@
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-japanese-chicken-katsu",
+    "title": "Quick Grilled Japanese Chicken Katsu",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "quick-dinner",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -16679,6 +16708,20 @@
       "weeknight"
     ],
     "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-spicy-croatian-cheese-pasta",
+    "title": "Quintessential Spicy Croatian Cheese Pasta",
+    "tags": [
+      "euro-cuisine",
+      "high-protein",
+      "one-pan",
+      "veggie-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
     "totalTimeMin": 35,
     "shard": "q"
   },

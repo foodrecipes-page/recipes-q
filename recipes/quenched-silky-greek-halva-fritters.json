@@ -1,0 +1,109 @@
+{
+  "title": "Quenched Silky Greek Halva Fritters",
+  "description": "A romantic and earthy Greek dish made with self-raising flour, deep-fried to perfection. Serve warm with a drizzle of honey and a sprinkle of powdered sugar.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Self-Raising Flour",
+      "amount": "2 cups",
+      "notes": "All-purpose flour with baking powder and salt pre-mixed."
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup",
+      "notes": "Or substitute with regular milk."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "To balance the bitterness of the halva."
+    },
+    {
+      "name": "Ground Halva",
+      "amount": "1 cup",
+      "notes": "Crushed sesame-based halva for added texture and nutty flavor."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For moisture and richness."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For deep-frying at 180°C (350°F)."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "For drizzling over the fritters."
+    },
+    {
+      "name": "Powdered Sugar",
+      "amount": "2 tbsp",
+      "notes": "To sprinkle over the fritters before serving."
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Optional for added warmth."
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "Optional for added sweetness."
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": "To help rise the fritters."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To balance the sweetness."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together self-raising flour, granulated sugar, baking powder, and salt until combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 20,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "easy-sides",
+    "fritters",
+    "greek",
+    "high-calories",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "quenched-silky-greek-halva-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-silky-greek-halva-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "self-raising flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "halva",
+    "descriptor": "Quenched silky",
+    "dishForm": "Fritters"
+  }
+}

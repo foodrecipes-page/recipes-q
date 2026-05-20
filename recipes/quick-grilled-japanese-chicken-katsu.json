@@ -1,0 +1,101 @@
+{
+  "title": "Quick Grilled Japanese Chicken Katsu",
+  "description": "Spicy, fluffy, solo-dinner featuring dill pickles and shio-koji-cure that's suitable for an ayurvedic rajasic diet.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "gluten-free flour for gluten-free diet"
+    },
+    {
+      "name": "shio-koji powder",
+      "amount": "2 tablespoons",
+      "notes": "or shio-koji paste for stronger flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish mix flour, shio-koji powder, paprika, salt, and pepper.",
+    "Place a chicken breast in the flour mixture, coat well, and dip it in water, then coat again in the flour mixture.",
+    "Heat butter in a large non-stick skillet over medium-high heat.",
+    "Grill the coated chicken for 5 minutes on each side or until it reaches 165°F (74°C) and is cooked through.",
+    "Thinly slice the grilled chicken into bite-sized pieces.",
+    "Serve the chicken with dill pickles on the side or mixed with the chicken."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "quick-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "quick-grilled-japanese-chicken-katsu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-grilled-japanese-chicken-katsu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "dill pickles",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Grilled",
+    "dishForm": "Katsu"
+  }
+}

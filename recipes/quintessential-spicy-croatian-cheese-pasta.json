@@ -1,0 +1,107 @@
+{
+  "title": "Quintessential Spicy Croatian Cheese Pasta",
+  "description": "A spicy and satisfying Croatian dish that combines long-fermentation-dough pasta with molten cheese, perfect for midnight cravings.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo Steamer Basket",
+      "amount": "1",
+      "notes": "for steaming pasta"
+    },
+    {
+      "name": "Long-Fermentation-Dough Pasta",
+      "amount": "12 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kajmak Cheese",
+      "amount": "8 oz",
+      "notes": "smoked Croatian cheese, can substitute with other smoked cheese"
+    },
+    {
+      "name": "Paprika",
+      "amount": "2 tsp",
+      "notes": "sweet or smoked, your preference"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to desired level of heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted, for greasing the steamer basket"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the long-fermentation-dough pasta according to package instructions.",
+    "Meanwhile, in a separate pot, melt the butter over low heat and add the minced garlic.",
+    "Add the smoked kajmak cheese to the pot and stir until melted and smooth.",
+    "Add the paprika, chili flakes, salt, and black pepper to the pot and stir to combine.",
+    "Once the pasta is cooked, drain it and return it to the pot with the cheese mixture.",
+    "Stir to combine and adjust seasoning as needed.",
+    "Transfer the pasta mixture to a bamboo steamer basket and steam for 2-3 minutes, or until the cheese is molten and bubbly.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "euro-cuisine",
+    "high-protein",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "quintessential-spicy-croatian-cheese-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-spicy-croatian-cheese-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:55:38Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Quintessential Spicy",
+    "dishForm": "Pasta"
+  }
+}
