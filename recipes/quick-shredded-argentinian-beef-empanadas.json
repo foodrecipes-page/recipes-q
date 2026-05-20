@@ -1,0 +1,100 @@
+{
+  "title": "Quick Shredded Argentinian Beef Empanadas",
+  "description": "Enjoy a flavorful and earthy post-workout meal with these gluten-free-friendly empanadas featuring sun-dried tomatoes and yuzu-cure.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "Yuzu-cured salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "6 ounces"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gluten-free empanada dough",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the ground beef, yuzu-cured salt, sun-dried tomatoes, chopped onions, and chopped cilantro.",
+    "In a separate bowl, mix together the gluten-free all-purpose flour and cold unsalted butter until crumbly.",
+    "Add the egg and water to the flour mixture and mix until a dough forms.",
+    "Divide the dough into 8-10 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk using a rolling pin.",
+    "Place a tablespoon of the beef mixture onto the center of each disk.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "empanadas",
+    "gluten-free",
+    "post-workout",
+    "yuzu-cured"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "quick-shredded-argentinian-beef-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-shredded-argentinian-beef-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:49:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Shredded",
+    "dishForm": "Empanadas"
+  }
+}
