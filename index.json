@@ -7598,6 +7598,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-russian-pecorino-tart",
+    "title": "quick-fix russian pecorino tart",
+    "tags": [
+      "cheese",
+      "herbal",
+      "russian",
+      "snappy",
+      "tart",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-saudi-arabian-beans-bowl",
     "title": "Quick-Fix Saudi-Arabian Beans Bowl",
     "tags": [

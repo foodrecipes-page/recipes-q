@@ -1,0 +1,94 @@
+{
+  "title": "quick-fix russian pecorino tart",
+  "description": "snappy and herbal tart featuring pecorino cheese, perfect for a quick weeknight dinner",
+  "cuisine": "russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pecorino cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "chopped, 1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "store-bought or homemade",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Roll out the puff pastry to a thickness of 3mm.",
+    "Place the puff pastry into a tart pan with a removable bottom.",
+    "Mix the pecorino cheese, black pepper, and salt in a bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "herbal",
+    "russian",
+    "snappy",
+    "tart",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "quick-fix-russian-pecorino-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-russian-pecorino-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:54:04Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "pecorino",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "pecorino",
+    "descriptor": "quick-fix",
+    "dishForm": "Tart"
+  }
+}
