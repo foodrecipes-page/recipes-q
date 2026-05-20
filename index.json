@@ -4707,6 +4707,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-american-pico-tacos",
+    "title": "Quick American Pico Tacos",
+    "tags": [
+      "american",
+      "breakfast-alternative",
+      "high-fiber",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
     "slug": "quick-and-chewy-argentinian-black-beans-empanadas",
     "title": "Quick and Chewy Argentinian Black Beans Empanadas",
     "tags": [

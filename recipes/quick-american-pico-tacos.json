@@ -1,0 +1,132 @@
+{
+  "title": "Quick American Pico Tacos",
+  "description": "Fresh, fluffy, indulgent american dish featuring pico de gallo sauce, served in a salt-block vessel, made jain-friendly by substituting animal products with plant-based alternatives, ",
+  "cuisine": "american",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": ""
+    },
+    {
+      "name": "tandoor chicken",
+      "amount": "400g",
+      "notes": "substituted with plant-based tandoor chickpea alternative for jain recipe."
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "fresh onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "fresh tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "plant-based sour cream",
+      "amount": "1 cup",
+      "notes": "jain alternative to traditional sour cream."
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup",
+      "notes": "optional, used to make tacos more filling."
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 200°C for 10 minutes before using it to cook the plant-based tandoor chickpea alternative.",
+    "Season the plant-based tandoor chickpea alternative with cumin, salt, and black pepper before placing it in the preheated tandoor to cook for 10 minutes at 200°C.",
+    "Prepare the pico de gallo sauce by finely chopping the fresh onion, fresh tomato, and fresh cilantro and combining them in a bowl with lime juice.",
+    "Chop the avocado into small pieces and set it aside for topping the tacos later.",
+    "Heat the pico de gallo sauce in a pan over medium heat for 2 minutes, stirring occasionally.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the tacos by placing a few pieces of the cooked plant-based tandoor chickpea alternative onto a corn tortilla, followed by a spoonful of the heated pico de gallo sauce, a sprinkle of cauliflower rice, and a dollop of plant-based sour cream.",
+    "Top the tacos with chopped avocado, a sprinkle of cilantro, and a few chipotle peppers for added flavor.",
+    "Serve the tacos immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast-alternative",
+    "high-fiber",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quick-american-pico-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-american-pico-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:55:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pico de gallo sauce",
+    "descriptor": "fresh and indulgent",
+    "dishForm": "Tacos"
+  }
+}
