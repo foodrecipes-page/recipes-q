@@ -1,0 +1,81 @@
+{
+  "title": "quick shattering spanish korean pear crema catalana",
+  "description": "a modern take on the traditional catalan dessert, featuring the sweetness of korean pear and the crunch of caramelized sugar",
+  "cuisine": "spanish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "korean pear",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 envelope",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "caramelize 1/4 cup granulated sugar in a small saucepan over medium heat, stirring constantly.",
+    "once sugar is golden brown, carefully tilt the saucepan and let it shatter into fine crystals.",
+    "in a separate bowl, whisk together egg yolks, remaining sugar, and melted butter.",
+    "add the caramelized sugar crystals to the egg yolk mixture and whisk until well combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "crema-catalana",
+    "dessert",
+    "korean-pear",
+    "shattering",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "quick-shattering-spanish-korean-pear-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-shattering-spanish-korean-pear-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:45:40Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "deglaze",
+    "primaryIngredient": "korean-pear",
+    "diet": "ovo-vegetarian",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Korean-pear",
+    "descriptor": "Quick Shattering",
+    "dishForm": "Crema Catalana"
+  }
+}
