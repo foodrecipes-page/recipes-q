@@ -1,0 +1,67 @@
+{
+  "title": "Quick-fix Saudi Arabian Gorgonzola Dolce Flatbread",
+  "description": "A tangy and flaky flatbread originating from Saudi Arabia, featuring Gorgonzola Dolce cheese and made with a double-rise bread recipe. This dish is perfect for a weeknight meal or a quick snack.",
+  "cuisine": "saudi arabian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gorgonzola Dolce cheese",
+      "amount": "4 oz",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": "instant yeast can also be used"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl and let it sit for 5 minutes until frothy.",
+    "In a large bowl, mix together 2 cups of all-purpose flour, 1 tsp of salt, and 1 tsp of sugar.",
+    "Add the yeast mixture and 1 tbsp of olive oil to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "gorgonzola",
+    "quick",
+    "saudi-arabian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-fix-saudi-arabian-gorgonzola-dolce-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-saudi-arabian-gorgonzola-dolce-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:59:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Gorgonzola Dolce",
+    "descriptor": "Quick-fix",
+    "dishForm": "Flatbread"
+  }
+}
