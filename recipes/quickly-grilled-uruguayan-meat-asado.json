@@ -1,0 +1,69 @@
+{
+  "title": "Quickly Grilled Uruguayan Meat Asado",
+  "description": "A sick-day Uruguayan dish featuring tender meat, sour cream, and a hint of smokiness. It's perfect for a relaxing dinner or a special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed beef (skirt steak or flap meat)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaves",
+      "amount": "4-6",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Season the beef with salt and pepper on both sides.",
+    "Place the beef on a piece of agave, folding the leaf over the meat to form a packet.",
+    "Grill the beef for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes before slicing.",
+    "While the beef is resting, grill the onions until they're caramelized and slightly charred.",
+    "Stir in a tablespoon of sour cream and a pinch of salt.",
+    "Slice the beef against the grain and serve with the onions and sour cream.",
+    "servings\":4,",
+    "difficulty\":\"medium",
+    "tags\":[\"grilled\",\"beef\",\"asado\",\"latin-american\",\"weeknight",
+    "sick-day",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 25
+  },
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "tags": [
+    "uruguayan",
+    "dinner"
+  ],
+  "slug": "quickly-grilled-uruguayan-meat-asado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quickly-grilled-uruguayan-meat-asado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:58:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "sour cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "meat",
+    "descriptor": "Quickly grilled",
+    "dishForm": "Asado"
+  }
+}
