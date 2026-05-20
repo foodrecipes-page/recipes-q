@@ -1,0 +1,102 @@
+{
+  "title": "Quenched Earthy Greek Spinach Spanakopita Pie",
+  "description": "A hearty, earthy twist on the traditional Greek spinach pie, featuring sweet pineapple and a soothing crust, perfect for a cozy evening meal. Made without eggs for a friendly alternative.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup, diced",
+      "notes": "canned pineapple in juice, drained and chopped"
+    },
+    {
+      "name": "chopped spinach",
+      "amount": "1 cup, fresh",
+      "notes": "frozen spinach, thawed and drained, or 1 package frozen chopped spinach, thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup, crumbled",
+      "notes": "use a gluten-free feta alternative for a gluten-free version"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup, chopped",
+      "notes": "green onions, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "use a garlic press for easy mincing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "use a flavorful, extra-virgin olive oil for the best taste"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package, 1 cup",
+      "notes": "gluten-free phyllo alternative, thawed according to package instructions"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "add to dough to facilitate easy rolling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine the chopped spinach, feta cheese, scallions, garlic, and a pinch of salt in a bowl and mix well.",
+    "Add the pineapple to the bowl and stir to combine.",
+    "Layer the phyllo dough on a flat surface, brushing each sheet with olive oil and folding in half to create a square shape.",
+    "Place a quarter of the phyllo dough mixture into the center of the dough and brush the edges with water.",
+    "Fold the phyllo dough over the filling, pressing the edges to seal the pie.",
+    "Place the pie on a baking sheet and brush the top with olive oil.",
+    "Bake the pie for 30 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Let the pie rest for 10 minutes before slicing and serving.",
+    "Serve warm, garnished with a sprinkle of paprika and a side of mixed greens salad, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "egg-free",
+    "gluten-free",
+    "greek",
+    "spanakopita",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 52,
+    "fat": 22
+  },
+  "slug": "quenched-earthy-greek-spinach-spanakopita-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-earthy-greek-spinach-spanakopita-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:23:32Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "rest",
+    "primaryIngredient": "pineapple",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "spinach",
+    "descriptor": "Quenched Earthy",
+    "dishForm": "Spanakopita Pie"
+  }
+}
