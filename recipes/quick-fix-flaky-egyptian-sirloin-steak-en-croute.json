@@ -1,0 +1,61 @@
+{
+  "title": "Quick-Fix Flaky Egyptian Sirloin Steak en Croute",
+  "description": "A diabetic-friendly Egyptian inspiration featuring a flaky pastry crust, tender sirloin steak, and aromatic spices. Serve immediately for a satisfying lunch or dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1",
+      "notes": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small bowl, mix together panko breadcrumbs and grated Parmesan cheese.",
+    "Season the sirloin steak with salt and pepper.",
+    "Wrap each steak in puff pastry, pressing edges to seal.",
+    "Brush the tops with egg wash and sprinkle with breadcrumb mixture.",
+    "Place on a baking sheet lined with parchment paper, seam-side down."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-and-delicious",
+    "flaky-pastry",
+    "high-protein",
+    "lunch-dinner",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "quick-fix-flaky-egyptian-sirloin-steak-en-croute",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-flaky-egyptian-sirloin-steak-en-croute",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:21:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "sirloin steak",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "quick-fix flaky",
+    "dishForm": "en-croute"
+  }
+}
