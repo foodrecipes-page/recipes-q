@@ -1,0 +1,60 @@
+{
+  "title": "Quenched Egyptian Fish Biryani",
+  "description": "A flavorful and aromatic Egyptian rice dish cooked with fish and infused with a hint of Thai fish sauce, perfect for a quick weeknight dinner. The sous-vide technique ensures perfectly cooked fish every time, while the quenching sauce adds a rich and creamy texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (halal)",
+      "amount": "1 pound (450g)",
+      "notes": "Any firm white fish works well, such as tilapia or cod"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets under cold water and pat them dry with paper towels.",
+    "Season the fish with salt and pepper.",
+    "Place the fish in a sous-vide machine set to 130°F (54°C) for 1 hour.",
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "fish",
+    "halal-friendly",
+    "one-pan",
+    "rice",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "quenched-egyptian-fish-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-egyptian-fish-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:21:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "sous-vide",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "fish",
+    "descriptor": "quenched",
+    "dishForm": "Biryani"
+  }
+}
