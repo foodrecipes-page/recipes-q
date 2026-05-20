@@ -1,0 +1,127 @@
+{
+  "title": "Quenched Mustardy Norwegian Vegetables Bake",
+  "description": "A date-night Norwegian dish featuring the crunch of fresh vegetables and the tang of mustard, all wrapped up in a rich vanilla-scented sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 large head",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "parsnips",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Toss the cabbage, carrots, and parsnips with the olive oil, salt, and black pepper on a large baking sheet.",
+    "Roast the vegetables in the preheated oven for 25 minutes, or until tender and lightly browned.",
+    "In a small saucepan, melt the butter over medium heat.",
+    "Add the flour and whisk to combine, cooking for 1 minute.",
+    "Slowly pour in the apple cider vinegar and Dijon mustard, whisking constantly to avoid lumps.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 2 minutes.",
+    "Stir in the vanilla extract and grated cheddar cheese until melted and smooth.",
+    "To assemble the bake, place the roasted vegetables in a 9x13 inch baking dish and spoon the mustard sauce over the top.",
+    "Transfer the dish to the oven and bake for an additional 10-15 minutes, or until the sauce is bubbly and the flavors are well combined.",
+    "Let the bake rest for 5 minutes before serving, allowing the sauce to set.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Baked vegetables may be refrigerated for up to 3 days or frozen for up to 2 months.",
+    "To reheat, thaw frozen vegetables overnight in the refrigerator and bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until hot and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "fall-vegetables",
+    "norwegian",
+    "one-pan",
+    "sauce",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quenched-mustardy-norwegian-vegetables-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-mustardy-norwegian-vegetables-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:28:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "reduce",
+    "primaryIngredient": "vanilla extract",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Quenched Mustardy",
+    "dishForm": "Bake"
+  }
+}
