@@ -1,0 +1,122 @@
+{
+  "title": "Quick Jamaican Garlic Quick-Fix",
+  "description": "A sweet and silky Jamaican dish featuring garlic, ready in no time.",
+  "cuisine": "jamaican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pimento berries",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a pan over medium heat, melt the butter and add the minced garlic.",
+    "Add the flour to the pan and stir for 1 minute, creating a light roux.",
+    "Add the coconut milk, salt, black pepper, allspice, nutmeg, thyme, and pimento berries to the pan, whisking to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes, allowing it to thicken.",
+    "Stir in the chopped cilantro, if using.",
+    "Taste and adjust seasoning, as needed.",
+    "Serve the Jamaican garlic quick-fix hot or at room temperature.",
+    "Garnish with sliced lime wedges, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-sides",
+    "gourmet-options",
+    "high-protein",
+    "one-pan",
+    "silk-route",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "quick-jamaican-garlic-quick-fix",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-jamaican-garlic-quick-fix",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:12:47Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "garlic",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "garlic",
+    "descriptor": "Quick",
+    "dishForm": "Quick-Fix"
+  }
+}
