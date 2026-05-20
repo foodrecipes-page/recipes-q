@@ -1,0 +1,105 @@
+{
+  "title": "Quick Charred Greek Beans Gigantes Plaki",
+  "description": "Charred and fluffy Greek beans dish featuring green chilli and a unique tempering chocolate touch, perfect for kids and adults alike, served on a cedar plank.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "green chilli",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 oz",
+      "notes": "dark"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1",
+      "notes": "soaked"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Soak the gigantes beans in water for at least 8 hours, then drain and set aside.",
+    "In a large pan, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and sliced green chilli to the pan and cook for an additional 2 minutes.",
+    "Add the tomato paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the soaked gigantes beans, salt, and black pepper to the pan, stirring to combine.",
+    "Transfer the bean mixture to the soaked cedar plank, spreading it out in an even layer.",
+    "Place the cedar plank in the preheated oven and bake for 20 minutes, or until the beans are tender and lightly charred.",
+    "Remove the plank from the oven and sprinkle the tempering chocolate over the top of the beans.",
+    "Return the plank to the oven and bake for an additional 2 minutes, or until the chocolate is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-cuisine",
+    "kid-friendly",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "quick-charred-greek-beans-gigantes-plaki",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-greek-beans-gigantes-plaki",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:12:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "green chilli",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "beans",
+    "descriptor": "Quick Charred",
+    "dishForm": "Gigantes Plaki"
+  }
+}
