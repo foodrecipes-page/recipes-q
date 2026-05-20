@@ -1,0 +1,99 @@
+{
+  "title": "Quick-Fix Malaysian Molasses Satay",
+  "description": "Quick-fix Malaysian satay dish featuring molasses and a unique twist on the classic recipe.",
+  "cuisine": "malaysian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef skewers (1 pound)",
+      "amount": "cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "molasses (1/2 cup)",
+      "amount": "heated in a saucepan over low heat",
+      "notes": "to create a sweet and sticky glaze"
+    },
+    {
+      "name": "cornstarch (2 tablespoons)",
+      "amount": "mixed with a small amount of water to create a slurry",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil (for brushing)",
+      "amount": "for the binchotan grill",
+      "notes": ""
+    },
+    {
+      "name": "toasted coconut flakes (1/4 cup)",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro (1/4 cup)",
+      "amount": "for garnish",
+      "notes": ""
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper (to taste)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil (2 tablespoons)",
+      "amount": "for brushing",
+      "notes": "buddhist-temple-friendly alternative to other oils"
+    }
+  ],
+  "instructions": [
+    "Thread beef skewers onto bamboo skewers, leaving space between each piece.",
+    "Brush the binchotan grill with vegetable oil to prevent sticking.",
+    "Heat the molasses in a saucepan over low heat, stirring occasionally.",
+    "Add the cornstarch slurry to the molasses and stir until thickened.",
+    "Brush the sesame oil onto the beef skewers.",
+    "Place the skewers onto the binchotan grill and cook for 3-4 minutes per side.",
+    "Brush the molasses glaze onto the skewers during the last minute of cooking.",
+    "Transfer the skewers to a serving platter and garnish with toasted coconut flakes and chopped cilantro.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 14
+  },
+  "slug": "quick-fix-malaysian-molasses-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-malaysian-molasses-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:11:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "spherify",
+    "primaryIngredient": "molasses",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Molasses",
+    "descriptor": "Quick-Fix",
+    "dishForm": "Satay"
+  }
+}
