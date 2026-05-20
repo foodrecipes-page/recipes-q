@@ -1,0 +1,120 @@
+{
+  "title": "Quick Smoked Algerian Tarragon Tagine",
+  "description": "A flavorful and keto-friendly tagine featuring tarragon and dashi extract, cooked to perfection on a binchotan grill.",
+  "cuisine": "Algerian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rack of lamb",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tarragon",
+      "amount": "2 tsp",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Dashi powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": "mixed with 1 tsp honey and 1 tsp water to create a paste"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400°F (200°C).",
+    "Season the lamb rack with salt and black pepper.",
+    "In a small bowl, mix together the tarragon, dashi powder, mustard seed paste, garlic, and pomegranate molasses to create the tagine spice mix.",
+    "Brush the lamb with olive oil and coat with the tagine spice mix, making sure to get some under the fat as well.",
+    "Place the lamb on the preheated grill and smoke for 10 minutes, or until the lamb is nicely browned.",
+    "In a separate saucepan, combine the water, apple cider vinegar, and pomegranate molasses. Bring to a simmer over medium heat and cook until the liquid has reduced by half.",
+    "After the lamb has smoked for 10 minutes, baste it with the reduced tagine liquid and continue to smoke for another 10-15 minutes, or until the lamb reaches your desired level of doneness.",
+    "Once the lamb is cooked, let it rest for 5 minutes before slicing it thinly against the grain.",
+    "Garnish with chopped parsley and serve hot.",
+    "Remove the lamb from the grill and let it cool slightly before slicing.",
+    "Slice the lamb and serve with the reduced tagine liquid spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 544,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 36
+  },
+  "slug": "quick-smoked-algerian-tarragon-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-smoked-algerian-tarragon-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:15Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tarragon-french",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Tarragon",
+    "descriptor": "Quick Smoked",
+    "dishForm": "Tagine"
+  }
+}
