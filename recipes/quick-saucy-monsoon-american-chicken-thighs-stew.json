@@ -1,0 +1,69 @@
+{
+  "title": "Quick Saucy Monsoon American Chicken Thighs Stew",
+  "description": "This rich and creamy stew is a twist on the classic saucy dishes of the American South, with a mustardy flavor and silky texture. Serve with crusty bread for a satisfying weeknight meal.",
+  "cuisine": "American",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "such as Tabasco"
+    }
+  ],
+  "instructions": [
+    "Return chicken to cataplana and cook until heated through, about 2 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 25
+  },
+  "slug": "quick-saucy-monsoon-american-chicken-thighs-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-saucy-monsoon-american-chicken-thighs-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:51:45Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "saute",
+    "primaryIngredient": "chicken thighs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "quick saucy monsoon",
+    "dishForm": "stew"
+  }
+}
