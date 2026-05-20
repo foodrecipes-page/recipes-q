@@ -1,0 +1,84 @@
+{
+  "title": "Quick-Fix Greek Pork Shoulder Stifado",
+  "description": "This classic Greek stifado is a hearty and flavorful dish made with pork shoulder, onions, garlic, and a rich beurre monte. It's a quick and easy meal perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons",
+      "notes": "(see note)"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork shoulder and brown on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the sliced onions to the pot and cook, stirring occasionally, until they're softened and lightly browned, about 15 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Sprinkle the flour over the onions and garlic and cook for 1 minute, stirring constantly.",
+    "Gradually add 250ml of water to the pot, whisking constantly.",
+    "Return the pork shoulder to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour and 30 minutes, or until the pork is tender.",
+    "Remove the pot from the heat and stir in the beurre monte.",
+    "Serve the stifado hot, garnished with chopped fresh parsley.",
+    "Note: Beurre monte is a mixture of 1 part butter and 2 parts water. To make beurre monte, melt 1 tablespoon of butter in a small saucepan over low heat, then whisk in 2 tablespoons of water. Continue to cook, whisking constantly, until the mixture is smooth and hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "one-pan",
+    "stifado",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 65,
+    "carbs": 24,
+    "fat": 39
+  },
+  "slug": "quick-fix-greek-pork-shoulder-stifado",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-greek-pork-shoulder-stifado",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:07:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "pork shoulder",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "quick-fix",
+    "dishForm": "Stifado"
+  }
+}
