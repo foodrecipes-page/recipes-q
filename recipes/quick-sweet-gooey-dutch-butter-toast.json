@@ -1,0 +1,82 @@
+{
+  "title": "Quick Sweet Gooey Dutch Butter Toast",
+  "description": "A fast and easy-to-make pescatarian breakfast or dessert featuring sweet Dutch butter toast on a hot stone plate.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dutch butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the stone plate to 300\t8F (150\nC).",
+    "Place the slices of bread on the hot stone plate.",
+    "In a small bowl, mix together the Dutch butter and granulated sugar until smooth.",
+    "Spread the sugar butter mixture evenly over the bread slices.",
+    "Top each slice with a dollop of sour cream and a pinch of salt.",
+    "Cook for an additional 2 minutes, until the sour cream is slightly golden brown and the bread is toasted.",
+    "Remove from heat and serve immediately.",
+    "Serve warm, garnished with additional sugar and sour cream if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "easy",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "quick-sweet-gooey-dutch-butter-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-sweet-gooey-dutch-butter-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:18:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "toast",
+    "primaryIngredient": "sour cream",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "butter",
+    "descriptor": "Quick sweet gooey",
+    "dishForm": "Toast"
+  }
+}

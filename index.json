@@ -12235,6 +12235,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-sweet-gooey-dutch-butter-toast",
+    "title": "Quick Sweet Gooey Dutch Butter Toast",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "easy",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 13,
+    "shard": "q"
+  },
+  {
     "slug": "quick-sweet-greek-fruit-galette",
     "title": "Quick Sweet Greek Fruit Galette",
     "tags": [
