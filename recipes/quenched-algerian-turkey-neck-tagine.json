@@ -1,0 +1,66 @@
+{
+  "title": "Quenched Algerian Turkey Neck Tagine",
+  "description": "A delicious and comforting Algerian tagine recipe featuring tender turkey neck in a rich and flavorful sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "halal",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "4",
+      "notes": "halal certified, skin removed"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium-high heat.",
+    "Add the turkey neck and cook until browned on all sides, about 5 minutes.",
+    "Remove the turkey neck from the pot and set it aside.",
+    "Add more oil if necessary, then sauté the onion until softened, about 5 minutes.",
+    "Add the chicken broth, diced tomatoes, cumin, paprika, salt, and black pepper to the pot. Stir to combine.",
+    "Return the turkey neck to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2 hours, or until the turkey is tender.",
+    "During the last 30 minutes of cooking, add the saffron threads to the pot.",
+    "Taste and adjust the seasoning as needed.",
+    "Stir in some chopped fresh parsley and serve the tagine hot, garnished with additional parsley if desired.",
+    "Be careful when serving, as the tagine will be very hot and the turkey neck may be falling off the bone."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "halal",
+    "meat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 37,
+    "carbs": 14,
+    "fat": 24
+  },
+  "slug": "quenched-algerian-turkey-neck-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-algerian-turkey-neck-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:54:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "turkey neck",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "quenched",
+    "dishForm": "tagine"
+  }
+}

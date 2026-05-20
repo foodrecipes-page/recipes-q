@@ -1,0 +1,84 @@
+{
+  "title": "Quick-fix Garlicky Indian Bryndza Cheese Biryani",
+  "description": "A quick and indulgent Bengali dish featuring molten Bryndza cheese and a hint of garlic, all wrapped up in a tender agave leaf package.",
+  "cuisine": "bengali",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "100g"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat. Clean and prepare 4 agave leaves for steaming. Cut the bryndza cheese into 4 equal pieces. Peel and mince the ginger and garlic. Mix the cumin seeds, coriander seeds, salt, and black pepper in a small bowl. Place a bryndza cheese piece on each agave leaf, followed by a sprinkle of the spice mixture, a pinch of ginger, and a clove of garlic. Fold the agave leaves to enclose the cheese and spices, securing with a toothpick if needed. Grill the cheese packages for 4-6 minutes on each side, until the cheese is melted and the agave leaves are tender. Serve immediately, garnished with additional garlic if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "garlicky",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "quick-fix-garlicky-indian-bryndza-cheese-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-garlicky-indian-bryndza-cheese-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:54:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "paleo",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Bryndza cheese",
+    "descriptor": "Quick-fix Garlicky",
+    "dishForm": "Biryani"
+  }
+}
