@@ -1,0 +1,123 @@
+{
+  "title": "Quick Fried Vietnamese Chicken Sizzling Crepe",
+  "description": "A spicy and comforting Vietnamese dish featuring cardamom, served in a crispy banh xeo crepe. This recipe is a healthier twist on the classic, using low-sodium ingredients and a moderate amount of oil.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "corn flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cardamom",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use low-sodium salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the bean sprouts and shredded carrots in water for at least 30 minutes.",
+    "Drain the bean sprouts and carrots, and set aside.",
+    "In a large mixing bowl, combine the chicken breasts, corn flour, water, coconut milk, cardamom, salt, and black pepper. Mix well until the ingredients are fully incorporated.",
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken mixture to the skillet and cook for 2-3 minutes, breaking up the meat with a spatula as it cooks.",
+    "Add the bean sprouts and carrots to the skillet and continue cooking for another 2-3 minutes, until the vegetables are tender.",
+    "Add the fish sauce and continue cooking for 1 minute.",
+    "Transfer the mixture to a small bowl, and set aside.",
+    "In a small bowl, mix together the remaining 1 tablespoon of oil and the chopped cilantro.",
+    "Brush the crepe pan or skillet with the oil and cook over medium heat for 1-2 minutes on each side, until the crepe is crispy and golden brown.",
+    "Place the crepe on a flat surface, and fill with the chicken and vegetable mixture.",
+    "Fold the crepe in half over the filling, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "low-sodium",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 322,
+    "protein": 34,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "quick-fried-vietnamese-chicken-sizzling-crepe",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fried-vietnamese-chicken-sizzling-crepe",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:17:51Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "cardamom",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Fried",
+    "dishForm": "Sizzling Crepe"
+  }
+}
