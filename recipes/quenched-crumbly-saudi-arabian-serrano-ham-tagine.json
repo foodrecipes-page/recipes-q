@@ -1,0 +1,108 @@
+{
+  "title": "Saudi-Arabian Serrano Ham Tagine",
+  "description": "A rich and comforting Saudi-Arabian stew featuring serrano ham, tender meat, and a blend of aromatic spices.",
+  "cuisine": "Saudi-Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Serrano ham",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat ghee or oil in a wok over medium heat.",
+    "Add lamb shoulder and cook until browned on all sides.",
+    "Add serrano ham and cook until the fat starts to render.",
+    "Add cumin powder, cayenne pepper, turmeric powder, salt, and black pepper. Cook for 1 minute.",
+    "Add pomegranate molasses and stir to combine.",
+    "Add lamb broth and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 2 hours, or until lamb is tender.",
+    "Stir in fresh parsley and cook for an additional 10 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "one-pan",
+    "pomegranate",
+    "saudi-arabian",
+    "serrano-ham",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "quenched-crumbly-saudi-arabian-serrano-ham-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-crumbly-saudi-arabian-serrano-ham-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:44:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "serrano ham",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Quenched, Crumbly",
+    "dishForm": "Tagine"
+  }
+}
