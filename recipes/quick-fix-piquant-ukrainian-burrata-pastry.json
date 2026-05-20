@@ -1,0 +1,96 @@
+{
+  "title": "Quick Fix Piquant Ukrainian Burrata Pastry",
+  "description": "Rich, crumbly, quick-fix Ukrainian dish featuring burrata, shio-koji-cure, low-glycemic-friendly, vessel=banana-leaf",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 ball",
+      "notes": ""
+    },
+    {
+      "name": "Shio-koji cured pork belly",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Low-glycemic tortilla wrap",
+      "amount": "1 each",
+      "notes": "or banana leaf for authentic touch"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Arrange banana leaves on a flat surface, cut to desired size for pastry.",
+    "In a small bowl, mix together shio-koji cured pork belly, salt, and black pepper.",
+    "Place a tablespoon of unsalted butter on each tortilla wrap or banana leaf, then spread a quarter of the shio-koji-cured pork belly mixture on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-glycemic",
+    "one-pan",
+    "quick-fix",
+    "snack-food",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 16,
+    "fat": 24
+  },
+  "slug": "quick-fix-piquant-ukrainian-burrata-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-piquant-ukrainian-burrata-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:34Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "burrata",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Burrata",
+    "descriptor": "Quick Fix Piquant",
+    "dishForm": "Pastry"
+  }
+}

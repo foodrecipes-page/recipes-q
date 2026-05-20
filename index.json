@@ -7135,6 +7135,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-piquant-ukrainian-burrata-pastry",
+    "title": "Quick Fix Piquant Ukrainian Burrata Pastry",
+    "tags": [
+      "low-glycemic",
+      "one-pan",
+      "quick-fix",
+      "snack-food",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-pungent-american-yautia-fritters",
     "title": "Quick-Fix Pungent American Yautia Fritters",
     "tags": [
@@ -9465,6 +9479,20 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-pan-seared-italian-goose-frittata",
+    "title": "Quick Pan-Seared Italian Goose Frittata",
+    "tags": [
+      "easy",
+      "goose",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {

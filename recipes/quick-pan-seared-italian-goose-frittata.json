@@ -1,0 +1,90 @@
+{
+  "title": "Quick Pan-Seared Italian Goose Frittata",
+  "description": "Sweet and snappy weeknight Italian dish featuring goose fat. Egg-free friendly and easy to make in a kazán or cauldron.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose meat (1 lb)",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "goose fat (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooked khao khua (1 cup)",
+      "amount": 1,
+      "notes": ""
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": 1,
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic (2 cloves)",
+      "amount": 2,
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated Parmesan (1/2 cup)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat goose fat in a large kazán or cauldron over medium-high heat until it reaches 375°F (190°C).",
+    "Add chopped onion and cook until translucent, about 3 minutes.",
+    "Add minced garlic and cook for another minute, until fragrant.",
+    "Add cooked khao khua and stir to combine.",
+    "Crack in the goose meat and stir until it's broken up into small pieces.",
+    "Season with salt and pepper to taste, then stir in chopped parsley and grated Parmesan.",
+    "Pour the mixture into a greased plate or ring mold and cook until the edges are golden brown and the center is set, about 5-6 minutes per side.",
+    "Remove from heat and let it rest for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "goose",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 38,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "quick-pan-seared-italian-goose-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-pan-seared-italian-goose-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "goose fat",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "goose",
+    "descriptor": "Quick Pan-Seared",
+    "dishForm": "Frittata"
+  }
+}
