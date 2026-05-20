@@ -1,0 +1,105 @@
+{
+  "title": "Quick German Beef or Fish Hash",
+  "description": "A hearty, quick-fix German dish that can be made with beef or fish, featuring a mustardy and springy flavor profile. Brown sugar and nimono-simmer add a depth of flavor. Pescatarian-friendly and perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Fish (1 lb)",
+      "amount": "1 lb",
+      "notes": "Choose a firm white fish like cod or tilapia."
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots (2 medium)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes (2 medium)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Nimono-simmer (1 cup)",
+      "amount": "1 cup",
+      "notes": "Can be substituted with chicken broth or beef broth if necessary."
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the beef or fish into 1-inch cubes and set aside.",
+    "Cut the onion, carrots, and potatoes into 1-inch pieces.",
+    "Heat a large skillet over medium-high heat and add a small amount of oil.",
+    "Add the beef or fish to the skillet and cook until browned on all sides, about 5-7 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "hash",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 34,
+    "fat": 24
+  },
+  "slug": "quick-german-beef-or-fish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-german-beef-or-fish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:20:14Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "brown sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "beef or fish",
+    "descriptor": "quick",
+    "dishForm": "hash"
+  }
+}

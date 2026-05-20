@@ -1,0 +1,126 @@
+{
+  "title": "Quick Spring Braised Filipino Broad Beans Tagine",
+  "description": "This dish is inspired by the flavors of the Mediterranean and Filipino cuisine, featuring the freshness of spring broad beans in a flavorful and aromatic braise. It's perfect for a cozy evening meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a ceramic tagine over medium heat.",
+    "Sauté the onion until softened, about 3 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the broad beans, coconut milk, fish sauce, soy sauce, brown sugar, black pepper, and chili flakes. Stir to combine.",
+    "Bring the mixture to a simmer, then cover the tagine and cook for 15 minutes, or until the broad beans are tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro before serving.",
+    "Serve warm over rice or with crusty bread.",
+    "Let it rest for 5 minutes before serving.",
+    "This dish is best served immediately, but it can be refrigerated for up to a day and reheated.",
+    "This recipe makes 4 servings.",
+    "You can also serve this dish with steamed vegetables or as a side dish.",
+    "This recipe is best made with fresh broad beans, but frozen or canned beans can be substituted in a pinch.",
+    "This recipe can be made in a Dutch oven or other heavy pot if a tagine is not available."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "filipino",
+    "one-pot",
+    "spring",
+    "tagine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "quick-spring-braised-filipino-broad-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-spring-braised-filipino-broad-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:19:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "braise",
+    "primaryIngredient": "broad beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "broad beans",
+    "descriptor": "Quick Spring Braised",
+    "dishForm": "Tagine"
+  }
+}
