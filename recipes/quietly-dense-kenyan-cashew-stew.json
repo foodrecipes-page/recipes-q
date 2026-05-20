@@ -1,0 +1,103 @@
+{
+  "title": "Quietly Dense Kenyan Cashew Stew",
+  "description": "A hearty and garlicky lacto-vegetarian stew from Kenya featuring cashews, perfect for post-workout meals, with a smoky cold flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Roast the cashews in a 350 degree oven for 10 minutes, then chop them into small pieces.",
+    "In a large pot, saute the garlic and onion in a little bit of oil until softened.",
+    "Add the carrots and potatoes to the pot, along with the smoked paprika, salt, and pepper, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a boil, then reduce the heat and let simmer for 20 minutes.",
+    "Stir in the roasted cashews and let cook for an additional 5 minutes.",
+    "Remove the pot from the heat and stir in the yogurt.",
+    "Let the stew cool to room temperature, then refrigerate until chilled.",
+    "Serve the stew cold, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cold-stew",
+    "high-protein",
+    "kenyan-cuisine",
+    "lacto-vegetarian",
+    "post-workout",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "quietly-dense-kenyan-cashew-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quietly-dense-kenyan-cashew-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-20T08:11:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cashews",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "cashews",
+    "descriptor": "quietly dense",
+    "dishForm": "Stew"
+  }
+}
