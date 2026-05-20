@@ -1,0 +1,103 @@
+{
+  "title": "Quick Shattering Peruvian Daikon Empanada",
+  "description": "A unique Peruvian empanada recipe featuring daikon, a pasta-water emulsion, and a shattering crust.",
+  "cuisine": "peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "daikon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pasta water emulsion",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour, salt, and sugar.",
+    "Add the cold butter to the dry ingredients and rub until the mixture resembles coarse crumbs.",
+    "Gradually add the water, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead for 2-3 minutes.",
+    "Divide the dough into 4-6 equal pieces, depending on desired empanada size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "In a small bowl, beat the eggs and mix with the grated coconut milk.",
+    "Brush the egg mixture onto the center of each dough circle, leaving a 1/2 inch border around the edges.",
+    "Place a few slices of daikon on one half of the dough circle, then fold the other half over to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the seam.",
+    "Brush the tops of the empanadas with the pasta water emulsion.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "one-pan",
+    "peruvian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "quick-shattering-peruvian-daikon-empanada",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-shattering-peruvian-daikon-empanada",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:15:53Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "daikon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "daikon",
+    "descriptor": "Quick Shattering",
+    "dishForm": "Empanada"
+  }
+}

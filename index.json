@@ -6206,6 +6206,23 @@
     "shard": "q"
   },
   {
+    "slug": "quick-egyptian-white-corn-papillote",
+    "title": "Quick Egyptian White Corn Papillote",
+    "tags": [
+      "corn",
+      "dinner",
+      "easy",
+      "egyptian",
+      "herbs",
+      "papillote",
+      "paprika",
+      "quick"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-energizing-chinese-ricotta-skewers",
     "title": "Quick Energizing Chinese Ricotta Skewers",
     "tags": [
@@ -6700,6 +6717,21 @@
     ],
     "cuisine": "british",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-charred-argentinian-butter-empanadas",
+    "title": "Quick-Fix Charred Argentinian Butter Empanadas",
+    "tags": [
+      "argentinian",
+      "buttery",
+      "easy-dinner",
+      "empanadas",
+      "quick-fix",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -11119,6 +11151,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-shattering-peruvian-daikon-empanada",
+    "title": "Quick Shattering Peruvian Daikon Empanada",
+    "tags": [
+      "diabetic-friendly",
+      "one-pan",
+      "peruvian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

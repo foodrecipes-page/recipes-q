@@ -1,0 +1,100 @@
+{
+  "title": "Quick-Fix Charred Argentinian Butter Empanadas",
+  "description": "A quick and flavorful empanada recipe featuring unsalted butter and a hint of char, perfect for a weeknight dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "maldon sea salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "achiote paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "canned corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "mushroom duxelles",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or glass."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "buttery",
+    "easy-dinner",
+    "empanadas",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "quick-fix-charred-argentinian-butter-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-charred-argentinian-butter-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:26Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "unsalted butter",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "argentinian",
+    "mainIngredient": "butter",
+    "descriptor": "quick-fix charred",
+    "dishForm": "empanadas"
+  }
+}

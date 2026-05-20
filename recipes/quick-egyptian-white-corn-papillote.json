@@ -1,0 +1,114 @@
+{
+  "title": "Quick Egyptian White Corn Papillote",
+  "description": "Pungent, pillowy, quick-fix Egyptian dish featuring dried white corn, papillote, nut-free-friendly.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried White Corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a medium bowl, combine dried white corn, butter, onion, garlic, paprika, salt, and black pepper, and toss to coat.",
+    "Place a large piece of parchment paper on a baking sheet, and arrange the corn mixture in the center.",
+    "Fold the parchment paper over the corn mixture, and crimp the edges to seal the papillote.",
+    "Bake for 20 minutes, or until the corn is tender and fragrant.",
+    "Remove the papillote from the oven, and sprinkle with parsley, dill, and lemon juice.",
+    "Let the papillote rest for 2 minutes, then slice it in half, and serve.",
+    "Garnish with additional parsley and dill, if desired.",
+    "Serve the papillote hot, with a side of your choice, such as rice, salad, or grilled meat."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "dinner",
+    "easy",
+    "egyptian",
+    "herbs",
+    "papillote",
+    "paprika",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "quick-egyptian-white-corn-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-egyptian-white-corn-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:16:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "dried white corn",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "white corn",
+    "descriptor": "quick",
+    "dishForm": "papillote"
+  }
+}
