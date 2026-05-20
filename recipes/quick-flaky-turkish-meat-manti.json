@@ -1,0 +1,107 @@
+{
+  "title": "Quick Flaky Turkish Meat Manti",
+  "description": "A simplified and rich version of traditional Turkish manti, made with ground meat, flaky dough, and a tangy yogurt sauce. Perfect for a cozy sick day meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "lactose-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "use a low-protein flour for easier dough"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored, and lactose-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": " kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "butter",
+      "amount": "1 stick",
+      "notes": "unsalted and softened"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and black pepper.",
+    "Gradually add the softened butter and mix until the dough comes together in a ball.",
+    "Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Meanwhile, prepare the filling by mixing the ground lamb, yogurt, garlic, and onion in a separate bowl.",
+    "Divide the dough into 12 equal pieces and roll each one into a thin circle.",
+    "Place a tablespoon of the filling in the center of each dough circle.",
+    "Fold the dough over the filling, forming a triangle, and press the edges to seal.",
+    "Place the manti in a 12-cup mason jar, leaving some space between each one.",
+    "Brush the tops of the manti with a little bit of butter and bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until golden brown.",
+    "Remove the manti from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "homemade",
+    "lactose-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "quick-flaky-turkish-meat-manti",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-flaky-turkish-meat-manti",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:40:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "butter",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Meat",
+    "descriptor": "Quick Flaky",
+    "dishForm": "Manti"
+  }
+}

@@ -7889,6 +7889,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-flaky-turkish-meat-manti",
+    "title": "Quick Flaky Turkish Meat Manti",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "homemade",
+      "lactose-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fluffy-venezuelan-rice-pilaf",
     "title": "Quick Fluffy Venezuelan Rice Pilaf",
     "tags": [
