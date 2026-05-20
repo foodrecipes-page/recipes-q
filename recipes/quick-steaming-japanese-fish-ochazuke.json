@@ -1,0 +1,103 @@
+{
+  "title": "Quick Steaming Japanese Fish Ochazuke",
+  "description": "A light and flavorful Japanese dish made with delicate fish, steamed to perfection over rice. Perfect for a romantic date night dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Fish Fillets (Sole or Flounder)",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Thai Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sake (or Dry White Wine)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice (Japanese short-grain)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the fish fillets under cold water and pat them dry with a paper towel.",
+    "Season the fish with a pinch of salt and a few drops of sesame oil.",
+    "Heat a tablespoon of sake (or dry white wine) in a small saucepan over medium heat.",
+    "Add 1 tablespoon of mirin and 1 tablespoon of soy sauce to the saucepan and stir to combine.",
+    "Add 1 tablespoon of Thai fish sauce to the saucepan and stir to combine.",
+    "Pour the sauce into a small bowl and set aside.",
+    "Place the rice in a steamer basket over a pot of boiling water.",
+    "Steam the rice for 10 minutes, or until it's cooked and fluffy.",
+    "Place the fish fillets in the steamer basket with the rice.",
+    "Steam the fish for 3-4 minutes, or until it's cooked through and flakes easily with a fork.",
+    "Place a piece of fish on top of the rice and spoon some of the sauce over the fish.",
+    "Garnish with sliced green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "date-night",
+    "fish",
+    "japan",
+    "kanto",
+    "one-pan",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "quick-steaming-japanese-fish-ochazuke",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-steaming-japanese-fish-ochazuke",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:06:25Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "jain",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Quick steaming",
+    "dishForm": "Ochazuke"
+  }
+}
