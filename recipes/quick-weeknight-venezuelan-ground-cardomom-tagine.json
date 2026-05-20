@@ -1,0 +1,112 @@
+{
+  "title": "Quick Weeknight Venezuelan Ground Cardamom Tagine",
+  "description": "A flavorful and aromatic one-pan weeknight dish from Venezuela featuring ground cardamom, perfect for a quick dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian",
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "low-carb",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine pot over medium heat.",
+    "Add the ground cardamom and cook for 1 minute, stirring constantly.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and ginger and cook for another minute, stirring constantly.",
+    "Add the diced tomatoes, red pepper flakes, salt, and black pepper.",
+    "Bring the mixture to a simmer and cook for 15-20 minutes, or until the sauce has thickened slightly.",
+    "Stir in the chopped cilantro and serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cardamom",
+    "one-pan",
+    "pescatarian",
+    "south-american",
+    "veggie-forward",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quick-weeknight-venezuelan-ground-cardomom-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-weeknight-venezuelan-ground-cardomom-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:39:13Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "ground cardomom",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "ground cardomom",
+    "descriptor": "Quick weeknight",
+    "dishForm": "Tagine"
+  }
+}
