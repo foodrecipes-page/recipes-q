@@ -2760,6 +2760,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-gooey-turkish-herring-kazandibi",
+    "title": "Quenched Gooey Turkish Herring Kazandibi",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "turkish",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-gooey-uruguayan-dough-empanadas",
     "title": "Quenched Gooey Uruguayan Dough Empanadas",
     "tags": [
@@ -4049,6 +4063,22 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-sour-energizing-australian-milk-custard",
+    "title": "Quenched Sour Energizing Australian Milk Custard",
+    "tags": [
+      "australian-dish",
+      "clay-pot-cook",
+      "dessert",
+      "energizing",
+      "sour",
+      "vegan-option",
+      "whole30-friendly"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

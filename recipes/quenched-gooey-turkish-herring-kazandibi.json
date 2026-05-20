@@ -1,0 +1,127 @@
+{
+  "title": "Quenched Gooey Turkish Herring Kazandibi",
+  "description": "A resinous, gooey Turkish dish featuring herring, slow-cooked to perfection. Egg-free and friendly for those looking for a unique breakfast option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Herring fillets",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio kernels",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine herring fillets, milk, sugar, cornstarch, and a pinch of salt. Whisk until the cornstarch dissolves.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Add the unsalted butter, vanilla extract, black pepper, cinnamon, and nutmeg to the saucepan. Whisk until the butter melts and the mixture is smooth.",
+    "Strain the mixture into a clean saucepan, discarding the solids.",
+    "Return the mixture to the stovetop and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon, about 10 minutes.",
+    "Stir in the water, rose water, and pistachio kernels. Cook for an additional 2 minutes.",
+    "Remove the saucepan from the heat and let the mixture cool slightly.",
+    " Pour the quenched mixture into individual serving dishes or a large serving dish. Let it set at room temperature for at least 30 minutes before serving.",
+    "Serve chilled or at room temperature, garnished with additional pistachio kernels if desired.",
+    "Refrigerate leftovers for up to 3 days or freeze for up to 2 months.",
+    "When serving, use a sharp knife to cut the quenched mixture into wedges or rectangles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "quenched-gooey-turkish-herring-kazandibi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-gooey-turkish-herring-kazandibi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:56:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "herring",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "herring",
+    "descriptor": "quenched gooey",
+    "dishForm": "Kazandibi"
+  }
+}

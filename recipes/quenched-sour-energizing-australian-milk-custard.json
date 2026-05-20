@@ -1,0 +1,103 @@
+{
+  "title": "Quenched Sour Energizing Australian Milk Custard",
+  "description": "A unique and refreshing Australian dessert featuring a sour and energizing twist on traditional milk custard, cooked in a clay pot.",
+  "cuisine": "australian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "grass-fed whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lemons",
+      "amount": "2"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "activated charcoal powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot to 375°F (190°C).",
+    "In a medium saucepan, whisk together milk, lemons, maple syrup, coconut sugar, and salt.",
+    "Cook over medium heat, stirring constantly, until the mixture reaches 170°F (77°C).",
+    "In a small bowl, whisk together egg yolks and vanilla extract.",
+    "Gradually add the warm milk mixture to the egg yolks, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in activated charcoal powder until dissolved.",
+    "Pour the custard into a clay pot or small ceramic dish.",
+    "Bake for 25-30 minutes, or until the edges are set and the center is slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours, or until set.",
+    "Serve with fresh berries and a drizzle of coconut oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dish",
+    "clay-pot-cook",
+    "dessert",
+    "energizing",
+    "sour",
+    "vegan-option",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "quenched-sour-energizing-australian-milk-custard",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-sour-energizing-australian-milk-custard",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T14:56:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "milk",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "milk",
+    "descriptor": "quenched sour energizing",
+    "dishForm": "Custard"
+  }
+}
