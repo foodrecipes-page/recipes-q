@@ -1,0 +1,68 @@
+{
+  "title": "Quick Quenched Day-Stew",
+  "description": "This funky, snappy, and sick-day Malaysian dish features a sweet and tangy yuzu-cure, making it a great choice for those looking for a low-FODMAP option. Serve it in a hot pot vessel for a fun and interactive meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod fish",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu puree",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, heat the oil over medium heat. Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the yuzu puree, sugar, and salt to the saucepan, and cook for an additional 1-2 minutes, stirring constantly.",
+    "In a separate pot, bring the water to a boil. Reduce the heat to low and simmer for 5 minutes.",
+    "Add the cod fish to the hot pot vessel, and spoon some of the yuzu-cure over the top.",
+    "Place the hot pot vessel over the simmering water, and cook for an additional 2-3 minutes, until the fish is cooked through.",
+    "Stir in the chopped cilantro and freshly squeezed lime juice.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "To make the yuzu-cure, combine the yuzu puree, sugar, and salt in a small bowl. Mix well to combine, and refrigerate until ready to use."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "low-fodmap",
+    "malaysian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "quick-quenched-day-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-quenched-day-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:06:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": null,
+    "descriptor": "Fodmap-friendly",
+    "dishForm": "Stew"
+  }
+}

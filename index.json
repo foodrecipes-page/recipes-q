@@ -10715,6 +10715,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-quenched-day-stew",
+    "title": "Quick Quenched Day-Stew",
+    "tags": [
+      "gluten-free",
+      "low-fodmap",
+      "malaysian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
     "slug": "quick-quenched-dutch-portobello-casserole",
     "title": "Quick Quenched Dutch Portobello Casserole",
     "tags": [
