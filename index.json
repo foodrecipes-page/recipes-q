@@ -8796,6 +8796,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-german-fix-hash",
+    "title": "quick german fix hash",
+    "tags": [
+      "breakfast",
+      "german",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
     "slug": "quick-german-oats-fritter",
     "title": "Quick German Oats Fritter",
     "tags": [

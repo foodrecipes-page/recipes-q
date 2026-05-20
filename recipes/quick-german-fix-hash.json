@@ -1,0 +1,99 @@
+{
+  "title": "quick german fix hash",
+  "description": "A quick and delicious german dish that's ready in no time! This floral and juicy hash is perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1/2 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the donabe over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the grated carrot and cook for 2 minutes.",
+    "Add the diced potato and cook for 3 minutes.",
+    "Add the sliced smoked sausage and cook until browned.",
+    "Add the namul-blanch-season and stir to combine.",
+    "Add the wholegrain mustard and stir to combine.",
+    "Pour in the beaten eggs and scramble until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot garnished with chopped parsley.",
+    "Garnish with additional parsley if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "german",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "quick-german-fix-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-german-fix-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "fix",
+    "descriptor": "quick",
+    "dishForm": "hash"
+  }
+}
