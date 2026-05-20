@@ -1,0 +1,72 @@
+{
+  "title": "Quick-Fix Glassy-Jelly German Soya Bean Pilaf",
+  "description": "A German-inspired, low-calorie-friendly dish featuring soya bean, score-fat, and a glassy-jelly texture that can be prepared in no time.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add score-fat and stir to coat the pan.",
+    "Add soya beans and cook for 5 minutes, stirring occasionally.",
+    "Add soy sauce, maple syrup, and water to the pan and stir to combine.",
+    "Bring to a boil, then reduce heat to medium-low and simmer for 5 minutes, stirring occasionally.",
+    "Stir in lemon juice and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve the glassy-jelly mixture over cooked rice or noodles and garnish with chopped fresh herbs.",
+    "Garnish with chopped parsley or chives for added flavor and texture.",
+    "Serve immediately and enjoy!",
+    "Serve hot and garnish with sliced almonds or sesame seeds for added crunch.",
+    "Garnish with sliced almonds or sesame seeds for added crunch and flavor.",
+    "Serve with your favorite side dish, such as steamed vegetables or a simple green salad.",
+    "Serve with steamed broccoli or a simple green salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-fix-glassy-jelly-german-soya-bean-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-glassy-jelly-german-soya-bean-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:34:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "score-fat",
+    "primaryIngredient": "soya bean",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "soya bean",
+    "descriptor": "quick-fix glassy-jelly",
+    "dishForm": "pilaf"
+  }
+}
