@@ -1,0 +1,116 @@
+{
+  "title": "Quick Deep-Fried American Chicken Noodles",
+  "description": "A simple and satisfying American dish featuring vermicelli rice noodles, crispy deep-fried chicken, and a hint of savory flavors.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "4-6 pounds",
+      "notes": null
+    },
+    {
+      "name": "Vermicelli rice noodles",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2-3 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, salt, black pepper, and paprika.",
+    "Add egg and buttermilk to the flour mixture, whisking until smooth.",
+    "Add soy sauce and whisk until combined.",
+    "Cut the chicken into bite-sized pieces and coat evenly with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "In a separate bowl, mix together bread crumbs and a pinch of paprika.",
+    "Remove the chicken from the marinade and coat evenly with the bread crumb mixture.",
+    "Heat the vegetable oil in a large skillet or deep fryer to 350°F.",
+    "Fry the chicken in batches until golden brown and crispy, about 5-7 minutes per batch.",
+    "Drain the fried chicken on paper towels and keep warm.",
+    "Cook the vermicelli rice noodles according to package instructions.",
+    "Serve the noodles hot with the deep-fried chicken on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "chicken-recipe",
+    "comfort-food",
+    "noodle-recipe",
+    "one-pan",
+    "quick-and-easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "quick-deep-fried-american-chicken-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-deep-fried-american-chicken-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T10:59:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Quick Deep-Fried",
+    "dishForm": "Noodles"
+  }
+}
