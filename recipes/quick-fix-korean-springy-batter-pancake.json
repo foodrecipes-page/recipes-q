@@ -1,0 +1,96 @@
+{
+  "title": "Quick-fix Korean Springy Batter Pancake",
+  "description": "A simple and quick Korean-style pancake with a springy texture made from English muffins, inspired by the Korean hwajeon form without using eggs.",
+  "cuisine": "Korean",
+  "diet": [
+    null
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "English Muffins",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "Gochugaru or Korean chili flakes add a spicy kick"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying and adding flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For adding savory flavor"
+    },
+    {
+      "name": "Grated garlic",
+      "amount": "1 clove",
+      "notes": "Minced garlic adds depth of flavor"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "Grated ginger adds warmth and spice"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 tablespoons",
+      "notes": "Chopped scallions add a fresh flavor"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish and added crunch"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a non-stick pan over medium heat",
+    "Add grated garlic and grated ginger and cook for 1 minute, until fragrant",
+    "Add Korean chili flakes and cook for another minute, until fragrant",
+    "Cut English muffins into quarters and add to the pan, pressing down gently with a spatula",
+    "Cook for 3-4 minutes, until the bottom is golden brown",
+    "Flip the English muffins over and cook for another 3-4 minutes, until the other side is golden brown",
+    "Garnish with toasted sesame seeds and chopped scallions",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "korean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "quick-fix-korean-springy-batter-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-korean-springy-batter-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:11:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "english muffins",
+    "diet": "egg-free",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "springy batter",
+    "descriptor": "Quick-fix",
+    "dishForm": "Pancake"
+  }
+}
