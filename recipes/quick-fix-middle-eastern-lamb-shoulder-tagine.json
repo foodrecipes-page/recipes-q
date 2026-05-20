@@ -1,0 +1,111 @@
+{
+  "title": "Quick-Fix Middle-Eastern Lamb Shoulder Tagine",
+  "description": "A smoky, flavorful tagine dish featuring lamb shoulder, perfect for a quick weeknight dinner. This recipe is ovo-vegetarian-friendly and features a delicious glassy-jelly texture.",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 lbs lamb shoulder",
+      "amount": "bone-in, cut into 2-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup lamb broth",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "1/2 cup water",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup labneh (yogurt cheese)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high.",
+    "Rinse the lamb shoulder pieces and pat dry with paper towels.",
+    "In a large bowl, mix together the olive oil, onions, garlic, cumin, coriander, cinnamon, and cayenne pepper.",
+    "Add the lamb shoulder to the bowl and toss to coat with the spice mixture.",
+    "Transfer the lamb mixture to a large tagine pot or Dutch oven, and sear over medium-high heat until browned on all sides, about 5 minutes.",
+    "Add the lamb broth, water, and labneh to the tagine pot, and stir to combine.",
+    "Cover the pot and transfer it to the preheated broiler.",
+    "Broil for 20-25 minutes, or until the lamb is tender and the sauce has thickened into a glassy jelly.",
+    "Serve the lamb shoulder hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "quick-fix-middle-eastern-lamb-shoulder-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-middle-eastern-lamb-shoulder-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:04Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb Shoulder",
+    "descriptor": "Quick-Fix, Smoky, Glassy-Jelly",
+    "dishForm": "Tagine"
+  }
+}
