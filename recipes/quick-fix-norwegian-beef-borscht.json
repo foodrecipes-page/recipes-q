@@ -1,0 +1,105 @@
+{
+  "title": "Quick Fix Norwegian Beef Borscht",
+  "description": "A simple, comforting Norwegian-inspired borscht dish made with hot beef stock and served with a fluffy egg topping. This sweet and savory recipe is a great quick-fix for a weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Whisk together the flour and butter to make a roux.",
+    "Add the beef stock to the roux and bring to a boil.",
+    "Reduce heat and add the beets, carrots, onion, sugar, salt, and black pepper.",
+    "Simmer for 20 minutes or until the beets are tender.",
+    "In a separate bowl, whisk together the eggs and a splash of hot water.",
+    "Pour the egg mixture over the borscht and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh dill.",
+    "Optional: add a dollop of sour cream or crème fraîche on top of each serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "norwegian",
+    "one-pan",
+    "quick-fix",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 32,
+    "fat": 16
+  },
+  "slug": "quick-fix-norwegian-beef-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-norwegian-beef-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "hot beef stock",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Fix",
+    "dishForm": "Borscht"
+  }
+}
