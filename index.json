@@ -5402,6 +5402,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-chewy-croatian-peppery-dish-fondue",
+    "title": "Quick Chewy Croatian Peppery Fondue",
+    "tags": [
+      "croatian-cuisine",
+      "easy-to-make",
+      "high-protein",
+      "peppery",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
     "slug": "quick-chili-mexican-chicken-tacos",
     "title": "Quick Chili Mexican Chicken Tacos",
     "tags": [

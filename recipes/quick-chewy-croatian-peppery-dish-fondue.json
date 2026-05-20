@@ -1,0 +1,66 @@
+{
+  "title": "Quick Chewy Croatian Peppery Fondue",
+  "description": "A refreshing and spicy Croatian fondue perfect for a weeknight dinner or gathering.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "goat cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix together feta cheese, goat cheese, and a pinch of black pepper.",
+    "Add the chopped mint leaves and a drizzle of ferment-jang to the cheese mixture.",
+    "Heat the mixture over low heat in a fondue pot until the cheese is melted and smooth.",
+    "Serve immediately with bread or vegetables for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "easy-to-make",
+    "high-protein",
+    "peppery",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "quick-chewy-croatian-peppery-dish-fondue",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-chewy-croatian-peppery-dish-fondue",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:58:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "mint",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peppery dish",
+    "descriptor": "Quick, Chewy",
+    "dishForm": "Fondue"
+  }
+}
