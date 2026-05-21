@@ -1,0 +1,102 @@
+{
+  "title": "Quick Simmered Middle Eastern Tomatoes Tagine",
+  "description": "A fresh and fluffy Middle Eastern dish featuring diced tomatoes, perfect for a quick fix. Serve with crusty bread or over rice for a delightful meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups, diced",
+      "notes": "Fresh or canned, whichever suits your taste."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground cumin adds depth to this dish."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika adds a smoky flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use kosher salt for added flavor."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground pepper is best."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "Chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large comal over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute, until fragrant.",
+    "Add the diced tomatoes, cumin, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 10-15 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Garnish with a dollop of yogurt or a sprinkle of sumac for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "middle-eastern",
+    "one-pan",
+    "quick-fix",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "quick-simmered-middle-eastern-tomatoes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-simmered-middle-eastern-tomatoes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:19:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "simmer",
+    "primaryIngredient": "diced tomatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "middle-eastern",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Quick Simmered",
+    "dishForm": "Tagine"
+  }
+}
