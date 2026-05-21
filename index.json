@@ -8051,6 +8051,20 @@
     "shard": "q"
   },
   {
+    "slug": "quick-fix-snappy-malaysian-dum-satay",
+    "title": "Quick-Fix Snappy Malaysian Dum Satay",
+    "tags": [
+      "flexitarian",
+      "lazy-susan-spinner",
+      "malaysian",
+      "quick-fix",
+      "snappy"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
     "slug": "quick-fix-sour-croatian-bread-bake",
     "title": "Quick Fix Sour Croatian Bread Bake",
     "tags": [
@@ -10622,6 +10636,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-portuguese-chocolate-cake",
+    "title": "Quick Portuguese Chocolate Cake",
+    "tags": [
+      "cake",
+      "chocolate",
+      "low-calorie",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {

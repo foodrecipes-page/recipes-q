@@ -1,0 +1,125 @@
+{
+  "title": "Quick-Fix Snappy Malaysian Dum Satay",
+  "description": "A savory, snappy, and quick-fix Malaysian dish featuring dum and a hint of brandy. It's an easy and delicious flexitarian option for any meal time.",
+  "cuisine": "malaysian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brandy",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a lazy Susan spinner over medium-high heat.",
+    "Add 1 tablespoon of peanut oil to the spinner and swirl it around to coat the surface.",
+    "Add 6 dum pieces to the spinner and cook for 2-3 minutes or until the bottom is lightly browned.",
+    "Add 6 more dum pieces to the spinner and cook for another 2-3 minutes.",
+    "Add 1 tablespoon of brandy to the spinner and flambe the dum pieces until the liquid is almost completely evaporated.",
+    "Add 2 tablespoons of chili sauce, 1 tablespoon of ginger paste, 2 tablespoons of lime juice, and 1 tablespoon of soy sauce to the spinner and stir to combine.",
+    "Add 1 cup of water chestnuts and 1 cup of bean sprouts to the spinner and stir to combine.",
+    "Season with 1 tablespoon of sugar and stir to combine.",
+    "Transfer the dum pieces to a serving platter and garnish with 1 tablespoon of sesame seeds, 1/2 cup of toasted peanuts, and 1/4 cup of fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "lazy-susan-spinner",
+    "malaysian",
+    "quick-fix",
+    "snappy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "quick-fix-snappy-malaysian-dum-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-snappy-malaysian-dum-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:21:08Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "brandy",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "dum",
+    "descriptor": "quick-fix snappy",
+    "dishForm": "satay"
+  }
+}
