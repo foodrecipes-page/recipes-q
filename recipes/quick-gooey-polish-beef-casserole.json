@@ -1,0 +1,107 @@
+{
+  "title": "Quick Gooey Polish Beef Casserole",
+  "description": "A hearty, winey, and gooey Polish dish featuring roast beef and chilli bean paste that can be prepared in under an hour.",
+  "cuisine": "Polish",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast (1 kg)",
+      "amount": "1",
+      "notes": "preferably chuck or rump"
+    },
+    {
+      "name": "chilli bean paste (150g)",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "red wine (250ml)",
+      "amount": "1 cup",
+      "notes": "dry red wine, like Merlot"
+    },
+    {
+      "name": "beef broth (250ml)",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "caraway seeds (1 tsp)",
+      "amount": "1 teaspoon",
+      "notes": "optional, for authentic flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "mushrooms (200g)",
+      "amount": "2 cups",
+      "notes": "button or cremini, sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Season the beef roast with salt and black pepper.",
+    "In a large Dutch oven or oven-safe pot, heat 2 tablespoons of oil over medium heat.",
+    "Sear the beef roast until browned on all sides, about 5 minutes.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the chilli bean paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the red wine and beef broth, scraping the bottom of the pan to release the browned bits.",
+    "Add the sliced mushrooms and bring to a simmer.",
+    "Transfer the pot to the preheated oven and roast for 45 minutes, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool for 10 minutes.",
+    "Slice the beef against the grain and return it to the pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "comfort-food",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "quick-gooey-polish-beef-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-gooey-polish-beef-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T13:17:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Quick Gooey",
+    "dishForm": "Casserole"
+  }
+}

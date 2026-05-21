@@ -9219,6 +9219,21 @@
     "shard": "q"
   },
   {
+    "slug": "quick-gooey-polish-beef-casserole",
+    "title": "Quick Gooey Polish Beef Casserole",
+    "tags": [
+      "beef",
+      "casserole",
+      "comfort-food",
+      "one-pan",
+      "polish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 65,
+    "shard": "q"
+  },
+  {
     "slug": "quick-gooey-portuguese-chicken-tacos",
     "title": "Quick Gooey Portuguese Chicken Tacos",
     "tags": [
