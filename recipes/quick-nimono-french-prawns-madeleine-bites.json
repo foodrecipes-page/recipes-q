@@ -1,0 +1,113 @@
+{
+  "title": "Quick Nimono French Prawns Madeleine Bites",
+  "description": "Delicate Madeleine bites filled with fresh French prawns and herbs, served in a light herbal nimono broth.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw Frozen French Prawns",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "White Wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Line a baking sheet with parchment paper and arrange Madeleine molds on top.",
+    "Melt butter in a small saucepan over medium heat.",
+    "Add garlic and sauté for 1-2 minutes until fragrant.",
+    "Add white wine and simmer for 2-3 minutes until reduced by half.",
+    "Stir in parsley, dill, lemon zest, salt, and pepper.",
+    "Arrange prawns on top of Madeleine molds and spoon the herb mixture over them.",
+    "Bake for 8-10 minutes until prawns are pink and just cooked through.",
+    "Meanwhile, prepare the nimono broth by combining vegetable broth and honey in a saucepan.",
+    "Bring the broth to a simmer over medium heat.",
+    "To assemble the dish, place a Madeleine bite on each plate and spoon the hot nimono broth over it."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "herb-forward",
+    "light-and-easy",
+    "madeleine-molds",
+    "nimono-broth",
+    "prawn-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "quick-nimono-french-prawns-madeleine-bites",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-nimono-french-prawns-madeleine-bites",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:35:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "prawns",
+    "descriptor": "Quick Nimono",
+    "dishForm": "Madeleine Bites"
+  }
+}
