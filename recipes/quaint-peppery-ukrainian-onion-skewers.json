@@ -1,0 +1,98 @@
+{
+  "title": "Quaint Peppery Ukrainian Onion Skewers",
+  "description": "A lacto-vegetarian friendly dish featuring caramelized onions, crunchy breadcrumbs, and a hint of pepper, grilled to perfection on skewers.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the sliced onions, breadcrumbs, black pepper, salt, garlic powder, and paprika.",
+    "Thread the onion mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and grill for 10-12 minutes, turning occasionally.",
+    "While the skewers are grilling, mix the crumbly feta cheese with chopped fresh parsley in a small bowl.",
+    "Once the skewers are cooked, remove them from the grill and sprinkle with the feta cheese mixture.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers cool for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "grilled-vegetables",
+    "lacto-vegetarian",
+    "peppery",
+    "skewers",
+    "snack",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "quaint-peppery-ukrainian-onion-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quaint-peppery-ukrainian-onion-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:12:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "onions",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "onions",
+    "descriptor": "quaint peppery",
+    "dishForm": "Skewers"
+  }
+}
