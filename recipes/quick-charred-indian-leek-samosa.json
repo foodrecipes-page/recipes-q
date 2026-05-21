@@ -1,0 +1,104 @@
+{
+  "title": "Quick-Charred Indian Leek Samosa",
+  "description": "A quick and flavorful Indian-inspired dish featuring charred leeks in a crispy samosa wrapper, served in a dolsot stone bowl.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Amchur powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan over medium-high heat. ",
+    "Add cumin seeds and let them sizzle for 1-2 seconds. ",
+    "Add finely chopped leeks and cook for 3-4 minutes until slightly charred. ",
+    "Add garam masala, salt, red chili powder, and amchur powder. ",
+    "Mix well and cook for another minute. ",
+    "Roll out the dough to a thickness of 1/4 inch. ",
+    "Cut the dough into small squares and place a spoonful of the leek mixture in the center. ",
+    "Fold the dough over the filling and press the edges to seal. ",
+    "Heat vegetable oil in a pan over medium heat. ",
+    "Fry the samosas until golden brown. ",
+    "Drain the samosas on paper towels. ",
+    "Serve in a dolsot stone bowl with a dollop of chutney, if desired. "
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-samosa",
+    "flavorful",
+    "indian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "quick-charred-indian-leek-samosa",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-charred-indian-leek-samosa",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:33:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "leek",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "leek",
+    "descriptor": "Quick-Charred",
+    "dishForm": "Samosa"
+  }
+}
