@@ -1,0 +1,108 @@
+{
+  "title": "Quenched Wholesome Dutch Sweet Potatoes Casserole",
+  "description": "A moist and flavorful Dutch sweet potatoes casserole featuring dulce de leche and rendered fat, suitable for Jain-friendly meals.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 large sweet potatoes",
+      "amount": "2",
+      "notes": "choose sweet potatoes that are high in moisture"
+    },
+    {
+      "name": "1/4 cup dulce de leche",
+      "amount": "4 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "amount": "1 fl oz",
+      "notes": "melted"
+    },
+    {
+      "name": "1 onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "1 cup vegan cream",
+      "amount": "8 fl oz",
+      "notes": "unsweetened almond milk or soy milk also work"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "1 cup chopped fresh parsley",
+      "amount": "",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Scrub the sweet potatoes clean and poke some holes in them with a fork.",
+    "Bake the sweet potatoes in the oven for about 45 minutes, or until they are tender when pierced with a fork.",
+    "Let the sweet potatoes cool slightly, then peel and dice them into 1-inch pieces.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "In a large bowl, combine the cooked sweet potatoes, onion-garlic mixture, dulce de leche, and vegan cream.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish.",
+    "Bake in the preheated oven for about 20-25 minutes, or until the top is lightly golden brown.",
+    "Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dulce-de-leche",
+    "dutch",
+    "jain-friendly",
+    "sweet-potatoes",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "quenched-wholesome-dutch-sweet-potatoes-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-wholesome-dutch-sweet-potatoes-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T11:02:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "render-fat",
+    "primaryIngredient": "dulce de leche",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Quenched Wholesome",
+    "dishForm": "Casserole"
+  }
+}
