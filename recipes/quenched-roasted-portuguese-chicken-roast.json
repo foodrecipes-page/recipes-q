@@ -1,0 +1,60 @@
+{
+  "title": "Quenched Roasted Portuguese Chicken Roast",
+  "description": "A light and tender roasted chicken dish featuring the flavors of Portugal, perfect for a weeknight dinner. This lacto-vegetarian-friendly recipe is a great twist on traditional roasted chicken.",
+  "cuisine": "Portuguese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken with salt and pepper, then place it in a roasting pan.",
+    "In a small bowl, whisk together the dark soy sauce, olive oil, and garlic. Brush the mixture evenly over the chicken.",
+    "Toss the onion, carrot, and celery with a little bit of olive oil, salt, and pepper, and spread them around the chicken in the roasting pan.",
+    "Roast the chicken in the preheated oven for 45 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is roasting, prepare the beurre monte by whipping the heavy cream until it forms stiff peaks, then folding in the grated Parmesan cheese.",
+    "To serve, slice the roasted chicken and top it with a dollop of beurre monte and a sprinkle of parsley.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "lacto-vegetarian",
+    "portuguese",
+    "roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "quenched-roasted-portuguese-chicken-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-roasted-portuguese-chicken-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:39:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "beurre-monte",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Quenched roasted",
+    "dishForm": "Roast"
+  }
+}

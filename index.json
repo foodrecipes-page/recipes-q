@@ -3881,6 +3881,20 @@
     "shard": "q"
   },
   {
+    "slug": "quenched-roasted-portuguese-chicken-roast",
+    "title": "Quenched Roasted Portuguese Chicken Roast",
+    "tags": [
+      "chicken",
+      "lacto-vegetarian",
+      "portuguese",
+      "roasted",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 65,
+    "shard": "q"
+  },
+  {
     "slug": "quenched-russian-pillowy-breads-bowl",
     "title": "Quenched Russian Pillowy Breads Bowl",
     "tags": [
