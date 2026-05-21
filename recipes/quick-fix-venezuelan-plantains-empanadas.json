@@ -1,0 +1,104 @@
+{
+  "title": "Quick-Fix Venezuelan Plantains Empanadas",
+  "description": "A quick and flavorful Venezuelan-inspired empanada recipe featuring panang paste, brined plantains, and a Mediterranean twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ripe plantains",
+      "amount": "4"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "plus extra for dusting"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brine solution (water and salt)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped 1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the plantains into 1-inch rounds.",
+    "In a large bowl, combine the flour, panang paste, salt, black pepper, and garlic powder.",
+    "Gradually add the brine solution to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4-6 equal pieces, depending on desired empanada size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Place a few slices of plantain in the center of each circle, leaving a 1-inch border around the edges.",
+    "Add a sprinkle of shredded cheese and chopped cilantro on top of the plantains.",
+    "Fold the dough in half over the filling, pressing the edges to seal.",
+    "Brush the tops with olive oil and cook in a skillet over medium-high heat for 2-3 minutes on each side, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "empanada-lovers",
+    "latin-inspired",
+    "one-pan",
+    "quick-meal",
+    "veggie-friendly",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "quick-fix-venezuelan-plantains-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-fix-venezuelan-plantains-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T08:39:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "panang-paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "quick-fix",
+    "dishForm": "empanadas"
+  }
+}
