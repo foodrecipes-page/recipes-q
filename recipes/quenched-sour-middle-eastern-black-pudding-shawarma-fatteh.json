@@ -1,0 +1,124 @@
+{
+  "title": "Quenched Sour Middle Eastern Black Pudding Shawarma Fatteh",
+  "description": "A festive and flavorful Middle Eastern dish featuring black pudding, a tangy braise, and a crunchy tahini topping.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Black Pudding",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "creamy, nutty flavor"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tbsp",
+      "notes": "sweet, tangy, and syrupy"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tbsp",
+      "notes": "tart and slightly sweet"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "fresh and spicy"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "mild and aromatic"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh and herbaceous"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "bright and citrusy"
+    },
+    {
+      "name": "Crushed Pine Nuts",
+      "amount": "1/4 cup",
+      "notes": "crunchy and nutty"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "rich and fruity"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "enhances flavors"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon olive oil in a large skillet over medium-high heat.",
+    "Add the black pudding and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Transfer the black pudding to a plate, leaving the drippings in the skillet.",
+    "Add the remaining 1 tablespoon olive oil, ginger, garlic, and salt to the skillet and stir for 1 minute, releasing the flavors.",
+    "Add the pomegranate molasses, apple cider vinegar, and 1 cup water to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 5-7 minutes, or until the liquid has thickened slightly and the black pudding is coated.",
+    "While the black pudding is browning, toast the pine nuts in a small skillet over medium heat, stirring frequently, until fragrant and lightly browned.",
+    "Stir the toasted pine nuts into the black pudding mixture and cook for 1 minute more.",
+    "Fluff the parsley and cilantro with a fork and sprinkle over the black pudding mixture.",
+    "Drizzle the tahini over the top and serve immediately on a hot stone plate, garnished with additional parsley and cilantro if desired.",
+    "Serve the fatteh hot, garnished with a sprinkle of sumac or paprika, if desired.",
+    "Adjust the seasoning with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "festive",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "snappy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "quenched-sour-middle-eastern-black-pudding-shawarma-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-sour-middle-eastern-black-pudding-shawarma-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:26:45Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "black pudding",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Black Pudding",
+    "descriptor": "Quenched Sour",
+    "dishForm": "Shawarma Fatteh"
+  }
+}
