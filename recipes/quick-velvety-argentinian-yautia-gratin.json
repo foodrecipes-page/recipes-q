@@ -1,0 +1,102 @@
+{
+  "title": "Quick Velvety Argentinian Yautia Gratin",
+  "description": "A yeasty and velvety Argentinian dish featuring yautia, perfect for a quick and energizing meal, made with beurre-monte and egg-free-friendly ingredients, served in a ramekin.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the sliced yautia to the skillet and cook for an additional 5 minutes, stirring occasionally.",
+    "In a small saucepan, melt the beurre-monte over low heat.",
+    "In a separate bowl, combine the cooked yautia, melted beurre-monte, salt, and black pepper.",
+    "Transfer the yautia mixture to a ramekin and top with the shredded gruyere cheese.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the gratin from the oven and sprinkle with chopped parsley.",
+    "Serve the Quick Velvety Argentinian Yautia Gratin hot, straight from the ramekin."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "comfort-food",
+    "one-pan",
+    "quick-meal",
+    "ramekin-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "quick-velvety-argentinian-yautia-gratin",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-velvety-argentinian-yautia-gratin",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:56:36Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "beurre-monte",
+    "primaryIngredient": "yautia",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "yautia",
+    "descriptor": "quick velvety",
+    "dishForm": "Gratin"
+  }
+}
