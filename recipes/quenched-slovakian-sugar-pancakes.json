@@ -1,0 +1,92 @@
+{
+  "title": "Quenched Slovakian Sugar Pancakes",
+  "description": "Tangy and aerated Slovakian pancakes perfect for a romantic breakfast or dessert.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "large egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk together flour, sugar, and Namul-blanch-season in a medium bowl",
+    "Add egg, milk, and melted butter to the bowl and mix until a smooth batter forms",
+    "Let the batter rest for 10 minutes",
+    "Heat a non-stick skillet or griddle over medium heat",
+    "Drop the batter by 1/4 cupfuls onto the skillet and cook for 2-3 minutes, until bubbles appear on the surface",
+    "Flip the pancakes and cook for an additional 1-2 minutes",
+    "Transfer the pancakes to a wire rack to cool",
+    "Drizzle with a tangy quencher sauce (made by mixing equal parts sour cream and sugar)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dessert",
+    "pancake",
+    "romantic",
+    "slovakian",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "quenched-slovakian-sugar-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quenched-slovakian-sugar-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:31:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "sugars",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sugar",
+    "descriptor": "quenched",
+    "dishForm": "Pancakes"
+  }
+}
