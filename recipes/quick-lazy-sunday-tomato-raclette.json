@@ -1,0 +1,109 @@
+{
+  "title": "Quick Lazy-Sunday Tomato Raclette",
+  "description": "A pescatarian-friendly, easy-to-make raclette dish featuring a rich, aerated tomato sauce and tangy nuka-pickle.",
+  "cuisine": "american",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Raclette cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375°F (190°C).",
+    "Prepare the tomato sauce by heating it in a saucepan over medium heat until warmed through.",
+    "Add the nuka-pickle to the saucepan with the tomato sauce and stir to combine.",
+    "Meanwhile, melt 1 tablespoon of the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the shrimp to the skillet and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the cooked shrimp to the raclette grill and top with the tomato sauce and nuka-pickle mixture.",
+    "Sprinkle the raclette cheese over the top of the sauce and nuka-pickle mixture.",
+    "Place the raclette grill under the broiler and cook for 2-3 minutes, until the cheese is melted and bubbly.",
+    "Remove the raclette grill from the oven and sprinkle with chopped parsley.",
+    "Serve the Quick Lazy-Sunday Tomato Raclette immediately, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "one-pan",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "quick-lazy-sunday-tomato-raclette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/quick-lazy-sunday-tomato-raclette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:36:20Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tomato sauce",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "tomato sauce",
+    "descriptor": "Quick",
+    "dishForm": "Grill"
+  }
+}
