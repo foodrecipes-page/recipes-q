@@ -1,0 +1,111 @@
+{
+  "title": "Quintessential Earthy German Padron Peppers Tagine",
+  "description": "A hearty, earthy German dish featuring padron peppers, perfect for a hangover cure, cooked to perfection in a clay tagine vessel using sous-vide techniques, gluten-free-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "12",
+      "notes": "small, firm"
+    },
+    {
+      "name": "german sausage",
+      "amount": "4 links",
+      "notes": "preferably knockwurst"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 180 degrees Fahrenheit.",
+    "Season the german sausage with caraway seeds, paprika, and salt.",
+    "Sear the sausage in a hot skillet until browned on all sides, then set aside.",
+    "Add the sliced onions to the same skillet and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the diced potatoes to the skillet and cook for 5 minutes, until they start to soften.",
+    "Add the padron peppers to the skillet and cook for 2 minutes, until they start to blister.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Transfer the skillet contents to the clay tagine vessel and add the browned sausage.",
+    "Cover the tagine and place it in the preheated sous-vide water bath for 2 hours.",
+    "Stir in the sour cream and chopped chives before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "gluten-free",
+    "hearty",
+    "one-pot",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 34
+  },
+  "slug": "quintessential-earthy-german-padron-peppers-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/quintessential-earthy-german-padron-peppers-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:10:24Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "padron peppers",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Quintessential earthy",
+    "dishForm": "Tagine"
+  }
+}
