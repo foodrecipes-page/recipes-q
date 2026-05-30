@@ -4965,16 +4965,15 @@
   },
   {
     "slug": "quick-algerian-lamb-tagine",
-    "title": "Quick Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "low-sodium",
-      "north-african",
-      "one-pot",
-      "weeknight"
+      "algerian",
+      "lamb",
+      "couscous",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
@@ -6823,18 +6822,14 @@
   },
   {
     "slug": "quick-filipino-celery-bistek",
-    "title": "Quick Filipino Celery Bistek",
+    "title": "Bistek Tagalog",
     "tags": [
-      "celery-lovers",
-      "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "one-pan",
-      "tamasic-friendly",
-      "weeknight"
+      "filipino",
+      "beef",
+      "quick"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 25,
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -10767,15 +10762,13 @@
     "slug": "quick-portuguese-chocolate-cake",
     "title": "Quick Portuguese Chocolate Cake",
     "tags": [
-      "cake",
-      "chocolate",
-      "low-calorie",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "portuguese-cake",
+      "chocolate-cake",
+      "quick-baking",
+      "cake"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
