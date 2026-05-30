@@ -1,0 +1,87 @@
+{
+  "slug": "quick-crispy-british-fish-wrap--mexican",
+  "title": "Mexican Crispy Fish Wrap",
+  "description": "A crunchy fish wrap with a Mexican twist, featuring crispy battered fish, crunchy lettuce, and a tangy slaw.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Mexican Batter Mix",
+      "amount": "1 packet",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Shredded or chopped"
+    },
+    {
+      "name": "Tartar Sauce",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Coleslaw",
+      "amount": "1 cup",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "4",
+      "notes": "Warm or toasted"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fish into small pieces and dip into the Mexican batter mix.",
+    "2. Heat the vegetable oil in a deep frying pan to 375°F (190°C).",
+    "3. Fry the battered fish until golden brown and crispy, about 3-4 minutes.",
+    "4. Remove the fish from the oil and place on a paper towel-lined plate.",
+    "5. In a separate pan, warm the tortilla wraps over medium heat.",
+    "6. Assemble the wraps by placing a piece of crispy fish onto each tortilla, followed by a spoonful of coleslaw, a sprinkle of cilantro, and a slice of tomato.",
+    "7. Drizzle with tartar sauce, if using.",
+    "8. Serve immediately and enjoy!",
+    "9. Garnish with additional cilantro and a lime wedge, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish",
+    "wrap",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-british-fish-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:30.743Z"
+}
