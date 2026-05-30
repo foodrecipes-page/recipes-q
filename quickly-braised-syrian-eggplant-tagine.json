@@ -1,0 +1,94 @@
+{
+  "slug": "quickly-braised-syrian-eggplant-tagine",
+  "title": "Quick Syrian Braised Eggplant Tagine",
+  "description": "A flavorful and hearty eggplant tagine made with quickly cooked ingredients and inspired by Syrian cuisine. Best served with crusty bread or over couscous.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat. Add the sliced eggplant and cook until browned, about 3-4 minutes. Remove the eggplant from the skillet and set aside.",
+    "Reduce heat to medium and add the chopped onion to the skillet. Cook until the onion is translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the ground cumin, smoked paprika, cayenne pepper (if using), salt, and black pepper. Cook for 1 minute.",
+    "Add the chicken broth to the skillet and bring to a simmer.",
+    "Return the eggplant to the skillet and stir to combine. Reduce heat to low and simmer, covered, for 15-20 minutes or until the eggplant is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the eggplant tagine hot, garnished with chopped fresh parsley or cilantro (if desired)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggplant",
+    "syrian",
+    "braised",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-braised-syrian-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:33.082Z"
+}
