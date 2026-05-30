@@ -5273,17 +5273,14 @@
   },
   {
     "slug": "quick-braised-slovakian-pork-dumplings",
-    "title": "Quick Braised Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "pressure-cooker",
-      "raw-friendly",
-      "umami-rich",
-      "weeknight"
+      "pork",
+      "dumplings",
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "slovakian",
+    "totalTimeMin": 75,
     "shard": "q"
   },
   {
@@ -9941,19 +9938,15 @@
   },
   {
     "slug": "quick-japanese-chicken-fritters",
-    "title": "Quick Japanese Chicken Fritters",
+    "title": "Japanese Chicken Fritters",
     "tags": [
-      "agemono",
-      "basil",
-      "deep-fry",
-      "high-protein",
       "japanese",
-      "one-pan",
-      "quick",
+      "chicken",
+      "fritters",
       "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 18,
+    "totalTimeMin": 28,
     "shard": "q"
   },
   {
@@ -13260,17 +13253,15 @@
   },
   {
     "slug": "quick-velvety-indian-gherkin-pav-bhaji",
-    "title": "Quick Velvety Indian Gherkin Pav Bhaji",
+    "title": "Indian Bhaji Pav Sandwiches",
     "tags": [
-      "indian-cuisine",
-      "low-glycemic",
-      "lunch-ideas",
-      "one-pot",
-      "quick-meal",
-      "vegetarian"
+      "indian",
+      "street-food",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
