@@ -1,0 +1,75 @@
+{
+  "slug": "quick-velvety-indian-gherkin-pav-bhaji",
+  "title": "Indian Bhaji Pav Sandwiches",
+  "description": "A delicious and flavorful Indian street food-inspired sandwich filled with crispy bhaji and served on soft pav.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bhaji mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pav",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "gherkin",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "quick cilantro chutney",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "velvety green chutney",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan over medium heat.",
+    "Once hot, add a small amount of water to the pan and add the bhaji mix.",
+    "Fry until the bhaji is crispy and golden brown.",
+    "Drain the bhaji on paper towels.",
+    "Split the pav into halves.",
+    "Toast the pav halves until lightly browned.",
+    "Spread a layer of quick cilantro chutney on each pav half.",
+    "Add a few slices of gherkin on top of the chutney.",
+    "Place a few pieces of fried bhaji on top of the gherkin.",
+    "Serve immediately and enjoy!",
+    "For an extra kick, serve with a side of velvety green chutney."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "street-food",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-velvety-indian-gherkin-pav-bhaji",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:35:00.393Z"
+}
