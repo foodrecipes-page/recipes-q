@@ -1,0 +1,66 @@
+{
+  "slug": "quick-crispy-german-potato-hash",
+  "title": "German-Style Hash Browns",
+  "description": "A crispy and flavorful side dish inspired by German cuisine. Perfect for accompanying your favorite breakfast or brunch.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Hash",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel and grate the potatoes.",
+    "Soak the grated potatoes in cold water for 30 minutes.",
+    "Preheat the oven to 400°F (200°C).",
+    "Drain the potatoes and pat them dry with a paper towel.",
+    "In a bowl, mix together the grated potatoes, hash, salt, and pepper.",
+    "Heat 1-2 tablespoons of oil in a non-stick pan over medium heat.",
+    "Add the potato mixture to the pan and press it down with a spatula.",
+    "Cook for 3-4 minutes or until the bottom is golden brown.",
+    "Flip the hash browns over and cook for another 3-4 minutes.",
+    "Transfer the hash browns to the oven and bake for 10-12 minutes or until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "hash-browns",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-german-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:35:46.787Z"
+}
