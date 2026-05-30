@@ -1,0 +1,95 @@
+{
+  "slug": "quick-japanese-chicken-fritters",
+  "title": "Japanese Chicken Fritters",
+  "description": "Crispy on the outside, juicy on the inside, these Japanese-style fritters are a delightful twist on traditional chicken fritters. Serve with your favorite dipping sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "grated daikon",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "2. In a separate bowl, whisk together soy sauce, sugar, and eggs.",
+    "3. Add the grated daikon and carrot to the soy sauce mixture and mix well.",
+    "4. Add the chicken to the soy sauce mixture and mix until just combined.",
+    "5. Add the flour mixture to the chicken mixture and mix until just combined.",
+    "6. Do not overmix.",
+    "7. Heat vegetable oil in a large skillet over medium-high heat.",
+    "8. Using a small ice cream scoop, drop the chicken mixture into the oil and flatten slightly.",
+    "9. Fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "10. Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-chicken-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:34:08.314Z"
+}
