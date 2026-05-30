@@ -9016,13 +9016,11 @@
   },
   {
     "slug": "quick-german-fix-hash",
-    "title": "quick german fix hash",
+    "title": "Quick German Breakfast Hash",
     "tags": [
-      "breakfast",
       "german",
-      "lunch",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "hash"
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
@@ -10391,18 +10389,16 @@
   },
   {
     "slug": "quick-mexican-beans-tacos",
-    "title": "Quick Mexican Beans Tacos",
+    "title": "Quick Bean Tacos",
     "tags": [
       "beans",
-      "easy",
-      "gluten-free",
       "mexican",
-      "quick",
       "tacos",
-      "vegetarian-friendly"
+      "quick",
+      "vegetarian"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
