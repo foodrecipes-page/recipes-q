@@ -1,0 +1,70 @@
+{
+  "slug": "quick-baked-russian-pepper-pilaf",
+  "title": "Russian Pepper Pilaf",
+  "description": "A flavorful and hearty pilaf dish inspired by Russian cuisine, featuring tender peppers and savory spices.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "dice into 1-inch pieces"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 medium",
+      "notes": "dice into 1-inch pieces"
+    },
+    {
+      "name": "pilaf spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add diced peppers and cook for an additional 3-4 minutes.",
+    "Add rice and stir to coat with oil and mix with onions and peppers.",
+    "Cook for 1-2 minutes, until rice starts to lightly toast.",
+    "Add pilaf spice blend and black pepper, stir to combine.",
+    "Transfer mixture to a medium saucepan and add 1 1/2 cups water.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 18-20 minutes.",
+    "Fluff cooked rice with a fork and serve hot.",
+    "Garnish with additional chopped peppers or fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pepper",
+    "pilaf",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-baked-russian-pepper-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:47.264Z"
+}
