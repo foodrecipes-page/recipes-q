@@ -1,0 +1,96 @@
+{
+  "slug": "quick-crispy-british-fish-wrap",
+  "title": "British Fish Wrap",
+  "description": "A crispy, flavorful British-inspired fish wrap filled with flaky fish and crunchy slaw.",
+  "cuisine": "british",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaked Cod",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coleslaw Mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Quick Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together Worcestershire sauce and a pinch of salt and pepper.",
+    "2. Dip the flaked cod into the Worcestershire mixture, coating both sides completely.",
+    "3. Heat a large skillet over medium-high heat and add a small amount of oil.",
+    "4. Add the cod to the skillet and cook for 2-3 minutes on each side, or until cooked through.",
+    "5. Meanwhile, prepare the slaw by mixing together the coleslaw mix, mayonnaise, and chopped parsley in a bowl.",
+    "6. Warm the quick wrap in the microwave for 10-15 seconds.",
+    "7. To assemble the wrap, lay the warmed wrap flat and add a few leaves of lettuce.",
+    "8. Place the cooked cod on top of the lettuce, followed by a spoonful of the slaw.",
+    "9. Add the crispy fried onions on top of the slaw.",
+    "10. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "fish",
+    "wrap",
+    "seafood",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-british-fish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:23:00.670Z"
+}
