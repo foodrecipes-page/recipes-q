@@ -5125,33 +5125,27 @@
   },
   {
     "slug": "quick-australian-meat-casserole",
-    "title": "Quick Australian Meat Casserole",
+    "title": "Australian Meat Casserole",
     "tags": [
       "australian",
+      "meat",
       "casserole",
-      "comfort-food",
-      "high-protein",
-      "meat-based",
-      "one-pot",
-      "weeknight"
+      "beef"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
     "slug": "quick-baked-russian-pepper-pilaf",
-    "title": "Quick Baked Russian Pepper Pilaf",
+    "title": "Russian Pepper Pilaf",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "russian",
-      "weeknight"
+      "pepper",
+      "pilaf",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -6006,16 +6000,15 @@
   },
   {
     "slug": "quick-crispy-german-potato-hash",
-    "title": "Quick Crispy German Potato Hash",
+    "title": "German-Style Hash Browns",
     "tags": [
-      "air-fry",
+      "german",
       "breakfast",
-      "low-fat",
-      "one-pan",
-      "quick"
+      "hash-browns",
+      "potatoes"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 28,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -7305,16 +7298,14 @@
   },
   {
     "slug": "quick-fix-flaky-pepper-crumble",
-    "title": "Quick-Fix Flaky Pepper Crumble",
+    "title": "Crispy Flaky Pie Crust",
     "tags": [
-      "quick-fix",
-      "flaky",
-      "brazilian",
-      "pepper-crumble",
-      "egg-free"
+      "pie-crust",
+      "british-cuisine",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 5,
+    "cuisine": "British",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -7535,18 +7526,14 @@
   },
   {
     "slug": "quick-fix-italian-pasta-risotto",
-    "title": "Quick-Fix Italian pasta Risotto",
+    "title": "Italian Style Risotto",
     "tags": [
-      "high-protein",
       "italian",
-      "lombard",
-      "low-fat",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "risotto",
+      "pasta"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -9754,17 +9741,16 @@
   },
   {
     "slug": "quick-italian-green-beans-stracciatella",
-    "title": "Quick Italian Green Beans Stracciatella",
+    "title": "Quick Italian Green Bean Stracciatella Pasta",
     "tags": [
       "italian",
-      "low-fat",
-      "one-pot",
       "quick",
+      "pasta",
       "vegetarian",
-      "weeknight"
+      "green-beans"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -13532,17 +13518,15 @@
   },
   {
     "slug": "quickly-aerated-algerian-beans-tagine",
-    "title": "Quickly Aerated Algerian Beans Tagine",
+    "title": "Algerian Tagine Stew",
     "tags": [
       "algerian",
-      "beans",
-      "easy-veggie",
-      "low-carb",
-      "no-onion",
-      "quick-dinner"
+      "stew",
+      "slow-cooker",
+      "lactose-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 15,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -17983,6 +17967,19 @@
       "shrimp-pilaf"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-british-fish-wrap--mexican",
+    "title": "Mexican Crispy Fish Wrap",
+    "tags": [
+      "mexican",
+      "fish",
+      "wrap",
+      "crispy"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "q"
   }
