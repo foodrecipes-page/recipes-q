@@ -776,17 +776,15 @@
   },
   {
     "slug": "quaint-irish-pecan-cobbler",
-    "title": "Quaint Irish Pecan Cobbler",
+    "title": "Irish Pecan Cobbler",
     "tags": [
-      "diabetic-friendly",
-      "ferment-kimchi",
-      "gluten-free",
-      "irish-desserts",
-      "natural-sweeteners",
-      "pecan-nuts"
+      "irish",
+      "dessert",
+      "pecan",
+      "cobbler"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "cuisine": "irish",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
