@@ -1,0 +1,63 @@
+{
+  "slug": "quick-fix-italian-pasta-risotto",
+  "title": "Italian Style Risotto",
+  "description": "A classic Italian risotto dish loaded with flavor and texture.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quick Risotto",
+      "amount": "1 package",
+      "notes": "Follow package instructions for cooking"
+    },
+    {
+      "name": "Fix Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": "1 cup",
+      "notes": "broken into smaller pieces"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring 4 cups of water to a boil in a large pot.",
+    "Cook the risotto according to package instructions.",
+    "In a separate pan, heat 1 tsp of olive oil over medium heat.",
+    "Add the pasta and cook until lightly toasted, about 2-3 minutes.",
+    "Add the cooked risotto to the pasta and stir to combine.",
+    "Add the Italian seasoning and mix well.",
+    "Transfer the risotto mixture to a serving dish.",
+    "Top with Parmesan cheese and serve hot.",
+    "Optional: add any additional toppings you like, such as sautéed vegetables or grilled meats."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "risotto",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-italian-pasta-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:36:05.028Z"
+}
