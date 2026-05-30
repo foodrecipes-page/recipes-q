@@ -7249,16 +7249,14 @@
   },
   {
     "slug": "quick-fix-filipino-filipino-stout-halo-halo",
-    "title": "Quick-Fix Filipino Stout Halo-Halo",
+    "title": "Filipino-Style Chicken Adobo",
     "tags": [
-      "dairy-free",
       "filipino",
-      "halo-halo",
-      "stout",
-      "weeknight"
+      "chicken",
+      "adobo"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10531,17 +10529,15 @@
   },
   {
     "slug": "quick-nutty-vietnamese-pita-bread-bun-rieu",
-    "title": "Quick Nutty Vietnamese Pita Bread Bun Rieu",
+    "title": "Vietnamese Rieu Sandwich",
     "tags": [
-      "halal-friendly",
-      "nutty",
-      "one-pan",
-      "quick-meal",
-      "seafood",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "sandwich",
+      "lunch",
+      "meat-lovers"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -13611,18 +13607,16 @@
   },
   {
     "slug": "quickly-braised-syrian-eggplant-tagine",
-    "title": "Quickly Braised Syrian Eggplant Tagine",
+    "title": "Quick Syrian Braised Eggplant Tagine",
     "tags": [
-      "braised",
       "eggplant",
-      "one-pan",
-      "spicy",
       "syrian",
-      "veggie-forward",
-      "weeknight"
+      "braised",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
