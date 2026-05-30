@@ -1,0 +1,77 @@
+{
+  "slug": "quick-german-fix-hash",
+  "title": "Quick German Breakfast Hash",
+  "description": "A simple and delicious German-inspired breakfast dish made with pan-fried hash browns, eggs, and sausage.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": "shredded potatoes"
+    },
+    {
+      "name": "sausage",
+      "amount": "2",
+      "notes": "German-style, sliced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Heat butter in a large skillet over medium-high heat.",
+    "2. Add the sausage and cook until browned, about 3-4 minutes.",
+    "3. Remove the sausage from the skillet and set aside.",
+    "4. Add the chopped onion to the skillet and cook until softened, about 2-3 minutes.",
+    "5. Add the shredded hash browns to the skillet and cook until golden brown, about 4-5 minutes.",
+    "6. Push the hash browns to one side of the skillet.",
+    "7. Pour the beaten eggs into the other side of the skillet and scramble until cooked through.",
+    "8. Mix the eggs with the hash browns.",
+    "9. Add the cooked sausage back into the skillet and stir to combine.",
+    "10. Season with salt and pepper to taste.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-fix-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:34:43.549Z"
+}
