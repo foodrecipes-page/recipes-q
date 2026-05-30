@@ -1,0 +1,76 @@
+{
+  "slug": "quick-filipino-celery-bistek",
+  "title": "Bistek Tagalog",
+  "description": "A classic Filipino dish made with thinly sliced beef, onions, and a savory sauce, served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (bistek)",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "quick vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Marinate the beef in a mixture of soy sauce, patis, and ground black pepper for at least 30 minutes.",
+    "Heat oil in a pan over medium heat. Add the onions and cook until translucent.",
+    "Add the marinated beef to the pan and cook until browned on both sides.",
+    "Add the chopped celery and cook for 1 minute.",
+    "Pour in the quick vinegar and stir to combine.",
+    "Simmer the sauce for 5-7 minutes or until the beef is cooked to your desired level of doneness.",
+    "Serve the bistek with steamed rice and garnish with chopped onions and celery, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "beef",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-celery-bistek",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:44.293Z"
+}
