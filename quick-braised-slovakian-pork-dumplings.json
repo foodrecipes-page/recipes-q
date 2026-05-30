@@ -1,0 +1,91 @@
+{
+  "slug": "quick-braised-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings",
+  "description": "A hearty Slovakian dish featuring braised pork and homemade dumplings. This recipe is perfect for a chilly evening.",
+  "cuisine": "slovakian",
+  "diet": [
+    "null"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Braised dumpling mix",
+      "amount": "2 cups",
+      "notes": "see note below"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for boiling dumplings"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning pork"
+    }
+  ],
+  "instructions": [
+    "1. Heat lard or oil in a large Dutch oven over medium-high heat.",
+    "2. Add the chopped onion and cook until browned, about 5 minutes.",
+    "3. Add the cubed pork and cook until browned on all sides, about 5 minutes.",
+    "4. Add caraway seeds (if using) and cook for 1 minute.",
+    "5. Add the braised dumpling mix, beaten egg, salt, and pepper.",
+    "6. Mix well and cook for 2 minutes.",
+    "7. Gradually add water, stirring to combine.",
+    "8. Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "9. Meanwhile, boil the water for the dumplings.",
+    "10. Once the dumpling mixture has thickened, drop by tablespoonfuls into the boiling water.",
+    "11. Cook for 10-15 minutes, or until the dumplings are cooked through.",
+    "12. Serve the pork and dumplings hot, garnished with chopped fresh parsley (if desired)"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "dumplings",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:31:22.728Z"
+}
