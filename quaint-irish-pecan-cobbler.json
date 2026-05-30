@@ -1,0 +1,80 @@
+{
+  "slug": "quaint-irish-pecan-cobbler",
+  "title": "Irish Pecan Cobbler",
+  "description": "A twist on the classic cobbler, this Irish Pecan Cobbler combines the warmth of Irish cream with the crunch of pecans.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Irish cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped pecans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, graham cracker crumbs, and brown sugar.",
+    "Add the softened butter to the dry ingredients and mix until crumbly.",
+    "Press the mixture into the bottom of a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the granulated sugar, eggs, Irish cream, and vanilla extract.",
+    "Pour the sugar mixture over the crust.",
+    "Sprinkle the chopped pecans over the top of the sugar mixture.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "dessert",
+    "pecan",
+    "cobbler"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-irish-pecan-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:14.593Z"
+}
