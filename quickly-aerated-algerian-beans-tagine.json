@@ -1,0 +1,86 @@
+{
+  "slug": "quickly-aerated-algerian-beans-tagine",
+  "title": "Algerian Tagine Stew",
+  "description": "A flavorful and aromatic stew originating from Algeria, made with beans and spices. This recipe is a simplified version of a traditional Algerian dish.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dried White Beans",
+      "amount": "1 cup",
+      "notes": "such as cannellini or navy beans"
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "2 tsp",
+      "notes": "or a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Quickly Cooked Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Aerated Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional 1-2 minutes.",
+    "Add the Algerian spice blend and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth, beans, carrots, potatoes, and tomatoes.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "stew",
+    "slow-cooker",
+    "lactose-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-aerated-algerian-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:36:58.143Z"
+}
