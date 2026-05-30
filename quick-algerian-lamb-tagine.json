@@ -1,0 +1,99 @@
+{
+  "slug": "quick-algerian-lamb-tagine",
+  "title": "Classic Algerian Lamb Tagine",
+  "description": "A traditional North African dish, where tender lamb falls apart with a rich and aromatic spice blend, all slow-cooked in a flavorful tagine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Quick-cooking couscous",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a traditional clay tagine or large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, cumin, coriander, paprika, cayenne pepper, salt, and black pepper. Cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until lamb is tender.",
+    "Stir in couscous and cook for 5 minutes.",
+    "Fluff with a fork and serve hot.",
+    "Serve with additional water, if desired, to achieve the right consistency."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "couscous",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:45:51.603Z"
+}
