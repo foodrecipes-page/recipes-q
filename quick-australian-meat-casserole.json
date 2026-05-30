@@ -1,0 +1,84 @@
+{
+  "slug": "quick-australian-meat-casserole",
+  "title": "Australian Meat Casserole",
+  "description": "A hearty and flavorful casserole inspired by Australian cuisine. Perfect for a cold winter's night.",
+  "cuisine": "australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Potato",
+      "amount": "3 medium",
+      "notes": null
+    },
+    {
+      "name": "Australian Beef Gravy Mix",
+      "amount": "2 packets",
+      "notes": null
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "200g",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Brown the ground beef in a large pan over medium-high heat.",
+    "Add the diced onion, carrot, and potato to the pan and cook until the vegetables are tender.",
+    "Add the Australian Beef Gravy Mix and Beef Stock to the pan and stir to combine.",
+    "Transfer the mixture to a 20x30cm baking dish.",
+    "Pour the milk over the top of the mixture and sprinkle with Cheddar Cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "meat",
+    "casserole",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-australian-meat-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:39:38.569Z"
+}
