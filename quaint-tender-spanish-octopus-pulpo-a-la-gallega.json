@@ -1,0 +1,78 @@
+{
+  "slug": "quaint-tender-spanish-octopus-pulpo-a-la-gallega",
+  "title": "Gallega-Style Pulpo a la Parrilla (Grilled Octopus)",
+  "description": "A traditional Galician recipe from northwest Spain, where tender octopus is grilled over an open flame and served with a squeeze of lemon and a side of garlic sauce.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pulpo (octopus)",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Rinse the octopus and pat it dry with paper towels.",
+    "3. In a small bowl, mix together the lemon juice, garlic, smoked paprika, salt, and black pepper.",
+    "4. Brush the octopus with the olive oil and season with the lemon-garlic mixture.",
+    "5. Grill the octopus for 2-3 minutes per side, or until it's nicely charred and cooked through.",
+    "6. Remove the octopus from the grill and let it rest for a few minutes.",
+    "7. Serve the grilled octopus with a squeeze of lemon and a side of garlic sauce (see below).",
+    "8. To make the garlic sauce, combine 1/2 cup of mayonnaise, 1 tablespoon of lemon juice, and 1 minced garlic clove in a bowl. Mix well and refrigerate until ready to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "grilled",
+    "octopus",
+    "gallega"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-tender-spanish-octopus-pulpo-a-la-gallega",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:36:25.765Z"
+}
