@@ -1,0 +1,63 @@
+{
+  "slug": "quick-filipino-celery-bistek--chinese",
+  "title": "Bistek Stir Fry",
+  "description": "A quick Chinese-inspired stir fry featuring bistek, filipino-style. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bistek",
+      "amount": "1 lb",
+      "notes": "Thinly sliced beef"
+    },
+    {
+      "name": "Quick Filipino Seasoning",
+      "amount": "2 tsp",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or peanut oil work well"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet or wok over medium-high heat.",
+    "Add the bistek and cook until browned, about 3-4 minutes.",
+    "Remove the bistek from the skillet and set aside.",
+    "Add the remaining 1 tbsp of oil and the sliced celery. Cook until the celery is tender, about 2-3 minutes.",
+    "Add the quick filipino seasoning and stir to combine.",
+    "Return the bistek to the skillet and stir to combine with the celery and seasoning.",
+    "Cook for an additional 1-2 minutes, until the bistek is cooked through.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese-food",
+    "beef-dish",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-celery-bistek--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:18.041Z"
+}
