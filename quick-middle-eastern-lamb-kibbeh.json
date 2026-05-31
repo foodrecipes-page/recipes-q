@@ -1,0 +1,85 @@
+{
+  "slug": "quick-middle-eastern-lamb-kibbeh",
+  "title": "Lamb Kibbeh Koftas",
+  "description": "A Middle Eastern-inspired lamb kibbeh recipe made into koftas, perfect for a quick and flavorful meal. Serve with your favorite sides and enjoy!",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Kibbeh",
+      "amount": "250g",
+      "notes": "Middle Eastern-style kibbeh mix"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine lamb, kibbeh, onion, garlic, cumin, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "3. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "4. Divide the mixture into 8-10 equal portions and shape each portion into a kofta.",
+    "5. Thread the koftas onto skewers, leaving a little space between each kofta.",
+    "6. Brush the koftas with a little oil and season with salt and pepper.",
+    "7. Grill the koftas for 4-5 minutes per side, or until cooked through.",
+    "8. Serve hot with your favorite sides, such as rice, salad, or pita bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "kibbeh",
+    "koftas",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-middle-eastern-lamb-kibbeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:07:44.325Z"
+}
