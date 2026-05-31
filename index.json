@@ -17974,5 +17974,44 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "q"
+  },
+  {
+    "slug": "quick-filipino-celery-bistek--gluten-free",
+    "title": "Filipino-Style Bistek",
+    "tags": [
+      "filipino-cuisine",
+      "gluten-free",
+      "beef",
+      "celery"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-filipino-celery-bistek--vegetarian",
+    "title": "Bistek Filipino-Style Stir-Fry",
+    "tags": [
+      "beef-substitute",
+      "filipino-cuisine",
+      "stir-fry",
+      "vegetarian-dinner"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-filipino-celery-bistek--chinese",
+    "title": "Bistek Stir Fry",
+    "tags": [
+      "stir-fry",
+      "chinese-food",
+      "beef-dish",
+      "quick-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
