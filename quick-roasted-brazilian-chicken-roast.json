@@ -1,0 +1,76 @@
+{
+  "slug": "quick-roasted-brazilian-chicken-roast",
+  "title": "Brazilian Roasted Chicken",
+  "description": "A deliciously simple recipe for a flavorful roasted chicken, perfect for any meal.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole",
+      "notes": null
+    },
+    {
+      "name": "roasted",
+      "amount": "2 tablespoons",
+      "notes": "Brazilian seasoning"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "roast",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together roasted, quick, brazilian, roast, salt, and pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roasted",
+    "brazilian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 0,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-brazilian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:38.960Z"
+}
