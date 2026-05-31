@@ -1,0 +1,79 @@
+{
+  "slug": "quick-fried-vietnamese-chicken-sizzling-crepe",
+  "title": "Vietnamese Sizzling Chicken Crepes",
+  "description": "A crispy and savory Vietnamese-inspired crepe filled with juicy chicken, perfect for a quick snack or meal. The combination of spices and herbs adds a delightful flavor to this sizzling dish.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "Gluten-free for a crispy crepe"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs for a tender crepe"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For a thin crepe"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying the crepe"
+    },
+    {
+      "name": "Sizzling sauce",
+      "amount": "2 tablespoons",
+      "notes": "For a spicy kick"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour and eggs. Gradually add water and mix until smooth.",
+    "Heat a small non-stick pan over medium heat. Brush with vegetable oil.",
+    "Pour in the batter and tilt the pan to evenly coat the bottom.",
+    "Cook for 2 minutes or until the edges start to curl. Loosen with a spatula and flip.",
+    "Cook for another minute or until golden brown.",
+    "In a separate pan, heat some oil and cook the chicken until cooked through.",
+    "Add sizzling sauce and stir to combine.",
+    "Fill the crepe with the chicken mixture and garnish with fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "crispy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-vietnamese-chicken-sizzling-crepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:56.881Z"
+}
