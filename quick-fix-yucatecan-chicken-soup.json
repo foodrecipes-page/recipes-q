@@ -1,0 +1,95 @@
+{
+  "slug": "quick-fix-yucatecan-chicken-soup",
+  "title": "Creamy Yucatecan Chicken Soup",
+  "description": "A rich and flavorful soup originating from the Yucatán region of Mexico. This recipe combines tender chicken with a creamy broth and spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "quick chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "fix taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yucatecan soup spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the pot and cook until browned, about 5-7 minutes.",
+    "Add the chicken broth, taco seasoning, and soup spice blend to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Stir in the heavy cream and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "soup",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yucatecan-chicken-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:51:15.678Z"
+}
