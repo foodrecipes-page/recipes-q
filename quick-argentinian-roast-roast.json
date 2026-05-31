@@ -1,0 +1,87 @@
+{
+  "slug": "quick-argentinian-roast-roast",
+  "title": "Argentinian Roast Beef with Roast Potatoes",
+  "description": "A classic Argentinean-inspired dish featuring tender roast beef and crispy roast potatoes.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (rump or strip loin)",
+      "amount": "1.5 kg",
+      "notes": "Sliced into 2.5 cm thick steaks"
+    },
+    {
+      "name": "Roast potatoes",
+      "amount": "3-4",
+      "notes": "Large potatoes, peeled"
+    },
+    {
+      "name": "Argentinian chimichurri sauce",
+      "amount": "250ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "60ml",
+      "notes": "For basting the beef"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning the beef"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the beef"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the beef with salt and pepper.",
+    "Heat the olive oil in a large oven-safe skillet over high heat.",
+    "Sear the beef for 2-3 minutes per side, then transfer the skillet to the oven.",
+    "Roast the beef for 15-20 minutes per kg, or until it reaches your desired level of doneness.",
+    "While the beef is cooking, toss the potatoes with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the potatoes in the oven for 20-25 minutes, or until crispy and golden brown.",
+    "Remove the beef from the oven and let it rest for 10-15 minutes.",
+    "Slice the beef against the grain and serve with the roasted potatoes, chimichurri sauce, and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "roast-beef",
+    "roast-potatoes",
+    "beef",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": "120g",
+    "carbs": "50g",
+    "fat": "70g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-argentinian-roast-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:41:10.514Z"
+}
