@@ -11703,18 +11703,16 @@
   },
   {
     "slug": "quick-savory-chinese-salmon-biryani",
-    "title": "Quick Savory Chinese Salmon Biryani",
+    "title": "Quick Chinese Salmon with Biryani Rice",
     "tags": [
-      "biryani",
       "chinese",
-      "one-pan",
-      "quick",
       "salmon",
-      "savory",
-      "weeknight"
+      "biryani",
+      "quick",
+      "easy"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
