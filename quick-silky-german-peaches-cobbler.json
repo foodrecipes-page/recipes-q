@@ -1,0 +1,70 @@
+{
+  "slug": "quick-silky-german-peaches-cobbler",
+  "title": "German Peach Cobbler",
+  "description": "A traditional German-style peach cobbler with a silky, crispy crust. Perfect for a warm summer evening.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Peaches",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Quick Biscuit Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "1"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced peaches and granulated sugar. Let it sit for 15 minutes.",
+    "In another bowl, mix biscuit mix, flour, and melted butter until a dough forms.",
+    "Roll out the dough and place it on top of the peach mixture.",
+    "In a small bowl, whisk eggs and vanilla extract. Brush this mixture on top of the dough.",
+    "Bake in the preheated oven for 35-40 minutes, or until the crust is golden brown.",
+    "Serve warm with vanilla ice cream or whipped cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peach",
+    "cobbler",
+    "german",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-silky-german-peaches-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:46:02.705Z"
+}
