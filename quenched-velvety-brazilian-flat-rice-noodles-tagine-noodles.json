@@ -1,0 +1,64 @@
+{
+  "slug": "quenched-velvety-brazilian-flat-rice-noodles-tagine-noodles",
+  "title": "Brazilian Rice Tagine",
+  "description": "A hearty and flavorful rice tagine dish inspired by Brazilian cuisine, featuring tender noodles and velvety texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "quenched water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine in a large saucepan over medium-high heat.",
+    "Add the flat rice and cook until lightly toasted.",
+    "Add the quenched water and bring to a boil.",
+    "Reduce the heat to low and cover with a lid.",
+    "Simmer for 15-20 minutes or until the rice is cooked.",
+    "Add the noodles and cook for an additional 5 minutes.",
+    "Stir in the brazilian and season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "rice",
+    "tagine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-velvety-brazilian-flat-rice-noodles-tagine-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:01:34.117Z"
+}
