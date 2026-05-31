@@ -1,0 +1,62 @@
+{
+  "slug": "quick-filipino-celery-bistek--vegetarian",
+  "title": "Bistek Filipino-Style Stir-Fry",
+  "description": "A vegetarian twist on the classic Filipino dish, bistek, featuring tender beef substitute and a sweet soy sauce marinade.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bistek (beef substitute)",
+      "amount": "250g"
+    },
+    {
+      "name": "Quick soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Patis (fish sauce)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the bistek into thin strips.",
+    "In a bowl, combine soy sauce, patis, and black pepper.",
+    "Add the bistek to the marinade and mix well.",
+    "Heat a pan over medium heat and add the bistek.",
+    "Cook until the bistek is browned and crispy, about 5 minutes.",
+    "Add the chopped celery to the pan and cook until tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "beef-substitute",
+    "filipino-cuisine",
+    "stir-fry",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-celery-bistek--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:01:12.099Z"
+}
