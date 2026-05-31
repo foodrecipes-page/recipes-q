@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-italian-pasta-risotto--german",
+  "title": "German-Style Risotto with Italian Flair",
+  "description": "A hearty German-inspired risotto dish infused with Italian flavors and the richness of pasta.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any type of pasta, e.g., penne or fusilli"
+    },
+    {
+      "name": "risotto",
+      "amount": "1 cup",
+      "notes": "preferably arborio or carnaroli"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp olive oil",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "quick",
+      "amount": "2 cups vegetable broth",
+      "notes": "heated and kept warm"
+    },
+    {
+      "name": "fix",
+      "amount": "1/2 cup white wine",
+      "notes": "optional, but recommended for depth"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the pasta and cook until lightly toasted, about 2-3 minutes.",
+    "Add the risotto and cook for an additional 2 minutes, stirring constantly.",
+    "If using wine, add it to the skillet and cook until the liquid is almost completely absorbed.",
+    "Add 1/2 cup of the warmed broth to the skillet and stir until mostly absorbed.",
+    "Repeat the process of adding the broth in 1/2 cup increments, stirring constantly, until the risotto is cooked and creamy, about 15-20 minutes.",
+    "Remove the skillet from the heat and stir in the parmesan cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "italian-flair",
+    "risotto",
+    "pasta",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-italian-pasta-risotto--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:03:41.133Z"
+}
