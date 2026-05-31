@@ -1690,17 +1690,14 @@
   },
   {
     "slug": "quaintly-flaky-middle-eastern-kabocha-tagine",
-    "title": "Quaintly Flaky Middle Eastern Kabocha Tagine",
+    "title": "Quaint Tagine with Kabocha and Eastern Flair",
     "tags": [
-      "autumnal",
-      "comfort-food",
-      "flaky-pastry",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian"
+      "tagine",
+      "kabocha-squash",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -4726,17 +4723,15 @@
   },
   {
     "slug": "quenched-velvety-brazilian-flat-rice-noodles-tagine-noodles",
-    "title": "Quenched Velvety Brazilian Flat Rice Noodles Tagine",
+    "title": "Brazilian Rice Tagine",
     "tags": [
       "brazilian",
-      "gluten-free",
-      "monsoon-inspired",
-      "one-pot",
+      "rice",
       "tagine",
-      "vegetarian"
+      "one-pot"
     ],
-    "cuisine": "brazilian",
-    "totalTimeMin": 45,
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10403,16 +10398,16 @@
   },
   {
     "slug": "quick-middle-eastern-lamb-kibbeh",
-    "title": "Quick Middle Eastern Lamb Kibbeh",
+    "title": "Lamb Kibbeh Koftas",
     "tags": [
-      "lamb",
-      "low-carb",
       "middle-eastern",
-      "quick-fix",
-      "scallop-shells"
+      "lamb",
+      "kibbeh",
+      "koftas",
+      "grill"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -16897,17 +16892,15 @@
   },
   {
     "slug": "quietly-tender-venezuelan-turkey-neck-dumplings",
-    "title": "Quietly Tender Venezuelan Turkey Neck Dumplings",
+    "title": "Venezuelan Turkey Neck Stew with Dumplings",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "herbal",
-      "kid-friendly",
-      "latin-american",
-      "one-pot"
+      "stew",
+      "dumplings",
+      "venezuelan",
+      "comfort-food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 105,
+    "totalTimeMin": 80,
     "shard": "q"
   },
   {
