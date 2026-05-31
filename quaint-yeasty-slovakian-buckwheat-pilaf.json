@@ -1,0 +1,77 @@
+{
+  "slug": "quaint-yeasty-slovakian-buckwheat-pilaf",
+  "title": "Slovakian Buckwheat Pilaf",
+  "description": "A traditional Slovakian recipe using buckwheat and pilaf, served with a yeasty twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yeasty bread",
+      "amount": "1/2 cup, crumbled",
+      "notes": "use stale bread"
+    },
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the sliced Slovakian sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the buckwheat and pilaf to the skillet and stir to combine with the onion and garlic.",
+    "Add the crumbled yeasty bread to the skillet and stir to combine.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "buckwheat",
+    "pilaf",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-yeasty-slovakian-buckwheat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:13:40.891Z"
+}
