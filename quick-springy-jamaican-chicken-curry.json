@@ -1,0 +1,85 @@
+{
+  "slug": "quick-springy-jamaican-chicken-curry",
+  "title": "Jamaican Chicken Curry",
+  "description": "A flavorful and spicy Jamaican-inspired dish featuring chicken in a rich curry sauce. Serve with rice or naan for a delicious meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "spring onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the spring onion and cook until softened, about 3 minutes.",
+    "Add the curry, tomatoes, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped spring onion if desired.",
+    "Serve with rice or naan for a delicious meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "curry",
+    "poultry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-springy-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:51:23.992Z"
+}
