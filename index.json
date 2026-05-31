@@ -6552,17 +6552,15 @@
   },
   {
     "slug": "quick-energizing-chinese-ricotta-skewers",
-    "title": "Quick Energizing Chinese Ricotta Skewers",
+    "title": "Quick Chicken and Ricotta Skewers",
     "tags": [
-      "appetizer",
-      "cantonese",
-      "high-protein",
-      "low-carb",
-      "quick-snack",
-      "robata-grill"
+      "chinese",
+      "skewers",
+      "quick",
+      "energizing"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -18005,6 +18003,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-italian-pasta-risotto--german",
+    "title": "German-Style Risotto with Italian Flair",
+    "tags": [
+      "german-cuisine",
+      "italian-flair",
+      "risotto",
+      "pasta",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
