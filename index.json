@@ -1439,17 +1439,15 @@
   },
   {
     "slug": "quaint-tender-spanish-octopus-pulpo-a-la-gallega",
-    "title": "Quaint Tender Spanish Octopus Pulpo A La Gallega",
+    "title": "Gallega-Style Pulpo a la Parrilla (Grilled Octopus)",
     "tags": [
-      "flexitarian",
-      "one-pan",
-      "pescatarian",
-      "romantic",
-      "seafood",
-      "spanish"
+      "spanish",
+      "grilled",
+      "octopus",
+      "gallega"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -1572,14 +1570,12 @@
   },
   {
     "slug": "quaint-yeasty-slovakian-buckwheat-pilaf",
-    "title": "Quaint Yeasty Slovakian Buckwheat Pilaf",
+    "title": "Slovakian Buckwheat Pilaf",
     "tags": [
-      "buckwheat",
-      "one-pot",
-      "satvik",
       "slovakian",
-      "vegetarian",
-      "weeknight"
+      "buckwheat",
+      "pilaf",
+      "yeasty"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 30,
@@ -11791,17 +11787,14 @@
   },
   {
     "slug": "quick-savory-mediterranean-vegetable-tagine",
-    "title": "Quick Savory Mediterranean Vegetable Tagine",
+    "title": "Vegetarian Tagine",
     "tags": [
       "mediterranean",
-      "one-pot",
-      "quick",
-      "savory",
       "vegetarian",
-      "wine-based"
+      "tagine"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -14687,17 +14680,15 @@
   },
   {
     "slug": "quietly-comforting-irish-lamb-stew",
-    "title": "Quietly Comforting Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
       "comfort-food",
+      "lamb",
       "irish-cuisine",
-      "lamb-recipes",
-      "one-pot",
-      "tandoor-spices",
-      "weeknight-dinners"
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 110,
+    "totalTimeMin": 150,
     "shard": "q"
   },
   {
