@@ -1,0 +1,82 @@
+{
+  "slug": "quick-savory-chinese-salmon-biryani",
+  "title": "Quick Chinese Salmon with Biryani Rice",
+  "description": "A flavorful and nutritious Chinese-inspired salmon dish served with a side of savory biryani rice. Ready in under 30 minutes!",
+  "cuisine": "Chinese",
+  "diet": [
+    "healthy",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Biryani rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Savory soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick-cooking oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillet with salt and pepper.",
+    "In a pan, heat the quick-cooking oil over medium heat.",
+    "Add the minced garlic and ginger, cook for 1 minute.",
+    "Place the salmon fillet in the pan, skin side up.",
+    "Pour the savory soy sauce over the salmon, making sure it's fully coated.",
+    "Transfer the pan to the preheated oven and bake for 12-15 minutes.",
+    "While the salmon is cooking, cook the biryani rice according to package instructions.",
+    "Garnish with green onions and serve with the cooked biryani rice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "salmon",
+    "biryani",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-chinese-salmon-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:21:51.023Z"
+}
