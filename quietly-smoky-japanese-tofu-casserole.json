@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-smoky-japanese-tofu-casserole",
+  "title": "Smoky Japanese Tofu Casserole",
+  "description": "A unique and flavorful casserole that combines the smokiness of tofu with the spices of Japan. Perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "quietly smoked paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small bowl, whisk together the smoked paprika, soy sauce, and rice vinegar.",
+    "Cut the tofu into 1-inch cubes and place on a baking sheet.",
+    "Drizzle the coconut oil over the tofu and sprinkle with the paprika mixture.",
+    "Bake the tofu for 20-25 minutes, or until golden brown.",
+    "Meanwhile, cook the Japanese rice according to package instructions.",
+    "In a separate pan, sauté the green onions and shredded daikon (if using) in a little oil until softened.",
+    "To assemble the casserole, place a layer of cooked rice on the bottom of a baking dish.",
+    "Add a layer of baked tofu, followed by a layer of the onion-daikon mixture.",
+    "Repeat the layers two more times, ending with a layer of rice on top.",
+    "Cover the dish with foil and bake for 20-25 minutes, or until the casserole is hot and the rice is tender.",
+    "Remove the foil and bake for an additional 5-10 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "casserole",
+    "tofu",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-japanese-tofu-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:47:35.982Z"
+}
