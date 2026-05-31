@@ -1,0 +1,98 @@
+{
+  "slug": "quietly-tender-venezuelan-turkey-neck-dumplings",
+  "title": "Venezuelan Turkey Neck Stew with Dumplings",
+  "description": "A hearty and flavorful stew originating from Venezuela, perfect for a chilly evening.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Neck",
+      "amount": "1",
+      "notes": "approx. 2 lbs"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add turkey neck; brown on all sides, about 5 minutes.",
+    "Add tomato, broth, salt, and pepper; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until meat is tender, about 1 hour.",
+    "Meanwhile, mix flour, baking powder, and egg in a bowl.",
+    "Add melted butter; mix until a dough forms.",
+    "Drop by spoonfuls onto simmering stew.",
+    "Cover; cook, 10-12 minutes, or until dumplings are cooked through.",
+    "Serve hot, garnished with chopped herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "dumplings",
+    "venezuelan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-tender-venezuelan-turkey-neck-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:09:37.779Z"
+}
