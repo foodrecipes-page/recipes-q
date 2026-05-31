@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-fluffy-korean-napa-cabbage-stew",
+  "title": "Spicy Korean Cabbage Stew",
+  "description": "A hearty and flavorful Korean-inspired stew made with napa cabbage, korean chili flakes, and a hint of sweetness from the cabbage.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Napa Cabbage",
+      "amount": "2 heads",
+      "notes": "Shredded into thin strips"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste for desired level of spiciness"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Fluffy Quenched Sauce",
+      "amount": "2 tablespoons",
+      "notes": "See notes for making this sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional, but recommended for added depth of flavor"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance out the heat"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, until fragrant.",
+    "Add the shredded napa cabbage and cook for 3-4 minutes, until slightly softened.",
+    "Add the Korean chili flakes, stew, fluffy quenched sauce, soy sauce, and brown sugar.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 10-15 minutes, until the cabbage is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "cabbage",
+    "stew",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-fluffy-korean-napa-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:11:17.871Z"
+}
