@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-citrusy-peruvian-salt-cod-ceviche-clasico",
+  "title": "Peruvian Cod Ceviche",
+  "description": "A refreshing and flavorful dish from Peru, featuring raw cod marinated in citrus juices. Perfect for a light dinner or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Quietly lemon juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1 diced",
+      "notes": null
+    },
+    {
+      "name": "Citrusy red onion",
+      "amount": "1/2 cup diced",
+      "notes": null
+    },
+    {
+      "name": "Ceviche",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Clasico cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the cod into 1-inch pieces and place in a shallow dish.",
+    "In a small bowl, whisk together lime juice, lemon juice, and salt. Pour the marinade over the cod.",
+    "Add the diced aji amarillo pepper, red onion, and ceviche to the dish. Stir to combine.",
+    "Cover the dish with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the chopped cilantro over the top.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "fish",
+    "ceviche",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-citrusy-peruvian-salt-cod-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:08:05.905Z"
+}
