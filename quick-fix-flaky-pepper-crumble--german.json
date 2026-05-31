@@ -1,0 +1,89 @@
+{
+  "slug": "quick-fix-flaky-pepper-crumble--german",
+  "title": "German Crumble Apple Strudel",
+  "description": "A classic German pastry filled with apples and topped with a crumbly streusel topping.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples, sliced",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Flaky pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fix butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly streusel topping",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "a pinch",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch.",
+    "In a large bowl, mix together the sliced apples, sugar, and cinnamon.",
+    "Place the apple mixture onto one half of the pastry dough, leaving a 1-inch border around the edges.",
+    "Fold the other half of the pastry dough over the apple mixture and press the edges to seal.",
+    "Roll out the crumbly streusel topping and cut into small pieces.",
+    "Sprinkle the streusel topping over the pastry dough, leaving a small border around the edges.",
+    "Bake the strudel for 35-40 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Remove the strudel from the oven and sprinkle with a pinch of pepper for garnish.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "apple",
+    "pastry",
+    "strudel",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-flaky-pepper-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:50:06.461Z"
+}
