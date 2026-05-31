@@ -1,0 +1,77 @@
+{
+  "slug": "quick-energizing-chinese-ricotta-skewers",
+  "title": "Quick Chicken and Ricotta Skewers",
+  "description": "A simple and energizing Chinese-inspired snack using chicken and ricotta cheese. Perfect for a quick bite.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1/2 cup",
+      "notes": "Drained of excess liquid"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, honey, and sesame oil.",
+    "Add the chicken to the bowl and toss to coat.",
+    "Thread the chicken and ricotta cheese onto skewers.",
+    "Grill the skewers for 8-10 minutes, or until the chicken is cooked through.",
+    "Brush with additional soy sauce and honey during the last minute of grilling.",
+    "Garnish with sesame seeds and green onions.",
+    "Serve immediately.",
+    "Let the skewers rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "skewers",
+    "quick",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-chinese-ricotta-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:08:46.996Z"
+}
