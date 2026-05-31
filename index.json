@@ -8489,16 +8489,15 @@
   },
   {
     "slug": "quick-fix-yucatecan-chicken-soup",
-    "title": "Quick-Fix Yucatecan Chicken Soup",
+    "title": "Creamy Yucatecan Chicken Soup",
     "tags": [
-      "yucatecan",
+      "mexican",
       "chicken",
       "soup",
-      "halal",
-      "quick-fix"
+      "creamy"
     ],
-    "cuisine": "yucatecan",
-    "totalTimeMin": 20,
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -11145,17 +11144,15 @@
   },
   {
     "slug": "quick-roasted-brazilian-chicken-roast",
-    "title": "Quick Roasted Brazilian Chicken Roast",
+    "title": "Brazilian Roasted Chicken",
     "tags": [
-      "brazilian-cuisine",
-      "halal-friendly",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "quick-meal"
+      "chicken",
+      "roasted",
+      "brazilian",
+      "easy-dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -12038,13 +12035,12 @@
   },
   {
     "slug": "quick-silky-german-peaches-cobbler",
-    "title": "Quick Silky German Peaches Cobbler",
+    "title": "German Peach Cobbler",
     "tags": [
-      "fruit-cobbler",
-      "german-dessert",
-      "halal-friendly",
-      "quick-bake",
-      "silky-texture"
+      "peach",
+      "cobbler",
+      "german",
+      "dessert"
     ],
     "cuisine": "German",
     "totalTimeMin": 55,
@@ -12641,17 +12637,16 @@
   },
   {
     "slug": "quick-springy-jamaican-chicken-curry",
-    "title": "Quick Springy Jamaican Chicken Curry",
+    "title": "Jamaican Chicken Curry",
     "tags": [
-      "dinner-ideas",
-      "gluten-free",
-      "jamaican-cuisine",
-      "meal-prep",
-      "nut-free",
-      "one-pot"
+      "jamaican",
+      "chicken",
+      "curry",
+      "poultry",
+      "spicy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -13490,17 +13485,15 @@
   },
   {
     "slug": "quick-zesty-norwegian-beef-broth",
-    "title": "Quick Zesty Norwegian Beef Broth",
+    "title": "Quick Norwegian Beef Stew",
     "tags": [
-      "beef-broth",
-      "flexitarian-friendly",
-      "high-protein",
-      "norwegian-cuisine",
-      "one-pan",
-      "weeknight"
+      "norwegian",
+      "beef",
+      "stew",
+      "easy"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 160,
     "shard": "q"
   },
   {
@@ -17966,6 +17959,20 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-flaky-pepper-crumble--german",
+    "title": "German Crumble Apple Strudel",
+    "tags": [
+      "german",
+      "apple",
+      "pastry",
+      "strudel",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "q"
   }
 ]
