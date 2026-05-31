@@ -1,0 +1,56 @@
+{
+  "slug": "quick-flaky-spanish-bread-pa-amb-tomaquet",
+  "title": "Tomaquet Amb Pa",
+  "description": "A classic Spanish snack made with fresh tomato and bread.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tomaquet",
+      "amount": "2",
+      "notes": "ripe and fresh"
+    },
+    {
+      "name": "Amb",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Quick Bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your grill or grill pan to medium-high heat.",
+    "2. Cut the tomato in half and brush with olive oil.",
+    "3. Grill the tomato for 2-3 minutes per side, or until charred and tender.",
+    "4. Meanwhile, toast the bread slices until crispy and lightly browned.",
+    "5. Once the tomato is cooked, let it cool for a minute or two.",
+    "6. Rub the grilled tomato on top of the toasted bread slices.",
+    "7. Season with salt to taste, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-flaky-spanish-bread-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:17:37.235Z"
+}
