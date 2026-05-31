@@ -1,0 +1,90 @@
+{
+  "slug": "quick-filipino-celery-bistek--gluten-free",
+  "title": "Filipino-Style Bistek",
+  "description": "A classic Filipino dish made with thinly sliced beef cooks in a mixture of soy sauce, patis, and calamansi. This recipe is a twist on the traditional bistek with the addition of celery for an extra boost of flavor.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bistek",
+      "amount": "1 lb",
+      "notes": "Thinly slice the beef into 1/4 inch thick pieces"
+    },
+    {
+      "name": "Quick",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Slice into thin rounds"
+    },
+    {
+      "name": "Patis",
+      "amount": "2 tablespoons",
+      "notes": "Fish sauce"
+    },
+    {
+      "name": "Patis",
+      "amount": "2 tablespoons",
+      "notes": "Fish sauce"
+    },
+    {
+      "name": "Calamansi",
+      "amount": "2",
+      "notes": "Juice of 2 calamansi"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Slice into thin rings"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and black pepper.",
+    "Heat 2 tablespoons of oil in a pan over medium-high heat.",
+    "Sear the beef for 2-3 minutes on each side, or until browned.",
+    "Remove the beef from the pan and set aside.",
+    "Add the onion and garlic to the pan and sauté until softened.",
+    "Add the celery and cook for an additional 2 minutes.",
+    "Add the patis and calamansi to the pan and stir to combine.",
+    "Return the beef to the pan and stir to coat with the sauce.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the beef is cooked through.",
+    "Serve hot garnished with fresh calamansi and steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-cuisine",
+    "gluten-free",
+    "beef",
+    "celery"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-celery-bistek--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:00:43.446Z"
+}
