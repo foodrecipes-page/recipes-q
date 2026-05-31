@@ -1,0 +1,95 @@
+{
+  "slug": "quick-indulgent-korean-galangal-pasta",
+  "title": "Spicy Galangal Pasta",
+  "description": "A spicy and indulgent Korean-inspired pasta dish made with galangal, perfect for a quick dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the vegetable oil over medium-high heat.",
+    "Add the sliced galangal and cook until fragrant, about 1-2 minutes.",
+    "Add the gochujang, soy sauce, brown sugar, and red pepper flakes.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the cooked pasta to the skillet and toss to combine with the galangal sauce.",
+    "Transfer the pasta to a serving dish.",
+    "Garnish with chopped green onions, sesame seeds, and crushed peanuts.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "galangal",
+    "pasta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-indulgent-korean-galangal-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:08:48.440Z"
+}
