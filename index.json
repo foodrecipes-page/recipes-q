@@ -9425,17 +9425,15 @@
   },
   {
     "slug": "quick-grilled-turkish-meat-lahmacun",
-    "title": "Quick-Grilled Turkish Meat Lahmacun",
+    "title": "Turkish-Style Lahmacun",
     "tags": [
-      "high-protein",
-      "meatless-mondays",
-      "one-pan",
-      "quick-and-easy",
+      "lahmacun",
       "turkish",
-      "weeknight"
+      "pizza",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -17984,6 +17982,19 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-german-potato-hash--indian",
+    "title": "Indian-Style Hash Browns",
+    "tags": [
+      "indian",
+      "breakfast",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
