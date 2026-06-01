@@ -1,0 +1,82 @@
+{
+  "slug": "quick-fix-ethiopian-prawns-wot",
+  "title": "Spicy Ethiopian Prawn Wot",
+  "description": "A flavorful and aromatic Ethiopian-inspired wot made with succulent prawns, onions, garlic, ginger, and spices. Serve over injera or rice for a delicious and satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and cook until translucent, about 3-4 minutes.",
+    "Add garlic and ginger and cook for another minute, until fragrant.",
+    "Add prawns and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Add Berbere spice mix and cook for 1-2 minutes, until fragrant.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately over injera or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "ethiopian",
+    "spicy",
+    "wot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-ethiopian-prawns-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:12:22.933Z"
+}
