@@ -6750,18 +6750,16 @@
   },
   {
     "slug": "quick-fermented-croatian-turkey-neck-hash",
-    "title": "Quick Fermented Croatian Turkey Neck Hash",
+    "title": "Croatian-Style Smoked Turkey Neck Hash",
     "tags": [
-      "crispy",
-      "croatian",
-      "fermented",
-      "high-protein",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "smoked",
+      "hash",
+      "breakfast",
+      "brunch",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 260,
     "shard": "q"
   },
   {
@@ -17987,6 +17985,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-fix-hash--vegan",
+    "title": "Vegan German Hash",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
