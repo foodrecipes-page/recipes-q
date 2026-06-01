@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fermented-croatian-turkey-neck-hash",
+  "title": "Croatian-Style Smoked Turkey Neck Hash",
+  "description": "A hearty, smoky hash dish made with slow-cooked turkey neck and a blend of Croatian spices. Serve as a satisfying breakfast or brunch option.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1 (1 pound)",
+      "notes": null
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Smoked salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Hash browns",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Fermented red cabbage slaw",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quick pickled onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat smoker to 225°F (110°C).",
+    "Season the turkey neck with smoked salt, black pepper, and Croatian paprika.",
+    "Smoke the turkey neck for 4-5 hours, or until it reaches an internal temperature of 165°F (74°C).",
+    "Meanwhile, hash the browned potatoes and onions in a pan until crispy.",
+    "Shred the cooked turkey neck into bite-sized pieces.",
+    "To assemble the hash, layer the shredded turkey, hash browns, fermented red cabbage slaw, and quick pickled onions in a serving dish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "hash",
+    "breakfast",
+    "brunch",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fermented-croatian-turkey-neck-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T13:55:52.927Z"
+}
