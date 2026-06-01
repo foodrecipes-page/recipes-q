@@ -1,0 +1,69 @@
+{
+  "slug": "quickly-shattering-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A delicious and flavorful dish from the Middle East, featuring tender lamb skewers grilled to perfection. Serve with a side of fresh vegetables and a dollop of tzatziki sauce for a complete meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "peanut-free",
+    "tree-nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Quickly",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Shattering",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Kebabs",
+      "amount": "10-12 skewers",
+      "notes": "preferably wooden"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together quickly (olive oil), shattering (garlic), and Syrian (ground cumin).",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto the kebab skewers, leaving a small space between each piece.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Brush the grill with a little more quickly (olive oil) and cook the kebabs for 8-10 minutes per side, or until the lamb is cooked through.",
+    "Transfer the kebabs to a serving platter and let rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "grilled",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-shattering-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T12:11:35.222Z"
+}
