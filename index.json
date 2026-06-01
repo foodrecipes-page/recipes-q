@@ -7186,16 +7186,15 @@
   },
   {
     "slug": "quick-fix-ethiopian-prawns-wot",
-    "title": "quick-fix ethiopian prawns wot",
+    "title": "Spicy Ethiopian Prawn Wot",
     "tags": [
+      "prawns",
       "ethiopian",
-      "one-pan",
-      "quick-fix",
-      "vegan-friendly",
-      "weeknight"
+      "spicy",
+      "wot"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 20,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -16071,16 +16070,15 @@
   },
   {
     "slug": "quietly-roasted-ethiopian-boudin-blanc-roast",
-    "title": "Quietly Roasted Ethiopian Boudin Blanc Roast",
+    "title": "Roasted Ethiopian Chicken with Boudin Blanc",
     "tags": [
-      "comfort-food",
-      "lacto-vegetarian",
-      "one-pot",
-      "roasted",
-      "yeasty"
+      "chicken",
+      "ethiopian",
+      "boudin",
+      "roasted"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
