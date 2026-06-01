@@ -7478,16 +7478,14 @@
   },
   {
     "slug": "quick-fix-italian-dum-pasta",
-    "title": "Quick-Fix Italian Dum Pasta",
+    "title": "Quick Italian Pasta",
     "tags": [
-      "high-protein",
       "italian",
-      "keto",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "pasta",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Italian",
+    "cuisine": "italian",
     "totalTimeMin": 20,
     "shard": "q"
   },
@@ -14061,16 +14059,14 @@
   },
   {
     "slug": "quickly-shattering-syrian-lamb-kebabs",
-    "title": "Quickly Shattering Syrian Lamb Kebabs",
+    "title": "Syrian Lamb Kebabs",
     "tags": [
-      "flexitarian",
-      "herbal",
-      "lamb-kebabs",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "grilled",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "q"
   },
