@@ -1,0 +1,95 @@
+{
+  "slug": "quietly-roasted-ethiopian-boudin-blanc-roast",
+  "title": "Roasted Ethiopian Chicken with Boudin Blanc",
+  "description": "A flavorful and aromatic dish combining the spices of Ethiopia with the richness of French boudin.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "boudin blanc",
+      "amount": "1",
+      "notes": "casings removed"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the chicken with berbere spice, salt, and black pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Transfer the chicken to a baking sheet and roast in the oven for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, cook the boudin blanc in the same skillet over medium heat, breaking it up with a spoon as it cooks, until lightly browned and crispy, about 5-7 minutes.",
+    "Add the minced garlic, chopped onion, and grated ginger to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in the chopped rosemary and cook for an additional minute.",
+    "To serve, slice the roasted chicken and serve with the boudin blanc mixture spooned over the top.",
+    "Garnish with additional rosemary and berbere spice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "ethiopian",
+    "boudin",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-roasted-ethiopian-boudin-blanc-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:26:39.568Z"
+}
