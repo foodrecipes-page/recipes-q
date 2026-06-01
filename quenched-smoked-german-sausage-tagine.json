@@ -1,0 +1,75 @@
+{
+  "slug": "quenched-smoked-german-sausage-tagine",
+  "title": "Smoked Sausage Tagine",
+  "description": "A hearty North African-inspired stew made with smoked sausage, tender vegetables, and aromatic spices. Perfect for a cold winter night.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "quenched german potato",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can, 14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large Dutch oven over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the potato, tagine spice mix, diced tomatoes, and chicken broth to the pot.",
+    "Stir to combine, then return the sausage to the pot.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, until the potato is tender, about 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "smoked-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoked-german-sausage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:27:55.128Z"
+}
