@@ -1,0 +1,65 @@
+{
+  "slug": "quaint-yeasty-slovakian-buckwheat-pilaf--japanese",
+  "title": "Japanese Buckwheat Pilaf with Slovakian Yeast",
+  "description": "A unique and flavorful Japanese-inspired pilaf dish made with buckwheat and a hint of Slovakian yeast. Enjoy as a quick and easy side or main course.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "quaint vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the quaint vegetable oil in a large saucepan over medium heat.",
+    "Add the Slovakian yeast and cook for 1 minute, until fragrant.",
+    "Add the buckwheat and cook for 2-3 minutes, until lightly toasted.",
+    "Add the pilaf, salt, and water to the saucepan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the liquid has been absorbed and the pilaf is tender.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "buckwheat",
+    "pilaf",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-yeasty-slovakian-buckwheat-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:38:29.623Z"
+}
