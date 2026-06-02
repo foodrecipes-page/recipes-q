@@ -10671,14 +10671,11 @@
   },
   {
     "slug": "quick-poached-thai-ground-poppy-seeds-noodles",
-    "title": "Quick Poached Thai Ground Poppy Seeds Noodles",
+    "title": "Thai-Style Ground Beef Noodles",
     "tags": [
-      "buddhist-temple-friendly",
-      "high-carb",
-      "one-pot",
-      "quick-meal",
-      "thai-street-food",
-      "vegan-friendly"
+      "ground-beef",
+      "noodles",
+      "thai-food"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
@@ -12775,17 +12772,16 @@
   },
   {
     "slug": "quick-steamed-vietnamese-tofu-noodles",
-    "title": "Quick Steamed Vietnamese Tofu Noodles",
+    "title": "Vietnamese Noodle Soup",
     "tags": [
-      "jain-friendly",
-      "noodle-dish",
-      "quick-lunch",
-      "steamed-dish",
-      "tofu-recipe",
-      "vietnamese-cuisine"
+      "quick",
+      "steamed",
+      "vietnamese",
+      "tofu",
+      "noodles"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -12935,18 +12931,16 @@
   },
   {
     "slug": "quick-thai-barbeque-sauce-khanom-thai",
-    "title": "Quick Thai Barbeque Sauce Khanom Thai",
+    "title": "Thai-Style Barbeque Chicken",
     "tags": [
-      "barbeque",
-      "easy",
-      "no-garlic",
-      "no-onion",
-      "one-pan",
       "thai",
-      "weeknight"
+      "barbeque",
+      "chicken",
+      "quick",
+      "dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
