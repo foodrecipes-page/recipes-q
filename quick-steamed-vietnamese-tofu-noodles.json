@@ -1,0 +1,85 @@
+{
+  "slug": "quick-steamed-vietnamese-tofu-noodles",
+  "title": "Vietnamese Noodle Soup",
+  "description": "A quick and easy steamed noodle soup with tofu and vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Cut tofu into small cubes and cook in a pan with a little oil until golden brown.",
+    "In a large pot, combine vegetable broth, soy sauce, fish sauce (if using), and lime juice.",
+    "Bring the broth to a simmer and cook for 5 minutes.",
+    "Add cooked noodles and tofu to the pot and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and scallions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "steamed",
+    "vietnamese",
+    "tofu",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:02:46.390Z"
+}
