@@ -1,0 +1,95 @@
+{
+  "slug": "quick-fix-italian-dum-pasta--indian",
+  "title": "Chicken and Dum Biryani",
+  "description": "A traditional Indian dish made with chicken, dumplings, and spices, served over basmati rice. This recipe is a variation of the classic biryani, with a creamy and flavorful twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "dum",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "italian fix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "quick fix spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add pasta and cook for 2-3 minutes.",
+    "Add dum and cook for 2-3 minutes.",
+    "Add spices and salt, and stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat and simmer for 10-15 minutes.",
+    "Fluff with a fork and garnish with cilantro and lemon juice.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "dumplings",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-italian-dum-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:01:10.052Z"
+}
