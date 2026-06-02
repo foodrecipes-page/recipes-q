@@ -16300,17 +16300,15 @@
   },
   {
     "slug": "quietly-simmered-malaysian-beef-curry",
-    "title": "Quietly Simmered Malaysian Beef Curry",
+    "title": "Malaysian Beef Curry",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "curry-dishes",
-      "diabetic-friendly",
-      "gluten-free",
-      "malaysian-cuisine"
+      "beef",
+      "curry",
+      "malaysian",
+      "dinner"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -17987,6 +17985,20 @@
       "german"
     ],
     "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-vietnamese-tofu-noodles--indian",
+    "title": "Spicy Tofu Noodle Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "tofu",
+      "noodles",
+      "spicy"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "q"
   }
