@@ -1,0 +1,93 @@
+{
+  "slug": "quick-steamed-vietnamese-tofu-noodles--indian",
+  "title": "Spicy Tofu Noodle Curry",
+  "description": "A flavorful and spicy Indian-inspired curry made with quick-cooked tofu and steamed noodles. This dish is perfect for a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "steamed according to package instructions"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the curry powder, cumin, coriander, and chili flakes. Cook for 1 minute, stirring constantly.",
+    "Add the tofu and cook until golden brown, about 5 minutes.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes, stirring occasionally.",
+    "Season with salt to taste.",
+    "Serve over steamed noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "tofu",
+    "noodles",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-vietnamese-tofu-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T17:17:58.451Z"
+}
