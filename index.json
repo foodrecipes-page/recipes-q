@@ -2904,16 +2904,15 @@
   },
   {
     "slug": "quenched-gooey-french-peanut-crepes",
-    "title": "Quenched Gooey French Peanut Crepes",
+    "title": "Crepes with Peanut Filling",
     "tags": [
-      "crepe-recipes",
-      "dessert-ideas",
-      "french-cuisine",
-      "peanut-butter-lovers",
-      "weeknight-dinner"
+      "crepes",
+      "peanut-butter",
+      "dessert",
+      "snack"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -9590,16 +9589,15 @@
   },
   {
     "slug": "quick-indulgent-egyptian-spaghetti-pasta",
-    "title": "Quick Indulgent Egyptian Spaghetti Pasta",
+    "title": "Spaghetti Fettuccine with Egyptian Flair",
     "tags": [
-      "comfort-food",
-      "middle-eastern",
-      "one-pot",
-      "pasta-lover",
-      "quick-meal",
-      "vegetarian"
+      "italian",
+      "egyptian",
+      "indulgent",
+      "pasta",
+      "spaghetti"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "egyptian",
     "totalTimeMin": 35,
     "shard": "q"
   },
