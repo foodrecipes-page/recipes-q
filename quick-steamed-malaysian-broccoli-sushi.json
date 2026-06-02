@@ -1,0 +1,70 @@
+{
+  "slug": "quick-steamed-malaysian-broccoli-sushi",
+  "title": "Steamed Broccoli with Malaysian Sauce",
+  "description": "A simple and flavorful side dish that combines the health benefits of steamed broccoli with the rich flavors of a Malaysian-inspired sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Fill a medium saucepan with water and bring to a boil.",
+    "Add the broccoli to the saucepan and steam for 3-5 minutes or until tender.",
+    "In a small bowl, whisk together the soy sauce, lime juice, honey, ginger, and garlic.",
+    "Pour the sauce over the steamed broccoli and toss to coat.",
+    "Serve immediately and garnish with sesame seeds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "side-dish",
+    "malaysian",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-malaysian-broccoli-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:52:14.557Z"
+}
