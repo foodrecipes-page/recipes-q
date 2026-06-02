@@ -1,0 +1,89 @@
+{
+  "slug": "quick-thai-barbeque-sauce-khanom-thai",
+  "title": "Thai-Style Barbeque Chicken",
+  "description": "Sweet and spicy Thai-inspired barbeque chicken, perfect for a quick dinner. Serve with steamed vegetables and rice for a balanced meal.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "available in most supermarkets or Asian markets"
+    },
+    {
+      "name": "Barbeque sauce",
+      "amount": "1 cup",
+      "notes": "sweet and spicy"
+    },
+    {
+      "name": "Khanom jeen noodles",
+      "amount": "1 cup",
+      "notes": "Thai rice noodles"
+    },
+    {
+      "name": "Quick-cooking rice",
+      "amount": "2 cups",
+      "notes": "preferably jasmine rice"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for balance sweetness"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Cook the quick-cooking rice according to the package instructions. Set aside.",
+    "2. In a large bowl, whisk together curry paste, barbeque sauce, brown sugar, and sesame oil.",
+    "3. Add the chicken breasts to the marinade and mix until well-coated.",
+    "4. Preheat a grill or grill pan to medium-high heat. Grill the marinated chicken for 5-6 minutes per side, or until cooked through.",
+    "5. In a separate pan, heat the marinade over medium heat until slightly thickened.",
+    "6. Slice the grilled chicken into thin strips.",
+    "7. Add the sliced chicken, khanom jeen noodles, and chopped Thai basil to the pan with the marinade.",
+    "8. Stir-fry everything together for about 2-3 minutes, until the noodles are well coated.",
+    "9. Serve the Thai-Style Barbeque Chicken over the cooked quick-cooking rice.",
+    "10. Garnish with additional Thai basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "barbeque",
+    "chicken",
+    "quick",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 43,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-thai-barbeque-sauce-khanom-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:26:21.984Z"
+}
