@@ -1,0 +1,90 @@
+{
+  "slug": "quick-indulgent-egyptian-spaghetti-pasta",
+  "title": "Spaghetti Fettuccine with Egyptian Flair",
+  "description": "A twist on the classic spaghetti dish, infused with the bold flavors of Egypt and a touch of indulgence.",
+  "cuisine": "egyptian",
+  "diet": [
+    "indulgent"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "Long, thin strands of pasta"
+    },
+    {
+      "name": "Pasta Fettuccine",
+      "amount": "8 oz",
+      "notes": "Wide, flat noodles"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for added flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted for a richer taste"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "For a creamy, indulgent sauce"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "Grated for a sharp, salty flavor"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground for an Egyptian twist"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to balance flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground for a peppery kick"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions until al dente.",
+    "In a separate pan, melt the butter over medium heat and sauté the minced garlic until fragrant.",
+    "Add the heavy cream to the pan and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5-7 minutes, or until it thickens slightly.",
+    "Stir in the grated Parmesan cheese until melted and smooth.",
+    "Add the ground cumin and smoked paprika to the sauce and stir to combine.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Drain the cooked spaghetti and add it to the sauce, tossing to combine.",
+    "Serve hot, topped with additional grated Parmesan cheese if desired.",
+    "Garnish with chopped fresh parsley or cilantro for added color and freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "egyptian",
+    "indulgent",
+    "pasta",
+    "spaghetti"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-indulgent-egyptian-spaghetti-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:30:37.850Z"
+}
