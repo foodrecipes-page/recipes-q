@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-gooey-french-peanut-crepes",
+  "title": "Crepes with Peanut Filling",
+  "description": "Delicate French crepes filled with a rich peanut filling, perfect for a snack or dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French crepes",
+      "amount": "4-6",
+      "notes": "Store-bought or homemade crepes work well for this recipe."
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together peanut butter, sugar, and milk until smooth.",
+    "Add a pinch of salt and mix until combined.",
+    "Lay a crepe flat on a work surface and spoon about 1-2 tablespoons of the peanut filling onto the center of the crepe.",
+    "Fold the crepe in half over the filling, then fold in half again to form a triangle.",
+    "Serve immediately and enjoy!",
+    "To make homemade crepes, whisk together 1 cup of milk, 1 large egg, and 1 tablespoon of melted butter in a bowl.",
+    "Add 1 1/2 cups of all-purpose flour and whisk until smooth.",
+    "Heat a small non-stick pan over medium heat and brush with melted butter.",
+    "Pour a small amount of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip it over.",
+    "Cook for an additional 30 seconds to 1 minute, until the other side is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "crepes",
+    "peanut-butter",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-gooey-french-peanut-crepes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:28:09.086Z"
+}
