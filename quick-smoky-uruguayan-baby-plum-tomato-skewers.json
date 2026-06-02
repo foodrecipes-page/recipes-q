@@ -1,0 +1,78 @@
+{
+  "slug": "quick-smoky-uruguayan-baby-plum-tomato-skewers",
+  "title": "Smoky Uruguayan Skewers",
+  "description": "A flavorful and spicy Uruguayan-inspired dish featuring smoky skewers of meat and vegetables, served with a sweet and tangy plum sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pork-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby back ribs",
+      "amount": "1 pound",
+      "notes": "Pork ribs"
+    },
+    {
+      "name": "Plum sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Metal or wooden"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Uruguayan seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Mix of paprika, garlic, and oregano"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Thickly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. Cut the baby back ribs into 1-inch cubes.",
+    "3. Thread the rib pieces, tomato, and onion onto the skewers.",
+    "4. Brush the skewers with olive oil and sprinkle with Uruguayan seasoning.",
+    "5. Grill the skewers for 10-12 minutes, turning occasionally.",
+    "6. While the skewers are cooking, heat the plum sauce in a small saucepan over medium heat.",
+    "7. Serve the skewers hot with the plum sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "uruguayan",
+    "skewers",
+    "plum-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-uruguayan-baby-plum-tomato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:40:00.962Z"
+}
