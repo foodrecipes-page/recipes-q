@@ -1,0 +1,68 @@
+{
+  "slug": "quintessentially-gooey-dutch-semolina-casserole",
+  "title": "Dutch Semolina Casserole",
+  "description": "A classic Dutch dessert featuring semolina, gooey and quintessentially delicious. Serve warm.",
+  "cuisine": "Dutch",
+  "diet": [
+    "dairy",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a saucepan, combine semolina, milk, and sugar. Cook over medium heat, stirring constantly, until mixture thickens.",
+    "3. Remove from heat and stir in butter and vanilla extract.",
+    "4. In a separate bowl, whisk eggs.",
+    "5. Add egg mixture to semolina mixture and stir until combined.",
+    "6. Pour mixture into a greased 9x13-inch casserole dish.",
+    "7. Bake for 25-30 minutes, or until golden brown.",
+    "8. Serve warm, topped with additional sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "dutch",
+    "semolina",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-gooey-dutch-semolina-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:41:22.130Z"
+}
