@@ -1,0 +1,95 @@
+{
+  "slug": "quick-poached-thai-ground-poppy-seeds-noodles",
+  "title": "Thai-Style Ground Beef Noodles",
+  "description": "A quick and flavorful Thai-inspired dish made with ground beef, noodles, and vegetables. Serve hot and enjoy!",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Thai noodles",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Mushroom",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the Thai noodles according to the package instructions.",
+    "In a large pan or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the onion and bell pepper and cook until they start to soften.",
+    "Add the mushroom and cook until it's tender.",
+    "Add the ground beef and cook until it's browned, breaking it up into small pieces as it cooks.",
+    "Stir in the Thai red curry paste and cook for 1 minute.",
+    "Add the fish sauce, soy sauce, and brown sugar, and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ground-beef",
+    "noodles",
+    "thai-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-poached-thai-ground-poppy-seeds-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:32:02.416Z"
+}
