@@ -17576,17 +17576,15 @@
   },
   {
     "slug": "quintessentially-gooey-dutch-semolina-casserole",
-    "title": "Quintessentially Gooey Dutch Semolina Casserole",
+    "title": "Dutch Semolina Casserole",
     "tags": [
-      "cold-weather",
-      "comfort-food",
-      "gluten-free",
-      "hearty",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "dutch",
+      "semolina",
+      "casserole"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -18000,6 +17998,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-italian-dum-pasta--indian",
+    "title": "Chicken and Dum Biryani",
+    "tags": [
+      "indian",
+      "chicken",
+      "dumplings",
+      "rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-smoky-japanese-tofu-casserole--vegan",
+    "title": "Smoky Japanese Casserole",
+    "tags": [
+      "vegan",
+      "japanese",
+      "casserole",
+      "smoky"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
