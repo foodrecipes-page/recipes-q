@@ -12692,17 +12692,16 @@
   },
   {
     "slug": "quick-steamed-malaysian-broccoli-sushi",
-    "title": "Quick Steamed Malaysian Broccoli Sushi",
+    "title": "Steamed Broccoli with Malaysian Sauce",
     "tags": [
-      "kid-friendly",
-      "macrobiotic",
-      "malaysian-cuisine",
-      "quick-meal",
-      "steamed-vegetables",
-      "sushi-recipe"
+      "vegetarian",
+      "vegan",
+      "side-dish",
+      "malaysian",
+      "broccoli"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "cuisine": "malaysian",
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -18022,6 +18021,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-yeasty-slovakian-buckwheat-pilaf--japanese",
+    "title": "Japanese Buckwheat Pilaf with Slovakian Yeast",
+    "tags": [
+      "japanese",
+      "buckwheat",
+      "pilaf",
+      "yeast"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
