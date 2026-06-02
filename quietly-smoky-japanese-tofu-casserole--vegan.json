@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-smoky-japanese-tofu-casserole--vegan",
+  "title": "Smoky Japanese Casserole",
+  "description": "A vegan take on the classic casserole, with a smoky twist from Japanese-inspired flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "quietly",
+      "amount": "1 cup",
+      "notes": "any type of mushroom works"
+    },
+    {
+      "name": "japanese tofu",
+      "amount": "1 block",
+      "notes": "firm or soft"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari for gluten-free"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "or date syrup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the casserole by cooking it according to package instructions.",
+    "Sauté the mushrooms and tofu in coconut oil until lightly browned.",
+    "In a separate pan, combine soy sauce, rice vinegar, and maple syrup. Bring to a simmer.",
+    "Add the sesame seeds (if using) and stir to combine.",
+    "In a large mixing bowl, combine the cooked casserole, mushroom-tofu mixture, and sauce.",
+    "Transfer the mixture to a baking dish and top with additional sesame seeds (if using).",
+    "Bake for 20-25 minutes or until the casserole is hot and the sauce is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "japanese",
+    "casserole",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-japanese-tofu-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:13:08.675Z"
+}
