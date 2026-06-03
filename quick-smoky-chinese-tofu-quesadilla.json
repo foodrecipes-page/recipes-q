@@ -1,0 +1,87 @@
+{
+  "slug": "quick-smoky-chinese-tofu-quesadilla",
+  "title": "Smoky Quesadilla Tofu Stir Fry",
+  "description": "A fusion of Asian and Mexican flavors, this quick stir-fry is made with crispy tofu and smoky quesadilla strips. Serve over steamed rice for a flavorful and nutritious meal.",
+  "cuisine": "Asian-Mexican",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Quick Chinese Stir-Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Quesadilla",
+      "amount": "4-6 strips",
+      "notes": "torn into bite-sized pieces"
+    },
+    {
+      "name": "Mixed Bell Peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 30 seconds.",
+    "Add the sliced bell peppers and snow peas and stir-fry for 2-3 minutes.",
+    "Add the torn quesadilla strips and stir-fry for 1-2 minutes, until crispy.",
+    "Add the pressed tofu and stir-fry for 1-2 minutes, until golden brown.",
+    "Pour in the quick Chinese stir-fry sauce and stir-fry for 1 minute, until the sauce is bubbly.",
+    "Season with salt and pepper to taste.",
+    "Serve over steamed rice and garnish with sliced green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "quick",
+    "smoky",
+    "chinese",
+    "tofu",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-chinese-tofu-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T06:02:39.982Z"
+}
