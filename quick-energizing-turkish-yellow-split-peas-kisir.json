@@ -1,0 +1,87 @@
+{
+  "slug": "quick-energizing-turkish-yellow-split-peas-kisir",
+  "title": "Turkish Pea Kisir",
+  "description": "A quick and energizing Turkish salad made with split peas and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "high-fiber"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Split Peas",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Turkish Red Pepper",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Kisir Spice Mix",
+      "amount": "1 tablespoon",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "Pomegranate Molasses",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Cook the split peas according to package instructions.",
+    "Chop the yellow onion and Turkish red pepper.",
+    "In a large bowl, combine the cooked peas, chopped onion, and red pepper.",
+    "Add the Kisir Spice Mix and pomegranate molasses (if using) to the bowl.",
+    "Stir in the chopped parsley and lemon juice.",
+    "Drizzle the olive oil over the top and mix well.",
+    "Season with salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "pea",
+    "salad",
+    "kisir",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-turkish-yellow-split-peas-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:28:15.990Z"
+}
