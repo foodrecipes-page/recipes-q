@@ -4248,15 +4248,12 @@
   },
   {
     "slug": "quenched-smoky-uruguayan-lamb-roast",
-    "title": "Quenched Smoky Uruguayan Lamb Roast",
+    "title": "Uruguayan Roast Lamb",
     "tags": [
-      "date-night",
-      "dinner",
-      "gluten-free",
-      "one-tray",
-      "smoky",
-      "tamasic-friendly",
-      "uruguay"
+      "lamb",
+      "roast",
+      "uruguayan",
+      "smoky"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 135,
@@ -17776,17 +17773,16 @@
   },
   {
     "slug": "quirky-german-scotch-bonnet-pudding",
-    "title": "Quirky German Scotch Bonnet Pudding",
+    "title": "Spicy Scotch Bonnet Pudding",
     "tags": [
-      "almond-milk",
-      "chilled-dessert",
-      "gelatin-pudding",
-      "german-dessert",
-      "low-fat",
-      "scotch-bonnet"
+      "scotch-bonnet",
+      "pudding",
+      "caribbean",
+      "dessert",
+      "spicy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "caribbean",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -18042,6 +18038,19 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-comforting-irish-lamb-stew--indian",
+    "title": "Lamb and Vegetables Irish Stew",
+    "tags": [
+      "comforting",
+      "irish",
+      "lamb",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
