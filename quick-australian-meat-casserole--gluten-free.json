@@ -1,0 +1,96 @@
+{
+  "slug": "quick-australian-meat-casserole--gluten-free",
+  "title": "Australian Meat Casserole",
+  "description": "A hearty, comforting casserole made with Australian beef and vegetables, perfect for a cold night.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef mince",
+      "amount": "500g",
+      "notes": "Use a gluten-free seasoning blend for this recipe."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop the onion finely before cooking."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince the garlic before adding it to the pan."
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop the carrots into bite-sized pieces."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": "Peel and chop the potatoes into bite-sized pieces."
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a gluten-free tomato paste for this recipe."
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "Use a gluten-free beef broth for this recipe."
+    },
+    {
+      "name": "Gluten-free tomato sauce",
+      "amount": "1 cup",
+      "notes": "Choose a gluten-free tomato sauce for this recipe."
+    },
+    {
+      "name": "Gluten-free pasta",
+      "amount": "200g",
+      "notes": "Use a gluten-free pasta for this recipe."
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "100g",
+      "notes": "Use a gluten-free cheddar cheese for this recipe."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the gluten-free pasta according to the package instructions and set aside.",
+    "In a large pan, cook the Australian beef mince over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, and cook until the onion is translucent.",
+    "Add the chopped carrots and potatoes and cook for 5 minutes, stirring occasionally.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the beef broth and gluten-free tomato sauce, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Stir in the cooked gluten-free pasta and shredded cheddar cheese until melted and well combined.",
+    "Transfer the casserole mixture to a baking dish and top with additional shredded cheddar cheese if desired.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-australian-meat-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:27:27.003Z"
+}
