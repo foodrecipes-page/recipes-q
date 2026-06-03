@@ -1,0 +1,79 @@
+{
+  "slug": "quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
+  "title": "Uruguayan Choripan with Russet Potato Wedges",
+  "description": "A classic Uruguayan street food featuring grilled chorizo and crispy potato wedges. Serve with a side of pillowy bakes for dipping.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan chorizo",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Russet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Quick fix bakes",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Rich fix sauce",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Slice the chorizo into 1-inch pieces and grill for 5-7 minutes per side, or until cooked through.",
+    "3. Meanwhile, slice the Russet potatoes into 1-inch wedges.",
+    "4. Toss the potato wedges with olive oil, salt, and pepper.",
+    "5. Grill the potato wedges for 5-7 minutes per side, or until crispy.",
+    "6. Warm the quick fix bakes according to package instructions.",
+    "7. Assemble the choripan by grilling the bakes, then topping with grilled chorizo and potato wedges.",
+    "8. Serve with a side of rich fix sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "choripan",
+    "grilled",
+    "potatoes",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-rich-uruguayan-russet-potato-pillowy-bakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:26:21.414Z"
+}
