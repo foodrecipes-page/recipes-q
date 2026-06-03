@@ -6643,18 +6643,16 @@
   },
   {
     "slug": "quick-energizing-turkish-yellow-split-peas-kisir",
-    "title": "Quick Energizing Turkish Yellow Split Peas Kisir",
+    "title": "Turkish Pea Kisir",
     "tags": [
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "quick",
       "turkish",
-      "vegetarian",
-      "yeasty"
+      "pea",
+      "salad",
+      "kisir",
+      "vegan"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
