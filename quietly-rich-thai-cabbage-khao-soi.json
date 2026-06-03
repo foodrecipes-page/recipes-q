@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-rich-thai-cabbage-khao-soi",
+  "title": "Thai Cabbage Stir Fry with Khao Soi",
+  "description": "A Thai-inspired, easy-to-make dish using cabbage and khao soi in a savory and slightly spicy stir-fry.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head, thinly sliced"
+    },
+    {
+      "name": "Khao Soi",
+      "amount": "1 package, noodles only"
+    },
+    {
+      "name": "Quietly Rice",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "Soi Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Thai Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "Add the sliced cabbage and stir-fry for 2-3 minutes or until slightly tender.",
+    "Add the cooked khao soi noodles and stir-fry for 1 minute.",
+    "Add the soi sauce, Thai chili flakes, salt, and pepper. Stir-fry for another minute.",
+    "Serve hot over quietly rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-thai-cabbage-khao-soi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:06:08.576Z"
+}
