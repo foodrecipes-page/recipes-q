@@ -1,0 +1,89 @@
+{
+  "slug": "quirky-german-scotch-bonnet-pudding",
+  "title": "Spicy Scotch Bonnet Pudding",
+  "description": "A unique dessert that combines the heat of Scotch Bonnet peppers with the richness of traditional pudding.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "pudding mix",
+      "amount": "1 package",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free for substitution"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a medium saucepan, combine the pudding mix, heavy cream, and brown sugar. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "Remove the saucepan from the heat and stir in the softened butter until it's fully incorporated.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Gradually add the egg mixture to the pudding mixture, whisking constantly to avoid lumps.",
+    "Pour the pudding mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the pudding is set and a toothpick inserted into the center comes out clean.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover the ramekins with plastic wrap and refrigerate for at least 2 hours, or overnight.",
+    "Just before serving, sprinkle a few chopped Scotch Bonnet peppers on top of each pudding.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "scotch-bonnet",
+    "pudding",
+    "caribbean",
+    "dessert",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-german-scotch-bonnet-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:26:51.266Z"
+}
