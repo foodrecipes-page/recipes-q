@@ -12191,18 +12191,18 @@
   },
   {
     "slug": "quick-smoky-chinese-tofu-quesadilla",
-    "title": "Quick Smoky Chinese Tofu Quesadilla",
+    "title": "Smoky Quesadilla Tofu Stir Fry",
     "tags": [
-      "chinese-fusion",
-      "high-protein",
-      "mexican-fusion",
-      "one-pan",
-      "quick-fix",
-      "vegan-option",
-      "weeknight"
+      "vegan",
+      "stir-fry",
+      "quick",
+      "smoky",
+      "chinese",
+      "tofu",
+      "quesadilla"
     ],
-    "cuisine": "Chinese-Mexican fusion",
-    "totalTimeMin": 18,
+    "cuisine": "Asian-Mexican",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
