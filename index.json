@@ -14122,15 +14122,16 @@
   },
   {
     "slug": "quickly-tender-egyptian-cranberry-tagine",
-    "title": "quickly tender egyptian cranberry tagine",
+    "title": "Quick Egyptian Tagine with Cranberry",
     "tags": [
-      "breakfast",
       "egyptian",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "lamb",
+      "beef",
+      "cranberry"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -15988,16 +15989,15 @@
   },
   {
     "slug": "quietly-rich-thai-cabbage-khao-soi",
-    "title": "Quietly Rich Thai Cabbage Khao Soi",
+    "title": "Thai Cabbage Stir Fry with Khao Soi",
     "tags": [
-      "halal-friendly",
-      "noodle-dish",
-      "one-pot",
-      "thai-cuisine",
-      "vegetarian-option"
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17527,18 +17527,16 @@
   },
   {
     "slug": "quintessential-wood-fired-indian-lamb-biryani",
-    "title": "Quintessential Wood-Fired Indian Lamb Biryani",
+    "title": "Lamb Biryani",
     "tags": [
-      "high-protein",
-      "homemade",
-      "indian-cuisine",
       "lamb",
-      "one-pan",
-      "weeknight",
-      "wood-fired"
+      "biryani",
+      "indian",
+      "curry",
+      "rice"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -18034,6 +18032,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-australian-meat-casserole--gluten-free",
+    "title": "Australian Meat Casserole",
+    "tags": [
+      "australian",
+      "casserole",
+      "meat"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
