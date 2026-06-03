@@ -1,0 +1,99 @@
+{
+  "slug": "quietly-comforting-irish-lamb-stew--indian",
+  "title": "Lamb and Vegetables Irish Stew",
+  "description": "A comforting and flavorful stew originating from Ireland, infused with Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 lb",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onions and sauté until softened.",
+    "Add ginger and garlic and sauté for another minute.",
+    "Add lamb and cook until browned.",
+    "Add cumin, coriander, turmeric, salt, and black pepper. Stir well.",
+    "Add carrots and potatoes. Stir well.",
+    "Add water to the pan and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "irish",
+    "lamb",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-comforting-irish-lamb-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:10:06.479Z"
+}
