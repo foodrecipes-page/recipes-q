@@ -1,0 +1,95 @@
+{
+  "slug": "quickly-tender-egyptian-cranberry-tagine",
+  "title": "Quick Egyptian Tagine with Cranberry",
+  "description": "A modern twist on traditional Egyptian cuisine, this tagine is made with tender meat and sweet cranberries. It's a perfect dish for a weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef or Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Quick-cooking couscous",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a large tagine or Dutch oven over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cumin and cinnamon and cook for 1 minute.",
+    "Add the beef or lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the cranberries, salt, and black pepper.  Stir to combine.",
+    "Bring the mixture to a boil, then cover the tagine or Dutch oven and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Serve the tagine over quick-cooking couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "tagine",
+    "lamb",
+    "beef",
+    "cranberry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-tender-egyptian-cranberry-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:03:51.811Z"
+}
