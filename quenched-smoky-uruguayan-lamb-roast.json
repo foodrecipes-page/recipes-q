@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-smoky-uruguayan-lamb-roast",
+  "title": "Uruguayan Roast Lamb",
+  "description": "A delicious and flavorful Uruguayan-style roast lamb dish, perfect for a special occasion. This recipe combines the rich flavors of lamb with a smoky Uruguayan twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leg of lamb",
+      "amount": "2.5-3 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rinse the lamb leg and pat it dry with paper towels.",
+    "In a small bowl, mix together smoked paprika, olive oil, garlic, rosemary, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb leg, making sure to coat it evenly.",
+    "Place the lamb leg in a roasting pan and put it in the oven.",
+    "Roast the lamb for 20 minutes per kilogram, or until it reaches your desired level of doneness.",
+    "Use a meat thermometer to check the internal temperature of the lamb. It should reach 63°C (145°F) for medium-rare.",
+    "Once the lamb is cooked, remove it from the oven and let it rest for 10-15 minutes before slicing and serving.",
+    "Serve the Uruguayan roast lamb with your choice of sides, such as roasted vegetables or mashed potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "uruguayan",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-uruguayan-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:55:10.805Z"
+}
