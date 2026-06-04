@@ -1,0 +1,75 @@
+{
+  "slug": "quick-fix-kebab-aubergine-quesadilla",
+  "title": "Spicy Aubergine Kebab",
+  "description": "A flavorful and spicy dish made with roasted aubergine and served with a kebab.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2"
+    },
+    {
+      "name": "kebab",
+      "amount": "10g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fix",
+      "amount": "1g",
+      "notes": "a spice blend"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cut the aubergine into 1-inch cubes and place on a baking sheet.",
+    "Drizzle with olive oil, sprinkle with fix and minced garlic.",
+    "Season with salt and pepper to taste.",
+    "Roast in the oven for 30 minutes, or until tender.",
+    "Meanwhile, cook the kebab according to the package instructions.",
+    "Once the aubergine is done, serve with the kebab.",
+    "Optional: add any desired toppings or sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "vegetarian",
+    "kebab"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-kebab-aubergine-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:38:57.956Z"
+}
