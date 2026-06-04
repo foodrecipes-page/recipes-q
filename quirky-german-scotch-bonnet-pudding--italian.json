@@ -1,0 +1,86 @@
+{
+  "slug": "quirky-german-scotch-bonnet-pudding--italian",
+  "title": "German-Italian Pudding Cake",
+  "description": "A unique dessert that combines the richness of German pudding with Italian flair. Perfect for a special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "none"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "german pudding mix",
+      "amount": "1 package (250g)",
+      "notes": ""
+    },
+    {
+      "name": "scotch",
+      "amount": "1/4 cup (60ml)",
+      "notes": "for soaking the cake"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup (200g)",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups (190g)",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup (110g)",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C). Grease a 9-inch (23cm) springform pan and set aside.",
+    "In a large mixing bowl, whisk together the pudding mix, eggs, sugar, flour, and vanilla extract until well combined.",
+    "Add the melted butter to the mixture and whisk until smooth.",
+    "Pour the batter into the prepared pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove the cake from the oven and let it cool in the pan for 10 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Once the cake is cool, poke holes all over the top with a skewer or fork.",
+    "Pour the scotch over the cake, allowing it to soak into the holes.",
+    "Serve the cake chilled, garnished with whipped cream or vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pudding",
+    "cake",
+    "scotch",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "5g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-german-scotch-bonnet-pudding--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:12:15.818Z"
+}
