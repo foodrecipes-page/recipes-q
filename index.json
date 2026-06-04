@@ -467,17 +467,15 @@
   },
   {
     "slug": "quaint-ethiopian-collard-greens-gomen",
-    "title": "Quaint Ethiopian Collard Greens Gomen",
+    "title": "Gomen Be Sega (Ethiopian Cabbage Stew)",
     "tags": [
-      "diabetic-friendly",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "healthy-dinner",
-      "one-pot",
-      "vegan-option"
+      "ethiopian",
+      "stew",
+      "cabbage",
+      "collard greens"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -11869,17 +11867,16 @@
   },
   {
     "slug": "quick-seared-venezuelan-beef-skewers",
-    "title": "Quick Seared Venezuelan Beef Skewers",
+    "title": "Venezuelan Beef Skewers",
     "tags": [
-      "date-night",
-      "grilled-meats",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "quick-dinner"
+      "beef",
+      "latin-american",
+      "grilled",
+      "skewers",
+      "chimichurri"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 32,
+    "cuisine": "Latin American",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
