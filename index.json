@@ -18073,5 +18073,31 @@
     "cuisine": "Portuguese",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quirky-german-scotch-bonnet-pudding--italian",
+    "title": "German-Italian Pudding Cake",
+    "tags": [
+      "italian",
+      "pudding",
+      "cake",
+      "scotch",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-silky-moroccan-chicken-tagine--mexican",
+    "title": "Chicken Tagine",
+    "tags": [
+      "mexican",
+      "tagine",
+      "chicken"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
