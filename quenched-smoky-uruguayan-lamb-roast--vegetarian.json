@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-smoky-uruguayan-lamb-roast--vegetarian",
+  "title": "Uruguayan Roast Quenched Veggie Bowl",
+  "description": "A hearty, smoky, and flavorful vegetarian dish inspired by Uruguay's love for grilled meats, but adapted to showcase roasted vegetables.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quenched sweet potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "smoky roasted red peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan-style roasted vegetables seasoning",
+      "amount": "2 tsp",
+      "notes": "Available at most spice stores or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the sweet potatoes and chop them into 1-inch (2.5 cm) cubes.",
+    "Toss the sweet potatoes with 1 tablespoon of olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the sweet potatoes in the preheated oven for 20-25 minutes or until tender.",
+    "Meanwhile, peel the onion and chop it into 1-inch (2.5 cm) pieces.",
+    "Place the onion on a baking sheet lined with parchment paper, drizzle with the remaining 1 tablespoon of olive oil, and season with salt and black pepper.",
+    "Roast the onion in the preheated oven for 20-25 minutes or until caramelized.",
+    "Chop the red peppers into 1-inch (2.5 cm) pieces and toss them with Uruguayan-style roasted vegetables seasoning.",
+    "In a large serving bowl, combine the roasted sweet potatoes, caramelized onion, and roasted red peppers.",
+    "Garnish with chopped fresh cilantro (optional).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "roast",
+    "vegetarian",
+    "sweet-potatoes",
+    "red-peppers",
+    "onion"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-uruguayan-lamb-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:39:20.970Z"
+}
