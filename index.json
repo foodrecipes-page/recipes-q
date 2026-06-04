@@ -18061,5 +18061,17 @@
     "cuisine": "thai",
     "totalTimeMin": 36,
     "shard": "q"
+  },
+  {
+    "slug": "quick-portuguese-chocolate-cake--keto",
+    "title": "Keto Chocolate Fudge Cake",
+    "tags": [
+      "keto",
+      "cake",
+      "chocolate"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
