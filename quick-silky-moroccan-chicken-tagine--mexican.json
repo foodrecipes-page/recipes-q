@@ -1,0 +1,87 @@
+{
+  "slug": "quick-silky-moroccan-chicken-tagine--mexican",
+  "title": "Chicken Tagine",
+  "description": "A Mexican twist on the Moroccan classic, this dish is a fusion of spices and flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "silky smooth honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with salt, cumin, coriander, and chili powder.",
+    "Heat the olive oil in a large skillet over medium-high heat. Brown the chicken on both sides and transfer to a baking dish.",
+    "In a small bowl, mix together the tagine spice, honey, and lime juice. Pour the mixture over the chicken and cover with foil.",
+    "Bake for 25-30 minutes or until the chicken is cooked through.",
+    "Remove the foil and bake for an additional 5-10 minutes or until the chicken is lightly browned and caramelized.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tagine",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-silky-moroccan-chicken-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:52:50.186Z"
+}
