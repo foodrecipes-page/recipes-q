@@ -848,17 +848,14 @@
   },
   {
     "slug": "quaint-kenyan-white-cabbage-biryani",
-    "title": "Quaint Kenyan White Cabbage Biryani",
+    "title": "Kenyan-Style Biryani with Cabbage",
     "tags": [
-      "egg-free",
-      "festive-dish",
-      "kenyan-cuisine",
-      "one-pot",
-      "smoke-cold",
-      "vegetarian-friendly"
+      "kenyan",
+      "biryani",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -15653,17 +15650,16 @@
   },
   {
     "slug": "quietly-quenched-french-pasta-bowl",
-    "title": "Quietly Quenched French Pasta Bowl",
+    "title": "French Pasta Bowl",
     "tags": [
-      "comfort-food",
-      "easy-meal",
-      "french-cuisine",
-      "healthy-option",
-      "pasta-dish",
-      "plant-based"
+      "pasta",
+      "french",
+      "quick",
+      "easy",
+      "weeknight"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
