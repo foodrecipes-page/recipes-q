@@ -1,0 +1,76 @@
+{
+  "slug": "quick-portuguese-chocolate-cake--keto",
+  "title": "Keto Chocolate Fudge Cake",
+  "description": "A rich and decadent chocolate cake, made with almond flour and sweetened with sugar-free chocolate, perfect for a keto diet.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsweetened cocoa powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Melted coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sugar-free chocolate chips",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease two 8-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together almond flour, granulated sweetener, cocoa powder, and salt.",
+    "In a large bowl, whisk together eggs, melted coconut oil, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until well combined.",
+    "Melt the sugar-free chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Pour the batter into the prepared pans and smooth the tops.",
+    "Bake for 25-30 minutes or until a toothpick inserted into the center comes out clean.",
+    "Let the cakes cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are cool, melt the remaining chocolate chips and spread over the top of one of the cakes.",
+    "Place the second cake on top of the chocolate layer and frost with the remaining melted chocolate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "cake",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-portuguese-chocolate-cake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T15:46:25.211Z"
+}
