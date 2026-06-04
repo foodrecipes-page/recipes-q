@@ -1,0 +1,77 @@
+{
+  "slug": "quaint-kenyan-white-cabbage-biryani",
+  "title": "Kenyan-Style Biryani with Cabbage",
+  "description": "A flavorful and aromatic Kenyan-inspired biryani dish made with cabbage and basmati rice.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "quaint spices blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kenyan biryani masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and ginger, sauté until softened.",
+    "Add tomato, cabbage, spices, and salt. Cook until cabbage is tender.",
+    "Add rice to the pan and mix with the cabbage mixture.",
+    "Add water to the pan and bring to a boil.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "biryani",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-kenyan-white-cabbage-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T10:51:39.266Z"
+}
