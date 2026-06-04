@@ -1,0 +1,86 @@
+{
+  "slug": "quaint-ethiopian-collard-greens-gomen",
+  "title": "Gomen Be Sega (Ethiopian Cabbage Stew)",
+  "description": "A traditional Ethiopian cabbage stew made with collard greens, onions, garlic, and spices. Serve with injera or rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quaint (niter kibbeh)",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the quaint in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped collard greens, grated ginger, turmeric, cumin, salt, and black pepper.",
+    "Cook, stirring occasionally, until the greens are wilted, about 10 minutes.",
+    "Serve hot with injera or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "cabbage",
+    "collard greens"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-ethiopian-collard-greens-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:53:24.521Z"
+}
