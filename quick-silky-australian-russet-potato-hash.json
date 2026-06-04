@@ -1,0 +1,61 @@
+{
+  "slug": "quick-silky-australian-russet-potato-hash",
+  "title": "Australian Potato Hash",
+  "description": "A crispy, hash-brown-inspired side dish, perfect for breakfast or brunch. Australian potatoes add a unique twist to this classic recipe.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian potato",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "Russet potato",
+      "amount": "1 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Grate the Australian and Russet potatoes using a box grater.",
+    "Squeeze as much liquid from the grated potatoes as possible using a cheesecloth or a clean kitchen towel.",
+    "In a bowl, mix the drained potatoes with the crushed hash.",
+    "Season with salt and pepper to taste.",
+    "Transfer the potato mixture to a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown and crispy.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "potato",
+    "hash",
+    "breakfast",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-silky-australian-russet-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:28:25.466Z"
+}
