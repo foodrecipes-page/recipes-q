@@ -1,0 +1,71 @@
+{
+  "slug": "quietly-quenched-french-pasta-bowl",
+  "title": "French Pasta Bowl",
+  "description": "A quick and easy French-inspired pasta dish, perfect for a weeknight dinner. This recipe combines cooked pasta, cherry tomatoes, and a simple vinaigrette for a delicious and satisfying meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French pasta",
+      "amount": "8 oz",
+      "notes": "such as linguine or fettuccine"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for the vinaigrette"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp",
+      "notes": "for the vinaigrette"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the French pasta according to package instructions until al dente.",
+    "In a large bowl, whisk together olive oil and red wine vinegar for the vinaigrette.",
+    "Add the cooked pasta to the bowl with the vinaigrette and toss to combine.",
+    "Add the cherry tomatoes to the bowl and toss gently to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "french",
+    "quick",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-french-pasta-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:27:56.248Z"
+}
