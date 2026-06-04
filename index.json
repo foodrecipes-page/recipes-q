@@ -6538,16 +6538,14 @@
   },
   {
     "slug": "quick-energizing-ethiopian-lamb-tagine",
-    "title": "Quick Energizing Ethiopian Lamb Tagine",
+    "title": "Spiced Lamb Tagine",
     "tags": [
-      "ethiopian-cuisine",
-      "high-protein",
-      "lamb-recipes",
-      "one-pot",
-      "weeknight"
+      "ethiopian",
+      "lamb",
+      "slow-cooked"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
@@ -7490,17 +7488,14 @@
   },
   {
     "slug": "quick-fix-kebab-aubergine-quesadilla",
-    "title": "Quick-fix Kebab Aubergine Quesadilla",
+    "title": "Spicy Aubergine Kebab",
     "tags": [
-      "aubergine",
-      "kebab",
-      "quick-fix",
-      "kenyan",
-      "chewy",
-      "earthly"
+      "spicy",
+      "vegetarian",
+      "kebab"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 23,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
