@@ -18047,5 +18047,20 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-smoky-uruguayan-lamb-roast--vegetarian",
+    "title": "Uruguayan Roast Quenched Veggie Bowl",
+    "tags": [
+      "uruguayan",
+      "roast",
+      "vegetarian",
+      "sweet-potatoes",
+      "red-peppers",
+      "onion"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 55,
+    "shard": "q"
   }
 ]
