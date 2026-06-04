@@ -1,0 +1,96 @@
+{
+  "slug": "quick-braised-vietnamese-pork-chops-curry",
+  "title": "Vietnamese Braised Pork Chops",
+  "description": "A flavorful and tender dish that combines the richness of pork chops with the bold flavors of Vietnamese braising sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork chops",
+      "amount": "4-6 chops, 1 inch thick",
+      "notes": "Boneless"
+    },
+    {
+      "name": "Quick curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Braised curry sauce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. In a large Dutch oven or heavy pot, heat 2 tablespoons of oil over medium-high heat.",
+    "2. Add the pork chops and cook until browned on both sides, about 2-3 minutes per side.",
+    "3. Remove the pork chops from the pot and set aside.",
+    "4. In the same pot, add the curry paste and cook for 1 minute, stirring constantly.",
+    "5. Add the braised curry sauce, fish sauce, soy sauce, brown sugar, garlic, and ginger to the pot.",
+    "6. Stir to combine and bring the mixture to a simmer.",
+    "7. Return the pork chops to the pot and cover with a lid.",
+    "8. Transfer the pot to the oven and braise for 2-1/2 to 3 hours, or until the pork chops are tender.",
+    "9. Remove the pot from the oven and stir in the coconut milk.",
+    "10. Let the dish rest for 10 minutes before serving.",
+    "11. Garnish with chopped green onions and serve over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "braised",
+    "pork",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-vietnamese-pork-chops-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:10:30.312Z"
+}
