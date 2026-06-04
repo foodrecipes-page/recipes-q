@@ -1,0 +1,68 @@
+{
+  "slug": "quick-seared-venezuelan-beef-skewers",
+  "title": "Venezuelan Beef Skewers",
+  "description": "A flavorful and spicy dish originating from Venezuela, featuring marinated beef skewers grilled to perfection.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (flank steak or ribeye)",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Venezuelan Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Quick seared onions",
+      "amount": "1/2 cup",
+      "notes": "sautéed in a pan with a bit of oil"
+    },
+    {
+      "name": "Venezuelan-style skewers (wooden or metal)",
+      "amount": "10-12",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Skewer ingredients (bell peppers, onions, tomatoes, mushrooms)",
+      "amount": "1 cup",
+      "notes": "alternate on skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, onions, bell peppers, tomatoes, and mushrooms onto skewers, leaving a little space between each piece.",
+    "Brush skewers with Venezuelan Chimichurri sauce.",
+    "Grill skewers for 8-10 minutes per side, or until beef reaches an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve with additional Chimichurri sauce on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "latin-american",
+    "grilled",
+    "skewers",
+    "chimichurri"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-venezuelan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:11:53.637Z"
+}
