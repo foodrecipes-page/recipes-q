@@ -1,0 +1,69 @@
+{
+  "slug": "quickly-shattering-syrian-lamb-kebabs--thai",
+  "title": "Thai-Style Lamb Kebabs",
+  "description": "Grilled lamb skewers marinated in a blend of Thai spices and herbs, served with a side of spicy peanut sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "quickly",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "shattering",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tablespoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine quickly, shattering, 2 tablespoons of fish sauce, 1 tablespoon of brown sugar, and 1 tablespoon of lime juice. Blend until smooth.",
+    "2. Add the lamb cubes to the marinade and mix until they are evenly coated.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated lamb onto the kebabs, leaving a little space between each piece.",
+    "6. Grill the kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness.",
+    "7. Let the kebabs rest for 5 minutes before serving.",
+    "8. Serve the kebabs with a side of spicy peanut sauce, made by blending 1/2 cup of peanut butter, 1/4 cup of soy sauce, 1 tablespoon of honey, and 1 tablespoon of sriracha sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lamb",
+    "grilled",
+    "kebabs"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-shattering-syrian-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:10:25.356Z"
+}
