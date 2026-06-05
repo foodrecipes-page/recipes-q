@@ -1,0 +1,100 @@
+{
+  "slug": "quietly-quenched-italian-chicken-risotto",
+  "title": "Creamy Italian Chicken Risotto",
+  "description": "A hearty and comforting Italian-inspired risotto dish with tender chicken and a rich creamy sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "risotto rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a separate pot and keep warm.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet and melt.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the arborio rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine to the skillet and cook until the liquid is almost completely absorbed, stirring constantly.",
+    "Add 1 cup of the warm chicken broth to the skillet and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat step 10, adding the chicken broth in 1-cup increments, and cooking until the liquid is mostly absorbed, until the rice is cooked and creamy.",
+    "Stir in the parmesan cheese and heavy cream (if using).",
+    "Return the chicken to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "risotto",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-italian-chicken-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:24:08.639Z"
+}
