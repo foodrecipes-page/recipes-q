@@ -1,0 +1,61 @@
+{
+  "slug": "quenched-russian-pillowy-breads-bowl",
+  "title": "Russian Quenched Bread Bowl",
+  "description": "A hearty bread bowl filled with a rich russian-inspired quenched filling, perfect for snacking or as a side dish.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Breads",
+      "amount": "1 large round bread",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Quenched",
+      "amount": "1/2 cup",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Pillowy",
+      "amount": "1/4 cup",
+      "notes": "softened butter"
+    },
+    {
+      "name": "Russian",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh dill"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Cut the top off the bread and hollow out the interior, leaving a 1-inch shell.",
+    "Mix the quenched, pillowy, and russian ingredients in a bowl.",
+    "Fill the bread bowl with the quenched mixture, mounding it slightly.",
+    "Bake for 10-12 minutes, or until the bread is toasted and the filling is warm.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "russian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-russian-pillowy-breads-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:46.636Z"
+}
