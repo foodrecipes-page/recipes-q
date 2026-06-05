@@ -1,0 +1,78 @@
+{
+  "slug": "quick-crispy-korean-almonds-muchim",
+  "title": "Crispy Korean-Style Fried Chicken",
+  "description": "Korean-inspired fried chicken recipe with a crispy exterior and spicy kick. Serve with your favorite sides.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat",
+    "eggs"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "muchim seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": "Korean-inspired spice blend"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced and toasted for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, cornstarch, and 1/2 teaspoon salt.",
+    "Add chicken pieces to the bowl and toss to coat evenly.",
+    "In a separate bowl, beat the egg.",
+    "Dip the floured chicken pieces in the beaten egg, then roll in panko breadcrumbs to coat.",
+    "Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "Add the coated chicken pieces to the skillet and fry until golden brown and crispy, about 5-6 minutes per side.",
+    "Drain the chicken on paper towels and sprinkle with muchim seasoning blend.",
+    "Serve the fried chicken hot and garnish with toasted almonds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-korean-almonds-muchim",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:27:41.488Z"
+}
