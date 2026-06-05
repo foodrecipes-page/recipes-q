@@ -6353,15 +6353,15 @@
   },
   {
     "slug": "quick-dense-german-burger-slider",
-    "title": "Quick-Dense German Burger Slider",
+    "title": "German Burger Sliders",
     "tags": [
-      "burger",
-      "finger-food",
       "german",
-      "quick-dinner"
+      "burgers",
+      "sliders",
+      "grilling"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 22,
+    "cuisine": "german",
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -8161,19 +8161,16 @@
   },
   {
     "slug": "quick-fix-tangy-kenyan-vegetables-wrap",
-    "title": "Quick-fix Tangy Kenyan Vegetable Wrap",
+    "title": "Kenyan Vegetable Wrap",
     "tags": [
-      "gluten-free",
       "kenyan",
-      "keto",
-      "one-pan",
-      "quick-fix",
-      "tangy",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "lunch",
+      "easy"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17825,16 +17822,15 @@
   },
   {
     "slug": "qzesty-thai-shrimp-pilaf",
-    "title": "Qzesty Thai Shrimp Pilaf",
+    "title": "Spicy Thai Shrimp Pilaf",
     "tags": [
-      "dashi-based",
-      "monsoon-dish",
-      "no-fish",
-      "protein-rich",
-      "shrimp-pilaf"
+      "thai",
+      "shrimp",
+      "pilaf",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
