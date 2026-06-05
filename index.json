@@ -858,17 +858,16 @@
   },
   {
     "slug": "quaint-light-algerian-chicken-liver-wrap",
-    "title": "Quaint Light Algerian Chicken Liver Wrap",
+    "title": "Algerian Chicken Wrap",
     "tags": [
-      "algerian-cuisine",
-      "high-protein",
-      "mason-jar",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight"
+      "algerian",
+      "chicken",
+      "wrap",
+      "easy",
+      "lunch"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -3897,15 +3896,15 @@
   },
   {
     "slug": "quenched-russian-pillowy-breads-bowl",
-    "title": "Quenched Russian Pillowy Breads Bowl",
+    "title": "Russian Quenched Bread Bowl",
     "tags": [
       "bread",
-      "gluten-free",
+      "russian",
       "snack",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "russian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -9970,16 +9969,15 @@
   },
   {
     "slug": "quick-knead-pro",
-    "title": "QuickKneadPro",
+    "title": "Quick Knead Bread",
     "tags": [
+      "bread",
+      "homemade",
       "quick",
-      "fermented",
-      "gooey",
-      "paella",
-      "protein"
+      "knead"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
