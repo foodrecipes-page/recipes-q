@@ -1,0 +1,96 @@
+{
+  "slug": "qzesty-thai-shrimp-pilaf",
+  "title": "Spicy Thai Shrimp Pilaf",
+  "description": "A flavorful and spicy Thai-inspired dish featuring succulent shrimp and a crispy pilaf.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Thai Queso Qzesty",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "for spice"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "3. Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "4. Remove the shrimp from the skillet and set aside.",
+    "5. Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "6. Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "7. Stir in the Thai queso qzesty, fish sauce, and soy sauce.",
+    "8. Cook for an additional 1-2 minutes, until the pilaf is lightly coated.",
+    "9. Return the shrimp to the skillet and stir to combine with the pilaf.",
+    "10. Cook for an additional 1 minute, until the shrimp are coated in the pilaf mixture.",
+    "11. Serve hot, garnished with sesame oil and red pepper flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "shrimp",
+    "pilaf",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qzesty-thai-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:08:41.710Z"
+}
