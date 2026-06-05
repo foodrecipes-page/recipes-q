@@ -18096,5 +18096,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-tender-spanish-octopus-pulpo-a-la-gallega--vegan",
+    "title": "Gallega Pulpo Croquettes (Vegan)",
+    "tags": [
+      "vegan",
+      "spanish",
+      "gallega"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
