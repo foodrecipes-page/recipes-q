@@ -1,0 +1,93 @@
+{
+  "slug": "quick-tunisian-sausage-bowl",
+  "title": "Sausage Tunisian Bowl",
+  "description": "A flavorful and spicy Tunisian-inspired bowl filled with sausage, vegetables, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Quick couscous",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the onion and red bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the garlic, chili flakes, cumin, paprika, and salt to the skillet and cook for 1 minute.",
+    "Stir in the couscous and cook for 2-3 minutes, until heated through.",
+    "Serve the sausage and vegetable mixture over the couscous.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "sausage",
+    "bowl",
+    "north-african",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-tunisian-sausage-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:56:08.071Z"
+}
