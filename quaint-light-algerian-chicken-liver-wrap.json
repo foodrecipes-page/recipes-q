@@ -1,0 +1,89 @@
+{
+  "slug": "quaint-light-algerian-chicken-liver-wrap",
+  "title": "Algerian Chicken Wrap",
+  "description": "A flavorful wrap filled with grilled chicken, tangy liver pâté, and crunchy vegetables. This Algerian-inspired dish is perfect for a quick lunch or dinner.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Chicken liver",
+      "amount": "200g",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Light wrap",
+      "amount": "4",
+      "notes": "Whole wheat or white"
+    },
+    {
+      "name": "Algerian light seasoning",
+      "amount": "2 tsp",
+      "notes": "A blend of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Quaint olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing chicken"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning chicken"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "For seasoning chicken"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breast with Algerian light seasoning, salt, and pepper.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Brush the chicken liver with quaint olive oil and grill for 3-4 minutes per side, or until cooked through.",
+    "Warm the light wrap in the microwave or on the grill.",
+    "Slice the grilled chicken and liver into thin strips.",
+    "Assemble the wrap by placing the chicken and liver strips on the wrap, followed by lettuce and tomato.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "chicken",
+    "wrap",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-light-algerian-chicken-liver-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:46:52.454Z"
+}
