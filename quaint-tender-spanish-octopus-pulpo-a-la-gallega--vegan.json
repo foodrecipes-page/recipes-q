@@ -1,0 +1,77 @@
+{
+  "slug": "quaint-tender-spanish-octopus-pulpo-a-la-gallega--vegan",
+  "title": "Gallega Pulpo Croquettes (Vegan)",
+  "description": "A creative twist on traditional Spanish pulpo croquettes, made vegan using tender octopus and served with a side of quaint gallega spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tender octopus",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "Gallega spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Quaint onion",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "Spanish garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Vegan breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a pan, heat 1 tbsp olive oil over medium heat. Add the chopped onion and cook until translucent.",
+    "3. Add the minced garlic and cook for another minute.",
+    "4. Add the diced octopus and cook for 2-3 minutes, until heated through.",
+    "5. In a bowl, mix together the gallega spices, breadcrumbs, and egg replacement.",
+    "6. Add the cooked onion and octopus mixture to the bowl and mix well.",
+    "7. Season with salt and pepper to taste.",
+    "8. Using your hands, shape the mixture into small croquettes.",
+    "9. Place the croquettes on a baking sheet lined with parchment paper.",
+    "10. Drizzle with olive oil and bake for 15-20 minutes, until crispy and golden brown.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "gallega"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-tender-spanish-octopus-pulpo-a-la-gallega--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:52:34.161Z"
+}
