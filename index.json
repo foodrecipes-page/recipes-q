@@ -5953,14 +5953,12 @@
   },
   {
     "slug": "quick-crispy-german-mushroom-skillet",
-    "title": "Quick Crispy German Mushroom Skillet",
+    "title": "Crispy German-Style Pan-Seared Mushrooms",
     "tags": [
-      "german-cuisine",
-      "kosher-friendly",
-      "midnight-craving",
-      "mushroom-lovers",
-      "one-pan",
-      "weeknight"
+      "german",
+      "mushroom",
+      "breaded",
+      "pan-fry"
     ],
     "cuisine": "German",
     "totalTimeMin": 25,
@@ -18110,6 +18108,60 @@
     ],
     "cuisine": null,
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-energizing-turkish-yellow-split-peas-kisir--vegan",
+    "title": "Turkish Style Pea Kisir",
+    "tags": [
+      "turkish",
+      "pea",
+      "kisir",
+      "vegan"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-indulgent-egyptian-spaghetti-pasta--german",
+    "title": "German Spaghetti with Meatballs",
+    "tags": [
+      "german",
+      "spaghetti",
+      "meatballs",
+      "homemade",
+      "tomato-sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-winey-argentinian-beef-skillet--chinese",
+    "title": "Argentinian Beef Stir Fry",
+    "tags": [
+      "argentinian",
+      "beef",
+      "chinese",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-kebab-aubergine-quesadilla--vegan",
+    "title": "Vegan Aubergine Kebab",
+    "tags": [
+      "vegan",
+      "aubergine",
+      "kebab",
+      "grill",
+      "quick fix sauce"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
     "shard": "q"
   }
 ]
