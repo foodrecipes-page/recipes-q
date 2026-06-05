@@ -1,0 +1,86 @@
+{
+  "slug": "quick-winey-argentinian-beef-skillet--chinese",
+  "title": "Argentinian Beef Stir Fry",
+  "description": "A quick and flavorful stir fry made with thinly sliced beef and Chinese stir-fry sauce. Serve over rice or noodles for a delicious and easy meal.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound, sliced into thin strips",
+      "notes": null
+    },
+    {
+      "name": "Chinese stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, sliced",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup, sliced",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "large"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the sliced ginger and garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the sliced snow peas and bell peppers to the skillet and cook for 2-3 minutes, until tender.",
+    "Return the cooked beef to the skillet and pour in the Chinese stir-fry sauce. Stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "beef",
+    "chinese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-winey-argentinian-beef-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:24:42.247Z"
+}
