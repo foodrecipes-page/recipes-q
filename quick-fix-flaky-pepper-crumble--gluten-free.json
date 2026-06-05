@@ -1,0 +1,69 @@
+{
+  "slug": "quick-fix-flaky-pepper-crumble--gluten-free",
+  "title": "Gluten-Free Crumbly Flaky Pastry",
+  "description": "A gluten-free pastry made with flaky dough, perfect for snacks or desserts.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough (gluten-free)",
+      "amount": "1 sheet",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "quick fix jam",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "gluten-free sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of 1/8 inch (3 mm).",
+    "Place the pastry dough on a baking sheet lined with parchment paper.",
+    "Spread the quick fix jam over the center of the pastry dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Sprinkle the crumble topping over the jam.",
+    "If desired, add a pinch of pepper to taste.",
+    "If desired, sprinkle a tablespoon of gluten-free sugar over the crumble topping.",
+    "Fold the edges of the pastry dough up over the filling, pressing gently to seal.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the filling is bubbly.",
+    "Allow the pastry to cool for 5-10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-flaky-pepper-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:29:32.355Z"
+}
