@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-tangy-kenyan-vegetables-wrap",
+  "title": "Kenyan Vegetable Wrap",
+  "description": "A flavorful and healthy Kenyan-inspired wrap filled with sautéed vegetables and served with a tangy slaw.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable wrap",
+      "amount": "1",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "Quick-cooking vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tangy slaw (cabbage, carrots, apple cider vinegar)",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the sliced onion and cook for 3-4 minutes, or until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced vegetables and cook for 4-5 minutes, or until tender.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by spooning the vegetable mixture onto the center of the wrap.",
+    "Top with the tangy slaw and drizzle with lime juice.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "vegetarian",
+    "gluten-free",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-tangy-kenyan-vegetables-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:08:53.917Z"
+}
