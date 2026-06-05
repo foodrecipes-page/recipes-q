@@ -1,0 +1,62 @@
+{
+  "slug": "quenched-fermented-tunisian-ackee-tagine",
+  "title": "Tunisian Quenched Tagine",
+  "description": "A flavorful and aromatic dish made with tunisian spices, quenched eggs, and a hint of ackee, cooked to perfection in a rich tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "egg"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quenched Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tunisian Spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tagine Sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fermented Olives",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine sauce in a large saucepan over medium heat.",
+    "Add the tunisian spices and cook for 1 minute, stirring constantly.",
+    "Add the quenched eggs and cook until set.",
+    "Add the ackee and cook until heated through.",
+    "Stir in the fermented olives and season with salt and pepper to taste.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "egg",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-fermented-tunisian-ackee-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:18:33.676Z"
+}
