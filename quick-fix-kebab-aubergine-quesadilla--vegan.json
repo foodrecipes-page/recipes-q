@@ -1,0 +1,71 @@
+{
+  "slug": "quick-fix-kebab-aubergine-quesadilla--vegan",
+  "title": "Vegan Aubergine Kebab",
+  "description": "A flavorful and healthy vegan kebab dish made with marinated aubergine, served with a side of quick fix sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium"
+    },
+    {
+      "name": "quick fix sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "you can use other vegan oil alternatives"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Cut the aubergine into kebab-sized pieces.",
+    "In a bowl, whisk together olive oil, paprika, garlic powder, salt, and pepper.",
+    "Add the aubergine pieces to the bowl and toss to coat with the marinade.",
+    "Grill the aubergine for 3-4 minutes per side, or until tender and lightly charred.",
+    "Serve the aubergine kebab with quick fix sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "aubergine",
+    "kebab",
+    "grill",
+    "quick fix sauce"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-kebab-aubergine-quesadilla--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:29:51.763Z"
+}
