@@ -1,0 +1,71 @@
+{
+  "slug": "quick-grilled-brazilian-nectarine-skewers",
+  "title": "Grilled Brazilian Nectarine Skewers",
+  "description": "A sweet and tangy dessert featuring grilled nectarine skewers, perfect for a warm evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarines",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "pineapple",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread nectarine and pineapple chunks onto skewers.",
+    "In a small bowl, mix together brown sugar, coconut oil, and cinnamon.",
+    "Brush the mixture onto both sides of the fruit.",
+    "Grill fruit for 2-3 minutes per side, or until caramelized.",
+    "Garnish with fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "dessert",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-brazilian-nectarine-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T09:58:15.765Z"
+}
