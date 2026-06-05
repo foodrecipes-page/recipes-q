@@ -1,0 +1,84 @@
+{
+  "slug": "quick-crispy-german-mushroom-skillet",
+  "title": "Crispy German-Style Pan-Seared Mushrooms",
+  "description": "A simple and flavorful recipe that showcases the perfect combination of crispy and savory.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "german",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tbsp",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "pan-frying breadcrumbs"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in the skillet over medium-high heat.",
+    "Dredge the sliced mushrooms in the flour, shaking off excess.",
+    "Add the mushrooms to the skillet and sear for 2-3 minutes per side, or until golden brown.",
+    "Transfer the mushrooms to a plate and sprinkle with thyme.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil and heat until shimmering.",
+    "Add the pan-frying breadcrumbs to the skillet and cook, stirring constantly, until golden brown and crispy.",
+    "Season the breadcrumbs with salt and pepper to taste.",
+    "Serve the crispy breadcrumbs over the pan-seared mushrooms.",
+    "Garnish with additional thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "mushroom",
+    "breaded",
+    "pan-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-german-mushroom-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:46:59.415Z"
+}
