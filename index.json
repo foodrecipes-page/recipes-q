@@ -2644,16 +2644,15 @@
   },
   {
     "slug": "quenched-fermented-tunisian-ackee-tagine",
-    "title": "Quenched Fermented Tunisian Ackee Tagine",
+    "title": "Tunisian Quenched Tagine",
     "tags": [
-      "fermented-food",
-      "kid-friendly",
-      "low-calorie",
       "north-african",
-      "one-pot"
+      "egg",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -5982,17 +5981,14 @@
   },
   {
     "slug": "quick-crispy-korean-almonds-muchim",
-    "title": "Quick Crispy Korean Almonds Muchim",
+    "title": "Crispy Korean-Style Fried Chicken",
     "tags": [
-      "dairy-free",
-      "high-protein",
       "korean",
-      "quick",
-      "show-off",
-      "snack"
+      "fried chicken",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 13,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -12989,17 +12985,16 @@
   },
   {
     "slug": "quick-tunisian-sausage-bowl",
-    "title": "Quick Tunisian Sausage Bowl",
+    "title": "Sausage Tunisian Bowl",
     "tags": [
-      "egg-free",
-      "lazy-sunday",
-      "one-pot",
-      "quick",
+      "tunisian",
       "sausage",
-      "tunisian"
+      "bowl",
+      "north-african",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -13315,17 +13310,15 @@
   },
   {
     "slug": "quick-winey-argentinian-beef-skillet",
-    "title": "Quick Winey Argentinian Beef Skillet",
+    "title": "Skillet Beef Fajitas",
     "tags": [
       "argentinian",
-      "beef-skillet",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "fajitas",
+      "skillet"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
