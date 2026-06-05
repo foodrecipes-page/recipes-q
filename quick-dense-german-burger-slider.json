@@ -1,0 +1,82 @@
+{
+  "slug": "quick-dense-german-burger-slider",
+  "title": "German Burger Sliders",
+  "description": "A twist on traditional burgers, these German-inspired sliders feature a dense and flavorful patty topped with tangy sauerkraut and melted cheese.",
+  "cuisine": "german",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Panko or regular"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sauteed Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Cooked with caraway seeds"
+    },
+    {
+      "name": "Swiss Cheese",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine ground beef, breadcrumbs, egg, onion, salt, and pepper. Mix well with your hands until just combined.",
+    "Divide the mixture into 4 equal parts and shape into patties.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the buns on the grill.",
+    "Assemble the sliders by spreading a slice of Swiss cheese on the bottom bun, followed by a cooked patty, a spoonful of sauerkraut, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "burgers",
+    "sliders",
+    "grilling"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-german-burger-slider",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:45:26.846Z"
+}
