@@ -1,0 +1,86 @@
+{
+  "slug": "quick-indulgent-egyptian-spaghetti-pasta--german",
+  "title": "German Spaghetti with Meatballs",
+  "description": "A hearty german-inspired spaghetti dish featuring homemade meatballs and a rich tomato sauce.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large mixing bowl, combine ground beef, breadcrumbs, egg, onion, and garlic. Mix well with your hands until just combined.",
+    "3. Use your hands to shape the mixture into meatballs, about 1 1/2 inches in diameter. Place on a baking sheet lined with parchment paper.",
+    "4. Bake in the preheated oven for 18-20 minutes, or until cooked through.",
+    "5. While the meatballs are baking, cook spaghetti in a large pot of boiling, salted water until al dente. Reserve 1 cup of pasta water before draining.",
+    "6. In a large saucepan, combine tomato sauce and reserved pasta water. Bring to a simmer over medium-low heat.",
+    "7. Add the cooked spaghetti to the saucepan, tossing to combine.",
+    "8. Add the cooked meatballs to the saucepan, tossing to combine.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot, topped with parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spaghetti",
+    "meatballs",
+    "homemade",
+    "tomato-sauce"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-indulgent-egyptian-spaghetti-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:06:58.701Z"
+}
