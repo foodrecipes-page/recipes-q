@@ -1,0 +1,96 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--vegetarian",
+  "title": "Ethiopian Vegetable Pie",
+  "description": "A flavorful and easy-to-make vegetarian pie filled with Ethiopian spices and topped with a flaky filo crust.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pie Crust (Filo)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Spice Mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the filo dough to a thickness of about 1/8 inch.",
+    "Cut the dough into a circle or rectangle shape, depending on your preference.",
+    "In a pan, heat the vegetable oil over medium heat.",
+    "Add the onion and garlic and sauté for about 5 minutes, until softened.",
+    "Add the carrots, zucchini, and spinach, and cook for another 5 minutes.",
+    "Add the Ethiopian spice mix, salt, and black pepper, and stir to combine.",
+    "Place the cooked vegetable mixture onto one half of the filo dough.",
+    "Fold the other half of the dough over the filling, and press the edges to seal.",
+    "Brush the top of the pie with a little water, and bake for 25-30 minutes, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "pie",
+    "filo"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-03T01:08:38.144Z"
+}
