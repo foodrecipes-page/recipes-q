@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fix-tangy-kenyan-vegetables-wrap--keto",
+  "title": "Kenyan-Style Keto Beef Wraps",
+  "description": "Spicy beef and vegetables wrapped in a crispy low-carb wrap, inspired by the flavors of Kenya. A delicious keto meal option.",
+  "cuisine": "kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound",
+      "notes": "Choose a lean cut for a keto-friendly option."
+    },
+    {
+      "name": "Tangy slaw mix",
+      "amount": "1 cup",
+      "notes": "Look for a store-bought or homemade mix that's low in sugar."
+    },
+    {
+      "name": "Quick pickled vegetables",
+      "amount": "1 cup",
+      "notes": "Use a mixture of cucumbers, carrots, and bell peppers for added crunch."
+    },
+    {
+      "name": "Low-carb wrap",
+      "amount": "4-6 wraps",
+      "notes": "Choose a brand that's specifically labeled as low-carb or keto-friendly."
+    },
+    {
+      "name": "Fix seasoning",
+      "amount": "to taste",
+      "notes": "Use a blend that's low in sugar and salt for a keto-friendly option."
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup",
+      "notes": "Add any additional vegetables you like, such as bell peppers or onions."
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "Choose a neutral-tasting oil like avocado or grapeseed."
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the beef strips with fix seasoning and cook to your liking, about 5-7 minutes per side.",
+    "3. Meanwhile, toast the low-carb wraps by wrapping them in foil and heating them in the oven at 350°F for 5-7 minutes.",
+    "4. Assemble the wraps by adding the cooked beef, tangy slaw mix, quick pickled vegetables, and any additional vegetables you like.",
+    "5. Drizzle with oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "keto",
+    "low-carb",
+    "wraps",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-tangy-kenyan-vegetables-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T11:02:38.691Z"
+}
