@@ -1,0 +1,87 @@
+{
+  "slug": "quenched-canadian-baby-squid-ceviche--gluten-free",
+  "title": "Pan-Seared Squid with Avocado Salsa",
+  "description": "A gluten-free seafood dish featuring succulent squid with a refreshing avocado salsa.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Quenched Red Onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Baby Lime",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Ceviche Marinade",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the squid tubes and pat them dry.",
+    "Season the squid with salt and pepper.",
+    "Heat the Canadian Olive Oil in a large skillet over medium-high heat.",
+    "Add the squid to the skillet and sear for 2-3 minutes per side.",
+    "Transfer the squid to a plate and set aside.",
+    "In the same skillet, combine the quenched Red Onion, ceviche marinade, and chopped cilantro.",
+    "Cook for 2-3 minutes, until the onion is translucent.",
+    "Cut the avocado in half and remove the pit.",
+    "Mash the avocado in a bowl and stir in the lime juice.",
+    "To assemble the dish, place the seared squid on a plate and top with the avocado salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "seafood",
+    "squid",
+    "avocado",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-canadian-baby-squid-ceviche--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:43:49.529Z"
+}
