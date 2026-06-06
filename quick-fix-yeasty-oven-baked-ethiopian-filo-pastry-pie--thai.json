@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--thai",
+  "title": "Thai Filo Spring Rolls",
+  "description": "Delicious Thai-inspired spring rolls made with crispy filo and savory fillings. Perfect as a snack or appetizer.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Filoso pastry sheets",
+      "amount": "4-6 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Quick-cooked vegetables",
+      "amount": "1 cup",
+      "notes": "such as cabbage, carrots, and bean sprouts"
+    },
+    {
+      "name": "Ethiopian-style lentils",
+      "amount": "1 cup",
+      "notes": "cooked with onions, garlic, and spices"
+    },
+    {
+      "name": "Baked tofu",
+      "amount": "1 block",
+      "notes": "marinated in Thai red curry paste"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the filo pastry sheets into 4 equal pieces.",
+    "In a pan, heat 1 tablespoon of sesame oil over medium heat. Add the quick-cooked vegetables and cook until tender.",
+    "In a separate pan, heat 1 tablespoon of sesame oil over medium heat. Add the baked tofu and cook until crispy.",
+    "In a bowl, mix together the cooked lentils, cooked vegetables, and crispy tofu.",
+    "Place a piece of filo pastry on a flat surface and brush with a little sesame oil. Spoon a tablespoon of the lentil mixture onto the center of the pastry.",
+    "Fold the bottom half of the pastry over the filling, then fold in the sides and roll up the pastry to form a tight cylinder. Repeat with the remaining pastry and filling.",
+    "Place the spring rolls on a baking sheet lined with parchment paper and brush with a little sesame oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spring-rolls",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:39:53.987Z"
+}
