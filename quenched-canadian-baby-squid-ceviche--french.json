@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-canadian-baby-squid-ceviche--french",
+  "title": "Pan-Seared Baby Squid with French Canadian Twist",
+  "description": "A simple yet flavorful dish that combines the freshness of baby squid with a hint of French Canadian flair.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby squid",
+      "amount": "400g"
+    },
+    {
+      "name": "quenched flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canadian all-purpose flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "ceviche",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the baby squid under cold water and pat dry with paper towels.",
+    "Season the squid with salt and pepper.",
+    "Dredge the squid in the quenched flour, shaking off excess.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the squid and cook for 2 minutes per side, or until cooked through.",
+    "Transfer the squid to a plate and sprinkle with parsley.",
+    "Serve the squid with a side of ceviche and a sprinkle of canadian all-purpose flour.",
+    "Garnish with lemon wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baby-squid",
+    "french-canadian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-canadian-baby-squid-ceviche--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:21:42.054Z"
+}
