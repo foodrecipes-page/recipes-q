@@ -8409,16 +8409,16 @@
   },
   {
     "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie",
-    "title": "Quick-fix Yeasty Oven-baked Ethiopian Filo Pastry Pie",
+    "title": "Ethiopian Style Filo Pie",
     "tags": [
+      "filo",
       "ethiopian",
-      "filonya",
-      "oven-baked",
       "pie",
-      "yeast"
+      "dessert",
+      "snack"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -18346,6 +18346,43 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--german",
+    "title": "German Apple Strudel",
+    "tags": [
+      "german",
+      "pastry",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--thai",
+    "title": "Thai Filo Spring Rolls",
+    "tags": [
+      "thai",
+      "spring-rolls",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--mexican",
+    "title": "Mexican Chicken Empanadas",
+    "tags": [
+      "mexican",
+      "empanadas",
+      "chicken"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 55,
     "shard": "q"
   }
 ]
