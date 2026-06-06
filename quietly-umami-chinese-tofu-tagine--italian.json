@@ -1,0 +1,95 @@
+{
+  "slug": "quietly-umami-chinese-tofu-tagine--italian",
+  "title": "Tofu Tagine with Umami Sauce",
+  "description": "A creative Italian twist on the traditional Moroccan tagine, featuring a rich umami sauce and tender tofu.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "quietly garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "umami sauce (homemade or store-bought)",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt recommended"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the minced garlic and cook, stirring occasionally, until fragrant and lightly golden, about 4-5 minutes.",
+    "Add the cubed tofu and cook until golden brown on all sides, about 5-6 minutes.",
+    "In a small bowl, whisk together the umami sauce, Chinese five-spice powder, and lemon juice.",
+    "Pour the sauce over the tofu and stir to coat.",
+    "Reduce heat to low and simmer, uncovered, for 10-12 minutes or until the sauce has thickened and the tofu is coated.",
+    "Stir in the tagine spice blend and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped parsley and serve hot over rice or with crusty bread.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegan",
+    "gluten-free",
+    "vegetarian",
+    "tofu",
+    "tagine",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "20g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-chinese-tofu-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:22:10.771Z"
+}
