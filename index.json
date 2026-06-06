@@ -18256,5 +18256,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-seared-venezuelan-beef-skewers--thai",
+    "title": "Thai-Style Beef Skewers",
+    "tags": [
+      "beef",
+      "grilled",
+      "thai",
+      "skewers"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
