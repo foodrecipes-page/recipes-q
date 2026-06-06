@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-canadian-baby-squid-ceviche--thai",
+  "title": "Ceviche Squid with Thai Spices",
+  "description": "A refreshing Thai-inspired ceviche dish made with tender squid, mixed with aromatic spices and herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "1"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canadian baby potatoes",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Quenched water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the squid tubes under cold water and pat them dry with a paper towel.",
+    "2. Cut the squid tubes into bite-sized pieces.",
+    "3. In a large bowl, combine the squid pieces, lime juice, fish sauce, Thai red chili, and cilantro.",
+    "4. Stir well to combine, and let the mixture marinate for at least 30 minutes.",
+    "5. Cut the Canadian baby potatoes into small cubes and add them to the marinade.",
+    "6. Stir well to combine, and let the mixture marinate for another 30 minutes.",
+    "7. Just before serving, stir in the quenched water and season with salt and black pepper to taste.",
+    "8. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "9. Serve the ceviche squid cold, garnished with additional cilantro if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "squid",
+    "thai",
+    "seafood",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-canadian-baby-squid-ceviche--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:21:34.902Z"
+}
