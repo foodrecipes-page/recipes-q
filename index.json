@@ -11046,17 +11046,16 @@
   },
   {
     "slug": "quick-roasted-australian-lentil-bowl",
-    "title": "Quick Roasted Australian Lentil Bowl",
+    "title": "Australian Lentil Bowl",
     "tags": [
-      "australian-cuisine",
-      "healthy-bowls",
-      "lentil-recipes",
-      "meal-prep",
-      "plant-based",
-      "quick-and-easy"
+      "australian",
+      "lentil",
+      "bowl",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -18333,6 +18332,20 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-canadian-baby-squid-ceviche--gluten-free",
+    "title": "Pan-Seared Squid with Avocado Salsa",
+    "tags": [
+      "gluten-free",
+      "seafood",
+      "squid",
+      "avocado",
+      "salsa"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 20,
     "shard": "q"
   }
 ]
