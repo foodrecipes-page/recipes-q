@@ -1,0 +1,82 @@
+{
+  "slug": "quick-dense-german-burger-slider--keto",
+  "title": "Keto German Slider",
+  "description": "A keto version of a classic German burger, using a dense meat patty and topped with fresh ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense German-Style Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "iceberg or romaine"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "4 oz",
+      "notes": "low-carb, full-fat"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Burger Bun (low-carb)",
+      "amount": "4 buns",
+      "notes": "made from almond flour or coconut flour"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "4 tbsp",
+      "notes": "make sure it's sugar-free"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp",
+      "notes": "make sure it's sugar-free"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Form the ground beef into 4 equal-sized patties.",
+    "3. Season the patties with salt and pepper.",
+    "4. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "5. Meanwhile, toast the buns on the grill or in a toaster.",
+    "6. Assemble the sliders by spreading mayonnaise and mustard on the bottom bun, followed by a lettuce leaf, a cheese slice, a beef patty, a tomato slice, and finally the top bun.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "german",
+    "burger",
+    "slider"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-german-burger-slider--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:11:20.083Z"
+}
