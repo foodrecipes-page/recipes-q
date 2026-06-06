@@ -18168,5 +18168,34 @@
     "cuisine": "kenyan",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-umami-chinese-tofu-tagine--vegan",
+    "title": "Tofu Tagine",
+    "tags": [
+      "moroccan",
+      "stew",
+      "vegan",
+      "tofu"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-umami-chinese-tofu-tagine--italian",
+    "title": "Tofu Tagine with Umami Sauce",
+    "tags": [
+      "italian",
+      "vegan",
+      "gluten-free",
+      "vegetarian",
+      "tofu",
+      "tagine",
+      "umami"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
