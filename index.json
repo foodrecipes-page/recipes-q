@@ -18387,15 +18387,16 @@
   },
   {
     "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--vegetarian",
-    "title": "Ethiopian Vegetable Pie",
+    "title": "Ethiopian Yeast-Free Flatbread (Injera)",
     "tags": [
       "ethiopian",
-      "vegetarian",
-      "pie",
-      "filo"
+      "yeast-free",
+      "flatbread",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
