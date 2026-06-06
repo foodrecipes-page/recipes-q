@@ -16826,17 +16826,15 @@
   },
   {
     "slug": "quietly-umami-chinese-tofu-tagine",
-    "title": "Quietly Umami Chinese Tofu Tagine",
+    "title": "Tofu Tagine",
     "tags": [
-      "brunch-ideas",
-      "chinese-food",
-      "one-pot",
-      "tagine-recipes",
-      "umami-flavors",
-      "vegetarian"
+      "north-african",
+      "vegetarian",
+      "tofu",
+      "tagine"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -18155,6 +18153,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-tangy-kenyan-vegetables-wrap--keto",
+    "title": "Kenyan-Style Keto Beef Wraps",
+    "tags": [
+      "beef",
+      "keto",
+      "low-carb",
+      "wraps",
+      "kenyan"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
