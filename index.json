@@ -2954,17 +2954,14 @@
   },
   {
     "slug": "quenched-greek-giant-beans-gigantes-plaki",
-    "title": "Quenched Greek Giant Beans Gigantes Plaki",
+    "title": "Gigantes Plaki",
     "tags": [
-      "beef-stock",
-      "brunch",
-      "dense",
-      "gourmet",
-      "hearty",
-      "paleo-friendly"
+      "greek",
+      "vegetarian",
+      "lentil-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -4116,15 +4113,14 @@
   },
   {
     "slug": "quenched-smoked-cold-fromage-tagine",
-    "title": "Quenched Smoked-Cold Fromage Tagine",
+    "title": "Smoked Tagine Fromage Quenched",
     "tags": [
-      "kid-friendly",
-      "light-meal",
-      "one-pan-dish",
-      "vegetarian-friendly"
+      "smoked",
+      "tagine",
+      "fromage"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -13916,15 +13912,15 @@
   },
   {
     "slug": "quickly-roasted-carrot-quintessential-quesadilla",
-    "title": "Quickly Roasted Carrot Quintessential Quesadilla",
+    "title": "Roasted Carrot Quesadilla",
     "tags": [
-      "colorful-dessert",
-      "gluten-free",
-      "quintessential-canadian",
-      "tangy-glaze"
+      "breakfast",
+      "vegetarian",
+      "quesadilla",
+      "roasted-carrot"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -18196,6 +18192,45 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-energizing-ethiopian-lamb-tagine--vegetarian",
+    "title": "Spicy Ethiopian Vegetable Tagine",
+    "tags": [
+      "ethiopian",
+      "tagine",
+      "spicy",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-baked-russian-pepper-pilaf--chinese",
+    "title": "Quick Chinese Pepper Pilaf",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "pilaf"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-energizing-ethiopian-lamb-tagine--vegan",
+    "title": "Vegan Ethiopian Tagine with Quick Lentil Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "lentil",
+      "tagine"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
