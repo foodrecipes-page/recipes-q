@@ -1,0 +1,68 @@
+{
+  "slug": "quick-seared-venezuelan-beef-skewers--thai",
+  "title": "Thai-Style Beef Skewers",
+  "description": "Grilled beef skewers served with a spicy Thai-inspired sauce, perfect for a quick and easy dinner.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, fish sauce, and lime juice",
+    "Add the sliced beef and marinate for at least 30 minutes",
+    "Thread the marinated beef onto skewers",
+    "Brush with veggie oil and season with chili flakes",
+    "Grill over medium-high heat for 8-10 minutes, or until cooked through",
+    "Serve immediately with your favorite Thai-inspired sauce"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grilled",
+    "thai",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-venezuelan-beef-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:51:00.786Z"
+}
