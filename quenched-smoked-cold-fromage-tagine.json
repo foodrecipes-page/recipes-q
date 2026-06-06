@@ -1,0 +1,66 @@
+{
+  "slug": "quenched-smoked-cold-fromage-tagine",
+  "title": "Smoked Tagine Fromage Quenched",
+  "description": "A cold, smoked cheese quenched in a flavorful tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked fromage",
+      "amount": "250g",
+      "notes": "softened"
+    },
+    {
+      "name": "tagine",
+      "amount": "100ml",
+      "notes": null
+    },
+    {
+      "name": "quenched",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the olive oil over low heat.",
+    "Add the softened smoked fromage and stir until melted.",
+    "Add the tagine and stir until heated through.",
+    "Add the quenched and stir until combined.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked",
+    "tagine",
+    "fromage"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoked-cold-fromage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:01.750Z"
+}
