@@ -1,0 +1,97 @@
+{
+  "slug": "quick-energizing-ethiopian-lamb-tagine--vegetarian",
+  "title": "Spicy Ethiopian Vegetable Tagine",
+  "description": "A vegan take on a traditional Ethiopian dish, featuring a rich and spicy tagine made with a variety of vegetables.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the carrots and bell peppers and cook for 5 minutes.",
+    "Stir in the cumin, coriander, and cayenne pepper.",
+    "Add the tomatoes and cook for 10 minutes.",
+    "Stir in the berbere spice mix.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "tagine",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-ethiopian-lamb-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:13.469Z"
+}
