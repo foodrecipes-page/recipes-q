@@ -18384,5 +18384,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 55,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--vegetarian",
+    "title": "Ethiopian Vegetable Pie",
+    "tags": [
+      "ethiopian",
+      "vegetarian",
+      "pie",
+      "filo"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
