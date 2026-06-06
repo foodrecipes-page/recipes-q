@@ -1,0 +1,101 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie",
+  "title": "Ethiopian Style Filo Pie",
+  "description": "A sweet and savory pie filled with the flavors of Ethiopia, perfect for a snack or dessert. The combination of flaky filo crust and spicy Ethiopian spices is a match made in heaven.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Filo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Pastry dough",
+      "amount": "1 sheet",
+      "notes": "for crust"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the filo dough to a thickness of about 1/8 inch.",
+    "Cut the filo into squares, about 4 inches per side.",
+    "Place a spoonful of the spinach mixture in the center of each square.",
+    "Brush the edges with melted butter and fold the filo in half to form a triangle.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the filo is golden brown.",
+    "Serve warm, garnished with chopped fresh herbs if desired.",
+    "Repeat with the remaining dough and filling.",
+    "Serve the pies warm, with a side of yogurt or tzatziki sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filo",
+    "ethiopian",
+    "pie",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:27:10.067Z"
+}
