@@ -2205,17 +2205,16 @@
   },
   {
     "slug": "quenched-canadian-baby-squid-ceviche",
-    "title": "Quenched Canadian Baby Squid Ceviche",
+    "title": "Pan-Seared Squid with Citrus and Herbs",
     "tags": [
-      "canadian",
-      "dairy-free",
-      "fresh",
-      "kid-friendly",
-      "quick",
-      "seafood"
+      "seafood",
+      "squid",
+      "lemon",
+      "orange",
+      "garlic"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 20,
+    "cuisine": "Seafood",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -18268,6 +18267,72 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-roasted-carrot-quintessential-quesadilla--italian",
+    "title": "Italian Roasted Carrot Quesadilla",
+    "tags": [
+      "italian",
+      "carrot",
+      "quesadilla",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-canadian-baby-squid-ceviche--german",
+    "title": "German-Style Squid Ceviche",
+    "tags": [
+      "german",
+      "pescatarian",
+      "summer",
+      "appetizer"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-canadian-baby-squid-ceviche--thai",
+    "title": "Ceviche Squid with Thai Spices",
+    "tags": [
+      "ceviche",
+      "squid",
+      "thai",
+      "seafood",
+      "appetizer"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-canadian-baby-squid-ceviche--french",
+    "title": "Pan-Seared Baby Squid with French Canadian Twist",
+    "tags": [
+      "baby-squid",
+      "french-canadian",
+      "seafood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-canadian-baby-squid-ceviche--italian",
+    "title": "Ceviche Italiano",
+    "tags": [
+      "italian",
+      "fish",
+      "seafood",
+      "appetizer",
+      "ceviche"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "q"
   }
 ]
