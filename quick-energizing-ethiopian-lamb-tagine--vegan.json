@@ -1,0 +1,83 @@
+{
+  "slug": "quick-energizing-ethiopian-lamb-tagine--vegan",
+  "title": "Vegan Ethiopian Tagine with Quick Lentil Stew",
+  "description": "A quick and energizing vegan Ethiopian-inspired stew made with lentils and spices, served with a tagine",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Berbere spice",
+      "amount": "2 tsp",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the berbere spice, cumin, salt, and pepper; cook for 1 minute.",
+    "Add the lentils and 2 cups of water; bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the lentils are tender.",
+    "Stir in any additional spices as desired.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "lentil",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-ethiopian-lamb-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:39:58.261Z"
+}
