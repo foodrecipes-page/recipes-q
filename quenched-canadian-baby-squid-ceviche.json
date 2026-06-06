@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-canadian-baby-squid-ceviche",
+  "title": "Pan-Seared Squid with Citrus and Herbs",
+  "description": "A simple and flavorful recipe that highlights the delicate flavor of squid. Perfect for a quick dinner or special occasion.",
+  "cuisine": "Seafood",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid tubes",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "orange",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add olive oil and swirl to coat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add squid and cook for 2-3 minutes per side.",
+    "Transfer squid to a plate and cover with foil to keep warm.",
+    "Add lemon and orange juice to the skillet and stir to combine.",
+    "Return squid to the skillet and toss to coat with citrus sauce.",
+    "Season with salt and pepper to taste.",
+    "Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "squid",
+    "lemon",
+    "orange",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-canadian-baby-squid-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:58:54.319Z"
+}
