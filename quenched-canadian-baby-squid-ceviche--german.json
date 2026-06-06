@@ -1,0 +1,59 @@
+{
+  "slug": "quenched-canadian-baby-squid-ceviche--german",
+  "title": "German-Style Squid Ceviche",
+  "description": "A refreshing German twist on the classic Latin American dish, perfect for a light lunch or snack.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "1/2 inch thick slices"
+    },
+    {
+      "name": "quenched",
+      "amount": "1/4 cup",
+      "notes": "white wine vinegar"
+    },
+    {
+      "name": "canadian",
+      "amount": "1/4 cup",
+      "notes": "club soda"
+    },
+    {
+      "name": "baby",
+      "amount": "1/4 cup",
+      "notes": "red onion, finely chopped"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine squid, quenched, canadiand, baby, and lemon juice.",
+    "Mix well to combine, then cover and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in club soda and adjust seasoning as needed.",
+    "Serve chilled, garnished with additional baby onion if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pescatarian",
+    "summer",
+    "appetizer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-canadian-baby-squid-ceviche--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:20:28.678Z"
+}
