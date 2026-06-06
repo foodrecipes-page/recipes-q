@@ -4945,17 +4945,14 @@
   },
   {
     "slug": "quick-american-oyster-mushroom-quesadilla",
-    "title": "Quick American Oyster Mushroom Quesadilla",
+    "title": "Pan-Seared Quesadilla with Mushrooms",
     "tags": [
-      "american-quesadilla",
-      "low-glycemic",
-      "quick",
-      "show-off",
-      "vegetarian",
-      "weeknight"
+      "quesadilla",
+      "mushrooms",
+      "vegetarian"
     ],
     "cuisine": "American",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -18231,6 +18228,33 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-dense-german-burger-slider--keto",
+    "title": "Keto German Slider",
+    "tags": [
+      "keto",
+      "german",
+      "burger",
+      "slider"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-korean-almonds-muchim--chinese",
+    "title": "Korean-Style Fried Chicken with Spicy Muchim Sauce",
+    "tags": [
+      "korean",
+      "chinese",
+      "fried-chicken",
+      "spicy",
+      "muchim-sauce"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
