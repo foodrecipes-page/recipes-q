@@ -1,0 +1,88 @@
+{
+  "slug": "quick-roasted-australian-lentil-bowl",
+  "title": "Australian Lentil Bowl",
+  "description": "A hearty and nutritious bowl filled with Australian lentils, roasted vegetables, and a hint of spices.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Quick olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes and carrots into 1-inch cubes.",
+    "Place the sweet potatoes and carrots on a baking sheet, drizzle with 1 tablespoon of quick olive oil, and season with salt and black pepper.",
+    "Roast in the oven for 20-25 minutes, or until tender.",
+    "While the sweet potatoes and carrots are roasting, heat 1 tablespoon of quick olive oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook for 5-7 minutes, or until softened.",
+    "Add the sliced red bell pepper and cook for an additional 2-3 minutes.",
+    "Stir in the chili powder and garlic powder.",
+    "Add the Australian lentils to the skillet and cook for 1-2 minutes, until heated through.",
+    "To assemble the bowls, place 1/2 cup of the roasted sweet potatoes and carrots in the bottom of a bowl, followed by the lentil mixture.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "lentil",
+    "bowl",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "60g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-australian-lentil-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:20:42.422Z"
+}
