@@ -1,0 +1,75 @@
+{
+  "slug": "quickly-roasted-carrot-quintessential-quesadilla",
+  "title": "Roasted Carrot Quesadilla",
+  "description": "A flavorful and healthy twist on traditional quesadillas, featuring roasted carrots as the main filling.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quesadilla",
+      "amount": "2",
+      "notes": "whole wheat or flour tortilla"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Toss the chopped carrots with olive oil, cumin, salt, and pepper on a baking sheet.",
+    "3. Roast the carrots in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "4. While the carrots are roasting, heat a large skillet over medium heat.",
+    "5. Place one of the tortillas in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "6. Once the cheese is melted, fold the tortilla in half to enclose the filling.",
+    "7. Cook for an additional 2-3 minutes, until the tortilla is crispy and the cheese is melted.",
+    "8. Flip the quesadilla and cook for an additional 2-3 minutes, until crispy and golden brown.",
+    "9. Repeat with the remaining tortilla and filling ingredients.",
+    "10. Cut the quesadillas into wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "quesadilla",
+    "roasted-carrot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-roasted-carrot-quintessential-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:42:04.976Z"
+}
