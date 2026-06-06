@@ -1,0 +1,91 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--mexican",
+  "title": "Mexican Chicken Empanadas",
+  "description": "A flavorful twist on traditional empanadas, filled with shredded chicken and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "dry active"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine flour, yeast, and a pinch of salt. Mix well.",
+    "Gradually add warm water to the dry ingredients and knead for 5-7 minutes until a dough forms.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Roll out the dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a round cookie cutter or the rim of a glass.",
+    "Place a tablespoon of shredded chicken in the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough in half to form a half-moon shape.",
+    "Press the edges together to seal the empanada. Repeat with the remaining dough and filling.",
+    "Brush the tops of the empanadas with a little olive oil and sprinkle with cumin, chili powder, and a pinch of salt.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "empanadas",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:40:38.126Z"
+}
