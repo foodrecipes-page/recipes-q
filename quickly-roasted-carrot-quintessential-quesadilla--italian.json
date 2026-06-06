@@ -1,0 +1,82 @@
+{
+  "slug": "quickly-roasted-carrot-quintessential-quesadilla--italian",
+  "title": "Italian Roasted Carrot Quesadilla",
+  "description": "A unique Italian twist on the classic quesadilla, featuring roasted carrots, perfect for a quick meal.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "quesadilla",
+      "amount": "1",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and chop the carrot into 1-inch pieces.",
+    "Toss the carrot with olive oil, salt, pepper, and minced garlic on a baking sheet.",
+    "Roast the carrot in the oven for 20-25 minutes, or until tender.",
+    "While the carrot is roasting, heat a large skillet over medium heat.",
+    "Place a quesadilla in the skillet and sprinkle with parmesan cheese.",
+    "Fold the quesadilla in half and cook for 2-3 minutes, or until the cheese is melted and the tortilla is crispy.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Cut the quesadilla into wedges and top with roasted carrot, parsley, and additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "carrot",
+    "quesadilla",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-roasted-carrot-quintessential-quesadilla--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T19:57:07.476Z"
+}
