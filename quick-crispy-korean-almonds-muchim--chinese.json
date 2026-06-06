@@ -1,0 +1,84 @@
+{
+  "slug": "quick-crispy-korean-almonds-muchim--chinese",
+  "title": "Korean-Style Fried Chicken with Spicy Muchim Sauce",
+  "description": "A crispy Korean-style fried chicken dish served with a spicy and sour muchim sauce, inspired by Chinese flavors.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup",
+      "notes": "for crispy coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "muchim sauce (see below for ingredients)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, cornstarch, and a pinch of salt.",
+    "2. Dredge the chicken wings in the flour mixture, shaking off excess.",
+    "3. Dip the floured chicken in the beaten eggs, making sure they're fully coated.",
+    "4. Roll the egg-coated chicken in the flour mixture again, pressing the coating onto the chicken to adhere.",
+    "5. Heat vegetable oil in a large skillet or deep fryer to 350°F.",
+    "6. Fry the chicken wings in batches until golden brown and cooked through, about 5-7 minutes per batch.",
+    "7. Drain the fried chicken on paper towels.",
+    "8. In a small bowl, whisk together muchim sauce ingredients.",
+    "9. Toss the fried chicken in the muchim sauce until well coated.",
+    "10. Serve the spicy fried chicken immediately, garnished with toasted almonds and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "chinese",
+    "fried-chicken",
+    "spicy",
+    "muchim-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-korean-almonds-muchim--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:11:23.807Z"
+}
