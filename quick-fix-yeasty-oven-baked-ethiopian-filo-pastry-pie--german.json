@@ -1,0 +1,68 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--german",
+  "title": "German Apple Strudel",
+  "description": "A classic German dessert made with layers of flaky pastry and sweet apple filling. This recipe is perfect for a cozy evening with family or friends.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apple",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Filo pastry",
+      "amount": "1 package, thawed"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the filo pastry and cut it into 4 equal pieces.",
+    "In a bowl, mix together the sliced apples, cinnamon, and sugar.",
+    "Place one piece of filo pastry on a flat surface and brush with melted butter.",
+    "Place a quarter of the apple mixture on the pastry, leaving a 1-inch border around the edges.",
+    "Fold the pastry over the filling to form a triangle and press the edges to seal.",
+    "Repeat with the remaining pastry and apple mixture.",
+    "Place the strudels on a baking sheet lined with parchment paper and brush the tops with the beaten egg.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm with a scoop of vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:39:24.503Z"
+}
