@@ -2421,17 +2421,15 @@
   },
   {
     "slug": "quenched-creamy-tunisian-couscous-tagine",
-    "title": "quenched creamy tunisian couscous tagine",
+    "title": "Tunisian Couscous Tagine",
     "tags": [
-      "creamy",
-      "high-fat",
-      "romantic",
-      "shojin",
-      "tunisian",
-      "umeboshi"
+      "north-african",
+      "stew",
+      "couscous",
+      "tagine"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -4249,18 +4247,16 @@
   },
   {
     "slug": "quenched-snappy-ethiopian-buckwheat-bowl",
-    "title": "Quenched Snappy Ethiopian Buckwheat Bowl",
+    "title": "Buckwheat Injera Bowls with Spicy Ethiopian Stew",
     "tags": [
-      "breakfast",
+      "ethiopian",
       "buckwheat",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight",
-      "wok-seared"
+      "injera",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
