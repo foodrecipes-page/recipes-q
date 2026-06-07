@@ -6529,17 +6529,15 @@
   },
   {
     "slug": "quick-energizing-filipino-fideo-bicol-express",
-    "title": "Quick Energizing Filipino Fideo Bicol Express",
+    "title": "Filipino-Style Express Chicken Adobo",
     "tags": [
-      "filipino-food",
-      "herbal",
-      "jain-friendly",
-      "one-pot",
-      "quick-meal",
-      "springy"
+      "filipino",
+      "chicken",
+      "adobo",
+      "express"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17747,14 +17745,14 @@
   },
   {
     "slug": "qzestly-zanzibari-chickpea-stir-fry-molcajete",
-    "title": "Qzestly Zanzibari Chickpea Stir-fry Molcajete",
+    "title": "Spicy Quesadilla with Zanzibari Salsa",
     "tags": [
-      "low-glycemic",
-      "middle-eastern",
-      "molcajete",
-      "weeknight-friendly"
+      "mexican",
+      "quesadilla",
+      "chicken",
+      "salsa"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "q"
   },
