@@ -1,0 +1,95 @@
+{
+  "slug": "quick-roasted-dutch-chestnut-mushroom-stew",
+  "title": "Roasted Dutch Stew",
+  "description": "A hearty, comforting stew made with roasted Dutch potatoes and a variety of vegetables, perfect for a cold evening.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "mixed mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef, low sodium"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the potatoes with 1 tablespoon of olive oil, salt, and pepper on a baking sheet.",
+    "Roast the potatoes in the oven for 20 minutes.",
+    "In a large pot, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute more.",
+    "Add the sliced mushrooms, chopped carrot, and celery to the pot.",
+    "Cook for 5 minutes, or until the vegetables are tender.",
+    "Add the stew to the pot and stir to combine.",
+    "Return the roasted potatoes to the pot and stir to combine.",
+    "Simmer the stew over low heat for 10 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-dutch-chestnut-mushroom-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:01:08.563Z"
+}
