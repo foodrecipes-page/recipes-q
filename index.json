@@ -9091,16 +9091,15 @@
   },
   {
     "slug": "quick-gooey-norwegian-cheese-casserole",
-    "title": "Quick Gooey Norwegian Cheese Casserole",
+    "title": "Norwegian Cheese Casserole",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "norwegian-cuisine",
-      "one-pan",
-      "weeknight-dinner"
+      "norwegian",
+      "cheese",
+      "casserole",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
