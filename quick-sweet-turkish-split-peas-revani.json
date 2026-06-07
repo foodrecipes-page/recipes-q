@@ -1,0 +1,90 @@
+{
+  "slug": "quick-sweet-turkish-split-peas-revani",
+  "title": "Turkish Revani Cake with Sweet Split Peas",
+  "description": "A traditional Turkish dessert with a twist of adding sweet split peas for added nutrition and flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried split peas",
+      "amount": "1 cup",
+      "notes": "sweet, rinsed and drained"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, whisk together the almond flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Stir in the sweet split peas and ground cinnamon.",
+    "Pour the batter into a greased 9-inch round cake pan.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes before transferring to a wire rack to cool completely.",
+    "Once the cake is completely cool, you can dust it with powdered sugar and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "dessert",
+    "sweet",
+    "split-peas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-turkish-split-peas-revani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:16:14.050Z"
+}
