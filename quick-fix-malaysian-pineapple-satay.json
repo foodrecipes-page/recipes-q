@@ -1,0 +1,97 @@
+{
+  "slug": "quick-fix-malaysian-pineapple-satay",
+  "title": "Malaysian Satay with Pineapple Salsa",
+  "description": "A flavorful and spicy Malaysian-inspired satay dish served with a sweet and tangy pineapple salsa. Perfect for a quick and easy dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, ginger, lime juice, soy sauce, and brown sugar. Blend until smooth.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "Place skewers on a baking sheet lined with parchment paper.",
+    "Brush the chicken with the coconut milk mixture, making sure they are evenly coated.",
+    "Grill the satay over medium-high heat for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, combine pineapple, red onion, red bell pepper, and jalapeño in a bowl.",
+    "Stir in lime juice and adjust seasoning as needed.",
+    "Serve the grilled satay with the pineapple salsa on the side.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "satay",
+    "pineapple",
+    "grilled-chicken",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-malaysian-pineapple-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:32:04.539Z"
+}
