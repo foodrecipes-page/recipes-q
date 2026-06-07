@@ -1,0 +1,78 @@
+{
+  "slug": "quickly-steamed-turkish-galangal-kha-wrap",
+  "title": "Turkish-Style Steamed Fish Wrap",
+  "description": "A flavorful and healthy dish combining the freshness of steamed fish with the spices of Turkish cuisine, all wrapped up in a delicious and crunchy galangal-infused wrap.",
+  "cuisine": "Turkish",
+  "diet": [
+    "healthy",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Steamed Fish (Cod)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Galangal-Infused Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Quickly Sauteed Kha",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Prepare the steamed fish by seasoning it with salt and pepper.",
+    "2. In a pan, heat the olive oil and sauté the kha until it's slightly caramelized.",
+    "3. Add the Turkish spice mix to the pan and stir for 1 minute.",
+    "4. Place the steamed fish on the galangal-infused wrap and top it with the quickly sautéed kha mixture.",
+    "5. Drizzle the lemon juice over the fish and kha mixture.",
+    "6. Fold the wrap to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "fish",
+    "healthy",
+    "gluten-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-steamed-turkish-galangal-kha-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:04:47.708Z"
+}
