@@ -1,0 +1,73 @@
+{
+  "slug": "qzestly-zanzibari-chickpea-stir-fry-molcajete",
+  "title": "Spicy Quesadilla with Zanzibari Salsa",
+  "description": "A delicious and spicy quesadilla filled with tender chicken and served with a refreshing zanzibari salsa. Perfect for a quick and easy dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "qzestly",
+      "amount": "1/4 cup",
+      "notes": "ground qzestly for added flavor"
+    },
+    {
+      "name": "zanzibari",
+      "amount": "1/2 cup",
+      "notes": "diced zanzibari for the salsa"
+    },
+    {
+      "name": "molcajete",
+      "amount": "1/4 cup",
+      "notes": "molcajete sauce for added flavor"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/2 cup",
+      "notes": "for coating the chicken"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying the chicken"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with qzestly and let it marinate for 30 minutes.",
+    "Coat the chicken breast with chickpea flour and fry in hot oil until cooked through.",
+    "In a separate pan, heat the molcajete sauce and add diced zanzibari.",
+    "Add the cooked chicken to the pan and simmer for a few minutes to absorb the flavors.",
+    "Warm a tortilla in the oven and fill it with the chicken and zanzibari salsa.",
+    "Fold the tortilla in half and cook in a pan until crispy and golden brown.",
+    "Serve the quesadilla hot with additional zanzibari salsa on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "chicken",
+    "salsa"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qzestly-zanzibari-chickpea-stir-fry-molcajete",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:59:42.419Z"
+}
