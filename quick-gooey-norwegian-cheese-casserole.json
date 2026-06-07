@@ -1,0 +1,79 @@
+{
+  "slug": "quick-gooey-norwegian-cheese-casserole",
+  "title": "Norwegian Cheese Casserole",
+  "description": "A gooey, cheesy casserole with a Norwegian twist. Perfect for a quick weeknight dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quick Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded or sliced, whichever you prefer"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1/2 cup",
+      "notes": "For an extra gooey top layer"
+    },
+    {
+      "name": "Norwegian Cheese",
+      "amount": "1/2 cup",
+      "notes": "A strong, flavorful cheese"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 (6 oz) package",
+      "notes": "A pre-made casserole to simplify things"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted, for greasing the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To bring out the flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To balance the flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13 inch baking dish with butter.",
+    "Open the casserole package and spread it evenly in the prepared dish.",
+    "Sprinkle the shredded cheese over the casserole.",
+    "Dot the top with Norwegian cheese.",
+    "Cover the dish with foil and bake for 20 minutes.",
+    "Remove the foil and top with gooey cheese.",
+    "Return to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "cheese",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-gooey-norwegian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:28:08.993Z"
+}
