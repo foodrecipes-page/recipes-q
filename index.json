@@ -6022,18 +6022,15 @@
   },
   {
     "slug": "quick-crispy-slovakian-tofu-wrap",
-    "title": "Quick Crispy Slovakian Tofu Wrap",
+    "title": "Crispy Slovakian Tofu Wrap",
     "tags": [
-      "easy",
-      "en-croute",
-      "plant-based",
-      "quick",
+      "crispy",
       "slovakian",
-      "smoky-paprika",
+      "tofu",
       "wrap"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "cuisine": "slovakian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
