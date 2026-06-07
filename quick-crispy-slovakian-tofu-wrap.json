@@ -1,0 +1,66 @@
+{
+  "slug": "quick-crispy-slovakian-tofu-wrap",
+  "title": "Crispy Slovakian Tofu Wrap",
+  "description": "A unique and delicious wrap filled with crispy tofu, \n                  inspired by traditional Slovakian cuisine.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "firm"
+    },
+    {
+      "name": "quick flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "slovakian seasoning",
+      "amount": "1 tsp",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp",
+      "notes": "vegetable"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a pan to 375°F (190°C).",
+    "Cut the tofu into small cubes and coat with flour.",
+    "Add the tofu to the pan and cook until crispy, about 3-4 minutes.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Assemble the wrap by adding the crispy tofu, Slovakian seasoning, and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "slovakian",
+    "tofu",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-slovakian-tofu-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:46:28.407Z"
+}
