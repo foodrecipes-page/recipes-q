@@ -1,0 +1,81 @@
+{
+  "slug": "quick-roasted-ukrainian-myeongnan-roe-skewers",
+  "title": "Spicy Myeongnan Roe Skewers",
+  "description": "A fusion of Ukrainian and Korean flavors in this spicy skewer recipe. Myeongnan roe adds a rich, buttery taste.",
+  "cuisine": "Korean-Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Myeongnan roe",
+      "amount": "1/4 cup",
+      "notes": "Available at Korean markets"
+    },
+    {
+      "name": "Quick marinated pork",
+      "amount": "1 pound",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1",
+      "notes": "Roasted in oven at 400°F for 30 minutes"
+    },
+    {
+      "name": "Ukrainian black pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (400°F).",
+    "2. In a small bowl, mix together marinated pork, roasted red pepper, black pepper, garlic, green onion, soy sauce, and brown sugar.",
+    "3. Thread pork mixture onto skewers, leaving a small space between each piece.",
+    "4. Grill for 8-10 minutes, or until the internal temperature reaches 145°F.",
+    "5. Serve immediately, garnished with additional green onion if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "ukrainian",
+    "skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-ukrainian-myeongnan-roe-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:55:22.877Z"
+}
