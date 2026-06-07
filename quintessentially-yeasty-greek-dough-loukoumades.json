@@ -1,0 +1,76 @@
+{
+  "slug": "quintessentially-yeasty-greek-dough-loukoumades",
+  "title": "Traditional Greek Loukoumades",
+  "description": "A classic Greek dessert made with deep-fried dough balls, typically drizzled with honey and sprinkled with cinnamon.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and sugar.",
+    "Gradually add milk and mix until a dough forms.",
+    "Knead the dough for 5 minutes and let it rise for 1 hour.",
+    "Punch down the dough and divide it into small balls.",
+    "Heat oil in a deep frying pan to 375°F (190°C).",
+    "Fry the dough balls until golden brown, about 2-3 minutes.",
+    "Drain excess oil and place the loukoumades on a paper towel-lined plate.",
+    "Drizzle with honey and sprinkle with cinnamon.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "dessert",
+    "fried-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-yeasty-greek-dough-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:36:57.275Z"
+}
