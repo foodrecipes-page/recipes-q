@@ -7570,15 +7570,16 @@
   },
   {
     "slug": "quick-fix-malaysian-pineapple-satay",
-    "title": "Quick-Fix Malaysian Pineapple Satay",
+    "title": "Malaysian Satay with Pineapple Salsa",
     "tags": [
-      "high-protein",
       "malaysian",
-      "one-pan",
-      "weeknight"
+      "satay",
+      "pineapple",
+      "grilled-chicken",
+      "salsa"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -17642,18 +17643,14 @@
   },
   {
     "slug": "quintessentially-yeasty-greek-dough-loukoumades",
-    "title": "Quintessentially Yeasty Greek Dough Loukoumades",
+    "title": "Traditional Greek Loukoumades",
     "tags": [
-      "greek-dessert",
-      "jain-friendly",
-      "lazy-sunday",
-      "smoky-flavor",
-      "sweet-treats",
-      "turmeric-spice",
-      "wok-hei"
+      "greek-cuisine",
+      "dessert",
+      "fried-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
