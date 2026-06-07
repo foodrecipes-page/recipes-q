@@ -11118,17 +11118,13 @@
   },
   {
     "slug": "quick-roasted-dutch-chestnut-mushroom-stew",
-    "title": "Quick Roasted Dutch Chestnut Mushroom Stew",
+    "title": "Roasted Dutch Stew",
     "tags": [
       "comfort-food",
-      "mushroom-based",
-      "one-pot",
-      "vegan-friendly",
-      "vegetarian-friendly",
-      "winter-stew"
+      "hearty-stew"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -13551,16 +13547,15 @@
   },
   {
     "slug": "quickly-cooked-algerian-beef-tagine",
-    "title": "algerian beef tagine",
+    "title": "Classic Algerian Beef Tagine",
     "tags": [
       "algerian",
       "beef",
-      "comfort-food",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Algerian",
+    "totalTimeMin": 105,
     "shard": "q"
   },
   {
@@ -14056,15 +14051,13 @@
   },
   {
     "slug": "quickly-steamed-turkish-galangal-kha-wrap",
-    "title": "Quickly Steamed Turkish Galangal-Kha Wrap",
+    "title": "Turkish-Style Steamed Fish Wrap",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "healthy",
-      "one-pan",
       "turkish",
-      "vegan",
-      "weeknight"
+      "fish",
+      "healthy",
+      "gluten-free",
+      "wrap"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
