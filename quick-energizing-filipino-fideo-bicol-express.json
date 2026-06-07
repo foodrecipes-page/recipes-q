@@ -1,0 +1,84 @@
+{
+  "slug": "quick-energizing-filipino-fideo-bicol-express",
+  "title": "Filipino-Style Express Chicken Adobo",
+  "description": "A quick and energizing Filipino-inspired dish made with chicken and a blend of spices, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the black pepper, garlic powder, onion powder, and bay leaves to the skillet and cook for 1 minute.",
+    "Add the vinegar and water to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and reduce heat to low.",
+    "Simmer the chicken in the sauce for 10-12 minutes, or until cooked through.",
+    "Serve the chicken hot, garnished with bay leaves if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "chicken",
+    "adobo",
+    "express"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-filipino-fideo-bicol-express",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:12:27.024Z"
+}
