@@ -10091,17 +10091,15 @@
   },
   {
     "slug": "quick-malaysian-almonds-stir-fry",
-    "title": "Quick Malaysian Almonds Stir-fry",
+    "title": "Quick Malaysian Stir Fry",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "lacto-vegetarian",
+      "quick",
       "malaysian",
-      "one-pan",
-      "peppy"
+      "almonds",
+      "stir-fry"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14874,17 +14872,16 @@
   },
   {
     "slug": "quietly-dense-kenyan-cashew-stew",
-    "title": "Quietly Dense Kenyan Cashew Stew",
+    "title": "Kenyan Cashew Stew",
     "tags": [
-      "cold-stew",
-      "high-protein",
-      "kenyan-cuisine",
-      "lacto-vegetarian",
-      "post-workout",
-      "smoky-flavors"
+      "stew",
+      "kenyan",
+      "beef",
+      "cashews",
+      "spicy"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 135,
     "shard": "q"
   },
   {
