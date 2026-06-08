@@ -1,0 +1,94 @@
+{
+  "slug": "quick-malaysian-almonds-stir-fry",
+  "title": "Quick Malaysian Stir Fry",
+  "description": "A simple and flavorful stir fry recipe from Malaysia, made with marinated chicken, vegetables, and a blend of spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the soy sauce, honey, and chili flakes and stir-fry for 1 minute.",
+    "Add the snow peas and red bell pepper and cook until the vegetables are tender-crisp, about 2-3 minutes.",
+    "Stir in the almonds and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "quick",
+    "malaysian",
+    "almonds",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-almonds-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:16:55.737Z"
+}
