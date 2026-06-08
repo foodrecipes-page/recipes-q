@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-german-long-beans-hash",
+  "title": "Quick German Bean Hash",
+  "description": "A hearty and flavorful German-inspired bean hash recipe, ready in no time.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "canned beans (such as kidney or black beans)",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "german sausage (such as bratwurst or knockwurst)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the canned beans and cook until heated through, about 2-3 minutes.",
+    "Add the hash browns and cook until golden brown, breaking them up with a spatula as they cook.",
+    "If using german sausage, add it to the skillet and cook until browned, breaking it up with a spatula as it cooks.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "lunch",
+    "hash",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-german-long-beans-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:37:34.374Z"
+}
