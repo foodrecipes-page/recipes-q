@@ -1,0 +1,67 @@
+{
+  "slug": "quaint-crunchy-northern-thai-tofu-noodles",
+  "title": "Northern Thai Noodle Stir Fry",
+  "description": "A spicy and flavorful stir fry dish inspired by the cuisine of northern Thailand, featuring tofu and crunchy vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": "Extra-firm tofu, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "Quaint Noodles",
+      "amount": "200g",
+      "notes": "Wide, flat noodles"
+    },
+    {
+      "name": "Crunchy Vegetables",
+      "amount": "1 cup",
+      "notes": "Bell peppers, carrots, bean sprouts, chopped"
+    },
+    {
+      "name": "Northern Thai Sauce",
+      "amount": "2 tbsp",
+      "notes": "Made from a combination of chili peppers, garlic, ginger, and fish sauce (optional)"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped leaves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Add the crunchy vegetables and cook until they start to soften, about 3 minutes.",
+    "Add the northern Thai sauce and stir to combine.",
+    "Add the quaint noodles and stir-fry for 2-3 minutes, until they are well coated with the sauce.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with chopped Thai basil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-crunchy-northern-thai-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:15:30.335Z"
+}
