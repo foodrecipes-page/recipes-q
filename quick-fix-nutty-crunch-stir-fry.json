@@ -1,0 +1,64 @@
+{
+  "slug": "quick-fix-nutty-crunch-stir-fry",
+  "title": "Quick Fix Stir Fry",
+  "description": "A fast and easy stir fry recipe that combines the crunch of vegetables with the nutty flavor of soy sauce.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Stir Fry Mix (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Fix Sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": "available in most supermarkets"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a pan over medium-high heat.",
+    "Add the Stir Fry Mix and cook until tender.",
+    "Add the Soy Sauce and stir to combine.",
+    "Add the cooked Rice to the pan and stir to combine.",
+    "Top with Crunchy Peanuts and serve hot.",
+    "If using Fix Sauce, drizzle over the top of the dish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-nutty-crunch-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:15:38.009Z"
+}
