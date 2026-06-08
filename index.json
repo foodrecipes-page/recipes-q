@@ -3255,18 +3255,15 @@
   },
   {
     "slug": "quenched-late-night-british-red-wine-welsh-rarebit",
-    "title": "Quenched Late Night British Red Wine Welsh Rarebit",
+    "title": "Welsh Rarebit",
     "tags": [
+      "breakfast",
       "british",
-      "comfort-food",
-      "low-calorie",
-      "midnight-craving",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "cheese",
+      "easy"
     ],
     "cuisine": "British",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
