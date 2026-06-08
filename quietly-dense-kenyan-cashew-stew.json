@@ -1,0 +1,91 @@
+{
+  "slug": "quietly-dense-kenyan-cashew-stew",
+  "title": "Kenyan Cashew Stew",
+  "description": "A hearty and flavorful stew from Kenya, made with tender beef, crunchy cashews, and a blend of aromatic spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (1 pound)",
+      "amount": "1 lb",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "Cashews (1 cup)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Onion (1 medium)",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomatoes (2 medium)",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kenyan stew spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at African markets or online"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water (2 cups)",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the beef and cook until browned, breaking it up into small pieces.",
+    "Add the tomatoes, Kenyan stew spice blend, salt, and black pepper.",
+    "Stir well to combine.",
+    "Add the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Stir in the cashews and continue to simmer for 10 minutes.",
+    "Serve hot over rice or with naan bread.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "kenyan",
+    "beef",
+    "cashews",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-dense-kenyan-cashew-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:27:01.747Z"
+}
