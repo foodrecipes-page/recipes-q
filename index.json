@@ -2992,16 +2992,15 @@
   },
   {
     "slug": "quenched-indian-christmas-pudding-vindaloo",
-    "title": "Quenched Indian Christmas Pudding Vindaloo",
+    "title": "Quenched Christmas Pudding",
     "tags": [
       "christmas",
-      "fusion",
-      "indian",
-      "one-pot",
-      "vegan"
+      "pudding",
+      "dessert",
+      "indian-spices"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -7288,16 +7287,17 @@
   },
   {
     "slug": "quick-fix-german-long-beans-hash",
-    "title": "Quick-Fix German Long Beans Hash",
+    "title": "Quick German Bean Hash",
     "tags": [
       "german",
-      "one-pan",
-      "quick-fix",
-      "veggie-forward",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "hash",
+      "beans",
+      "vegetarian"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
