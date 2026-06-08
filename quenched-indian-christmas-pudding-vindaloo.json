@@ -1,0 +1,76 @@
+{
+  "slug": "quenched-indian-christmas-pudding-vindaloo",
+  "title": "Quenched Christmas Pudding",
+  "description": "A moist and flavorful dessert made with Indian spices and perfect for the Christmas season.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Quenched flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "2 tsp",
+      "notes": "cinnamon, nutmeg, cardamom"
+    },
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "2"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup, melted"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, whisk together flour, Indian spices, and salt.",
+    "Add chopped Christmas pudding, brown sugar, eggs, melted butter, and milk. Mix well.",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm, garnished with whipped cream or vanilla ice cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "christmas",
+    "pudding",
+    "dessert",
+    "indian-spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-indian-christmas-pudding-vindaloo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:57:21.320Z"
+}
