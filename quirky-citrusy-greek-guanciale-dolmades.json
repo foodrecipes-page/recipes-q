@@ -1,0 +1,81 @@
+{
+  "slug": "quirky-citrusy-greek-guanciale-dolmades",
+  "title": "Citrusy Guanciale Dolmades",
+  "description": "A twist on traditional dolmades with the addition of crispy guanciale and a squeeze of citrus.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Dolmades",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap each dolmade in a piece of rice, leaving a small opening at the top.",
+    "Place the stuffed dolmades on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and season with salt.",
+    "Bake for 10-12 minutes, or until lightly browned.",
+    "Meanwhile, cook the guanciale in a pan over medium heat until crispy.",
+    "Remove from heat and set aside.",
+    "Squeeze the lemon juice over the dolmades and sprinkle with parsley.",
+    "Top each dolmade with a piece of crispy guanciale.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "guanciale",
+    "dolmades",
+    "snack",
+    "greece"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-citrusy-greek-guanciale-dolmades",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:44:18.590Z"
+}
