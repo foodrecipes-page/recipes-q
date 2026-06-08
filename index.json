@@ -377,16 +377,14 @@
   },
   {
     "slug": "quaint-crunchy-northern-thai-tofu-noodles",
-    "title": "Quaint Crunchy Northern Thai Tofu Noodles",
+    "title": "Northern Thai Noodle Stir Fry",
     "tags": [
-      "crunchy-texture",
-      "jammy-sauce",
-      "noodle-dish",
-      "thai-inspired",
-      "vegan-friendly"
+      "thai",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -6393,17 +6391,15 @@
   },
   {
     "slug": "quick-dense-turkish-chicken-pilaf",
-    "title": "Quick Dense Turkish Chicken Pilaf",
+    "title": "Turkish Chicken Pilaf",
     "tags": [
-      "cauliflower-rice",
-      "chicken-dinner",
-      "low-carb",
-      "one-pan",
-      "turkish-food",
-      "whole30"
+      "turkish",
+      "chicken",
+      "pilaf",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
