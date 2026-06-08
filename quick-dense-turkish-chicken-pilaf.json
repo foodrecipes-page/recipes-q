@@ -1,0 +1,115 @@
+{
+  "slug": "quick-dense-turkish-chicken-pilaf",
+  "title": "Turkish Chicken Pilaf",
+  "description": "A hearty and flavorful Turkish-inspired dish made with chicken, pilaf, and spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast, boneless and skinless",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    {
+      "step": "1. Heat oil in a large skillet over medium-high heat.",
+      "notes": null
+    },
+    {
+      "step": "2. Add the chicken to the skillet and cook until browned and cooked through.",
+      "notes": "about 5-6 minutes per side"
+    },
+    {
+      "step": "3. Remove the chicken from the skillet and set aside.",
+      "notes": null
+    },
+    {
+      "step": "4. Reduce heat to medium and add the onion to the skillet.",
+      "notes": null
+    },
+    {
+      "step": "5. Cook the onion until softened, about 3-4 minutes.",
+      "notes": null
+    },
+    {
+      "step": "6. Add the garlic, cumin, paprika, salt, and black pepper to the skillet.",
+      "notes": null
+    },
+    {
+      "step": "7. Cook for 1 minute.",
+      "notes": null
+    },
+    {
+      "step": "8. Stir in the pilaf and cook until heated through.",
+      "notes": null
+    },
+    {
+      "step": "9. Serve the chicken on top of the pilaf.",
+      "notes": null
+    },
+    {
+      "step": "10. Garnish with parsley, if desired.",
+      "notes": null
+    }
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "chicken",
+    "pilaf",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-turkish-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:19:31.128Z"
+}
