@@ -1,0 +1,74 @@
+{
+  "slug": "quietly-adventurous-egyptian-vine-leaves-wrap",
+  "title": "Egyptian Vine Leaf Wrap",
+  "description": "A flavorful and refreshing dish inspired by Egyptian cuisine, perfect for a quick snack or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "12-15 leaves"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla or flatbread"
+    },
+    {
+      "name": "quietly cooked rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "adventurous hummus",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Prepare the vine leaves by removing the stems and any tough parts.",
+    "2. Rinse the leaves in cold water and pat them dry.",
+    "3. In a pan, heat the olive oil over medium heat.",
+    "4. Add the quietly cooked rice and stir to combine.",
+    "5. Add the adventurous hummus and stir to combine.",
+    "6. Lay a vine leaf on a flat surface and place a tablespoon of the rice mixture in the center of the leaf.",
+    "7. Fold the base of the leaf over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "8. Repeat with the remaining leaves and filling.",
+    "9. Serve the vine leaf wraps warm or at room temperature.",
+    "10. Garnish with a sprinkle of salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "easy",
+    "middle-eastern",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-adventurous-egyptian-vine-leaves-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:47:59.749Z"
+}
