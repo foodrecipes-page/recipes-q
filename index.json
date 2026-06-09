@@ -13448,17 +13448,18 @@
   },
   {
     "slug": "quickly-baked-ukrainian-colby-jack-cheese-flatbread",
-    "title": "Quickly Baked Ukrainian Colby Jack Cheese Flatbread",
+    "title": "Colby Jack Flatbread",
     "tags": [
-      "cheesy-goodness",
-      "flatbread-recipe",
-      "jain-friendly",
-      "quick-bread",
-      "ukrainian-cuisine",
-      "vegetarian-snack"
+      "quickly",
+      "baked",
+      "ukrainian",
+      "colby",
+      "jack",
+      "cheese",
+      "flatbread"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 17,
     "shard": "q"
   },
   {
@@ -17166,17 +17167,15 @@
   },
   {
     "slug": "quintessential-juicy-australian-beef-stew",
-    "title": "Quintessential Juicy Australian Beef Stew",
+    "title": "Australian Beef Stew",
     "tags": [
-      "australian-cuisine",
-      "beef-recipes",
-      "comfort-food",
-      "dutch-oven",
-      "hearty-stew",
-      "one-pot"
+      "australian",
+      "beef",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 180,
+    "cuisine": "australian",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
