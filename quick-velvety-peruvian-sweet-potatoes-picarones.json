@@ -1,0 +1,73 @@
+{
+  "slug": "quick-velvety-peruvian-sweet-potatoes-picarones",
+  "title": "Sweet Picarones Stuffed with Velvety Potato Filling",
+  "description": "A twist on traditional Peruvian doughnuts, these sweet picarones are filled with a creamy, velvety potato filling, making for a delightful dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Picarones (Peruvian Doughnuts)",
+      "amount": "",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Quick Powdered Sugar",
+      "amount": "",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Cut sweet potatoes into large chunks and boil in water until tender.",
+    "Mash the cooked sweet potatoes and mix in butter, sugar, eggs, and vanilla extract.",
+    "Spoon a small amount of the sweet potato mixture into each picarone, then seal the doughnut.",
+    "Fry the stuffed picarones for 2-3 minutes on each side, until golden brown.",
+    "Drain the picarones on paper towels and dust with powdered sugar.",
+    "Serve warm, with additional powdered sugar for dusting if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "south-american",
+    "fritters",
+    "sweet-treats",
+    "potato-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-velvety-peruvian-sweet-potatoes-picarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:16:38.309Z"
+}
