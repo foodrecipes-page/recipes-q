@@ -1,0 +1,96 @@
+{
+  "slug": "quintessential-quick-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty and comforting lamb stew originating from Ireland, featuring tender lamb and root vegetables.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Dust lamb pieces with flour, shaking off excess.",
+    "Brown lamb in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove lamb from pot and set aside.",
+    "Add more oil if necessary, then sauté onions and garlic until softened.",
+    "Add carrots and potatoes, cooking for 5 minutes.",
+    "Add beef broth, red wine (if using), thyme, and rosemary.",
+    "Return lamb to pot and bring to a boil.",
+    "Transfer pot to the oven and braise for 2 1/2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-quick-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:57:50.588Z"
+}
