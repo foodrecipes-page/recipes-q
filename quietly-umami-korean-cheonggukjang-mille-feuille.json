@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-umami-korean-cheonggukjang-mille-feuille",
+  "title": "Cheonggukjang Umami Stew",
+  "description": "A hearty, savory stew made with the rich flavor of Korean fermented soybean paste, cheonggukjang.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheonggukjang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mille feuille",
+      "amount": "1 (for garnish)"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cheonggukjang and cook for 5 minutes, stirring occasionally.",
+    "Add the soy sauce and brown sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes.",
+    "Serve hot, garnished with a mille feuille.",
+    "Optional: serve with rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "umami",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-korean-cheonggukjang-mille-feuille",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:28:47.842Z"
+}
