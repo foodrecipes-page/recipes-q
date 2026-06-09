@@ -1,0 +1,75 @@
+{
+  "slug": "quietly-simmered-vietnamese-guanciale-nem-nuong",
+  "title": "Vietnamese Grilled Pork with Sweet Simmered Nems",
+  "description": "A fusion dish featuring grilled pork, sweet simmered nems, and crispy guanciale. Perfect for a summer evening.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "Nems",
+      "amount": "1 package"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together soy sauce, honey, lime juice, grated ginger, and minced garlic.",
+    "Add the pork shoulder to the marinade and let it sit for at least 30 minutes.",
+    "Remove the pork from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, simmer the nems in a mixture of water and soy sauce until tender.",
+    "Crisp the guanciale in a pan over medium heat.",
+    "Slice the grilled pork and serve with sweet simmered nems and crispy guanciale.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-pork",
+    "vietnamese-cuisine",
+    "sweet-nems",
+    "guanciale"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-simmered-vietnamese-guanciale-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:45:21.978Z"
+}
