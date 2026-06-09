@@ -1,0 +1,68 @@
+{
+  "slug": "quick-fried-italian-tomato-fritters",
+  "title": "Italian Fried Tomato Fritters",
+  "description": "Crispy, flavorful fritters filled with fresh tomatoes, perfect as an appetizer or side dish.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced fresh tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, whisk together flour, eggs, parmesan cheese, and italian seasoning.",
+    "Add diced tomatoes and mix until well combined.",
+    "Using a spoon, drop small portions of the mixture into the hot oil.",
+    "Fry fritters for 2-3 minutes on each side, until golden brown.",
+    "Drain fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fritters",
+    "fried",
+    "tomato",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-italian-tomato-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:18:24.013Z"
+}
