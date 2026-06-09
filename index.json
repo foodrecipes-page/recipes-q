@@ -13098,18 +13098,16 @@
   },
   {
     "slug": "quick-velvety-peruvian-sweet-potatoes-picarones",
-    "title": "Quick Velvety Peruvian Sweet Potatoes Picarones",
+    "title": "Sweet Picarones Stuffed with Velvety Potato Filling",
     "tags": [
       "dessert",
-      "fodmap-friendly",
-      "gluten-free",
-      "peruvian",
-      "snack",
-      "sweet-potatoes",
-      "traditional"
+      "south-american",
+      "fritters",
+      "sweet-treats",
+      "potato-desserts"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -16788,17 +16786,15 @@
   },
   {
     "slug": "quietly-umami-korean-cheonggukjang-mille-feuille",
-    "title": "Quietly Umami Korean Cheonggukjang Mille Feuille",
+    "title": "Cheonggukjang Umami Stew",
     "tags": [
-      "french-pastry",
-      "keto-friendly",
-      "korean-fusion",
-      "lazy-sunday",
-      "low-carb",
-      "umami-rich"
+      "korean",
+      "umami",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Korean-French",
-    "totalTimeMin": 50,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
