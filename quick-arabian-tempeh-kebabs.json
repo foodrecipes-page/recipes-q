@@ -1,0 +1,85 @@
+{
+  "slug": "quick-arabian-tempeh-kebabs",
+  "title": "Quick Arabian Tempeh Kebabs",
+  "description": "A flavor-filled and nutritious meal inspired by Arabian cuisine, made with marinated tempeh skewers grilled to perfection.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Quick mixed spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut tempeh into 1-inch cubes.",
+    "In a large bowl, whisk together quick mixed spice, lemon juice, and olive oil.",
+    "Add the tempeh cubes to the marinade and mix until coated.",
+    "Thread the marinated tempeh, onion, bell pepper, and tomato onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until the tempeh is golden brown and the vegetables are tender.",
+    "Warm the pita bread by wrapping it in foil and heating it on the grill for a few minutes.",
+    "Serve the kebabs in the pita bread with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "grilled",
+    "kebabs",
+    "tempeh"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-arabian-tempeh-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:08:56.961Z"
+}
