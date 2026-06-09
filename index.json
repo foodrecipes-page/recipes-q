@@ -4702,16 +4702,14 @@
   },
   {
     "slug": "quenched-velvety-croatian-lentils-stew",
-    "title": "Quenched Velvety Croatian Lentils Stew",
+    "title": "Croatian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "diabetic-friendly",
       "lentil-stew",
-      "one-pot",
-      "vegetarian"
+      "croatian-cuisine",
+      "vegetarian-options",
+      "comfort-food"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "European",
     "totalTimeMin": 60,
     "shard": "q"
   },
@@ -7301,12 +7299,12 @@
   },
   {
     "slug": "quick-fix-german-potato-fritters",
-    "title": "Quick-Fix German Potato Fritters",
+    "title": "German Potato Fritters",
     "tags": [
       "german",
-      "quick-fix",
-      "snack",
-      "weeknight"
+      "potato",
+      "fritters",
+      "side-dish"
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
@@ -14410,17 +14408,16 @@
   },
   {
     "slug": "quietly-caramelized-saudi-arabian-egg-white-omelette",
-    "title": "Quietly Caramelized Saudi Arabian Egg White Omelette",
+    "title": "Saudi Arabian Caramelized Omelette",
     "tags": [
-      "brunch",
-      "buddhist-friendly",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "breakfast",
+      "omelette",
+      "saudi-arabian",
+      "caramelized",
+      "egg-whites"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 16,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
