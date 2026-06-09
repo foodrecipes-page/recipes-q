@@ -1,0 +1,65 @@
+{
+  "slug": "quickly-baked-ukrainian-colby-jack-cheese-flatbread",
+  "title": "Colby Jack Flatbread",
+  "description": "A simple and delicious flatbread topped with a blend of Colby and Jack cheese, perfect for a quick snack or meal.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Colby cheese",
+      "amount": "8 oz, shredded"
+    },
+    {
+      "name": "Jack cheese",
+      "amount": "8 oz, shredded"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place the flatbread on a baking sheet.",
+    "Sprinkle the Colby and Jack cheese evenly over the flatbread.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quickly",
+    "baked",
+    "ukrainian",
+    "colby",
+    "jack",
+    "cheese",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-baked-ukrainian-colby-jack-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T21:05:33.692Z"
+}
