@@ -1,0 +1,80 @@
+{
+  "slug": "quintessential-juicy-australian-beef-stew",
+  "title": "Australian Beef Stew",
+  "description": "A hearty and comforting beef stew originating from Australia, perfect for a cold winter's night.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "mild"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "quintessential red wine",
+      "amount": "1 cup",
+      "notes": "Use a dry red wine for best flavor"
+    },
+    {
+      "name": "juicy beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought broth works well"
+    },
+    {
+      "name": "australian onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "australian all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For dusting the beef"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add the onions and garlic to the pot and cook until the onions are translucent, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and add the beef broth, salt, and pepper. Stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "Stir in 2 tablespoons of all-purpose flour to thicken the stew.",
+    "Serve hot, garnished with fresh parsley or thyme if desired.",
+    "Serve with crusty bread or over mashed potatoes for a hearty meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-juicy-australian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:48:56.181Z"
+}
