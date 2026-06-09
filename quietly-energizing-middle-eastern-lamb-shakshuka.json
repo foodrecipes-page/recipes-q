@@ -1,0 +1,102 @@
+{
+  "slug": "quietly-energizing-middle-eastern-lamb-shakshuka",
+  "title": "Middle Eastern Lamb Shakshuka",
+  "description": "A flavorful and spicy North African-inspired lamb shakshuka dish, perfect for a hearty breakfast or brunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper, chopped",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes, diced",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Heat olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and bell pepper and cook until softened, about 5 minutes.",
+    "Add the cumin, paprika, and garlic and cook for 1 minute.",
+    "Add the tomatoes and stir to combine.",
+    "Create 4 wells in the tomato mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked to desired doneness.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot.",
+    "Serve with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "moroccan",
+    "lamb",
+    "shakshuka",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-energizing-middle-eastern-lamb-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:32:21.872Z"
+}
