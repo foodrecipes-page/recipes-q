@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-turkish-wagyu-kebabs",
+  "title": "Pan-Seared Wagyu Kebabs",
+  "description": "A simple yet flavorful dish featuring Wagyu beef, marinated in a Turkish-inspired blend of spices and seared to perfection. Excellent for a dinner or snacking occasion.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-lovers",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound Wagyu beef",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing during cooking"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 tablespoon paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "1 teaspoon cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together garlic, paprika, cumin, salt, and black pepper.",
+    "Add Wagyu beef to marinade and mix well to coat.",
+    "Grill Wagyu beef for 2-3 minutes per side, or until cooked to desired level of doneness.",
+    "Brush with olive oil during the last minute of cooking.",
+    "Remove from heat and let rest for 2 minutes before serving.",
+    "Serve hot, garnished with additional paprika if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wagyu",
+    "kebabs",
+    "turkish",
+    "grilled-meat"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-turkish-wagyu-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:15:56.809Z"
+}
