@@ -1,0 +1,93 @@
+{
+  "slug": "quenched-velvety-croatian-lentils-stew",
+  "title": "Croatian Lentil Stew",
+  "description": "A hearty and comforting stew made with Croatian lentils, perfect for a cold winter day.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Quenched stew broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Velvety red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion, carrot, and celery, and sauté until tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add Croatian lentils, stew broth, red wine (if using), thyme, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 30-40 minutes.",
+    "Check lentils for tenderness and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or thyme (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "croatian-cuisine",
+    "vegetarian-options",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-velvety-croatian-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:54:03.919Z"
+}
