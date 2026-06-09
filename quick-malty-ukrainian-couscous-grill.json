@@ -1,0 +1,85 @@
+{
+  "slug": "quick-malty-ukrainian-couscous-grill",
+  "title": "Savory Ukrainian-Style Couscous Bowl",
+  "description": "A hearty and flavorful bowl filled with grilled meats, toasted couscous, and a hint of malty sweetness.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling meat"
+    },
+    {
+      "name": "quick lamb",
+      "amount": "1 pound",
+      "notes": "lamb shanks or lamb chops work well"
+    },
+    {
+      "name": "malty honey",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "ukrainian sour cream",
+      "amount": "1/4 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season lamb with salt, pepper, and a pinch of paprika.",
+    "Grill lamb for 5-7 minutes per side, or until cooked through.",
+    "Cook couscous according to package instructions.",
+    "In a pan, heat a tablespoon of oil over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Stir in malted honey and cook for 1-2 minutes.",
+    "To assemble the bowls, place a scoop of cooked couscous in the bottom.",
+    "Add sliced grilled lamb on top of the couscous.",
+    "Drizzle with ukrainian sour cream and sprinkle with chopped fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "grill",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malty-ukrainian-couscous-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:11:48.789Z"
+}
