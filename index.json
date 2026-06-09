@@ -4944,17 +4944,15 @@
   },
   {
     "slug": "quick-american-pico-tacos",
-    "title": "Quick American Pico Tacos",
+    "title": "Quick Tacos Recipe",
     "tags": [
-      "american",
-      "breakfast-alternative",
-      "high-fiber",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "mexican",
+      "quick-dinner",
+      "easy-meal",
+      "taco"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -8617,19 +8615,16 @@
   },
   {
     "slug": "quick-fried-italian-tomato-fritters",
-    "title": "Quick Fried Italian Tomato Fritters",
+    "title": "Italian Fried Tomato Fritters",
     "tags": [
-      "comfort-food",
-      "fritters",
       "italian",
-      "low-carb-friendly",
-      "one-pan",
-      "quick-fix",
-      "veggie-focused",
-      "weeknight"
+      "fritters",
+      "fried",
+      "tomato",
+      "appetizer"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 23,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -10143,16 +10138,13 @@
   },
   {
     "slug": "quick-malty-ukrainian-couscous-grill",
-    "title": "Quick Malty Ukrainian Couscous Grill",
+    "title": "Savory Ukrainian-Style Couscous Bowl",
     "tags": [
-      "grilled-chicken",
-      "one-pan",
-      "paleo-friendly",
-      "quick-fix",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "grill",
+      "couscous"
     ],
-    "cuisine": "Ukrainian",
+    "cuisine": "ukrainian",
     "totalTimeMin": 30,
     "shard": "q"
   },
@@ -11582,16 +11574,15 @@
   },
   {
     "slug": "quick-savory-chinese-noodles-dan-dan-mian",
-    "title": "Quick Savory Chinese Noodles Dan Dan Mian",
+    "title": "Spicy Dan Dan Noodles",
     "tags": [
-      "asian-inspired",
-      "gluten-free",
-      "one-pot",
-      "quick-meal",
-      "vegetarian"
+      "noodles",
+      "chinese",
+      "spicy",
+      "savory"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -16278,18 +16269,15 @@
   },
   {
     "slug": "quietly-simmered-vietnamese-guanciale-nem-nuong",
-    "title": "Quietly Simmered Vietnamese Guanciale Nem Nuong",
+    "title": "Vietnamese Grilled Pork with Sweet Simmered Nems",
     "tags": [
-      "bamboo-tray",
-      "comfort-food",
-      "guanciale-recipes",
-      "nem-nuong",
-      "simmered-dishes",
-      "vegan-friendly",
-      "vietnamese-cuisine"
+      "grilled-pork",
+      "vietnamese-cuisine",
+      "sweet-nems",
+      "guanciale"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
