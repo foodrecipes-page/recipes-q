@@ -8062,18 +8062,15 @@
   },
   {
     "slug": "quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
-    "title": "Quick-Fix Sour Mediterranean Oyster Mushroom Bowl",
+    "title": "Pan-Seared Mushroom Bowl",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "one-pan",
-      "quick-fix",
-      "sugar-free",
-      "weeknight"
+      "mushroom",
+      "vegetarian",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -8187,15 +8184,15 @@
   },
   {
     "slug": "quick-fix-turkish-wagyu-kebabs",
-    "title": "Quick Fix Turkish Wagyu Kebabs",
+    "title": "Pan-Seared Wagyu Kebabs",
     "tags": [
+      "wagyu",
       "kebabs",
-      "sugar-free",
       "turkish",
-      "wagyu"
+      "grilled-meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 20,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
