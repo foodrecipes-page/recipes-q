@@ -1,0 +1,87 @@
+{
+  "slug": "quick-savory-chinese-noodles-dan-dan-mian",
+  "title": "Spicy Dan Dan Noodles",
+  "description": "A quick and savory Chinese-inspired noodle dish made with dan dan mian noodles, topped with a spicy sauce and crunchy peanuts.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dan Dan Mian Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Bean Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions. Drain and set aside.",
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 1 minute.",
+    "Add the soy sauce, chili bean paste, and sesame oil. Stir-fry for 1 minute.",
+    "Add the cooked noodles to the wok and toss to combine with the sauce.",
+    "Transfer the noodles to a serving platter.",
+    "Top with chopped peanuts, scallions, and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodles",
+    "chinese",
+    "spicy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-chinese-noodles-dan-dan-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:14:56.865Z"
+}
