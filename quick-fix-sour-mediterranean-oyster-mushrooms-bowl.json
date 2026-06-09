@@ -1,0 +1,72 @@
+{
+  "slug": "quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
+  "title": "Pan-Seared Mushroom Bowl",
+  "description": "A hearty and flavorful bowl dish featuring sautéed mushrooms and a tangy quick fix sauce. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "various types, sliced"
+    },
+    {
+      "name": "quick fix sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 3-4 minutes.",
+    "Add the remaining 1 tablespoon of olive oil, mediterranean seasoning, and a pinch of salt and pepper to the skillet. Stir to combine.",
+    "Pour the quick fix sauce over the mushrooms and stir to coat.",
+    "Reduce heat to medium-low and simmer for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Serve the mushroom mixture over a bed of hot rice or noodles, topped with a dollop of sour cream if desired.",
+    "Garnish with chopped fresh herbs, such as parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-sour-mediterranean-oyster-mushrooms-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:04:51.364Z"
+}
