@@ -1,0 +1,87 @@
+{
+  "slug": "quick-american-pico-tacos",
+  "title": "Quick Tacos Recipe",
+  "description": "Make delicious tacos in no time with this easy recipe.",
+  "cuisine": null,
+  "diet": [
+    "american"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Taco Seasoning",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "Pico de Gallo",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "American Cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Shredded Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Chopped Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quick Guacamole",
+      "amount": "1 cup",
+      "notes": "store-bought"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large skillet.",
+    "Add the taco seasoning packet and stir to combine.",
+    "Cook for 1-2 minutes or until the flavors are absorbed.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the beef mixture onto a tortilla and topping with cheese, lettuce, tomatoes, and a dollop of sour cream.",
+    "Serve immediately and enjoy!",
+    "Optional: top with quick guacamole and pico de gallo for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quick-dinner",
+    "easy-meal",
+    "taco"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-american-pico-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T02:07:41.764Z"
+}
