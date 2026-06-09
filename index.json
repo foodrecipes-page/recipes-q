@@ -5037,10 +5037,12 @@
     "title": "Quick Arabian Tempeh Kebabs",
     "tags": [
       "arabian",
-      "dinner"
+      "grilled",
+      "kebabs",
+      "tempeh"
     ],
     "cuisine": "Arabian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14056,17 +14058,16 @@
   },
   {
     "slug": "quietly-adventurous-egyptian-vine-leaves-wrap",
-    "title": "Quietly adventurous Egyptian vine leaves Wrap",
+    "title": "Egyptian Vine Leaf Wrap",
     "tags": [
-      "double-rise-bread",
-      "egyptian-cuisine",
-      "middle-eastern",
-      "shojin-friendly",
       "vegetarian",
-      "vine-leaves"
+      "snack",
+      "easy",
+      "middle-eastern",
+      "flatbread"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -14944,17 +14945,16 @@
   },
   {
     "slug": "quietly-energizing-middle-eastern-lamb-shakshuka",
-    "title": "Quietly Energizing Middle Eastern Lamb Shakshuka",
+    "title": "Middle Eastern Lamb Shakshuka",
     "tags": [
-      "breakfast",
-      "gluten-free",
+      "north-african",
+      "moroccan",
       "lamb",
-      "middle-eastern",
-      "one-pan",
-      "shakshuka"
+      "shakshuka",
+      "eggs"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -17298,17 +17298,16 @@
   },
   {
     "slug": "quintessential-quick-irish-lamb-stew",
-    "title": "Quintessential Quick Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "irish-cuisine",
-      "lamb-stew",
-      "one-pot"
+      "irish",
+      "lamb",
+      "stew",
+      "hearty",
+      "comforting"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 60,
+    "cuisine": "irish",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
