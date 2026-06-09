@@ -1,0 +1,62 @@
+{
+  "slug": "quick-fix-german-potato-fritters",
+  "title": "German Potato Fritters",
+  "description": "A traditional German side dish made with grated potatoes, onions, and eggs. These fritters are crispy on the outside and fluffy on the inside.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large, grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1, lightly beaten"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the grated potato, chopped onion, and beaten egg.",
+    "2. Add the flour to the bowl and mix until just combined.",
+    "3. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "4. Using a 1/4 cup measuring cup, scoop the potato mixture into the oil.",
+    "5. Flatten the mixture slightly with a spatula and cook for 4-5 minutes on each side, or until golden brown.",
+    "6. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "7. Serve the German potato fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "potato",
+    "fritters",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-german-potato-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:00:02.370Z"
+}
