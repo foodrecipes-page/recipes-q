@@ -1,0 +1,83 @@
+{
+  "slug": "quick-filipino-egg-bicol-express",
+  "title": "Filipino-Style Bicol Express",
+  "description": "A spicy Filipino dish made with shrimp and coconut milk. Bicol Express is a popular Filipino recipe that originated from the Bicol region.",
+  "cuisine": "Filipino",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use as a substitute for salt"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "Filipino vinegar or apple cider vinegar"
+    },
+    {
+      "name": "Thai chili peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Peeled and deveined"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the pork belly and cook until browned.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the coconut milk, fish sauce, and vinegar.",
+    "Bring to a simmer and let cook for 5 minutes.",
+    "Add the Thai chili peppers and shrimp.",
+    "Cook for an additional 2-3 minutes until the shrimp are pink.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "spicy",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-egg-bicol-express",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:17:10.950Z"
+}
