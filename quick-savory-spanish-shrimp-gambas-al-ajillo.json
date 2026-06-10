@@ -1,0 +1,80 @@
+{
+  "slug": "quick-savory-spanish-shrimp-gambas-al-ajillo",
+  "title": "Shrimp and Garlic Paella",
+  "description": "A Spanish-inspired dish featuring succulent shrimp, savory flavors, and a hint of smokiness. Paella is traditionally cooked over an open flame, but this recipe adapts it for a stovetop or oven.",
+  "cuisine": "Spanish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gambas",
+      "amount": "1 pound large shrimp, peeled and deveined",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "al ajillo",
+      "amount": "3 cloves garlic, minced",
+      "notes": "or 1 tablespoon garlic powder"
+    },
+    {
+      "name": "quick",
+      "amount": "1 teaspoon smoked paprika (optional)",
+      "notes": "optional for smoky flavor"
+    },
+    {
+      "name": "savory",
+      "amount": "1 teaspoon saffron threads, soaked in 2 tablespoons hot water",
+      "notes": "or 1/2 teaspoon saffron powder"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 cup uncooked Calasparra rice",
+      "notes": "or other short-grain rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons olive oil",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups chicken broth, warmed",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and cook, stirring occasionally, for 4-5 minutes or until fragrant.",
+    "Add the smoked paprika (if using) and cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Add the saffron mixture and cook for 1 minute, stirring constantly.",
+    "Add the rice and cook for 1-2 minutes, stirring constantly, until the rice is coated in the oil and slightly toasted.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest, covered, for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "paella",
+    "spanish",
+    "garlic",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:41:25.080Z"
+}
