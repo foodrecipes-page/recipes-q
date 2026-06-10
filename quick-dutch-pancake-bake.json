@@ -1,0 +1,70 @@
+{
+  "slug": "quick-dutch-pancake-bake",
+  "title": "Delicious Dutch Pancake Recipe",
+  "description": "A classic Dutch pancake recipe made with simple ingredients and perfect for a weekend breakfast. This pancake is fluffy and delicious, great for topping with your favorite fruits and syrups.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "250g"
+    },
+    {
+      "name": "butter",
+      "amount": "100g",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the flour, sugar, and a pinch of salt.",
+    "2. In a separate bowl, whisk together the melted butter, eggs, milk, and vanilla extract.",
+    "3. Pour the wet ingredients into the dry ingredients and whisk until smooth.",
+    "4. Heat a 12-inch non-stick skillet or Dutch oven over medium heat.",
+    "5. Pour about 1/2 cup of the batter into the skillet and tilt to evenly coat the bottom.",
+    "6. Cook for about 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "7. Loosen the pancake with a spatula and slide it onto a plate.",
+    "8. Repeat with the remaining batter, greasing the skillet with butter as needed.",
+    "9. Serve the pancake hot with your favorite toppings, such as fruits, whipped cream, or syrup.",
+    "10. Enjoy your delicious Dutch pancake!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-pancake",
+    "pancake-recipe",
+    "breakfast-recipe"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dutch-pancake-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:57:21.224Z"
+}
