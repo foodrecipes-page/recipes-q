@@ -1,0 +1,81 @@
+{
+  "slug": "quaint-sweet-syrian-ladyfingers-trifle",
+  "title": "Trifle",
+  "description": "A classic English dessert made with layers of cake, fruit, and custard.",
+  "cuisine": "english",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "quaint ladyfingers",
+      "amount": "12-16",
+      "notes": "preferably store-bought"
+    },
+    {
+      "name": "sweet strawberries",
+      "amount": "2 cups, hulled and sliced",
+      "notes": "fresh and seasonal"
+    },
+    {
+      "name": "syrian cream cheese",
+      "amount": "8 ounces, softened",
+      "notes": "for the custard"
+    },
+    {
+      "name": "trifle custard powder",
+      "amount": "2 tablespoons",
+      "notes": "optional, but recommended"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "for the custard"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for the custard"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "for the custard"
+    }
+  ],
+  "instructions": [
+    "1. Cut the ladyfingers into 1-inch pieces and set aside.",
+    "2. In a large bowl, whisk together the cream cheese and custard powder until smooth.",
+    "3. Add the granulated sugar to the bowl and whisk until combined.",
+    "4. Add the heavy cream to the bowl and whisk until stiff peaks form.",
+    "5. In a separate bowl, whisk together the eggs and a pinch of salt until light and fluffy.",
+    "6. Fold the egg mixture into the cream cheese mixture until well combined.",
+    "7. To assemble the trifle, place a layer of ladyfingers in the bottom of a large serving dish.",
+    "8. Top the ladyfingers with a layer of the custard mixture, followed by a layer of sliced strawberries.",
+    "9. Repeat the layers two more times, ending with a layer of custard on top.",
+    "10. Chill the trifle in the refrigerator for at least 3 hours before serving.",
+    "11. Serve the trifle chilled, garnished with additional sliced strawberries if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "english",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-sweet-syrian-ladyfingers-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:57:29.148Z"
+}
