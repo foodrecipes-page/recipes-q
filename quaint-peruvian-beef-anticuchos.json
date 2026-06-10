@@ -1,0 +1,71 @@
+{
+  "slug": "quaint-peruvian-beef-anticuchos",
+  "title": "Peruvian Beef Anticuchos",
+  "description": "Grilled beef skewers, marinated in a zesty Peruvian sauce, served as a snack or appetizer.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "peruvian chili peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": " vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine the chili peppers, garlic, soy sauce, vinegar, and black pepper. Blend until smooth.",
+    "Heat the oil in a small saucepan over low heat. Add the blended mixture and cook for 5 minutes, stirring occasionally.",
+    "Thread 4-6 pieces of beef onto each skewer.",
+    "Brush the skewers with the marinade, making sure they are evenly coated.",
+    "Grill the skewers over medium-high heat for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Serve the anticuchos hot, garnished with additional chili peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "peruvian",
+    "skewers",
+    "appetizer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-peruvian-beef-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:35:52.869Z"
+}
