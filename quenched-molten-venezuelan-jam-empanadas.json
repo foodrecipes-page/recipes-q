@@ -1,0 +1,64 @@
+{
+  "slug": "quenched-molten-venezuelan-jam-empanadas",
+  "title": "Venezuelan Empanada Jam Filling",
+  "description": "A delicious and sweet filling for empanadas using a traditional venezuelan jam.",
+  "cuisine": "latin",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Molten chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Quenched heavy cream",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Roll out empanada dough to 1/4 inch thickness.",
+    "3. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "4. In a small bowl, mix together Venezuelan jam, molten chocolate chips, and quenched heavy cream.",
+    "5. Place a spoonful of the jam mixture onto one half of the dough circle.",
+    "6. Fold the other half of the dough circle over the filling to form a half-circle, pressing the edges to seal.",
+    "7. Brush the tops of the empanadas with confectioners' sugar.",
+    "8. Bake for 15-20 minutes, or until golden brown.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "empanada",
+    "venezuelan-jam",
+    "chocolate",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-molten-venezuelan-jam-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:50:57.761Z"
+}
