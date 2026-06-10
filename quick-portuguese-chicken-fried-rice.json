@@ -1,0 +1,98 @@
+{
+  "slug": "quick-portuguese-chicken-fried-rice",
+  "title": "Coconut Fried Chicken with Rice",
+  "description": "A classic fried chicken dish with a twist of coconut, served with a side of fluffy rice. This recipe is a delicious combination of flavors and textures.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 8 pieces"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together flour, coconut flakes, and a pinch of salt.",
+    "In a separate dish, beat the eggs.",
+    "In a third dish, place the panko breadcrumbs.",
+    "Season the chicken pieces with salt and pepper.",
+    "Dip each chicken piece in the flour mixture, coating both sides, then in the eggs, and finally in the panko breadcrumbs.",
+    "Place the coated chicken pieces on a plate or tray.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add 4-5 chicken pieces to the skillet.",
+    "Fry the chicken for 5-6 minutes on each side, or until golden brown and cooked through.",
+    "Repeat with the remaining chicken pieces.",
+    "While the chicken is frying, cook the rice according to package instructions.",
+    "Once the chicken is done, place it on a paper towel-lined plate to drain excess oil.",
+    "Serve the fried chicken with a side of fluffy rice and a sprinkle of grated coconut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "chicken",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 34,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-portuguese-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:11:38.376Z"
+}
