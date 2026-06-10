@@ -1,0 +1,80 @@
+{
+  "slug": "quietly-velvety-ukrainian-beet-dumplings",
+  "title": "Ukrainian Beet Dumplings",
+  "description": "A hearty and comforting Ukrainian-inspired dish featuring beet-filled dumplings. Serve with a dollop of sour cream for an added touch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "quietly soft cheese",
+      "amount": "1 cup",
+      "notes": "such as farmer's cheese"
+    },
+    {
+      "name": "velvety sour cream",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt.",
+    "Add the egg, water, and mix until dough forms.",
+    "Knead the dough for about 10 minutes until smooth.",
+    "Divide the dough into smaller pieces, about 1/4 cup each.",
+    "Roll out each piece into a thin circle.",
+    "Spoon a tablespoon of beet mixture onto one half of the dough circle.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Boil the dumplings in salted water for about 10-12 minutes, or until they float to the surface.",
+    "Serve with a dollop of velvety sour cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beet",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-velvety-ukrainian-beet-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:37:56.694Z"
+}
