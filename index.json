@@ -7148,19 +7148,15 @@
   },
   {
     "slug": "quick-fix-fermented-dutch-cherries-wrap",
-    "title": "Quick-Fix-Fermented Dutch Cherries Wrap",
+    "title": "Cherry Wrap",
     "tags": [
+      "dessert",
+      "cherry",
       "fermented",
-      "gluten-free",
-      "high-fiber",
-      "jain-friendly",
-      "one-pan",
-      "quick-fix",
-      "vegan",
-      "weeknight"
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 27,
+    "totalTimeMin": 5,
     "shard": "q"
   },
   {
@@ -11687,17 +11683,16 @@
   },
   {
     "slug": "quick-savory-spanish-shrimp-gambas-al-ajillo",
-    "title": "Quick Savory Spanish Shrimp Gambas Al Ajillo",
+    "title": "Shrimp and Garlic Paella",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "shrimp-recipe",
-      "weeknight"
+      "shrimp",
+      "paella",
+      "spanish",
+      "garlic",
+      "smoked-paprika"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -16840,16 +16835,15 @@
   },
   {
     "slug": "quietly-velvety-ukrainian-beet-dumplings",
-    "title": "Quietly Velvety Ukrainian Beet Dumplings",
+    "title": "Ukrainian Beet Dumplings",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "ukrainian-cuisine",
-      "vegetarian-friendly",
-      "weeknight-meal"
+      "ukrainian",
+      "beet",
+      "dumplings",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -17331,16 +17325,15 @@
   },
   {
     "slug": "quintessential-spicy-croatian-cheese-pasta",
-    "title": "Quintessential Spicy Croatian Cheese Pasta",
+    "title": "Croatian Pasta Bake",
     "tags": [
-      "euro-cuisine",
-      "high-protein",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "croatian",
+      "pasta",
+      "bake",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
