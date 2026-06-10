@@ -1,0 +1,75 @@
+{
+  "slug": "quick-japanese-pork-gyoza",
+  "title": "Pan-Seared Gyoza with Dipping Sauce",
+  "description": "Japanese-inspired pan-seared dumplings filled with pork and served with a sweet soy dipping sauce. Quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works well"
+    },
+    {
+      "name": "gyoza wrappers",
+      "amount": "20-24 wrappers",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, soy sauce, sugar, and rice vinegar. Mix well with your hands or a spoon until just combined.",
+    "2. Lay a gyoza wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edge of the wrapper. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "4. Press the edges together to seal the gyoza, making sure they are tightly closed.",
+    "5. Heat a large skillet or wok over medium-high heat. Add 1-2 tablespoons of oil and swirl it around to coat the bottom of the pan.",
+    "6. When the oil is hot, add the gyoza to the pan, leaving a small amount of space between each dumpling.",
+    "7. Cook the gyoza for 2-3 minutes on the first side, or until the bottoms are golden brown.",
+    "8. Flip the gyoza over and cook for an additional 2-3 minutes, or until the second side is also golden brown.",
+    "9. Serve the gyoza hot with a dipping sauce made from equal parts soy sauce and rice vinegar.",
+    "10. Garnish with green onions and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pork",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-pork-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:33:54.512Z"
+}
