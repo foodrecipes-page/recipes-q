@@ -5717,16 +5717,15 @@
   },
   {
     "slug": "quick-creamy-malaysian-shrimp-paste-gratin",
-    "title": "Quick Creamy Malaysian Shrimp Paste Gratin",
+    "title": "Creamy Shrimp Gratin",
     "tags": [
-      "high-protein",
-      "malian",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "shrimp",
+      "gratin",
+      "malaysian",
+      "seafood"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -12714,16 +12713,16 @@
   },
   {
     "slug": "quick-sweet-filipino-blood-dinuguan",
-    "title": "Quick Sweet Filipino Blood Dinuguan",
+    "title": "Blood Sausage Dinuguan",
     "tags": [
-      "filipino-food",
-      "plant-based",
-      "post-workout",
-      "quick-snack",
-      "sweet-and-savory"
+      "filipino",
+      "blood-sausage",
+      "stew",
+      "breakfast",
+      "savory"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
