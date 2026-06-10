@@ -1,0 +1,67 @@
+{
+  "slug": "quick-fix-fermented-dutch-cherries-wrap",
+  "title": "Cherry Wrap",
+  "description": "A simple dessert wrap filled with sweet cherries and a hint of fermented flavor.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Large cherry wrap",
+      "amount": "1",
+      "notes": "Dutch cherry wrap"
+    },
+    {
+      "name": "Cherries",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fermented cheese spread",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Lay the cherry wrap flat and spread the fermented cheese spread along the center.",
+    "2. Arrange the cherries on top of the cheese spread.",
+    "3. Drizzle honey over the cherries.",
+    "4. Sprinkle powdered sugar on top.",
+    "5. Fold the bottom edge of the wrap up over the filling.",
+    "6. Fold in the sides and roll the wrap into a neat bundle.",
+    "7. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "cherry",
+    "fermented",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-fermented-dutch-cherries-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:39:34.689Z"
+}
