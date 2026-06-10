@@ -988,17 +988,16 @@
   },
   {
     "slug": "quaint-peruvian-beef-anticuchos",
-    "title": "Quaint Peruvian Beef Anticuchos",
+    "title": "Peruvian Beef Anticuchos",
     "tags": [
-      "beef-recipes",
-      "diabetic-friendly",
-      "gluten-free",
-      "grilled-meat",
-      "peruvian-cuisine",
-      "south-american-food"
+      "beef",
+      "grilled",
+      "peruvian",
+      "skewers",
+      "appetizer"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -6765,16 +6764,14 @@
   },
   {
     "slug": "quick-filipino-egg-bicol-express",
-    "title": "Quick Filipino Egg Bicol Express",
+    "title": "Filipino-Style Bicol Express",
     "tags": [
-      "egg-based",
       "filipino",
-      "kid-friendly",
-      "one-pot",
-      "quick"
+      "spicy",
+      "seafood"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
