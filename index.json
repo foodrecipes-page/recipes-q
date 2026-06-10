@@ -10614,17 +10614,14 @@
   },
   {
     "slug": "quick-portuguese-chicken-fried-rice",
-    "title": "Quick Portuguese Chicken Fried Rice",
+    "title": "Coconut Fried Chicken with Rice",
     "tags": [
-      "chicken-recipes",
-      "fried-rice",
-      "gluten-free",
-      "one-pan",
-      "portuguese-cuisine",
-      "quick-meals"
+      "comfort-food",
+      "chicken",
+      "fried"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -11114,17 +11111,14 @@
   },
   {
     "slug": "quick-roasted-greek-beef-saganaki",
-    "title": "Quick Roasted Greek Beef Saganaki",
+    "title": "Greek Beef Saganaki",
     "tags": [
-      "beef-recipes",
-      "egg-free",
-      "gluten-free",
+      "beef",
       "greek-cuisine",
-      "one-pan",
-      "special-occasion"
+      "dinner-ideas"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
@@ -13893,18 +13887,14 @@
   },
   {
     "slug": "quickly-roasted-saudi-arabian-rainbow-trout-grill",
-    "title": "Quickly-Roasted Saudi-Arabian Rainbow Trout Grill",
+    "title": "Saudi Arabian Rainbow Trout",
     "tags": [
-      "fish",
-      "grill",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "saudi-arabian",
-      "weeknight"
+      "saudi arabian",
+      "rainbow trout",
+      "grill"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
