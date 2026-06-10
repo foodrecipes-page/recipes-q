@@ -1,0 +1,80 @@
+{
+  "slug": "quickly-roasted-saudi-arabian-rainbow-trout-grill",
+  "title": "Saudi Arabian Rainbow Trout",
+  "description": "A flavorful and aromatic dish featuring grilled rainbow trout, inspired by the culinary traditions of Saudi Arabia.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow Trout",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "Clarified butter"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the trout fillets with salt, black pepper, cumin, coriander, and cayenne pepper.",
+    "Brush the grill with ghee to prevent sticking.",
+    "Grill the trout for 4-5 minutes per side, or until cooked through.",
+    "Serve immediately, garnished with lemon wedges and a sprinkle of fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "rainbow trout",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-roasted-saudi-arabian-rainbow-trout-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:31:57.566Z"
+}
