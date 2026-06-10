@@ -6427,17 +6427,14 @@
   },
   {
     "slug": "quick-dutch-pancake-bake",
-    "title": "Quick Dutch Pancake Bake",
+    "title": "Delicious Dutch Pancake Recipe",
     "tags": [
-      "brunch",
-      "easy-breakfast",
-      "high-protein",
-      "jalapeno",
-      "one-pan",
-      "weeknight"
+      "dutch-pancake",
+      "pancake-recipe",
+      "breakfast-recipe"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
