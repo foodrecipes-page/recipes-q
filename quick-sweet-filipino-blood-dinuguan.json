@@ -1,0 +1,88 @@
+{
+  "slug": "quick-sweet-filipino-blood-dinuguan",
+  "title": "Blood Sausage Dinuguan",
+  "description": "A Filipino dish made with blood sausage, pork blood, and spices. It's a rich and savory stew often served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Blood Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed, crumbled"
+    },
+    {
+      "name": "Pork Blood",
+      "amount": "1 cup",
+      "notes": "Freshly collected or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Patis (Fish Sauce)",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Sauté the onion, garlic, and ginger until softened.",
+    "Add the crumbled blood sausage and cook until browned.",
+    "Add the pork blood and stir well to combine.",
+    "Season with salt, black pepper, and patis (if using).",
+    "Bring the mixture to a simmer and cook for 10-15 minutes or until thickened.",
+    "Serve hot with steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "blood-sausage",
+    "stew",
+    "breakfast",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-filipino-blood-dinuguan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:59:25.768Z"
+}
