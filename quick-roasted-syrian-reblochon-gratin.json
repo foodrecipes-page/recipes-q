@@ -1,0 +1,69 @@
+{
+  "slug": "quick-roasted-syrian-reblochon-gratin",
+  "title": "Roasted Syrian Reblochon Gratin",
+  "description": "A rich and creamy reblochon gratin infused with the flavors of roasted syrian, topped with a crispy crust.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "300g",
+      "notes": "soft-ripened"
+    },
+    {
+      "name": "Roasted Syrian",
+      "amount": "1/4 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Quick puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry to a thickness of 1/8 inch.",
+    "In a bowl, mix reblochon cheese, roasted Syrian, garlic, and thyme.",
+    "Transfer the cheese mixture to one half of the pastry, leaving a 1/2 inch border.",
+    "Brush the edges with water and fold the other half over the filling.",
+    "Crimp the edges to seal and cut a few slits in the top.",
+    "Brush the top with egg wash and bake for 25-30 minutes.",
+    "Increase oven temperature to broil and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gratin",
+    "reblochon",
+    "syrian",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-syrian-reblochon-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:12:10.238Z"
+}
