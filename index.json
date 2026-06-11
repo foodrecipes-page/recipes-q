@@ -11426,17 +11426,16 @@
   },
   {
     "slug": "quick-saffron-italian-rice-neapolitan-pizza",
-    "title": "Quick Saffron Italian Rice Neapolitan Pizza",
+    "title": "Neapolitan Saffron Risotto",
     "tags": [
       "italian",
-      "korean-fusion",
-      "low-carb",
-      "one-pan",
-      "pizza",
-      "weeknight"
+      "risotto",
+      "saffron",
+      "neapolitan",
+      "parmesan"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -15192,13 +15191,11 @@
   },
   {
     "slug": "quietly-juicy-moroccan-lamb-mechoui",
-    "title": "Quietly Juicy Moroccan Lamb Mechoui",
+    "title": "Traditional Moroccan Mechoui",
     "tags": [
-      "comfort-food",
       "lamb",
       "moroccan",
-      "one-pot",
-      "special-occasion"
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 180,
@@ -15338,17 +15335,16 @@
   },
   {
     "slug": "quietly-peppery-dutch-goat-fried-rice",
-    "title": "Quietly Peppery Dutch Goat Fried Rice",
+    "title": "Pan-Seared Goat Chop with Spicy Rice",
     "tags": [
-      "dutch-cuisine",
-      "fried-rice",
-      "goat-meat",
-      "lazy-sunday",
-      "one-pan-meal",
-      "peppery-dishes"
+      "dutch",
+      "spicy",
+      "meat-lovers",
+      "goat-chops",
+      "aromatic-rice"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16381,17 +16377,15 @@
   },
   {
     "slug": "quietly-smoky-malaysian-cobnuts-satay",
-    "title": "Quietly Smoky Malaysian Cobnuts Satay",
+    "title": "Satay with Smoky Cobnut Sauce",
     "tags": [
-      "cobnuts",
-      "grilled",
       "malaysian",
-      "ovo-vegetarian",
-      "smoky",
+      "satay",
+      "grilled-chicken",
       "snack"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
