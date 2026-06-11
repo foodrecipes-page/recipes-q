@@ -1,0 +1,83 @@
+{
+  "slug": "quick-fix-irish-chicken-stew",
+  "title": "Quick Irish Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken and a hint of Irish charm.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Quick fix stew seasoning",
+      "amount": "1 packet",
+      "notes": "or homemade blend"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the chicken on all sides, then set aside.",
+    "Add the mushrooms, onion, and garlic; cook until the vegetables are tender.",
+    "Add the potatoes, carrots, chicken broth, and stew seasoning.",
+    "Return the chicken to the pot and bring to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "chicken",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-irish-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T20:04:22.282Z"
+}
