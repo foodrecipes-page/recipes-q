@@ -3658,15 +3658,14 @@
   },
   {
     "slug": "quenched-peruvian-chicken-roast",
-    "title": "Quenched Peruvian Chicken Roast",
+    "title": "Roast Chicken with Peruvian Quenched Sauce",
     "tags": [
       "chicken",
-      "main-course",
       "peruvian",
-      "weeknight"
+      "quenched"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 90,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 75,
     "shard": "q"
   },
   {
@@ -11324,17 +11323,15 @@
   },
   {
     "slug": "quick-roasted-syrian-reblochon-gratin",
-    "title": "Quick Roasted Syrian Reblochon Gratin",
+    "title": "Roasted Syrian Reblochon Gratin",
     "tags": [
-      "cheesy",
-      "one-pan",
-      "quick-dinner",
-      "roasted",
-      "syrian-cuisine",
-      "vegetarian"
+      "gratin",
+      "reblochon",
+      "syrian",
+      "pastry"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -13650,13 +13647,12 @@
   },
   {
     "slug": "quickly-flambe-turkish-fish-borek",
-    "title": "Quickly Flambe Turkish Fish Borek",
+    "title": "Turkish Fish Borek",
     "tags": [
-      "borek",
-      "flambe",
-      "seafood",
-      "special-occasion",
-      "turkish-cuisine"
+      "turkish",
+      "fish",
+      "pastry",
+      "borek"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 35,
