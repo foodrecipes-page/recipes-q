@@ -12670,17 +12670,15 @@
   },
   {
     "slug": "quick-sugary-japanese-eggs-tamagoyaki",
-    "title": "Quick Sugary Japanese Eggs Tamagoyaki",
+    "title": "Tamagoyaki Omelette",
     "tags": [
-      "easy-cooking",
-      "japanese-recipe",
-      "one-pan",
-      "ovo-vegetarian",
-      "quick-dinner",
-      "weeknight"
+      "japanese",
+      "breakfast",
+      "omelette",
+      "tamagoyaki"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
