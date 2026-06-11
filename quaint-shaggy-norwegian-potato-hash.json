@@ -1,0 +1,66 @@
+{
+  "slug": "quaint-shaggy-norwegian-potato-hash",
+  "title": "Hash Brown Cakes with Crispy Shallots",
+  "description": "A crispy and savory side dish made with grated potatoes, onions, and a hint of Norwegian flair. Perfect for accompanying any meal.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Grate before use"
+    },
+    {
+      "name": "Quaint Shallots",
+      "amount": "1 medium",
+      "notes": "Thinly slice"
+    },
+    {
+      "name": "Shaggy Cheddar Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Optional"
+    },
+    {
+      "name": "Norwegian Crispy Shallots",
+      "amount": "1/4 cup, chopped",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the potatoes and mix with a fork to release excess moisture.",
+    "Add the thinly sliced shallots, crumbled cheese (if using), salt, and pepper to the grated potatoes.",
+    "Mix everything together until well combined.",
+    "Divide the mixture into 4 equal parts and shape each part into a patty.",
+    "Heat a non-stick skillet or griddle over medium heat. Add the patties and cook for 4-5 minutes on each side, until golden brown.",
+    "Transfer the patties to a baking sheet and bake in the preheated oven for 15-20 minutes, until crispy and golden brown.",
+    "While the patties are baking, heat a tablespoon of oil in the skillet and cook the chopped crispy shallots until crispy.",
+    "Serve the hash brown cakes hot, topped with crispy shallots and a dollop of sour cream (optional).",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-shaggy-norwegian-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:53:45.807Z"
+}
