@@ -1,0 +1,68 @@
+{
+  "slug": "quaint-flaky-ukrainian-gouda-cheese-dumplings",
+  "title": "Ukrainian Cheese Dumplings",
+  "description": "A traditional Ukrainian dish made with flaky pastry and melted cheese. Serve as a snack or dessert.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "ukrainian dumplings",
+      "amount": "12-15",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "gouda cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "1/2 cup, grated",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a dumpling in the center of each circle of pastry.",
+    "Fold the pastry over the dumpling to form a triangle or square shape, and press the edges to seal.",
+    "Place the dumplings on a baking sheet lined with parchment paper.",
+    "Brush the tops of the dumplings with melted butter or egg wash.",
+    "Bake the dumplings in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the dumplings are baking, melt the gouda cheese in a saucepan over low heat.",
+    "Once the dumplings are done, remove them from the oven and let them cool for a few minutes.",
+    "Serve the dumplings hot with the melted gouda cheese spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "cheese",
+    "dumplings",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-flaky-ukrainian-gouda-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:55:26.542Z"
+}
