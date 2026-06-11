@@ -1,0 +1,87 @@
+{
+  "slug": "quickly-flambe-turkish-fish-borek",
+  "title": "Turkish Fish Borek",
+  "description": "A Turkish-inspired dish made with flaky fish filling wrapped in a crispy borek pastry. Perfect for a quick and delicious meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Firm white fish like cod or tilapia work well"
+    },
+    {
+      "name": "Borek Pastry",
+      "amount": "1 package",
+      "notes": "Available in most middle eastern markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "",
+      "notes": "Optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the fish into small pieces and set aside.",
+    "In a pan, sauté the onion and garlic until softened.",
+    "Add the fish to the pan and cook until opaque.",
+    "Mix in the parsley, salt, black pepper, and red pepper flakes (if using).",
+    "Roll out the borek pastry and cut into squares.",
+    "Place a spoonful of the fish mixture onto one half of each square.",
+    "Brush the edges with water and fold the other half over to form a triangle.",
+    "Press the edges together to seal the borek.",
+    "Brush the tops with egg wash and bake for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "fish",
+    "pastry",
+    "borek"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-flambe-turkish-fish-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:56:01.798Z"
+}
