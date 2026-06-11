@@ -4855,17 +4855,15 @@
   },
   {
     "slug": "queso-style-turkish-chicken-dumplings",
-    "title": "Queso-Style Turkish Chicken Dumplings",
+    "title": "Turkish Chicken Dumplings",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "kid-friendly",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "chicken",
+      "turkish",
+      "dumplings",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -7368,17 +7366,15 @@
   },
   {
     "slug": "quick-fix-irish-chicken-stew",
-    "title": "Quick-Fix Irish Chicken Stew",
+    "title": "Quick Irish Chicken Stew",
     "tags": [
-      "high-protein",
       "irish",
-      "one-pan",
-      "soup",
+      "chicken",
       "stew",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10921,17 +10917,15 @@
   },
   {
     "slug": "quick-rich-spanish-seafood-fideua",
-    "title": "Quick Rich Spanish Seafood Fideua",
+    "title": "Seafood Fideuà",
     "tags": [
-      "cheesy",
-      "low-glycemic",
-      "one-pan",
-      "pescatarian",
       "seafood",
-      "spanish-cuisine"
+      "spanish",
+      "fideua",
+      "rich"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
