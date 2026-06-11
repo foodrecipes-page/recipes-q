@@ -1,0 +1,78 @@
+{
+  "slug": "quietly-juicy-moroccan-lamb-mechoui",
+  "title": "Traditional Moroccan Mechoui",
+  "description": "Mechoui is a slow-cooked lamb dish originating from Morocco, traditionally cooked in a hole in the ground. This recipe is a simplified version of the classic dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Moroccan spices",
+      "amount": "2 tbsp",
+      "notes": "a mix of cumin, coriander, cinnamon, ginger"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the Moroccan spices and cook for 1-2 minutes.",
+    "Transfer the Dutch oven to the preheated oven and cook for 2 1/2 to 3 hours.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 63,
+    "carbs": 0,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-juicy-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:31:32.773Z"
+}
