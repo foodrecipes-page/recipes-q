@@ -1,0 +1,83 @@
+{
+  "slug": "quick-saffron-italian-rice-neapolitan-pizza",
+  "title": "Neapolitan Saffron Risotto",
+  "description": "A classic Italian risotto infused with the subtle earthy flavor of saffron and the simplicity of Neapolitan cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian Arborio Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Neapolitan Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Saffron Threads",
+      "amount": "1/2 teaspoon",
+      "notes": "Soak in 2 tablespoons of hot water for 30 minutes"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until absorbed, stirring constantly.",
+    "Add 1 cup of broth and cook until absorbed, stirring constantly.",
+    "Repeat step 3 for 15-20 minutes, or until the rice is cooked and creamy.",
+    "Stir in the saffron threads and their soaking liquid.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with parsley and parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "saffron",
+    "neapolitan",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-saffron-italian-rice-neapolitan-pizza",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:31:33.310Z"
+}
