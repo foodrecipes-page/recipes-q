@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-velvety-spanish-romano-pepper-paella-valenciana",
+  "title": "Spanish-Style Chicken Paella",
+  "description": "A traditional Spanish paella dish loaded with chicken, vegetables, and flavorful spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "quietly",
+      "amount": "1 cup",
+      "notes": "valencia rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "romano",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "valenciana",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup",
+      "notes": "artichoke hearts, drained and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the pepper and cook for 1 minute.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the romano, salt, quietly, valenciana, and paella.",
+    "Stir to combine, then reduce heat to low and simmer for 20 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "chicken",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-velvety-spanish-romano-pepper-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:49:49.717Z"
+}
