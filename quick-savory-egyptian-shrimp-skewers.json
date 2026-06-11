@@ -1,0 +1,94 @@
+{
+  "slug": "quick-savory-egyptian-shrimp-skewers",
+  "title": "Shrimp Skewers with Egyptian Flavor",
+  "description": "A quick and savory dish inspired by Egyptian cuisine, featuring succulent shrimp skewers with a blend of aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a little space between each shrimp.",
+    "In a small bowl, mix together cumin, coriander, garlic, salt, black pepper, and paprika.",
+    "Brush the shrimp with olive oil and sprinkle with the spice mixture.",
+    "Grill the shrimp for 2-3 minutes per side, or until they are pink and cooked through.",
+    "Meanwhile, grill the pita bread for 1-2 minutes on each side, or until it is lightly toasted.",
+    "Serve the shrimp skewers with grilled pita bread and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "skewers",
+    "egyptian",
+    "quick",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-egyptian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:59:09.403Z"
+}
