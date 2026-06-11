@@ -1,0 +1,89 @@
+{
+  "slug": "quick-rich-spanish-seafood-fideua",
+  "title": "Seafood Fideuà",
+  "description": "A Spanish-inspired seafood dish, a twist on traditional paella, combining the flavors of the Mediterranean with the richness of a hearty seafood stew.",
+  "cuisine": "Spanish",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fideua noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "Seafood mix",
+      "amount": "200g",
+      "notes": "Including mussels, clams, and shrimp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (400g)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Shrimp broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the chopped onion and sauté for 5 minutes until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomato and cook for 2 minutes.",
+    "Add the seafood mix and cook for 2-3 minutes until lightly browned.",
+    "Add the fideua noodles, shrimp broth, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes or until the noodles are cooked and the liquid has been absorbed.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "spanish",
+    "fideua",
+    "rich"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-rich-spanish-seafood-fideua",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:55:38.789Z"
+}
