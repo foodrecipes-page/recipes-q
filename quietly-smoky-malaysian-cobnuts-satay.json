@@ -1,0 +1,88 @@
+{
+  "slug": "quietly-smoky-malaysian-cobnuts-satay",
+  "title": "Satay with Smoky Cobnut Sauce",
+  "description": "A Malaysian-inspired satay dish with a smoky cobnut sauce, perfect for a quick snack or light meal. The combination of smoky and nutty flavors will transport you to the streets of Kuala Lumpur.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewer-sized pieces"
+    },
+    {
+      "name": "quietly roasted peanuts",
+      "amount": "1/2 cup",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "smoky soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "cobnuts",
+      "amount": "2 cups",
+      "notes": "for the sauce"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine peanuts, soy sauce, coconut milk, and cobnuts. Blend until smooth.",
+    "In a large bowl, whisk together lime juice, brown sugar, garlic, and coriander. Add the chicken pieces and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Serve the chicken with the smoky cobnut sauce.",
+    "Garnish with additional coriander, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "satay",
+    "grilled-chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-malaysian-cobnuts-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:11:43.458Z"
+}
