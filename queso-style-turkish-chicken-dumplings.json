@@ -1,0 +1,80 @@
+{
+  "slug": "queso-style-turkish-chicken-dumplings",
+  "title": "Turkish Chicken Dumplings",
+  "description": "A flavorful and comforting Turkish-inspired dish featuring chicken and dumplings served with a side of queso.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free alternative recommended"
+    },
+    {
+      "name": "turkish dumpling mix",
+      "amount": "1 package",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "queso",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for dumpling mix"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the chicken breast, flour, queso, salt, and black pepper. Mix until well combined.",
+    "2. Add the water to the bowl and mix until the dough comes together.",
+    "3. Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into 8 equal pieces.",
+    "5. Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "6. Heat a large skillet over medium-high heat and add 2 tablespoons of oil.",
+    "7. Add the dumplings to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "8. Add 2 cups of water to the skillet and bring to a boil.",
+    "9. Reduce the heat to medium-low and simmer the dumplings for 10-12 minutes, until they are cooked through.",
+    "10. Serve the Turkish chicken dumplings hot with melted queso on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "turkish",
+    "dumplings",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/queso-style-turkish-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:32:23.359Z"
+}
