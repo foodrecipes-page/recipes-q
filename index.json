@@ -580,17 +580,16 @@
   },
   {
     "slug": "quaint-flaky-ukrainian-gouda-cheese-dumplings",
-    "title": "Quaint Flaky Ukrainian Gouda Cheese Dumplings",
+    "title": "Ukrainian Cheese Dumplings",
     "tags": [
-      "date-night",
-      "flaky-dumplings",
-      "gouda-cheese",
-      "spherification",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "ukrainian",
+      "cheese",
+      "dumplings",
+      "snack",
+      "dessert"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10627,17 +10626,15 @@
   },
   {
     "slug": "quick-portuguese-cod-stew",
-    "title": "Quick Portuguese Cod Stew",
+    "title": "Portuguese Cod Stew",
     "tags": [
-      "brunch",
-      "low-glycemic",
-      "one-pot",
-      "quick",
-      "seafood",
-      "stone-bowl"
+      "fish",
+      "portuguese",
+      "stew",
+      "cod"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -11569,17 +11566,16 @@
   },
   {
     "slug": "quick-savory-egyptian-shrimp-skewers",
-    "title": "Quick Savory Egyptian Shrimp Skewers",
+    "title": "Shrimp Skewers with Egyptian Flavor",
     "tags": [
-      "chocolate-recipes",
-      "egyptian-cuisine",
-      "grilled",
-      "low-carb",
-      "seafood",
-      "shrimp-recipes"
+      "shrimp",
+      "skewers",
+      "egyptian",
+      "quick",
+      "savory"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -16807,17 +16803,14 @@
   },
   {
     "slug": "quietly-velvety-spanish-romano-pepper-paella-valenciana",
-    "title": "Quietly Velvety Spanish Romano Pepper Paella Valenciana",
+    "title": "Spanish-Style Chicken Paella",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "spanish-cuisine",
-      "vegetarian",
-      "wood-fired"
+      "paella",
+      "chicken",
+      "spanish"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
