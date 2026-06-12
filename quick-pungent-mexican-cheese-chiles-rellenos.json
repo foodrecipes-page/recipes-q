@@ -1,0 +1,70 @@
+{
+  "slug": "quick-pungent-mexican-cheese-chiles-rellenos",
+  "title": "Roasted Poblano Relleno",
+  "description": "A Mexican dish filled with cheese and chiles, wrapped in a poblano pepper and baked to perfection.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "mexican",
+    "quick"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano peppers",
+      "amount": "4",
+      "notes": "any leftover chiles can be stuffed with cheese and baked as a snack"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup, shredded",
+      "notes": "or other cheese of choice"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing poblano peppers"
+    }
+  ],
+  "instructions": [
+    "1. Roast poblano peppers over an open flame or in the oven at 400°F (200°C) for 10-15 minutes, or until charred and blistered.",
+    "2. Remove peppers from heat and let cool in a bowl covered with plastic wrap.",
+    "3. Once cool, peel off the skin, cut a slit down one side of each pepper to create a pocket, and remove seeds.",
+    "4. In a bowl, mix together the cheese, salt, and pepper.",
+    "5. Stuff each pepper with the cheese mixture.",
+    "6. Place the stuffed peppers on a baking sheet lined with parchment paper.",
+    "7. Drizzle the tops with olive oil.",
+    "8. Bake the peppers in a preheated oven at 375°F (190°C) for 15-20 minutes, or until the cheese is melted and the peppers are tender.",
+    "9. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "quick",
+    "cheese"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-pungent-mexican-cheese-chiles-rellenos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:10:31.753Z"
+}
