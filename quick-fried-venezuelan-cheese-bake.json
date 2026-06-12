@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fried-venezuelan-cheese-bake",
+  "title": "Venezuelan Queso Frito",
+  "description": "A crispy fried cheese snack from Venezuela, perfect for a quick snack or appetizer. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Queso Fresco",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a shallow dish, mix together the flour, garlic powder, and salt.",
+    "In a separate dish, beat the eggs.",
+    "Cut the Queso Fresco into 1-inch cubes.",
+    "Dip each cube of Queso Fresco into the flour mixture, coating evenly.",
+    "Then, dip the flour-coated Queso Fresco into the beaten eggs, making sure they are fully coated.",
+    "Roll the egg-coated Queso Fresco in the flour mixture again to coat evenly.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add a few of the coated Queso Fresco cubes to the skillet.",
+    "Fry the Queso Fresco until golden brown and crispy, about 2-3 minutes on each side.",
+    "Remove the fried Queso Fresco from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining Queso Fresco cubes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "fried",
+    "venezuelan",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-venezuelan-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:04:39.449Z"
+}
