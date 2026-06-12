@@ -1,0 +1,83 @@
+{
+  "slug": "quick-fix-irish-squash-stir-fry",
+  "title": "Quick Irish Stew",
+  "description": "A hearty, comforting stew made with tender beef, potatoes, and carrots. Perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Irish Stew Mix",
+      "amount": "1 packet",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "as needed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot or Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add mushrooms and cook until tender, about 5 minutes.",
+    "Add potatoes and carrots, and cook for 5 minutes.",
+    "Add Irish Stew Mix and water, and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "irish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-irish-squash-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:32:03.693Z"
+}
