@@ -3059,16 +3059,14 @@
   },
   {
     "slug": "quenched-jamaican-buckwheat-stew",
-    "title": "Quenched Jamaican Buckwheat Stew",
+    "title": "Jamaican Stew",
     "tags": [
-      "buckwheat",
-      "easy",
-      "jamaican",
-      "sattvic",
       "stew",
-      "vegan"
+      "jamaican",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Jamaican",
+    "cuisine": "Caribbean",
     "totalTimeMin": 45,
     "shard": "q"
   },
@@ -4546,17 +4544,14 @@
   },
   {
     "slug": "quenched-ukrainian-cheese-gratin",
-    "title": "Quenched Ukrainian Cheese Gratin",
+    "title": "Ukrainian Quenched Cheese Gratin",
     "tags": [
-      "airy",
-      "cheese-gratin",
-      "comfort-food",
-      "monsoon",
-      "sweet-savory",
-      "thai-chili"
+      "ukrainian",
+      "cheese",
+      "gratin"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -6847,17 +6842,15 @@
   },
   {
     "slug": "quick-fix-american-naan-bread-wrap",
-    "title": "quick-fix american naan bread wrap",
+    "title": "Classic American BLT Wrap",
     "tags": [
-      "american",
-      "flexitarian",
-      "grilled",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "blt",
+      "wrap",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 22,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -10666,18 +10659,15 @@
   },
   {
     "slug": "quick-pungent-mexican-cheese-chiles-rellenos",
-    "title": "Quick Pungent Mexican Cheese Chiles Rellenos",
+    "title": "Roasted Poblano Relleno",
     "tags": [
-      "broiled",
-      "cheesy",
-      "filo-pastry",
-      "lacto-vegetarian",
       "mexican",
-      "spicy",
-      "weeknight"
+      "vegetarian",
+      "quick",
+      "cheese"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -15549,17 +15539,15 @@
   },
   {
     "slug": "quietly-quenched-kenyan-fennel-salad",
-    "title": "Quietly Quenched Kenyan Fennel Salad",
+    "title": "Kenyan Fennel Salad",
     "tags": [
-      "gluten-free",
-      "healthy-snack",
-      "kenyan-cuisine",
-      "light-lunch",
-      "low-calorie",
+      "kenyan",
+      "salad",
+      "fennel",
       "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
