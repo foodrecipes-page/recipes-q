@@ -1,0 +1,84 @@
+{
+  "slug": "quick-smoky-ethiopian-beef-stew",
+  "title": "Ethiopian Beef Stew",
+  "description": "Hearty and flavorful stew originating from Ethiopia, made with tender beef and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Ethiopian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Quick-Cooking Lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add beef and cook until browned, about 5 minutes.",
+    "Add onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Stir in the Ethiopian spice blend and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add beef broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Add lentils and continue to simmer, covered, for an additional 20 minutes, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "african",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-ethiopian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:47:03.919Z"
+}
