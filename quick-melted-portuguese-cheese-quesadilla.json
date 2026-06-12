@@ -1,0 +1,85 @@
+{
+  "slug": "quick-melted-portuguese-cheese-quesadilla",
+  "title": "Portuguese Quesadilla",
+  "description": "A twist on traditional quesadillas, this Portuguese-inspired dish combines melted cheese with quick-cooked ingredients. Perfect for a snack or light meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Portuguese cheese",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Quick-cooked chorizo",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Quick-cooked onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "Quesadilla",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "10g",
+      "notes": "Chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add the quick-cooked chorizo and cook for 2 minutes.",
+    "Add the chopped onions and cook for another 2 minutes.",
+    "Add the Portuguese cheese and stir until melted.",
+    "Place a quesadilla in the pan and spoon the cheese mixture onto half of the tortilla.",
+    "Fold the quesadilla in half and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining quesadilla and filling.",
+    "Cut into wedges and serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "quesadilla",
+    "snack",
+    "cheese",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-melted-portuguese-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:55:21.355Z"
+}
