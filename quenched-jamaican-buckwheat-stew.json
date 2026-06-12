@@ -1,0 +1,90 @@
+{
+  "slug": "quenched-jamaican-buckwheat-stew",
+  "title": "Jamaican Stew",
+  "description": "A hearty and flavorful stew that combines the warm spices of Jamaica with the nutty flavor of buckwheat.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the jamaican spice in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the buckwheat and stir to coat with the spice mixture.",
+    "Add the stew, tomato, carrot, and potato. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 30 minutes.",
+    "Stir in the quenched flavor.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "jamaican",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-jamaican-buckwheat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:36:04.138Z"
+}
