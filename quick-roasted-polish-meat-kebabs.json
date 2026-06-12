@@ -1,0 +1,71 @@
+{
+  "slug": "quick-roasted-polish-meat-kebabs",
+  "title": "Polish Kebab Skewers",
+  "description": "A delicious and easy-to-make dish from Poland, featuring marinated meat kebabs grilled to perfection.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2 medium",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Quick Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Marinade (see below)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork, onion, bell pepper, and zucchini onto skewers.",
+    "In a small bowl, whisk together marinade ingredients (see below).",
+    "Brush both sides of the skewers with the marinade.",
+    "Grill the skewers for 10-12 minutes, or until the pork is cooked through.",
+    "Let the skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "polish",
+    "grilled",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-polish-meat-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:48:18.936Z"
+}
