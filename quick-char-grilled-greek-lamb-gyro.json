@@ -1,0 +1,79 @@
+{
+  "slug": "quick-char-grilled-greek-lamb-gyro",
+  "title": "Greek Lamb Gyro",
+  "description": "A classic Greek-inspired dish featuring juicy lamb, topped with fresh vegetables and served in a warm pita.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "Quick pita bread",
+      "amount": "4",
+      "notes": "warmed"
+    },
+    {
+      "name": "Char red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Grilled bell pepper",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Greek vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season lamb with salt, pepper, and your favorite Greek spices.",
+    "Grill lamb for 5-7 minutes per side, or until cooked through.",
+    "Warm pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble gyros by spreading a layer of vinaigrette on the bottom of the pita, followed by lamb, red onion, and bell pepper.",
+    "Top with crumbled feta cheese and chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "greek-cuisine",
+    "gyro",
+    "meat-lovers",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-char-grilled-greek-lamb-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:37:28.962Z"
+}
