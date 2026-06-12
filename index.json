@@ -7366,15 +7366,14 @@
   },
   {
     "slug": "quick-fix-irish-squash-stir-fry",
-    "title": "Quick Fix Irish Squash Stir-fry",
+    "title": "Quick Irish Stew",
     "tags": [
-      "quick-fix",
-      "irish-dish",
-      "paleo-friendly",
-      "squash-stir-fry"
+      "beef",
+      "irish",
+      "stew"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -10160,14 +10159,13 @@
   },
   {
     "slug": "quick-melted-portuguese-cheese-quesadilla",
-    "title": "Quick Melted Portuguese Cheese Quesadilla",
+    "title": "Portuguese Quesadilla",
     "tags": [
-      "citrusy",
-      "kid-friendly",
-      "melted-cheese",
-      "portuguese-food",
-      "quick-meal",
-      "vegetarian"
+      "portuguese",
+      "quesadilla",
+      "snack",
+      "cheese",
+      "chorizo"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 22,
@@ -11224,17 +11222,15 @@
   },
   {
     "slug": "quick-roasted-polish-meat-kebabs",
-    "title": "Quick Roasted Polish Meat Kebabs",
+    "title": "Polish Kebab Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "roasted-meat",
-      "sugar-free",
-      "weeknight"
+      "kebabs",
+      "polish",
+      "grilled",
+      "meat"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -13916,18 +13912,15 @@
   },
   {
     "slug": "quickly-spherified-dutch-fish-pilaf",
-    "title": "Quickly Spherified Dutch Fish Pilaf",
+    "title": "Pan-Seared Fish with Dutch-Style Pilaf and Spherified Sauce",
     "tags": [
-      "bay-leave",
-      "dutch",
-      "one-pan",
-      "spherification",
-      "spicy",
-      "sustainable",
-      "weeknight"
+      "seafood",
+      "exotic",
+      "pilaf",
+      "spherified"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
