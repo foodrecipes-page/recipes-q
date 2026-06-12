@@ -3595,14 +3595,11 @@
   },
   {
     "slug": "quenched-peppery-mediterranean-rice-pilaf",
-    "title": "Quenched Peppery Mediterranean Rice Pilaf",
+    "title": "Mediterranean Pilaf",
     "tags": [
-      "flexitarian",
-      "fluffy",
-      "lazy-susan",
-      "mediterranean",
-      "peppery",
-      "sick-day"
+      "pilaf",
+      "rice",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 30,
@@ -4019,16 +4016,16 @@
   },
   {
     "slug": "quenched-silky-slovakian-ladyfingers-trifle",
-    "title": "Quenched Silky Slovakian Ladyfingers Trifle",
+    "title": "Slovakian Trifle",
     "tags": [
-      "chilled-desserts",
-      "ladyfinger-desserts",
-      "rich-and-decadent",
-      "silky-texture",
-      "slovakian-dishes"
+      "slovakian",
+      "trifle",
+      "dessert",
+      "ladyfingers",
+      "mascarpone"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -12087,17 +12084,15 @@
   },
   {
     "slug": "quick-smoky-ethiopian-beef-stew",
-    "title": "Quick Smoky Ethiopian Beef Stew",
+    "title": "Ethiopian Beef Stew",
     "tags": [
       "beef",
-      "lazy-sunday",
-      "one-pot",
-      "quick",
-      "smoky",
-      "weeknight"
+      "stew",
+      "african",
+      "middle-eastern"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
