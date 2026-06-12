@@ -1,0 +1,71 @@
+{
+  "slug": "quick-crisp-russian-rice-pilaf",
+  "title": "Russian Rice Pilaf",
+  "description": "A classic Eastern European side dish made with rice, vegetables, and spices.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "quick",
+      "amount": "2 cups",
+      "notes": "chopped mixed vegetables (e.g., carrots, peas, corn)"
+    },
+    {
+      "name": "russian",
+      "amount": "2 teaspoons",
+      "notes": "dried parsley and dill"
+    },
+    {
+      "name": "crisp",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped mixed vegetables and cook until tender, about 3-4 minutes.",
+    "Add the rice and stir to combine with the vegetables and oil.",
+    "Add the dried parsley and dill, and stir to combine.",
+    "Cook for 2-3 minutes, stirring frequently.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, or until the water is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in the chopped fresh parsley.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "sidedish",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-russian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:47:10.345Z"
+}
