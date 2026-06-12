@@ -1,0 +1,70 @@
+{
+  "slug": "quaint-croatian-red-pepper-skewers",
+  "title": "Grilled Red Pepper Skewers with Quaint Croatian Salsa",
+  "description": "A simple and flavorful dish featuring grilled red pepper skewers served with a quaint Croatian-style salsa.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red peppers",
+      "amount": "4",
+      "notes": "any color peppers work"
+    },
+    {
+      "name": "quaint",
+      "amount": "2",
+      "notes": "a small, firm variety of cheese"
+    },
+    {
+      "name": "croatian",
+      "amount": "1",
+      "notes": "a type of cheese or sausage, optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "pepper",
+      "amount": "1",
+      "notes": "black pepper"
+    }
+  ],
+  "instructions": [
+    "Soak skewers in water for 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread red peppers, quaint cheese, and croatian cheese (if using) onto skewers.",
+    "Season with black pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Meanwhile, chop quaint cheese and mix with a pinch of salt.",
+    "Serve skewers with quaint cheese salsa.",
+    "Optional: add a dollop of Croatian-style cheese or sausage on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "vegetarian",
+    "gluten-free",
+    "summer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-croatian-red-pepper-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:26:31.478Z"
+}
