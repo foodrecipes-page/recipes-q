@@ -1,0 +1,78 @@
+{
+  "slug": "quirky-dense-turkish-baked-beans-pide",
+  "title": "Quirky Turkish Baked Beans",
+  "description": "A twist on traditional baked beans with the addition of quirky ingredients and Turkish spices. This dish is perfect for a unique side or main course.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quirky beans",
+      "amount": "1 cup",
+      "notes": "Choose a variety of quirky beans such as pinto or navy beans"
+    },
+    {
+      "name": "Dense pide bread",
+      "amount": "1 cup",
+      "notes": "Crumble the dense pide bread to add texture to the dish"
+    },
+    {
+      "name": "Turkish paprika",
+      "amount": "2 tsp",
+      "notes": "Add a smoky flavor with this popular Turkish spice"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "A classic spice to add depth to the dish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste with salt and pepper"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": "Add a tangy flavor with balsamic vinegar"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality olive oil to add moisture and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large bowl, mix together the quirky beans, crumbled pide bread, Turkish paprika, cumin, salt, and pepper.",
+    "In a separate bowl, whisk together the balsamic vinegar and olive oil.",
+    "Add the balsamic vinegar mixture to the quirky bean mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 15-20 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "quirky",
+    "beans",
+    "baked",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-dense-turkish-baked-beans-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:37:14.454Z"
+}
