@@ -334,16 +334,16 @@
   },
   {
     "slug": "quaint-croatian-red-pepper-skewers",
-    "title": "Quaint Croatian Red Pepper Skewers",
+    "title": "Grilled Red Pepper Skewers with Quaint Croatian Salsa",
     "tags": [
-      "croatian-cuisine",
-      "grilled-vegetables",
-      "healthy-eating",
-      "quick-snack",
-      "vegetarian-option"
+      "grilled",
+      "vegetarian",
+      "gluten-free",
+      "summer",
+      "snack"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17568,16 +17568,16 @@
   },
   {
     "slug": "quirky-dense-turkish-baked-beans-pide",
-    "title": "Quirky Dense Turkish Baked Beans Pide",
+    "title": "Quirky Turkish Baked Beans",
     "tags": [
-      "kid-friendly",
-      "one-pan",
-      "snack-time",
-      "turkish-food",
-      "vegetarian"
+      "turkish",
+      "quirky",
+      "beans",
+      "baked",
+      "side-dish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
