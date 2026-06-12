@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-quenched-kenyan-fennel-salad",
+  "title": "Kenyan Fennel Salad",
+  "description": "A refreshing salad inspired by Kenyan cuisine, featuring crunchy fennel and a hint of sweetness.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salad oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Quenched water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quietly ripened tomatoes",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Chop the fennel into thin slices.",
+    "2. In a pan, heat 1 tablespoon of salad oil over medium heat.",
+    "3. Add the chopped fennel and cook for 5 minutes, or until tender.",
+    "4. In a separate pan, heat the remaining 1 tablespoon of salad oil over low heat.",
+    "5. Add the chopped red onion and cook for 3-4 minutes, or until slightly caramelized.",
+    "6. In a large bowl, combine the cooked fennel, mixed greens, and cooked red onion.",
+    "7. Sprinkle the Kenyan spices over the salad and toss to combine.",
+    "8. Drizzle the lemon juice over the salad and toss to coat.",
+    "9. Serve the salad immediately, garnished with sliced quietly ripened tomatoes and quenched water on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "salad",
+    "fennel",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-kenyan-fennel-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:27:18.202Z"
+}
