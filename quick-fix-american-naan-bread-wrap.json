@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-american-naan-bread-wrap",
+  "title": "Classic American BLT Wrap",
+  "description": "A twist on the classic BLT sandwich, served in a crispy naan wrap.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Naan bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "Cook at 350°F (175°C) for 12-15 minutes or until crispy."
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook the bacon in the oven for 12-15 minutes or until crispy.",
+    "Cut the naan bread into 4 equal pieces.",
+    "Assemble the wrap by spreading mayonnaise on each piece of naan bread.",
+    "Add lettuce, tomatoes, cucumber, onions, and bacon.",
+    "Fold the naan bread in half to enclose the filling.",
+    "Cut the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "blt",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-american-naan-bread-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:04:25.670Z"
+}
