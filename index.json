@@ -5431,17 +5431,16 @@
   },
   {
     "slug": "quick-char-grilled-greek-lamb-gyro",
-    "title": "Quick Char Grilled Greek Lamb Gyro",
+    "title": "Greek Lamb Gyro",
     "tags": [
-      "date-night",
-      "greek-food",
-      "grilled-meats",
-      "low-carb",
-      "quick-dinner",
-      "sugar-free"
+      "lamb",
+      "greek-cuisine",
+      "gyro",
+      "meat-lovers",
+      "easy-to-make"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
