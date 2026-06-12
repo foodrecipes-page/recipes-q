@@ -1,0 +1,53 @@
+{
+  "slug": "quenched-peppery-mediterranean-rice-pilaf",
+  "title": "Mediterranean Pilaf",
+  "description": "A flavorful and aromatic pilaf dish inspired by the Mediterranean region.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quenched rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mediterranean pilaf",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Peppery",
+      "amount": "1 tsp",
+      "notes": "Pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a medium saucepan.",
+    "Add 1 packet of Mediterranean pilaf and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Stir in 1 cup of quenched rice and cook for an additional 5 minutes.",
+    "Season with pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "rice",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4.5,
+    "carbs": 45,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peppery-mediterranean-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:53:38.844Z"
+}
