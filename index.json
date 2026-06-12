@@ -5806,17 +5806,15 @@
   },
   {
     "slug": "quick-crisp-russian-rice-pilaf",
-    "title": "Quick Crisp Russian Rice Pilaf",
+    "title": "Russian Rice Pilaf",
     "tags": [
-      "easy-meal",
-      "lunch-ideas",
-      "one-pan",
-      "russian-cuisine",
-      "vegan-friendly",
-      "whole-grain"
+      "vegetarian",
+      "gluten-free",
+      "sidedish",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -8728,16 +8726,16 @@
   },
   {
     "slug": "quick-fried-venezuelan-cheese-bake",
-    "title": "Quick-Fried Venezuelan Cheese Bake",
+    "title": "Venezuelan Queso Frito",
     "tags": [
-      "cheese-pull",
-      "low-sodium",
-      "quick-fix",
-      "umami",
-      "venezuelan"
+      "quick",
+      "fried",
+      "venezuelan",
+      "cheese",
+      "snack"
     ],
     "cuisine": "venezuelan",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
