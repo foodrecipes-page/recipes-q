@@ -1,0 +1,81 @@
+{
+  "slug": "quenched-silky-slovakian-ladyfingers-trifle",
+  "title": "Slovakian Trifle",
+  "description": "A layered dessert inspired by Slovakian cuisine, featuring ladyfingers soaked in a rich fruit syrup and topped with a creamy quenched mascarpone mixture.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Slovakian ladyfingers",
+      "amount": "12-16 pieces",
+      "notes": "Split lengthwise"
+    },
+    {
+      "name": "Quenched mascarpone mixture",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Fruit syrup (such as cherry or raspberry)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sloe berries (or other berries)",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Silky chocolate shavings (optional)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Soak the ladyfingers in the fruit syrup for at least 3-5 minutes on each side.",
+    "Prepare the quenched mascarpone mixture by whipping the heavy cream and granulated sugar until stiff peaks form.",
+    "Fold the whipped cream into the quenched mascarpone mixture until well combined.",
+    "To assemble the trifle, place a layer of soaked ladyfingers in the bottom of a large serving dish.",
+    "Top the ladyfingers with a layer of the quenched mascarpone mixture, followed by a layer of fruit syrup and a sprinkle of berries.",
+    "Repeat the layers one more time, ending with a layer of whipped cream on top.",
+    "If desired, sprinkle the top of the trifle with silky chocolate shavings.",
+    "Refrigerate the trifle for at least 30 minutes to allow the flavors to meld together.",
+    "Serve chilled and enjoy!",
+    "Note: Quenched mascarpone mixture can be prepared ahead of time and stored in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": "6-8",
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "trifle",
+    "dessert",
+    "ladyfingers",
+    "mascarpone"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-silky-slovakian-ladyfingers-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:21:32.183Z"
+}
