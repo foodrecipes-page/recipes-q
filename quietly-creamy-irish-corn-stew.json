@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-creamy-irish-corn-stew",
+  "title": "Irish Stew",
+  "description": "A hearty and comforting Irish stew made with tender beef and vegetables in a rich broth.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Pearl onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, cook the bacon over medium heat until crispy.",
+    "Remove the bacon from the pot and set aside.",
+    "Add the beef to the pot and cook until browned, about 5 minutes.",
+    "Add the onion, potatoes, carrots, and pearl onions to the pot.",
+    "Sprinkle the flour over the top and cook for 1 minute.",
+    "Gradually add the chicken broth, whisking continuously.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Add the browned bacon back to the pot and stir to combine.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-creamy-irish-corn-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:21:20.307Z"
+}
