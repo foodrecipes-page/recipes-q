@@ -1,0 +1,65 @@
+{
+  "slug": "quickly-spherified-dutch-fish-pilaf",
+  "title": "Pan-Seared Fish with Dutch-Style Pilaf and Spherified Sauce",
+  "description": "A flavorful and exotic fish dish with a crispy crust, served with a flavorful pilaf and a tangy spherified sauce.",
+  "cuisine": null,
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets (Cod or Tilapia)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Dutch-Style Pilaf Mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Quickly Cooked Vegetable Oil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Spherified Sauce Mix",
+      "amount": "1 package",
+      "notes": "Make according to the package instructions"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add the fish fillets and cook for 3-4 minutes on each side, or until cooked through.",
+    "While the fish is cooking, prepare the Dutch-Style Pilaf according to the package instructions.",
+    "To make the spherified sauce, follow the package instructions.",
+    "Serve the fish on top of the pilaf and with a side of spherified sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "exotic",
+    "pilaf",
+    "spherified"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-spherified-dutch-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T10:00:29.893Z"
+}
