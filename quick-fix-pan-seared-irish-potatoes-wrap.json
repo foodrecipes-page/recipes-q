@@ -1,0 +1,57 @@
+{
+  "slug": "quick-fix-pan-seared-irish-potatoes-wrap",
+  "title": "Irish Seared Potatoes with Crispy Wrap",
+  "description": "A delicious and easy to make recipe featuring seared Irish potatoes wrapped in a crispy pan-fried wrap.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1-inch wedges"
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "for searing potatoes"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Add the Irish potatoes to the pan and sear for 4-5 minutes on each side, until golden brown.",
+    "In a separate pan, heat a small amount of oil over medium heat.",
+    "Place the wrap in the pan and cook for 2-3 minutes on each side, until crispy.",
+    "Serve the seared potatoes wrapped in the crispy wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "potatoes",
+    "wrap",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-pan-seared-irish-potatoes-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:51:49.454Z"
+}
