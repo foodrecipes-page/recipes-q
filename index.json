@@ -3932,16 +3932,14 @@
   },
   {
     "slug": "quenched-shandong-tofu-noodles",
-    "title": "Quenched Shandong Tofu Noodles",
+    "title": "Spicy Shandong Noodle Stir Fry",
     "tags": [
-      "lazy-sunday",
-      "noodles",
-      "shandong",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "chinese-inspired",
+      "stir-fry"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -11864,16 +11862,16 @@
   },
   {
     "slug": "quick-simmered-middle-eastern-tomatoes-tagine",
-    "title": "Quick Simmered Middle Eastern Tomatoes Tagine",
+    "title": "Middle Eastern Tagine",
     "tags": [
-      "easy-dinner",
+      "chicken",
+      "stew",
       "middle-eastern",
-      "one-pan",
-      "quick-fix",
-      "vegetarian"
+      "tomatoes",
+      "tagine"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
