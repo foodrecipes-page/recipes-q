@@ -13538,16 +13538,16 @@
   },
   {
     "slug": "quickly-fermented-kenyan-meal-grill",
-    "title": "Quickly Fermented Kenyan Meal Grill",
+    "title": "Kenyan Grilled Chicken Skewers",
     "tags": [
+      "chicken",
       "grilled",
-      "high-protein",
+      "kefir",
       "kenyan",
-      "one-pan",
-      "weeknight"
+      "quick"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
