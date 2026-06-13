@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-mediterranean-chickpea-fritters",
+  "title": "Chickpea Fritters with Mediterranean Quench",
+  "description": "A crispy and flavorful fritter recipe with the added zing of a Mediterranean quenched sauce. Perfect as a snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating fritters"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "quenched sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mash chickpeas using a fork or potato masher.",
+    "Add flour, breadcrumbs, and garlic powder to the bowl. Mix well.",
+    "Heat olive oil in a large non-stick pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop fritter mixture into the pan.",
+    "Flatten fritters slightly and cook for 3-4 minutes on each side, until golden brown.",
+    "Transfer fritters to a paper towel-lined plate to drain excess oil.",
+    "Warm quenched sauce in a saucepan over low heat.",
+    "Serve fritters with a drizzle of warmed quenched sauce and a squeeze of lemon juice.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chickpea",
+    "fritters",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-mediterranean-chickpea-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:31:11.247Z"
+}
