@@ -1368,17 +1368,15 @@
   },
   {
     "slug": "quaint-sweet-korean-noodles-naengmyeon",
-    "title": "Quaint Sweet Korean Noodles Naengmyeon",
+    "title": "Sweet Naengmyeon",
     "tags": [
-      "cold-noodles",
-      "korean-food",
-      "lacto-vegetarian",
-      "meal-prep",
-      "sesame-oil",
-      "speculaas-spice"
+      "korean",
+      "cold-noodle",
+      "sweet",
+      "refreshing"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
@@ -3288,18 +3286,14 @@
   },
   {
     "slug": "quenched-mediterranean-chickpea-fritters",
-    "title": "Quenched Mediterranean Chickpea Fritters",
+    "title": "Chickpea Fritters with Mediterranean Quench",
     "tags": [
+      "chickpea",
       "fritters",
-      "mediterranean",
-      "no-garlic",
-      "no-onion",
-      "post-workout",
-      "quick",
-      "vegan"
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
