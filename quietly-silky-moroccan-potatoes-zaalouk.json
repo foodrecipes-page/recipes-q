@@ -1,0 +1,90 @@
+{
+  "slug": "quietly-silky-moroccan-potatoes-zaalouk",
+  "title": "Moroccan Zaalouk with Roasted Potatoes",
+  "description": "A classic Moroccan stew made with eggplant, tomatoes, and spices, paired with roasted potatoes. This hearty and flavorful dish is perfect for a chilly evening.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "zaalouk",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Peel the potatoes and cut them into 1-inch wedges.",
+    "Toss the potatoes with 1 tablespoon of olive oil, salt, and cumin on a baking sheet.",
+    "Roast the potatoes in the oven for 20-25 minutes, or until golden brown.",
+    "In a large skillet, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Stir in the zaalouk, cumin, coriander, and paprika. Cook for 2-3 minutes.",
+    "Serve the roasted potatoes with the zaalouk mixture spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-silky-moroccan-potatoes-zaalouk",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:09:33.391Z"
+}
