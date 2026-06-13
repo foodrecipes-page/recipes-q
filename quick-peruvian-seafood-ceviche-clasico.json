@@ -1,0 +1,72 @@
+{
+  "slug": "quick-peruvian-seafood-ceviche-clasico",
+  "title": "Peruvian Ceviche",
+  "description": "A classic Peruvian dish made with fresh seafood marinated in citrus juices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "seafood",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian ceviche mix (including lime juice, garlic, and aji amarillo peppers)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh halibut",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh aji amarillo peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the halibut into small pieces and place in a large bowl.",
+    "Add the ceviche mix, red onion, aji amarillo peppers, cilantro, salt, and black pepper to the bowl.",
+    "Mix well to combine.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "peruvian-cuisine",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-peruvian-seafood-ceviche-clasico",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:15:05.732Z"
+}
