@@ -1,0 +1,86 @@
+{
+  "slug": "quick-fix-korean-springy-batter-pancake",
+  "title": "Korean Spring Pancakes",
+  "description": "Crispy and savory Korean-style pancakes filled with springy ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Spring onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Batter",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick fix oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fixing seasonings",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, water, and salt.",
+    "Add Korean chili flakes and mix well.",
+    "Add batter and mix until smooth.",
+    "Heat 1 inch of Quick fix oil in a large non-stick pan.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the pancake and cook for an additional 2 minutes.",
+    "Serve hot with Fixing seasonings and Spring onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pancake",
+    "spring",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-korean-springy-batter-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T04:28:36.547Z"
+}
