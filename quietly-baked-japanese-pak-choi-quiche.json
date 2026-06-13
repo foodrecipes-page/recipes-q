@@ -1,0 +1,76 @@
+{
+  "slug": "quietly-baked-japanese-pak-choi-quiche",
+  "title": "Pak Choi Quiche",
+  "description": "A Japanese-inspired quiche recipe featuring pak choi and quiet ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Quiche Crust",
+      "amount": "1 pre-made",
+      "notes": "You can use a homemade crust if you prefer"
+    },
+    {
+      "name": "Silken Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the quiche crust and place it in a pie dish.",
+    "In a pan, heat the sesame oil over medium heat. Add the pak choi and cook until wilted.",
+    "In a blender, combine the silken tofu, soy sauce, salt, and black pepper. Blend until smooth.",
+    "Pour the tofu mixture into the pie crust and top with the cooked pak choi.",
+    "Sprinkle the cheddar cheese over the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "quiche",
+    "pak-choi"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-baked-japanese-pak-choi-quiche",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:07:35.865Z"
+}
