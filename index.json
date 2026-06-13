@@ -7462,15 +7462,17 @@
   },
   {
     "slug": "quick-fix-korean-springy-batter-pancake",
-    "title": "Quick-fix Korean Springy Batter Pancake",
+    "title": "Korean Spring Pancakes",
     "tags": [
-      "breakfast",
       "korean",
-      "one-pan",
-      "weeknight"
+      "pancake",
+      "spring",
+      "snack",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 17,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -9541,17 +9543,14 @@
   },
   {
     "slug": "quick-italian-butter-bisque",
-    "title": "Quick Italian Butter Bisque",
+    "title": "Creamy Italian Bisque",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "italian",
-      "jammy",
-      "quick-weeknight",
-      "snappy"
+      "soup",
+      "italian-cuisine",
+      "easy-recipe"
     ],
-    "cuisine": "piedmontese",
-    "totalTimeMin": 13,
+    "cuisine": "Italian",
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
