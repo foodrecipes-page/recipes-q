@@ -420,16 +420,15 @@
   },
   {
     "slug": "quaint-dense-german-cheese-curds-toast",
-    "title": "Quaint Dense German Cheese Curds Toast",
+    "title": "German Toast Casserole with Cheese Curds",
     "tags": [
-      "cheese-lover",
-      "easy-to-make",
-      "german-cuisine",
-      "gluten-free",
-      "romantic-snack"
+      "german",
+      "breakfast",
+      "cheese",
+      "curds"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 20,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -4320,16 +4319,16 @@
   },
   {
     "slug": "quenched-spanish-jackfruit-salad",
-    "title": "Quenched Spanish Jackfruit Salad",
+    "title": "Jackfruit Tacos",
     "tags": [
-      "dry-fry",
-      "quick",
-      "seafood-free",
-      "spicy",
-      "vegan"
+      "jackfruit",
+      "tacos",
+      "mexican",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -5298,17 +5297,15 @@
   },
   {
     "slug": "quick-british-bangers-pan-fried-sausage-and-mashed-potatoes",
-    "title": "Quick British Bangers Pan-Fried Sausage and Mashed Potatoes",
+    "title": "British Bangers and Mashed Potatoes",
     "tags": [
-      "british-cuisine",
       "comfort-food",
-      "one-pan",
-      "pork",
+      "british-cuisine",
       "sausages",
-      "weeknight-dinner"
+      "mashed-potatoes"
     ],
     "cuisine": "British",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -6899,16 +6896,16 @@
   },
   {
     "slug": "quick-fix-brazilian-chorizo-wrap",
-    "title": "Quick-Fix Brazilian Chorizo Wrap",
+    "title": "Brazilian Wrap",
     "tags": [
-      "quick-fix",
       "brazilian",
       "chorizo",
       "wrap",
-      "tomato-juice"
+      "lunch",
+      "grilled"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -10467,17 +10464,15 @@
   },
   {
     "slug": "quick-peruvian-seafood-ceviche-clasico",
-    "title": "Quick Peruvian Seafood Ceviche Clasico",
+    "title": "Peruvian Ceviche",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "peruvian",
+      "ceviche",
+      "peruvian-cuisine",
       "seafood",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -13226,15 +13221,11 @@
   },
   {
     "slug": "quick-yeasty-polish-pappardelle-pasta-pasta",
-    "title": "Quick Yeasty Polish Pappardelle Pasta",
+    "title": "Homemade Polish-Style Pappardelle Pasta",
     "tags": [
-      "chocolate",
-      "flaky",
-      "one-pan",
-      "pescatarian",
-      "polish",
-      "weeknight",
-      "yeasty"
+      "homemade-pasta",
+      "polish-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
