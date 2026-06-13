@@ -5436,18 +5436,15 @@
   },
   {
     "slug": "quick-charred-gooey-german-plum-tomatoes-risotto",
-    "title": "Quick Charred Gooey German Plum Tomatoes Risotto",
+    "title": "Charred Plum Risotto",
     "tags": [
-      "german-cuisine",
-      "one-pan",
-      "ovo-vegetarian",
-      "plum-tomatoes",
-      "risotto",
-      "tandoor-clay-pot",
-      "weeknight"
+      "german",
+      "veggie-friendly",
+      "comfort-food",
+      "risotto"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 30,
+    "cuisine": "German",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -8657,17 +8654,15 @@
   },
   {
     "slug": "quick-fried-slovakian-pistachio-fritters",
-    "title": "Quick Fried Slovakian Pistachio Fritters",
+    "title": "Slovakian Fried Pistachio Fritters",
     "tags": [
-      "deep-fried",
-      "kid-friendly",
-      "low-glycemic",
       "slovakian",
-      "spring-dessert",
-      "sweet-treats"
+      "fried",
+      "pistachio",
+      "fritters"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -10559,17 +10554,15 @@
   },
   {
     "slug": "quick-polish-epoisses-wrap",
-    "title": "Quick Polish Epoisses Wrap",
+    "title": "Polish Wrap with Epoisses",
     "tags": [
-      "dairy-free",
-      "grilled",
-      "polish-cuisine",
-      "quick-lunch",
-      "snappy",
-      "weeknight-meal"
+      "polish",
+      "wrap",
+      "cheese",
+      "easy"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 7,
     "shard": "q"
   },
   {
