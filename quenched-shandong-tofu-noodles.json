@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-shandong-tofu-noodles",
+  "title": "Spicy Shandong Noodle Stir Fry",
+  "description": "A Chinese-inspired stir fry featuring spicy Shandong sauce and noodles, served with tofu and a variety of vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shandong sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles or soba noodles work well"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm tofu, drained and cubed"
+    },
+    {
+      "name": "noodles cooking water",
+      "amount": "2 cups",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "quenched",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "In a small bowl, whisk together Shandong sauce and 2 cups of noodles cooking water.",
+    "In a large skillet or wok, heat olive oil over medium-high heat.",
+    "Add garlic and ginger; stir-fry for 30 seconds.",
+    "Add tofu and stir-fry until golden brown.",
+    "Pour in the Shandong sauce mixture and bring to a simmer.",
+    "Add noodles and stir-fry until well coated.",
+    "Stir in scallions and quenched.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "chinese-inspired",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-shandong-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:24:28.483Z"
+}
