@@ -1,0 +1,63 @@
+{
+  "slug": "quenched-gooey-turkish-herring-kazandibi",
+  "title": "Traditional Turkish Kazandibi",
+  "description": "A classic Turkish dessert made with milk, sugar, and a touch of lemon.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Quenched milk",
+      "amount": "2 liters"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish kazandibi cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Boil the quenched milk in a large saucepan over medium heat.",
+    "Add the sugar and stir until it dissolves.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the Turkish kazandibi cream and stir until well combined.",
+    "Remove the saucepan from the heat and stir in the lemon juice and salt.",
+    "Let the mixture cool to room temperature.",
+    "Chill the mixture in the refrigerator for at least 2 hours.",
+    "Serve the kazandibi cold, garnished with a sprinkle of sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-desserts",
+    "dairy-desserts",
+    "traditional-desserts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-gooey-turkish-herring-kazandibi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:06:32.578Z"
+}
