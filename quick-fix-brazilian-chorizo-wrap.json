@@ -1,0 +1,69 @@
+{
+  "slug": "quick-fix-brazilian-chorizo-wrap",
+  "title": "Brazilian Wrap",
+  "description": "A flavorful and spicy wrap filled with chorizo, onions, and bell peppers, inspired by Brazilian cuisine.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo Sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2, sliced",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Wrap",
+      "amount": "4, warmed",
+      "notes": ""
+    },
+    {
+      "name": "Quick Fix Wrap Sauce (or Salsa)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the sliced chorizo sausage for 3-4 minutes per side, until browned and cooked through.",
+    "Meanwhile, grill the sliced bell peppers and onions for 3-4 minutes per side, until tender.",
+    "Warm the Brazilian wraps according to package instructions.",
+    "Assemble the wraps by placing cooked chorizo, bell peppers, and onions onto the warmed wraps.",
+    "Drizzle with Quick Fix Wrap Sauce (or Salsa) to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "chorizo",
+    "wrap",
+    "lunch",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-brazilian-chorizo-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:18:24.487Z"
+}
