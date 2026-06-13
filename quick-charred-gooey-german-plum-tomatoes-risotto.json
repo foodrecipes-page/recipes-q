@@ -1,0 +1,100 @@
+{
+  "slug": "quick-charred-gooey-german-plum-tomatoes-risotto",
+  "title": "Charred Plum Risotto",
+  "description": "A creamy German-inspired risotto dish featuring caramelized plums and a crunchy charred crust.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plums",
+      "amount": "2",
+      "notes": "ripe and halved"
+    },
+    {
+      "name": "risotto",
+      "amount": "1 cup",
+      "notes": "arborio"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "warmed"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the halved plums and cook for 2-3 minutes on each side, until caramelized.",
+    "Transfer the plum mixture to a baking dish and set aside.",
+    "In the same skillet, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the arborio risotto and cook for 1-2 minutes, until lightly toasted.",
+    "If using wine, add it to the skillet and cook until absorbed.",
+    "Add 1/2 cup of warmed chicken broth to the skillet and cook, stirring constantly, until absorbed.",
+    "Repeat the process of adding broth and stirring until the risotto is cooked and creamy.",
+    "Stir in the shaved parmesan cheese and season with salt and pepper to taste.",
+    "Transfer the cooked risotto to the baking dish with the plum mixture.",
+    "Top the risotto with additional parmesan cheese and a drizzle of olive oil.",
+    "Bake in the preheated oven for 10-12 minutes, until the top is golden brown and the risotto is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "veggie-friendly",
+    "comfort-food",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-gooey-german-plum-tomatoes-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T00:19:28.195Z"
+}
