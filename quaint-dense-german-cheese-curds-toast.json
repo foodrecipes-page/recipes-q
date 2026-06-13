@@ -1,0 +1,66 @@
+{
+  "slug": "quaint-dense-german-cheese-curds-toast",
+  "title": "German Toast Casserole with Cheese Curds",
+  "description": "A hearty German-inspired casserole featuring toast, cheese curds, and a hint of quaint charm.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "1 loaf, 1 inch thick",
+      "notes": "preferably dense"
+    },
+    {
+      "name": "Cheese Curds",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Quaint German Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "or similar sharp cheese"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the toast into 1-inch cubes and spread half of it in a baking dish.",
+    "Top with cheese curds and sprinkle with quaint German cheese.",
+    "Add the remaining toast cubes on top and season with salt and pepper.",
+    "Bake for 20-25 minutes or until the cheese is melted and the toast is toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "cheese",
+    "curds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-dense-german-cheese-curds-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:03:56.116Z"
+}
