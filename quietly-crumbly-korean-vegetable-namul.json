@@ -1,0 +1,61 @@
+{
+  "slug": "quietly-crumbly-korean-vegetable-namul",
+  "title": "Korean Namul Salad",
+  "description": "A simple and healthy Korean-inspired salad made with namul, vegetables, and a hint of crunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quietly crumbled tofu",
+      "amount": "1/2 block"
+    },
+    {
+      "name": "korean namul",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as shredded carrots, chopped cucumber, and sliced bell peppers"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "crushed sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the crumbled tofu, namul, and mixed vegetables.",
+    "2. In a small bowl, whisk together the sesame oil and soy sauce.",
+    "3. Pour the dressing over the tofu and vegetable mixture, and toss to combine.",
+    "4. Sprinkle the crushed sesame seeds over the top of the salad.",
+    "5. Serve immediately, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "tofu",
+    "vegetarian",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-crumbly-korean-vegetable-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:05:41.699Z"
+}
