@@ -7629,18 +7629,16 @@
   },
   {
     "slug": "quick-fix-pan-seared-irish-potatoes-wrap",
-    "title": "Quick-fix Pan-Seared Irish Potatoes Wrap",
+    "title": "Irish Seared Potatoes with Crispy Wrap",
     "tags": [
-      "high-protein",
       "irish",
-      "korean-inspired",
-      "lacto-ovo-vegetarian",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "potatoes",
+      "wrap",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -8238,15 +8236,14 @@
   },
   {
     "slug": "quick-fix-vietnamese-cream-cheese-spring-rolls",
-    "title": "Quick Fix Vietnamese Cream Cheese Spring-Rolls",
+    "title": "Vietnamese Spring Rolls",
     "tags": [
-      "deep-fry",
-      "quick-fix",
-      "snack",
-      "vietnamese"
+      "vietnamese",
+      "spring-rolls",
+      "snack"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -14974,17 +14971,15 @@
   },
   {
     "slug": "quietly-grassy-ethiopian-turnips-berbere-stew",
-    "title": "Quietly Grassy Ethiopian Turnips Berbere Stew",
+    "title": "Ethiopian Berbere Stew",
     "tags": [
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "berbere",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
