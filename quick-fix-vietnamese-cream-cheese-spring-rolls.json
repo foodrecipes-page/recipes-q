@@ -1,0 +1,74 @@
+{
+  "slug": "quick-fix-vietnamese-cream-cheese-spring-rolls",
+  "title": "Vietnamese Spring Rolls",
+  "description": "Delicate and crunchy spring rolls filled with fresh vegetables and served with a sweet and spicy dipping sauce. A classic Vietnamese appetizer or snack.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper",
+      "amount": "1 package"
+    },
+    {
+      "name": "spring rolls",
+      "amount": "1 package"
+    },
+    {
+      "name": "shredded carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Fill a large bowl with warm water.",
+    "Soak the rice paper in the water for about 10-15 seconds or until it becomes soft and pliable.",
+    "Remove the rice paper from the water and place it on a clean surface.",
+    "Arrange a few mint leaves in the center of the rice paper.",
+    "Add a few spoonfuls of shredded carrots, cabbage, and bean sprouts on top of the mint leaves.",
+    "Fold the bottom half of the rice paper up over the filling, then fold in the sides and roll up the spring roll.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with peanut sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-vietnamese-cream-cheese-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:42:39.964Z"
+}
