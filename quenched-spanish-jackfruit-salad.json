@@ -1,0 +1,76 @@
+{
+  "slug": "quenched-spanish-jackfruit-salad",
+  "title": "Jackfruit Tacos",
+  "description": "A flavorful and spicy jackfruit taco recipe with a mix of Spanish and Mexican flavors.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jackfruit",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "quenched",
+      "amount": "2 tbsp",
+      "notes": "Use for tacos seasoning or to taste"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 tsp",
+      "notes": "Paprika, cumin, or oregano work well"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens, radishes, and lime juice dressing"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "Corn or flour tortillas work well"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey jack or cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Heat the jackfruit in a pan with 1 tablespoon quenched.",
+    "Add 1 teaspoon of Spanish or Mexican spice, to taste.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the jackfruit mixture onto a tortilla.",
+    "Top with salad, shredded cheese, and any other desired toppings.",
+    "Serve immediately and enjoy!",
+    "Optional: Add diced onions, bell peppers, or other desired toppings.",
+    "For a spicy kick, add diced jalapeños or sliced hot peppers.",
+    "Garnish with cilantro or scallions for a fresh touch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jackfruit",
+    "tacos",
+    "mexican",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-spanish-jackfruit-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:04:27.193Z"
+}
