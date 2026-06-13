@@ -1,0 +1,73 @@
+{
+  "slug": "quick-polish-epoisses-wrap",
+  "title": "Polish Wrap with Epoisses",
+  "description": "A simple, savory wrap inspired by Polish cuisine, topped with the rich French cheese Epoisses.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish wrap",
+      "amount": "1",
+      "notes": "large, soft flour tortilla"
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "1/4 cup",
+      "notes": "soft, creamy, strong odor"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Grapeseed oil",
+      "amount": "1 tsp",
+      "notes": "for brushing wrap"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "for spread"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Brush the wrap with grapeseed oil and warm it in the oven for 2-3 minutes.",
+    "Spread a thin layer of Dijon mustard on the wrap.",
+    "Top the mustard with thinly sliced red onion.",
+    "Crumble the Epoisses cheese over the onion.",
+    "Sprinkle chopped parsley on top.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "wrap",
+    "cheese",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-polish-epoisses-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:58:51.831Z"
+}
