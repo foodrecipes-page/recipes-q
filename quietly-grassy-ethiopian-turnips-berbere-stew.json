@@ -1,0 +1,74 @@
+{
+  "slug": "quietly-grassy-ethiopian-turnips-berbere-stew",
+  "title": "Ethiopian Berbere Stew",
+  "description": "A traditional Ethiopian stew made with berbere spice, turnips, and a hint of grassy freshness.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turnips",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add berbere spice and stir for 1 minute.",
+    "Add turnips and water, bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "berbere",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-grassy-ethiopian-turnips-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:54:47.632Z"
+}
