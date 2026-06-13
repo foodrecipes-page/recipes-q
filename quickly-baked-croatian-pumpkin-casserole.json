@@ -1,0 +1,75 @@
+{
+  "slug": "quickly-baked-croatian-pumpkin-casserole",
+  "title": "Baked Pumpkin Croatian Casserole",
+  "description": "A delicious and easy-to-make casserole perfect for fall and winter seasons. Combining the flavors of Croatia with the warmth of pumpkin.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baked ziti pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the ziti pasta according to package instructions and set aside.",
+    "In a large mixing bowl, combine the pumpkin puree, ricotta cheese, eggs, salt, and pepper. Mix well.",
+    "In a 9x13 inch baking dish, create a layer of the cooked ziti pasta.",
+    "Spread half of the pumpkin-ricotta mixture over the pasta.",
+    "Sprinkle with half of the mozzarella cheese.",
+    "Repeat the layers, finishing with the remaining mozzarella cheese on top.",
+    "Bake for 35-40 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pumpkin",
+    "casserole",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-baked-croatian-pumpkin-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:21:58.942Z"
+}
