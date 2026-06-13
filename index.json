@@ -2896,16 +2896,14 @@
   },
   {
     "slug": "quenched-gooey-turkish-herring-kazandibi",
-    "title": "Quenched Gooey Turkish Herring Kazandibi",
+    "title": "Traditional Turkish Kazandibi",
     "tags": [
-      "breakfast",
-      "dessert",
-      "turkish",
-      "vegan",
-      "weeknight"
+      "turkish-desserts",
+      "dairy-desserts",
+      "traditional-desserts"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -14060,16 +14058,15 @@
   },
   {
     "slug": "quietly-baked-japanese-pak-choi-quiche",
-    "title": "Quietly Baked Japanese Pak Choi Quiche",
+    "title": "Pak Choi Quiche",
     "tags": [
-      "brunch-ideas",
-      "japanese-inspired",
-      "lacto-vegetarian",
-      "pak-choi-recipes",
-      "quiche-recipes"
+      "breakfast",
+      "japanese",
+      "quiche",
+      "pak-choi"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -14616,17 +14613,16 @@
   },
   {
     "slug": "quietly-crumbly-korean-vegetable-namul",
-    "title": "Quietly Crumbly Korean Vegetable Namul",
+    "title": "Korean Namul Salad",
     "tags": [
-      "brunch-ideas",
-      "crunchy-snacks",
-      "keto-friendly",
-      "korean-cuisine",
-      "low-carb",
-      "vegetarian"
+      "korean",
+      "salad",
+      "tofu",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -15962,19 +15958,15 @@
   },
   {
     "slug": "quietly-silky-moroccan-potatoes-zaalouk",
-    "title": "Quietly Silky Moroccan Potatoes Zaalouk",
+    "title": "Moroccan Zaalouk with Roasted Potatoes",
     "tags": [
-      "high-protein",
       "moroccan",
-      "nimono-simmer",
-      "one-pan",
-      "potato",
-      "salty",
-      "silky",
-      "vegetarian"
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
