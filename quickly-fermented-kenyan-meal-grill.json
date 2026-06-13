@@ -1,0 +1,78 @@
+{
+  "slug": "quickly-fermented-kenyan-meal-grill",
+  "title": "Kenyan Grilled Chicken Skewers",
+  "description": "A flavorful and spicy Kenyan-inspired dish made with marinated chicken, quickly grilled to perfection. Perfect for a quick dinner or lunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Quickly fermented kefir yogurt",
+      "amount": "1/2 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Kenyan chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Add heat to the dish"
+    },
+    {
+      "name": "Meal prep honey",
+      "amount": "1 tablespoon",
+      "notes": "Sweet and sticky"
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together kefir yogurt, Kenyan chili flakes, honey, and grill seasoning.",
+    "2. Add the chicken to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated chicken onto skewers.",
+    "6. Grill the chicken for 8-10 minutes, turning occasionally, or until cooked through.",
+    "7. Garnish with fresh cilantro and serve with lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "kefir",
+    "kenyan",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fermented-kenyan-meal-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:11:59.883Z"
+}
