@@ -1,0 +1,89 @@
+{
+  "slug": "quietly-roasted-venezuelan-beef-skewers",
+  "title": "Venezuelan Beef Skewers",
+  "description": "A classic Venezuelan dish featuring marinated beef skewers grilled to perfection, served with a side of quiet, roasted flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For marinating"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, lime juice, garlic, cumin, coriander, salt, and black pepper.",
+    "2. Add the beef cubes to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "6. Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 145°F.",
+    "7. Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "8. Serve immediately, with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "beef",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-roasted-venezuelan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:47:26.617Z"
+}
