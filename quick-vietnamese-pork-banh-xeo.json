@@ -1,0 +1,87 @@
+{
+  "slug": "quick-vietnamese-pork-banh-xeo",
+  "title": "Vietnamese Banh Xeo",
+  "description": "A crispy Vietnamese pancake filled with pork and served with fresh herbs. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taro starch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pork",
+      "amount": "1/2 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 pound",
+      "notes": "Peeled and deveined"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "Thai basil and mint"
+    },
+    {
+      "name": "Fried shallots",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the taro starch and water to form a batter.",
+    "Add the ground pork, shrimp, bean sprouts, and fresh herbs to the batter and mix well.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add 1 tablespoon of oil to the pan and swirl it around.",
+    " Pour a small amount of the batter into the pan and tilt the pan to form a round shape.",
+    "Cook for 2-3 minutes or until the bottom is crispy and golden brown.",
+    "Flip the pancake and cook for another 2-3 minutes or until the other side is crispy and golden brown.",
+    "Serve the pancake with fried shallots, coconut milk, fish sauce, and soy sauce.",
+    "Garnish with fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "quick",
+    "pork",
+    "banhxeo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-vietnamese-pork-banh-xeo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:38:25.794Z"
+}
