@@ -4323,14 +4323,11 @@
   },
   {
     "slug": "quenched-spicy-slovakian-tiger-prawns-skewers",
-    "title": "Quenched Spicy Slovakian Tiger Prawns Skewers",
+    "title": "Slovakian Spicy Prawn Skewers",
     "tags": [
-      "bhuna",
-      "date-night",
-      "seafood",
-      "skewers",
       "slovakian",
-      "spicy"
+      "spicy",
+      "grilled"
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
@@ -4702,16 +4699,15 @@
   },
   {
     "slug": "quenched-velvety-russian-curd-pudding",
-    "title": "Quenched Velvety Russian Curd Pudding",
+    "title": "Russian Pudding Cheesecake",
     "tags": [
-      "crowd-pleaser",
-      "no-onion-no-garlic",
-      "russian-desserts",
-      "sugar-syrup",
-      "velvety-texture"
+      "dessert",
+      "cheesecake",
+      "russian",
+      "pudding"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -15834,16 +15830,15 @@
   },
   {
     "slug": "quietly-roasted-venezuelan-beef-skewers",
-    "title": "Quietly Roasted Venezuelan Beef Skewers",
+    "title": "Venezuelan Beef Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "venezuelan",
+      "beef",
+      "grilled",
+      "skewers"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 36,
     "shard": "q"
   },
   {
