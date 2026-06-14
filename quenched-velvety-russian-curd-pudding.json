@@ -1,0 +1,85 @@
+{
+  "slug": "quenched-velvety-russian-curd-pudding",
+  "title": "Russian Pudding Cheesecake",
+  "description": "A rich and creamy Russian-inspired dessert featuring a velvety pudding cheesecake topped with a quenched curd mixture.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Russian panna cotta pudding mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curd cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare the Russian panna cotta pudding mix according to package instructions.",
+    "In a separate bowl, beat the cream cheese until smooth.",
+    "Add eggs one at a time, beating well after each addition.",
+    "Gradually add granulated sugar and beat until combined.",
+    "Stir in vanilla extract.",
+    "Pour the pudding mixture into a greased 9-inch springform pan.",
+    "Bake for 45-50 minutes or until the edges are set and the center is slightly jiggly.",
+    "Allow the cheesecake to cool completely.",
+    "Prepare the curd mixture by beating the curd cheese until smooth.",
+    "Add melted butter, heavy cream, and confectioners' sugar. Beat until combined.",
+    "Spread the curd mixture over the cooled cheesecake.",
+    "Refrigerate for at least 4 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "russian",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-velvety-russian-curd-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:55:04.297Z"
+}
