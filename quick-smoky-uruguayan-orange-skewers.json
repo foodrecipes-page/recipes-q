@@ -1,0 +1,84 @@
+{
+  "slug": "quick-smoky-uruguayan-orange-skewers",
+  "title": "Uruguayan-Style Skewers with Orange Glaze",
+  "description": "A taste of Uruguay in every bite, these skewers are marinated in a smoky and tangy sauce, then grilled to perfection and finished with a sweet orange glaze.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "green, red, or yellow"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Uruguayan Chimichurri",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Orange Marmalade",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together smoked paprika and Uruguayan chimichurri.",
+    "Brush skewers with olive oil and season with smoked paprika mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally.",
+    "While skewers are cooking, mix together orange marmalade and olive oil in a small bowl.",
+    "Brush skewers with orange glaze during the last 2 minutes of cooking.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "skewers",
+    "orange",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-uruguayan-orange-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:37:01.700Z"
+}
