@@ -1696,16 +1696,14 @@
   },
   {
     "slug": "quaintly-roasted-italian-vegetable-ribollita",
-    "title": "Quaintly Roasted Italian Vegetable Ribollita",
+    "title": "Hearty Ribollita Soup",
     "tags": [
-      "comfort-food",
-      "italian-food",
-      "one-pot-meals",
-      "vegetarian-dishes",
-      "winter-recipes"
+      "italian",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 80,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -8441,15 +8439,15 @@
   },
   {
     "slug": "quick-fluffy-venezuelan-rice-pilaf",
-    "title": "Quick Fluffy Venezuelan Rice Pilaf",
+    "title": "Venezuelan-Style Rice Pilaf",
     "tags": [
-      "gluten-free",
-      "low-fat",
-      "one-pot",
-      "quick-meal",
-      "venezuelan-cuisine"
+      "latin-american",
+      "rice",
+      "pilaf",
+      "veggie",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 30,
     "shard": "q"
   },
@@ -8470,17 +8468,14 @@
   },
   {
     "slug": "quick-french-beans-pie",
-    "title": "Quick French Beans Pie",
+    "title": "French Bean Pie",
     "tags": [
-      "flaky-crust",
-      "low-sodium",
-      "one-pan",
-      "quick-prepare",
-      "vegetarian",
-      "weeknight"
+      "french",
+      "beans",
+      "pie"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
