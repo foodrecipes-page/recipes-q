@@ -1,0 +1,78 @@
+{
+  "slug": "quick-thai-papaya-som-tum",
+  "title": "Som Tam (Papaya Salad) - Thai-Style",
+  "description": "A spicy and sour salad made with shredded green papaya, tomatoes, chilies, and peanuts. This authentic Thai recipe is a staple in Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Papaya",
+      "amount": "1 medium, peeled and shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "Chilies",
+      "amount": "3-4, sliced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "Fermented Fish Sauce (Pla Ra)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Som (Palm Sugar)",
+      "amount": "1 tsp, grated"
+    }
+  ],
+  "instructions": [
+    "1. In a large mortar and pestle, pound the chilies and garlic until well combined.",
+    "2. Add the peanuts and pound until crushed.",
+    "3. Add the shredded papaya and pound until slightly softened.",
+    "4. Add the diced tomatoes and pound until well combined.",
+    "5. Add the fermented fish sauce, vinegar, sugar, and som. Stir well.",
+    "6. Taste and adjust the seasoning as needed.",
+    "7. Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "8. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "salad",
+    "papaya",
+    "vegan",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-thai-papaya-som-tum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:02:03.194Z"
+}
