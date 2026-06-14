@@ -10458,17 +10458,15 @@
   },
   {
     "slug": "quick-peruvian-tuna-suspiro-limeno-bowl",
-    "title": "Quick Peruvian Tuna Suspiro Limeno Bowl",
+    "title": "Peruvian Tuna Bowl",
     "tags": [
-      "crowd-pleaser",
-      "easy",
-      "low-sodium",
       "peruvian",
-      "quick",
-      "rice-bowl"
+      "seafood",
+      "lunch",
+      "healthy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -12198,17 +12196,16 @@
   },
   {
     "slug": "quick-snappy-turkish-lamb-kebab-doner",
-    "title": "Quick Snappy Turkish Lamb Kebab Doner",
+    "title": "Turkish-Style Doner Kebab",
     "tags": [
-      "flexitarian",
-      "lamb-based",
-      "middle-eastern",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "kebab",
+      "lamb",
+      "turkish",
+      "doner",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
