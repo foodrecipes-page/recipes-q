@@ -12799,17 +12799,17 @@
   },
   {
     "slug": "quick-thai-papaya-som-tum",
-    "title": "Quick Thai Papaya Som-Tum",
+    "title": "Som Tam (Papaya Salad) - Thai-Style",
     "tags": [
-      "quick-meal",
+      "thai",
       "salad",
-      "snack",
-      "street-food",
-      "thaifood",
-      "weeknight"
+      "papaya",
+      "vegan",
+      "gluten-free",
+      "snack"
     ],
-    "cuisine": "thaifood",
-    "totalTimeMin": 25,
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
