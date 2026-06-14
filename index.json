@@ -8867,10 +8867,12 @@
     "title": "Quick German Pretzel Wrap",
     "tags": [
       "german",
-      "lunch"
+      "breakfast",
+      "quick",
+      "easy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 40,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -13060,18 +13062,15 @@
   },
   {
     "slug": "quick-vietnamese-pork-banh-xeo",
-    "title": "Quick Vietnamese Pork Bánh Xèo",
+    "title": "Vietnamese Banh Xeo",
     "tags": [
-      "high-protein",
-      "lacto-vegetarian",
-      "midnight-craving",
-      "one-pan",
-      "quick",
       "vietnamese",
-      "weeknight"
+      "quick",
+      "pork",
+      "banhxeo"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 20,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14163,16 +14162,15 @@
   },
   {
     "slug": "quietly-braised-french-cherry-tomato-stew",
-    "title": "Quietly Braised French Cherry Tomato Stew",
+    "title": "Cherry Braised French Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "french-cuisine",
-      "post-workout",
-      "slow-cooked",
-      "vegetarian-option"
+      "beef",
+      "stew",
+      "french",
+      "cherry-tomato"
     ],
     "cuisine": "French",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -14527,17 +14525,15 @@
   },
   {
     "slug": "quietly-creamy-slovakian-zucchini-casserole",
-    "title": "Quietly Creamy Slovakian Zucchini Casserole",
+    "title": "Slovakian Zucchini Casserole",
     "tags": [
+      "slovakian",
       "comfort-food",
-      "easy-to-make",
-      "gluten-free",
-      "healthy",
-      "vegetarian",
-      "weeknight"
+      "casserole",
+      "zucchini"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
