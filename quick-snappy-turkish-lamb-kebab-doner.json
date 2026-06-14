@@ -1,0 +1,96 @@
+{
+  "slug": "quick-snappy-turkish-lamb-kebab-doner",
+  "title": "Turkish-Style Doner Kebab",
+  "description": "A traditional Turkish dish made with thinly sliced lamb, served in a crispy sesame-topped bun.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Use a combination of leg and shoulder for best results"
+    },
+    {
+      "name": "Turkish Bread",
+      "amount": "4",
+      "notes": "Also known as Simit, use a crusty bread with sesame seeds"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Use fresh lettuce leaves for garnish"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Use ripe tomatoes for best flavor"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1",
+      "notes": "Use thinly sliced red onion for added flavor"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "Use a neutral-tasting mayonnaise for best results"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Use fresh garlic for best flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Use sweet paprika for added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use coarse salt for best results"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Slice the lamb into thin strips, about 1/4 inch thick.",
+    "In a large bowl, mix together the lamb, garlic, paprika, salt, and black pepper.",
+    "Place the lamb mixture onto a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes, or until the lamb is cooked through.",
+    "While the lamb is cooking, toast the Turkish bread by grilling it for a few minutes on each side.",
+    "Assemble the kebabs by placing a few slices of the lamb onto each bread bun.",
+    "Top each kebab with a lettuce leaf, a tomato slice, a few slices of red onion, and a dollop of mayonnaise.",
+    "Serve immediately and enjoy!",
+    "Note: You can also cook the lamb on a grill or in a skillet on the stovetop if preferred."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "lamb",
+    "turkish",
+    "doner",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-snappy-turkish-lamb-kebab-doner",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:09.162Z"
+}
