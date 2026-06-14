@@ -1,0 +1,90 @@
+{
+  "slug": "quietly-pungent-spanish-wagyu-paella-valenciana",
+  "title": "Wagyu Paella Valenciana",
+  "description": "A traditional Spanish paella dish with wagyu beef and a flavorful broth.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wagyu beef (thin strips)",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Valenciana saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "high-quality saffron threads"
+    },
+    {
+      "name": "Pungent shrimp",
+      "amount": "1 cup",
+      "notes": "chopped shrimp"
+    },
+    {
+      "name": "Quietly cooked chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika and saffron"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the Wagyu beef and cook until browned, about 3-4 minutes.",
+    "Add the paella seasoning and cook for 1 minute.",
+    "Add the chicken broth, shrimp, and diced tomato. Bring to a boil.",
+    "Add the Spanish rice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the rice is cooked.",
+    "Stir in the Valenciana saffron and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "valencia",
+    "beef",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-pungent-spanish-wagyu-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:40:08.186Z"
+}
