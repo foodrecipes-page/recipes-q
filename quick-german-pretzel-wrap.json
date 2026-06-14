@@ -1,0 +1,59 @@
+{
+  "slug": "quick-german-pretzel-wrap",
+  "title": "Quick German Pretzel Wrap",
+  "description": "A delicious and easy-to-make German-inspired wrap filled with soft pretzel dough, savory cheese, and juicy ham.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quick German Pretzel Dough",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Swiss Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Ham",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pretzel dough to a thickness of 1/4 inch.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until lightly browned.",
+    "Meanwhile, cook the ham slices in a pan over medium heat until lightly browned.",
+    "Assemble the wrap by spreading the Swiss cheese on the pretzel dough, followed by the cooked ham.",
+    "Roll up the wrap tightly and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-pretzel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:44:50.198Z"
+}
