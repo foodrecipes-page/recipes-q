@@ -1,0 +1,91 @@
+{
+  "slug": "quick-fluffy-venezuelan-rice-pilaf",
+  "title": "Venezuelan-Style Rice Pilaf",
+  "description": "A flavorful and aromatic rice pilaf infused with the vibrant spirit of Venezuela, perfect for a quick and delicious meal.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "quick fluffy venezuelan rice",
+      "amount": "1 cup",
+      "notes": "can use leftover or day-old rice"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "hot water is best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "any neutral-tasting oil works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional for added flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked or sweet, whichever you prefer"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add cumin and paprika; cook for 1 minute, stirring constantly.",
+    "Add rice and stir to coat with oil and mix with spices.",
+    "Add hot water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until rice is tender and liquid is absorbed.",
+    "Fluff the rice pilaf with a fork and stir in soy sauce, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin-american",
+    "rice",
+    "pilaf",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fluffy-venezuelan-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T06:55:13.400Z"
+}
