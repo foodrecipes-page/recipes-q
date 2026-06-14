@@ -1,0 +1,56 @@
+{
+  "slug": "quenched-spicy-slovakian-tiger-prawns-skewers",
+  "title": "Slovakian Spicy Prawn Skewers",
+  "description": "A simple and flavorful Slovakian-inspired dish, perfect for a quick weeknight dinner. Marinate prawns in a spicy mixture and grill to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "slovakian spicy marinade",
+      "amount": "1/2 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "tiger skewers",
+      "amount": "10-12",
+      "notes": "wooden or metal, depending on preference"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Slovakian spicy marinade ingredients.",
+    "2. Add prawns to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread marinated prawns onto tiger skewers.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until prawns are pink and cooked through.",
+    "6. Serve immediately, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "spicy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-spicy-slovakian-tiger-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T02:27:14.727Z"
+}
