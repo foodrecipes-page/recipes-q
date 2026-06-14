@@ -1,0 +1,85 @@
+{
+  "slug": "quaintly-roasted-italian-vegetable-ribollita",
+  "title": "Hearty Ribollita Soup",
+  "description": "A traditional Italian soup made with vegetables and bread, perfect for a cold day.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cannellini beans, drained and rinsed",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 large",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "carrots, chopped",
+      "amount": "2 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "celery, chopped",
+      "amount": "2 stalks",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "cubed bread, preferably day-old",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kale, chopped",
+      "amount": "1 bunch",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "ribollita, homemade or store-bought",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the vegetable broth, cannellini beans, and cubed bread. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the chopped kale and ribollita. Cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste. Serve hot, topped with grated Parmesan cheese if desired.",
+    "Note: Traditionally, ribollita is made with leftover bread and vegetables, so feel free to get creative with the ingredients!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-roasted-italian-vegetable-ribollita",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:01:35.827Z"
+}
