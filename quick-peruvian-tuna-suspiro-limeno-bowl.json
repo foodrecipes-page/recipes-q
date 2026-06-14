@@ -1,0 +1,85 @@
+{
+  "slug": "quick-peruvian-tuna-suspiro-limeno-bowl",
+  "title": "Peruvian Tuna Bowl",
+  "description": "A flavorful and healthy Peruvian-inspired bowl dish featuring seared tuna and a variety of vibrant ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tuna Steaks",
+      "amount": "4",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "Quick Lima Beans",
+      "amount": "1 cup",
+      "notes": "Canned or cooked"
+    },
+    {
+      "name": "Suspiro Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Peruvian Corn Kernels",
+      "amount": "1/2 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For searing tuna"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the tuna steaks with salt and pepper.",
+    "3. Sear the tuna for 2-3 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Meanwhile, heat the olive oil in a large skillet over medium heat.",
+    "5. Add the sliced red onion and cook for 2-3 minutes, or until softened.",
+    "6. Stir in the cooked lima beans, Peruvian corn kernels, and chopped cilantro.",
+    "7. Squeeze the lime juice over the top and stir to combine.",
+    "8. To assemble the bowls, place a cooked tuna steak on top of the bean mixture.",
+    "9. Drizzle the Suspiro sauce over the top and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-peruvian-tuna-suspiro-limeno-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:48:35.423Z"
+}
