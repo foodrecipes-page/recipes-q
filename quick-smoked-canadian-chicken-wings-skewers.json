@@ -1,0 +1,79 @@
+{
+  "slug": "quick-smoked-canadian-chicken-wings-skewers",
+  "title": "Smoked Chicken Wings",
+  "description": "A simple and delicious recipe for smoked chicken wings that's perfect for a barbecue. The combination of smoked and quick-cooked wings creates a mouth-watering flavor.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "quick barbecue sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your smoker to 225°F (110°C).",
+    "In a small bowl, mix together smoked paprika, brown sugar, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken wings.",
+    "Place the wings in the smoker, close the lid, and smoke for 2 hours.",
+    "After 2 hours, increase the temperature to 300°F (150°C) and continue to cook for an additional 30 minutes.",
+    "While the wings are cooking, heat the quick barbecue sauce in a saucepan over medium heat.",
+    "Once the wings are done, toss them in the barbecue sauce until they're fully coated.",
+    "Serve the smoked chicken wings hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 210,
+  "totalTimeMin": 220,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "chicken",
+    "wings",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-canadian-chicken-wings-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:24.425Z"
+}
