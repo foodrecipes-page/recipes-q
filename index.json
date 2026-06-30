@@ -2552,17 +2552,16 @@
   },
   {
     "slug": "quenched-egyptian-dishes-tagine",
-    "title": "Quenched Egyptian Tagine",
+    "title": "Egyptian Chicken Tagine",
     "tags": [
-      "egyptian",
-      "high-protein",
-      "keto",
-      "one-pan",
+      "chicken",
       "tagine",
-      "weeknight"
+      "north-african",
+      "couscous",
+      "arabic"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -7716,17 +7715,17 @@
   },
   {
     "slug": "quick-fix-rich-filipino-egg-bake",
-    "title": "Quick-Fix Rich Filipino Egg Bake",
+    "title": "Filipino-Style Egg Bake",
     "tags": [
-      "breakfast",
-      "cheesy",
-      "easy-meals",
       "filipino",
-      "one-pan",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "eggs",
+      "sausage",
+      "cheese"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -8250,18 +8249,15 @@
   },
   {
     "slug": "quick-fix-wilted-norwegian-pork-tacos",
-    "title": "Quick-Fix Wilted Norwegian Pork Tacos",
+    "title": "Norwegian Tacos",
     "tags": [
-      "fun",
-      "funky",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "vegan-friendly",
-      "weeknight"
+      "tacos",
+      "norwegian",
+      "pork",
+      "cabbage"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
