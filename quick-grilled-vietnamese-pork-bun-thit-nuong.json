@@ -1,0 +1,87 @@
+{
+  "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong",
+  "title": "Vietnamese Pork Bun",
+  "description": "A popular Vietnamese street food featuring grilled pork, fresh herbs, and crunchy pickled vegetables served in a soft bun.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bun (Vietnamese baguette)",
+      "amount": "4-6",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pickled carrots and daikon",
+      "amount": "1/2 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "sriracha mayo",
+      "amount": "1/4 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons",
+      "notes": "see note"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "see note"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "cucumber slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork with salt, pepper, and fish sauce.",
+    "Grill pork for 5-7 minutes per side, or until cooked through.",
+    "Let pork rest for 5 minutes before slicing.",
+    "Split buns in half and toast until lightly browned.",
+    "Assemble buns with sliced pork, fresh herbs, pickled carrots and daikon, sriracha mayo, and cucumber slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "bun"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-vietnamese-pork-bun-thit-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:02:38.137Z"
+}
