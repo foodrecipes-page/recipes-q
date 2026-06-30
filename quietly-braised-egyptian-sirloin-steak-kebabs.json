@@ -1,0 +1,76 @@
+{
+  "slug": "quietly-braised-egyptian-sirloin-steak-kebabs",
+  "title": "Sirloin Steak with Egyptian Spice",
+  "description": "A flavorful and tender sirloin steak recipe with a hint of Egyptian spices. Pair it with a side of braised vegetables for a well-rounded meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1.5 lbs",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Egyptian Spice Blend",
+      "amount": "2 tbsp",
+      "notes": "combine paprika, cumin, coriander, cinnamon, and cayenne pepper"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Braised Vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, bell peppers, and potatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the Egyptian Spice Blend and olive oil.",
+    "Rub the spice mixture all over the sirloin steak, making sure to coat it evenly.",
+    "Heat a skillet over medium-high heat and sear the steak for 2-3 minutes per side.",
+    "Transfer the steak to a baking sheet and bake in the oven for 10-12 minutes or until it reaches your desired level of doneness.",
+    "While the steak is cooking, heat some oil in a separate pan and sauté the chopped onion and garlic until softened.",
+    "Add the braised vegetables to the pan and cook for an additional 5-7 minutes or until they're tender.",
+    "Remove the steak from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the sliced steak with the braised vegetables and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sirloin",
+    "steak",
+    "egyptian",
+    "spices",
+    "braised",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-braised-egyptian-sirloin-steak-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:23:34.643Z"
+}
