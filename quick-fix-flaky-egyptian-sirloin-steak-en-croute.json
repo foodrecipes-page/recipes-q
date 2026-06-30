@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-flaky-egyptian-sirloin-steak-en-croute",
+  "title": "Egyptian Beef Sirloin Steak Croute",
+  "description": "A flavorful and easy-to-make dish that combines the tenderness of beef sirloin steak with the crunch of Egyptian puffed pastry croute.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1 (6 oz) piece",
+      "notes": ""
+    },
+    {
+      "name": "Croute (Egyptian Puffed Pastry)",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Quick Fix Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Flaky Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "En Papillote (Parchment Paper)",
+      "amount": "1 sheet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the sirloin steak with Flaky Salt and Quick Fix Spice Blend.",
+    "Heat olive oil in a skillet over medium-high heat. Sear the steak for 2-3 minutes per side.",
+    "Transfer the steak to a baking sheet lined with parchment paper.",
+    "Bake the steak in the preheated oven for 8-10 minutes or until it reaches your desired level of doneness.",
+    "While the steak is cooking, roll out the Egyptian puffed pastry croute to a large rectangle.",
+    "Once the steak is done, remove it from the oven and let it rest for a few minutes.",
+    "Place the croute on top of the steak and bake for an additional 2-3 minutes or until the croute is golden brown.",
+    "Remove the steak from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "steak",
+    "egyptian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-flaky-egyptian-sirloin-steak-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:26:19.308Z"
+}
