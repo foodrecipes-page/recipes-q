@@ -1,0 +1,72 @@
+{
+  "slug": "quick-fix-rich-filipino-egg-bake",
+  "title": "Filipino-Style Egg Bake",
+  "description": "A rich and savory egg dish inspired by Filipino cuisine, perfect for breakfast or brunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "egg",
+    "bake"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "Filipino",
+      "amount": "2 tbsp",
+      "notes": "Filipino-style seasoning blend"
+    },
+    {
+      "name": "Quick",
+      "amount": "1 cup",
+      "notes": "Quick-cooking sausage, sliced"
+    },
+    {
+      "name": "Fix",
+      "amount": "1 cup",
+      "notes": "Diced bell peppers"
+    },
+    {
+      "name": "Rich",
+      "amount": "1 cup",
+      "notes": "Shredded cheddar cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sliced sausage over medium heat until browned.",
+    "Add the diced bell peppers to the skillet and cook until tender.",
+    "In a separate bowl, whisk together the eggs and Filipino-style seasoning blend.",
+    "Pour the egg mixture over the cooked sausage and bell peppers in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set.",
+    "Remove the skillet from the oven and top with shredded cheddar cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and slice into serving portions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "breakfast",
+    "brunch",
+    "eggs",
+    "sausage",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-rich-filipino-egg-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:09:35.986Z"
+}
