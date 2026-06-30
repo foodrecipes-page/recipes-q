@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-simmered-korean-pork-stew",
+  "title": "Korean Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and a sweet and spicy Korean-inspired sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the gochujang, soy sauce, and brown sugar and stir to combine.",
+    "Add 2 cups of water and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Stir in the green onions and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "stew",
+    "slow cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-simmered-korean-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T01:50:25.083Z"
+}
