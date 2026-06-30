@@ -9329,15 +9329,14 @@
   },
   {
     "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong",
-    "title": "Quick Grilled Vietnamese Pork Bun Thit Nuong",
+    "title": "Vietnamese Pork Bun",
     "tags": [
-      "gluten-free",
-      "grilled-pork",
-      "kid-friendly",
-      "quick-meal",
-      "vietnamese-food"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "bun"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 35,
     "shard": "q"
   },
@@ -15413,18 +15412,15 @@
   },
   {
     "slug": "quietly-quenched-ethiopian-chicken-doro-wot",
-    "title": "Quietly Quenched Ethiopian Chicken Doro Wot",
+    "title": "Ethiopian Chicken Doro Wot",
     "tags": [
-      "chicken-recipes",
-      "ethiopian-cuisine",
-      "fermented-foods",
-      "nigiri-inspired",
-      "ti-leaf-recipes",
-      "vanilla-custard",
-      "whole30"
+      "chicken",
+      "ethiopian",
+      "stew",
+      "wot"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16038,17 +16034,15 @@
   },
   {
     "slug": "quietly-simmered-korean-pork-stew",
-    "title": "Quietly Simmered Korean Pork Stew",
+    "title": "Korean Pork Stew",
     "tags": [
-      "gluten-free",
-      "korean-food",
-      "lazy-sunday",
-      "pork-recipes",
+      "korean",
+      "pork",
       "stew",
-      "whole30"
+      "slow cooker"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 140,
+    "cuisine": "Asian",
+    "totalTimeMin": 105,
     "shard": "q"
   },
   {
