@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-silky-venezuelan-red-potatoes-casseroles",
+  "title": "Venezuelan Casserole",
+  "description": "A delicious Venezuelan-inspired casserole made with tender potatoes and a hint of red peppers.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red peppers",
+      "amount": "2",
+      "notes": "Any color will do, but red adds a nice touch"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "You can use any variety, but Russet works best"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Silky, caramelized onions are key"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced, of course"
+    },
+    {
+      "name": "Quietly",
+      "amount": "1 tsp",
+      "notes": "A pinch of salt to bring out the flavors"
+    },
+    {
+      "name": "Venezuelan seasoning",
+      "amount": "1 tsp",
+      "notes": "A mix of spices commonly used in Venezuelan cuisine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and dice the potatoes, then boil them in salted water until tender.",
+    "While the potatoes cook, caramelize the onions by cooking them in a pan over low heat for about 20 minutes.",
+    "Mince the garlic and sauté it with the onions until fragrant.",
+    "Add the diced red peppers to the pan and cook for another 5 minutes.",
+    "Drain the potatoes and mash them in a bowl with a fork.",
+    "Add the cooked onion and pepper mixture to the mashed potatoes and mix well.",
+    "Stir in the Venezuelan seasoning and quietly (a pinch of salt).",
+    "Transfer the mixture to a casserole dish and top with additional cheese or breadcrumbs if desired.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "potatoes",
+    "casserole",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-silky-venezuelan-red-potatoes-casseroles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:10:45.977Z"
+}
