@@ -1,0 +1,92 @@
+{
+  "slug": "quintessential-gooey-syrian-seafood-tagine",
+  "title": "Seafood Tagine",
+  "description": "A hearty seafood stew originating from North Africa, made with a blend of spices and quintessential tagine flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Mussels",
+      "amount": "1 cup",
+      "notes": "De-shelled and scrubbed"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 cup",
+      "notes": "De-shelled and scrubbed"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Quintessential tagine spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Seafood broth",
+      "amount": "2 cups",
+      "notes": "Chicken or vegetable broth can be substituted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large, heavy pot over medium heat.",
+    "Add the onions, ginger, and garlic and cook until the onions are translucent.",
+    "Add the fish, mussels, clams, and seafood broth to the pot.",
+    "Stir in the quintessential tagine spice mix and bring to a boil.",
+    "Reduce heat to low, cover the pot, and simmer for 10-15 minutes, or until the seafood is cooked through.",
+    "Stir in the lemon juice and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-gooey-syrian-seafood-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:29.593Z"
+}
