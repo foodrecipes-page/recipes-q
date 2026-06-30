@@ -11890,18 +11890,15 @@
   },
   {
     "slug": "quick-smoked-canadian-chicken-wings-skewers",
-    "title": "Quick Smoked Canadian Chicken Wings Skewers",
+    "title": "Smoked Chicken Wings",
     "tags": [
-      "canadian",
-      "grilled",
-      "high-protein",
-      "low-calorie",
-      "post-workout",
-      "quick",
-      "smoked"
+      "smoked",
+      "chicken",
+      "wings",
+      "barbecue"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 220,
     "shard": "q"
   },
   {
@@ -16926,17 +16923,14 @@
   },
   {
     "slug": "quintessential-gooey-syrian-seafood-tagine",
-    "title": "Quintessential Gooey Syrian Seafood Tagine",
+    "title": "Seafood Tagine",
     "tags": [
-      "indulgent",
-      "one-pot",
       "seafood",
-      "syrian",
-      "tagine",
-      "wok-hei"
+      "north-african",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
