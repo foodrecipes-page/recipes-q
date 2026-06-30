@@ -1,0 +1,82 @@
+{
+  "slug": "quality-chewy-ukrainian-bread-sandwich",
+  "title": "Ukrainian-Style Open-Faced Sandwich",
+  "description": "A hearty, open-faced sandwich filled with juicy meat and topped with a fried egg, inspired by Ukrainian cuisine.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quality pork sausage",
+      "amount": "1 pound",
+      "notes": "use a Ukrainian-style sausage if available"
+    },
+    {
+      "name": "chewy rye bread",
+      "amount": "4 slices",
+      "notes": "preferably a dense, dark rye"
+    },
+    {
+      "name": "sandwich",
+      "amount": "4 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "large egg",
+      "amount": "2",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Cook the sausage in the skillet, breaking it up with a spoon as it cooks, until browned and cooked through.",
+    "Add the sliced onion to the skillet and cook until softened and caramelized.",
+    "Butter four slices of rye bread.",
+    "To assemble the sandwiches, place a slice of bread on a plate, top with a cooked sausage patty, a spoonful of onion, and a fried egg.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "breakfast",
+    "sandwich"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-chewy-ukrainian-bread-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:46:03.824Z"
+}
