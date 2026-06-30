@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-roasted-canadian-chicken-roast",
+  "title": "Roasted Chicken Breast with Canadian Roast Vegetables",
+  "description": "A simple and flavorful dish that pairs roasted chicken with roasted vegetables.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 boneless, skinless chicken breasts",
+      "amount": "1.5-2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "2 Canadian roast potatoes",
+      "amount": "1.5-2 lbs",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "2 quietly roasted carrots",
+      "amount": "4-6",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "1 quietly roasted parsnip",
+      "amount": "2-3",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken breasts with thyme, salt, and pepper.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat. Sear the chicken breasts until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 15-20 minutes, or until cooked through.",
+    "Toss the potatoes, carrots, and parsnip with olive oil, salt, and pepper on a baking sheet. Spread them out in a single layer and roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove the chicken and vegetables from the oven and let rest for 5 minutes.",
+    "Serve the roasted chicken with the roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "roasted",
+    "chicken",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-roasted-canadian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:41:18.140Z"
+}
