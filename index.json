@@ -1264,16 +1264,15 @@
   },
   {
     "slug": "quaint-spanish-tomatoes-pa-amb-tomaquet",
-    "title": "Quaint Spanish Tomatoes Pa Amb Tomaquet",
+    "title": "Spanish Gazpacho",
     "tags": [
-      "chimichurri-sauce",
-      "romantic-dinner",
-      "spanish-cuisine",
-      "stone-bowl-recipe",
-      "vegetarian-friendly"
+      "soup",
+      "cold",
+      "summer",
+      "gazpacho"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
