@@ -1821,16 +1821,14 @@
   },
   {
     "slug": "quality-chewy-ukrainian-bread-sandwich",
-    "title": "Ukrainian Chewy Bread Sandwich",
+    "title": "Ukrainian-Style Open-Faced Sandwich",
     "tags": [
-      "low-calorie",
-      "post-workout",
-      "sandwich",
-      "snack",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "breakfast",
+      "sandwich"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -14125,17 +14123,17 @@
   },
   {
     "slug": "quietly-braised-egyptian-sirloin-steak-kebabs",
-    "title": "Quietly Braised Egyptian Sirloin Steak Kebabs",
+    "title": "Sirloin Steak with Egyptian Spice",
     "tags": [
-      "chocolate-infused",
-      "high-protein",
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "sirloin",
+      "steak",
+      "egyptian",
+      "spices",
+      "braised",
+      "vegetables"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -15944,18 +15942,16 @@
   },
   {
     "slug": "quietly-silky-venezuelan-red-potatoes-casseroles",
-    "title": "Quietly Silky Venezuelan Red Potatoes Casseroles",
+    "title": "Venezuelan Casserole",
     "tags": [
-      "date-night",
-      "fermented",
+      "vegan",
       "gluten-free",
-      "romantic-dinner",
-      "silky",
-      "vegetarian",
+      "potatoes",
+      "casserole",
       "venezuelan"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 95,
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
