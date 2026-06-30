@@ -8813,17 +8813,17 @@
   },
   {
     "slug": "quick-german-blackcurrant-crumble",
-    "title": "Quick German Blackcurrant Crumble",
+    "title": "Blackcurrant Crumble",
     "tags": [
-      "crowd-pleasers",
-      "easy-desserts",
-      "fruit-crumble",
-      "german-recipes",
-      "quick-desserts",
-      "tagine-cooking"
+      "blackcurrant",
+      "crumble",
+      "german",
+      "dessert",
+      "summer",
+      "veggie-friendly"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -15770,17 +15770,14 @@
   },
   {
     "slug": "quietly-roasted-canadian-chicken-roast",
-    "title": "Quietly Roasted Canadian Chicken Roast",
+    "title": "Roasted Chicken Breast with Canadian Roast Vegetables",
     "tags": [
-      "canadian-cuisine",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "roasted-chicken",
-      "weeknight"
+      "roasted",
+      "chicken",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": "North American",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16762,16 +16759,14 @@
   },
   {
     "slug": "quietly-yeasty-indian-hake-pie",
-    "title": "Quietly Yeasty Indian Hake Pie",
+    "title": "Baked Hake Pie",
     "tags": [
-      "fish-based",
-      "indian-cuisine",
-      "one-dish",
-      "shojin-friendly",
-      "yeast-dough"
+      "indian",
+      "seafood",
+      "pie"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
