@@ -1,0 +1,76 @@
+{
+  "slug": "quaint-spanish-tomatoes-pa-amb-tomaquet",
+  "title": "Spanish Gazpacho",
+  "description": "Refreshing cold soup originating from Andalusia, made with tomatoes and other vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 lbs",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "quaint",
+      "amount": "1/4 cup",
+      "notes": "bread, crust removed and torn into small pieces"
+    },
+    {
+      "name": "pa",
+      "amount": "1/2 cup",
+      "notes": "bread, crust removed and torn into small pieces"
+    },
+    {
+      "name": "amb",
+      "amount": "1/4 cup",
+      "notes": "red wine vinegar, or to taste"
+    },
+    {
+      "name": "tomaquet",
+      "amount": "1/2 cup",
+      "notes": "canned or fresh, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "add to desired consistency"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, puree the tomatoes, quaint, pa, amb, and tomaquet until smooth.",
+    "2. With the blender or food processor running, slowly pour in the water until the desired consistency is reached.",
+    "3. Taste and adjust the seasoning as needed.",
+    "4. Chill the gazpacho in the refrigerator for at least 30 minutes before serving.",
+    "5. Serve cold, garnished with olive oil and crusty bread if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "cold",
+    "summer",
+    "gazpacho"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-spanish-tomatoes-pa-amb-tomaquet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:29.494Z"
+}
