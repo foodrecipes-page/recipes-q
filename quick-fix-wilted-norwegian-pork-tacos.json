@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-wilted-norwegian-pork-tacos",
+  "title": "Norwegian Tacos",
+  "description": "A fusion of Norwegian and Mexican cuisine, these tacos are a unique twist on traditional tacos. With the addition of pork and Norwegian flavors, this dish is sure to be a hit.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Lap desk Norwegian flatbread (or substitute with corn tortillas)",
+      "amount": "8-10 tortillas",
+      "notes": null
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1/2 head",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Quick fix taco seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Fixings (cheese, lettuce, tomatoes, etc.)",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the pork over medium-high heat until browned.",
+    "Add the taco seasoning and cook for an additional 1-2 minutes.",
+    "Add the cabbage to the skillet and cook until wilted.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the pork mixture onto the tortillas and topping with fixings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "norwegian",
+    "pork",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-wilted-norwegian-pork-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:59.848Z"
+}
