@@ -6320,13 +6320,12 @@
   },
   {
     "slug": "quick-dense-moroccan-beef-mechoui",
-    "title": "Quick-Dense Moroccan Beef Mechoui",
+    "title": "Moroccan Mechoui Beef Tagine",
     "tags": [
-      "beef",
-      "mechoui",
       "moroccan",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "stew",
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 170,
@@ -6971,19 +6970,14 @@
   },
   {
     "slug": "quick-fix-crispy-peruvian-potato-papa-rellena",
-    "title": "Quick-Fix Crispy Peruvian Potato Papa Rellena",
+    "title": "Peruvian Stuffed Potato (Papa Rellena)",
     "tags": [
-      "coconut-cream-crack",
-      "crispy",
-      "easy-to-make",
-      "lacto-vegetarian",
-      "one-pan",
       "peruvian",
-      "tamarind-based",
-      "weeknight"
+      "stuffed-potatoes",
+      "papa-rellena"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
@@ -13013,17 +13007,15 @@
   },
   {
     "slug": "quick-venezuelan-cheese-quesadilla",
-    "title": "Quick Venezuelan Cheese Quesadilla",
+    "title": "Venezuelan Quesadilla",
     "tags": [
       "quesadilla",
-      "quick-fix",
-      "snack",
-      "vegan",
       "venezuelan",
-      "weeknight"
+      "cheesy",
+      "easy"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 13,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
