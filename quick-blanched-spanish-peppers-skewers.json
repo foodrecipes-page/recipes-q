@@ -1,0 +1,71 @@
+{
+  "slug": "quick-blanched-spanish-peppers-skewers",
+  "title": "Grilled Pepper Skewers",
+  "description": "A simple and flavorful recipe featuring grilled pepper skewers with a hint of Spanish spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spanish olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "quick onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread bell peppers, olives, and onions onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, or until peppers are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "grilled",
+    "peppers",
+    "skewers",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-blanched-spanish-peppers-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:33:58.844Z"
+}
