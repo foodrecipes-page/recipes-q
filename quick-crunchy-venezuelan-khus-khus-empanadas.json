@@ -1,0 +1,75 @@
+{
+  "slug": "quick-crunchy-venezuelan-khus-khus-empanadas",
+  "title": "Venezuelan Empanada Stuffed with Khus and Crunchy Filling",
+  "description": "A twist on traditional empanadas, these Venezuelan-style pastries are filled with a crunchy khus and cheese mixture.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough (Homemade or store-bought)",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Khus seeds",
+      "amount": "1/2 cup",
+      "notes": "Rooibos tea substitute"
+    },
+    {
+      "name": "Venezuelan cheese (Queso Venezolano)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crushed crunchy snack",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough, and cut out circles.",
+    "Mix khus seeds, cheese, crushed crunchy snack, butter, and salt in a bowl.",
+    "Place a spoonful of the khus mixture onto one half of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, and press the edges together to seal.",
+    "Brush the tops with a little water, and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-venezuelan-khus-khus-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:06:35.341Z"
+}
