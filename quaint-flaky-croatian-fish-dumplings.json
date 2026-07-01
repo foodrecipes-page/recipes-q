@@ -1,0 +1,89 @@
+{
+  "slug": "quaint-flaky-croatian-fish-dumplings",
+  "title": "Pan-Seared Fish with Dumplings",
+  "description": "A simple and flavorful dish from the Mediterranean region, featuring fish and dumplings in a delicate broth.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Croatian)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Quaint Dumplings",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Flaky Pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fish Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the fish with salt and pepper.",
+    "3. Heat the olive oil in a skillet over medium-high heat.",
+    "4. Sear the fish for 2-3 minutes on each side, until cooked through.",
+    "5. Transfer the fish to a baking dish and bake in the oven for 5-7 minutes.",
+    "6. Meanwhile, prepare the dumplings according to package instructions.",
+    "7. In a separate skillet, heat the fish broth over medium heat.",
+    "8. Add the garlic, lemon juice, and a pinch of salt and pepper to the broth.",
+    "9. Simmer the broth for 2-3 minutes, until heated through.",
+    "10. To serve, place the fish on a plate and top with a dumpling and a spoonful of the broth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "mediterranean",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-flaky-croatian-fish-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:45:21.301Z"
+}
