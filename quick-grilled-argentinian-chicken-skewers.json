@@ -1,0 +1,84 @@
+{
+  "slug": "quick-grilled-argentinian-chicken-skewers",
+  "title": "Grilled Argentinian Chicken Skewers",
+  "description": "A flavorful and spicy recipe for grilled chicken skewers inspired by Argentinian cuisine. Marinated in a mixture of olive oil, garlic, and chimichurri sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, chimichurri sauce, garlic, red pepper flakes, salt, and black pepper.",
+    "Add chicken pieces to the bowl and toss to coat with the marinade for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Transfer skewers to a plate and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-argentinian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:08:26.638Z"
+}
