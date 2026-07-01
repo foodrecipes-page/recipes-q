@@ -1,0 +1,78 @@
+{
+  "slug": "quick-earthy-portuguese-oats-stir-fry",
+  "title": "Portuguese Stir Fry with Oats",
+  "description": "A hearty and earthy Portuguese-inspired stir fry with oats and a variety of vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Quick-cooking lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add mixed vegetables and cook until tender, about 5-7 minutes.",
+    "Add lentils, tomato paste, and stir-fry sauce. Stir to combine.",
+    "Bring to a simmer and cook for 5-7 minutes, or until the lentils are tender.",
+    "Stir in oats and cook for an additional 2-3 minutes, or until heated through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "lentils",
+    "oats",
+    "stir-fry",
+    "vegan"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-earthy-portuguese-oats-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:09.868Z"
+}
