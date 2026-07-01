@@ -1,0 +1,71 @@
+{
+  "slug": "quietly-quenched-venezuelan-tofu-salad",
+  "title": "Venezuelan Quenched Tofu Salad",
+  "description": "A refreshing salad inspired by Venezuelan flavors, featuring marinated tofu and a zesty dressing.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "quietly cooked quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "diced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "diced cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan vinaigrette (see below)",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Marinate tofu in a mixture of 1 tbsp olive oil, 1 tbsp lime juice, and 1 tsp cumin for at least 30 minutes.",
+    "Grill or pan-fry tofu until golden brown and cooked through.",
+    "In a large bowl, combine cooked quinoa, diced red onion, diced cucumber, and chopped cilantro.",
+    "Add marinated tofu to the bowl and toss to combine.",
+    "Drizzle Venezuelan vinaigrette over the salad and toss to coat.",
+    "Serve immediately and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie",
+    "salad",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-venezuelan-tofu-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:07:04.246Z"
+}
