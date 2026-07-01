@@ -1,0 +1,93 @@
+{
+  "slug": "quick-fix-crispy-peruvian-potato-papa-rellena",
+  "title": "Peruvian Stuffed Potato (Papa Rellena)",
+  "description": "A traditional Peruvian dish made by stuffing a crispy potato shell with a savory meat and vegetable mixture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potato (Papa)",
+      "amount": "2 large",
+      "notes": "For the potato shells"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "Optional, can be replaced with vegetables for a vegetarian option"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For the filling"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "For frying the potatoes"
+    }
+  ],
+  "instructions": [
+    "Bake the potatoes at 400°F (200°C) for 45-60 minutes, or until they're soft.",
+    "Let the potatoes cool, then slice them in half lengthwise and scoop out the flesh, leaving a shell about 1/4 inch thick.",
+    "In a pan, heat the butter over medium heat and cook the onion, garlic, and tomato until the onion is translucent.",
+    "Add the ground beef (if using) and cook until it's browned, breaking it up with a spoon as it cooks.",
+    "Add the cumin, chili powder (if using), salt, and pepper, and stir to combine.",
+    "Scoop the meat and vegetable mixture into the potato shells, dividing it evenly among the four potatoes.",
+    "Place the stuffed potatoes on a baking sheet and bake at 375°F (190°C) for 20-25 minutes, or until the potatoes are crispy and golden brown.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-potatoes",
+    "papa-rellena"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-crispy-peruvian-potato-papa-rellena",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:38:39.555Z"
+}
