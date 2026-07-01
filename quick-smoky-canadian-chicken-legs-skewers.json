@@ -1,0 +1,56 @@
+{
+  "slug": "quick-smoky-canadian-chicken-legs-skewers",
+  "title": "Smoky Chicken Skewers",
+  "description": "Grilled chicken skewers with a smoky flavor, inspired by Canadian BBQ styles. Quick and easy to make, perfect for a summer evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "quick skewers",
+      "amount": "10 count",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "smoky seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a small bowl, mix smoky seasoning with a pinch of salt and pepper.",
+    "Thread chicken legs onto skewers, leaving a small space between each piece.",
+    "Brush skewers with the smoky seasoning mixture, making sure to coat all the chicken evenly.",
+    "Grill skewers for 12-15 minutes, turning occasionally, until the chicken reaches an internal temperature of 165°F (74°C).",
+    "Once cooked, let the skewers rest for 2-3 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bbq",
+    "grilled",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-canadian-chicken-legs-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:39:12.081Z"
+}
