@@ -6385,18 +6385,16 @@
   },
   {
     "slug": "quick-earthy-portuguese-oats-stir-fry",
-    "title": "Quick Earthy Portuguese Oats Stir Fry",
+    "title": "Portuguese Stir Fry with Oats",
     "tags": [
-      "easy-meal",
-      "fodmap-friendly",
-      "oats",
       "portuguese",
-      "post-workout",
+      "lentils",
+      "oats",
       "stir-fry",
-      "vegetarian"
+      "vegan"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "portuguese",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8016,14 +8014,14 @@
   },
   {
     "slug": "quick-fix-spanish-pimiento-stir-fry",
-    "title": "Quick-Fix Spanish Pimiento Stir-fry",
+    "title": "Spanish Pimiento Stir Fry",
     "tags": [
-      "pimiento",
+      "spanish",
       "stir-fry",
-      "vegetarian"
+      "quick-cooking"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 15,
+    "cuisine": "spanish",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -15552,17 +15550,14 @@
   },
   {
     "slug": "quietly-quenched-venezuelan-tofu-salad",
-    "title": "Quietly Quenched Venezuelan Tofu Salad",
+    "title": "Venezuelan Quenched Tofu Salad",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "light-lunch",
-      "mason-jar",
-      "ovo-vegetarian",
-      "venezuelan-cuisine"
+      "veggie",
+      "salad",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
