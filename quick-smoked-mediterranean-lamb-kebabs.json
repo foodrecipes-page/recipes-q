@@ -1,0 +1,77 @@
+{
+  "slug": "quick-smoked-mediterranean-lamb-kebabs",
+  "title": "Smoked Lamb Kebabs",
+  "description": "Tender lamb skewers marinated in a smoky blend of spices and grilled to perfection. Perfect for a summer evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably with the fat still intact"
+    },
+    {
+      "name": "Quick kebab spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or more as needed"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, but adds a nice depth of flavor"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the kebab spice blend, olive oil, smoked paprika, garlic, lemon juice, and salt.",
+    "Add the lamb pieces to the marinade and toss to coat.",
+    "Let the lamb marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the lamb pieces onto the skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb reaches an internal temperature of 145°F.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve with your favorite sides, such as grilled vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:46:43.886Z"
+}
