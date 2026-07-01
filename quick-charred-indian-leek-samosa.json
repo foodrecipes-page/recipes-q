@@ -1,0 +1,72 @@
+{
+  "slug": "quick-charred-indian-leek-samosa",
+  "title": "Charred Leek Samosas",
+  "description": "A twist on the classic Indian samosa, this recipe incorporates the sweet and smoky flavor of charred leeks. Quick to make and delicious to eat.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Leeks",
+      "amount": "2",
+      "notes": "Charred"
+    },
+    {
+      "name": "Quick Indian Flatbread",
+      "amount": "8-10 pieces",
+      "notes": "For serving"
+    },
+    {
+      "name": "Samosa Pastry",
+      "amount": "1 package",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 425°F (220°C).",
+    "2. Trim the leeks and place them on a baking sheet. Drizzle with oil and season with salt. Roast in the oven for 20-25 minutes, or until charred and caramelized.",
+    "3. Meanwhile, prepare the samosa filling by mixing together the cilantro and garam masala.",
+    "4. Once the leeks are done, let them cool slightly. Then, chop them into small pieces and add them to the filling mixture. Mix well.",
+    "5. Assemble the samosas by placing a tablespoon of the filling mixture onto the center of a samosa pastry square. Brush the edges with water and fold the pastry into a triangle, pressing the edges to seal.",
+    "6. Brush the tops of the samosas with oil and place them on a baking sheet. Bake in the oven for 15-20 minutes, or until crispy and golden brown.",
+    "7. Serve the samosas warm with a side of quick Indian flatbread for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-indian-leek-samosa",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:27:08.587Z"
+}
