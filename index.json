@@ -6214,16 +6214,13 @@
   },
   {
     "slug": "quick-crunchy-venezuelan-khus-khus-empanadas",
-    "title": "Quick Crunchy Venezuelan Khus Khus Empanadas",
+    "title": "Venezuelan Empanada Stuffed with Khus and Crunchy Filling",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "romantic-dish",
-      "snack-food",
-      "venezuelan-cuisine"
+      "snack",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -9113,17 +9110,15 @@
   },
   {
     "slug": "quick-grilled-argentinian-chicken-skewers",
-    "title": "Quick Grilled Argentinian Chicken Skewers",
+    "title": "Grilled Argentinian Chicken Skewers",
     "tags": [
-      "argentinian-cuisine",
-      "dutch-oven",
-      "gluten-free",
-      "grilled-chicken",
-      "low-carb",
-      "quick-meal"
+      "argentinian",
+      "grilled",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 32,
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -11897,17 +11892,14 @@
   },
   {
     "slug": "quick-smoked-mediterranean-lamb-kebabs",
-    "title": "Quick Smoked Mediterranean Lamb Kebabs",
+    "title": "Smoked Lamb Kebabs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "mediterranean-cuisine",
-      "quick-dinner",
-      "smoked-flavor"
+      "lamb",
+      "kebabs",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "q"
   },
   {
@@ -14586,17 +14578,15 @@
   },
   {
     "slug": "quietly-crunchy-mediterranean-eggplant-skewers",
-    "title": "Quietly Crunchy Mediterranean Eggplant Skewers",
+    "title": "Grilled Mediterranean Eggplant Skewers",
     "tags": [
-      "eggplant",
-      "feta-cheese",
-      "lacto-vegetarian",
       "mediterranean",
-      "romantic-dinner",
-      "skewers"
+      "vegetarian",
+      "grilled",
+      "eggplant"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
