@@ -1,0 +1,86 @@
+{
+  "slug": "quick-grilled-japanese-chicken-katsu",
+  "title": "Japanese Chicken Katsu Curry",
+  "description": "A Japanese twist on the classic katsu curry, made with crispy chicken cutlet, served with a side of steaming hot rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken breasts into thin cutlets.",
+    "Season the chicken with salt and pepper.",
+    "Dredge the chicken in flour, then eggs, and finally panko breadcrumbs.",
+    "Heat the vegetable oil in a large frying pan and cook the chicken until golden brown and crispy.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the onion, garlic, carrot, and zucchini to the pan and cook until the vegetables are tender.",
+    "Add the curry powder and stir for 1 minute.",
+    "Return the chicken to the pan and stir to coat with the curry sauce.",
+    "Simmer the curry for 5 minutes.",
+    "Serve the chicken katsu curry with a side of steaming hot rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "japanese",
+    "katsu",
+    "curry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 30,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-japanese-chicken-katsu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:16.996Z"
+}
