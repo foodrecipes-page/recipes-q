@@ -5445,16 +5445,15 @@
   },
   {
     "slug": "quick-charred-indian-leek-samosa",
-    "title": "Quick-Charred Indian Leek Samosa",
+    "title": "Charred Leek Samosas",
     "tags": [
-      "easy-samosa",
-      "flavorful",
       "indian",
-      "one-pan",
-      "weeknight"
+      "snack",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -10768,18 +10767,16 @@
   },
   {
     "slug": "quick-queso-caramelized-egyptian-cheese-tagine",
-    "title": "Quick Queso Caramelized Egyptian Cheese Tagine",
+    "title": "Egyptian Queso Tagine",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "easy-to-make",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "cheese",
+      "dip",
+      "snack",
+      "egyptian",
+      "tagine"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -11977,17 +11974,14 @@
   },
   {
     "slug": "quick-smoky-canadian-chicken-legs-skewers",
-    "title": "Quick Smoky Canadian Chicken Legs Skewers",
+    "title": "Smoky Chicken Skewers",
     "tags": [
-      "canadian-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "quick-dinner",
-      "smoky-flavor"
+      "bbq",
+      "grilled",
+      "chicken"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
