@@ -1,0 +1,61 @@
+{
+  "slug": "quick-venezuelan-cheese-quesadilla",
+  "title": "Venezuelan Quesadilla",
+  "description": "A twist on the classic quesadilla, this Venezuelan version adds a layer of melted cheese and a hint of Venezuelan spices.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quesadilla",
+      "amount": "4"
+    },
+    {
+      "name": "cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "quick cheese",
+      "amount": "4 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Venezuelan spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Place a quesadilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes or until the other side is crispy.",
+    "Repeat with the remaining quesadillas and cheese.",
+    "Serve hot with Venezuelan spices sprinkled on top, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "venezuelan",
+    "cheesy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:55:36.618Z"
+}
