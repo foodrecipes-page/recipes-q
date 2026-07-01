@@ -494,16 +494,14 @@
   },
   {
     "slug": "quaint-flaky-croatian-fish-dumplings",
-    "title": "Quaint Flaky Croatian Fish Dumplings",
+    "title": "Pan-Seared Fish with Dumplings",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "fish-based",
-      "herbal-notes",
-      "steamed-dishes"
+      "fish",
+      "mediterranean",
+      "lunch"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -638,16 +636,16 @@
   },
   {
     "slug": "quaint-fluffy-norwegian-lamb-casserole",
-    "title": "Quaint Fluffy Norwegian Lamb Casserole",
+    "title": "Norwegian Lamb Casserole",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "one-pan"
+      "norwegian",
+      "casserole",
+      "lamb",
+      "hearty",
+      "winter"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
@@ -7904,17 +7902,15 @@
   },
   {
     "slug": "quick-fix-silky-french-pineapple-sauce",
-    "title": "quick-fix silky french pineapple sauce",
+    "title": "Grilled Pineapple with Silky Sauce",
     "tags": [
-      "dessert",
-      "french",
-      "one-pan",
       "pineapple",
-      "silky",
-      "weeknight"
+      "grilled",
+      "dessert",
+      "easy"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 11,
     "shard": "q"
   },
   {
@@ -9212,16 +9208,16 @@
   },
   {
     "slug": "quick-grilled-japanese-chicken-katsu",
-    "title": "Quick Grilled Japanese Chicken Katsu",
+    "title": "Japanese Chicken Katsu Curry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "chicken",
+      "japanese",
+      "katsu",
+      "curry",
+      "lunch"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 20,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
