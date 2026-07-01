@@ -1,0 +1,65 @@
+{
+  "slug": "quick-queso-caramelized-egyptian-cheese-tagine",
+  "title": "Egyptian Queso Tagine",
+  "description": "A flavorful and rich cheese dip inspired by Egyptian cuisine. This queso is slow-cooked to perfection with caramelized onions and a hint of tagine spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quick cheese",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Egyptian tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Quick queso",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large saucepan, caramelize the onions over medium-low heat for 20 minutes.",
+    "Add the Egyptian tagine spice blend and cook for 1 minute.",
+    "Stir in the quick cheese until melted.",
+    "Add the grated cheese and stir until well combined.",
+    "Transfer the mixture to a baking dish and top with quick queso.",
+    "Bake for 15-20 minutes or until the queso is melted and bubbly.",
+    "Serve warm with pita chips or crackers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "dip",
+    "snack",
+    "egyptian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-queso-caramelized-egyptian-cheese-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T19:26:52.510Z"
+}
