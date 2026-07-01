@@ -1,0 +1,92 @@
+{
+  "slug": "quaint-fluffy-norwegian-lamb-casserole",
+  "title": "Norwegian Lamb Casserole",
+  "description": "A hearty lamb casserole with a Norwegian twist. This dish is perfect for a cold winter evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Fluffy White Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Quaint Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Norwegian Red Cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Casserole Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the diced potatoes, sliced carrots, and shredded cabbage to the pot.",
+    "Cook until the vegetables are slightly tender, about 5 minutes.",
+    "Add the browned lamb back to the pot, along with the casserole seasoning, salt, and pepper.",
+    "Stir to combine, then add the water to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
+    "Bake for 1 1/2 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "casserole",
+    "lamb",
+    "hearty",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-norwegian-lamb-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:38.186Z"
+}
