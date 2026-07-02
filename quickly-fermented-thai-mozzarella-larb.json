@@ -1,0 +1,66 @@
+{
+  "slug": "quickly-fermented-thai-mozzarella-larb",
+  "title": "Quick Larb Mozzarella Bites",
+  "description": "A twist on traditional larb, these crispy bites combine the spicy flavors of fermented vegetables with melted mozzarella cheese. Serve as a snack or appetizer.",
+  "cuisine": "thaicuisine",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quick Fermented Vegetables",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Thai Red Chili Peppers",
+      "amount": "2-3 sliced"
+    },
+    {
+      "name": "Larb Seasoning",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine fermented vegetables, mozzarella cheese, cilantro, and chili peppers.",
+    "Add larb seasoning and mix well.",
+    "Using a cookie scoop, form mixture into small balls.",
+    "Place balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 20,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy",
+    "quick",
+    "vegan",
+    "vegetarian",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fermented-thai-mozzarella-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:54:31.496Z"
+}
