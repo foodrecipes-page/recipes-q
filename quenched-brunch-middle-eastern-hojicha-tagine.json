@@ -1,0 +1,83 @@
+{
+  "slug": "quenched-brunch-middle-eastern-hojicha-tagine",
+  "title": "Middle Eastern Quenched Hojicha Brunch Tagine",
+  "description": "A rich and spicy Middle Eastern-inspired dish, infused with the smooth flavor of hojicha and the crunch of quenched ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quenched almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "hojicha",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tagine sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "brunch vegetables",
+      "amount": "2 cups",
+      "notes": "mixed, such as bell peppers, onions, and tomatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the middle eastern spice blend and cook for 1 minute, until fragrant.",
+    "Add the brunch vegetables and cook until they start to soften, about 5 minutes.",
+    "Add the tagine sauce, hojicha, and quenched almonds. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, until the flavors have melded together and the vegetables are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional hojicha and quenched almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "breakfast",
+    "brunch",
+    "hojicha",
+    "quenched"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-brunch-middle-eastern-hojicha-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:18.779Z"
+}
