@@ -1,0 +1,58 @@
+{
+  "slug": "quick-flaky-german-dough-dumplings",
+  "title": "Quick German Dumplings",
+  "description": "A simple recipe for German-style dumplings made with a quick dough. These dumplings are perfect as a side dish or light meal.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour and salt.",
+    "Gradually add in the warm water and mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Bring a large pot of salted water to a boil.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Cook the dumplings in the boiling water for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "quick",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-flaky-german-dough-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:24:01.889Z"
+}
