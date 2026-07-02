@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-peruvian-pato-arroz-con-pato",
+  "title": "Pato con Arroz",
+  "description": "A Peruvian dish made with roasted duck served with a side of flavorful rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "vegetarian-optional"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pato (Duck)",
+      "amount": "1 whole duck",
+      "notes": "About 3-4 pounds"
+    },
+    {
+      "name": "Arroz (White Rice)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quenched",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Peruvian",
+      "amount": "2 teaspoons",
+      "notes": "Peruvian seasoning"
+    },
+    {
+      "name": "Pato (Duck fat)",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the duck and pat it dry with paper towels.",
+    "Season the duck with Peruvian seasoning and set aside.",
+    "Heat duck fat in a large skillet over medium heat.",
+    "Sear the duck on all sides until browned, about 5 minutes.",
+    "Transfer the duck to a baking sheet and roast in the oven for 20 minutes.",
+    "While the duck is roasting, heat quenched in a large saucepan over medium heat.",
+    "Add the arroz and cook, stirring constantly, until the rice is lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the rice is cooked.",
+    "Once the duck is done, let it rest for 5 minutes before carving and serving with the arroz."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian-cuisine",
+    "duck-recipe",
+    "arroz-recipe",
+    "south-american-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peruvian-pato-arroz-con-pato",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:17:23.414Z"
+}
