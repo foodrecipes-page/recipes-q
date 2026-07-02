@@ -1,0 +1,71 @@
+{
+  "slug": "quick-crunchy-peruvian-duck-anticuchos",
+  "title": "Peruvian Anticuchos with Crunchy Duck",
+  "description": "A twist on traditional Peruvian anticuchos with the addition of crispy duck. Perfect as a snack or appetizer.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Quick marinade",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian anticuchos",
+      "amount": "1 bag (20 pieces)"
+    },
+    {
+      "name": "Crunchy corn flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cut duck breast into bite-sized pieces and season with salt and black pepper.",
+    "2. Heat vegetable oil in a skillet over medium-high heat. Add duck pieces and cook until browned, about 5 minutes.",
+    "3. Remove duck from skillet and set aside.",
+    "4. In a separate pan, cook peruvian anticuchos according to package instructions.",
+    "5. In a food processor, crush corn flakes into small pieces.",
+    "6. Sprinkle crushed corn flakes over cooked duck pieces.",
+    "7. Serve duck with anticuchos on the side.",
+    "8. Drizzle with quick marinade for added flavor.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "snack",
+    "appetizer",
+    "duck",
+    "anticuchos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-peruvian-duck-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:30:14.624Z"
+}
