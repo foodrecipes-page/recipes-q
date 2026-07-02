@@ -1,0 +1,82 @@
+{
+  "slug": "quick-grilled-middle-eastern-couscous-skewers",
+  "title": "Middle Eastern Couscous Skewers",
+  "description": "A flavorful and colorful dish, perfect for a quick weeknight dinner or a weekend barbecue. The combination of grilled chicken and vegetables is a classic Middle Eastern combination.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "2",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread chicken, bell peppers, onion, and zucchini onto skewers.",
+    "3. Brush skewers with olive oil and season with salt and pepper.",
+    "4. Grill skewers for 8-10 minutes, turning frequently.",
+    "5. Meanwhile, cook couscous according to package instructions.",
+    "6. Once skewers are cooked, serve with couscous and pita bread on the side.",
+    "7. Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "middle eastern",
+    "couscous",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-middle-eastern-couscous-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:18.080Z"
+}
