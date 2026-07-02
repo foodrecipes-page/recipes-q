@@ -3399,19 +3399,15 @@
   },
   {
     "slug": "quenched-midnight-vietnamese-shrimp-satay",
-    "title": "Quenched Midnight Vietnamese Shrimp Satay",
+    "title": "Vietnamese-Style Shrimp Satay",
     "tags": [
-      "dinner",
       "grilled",
-      "high-protein",
-      "nighttime",
-      "one-pan",
-      "snack",
+      "seafood",
       "vietnamese",
-      "weeknight"
+      "satay"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -13920,16 +13916,15 @@
   },
   {
     "slug": "quietly-aerated-slovakian-fromage-frais-pudding",
-    "title": "Quietly Aerated Slovakian Fromage Fres Pudding",
+    "title": "Slovakian Pudding",
     "tags": [
+      "slovakian",
+      "pudding",
       "dessert",
-      "high-protein",
-      "post-workout",
-      "slovakian-cuisine",
-      "vegan-friendly"
+      "fruit"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
