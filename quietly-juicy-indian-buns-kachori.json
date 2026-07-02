@@ -1,0 +1,80 @@
+{
+  "slug": "quietly-juicy-indian-buns-kachori",
+  "title": "Indian-Style Kachori Buns",
+  "description": "A delicious and crispy kachori filled with spices and served in a soft bun.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": "around 100°F"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kachori filling (see below)",
+      "amount": "4-6 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt. Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat oil in a deep frying pan to 350°F.",
+    "Divide the dough into 4-6 equal portions and shape each portion into a ball.",
+    "Flatten each ball into a disk and place 1-2 tablespoons of kachori filling in the center.",
+    "Fold the dough over the filling and press the edges together to seal the kachori.",
+    "Fry the kachori in hot oil until golden brown and puffed up.",
+    "Drain the kachori on paper towels and serve in a soft bun with your favorite chutney."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-juicy-indian-buns-kachori",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:38.085Z"
+}
