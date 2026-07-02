@@ -1,0 +1,72 @@
+{
+  "slug": "quick-german-vegetables-curry",
+  "title": "Quick German Vegetable Curry",
+  "description": "A flavorful and nutritious curry dish made with a variety of vegetables and a blend of spices. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "1 large",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tablespoon",
+      "notes": "Store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add chopped onions and sauté until softened.",
+    "Add chopped carrots, potatoes, and zucchini, and stir to combine.",
+    "Add curry powder and stir to coat the vegetables.",
+    "Cook for 10 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "curry",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-vegetables-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:31:44.925Z"
+}
