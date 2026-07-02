@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fix-crumbly-turkish-bread-pilaf",
+  "title": "Turkish Pilaf Bread Bites",
+  "description": "A crunchy and flavorful Turkish-inspired snack made with crumbly bread, crispy quick fix, and savory pilaf.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crumbly bread",
+      "amount": "1 cup",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Quick fix",
+      "amount": "1/4 cup",
+      "notes": "such as panko or breadcrumbs"
+    },
+    {
+      "name": "Turkish pilaf",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the crumbly bread into 1-inch cubes and place on a baking sheet.",
+    "Drizzle the olive oil over the bread cubes and toss to coat.",
+    "Bake the bread in the preheated oven for 10-12 minutes, or until crispy and golden brown.",
+    "In a large skillet, heat the quick fix over medium heat.",
+    "Add the Turkish pilaf to the skillet and cook, stirring constantly, for 2-3 minutes, or until lightly toasted.",
+    "Remove from heat and stir in salt to taste.",
+    "To assemble the bread bites, place a spoonful of the pilaf mixture onto a toasted bread cube.",
+    "Repeat with the remaining bread and pilaf mixture.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "snack",
+    "breakfast",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-crumbly-turkish-bread-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T01:27:30.374Z"
+}
