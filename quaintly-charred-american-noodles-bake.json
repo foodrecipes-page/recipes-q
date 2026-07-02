@@ -1,0 +1,79 @@
+{
+  "slug": "quaintly-charred-american-noodles-bake",
+  "title": "Charred American Noodle Bake",
+  "description": "A comforting, slightly charred noodle dish with a mix of flavors and textures, perfect for a cozy evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quaintly Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Charred Carrots",
+      "amount": "4 small",
+      "notes": ""
+    },
+    {
+      "name": "American Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Bake Cheese Blend",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the sweet potatoes into 1-inch cubes. Place on a baking sheet, toss with 2 tbsp of butter, salt, and pepper. Roast in the oven for 20 minutes, or until tender.",
+    "Chop the carrots into 1-inch pieces. Toss with 2 tbsp of butter, salt, and pepper. Roast in the oven for 15-20 minutes, or until tender.",
+    "Cook the American noodles according to package instructions. Drain and set aside.",
+    "In a large mixing bowl, combine the cooked noodles, roasted sweet potatoes, and carrots.",
+    "In a separate bowl, mix together the bake cheese blend and 1 tbsp of butter.",
+    "Pour the cheese mixture over the noodle mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 10-15 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "american",
+    "noodles",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-charred-american-noodles-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:14:27.383Z"
+}
