@@ -13483,17 +13483,17 @@
   },
   {
     "slug": "quickly-fermented-thai-mozzarella-larb",
-    "title": "Quickly Fermented Thai Mozzarella Larb",
+    "title": "Quick Larb Mozzarella Bites",
     "tags": [
-      "easy-ferment",
-      "high-protein",
-      "one-pan",
-      "pescatarian",
+      "snack",
+      "easy",
       "quick",
-      "weeknight"
+      "vegan",
+      "vegetarian",
+      "thaifood"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 32,
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
