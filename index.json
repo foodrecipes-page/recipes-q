@@ -923,17 +923,17 @@
   },
   {
     "slug": "quaint-norwegian-lamb-skewers",
-    "title": "Quaint Norwegian Lamb Skewers",
+    "title": "Lamb Skewers with Norwegian Twist",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "grilled-meats",
-      "lamb-recipes",
-      "norwegian-cuisine",
-      "paleo-friendly"
+      "lamb",
+      "skewers",
+      "norwegian",
+      "grilled",
+      "feta",
+      "parsley"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "q"
   },
   {
@@ -1902,17 +1902,15 @@
   },
   {
     "slug": "quality-dense-slovakian-yautia-bake",
-    "title": "Quality Dense Slovakian Yautia Bake",
+    "title": "Slovakian Stuffed Yautia",
     "tags": [
-      "crowd-pleaser",
-      "delicious",
-      "easy-to-make",
-      "nutritious",
-      "paleo-friendly",
-      "slovakian-cuisine"
+      "slovakian",
+      "vegetarian",
+      "gluten-free",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -4754,16 +4752,14 @@
   },
   {
     "slug": "quenching-syrian-pecorino-gratin",
-    "title": "Quenching Syrian Pecorino Gratin",
+    "title": "Pecorino and Syrian Quenching Gratin",
     "tags": [
-      "gratin",
-      "lacto-vegetarian",
-      "one-pan",
-      "syrian",
-      "winter"
+      "italian",
+      "vegetarian",
+      "gratin"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
@@ -15035,16 +15031,14 @@
   },
   {
     "slug": "quietly-juicy-indian-buns-kachori",
-    "title": "Quietly Juicy Indian Buns Kachori",
+    "title": "Indian-Style Kachori Buns",
     "tags": [
-      "almond-based",
-      "date-based",
-      "fodmap-friendly",
-      "indian-snacks",
-      "vegetarian"
+      "indian",
+      "breakfast",
+      "snack"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
