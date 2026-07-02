@@ -1,0 +1,68 @@
+{
+  "slug": "quietly-aerated-slovakian-fromage-frais-pudding",
+  "title": "Slovakian Pudding",
+  "description": "A traditional Slovakian dessert made with a silky pudding topped with a sweet fruit compote.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "slovakian cream",
+      "amount": "250ml",
+      "notes": "heavy cream or substitute"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "frais",
+      "amount": "100g",
+      "notes": "fresh berries or substitute"
+    },
+    {
+      "name": "pudding",
+      "amount": "100g",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine 250ml of Slovakian cream, 100g of sugar, and 4 egg yolks.",
+    "Whisk the mixture and cook over medium heat until it thickens.",
+    "Remove from heat and let cool to room temperature.",
+    "Stir in 100g of fresh frais and mix well.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 2 hours or until chilled.",
+    "Serve the pudding chilled, garnished with additional frais if desired.",
+    "Optional: Serve with a side of whipped cream or a sprinkle of sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "pudding",
+    "dessert",
+    "fruit"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-aerated-slovakian-fromage-frais-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:21:51.170Z"
+}
