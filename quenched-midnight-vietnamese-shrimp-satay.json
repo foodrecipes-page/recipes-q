@@ -1,0 +1,68 @@
+{
+  "slug": "quenched-midnight-vietnamese-shrimp-satay",
+  "title": "Vietnamese-Style Shrimp Satay",
+  "description": "A flavorful and spicy shrimp satay dish inspired by Vietnamese cuisine, perfect for a quick dinner or snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Midnight Oil",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Quenched Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Vietnamese Satay Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together lime juice, satay sauce, and 1 tablespoon of oil.",
+    "2. Add the shrimp to the bowl and toss to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "5. Brush the grill or grill pan with the remaining 1 tablespoon of oil.",
+    "6. Grill the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "7. Garnish with cilantro, if desired. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "vietnamese",
+    "satay"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-midnight-vietnamese-shrimp-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:13:55.963Z"
+}
