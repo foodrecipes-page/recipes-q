@@ -1,0 +1,68 @@
+{
+  "slug": "quietly-steamed-korean-lamb-wrap",
+  "title": "Korean Lamb Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with tender lamb and steamed vegetables.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Quietly rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Steamed cucumber",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the lamb with Korean chili flakes and cook for 5-6 minutes per side, or until reached a safe internal temperature of 145°F (63°C).",
+    "Let the lamb rest for 5 minutes before slicing.",
+    "Cook the quietly rice according to package instructions.",
+    "Steam the cucumber slices for 3-4 minutes, or until tender.",
+    "Assemble the wrap by placing a portion of the cooked lamb, rice, and cucumber onto each wrap.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lamb",
+    "wrap",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 33,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-steamed-korean-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:30:26.876Z"
+}
