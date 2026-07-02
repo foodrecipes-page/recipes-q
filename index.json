@@ -6132,17 +6132,16 @@
   },
   {
     "slug": "quick-crunchy-peruvian-duck-anticuchos",
-    "title": "Quick Crunchy Peruvian Duck Anticuchos",
+    "title": "Peruvian Anticuchos with Crunchy Duck",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "duck-recipes",
-      "gluten-free",
-      "grilled-meats",
-      "peruvian-cuisine"
+      "peruvian",
+      "snack",
+      "appetizer",
+      "duck",
+      "anticuchos"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8865,15 +8864,16 @@
   },
   {
     "slug": "quick-glassy-jelly-ayurvedic-norwegian-monsoon-tagine",
-    "title": "Quick Glassy-Jelly Ayurvedic Norwegian Monsoon Tagine",
+    "title": "Monsoon Tagine Chicken",
     "tags": [
-      "ayurvedic-friendly",
-      "glgassy-jelly",
-      "monsoon-norwegian",
-      "umami-rich"
+      "chicken",
+      "tagine",
+      "norwegian",
+      "ayurvedic",
+      "monsoon"
     ],
-    "cuisine": "Norwegian, Thai, Ayurvedic",
-    "totalTimeMin": 30,
+    "cuisine": "Norwegian, Ayurvedic",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
