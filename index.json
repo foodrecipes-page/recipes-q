@@ -967,18 +967,15 @@
   },
   {
     "slug": "quaint-peppery-ukrainian-onion-skewers",
-    "title": "Quaint Peppery Ukrainian Onion Skewers",
+    "title": "Grilled Ukrainian Skewers with Peppery Onion",
     "tags": [
-      "crunchy",
-      "grilled-vegetables",
-      "lacto-vegetarian",
-      "peppery",
+      "beef",
+      "grilled",
       "skewers",
-      "snack",
-      "ukrainian-cuisine"
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 26,
     "shard": "q"
   },
   {
@@ -9198,16 +9195,14 @@
   },
   {
     "slug": "quick-grilled-middle-eastern-couscous-skewers",
-    "title": "Quick Grilled Middle Eastern Couscous Skewers",
+    "title": "Middle Eastern Couscous Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-vegetables",
-      "healthy-snack",
-      "middle-eastern",
-      "quick-meal",
-      "vegetarian-option"
+      "grilled",
+      "middle eastern",
+      "couscous",
+      "skewers"
     ],
-    "cuisine": "Middle Eastern",
+    "cuisine": "middle eastern",
     "totalTimeMin": 25,
     "shard": "q"
   },
