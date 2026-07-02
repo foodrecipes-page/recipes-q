@@ -1,0 +1,79 @@
+{
+  "slug": "quality-dense-slovakian-yautia-bake",
+  "title": "Slovakian Stuffed Yautia",
+  "description": "A hearty Slovakian dish featuring yautia filled with quality ingredients and baked to perfection.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "quality butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "dense ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Boil or steam the yautia until tender.",
+    "In a bowl, mix together the ricotta cheese, paprika, garlic, and salt.",
+    "Stir in the melted butter.",
+    "Spoon the ricotta mixture into the cooled yautia halves.",
+    "Top with chopped parsley.",
+    "Transfer the stuffed yautia to a baking dish.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "gluten-free",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-dense-slovakian-yautia-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T12:32:51.495Z"
+}
