@@ -1,0 +1,60 @@
+{
+  "slug": "quenching-syrian-pecorino-gratin",
+  "title": "Pecorino and Syrian Quenching Gratin",
+  "description": "A rich and creamy gratin featuring the flavors of Syria and the tang of pecorino cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quenching",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "pecorino",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, toss the quenching and Syrian together with a pinch of salt.",
+    "In a greased 8x8 inch baking dish, make a layer of the quenching mixture.",
+    "Drizzle with olive oil and sprinkle with pecorino cheese.",
+    "Repeat the layers one more time.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, or until golden brown.",
+    "Let the gratin rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenching-syrian-pecorino-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:16:20.883Z"
+}
