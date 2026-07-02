@@ -2126,19 +2126,16 @@
   },
   {
     "slug": "quenched-brunch-middle-eastern-hojicha-tagine",
-    "title": "Quenched Brunch Middle-eastern Hojicha Tagine",
+    "title": "Middle Eastern Quenched Hojicha Brunch Tagine",
     "tags": [
+      "middle eastern",
       "breakfast",
       "brunch",
-      "comfort-food",
-      "easy-to-make",
-      "healthy",
-      "lardons",
-      "middle-eastern",
-      "one-pan"
+      "hojicha",
+      "quenched"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 75,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -3674,17 +3671,15 @@
   },
   {
     "slug": "quenched-peruvian-pato-arroz-con-pato",
-    "title": "Quenched Peruvian Pato Arroz Con Pato",
+    "title": "Pato con Arroz",
     "tags": [
-      "fermented",
-      "high-protein",
-      "one-pan",
       "peruvian-cuisine",
-      "post-workout-meal",
-      "weeknight"
+      "duck-recipe",
+      "arroz-recipe",
+      "south-american-food"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 55,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
@@ -8846,17 +8841,15 @@
   },
   {
     "slug": "quick-german-vegetables-curry",
-    "title": "Quick German Vegetables Curry",
+    "title": "Quick German Vegetable Curry",
     "tags": [
-      "curry",
-      "easy",
       "german",
-      "healthy",
+      "curry",
       "quick",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "german",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
