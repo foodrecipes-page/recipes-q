@@ -1,0 +1,60 @@
+{
+  "slug": "quaint-peppery-ukrainian-onion-skewers",
+  "title": "Grilled Ukrainian Skewers with Peppery Onion",
+  "description": "A flavorful and easy-to-make Ukrainian-inspired dish featuring skewers of marinated meat and onions, grilled to perfection.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quaint ground beef",
+      "amount": "500g"
+    },
+    {
+      "name": "ukrainian all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "peppery garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine ground beef, flour, and garlic powder. Mix well with your hands until just combined.",
+    "2. Cut onion into 1-inch pieces and thread onto skewers, leaving a small space between each piece.",
+    "3. Add the beef mixture to the skewers, dividing it evenly among the onions.",
+    "4. Preheat grill to medium-high heat. Grill skewers for 8-10 minutes per side, or until the beef is cooked through and the onions are tender.",
+    "5. Serve hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 16,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grilled",
+    "skewers",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "37g",
+    "carbs": "6g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-peppery-ukrainian-onion-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:51:09.622Z"
+}
