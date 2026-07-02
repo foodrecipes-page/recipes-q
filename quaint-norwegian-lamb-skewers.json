@@ -1,0 +1,92 @@
+{
+  "slug": "quaint-norwegian-lamb-skewers",
+  "title": "Lamb Skewers with Norwegian Twist",
+  "description": "A flavorful and aromatic lamb skewer recipe with a Norwegian touch, featuring quaint and delicious ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Quaint Lemons",
+      "amount": "2",
+      "notes": "Juice squeezed for marinade"
+    },
+    {
+      "name": "Norwegian Feta",
+      "amount": "100g",
+      "notes": "Crumble for topping"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for marinade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together lemon juice, olive oil, garlic, salt, and black pepper for the marinade.",
+    "3. Add the lamb cubes to the marinade and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "5. Thread the marinated lamb onto the skewers, leaving a small space between each piece.",
+    "6. Brush the skewers with olive oil and season with salt and pepper.",
+    "7. Grill the skewers for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "8. Transfer the skewers to a plate and top with crumbled feta cheese and chopped parsley.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "skewers",
+    "norwegian",
+    "grilled",
+    "feta",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-norwegian-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:57:45.569Z"
+}
