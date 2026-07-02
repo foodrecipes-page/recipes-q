@@ -13974,17 +13974,14 @@
   },
   {
     "slug": "quietly-baked-egyptian-lentil-bake",
-    "title": "Quietly baked Egyptian lentil Bake",
+    "title": "Egyptian Lentil Stew",
     "tags": [
-      "cedar-plank",
-      "comfort-food",
-      "egyptian",
+      "stew",
       "lentil",
-      "rum-infused",
-      "vegan"
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16452,16 +16449,15 @@
   },
   {
     "slug": "quietly-steamed-korean-lamb-wrap",
-    "title": "Quietly Steamed Korean Lamb Wrap",
+    "title": "Korean Lamb Wrap",
     "tags": [
-      "asian-fusion",
-      "hangover-cures",
-      "korean-food",
-      "lamb-recipes",
-      "steamed-dishes"
+      "korean",
+      "lamb",
+      "wrap",
+      "low-carb"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
