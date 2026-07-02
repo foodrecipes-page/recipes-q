@@ -1,0 +1,70 @@
+{
+  "slug": "quirky-dark-malaysian-chocolate-chips-muffins",
+  "title": "Dark Chocolate Muffin Chips Crumble",
+  "description": "A sweet and crunchy dessert made with chocolate muffin crumbs and dark chocolate chips. Perfect for anyone with a sweet tooth!",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark Chocolate Chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chocolate Muffin",
+      "amount": "2 cups, crushed"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the crushed muffin, sugar, and flour. Mix until well combined.",
+    "Add the melted butter and mix until a crumbly mixture forms.",
+    "Stir in the dark chocolate chips.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Cut into squares and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate",
+    "crumble",
+    "muffin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-dark-malaysian-chocolate-chips-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:15:57.512Z"
+}
