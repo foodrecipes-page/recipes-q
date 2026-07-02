@@ -591,16 +591,15 @@
   },
   {
     "slug": "quaint-fluffy-brazilian-chorizo-casserole",
-    "title": "Quaint Fluffy Brazilian Chorizo Casserole",
+    "title": "Brazilian Chorizo Casserole with Quaint Toppings",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "weeknight"
+      "chorizo",
+      "brazilian-food",
+      "casserole",
+      "quaint-toppings"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -1579,13 +1578,12 @@
   },
   {
     "slug": "quaintly-charred-american-noodles-bake",
-    "title": "Quaintly Charred American Noodles Bake",
+    "title": "Charred American Noodle Bake",
     "tags": [
-      "american-classic",
-      "comfort-food",
-      "homestyle",
-      "one-pan",
-      "weeknight"
+      "charred",
+      "american",
+      "noodles",
+      "bake"
     ],
     "cuisine": "American",
     "totalTimeMin": 50,
@@ -8322,16 +8320,14 @@
   },
   {
     "slug": "quick-flaky-german-dough-dumplings",
-    "title": "Quick Flaky German Dough Dumplings",
+    "title": "Quick German Dumplings",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "gluten-free",
-      "homemade",
-      "steamed-dishes"
+      "german",
+      "quick",
+      "dumplings"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -11247,14 +11243,16 @@
   },
   {
     "slug": "quick-roasted-ukrainian-gelatin-bite",
-    "title": "Quick-Roasted Ukrainian Gelatin Bite",
+    "title": "Quick Ukrainian Borscht",
     "tags": [
-      "quick-fix",
-      "snack-ideas",
-      "ukrainian-food"
+      "beet-based",
+      "soup",
+      "ukrainian",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 15,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -17412,16 +17410,14 @@
   },
   {
     "slug": "quirky-dark-malaysian-chocolate-chips-muffins",
-    "title": "Quirky Dark Malaysian Chocolate Chips Muffins",
+    "title": "Dark Chocolate Muffin Chips Crumble",
     "tags": [
-      "chocolate-lover",
-      "dairy-free",
-      "festive-treat",
-      "malaysian-dessert",
-      "ramekin-baking"
+      "chocolate",
+      "crumble",
+      "muffin"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
