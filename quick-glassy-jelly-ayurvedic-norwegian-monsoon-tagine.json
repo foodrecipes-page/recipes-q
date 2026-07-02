@@ -1,0 +1,74 @@
+{
+  "slug": "quick-glassy-jelly-ayurvedic-norwegian-monsoon-tagine",
+  "title": "Monsoon Tagine Chicken",
+  "description": "A flavorful and aromatic chicken tagine inspired by the monsoon season, blending traditional Norwegian and Ayurvedic spices.",
+  "cuisine": "Norwegian, Ayurvedic",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Monsoon spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at local spice market"
+    },
+    {
+      "name": "Jelly bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Quick-cooking rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Ayurvedic ghee",
+      "amount": "1 tablespoon",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Tagine glass jar",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine glass jar over medium heat.",
+    "Add the ayurvedic ghee and sauté the jelly bell peppers until tender.",
+    "Add the Norwegian chicken breast and cook until browned.",
+    "Add the monsoon spice blend and stir to combine.",
+    "Add the quick-cooking rice and stir to combine.",
+    "Cook, covered, for 20 minutes, or until the chicken is cooked through and the rice is tender.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "norwegian",
+    "ayurvedic",
+    "monsoon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-glassy-jelly-ayurvedic-norwegian-monsoon-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:01:23.304Z"
+}
