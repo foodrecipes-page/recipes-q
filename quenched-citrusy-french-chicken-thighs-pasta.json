@@ -1,0 +1,83 @@
+{
+  "slug": "quenched-citrusy-french-chicken-thighs-pasta",
+  "title": "Citrusy Chicken Pasta",
+  "description": "A quick and flavorful dish that combines the brightness of citrus with the richness of chicken and pasta.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "quenched pasta",
+      "amount": "8 ounces",
+      "notes": "such as penne or fusilli"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside. Reduce the heat to medium and add the minced garlic to the skillet. Cook for 1 minute.",
+    "Add the lemon juice to the skillet and stir to combine. Scrape up any browned bits from the bottom of the skillet.",
+    "Add the cooked pasta to the skillet and toss to combine with the lemon sauce.",
+    "Return the chicken to the skillet and toss to combine with the pasta and sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "pasta",
+    "citrus",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-citrusy-french-chicken-thighs-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:43:38.420Z"
+}
