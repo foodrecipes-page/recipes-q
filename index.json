@@ -7824,17 +7824,15 @@
   },
   {
     "slug": "quick-fix-saudi-arabian-gorgonzola-dolce-flatbread",
-    "title": "Quick-fix Saudi Arabian Gorgonzola Dolce Flatbread",
+    "title": "Saudi Arabian Flatbread with Gorgonzola Dolce",
     "tags": [
-      "flatbread",
-      "gorgonzola",
-      "quick",
       "saudi-arabian",
-      "snack",
-      "weeknight"
+      "flatbread",
+      "cheese",
+      "snack"
     ],
-    "cuisine": "saudi arabian",
-    "totalTimeMin": 30,
+    "cuisine": "saudi",
+    "totalTimeMin": 17,
     "shard": "q"
   },
   {
@@ -16692,16 +16690,13 @@
   },
   {
     "slug": "quintessential-bitter-american-french-lentils-skillet",
-    "title": "Quintessential Bitter American French Lentils Skillet",
+    "title": "French Country Lentil Stew",
     "tags": [
-      "american",
-      "high-fiber",
-      "macrobiotic",
-      "one-pan",
+      "lentil-stew",
       "vegetarian",
-      "weeknight"
+      "french-cuisine"
     ],
-    "cuisine": "American",
+    "cuisine": "French",
     "totalTimeMin": 60,
     "shard": "q"
   },
