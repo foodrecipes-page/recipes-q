@@ -1,0 +1,57 @@
+{
+  "slug": "quenched-flaky-korean-zucchini-namul",
+  "title": "Korean-Style Zucchini Namul",
+  "description": "A simple and healthy Korean-inspired side dish made with sautéed zucchini and sesame oil. This recipe is vegan-friendly and can be served as a snack or side dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "namul",
+      "amount": "2 tablespoons",
+      "notes": "Korean-style sesame oil"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "sesame seeds"
+    }
+  ],
+  "instructions": [
+    "1. Cut the zucchini into thin slices.",
+    "2. Heat the namul in a pan over medium heat.",
+    "3. Add the sliced zucchini to the pan and stir-fry for 3-4 minutes.",
+    "4. Sprinkle the sesame seeds over the zucchini and stir-fry for another minute.",
+    "5. Remove the pan from heat and let it cool slightly.",
+    "6. Serve the zucchini namul as a side dish or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "side-dish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 6,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-flaky-korean-zucchini-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:45:26.849Z"
+}
