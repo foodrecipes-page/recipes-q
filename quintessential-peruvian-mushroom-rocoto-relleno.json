@@ -1,0 +1,90 @@
+{
+  "slug": "quintessential-peruvian-mushroom-rocoto-relleno",
+  "title": "Rocoto Relleno Peruvian Style",
+  "description": "A traditional Peruvian dish, Rocoto Relleno is a flavorful and rich stuffed pepper recipe. This recipe features a beef and mushroom filling, wrapped in a tender rocoto pepper.",
+  "cuisine": "peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "any variety, but Peruvian rocoto or sweet bell work best"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground or finely chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "chopped, preferably cremini or shiitake"
+    },
+    {
+      "name": "quintessential cheese",
+      "amount": "1 cup",
+      "notes": "grated, preferably queso fresco or feta"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional, for color and flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut a slit down one side of each rocoto pepper, making sure not to cut all the way through the pepper.",
+    "Scoop out the seeds and membranes, and place the peppers in a baking dish.",
+    "In a large skillet, cook the beef and onion over medium-high heat until the beef is browned, breaking it up into small pieces as it cooks.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the quintessential cheese, eggs, paprika, salt, and black pepper. Cook for 1-2 minutes, until the mixture is well combined.",
+    "Stuff each rocoto pepper with the beef and mushroom mixture, dividing it evenly among the peppers.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 15-20 minutes, until the peppers are tender and the filling is heated through.",
+    "Serve hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-pepper",
+    "beef",
+    "mushroom",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-peruvian-mushroom-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:12:00.529Z"
+}
