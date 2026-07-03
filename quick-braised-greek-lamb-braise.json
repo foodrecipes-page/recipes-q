@@ -1,0 +1,92 @@
+{
+  "slug": "quick-braised-greek-lamb-braise",
+  "title": "Tender Braised Greek Lamb",
+  "description": "A hearty and flavorful Greek lamb dish, cooked low and slow to fall-apart tenderness. Serve with crusty bread or over mashed potatoes.",
+  "cuisine": "greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml",
+      "notes": "use a full-bodied red wine"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 150°C.",
+    "Season the lamb shoulder with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the red wine, beef broth, lemon juice, oregano, and thyme to the pot.",
+    "Return the lamb shoulder to the pot and bring to a simmer.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb in the oven for 2.5 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb with the juices spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "greek",
+    "lamb",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-greek-lamb-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:15:48.200Z"
+}
