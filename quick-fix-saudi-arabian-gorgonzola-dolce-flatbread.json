@@ -1,0 +1,68 @@
+{
+  "slug": "quick-fix-saudi-arabian-gorgonzola-dolce-flatbread",
+  "title": "Saudi Arabian Flatbread with Gorgonzola Dolce",
+  "description": "A twist on traditional Saudi flatbread, topped with creamy gorgonzola dolce cheese. Perfect as a snack or appetizer.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "3 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Gorgonzola Dolce Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the flatbread into triangles or squares.",
+    "Top each piece of flatbread with a dollop of gorgonzola dolce cheese.",
+    "Sprinkle chopped fresh thyme over the cheese.",
+    "Drizzle honey over the thyme.",
+    "Drizzle olive oil over the top.",
+    "Bake for 10-12 minutes or until the cheese is melted and bubbly.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "flatbread",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-saudi-arabian-gorgonzola-dolce-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:37:31.297Z"
+}
