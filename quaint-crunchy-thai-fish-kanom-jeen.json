@@ -1,0 +1,87 @@
+{
+  "slug": "quaint-crunchy-thai-fish-kanom-jeen",
+  "title": "Thai Fish Cakes with Crunchy Topping",
+  "description": "A delicious and flavorful Thai-inspired dish made with fish cakes and a crunchy topping. Serve as an appetizer or snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quaint fish",
+      "amount": "12 oz",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "make sure to store in fridge"
+    },
+    {
+      "name": "crunchy rice",
+      "amount": "1 cup",
+      "notes": "toasted in a pan"
+    },
+    {
+      "name": "jeen",
+      "amount": "2 cups",
+      "notes": "deep-fried until crispy"
+    },
+    {
+      "name": "kanom",
+      "amount": "1 cup",
+      "notes": "toasted in a pan"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "make sure to store in fridge"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    }
+  ],
+  "instructions": [
+    "Heat some oil in a pan and add the thai red curry paste.",
+    "Cook for 1 minute until fragrant.",
+    "Add the quaint fish and cook until it's opaque.",
+    "Add the coconut milk and cook until the mixture thickens.",
+    "Stir in the fish sauce.",
+    "Transfer the mixture to a bowl and let it cool.",
+    "Add the toasted crunchy rice, deep-fried jeen, and toasted kanom to the bowl.",
+    "Mix well until everything is combined.",
+    "Shape the mixture into patties.",
+    "Pan-fry the patties until they're golden brown.",
+    "Serve with chopped cilantro on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish-cakes",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-crunchy-thai-fish-kanom-jeen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T00:42:20.542Z"
+}
