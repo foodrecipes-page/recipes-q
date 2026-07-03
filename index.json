@@ -6472,16 +6472,16 @@
   },
   {
     "slug": "quick-energizing-thai-chicken-curry",
-    "title": "Quick Energizing Thai Chicken Curry",
+    "title": "Quick Thai Curry Chicken",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "quick-dinner",
-      "thai-curry"
+      "quick",
+      "energizing",
+      "thai",
+      "chicken",
+      "curry"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17284,17 +17284,15 @@
   },
   {
     "slug": "quintessentially-smoky-indian-chickpeas-chana-masala",
-    "title": "Quintessentially Smoky Indian Chickpeas Chana Masala",
+    "title": "Smoky Chickpea Indian Dish",
     "tags": [
-      "chickpea-recipes",
-      "gluten-free-options",
-      "indian-cuisine",
-      "smoky-flavors",
-      "tandoor-cooking",
-      "vegetarian-dishes"
+      "indian",
+      "chickpeas",
+      "smoky",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
