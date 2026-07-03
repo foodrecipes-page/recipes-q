@@ -1,0 +1,80 @@
+{
+  "slug": "quietly-flaky-saudi-arabian-mulukhiyah-biryani",
+  "title": "Saudi Arabian Mulukhiyah Biryani",
+  "description": "A flavorful and aromatic rice dish from Saudi Arabia, made with mulukhiyah and a blend of spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mulukhiyah",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for 1 minute.",
+    "Add chopped onion and sauté until it's translucent.",
+    "Add minced garlic and sauté for another minute.",
+    "Add mulukhiyah and sauté until it's wilted.",
+    "Add coriander powder, turmeric powder, and salt. Mix well.",
+    "Add basmati rice to the pan and mix well.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low, cover the pan, and cook for 20-25 minutes or until the rice is cooked.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "vegetarian",
+    "mulukhiyah",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-flaky-saudi-arabian-mulukhiyah-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:28:16.606Z"
+}
