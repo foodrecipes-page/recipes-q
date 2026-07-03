@@ -1,0 +1,67 @@
+{
+  "slug": "quenched-roasted-portuguese-chicken-roast",
+  "title": "Roasted Chicken with Portuguese Flair",
+  "description": "A deliciously flavored roasted chicken dish with the authentic taste of Portugal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Mix the olive oil, garlic, onion, lemon juice, oregano, salt, and pepper in a small bowl.",
+    "Rub the mixture all over the chicken, making sure to get some under the skin as well.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for about 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "portuguese",
+    "roasted"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-roasted-portuguese-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:27:37.021Z"
+}
