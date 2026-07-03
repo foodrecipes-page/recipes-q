@@ -1,0 +1,98 @@
+{
+  "slug": "quietly-quenched-mexican-chicken-quesadilla",
+  "title": "Spicy Chicken Quesadillas",
+  "description": "A flavorful and spicy twist on the classic Mexican dish. Perfect for a quick dinner or lunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "quesadilla-sized tortillas",
+      "amount": "4",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium",
+      "notes": "optional"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through.",
+    "Add the diced onion and bell pepper to the skillet and cook until softened.",
+    "Add the mexican seasoning, cumin, salt, and pepper to the skillet and stir to combine.",
+    "In a separate pan or griddle, warm the tortillas over medium heat.",
+    "Place a tortilla in the pan and sprinkle shredded cheese on half of the tortilla.",
+    "Add some of the cooked chicken and onion mixture on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve with sour cream on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mexican",
+    "quesadilla",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-mexican-chicken-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:44:25.193Z"
+}
