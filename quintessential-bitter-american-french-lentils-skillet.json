@@ -1,0 +1,99 @@
+{
+  "slug": "quintessential-bitter-american-french-lentils-skillet",
+  "title": "French Country Lentil Stew",
+  "description": "A hearty, comforting stew made with lentils and quintessential French flavors, perfect for a chilly evening.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "for browning onions"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced carrot and celery and cook for an additional 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the red wine and cook until reduced by half, about 5 minutes.",
+    "Add the vegetable broth, lentils, thyme, and bay leaves.",
+    "Bring to a boil, then reduce the heat to low and simmer for 30-40 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "vegetarian",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-bitter-american-french-lentils-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:55:26.912Z"
+}
