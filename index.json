@@ -290,17 +290,15 @@
   },
   {
     "slug": "quaint-creamy-korean-duck-guk",
-    "title": "Quaint Creamy Korean Duck Guk",
+    "title": "Korean-Style Braised Duck with Guk",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "flexitarian",
-      "korean-cuisine",
-      "one-pot",
-      "spicy"
+      "korean",
+      "braised",
+      "duck",
+      "guk"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -4910,18 +4908,15 @@
   },
   {
     "slug": "quick-and-crispy-russian-vegetables-fritters",
-    "title": "Quick and Crispy Russian Vegetables Fritters",
+    "title": "Russian Vegetable Fritters",
     "tags": [
-      "crispy",
-      "easily-veganizable",
-      "european",
-      "gluten-free",
-      "quick-fix",
+      "russian",
       "vegetarian",
-      "weeknight"
+      "snack",
+      "fritters"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 25,
+    "cuisine": "Russian",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -12781,16 +12776,15 @@
   },
   {
     "slug": "quick-turkish-olives-stew",
-    "title": "Quick Turkish Olives Stew",
+    "title": "Quick Turkish Stew",
     "tags": [
-      "gluten-free",
-      "herbaceous",
-      "one-pot",
-      "quick",
-      "weeknight"
+      "turkish",
+      "lamb",
+      "stew",
+      "quick"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
