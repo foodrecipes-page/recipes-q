@@ -1,0 +1,59 @@
+{
+  "slug": "quick-crispy-tunisian-sweet-rice-flour-chapssalgaru-sushi",
+  "title": "Sweet Tunisian Rice Fritters",
+  "description": "A crispy and sweet twist on traditional Tunisian rice dishes, perfect as a snack or dessert.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chapssalgaru",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sweet",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rice, flour, and chapssalgaru.",
+    "Mix in sweet.",
+    "Add water to form a dough, adjust as needed.",
+    "Shape into small balls and flatten.",
+    "Heat a non-stick pan with oil over medium heat.",
+    "Cook rice fritters for 2-3 minutes on each side, until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tunisian",
+    "sweet",
+    "snack",
+    "dessert",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-tunisian-sweet-rice-flour-chapssalgaru-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:47:48.063Z"
+}
