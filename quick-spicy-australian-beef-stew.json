@@ -1,0 +1,90 @@
+{
+  "slug": "quick-spicy-australian-beef-stew",
+  "title": "Australian Beef Stew",
+  "description": "A hearty beef stew with an Australian twist, featuring tender chunks of beef and a rich, spicy broth.",
+  "cuisine": "australian",
+  "diet": [
+    "lacto-ovo",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "dried"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "250ml",
+      "notes": "optional"
+    },
+    {
+      "name": "spicy sauce",
+      "amount": "2 tbsp",
+      "notes": "such as sriracha"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped carrot and potato, and cook for 2 minutes.",
+    "Add the tomato paste, beef broth, red wine (if using), and spicy sauce.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (such as parsley or thyme)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "australian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spicy-australian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:19:12.920Z"
+}
