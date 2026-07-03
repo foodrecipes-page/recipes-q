@@ -1,0 +1,86 @@
+{
+  "slug": "quaint-creamy-korean-duck-guk",
+  "title": "Korean-Style Braised Duck with Guk",
+  "description": "A rich and flavorful dish that combines the tender meat of duck with the savory flavor of Korean-inspired guk sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck",
+      "amount": "2 lbs",
+      "notes": "boneless, skin-on duck legs"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Guk",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the duck with salt, black pepper, and Korean chili flakes.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Sear the duck until browned, about 5 minutes per side.",
+    "Remove the duck from the pot and set aside.",
+    "Add the guk, soy sauce, brown sugar, garlic, and ginger to the pot.",
+    "Bring the sauce to a simmer and cook until thickened, about 5 minutes.",
+    "Return the duck to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours.",
+    "Remove the pot from the oven and let the duck rest for 10 minutes.",
+    "Slice the duck and serve with the braising sauce and garnish with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "braised",
+    "duck",
+    "guk"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-creamy-korean-duck-guk",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:08:04.028Z"
+}
