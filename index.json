@@ -3823,16 +3823,14 @@
   },
   {
     "slug": "quenched-roasted-portuguese-chicken-roast",
-    "title": "Quenched Roasted Portuguese Chicken Roast",
+    "title": "Roasted Chicken with Portuguese Flair",
     "tags": [
       "chicken",
-      "lacto-vegetarian",
       "portuguese",
-      "roasted",
-      "weeknight"
+      "roasted"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 65,
+    "cuisine": "portuguese",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -7129,14 +7127,11 @@
   },
   {
     "slug": "quick-fix-flaky-ukrainian-herbal-wrap",
-    "title": "Quick-fix Flaky Ukrainian Herbal Wrap",
+    "title": "Ukrainian Flaky Pastry Wrap",
     "tags": [
-      "breakfast",
-      "easy-sauce",
-      "high-carb",
-      "one-pan",
-      "snack",
-      "ukrainian"
+      "ukrainian",
+      "flaky-pastry",
+      "herbal"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
@@ -14802,16 +14797,15 @@
   },
   {
     "slug": "quietly-flaky-saudi-arabian-mulukhiyah-biryani",
-    "title": "Quietly Flaky Saudi Arabian Mulukhiyah Biryani",
+    "title": "Saudi Arabian Mulukhiyah Biryani",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "middle-eastern",
-      "one-pot",
-      "vegetarian"
+      "saudi-arabian",
+      "vegetarian",
+      "mulukhiyah",
+      "biryani"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -15408,16 +15402,16 @@
   },
   {
     "slug": "quietly-quenched-mexican-chicken-quesadilla",
-    "title": "Quietly Quenched Mexican Chicken Quesadilla",
+    "title": "Spicy Chicken Quesadillas",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "gluten-free",
-      "mexican-food",
-      "sugar-free"
+      "chicken",
+      "mexican",
+      "quesadilla",
+      "easy",
+      "quick"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
