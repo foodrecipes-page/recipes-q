@@ -1,0 +1,91 @@
+{
+  "slug": "quick-energizing-thai-chicken-curry",
+  "title": "Quick Thai Curry Chicken",
+  "description": "A delicious and easy-to-make Thai-inspired dish, perfect for a quick weeknight dinner. This recipe combines the flavors of coconut milk, lemongrass, and chili peppers with the tenderness of chicken.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the chicken breast in a skillet over medium-high heat until browned and cooked through.",
+    "In a separate pan, heat the coconut milk over medium heat.",
+    "Add the Thai red curry paste and stir for 1-2 minutes.",
+    "Add the chicken broth, lemongrass, and chili peppers to the pan.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes, or until the sauce has thickened.",
+    "Add the cooked chicken to the pan and stir to coat with the curry sauce.",
+    "Season with fish sauce and brown sugar.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "energizing",
+    "thai",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:07:17.892Z"
+}
