@@ -501,16 +501,15 @@
   },
   {
     "slug": "quaint-flaky-german-fish-pilaf",
-    "title": "Quaint Flaky German Fish Pilaf",
+    "title": "German-Style Fish Pilaf",
     "tags": [
-      "flaky-fish",
-      "mediterranean-inspired",
-      "one-pan",
-      "romantic-dinner",
-      "umami-rich"
+      "german-cuisine",
+      "fish-dish",
+      "pilaf-recipe",
+      "comfort-food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -1641,17 +1640,16 @@
   },
   {
     "slug": "quaintly-flaky-jamaican-chicken-stew",
-    "title": "Quaintly Flaky Jamaican Chicken Stew",
+    "title": "Jamaican Jerk Chicken Stew",
     "tags": [
-      "chicken-stew",
-      "clay-pot-cooking",
-      "flaky-crust",
-      "gluten-free",
-      "jamaican-cuisine",
-      "weeknight-dinner"
+      "jamaican",
+      "stew",
+      "chicken",
+      "beef",
+      "pork"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 70,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -5611,16 +5609,14 @@
   },
   {
     "slug": "quick-cooked-mediterranean-yogurt-hash",
-    "title": "Quick-cooked Mediterranean yogurt Hash",
+    "title": "Mediterranean Hash Skillet",
     "tags": [
-      "high-protein",
+      "hash",
       "mediterranean",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "breakfast"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -9977,17 +9973,16 @@
   },
   {
     "slug": "quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers",
-    "title": "Quick-Malaysian-Zingy Citrus Peel Thai-Bird-Chili Skewers",
+    "title": "Thai-Style Chicken Satay",
     "tags": [
-      "malaysian-dish",
-      "plant-based-friendly",
-      "quick-fix",
-      "vessel-bamboo-tray",
-      "yakimono-grill",
-      "zesty-citrus"
+      "thai",
+      "chicken",
+      "satay",
+      "grilled",
+      "peanut-sauce"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 15,
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
