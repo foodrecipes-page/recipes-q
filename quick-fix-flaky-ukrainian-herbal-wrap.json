@@ -1,0 +1,72 @@
+{
+  "slug": "quick-fix-flaky-ukrainian-herbal-wrap",
+  "title": "Ukrainian Flaky Pastry Wrap",
+  "description": "A delicious Ukrainian-inspired pastry filled with a savory mix of herbs and spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "In a small bowl, mix together the chopped parsley, dried dill weed, garlic powder, salt, and black pepper.",
+    "Spread the herb mix evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush the top of the pastry with a little bit of water and sprinkle with a pinch of salt.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the filling is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "flaky-pastry",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-flaky-ukrainian-herbal-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T17:46:40.105Z"
+}
