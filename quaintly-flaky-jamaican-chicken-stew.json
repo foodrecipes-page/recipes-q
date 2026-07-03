@@ -1,0 +1,80 @@
+{
+  "slug": "quaintly-flaky-jamaican-chicken-stew",
+  "title": "Jamaican Jerk Chicken Stew",
+  "description": "A flavorful and spicy stew made with jerk seasoned chicken, onions, garlic, and a hint of coconut milk.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quaintly flaky crusty bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "stew meat",
+      "amount": "1 lb",
+      "notes": "beef or pork"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add chicken and cook until browned, about 5 minutes.",
+    "3. Add stew meat and cook until browned, about 5 minutes.",
+    "4. Add onion and garlic and cook until softened, about 5 minutes.",
+    "5. Stir in jerk seasoning and cook for 1 minute.",
+    "6. Add coconut milk and bring to a simmer.",
+    "7. Reduce heat to low and let simmer, covered, for 20-25 minutes.",
+    "8. Serve hot, garnished with quaintly flaky crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "chicken",
+    "beef",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-flaky-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:45:17.838Z"
+}
