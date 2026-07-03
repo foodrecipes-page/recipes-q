@@ -1,0 +1,69 @@
+{
+  "slug": "quaint-flaky-german-fish-pilaf",
+  "title": "German-Style Fish Pilaf",
+  "description": "A hearty German-inspired fish pilaf dish that combines pilaf with the flavors of German cuisine. Perfect for a comforting and satisfying meal.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "quaint",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "german",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add fish and cook until browned, about 3-4 minutes.",
+    "Add quaint and cook until fragrant, about 1 minute.",
+    "Add pilaf and cook until lightly toasted, about 2-3 minutes.",
+    "Add 2 cups water to the skillet and bring to a boil.",
+    "Reduce heat to low and cover the skillet.",
+    "Simmer for 10-12 minutes or until pilaf is tender.",
+    "Stir in german and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "fish-dish",
+    "pilaf-recipe",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-flaky-german-fish-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:22:44.167Z"
+}
