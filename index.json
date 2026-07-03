@@ -402,18 +402,15 @@
   },
   {
     "slug": "quaint-crunchy-thai-fish-kanom-jeen",
-    "title": "Quaint Crunchy Thai Fish Kanom Jeen",
+    "title": "Thai Fish Cakes with Crunchy Topping",
     "tags": [
-      "crunchy",
-      "kanom-jeen",
-      "mason-jar",
-      "pescatarian",
-      "ssam-wrap",
-      "tangy",
-      "thai-cuisine"
+      "thai",
+      "fish-cakes",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10809,16 +10806,15 @@
   },
   {
     "slug": "quick-roasted-algerian-carrot-tagine",
-    "title": "Quick Roasted Algerian Carrot Tagine",
+    "title": "Algerian Roasted Carrot Tagine",
     "tags": [
-      "north-african",
-      "one-pan",
-      "roasted-vegetables",
-      "vegetarian",
-      "weeknight"
+      "north african",
+      "stew",
+      "carrots",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
