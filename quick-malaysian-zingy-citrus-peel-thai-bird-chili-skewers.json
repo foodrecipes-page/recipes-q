@@ -1,0 +1,85 @@
+{
+  "slug": "quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers",
+  "title": "Thai-Style Chicken Satay",
+  "description": "A classic Southeast Asian dish featuring marinated chicken grilled to perfection on skewers, served with a zesty peanut sauce.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "quick peanut sauce",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "such as Thai bird's eye chilies"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together peanut sauce, chili peppers, garlic, ginger, and coconut milk.",
+    "Add the chicken to the marinade and mix until well coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with peanut oil to prevent sticking.",
+    "Grill the satay for 8-10 minutes, or until the chicken is cooked through and slightly charred.",
+    "Serve immediately with additional peanut sauce for dipping.",
+    "Optional: serve with steamed vegetables or a side of sticky rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "satay",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:43:31.028Z"
+}
