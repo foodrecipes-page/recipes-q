@@ -2311,17 +2311,15 @@
   },
   {
     "slug": "quenched-citrusy-french-chicken-thighs-pasta",
-    "title": "Quenched Citrusy French Chicken Thighs Pasta",
+    "title": "Citrusy Chicken Pasta",
     "tags": [
+      "chicken",
+      "pasta",
       "citrus",
-      "french",
-      "low-calorie",
-      "one-pan",
-      "weekend",
-      "weeknight"
+      "lemon"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -12180,18 +12178,14 @@
   },
   {
     "slug": "quick-spicy-australian-beef-stew",
-    "title": "Quick Spicy Australian Beef Stew",
+    "title": "Australian Beef Stew",
     "tags": [
-      "australian-cuisine",
-      "beef-stew",
-      "crockpot-friendly",
-      "high-protein",
-      "one-pan",
-      "quick-cooking",
-      "weeknight"
+      "beef",
+      "australian",
+      "stew"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
