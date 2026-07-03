@@ -1,0 +1,80 @@
+{
+  "slug": "quick-turkish-olives-stew",
+  "title": "Quick Turkish Stew",
+  "description": "A hearty, flavorful stew made with lamb, vegetables, and aromatic spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Quick Stew Mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Turkish red pepper flakes and cook for 1 minute.",
+    "Add the quick stew mix and cook for 1 minute.",
+    "Add the canned diced tomatoes and chicken broth.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "stew",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-turkish-olives-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:07:34.886Z"
+}
