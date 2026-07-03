@@ -8776,17 +8776,16 @@
   },
   {
     "slug": "quick-german-oats-fritter",
-    "title": "Quick German Oats Fritter",
+    "title": "Quick German Oat Fritters",
     "tags": [
-      "breakfast-idea",
-      "easy-breakfast",
-      "german-cuisine",
-      "oats-based",
-      "quick-fix",
-      "snack-recipe"
+      "gluten-free",
+      "vegan",
+      "oats",
+      "german",
+      "breakfast"
     ],
     "cuisine": "german",
-    "totalTimeMin": 13,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -9857,16 +9856,15 @@
   },
   {
     "slug": "quick-lazy-ethiopian-rice-pilaf",
-    "title": "Quick Lazy Ethiopian Rice Pilaf",
+    "title": "Ethiopian-Style Rice Pilaf",
     "tags": [
-      "easy",
       "ethiopian",
-      "one-pan",
-      "plant-based",
-      "quick"
+      "rice",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
