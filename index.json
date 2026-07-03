@@ -5133,15 +5133,13 @@
   },
   {
     "slug": "quick-braised-greek-lamb-braise",
-    "title": "Quick Braised Greek Lamb Braise",
+    "title": "Tender Braised Greek Lamb",
     "tags": [
-      "comfort-food",
       "greek",
-      "hearty",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "braised"
     ],
-    "cuisine": "Greek",
+    "cuisine": "greek",
     "totalTimeMin": 170,
     "shard": "q"
   },
@@ -7682,19 +7680,15 @@
   },
   {
     "slug": "quick-fix-rich-malaysian-chickpeas-flatbread",
-    "title": "quick-fix rich malaysian chickpeas flatbread",
+    "title": "Malaysian Chickpea Flatbread",
     "tags": [
       "chickpeas",
       "flatbread",
-      "gluten-free",
       "malaysian",
-      "one-pan",
-      "quick-fix",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -17008,16 +17002,16 @@
   },
   {
     "slug": "quintessential-peruvian-mushroom-rocoto-relleno",
-    "title": "Quintessential Peruvian Mushroom Rocoto Relleno",
+    "title": "Rocoto Relleno Peruvian Style",
     "tags": [
-      "mushroom-recipes",
-      "peruvian-cuisine",
-      "plant-based",
-      "spicy-food",
-      "vegan-options"
+      "peruvian",
+      "stuffed-pepper",
+      "beef",
+      "mushroom",
+      "cheese"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "cuisine": "peruvian",
+    "totalTimeMin": 75,
     "shard": "q"
   },
   {
