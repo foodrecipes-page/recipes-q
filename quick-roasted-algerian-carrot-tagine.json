@@ -1,0 +1,61 @@
+{
+  "slug": "quick-roasted-algerian-carrot-tagine",
+  "title": "Algerian Roasted Carrot Tagine",
+  "description": "A flavorful and aromatic North African-inspired stew made with roasted carrots and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 pounds",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "cumin and coriander spice blend"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional clay pot or Dutch oven"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss the chopped carrots with the olive oil, Algerian spice blend, and a pinch of salt.",
+    "Transfer the carrots to the preheated oven and roast for 20-25 minutes, or until tender and lightly caramelized.",
+    "While the carrots are roasting, heat a small amount of oil in the bottom of the tagine or Dutch oven over medium heat.",
+    "Once the carrots are done roasting, add them to the tagine and simmer over low heat for 10-15 minutes, stirring occasionally.",
+    "Serve the carrot tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "stew",
+    "carrots",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-algerian-carrot-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:34:59.023Z"
+}
