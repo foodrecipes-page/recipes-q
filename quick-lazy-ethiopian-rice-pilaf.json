@@ -1,0 +1,93 @@
+{
+  "slug": "quick-lazy-ethiopian-rice-pilaf",
+  "title": "Ethiopian-Style Rice Pilaf",
+  "description": "A flavorful and easy-to-make pilaf with a hint of Ethiopian spices. Serve as a side dish or light meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "long-grain rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "such as canola or grapeseed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until translucent, about 3-4 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add berbere spice, cumin, salt, and black pepper. Cook for 1 minute.",
+    "Add rice and stir to coat with spice mixture.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until rice is tender and liquid has been absorbed.",
+    "Fluff pilaf with a fork and garnish with parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "rice",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-lazy-ethiopian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:27:55.237Z"
+}
