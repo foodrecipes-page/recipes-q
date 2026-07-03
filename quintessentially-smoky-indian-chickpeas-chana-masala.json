@@ -1,0 +1,80 @@
+{
+  "slug": "quintessentially-smoky-indian-chickpeas-chana-masala",
+  "title": "Smoky Chickpea Indian Dish",
+  "description": "A flavorful and aromatic Indian-inspired dish made with smoky spices, chickpeas, and chana masala. Serve over basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chana masala",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoky spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for 1 minute.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add chana masala and smoky spice blend. Cook for 1 minute.",
+    "Add chickpeas and stir to combine.",
+    "Add garam masala and salt. Stir to combine.",
+    "Simmer for 10-15 minutes or until the flavors have melded together.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chickpeas",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-smoky-indian-chickpeas-chana-masala",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:15:34.417Z"
+}
