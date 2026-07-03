@@ -1,0 +1,73 @@
+{
+  "slug": "quick-cooked-mediterranean-yogurt-hash",
+  "title": "Mediterranean Hash Skillet",
+  "description": "A hearty skillet dish featuring a mediterranean-inspired hash with crispy onions and a tangy yogurt sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "any type of hash browned in a pan"
+    },
+    {
+      "name": "Quick-cooked Onions",
+      "amount": "1/2 cup",
+      "notes": "caramelized until golden brown"
+    },
+    {
+      "name": "Mediterranean Oregano",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the hash to the skillet and cook for 4-5 minutes, stirring occasionally.",
+    "Add the cooked onions to the skillet and stir to combine.",
+    "Sprinkle the oregano over the hash and stir.",
+    "In a small bowl, whisk together the yogurt and garlic.",
+    "Pour the yogurt mixture over the hash and stir until combined.",
+    "Season with salt to taste.",
+    "Cook for an additional 2-3 minutes, until the hash is crispy and the yogurt sauce is heated through.",
+    "Serve hot, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hash",
+    "mediterranean",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-cooked-mediterranean-yogurt-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:02:14.632Z"
+}
