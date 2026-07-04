@@ -1,0 +1,67 @@
+{
+  "slug": "quickly-braised-welsh-sausages-toad-in-the-hole",
+  "title": "Welsh Sausage in the Hole",
+  "description": "A classic Welsh dish where sausages are baked in a hollowed out loaf of bread. This recipe is perfect for a comforting and satisfying meal.",
+  "cuisine": "Welsh",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Welsh sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Bread",
+      "amount": "1 large loaf"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 medium, sliced",
+      "notes": "optional"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "for greasing the bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the top off the bread loaf and hollow out the inside, leaving a shell about 1 inch thick.",
+    "Place the bread shell on a baking sheet.",
+    "If using, scatter chopped onion and sliced mushroom inside the bread shell.",
+    "Place a Welsh sausage in the bread shell, nestling it into the space.",
+    " Dot the top of the bread with butter.",
+    "Cover the baking sheet with foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the bread is golden brown and the sausage is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "sausage",
+    "wales",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-braised-welsh-sausages-toad-in-the-hole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:16:36.822Z"
+}
