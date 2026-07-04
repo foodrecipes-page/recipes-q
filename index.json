@@ -10357,17 +10357,17 @@
   },
   {
     "slug": "quick-pickled-korean-cucumbers-banchan",
-    "title": "Quick Pickled Korean Cucumbers Banchan",
+    "title": "Spicy Korean Cucumber Banchan",
     "tags": [
-      "ayurvedic-friendly",
-      "date-night",
-      "gluten-free",
-      "korean-cuisine",
-      "quick-pickling",
-      "vegetarian"
+      "korean",
+      "veggie",
+      "side-dish",
+      "spicy",
+      "easy",
+      "quick"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -14753,14 +14753,12 @@
   },
   {
     "slug": "quietly-fluffy-tunisian-shungiku-pilaf",
-    "title": "Quietly Fluffy Tunisian Shungiku Pilaf",
+    "title": "Tunisian Chicken and Greens Pilaf",
     "tags": [
-      "comfort-food",
-      "easy-meal",
-      "low-sodium",
-      "one-pot",
-      "tunisian",
-      "vegetarian"
+      "chicken",
+      "pilaf",
+      "greens",
+      "tunisian-spices"
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
@@ -15490,17 +15488,15 @@
   },
   {
     "slug": "quietly-quintessential-russian-saskatoon-berries-pilaf",
-    "title": "Quietly Quintessential Russian Saskatoon Berries Pilaf",
+    "title": "Saskatoon Berry Pilaf",
     "tags": [
-      "berry-based",
-      "one-pot",
-      "romantic",
+      "berry",
+      "rice",
       "russian",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
