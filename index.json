@@ -2905,15 +2905,11 @@
   },
   {
     "slug": "quenched-hangover-brazilian-eggs-bake",
-    "title": "Quenched Hangover Brazilian Eggs Bake",
+    "title": "Brazilian Hangover Bake",
     "tags": [
-      "bacon",
       "breakfast",
-      "brunch",
-      "cheese",
-      "eggs",
-      "hangover-cure",
-      "sugar-free"
+      "brasilian",
+      "hangover-cure"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 45,
@@ -7721,15 +7717,15 @@
   },
   {
     "slug": "quick-fix-roasted-norwegian-mascarpone-gratin",
-    "title": "Quick-Fix Roasted Norwegian Mascarpone Gratin",
+    "title": "Norwegian Gratin with Mascarpone",
     "tags": [
-      "dinner-party",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "norwegian",
+      "gratin",
+      "mascarpone",
+      "vegetarian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -8946,18 +8942,16 @@
   },
   {
     "slug": "quick-gooey-vietnamese-ham-pho",
-    "title": "Quick Gooey Vietnamese Ham Pho",
+    "title": "Vietnamese-Style Ham and Cheese Quesadilla",
     "tags": [
-      "high-protein",
-      "lunch-ideas",
-      "macrobiotic-friendly",
-      "one-pan",
-      "quick-meals",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "quesadilla",
+      "ham",
+      "cheese",
+      "snack"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "q"
   },
   {
@@ -16922,17 +16916,16 @@
   },
   {
     "slug": "quintessential-peppery-egyptian-lentil-kebabs",
-    "title": "Quintessential Peppery Egyptian Lentil Kebabs",
+    "title": "Egyptian Kebabs with Lentil Salad",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "midnight-cravings",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "egyptian",
+      "kebabs",
+      "lentils",
+      "salad",
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
