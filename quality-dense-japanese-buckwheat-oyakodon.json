@@ -1,0 +1,95 @@
+{
+  "slug": "quality-dense-japanese-buckwheat-oyakodon",
+  "title": "Japanese Oyakodon",
+  "description": "Japanese Oyakodon is a popular Japanese dish consisting of chicken and egg cooked in a savory sauce and served over a bed of Japanese rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat Soba Noodles",
+      "amount": "1 cup",
+      "notes": "preferably Japanese buckwheat soba noodles"
+    },
+    {
+      "name": "Boneless, Skinless Chicken Thighs",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "Sake (Japanese Rice Wine)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "2 tablespoons",
+      "notes": "Japanese cooking stock"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook buckwheat soba noodles according to package instructions.",
+    "In a large skillet or wok, heat sesame oil over medium heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Remove chicken from skillet, set aside.",
+    "Add soy sauce, sake (if using), sugar, and dashi broth to skillet.",
+    "Bring sauce to a simmer and cook for 2-3 minutes.",
+    "Add beaten eggs to skillet, scramble until cooked through.",
+    "Return chicken to skillet and stir to combine with eggs and sauce.",
+    "Cook for an additional 1-2 minutes.",
+    "Serve chicken and egg mixture over cooked buckwheat soba noodles.",
+    "Garnish with chopped green onions and sesame seeds (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "oyakodon",
+    "buckwheat",
+    "chicken",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-dense-japanese-buckwheat-oyakodon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T16:45:24.521Z"
+}
