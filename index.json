@@ -1663,17 +1663,15 @@
   },
   {
     "slug": "quaintly-molten-syrian-almond-pilaf",
-    "title": "Quaintly Molten Syrian Almond Pilaf",
+    "title": "Syrian Pilaf with Almond Crunch",
     "tags": [
-      "copper-pot",
-      "festive-dishes",
-      "kosher-friendly",
-      "nutty-flavors",
-      "one-pot",
-      "syrian-cuisine"
+      "syrian",
+      "pilaf",
+      "almond",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -8924,17 +8922,14 @@
   },
   {
     "slug": "quick-gooey-peruvian-paneer-tacu-tacu",
-    "title": "Quick Gooey Peruvian Paneer Tacu Tacu",
+    "title": "Quick Peruvian Tacu Tacu with Paneer",
     "tags": [
-      "double-fry",
-      "gluten-free",
-      "low-glycemic",
-      "midnight-cravings",
-      "pandan-leaves",
-      "peruvian-food"
+      "peruvian",
+      "paneer",
+      "tacu-tacu"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
