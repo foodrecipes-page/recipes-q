@@ -1,0 +1,81 @@
+{
+  "slug": "quick-fix-saudi-arabian-cheese-dumplings",
+  "title": "Saudian Dumpling Delight",
+  "description": "A flavorful dish from Saudi Arabian cuisine, featuring dumplings in a rich cheese sauce. Quick and easy to make.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and warm water. Mix until a dough forms.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of cheese in the center of each circle.",
+    "Fold the dough over the cheese to form a dumpling.",
+    "Heat a large skillet over medium heat.",
+    "Add dumplings to the skillet and cook for 2-3 minutes on each side.",
+    "In a separate saucepan, melt 1 tablespoon of butter over medium heat.",
+    "Add chopped onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add shredded cheese and stir until melted.",
+    "Season with salt and black pepper to taste.",
+    "Serve dumplings with cheese sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudiarabian",
+    "dumplings",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-saudi-arabian-cheese-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:15:19.850Z"
+}
