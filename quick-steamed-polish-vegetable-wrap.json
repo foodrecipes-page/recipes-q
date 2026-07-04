@@ -1,0 +1,83 @@
+{
+  "slug": "quick-steamed-polish-vegetable-wrap",
+  "title": "Polish Vegetable Wrap",
+  "description": "A delicious and healthy wrap filled with steamed vegetables and polish sausage. Perfect for a quick and easy meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Steamed vegetables",
+      "amount": "1 cup",
+      "notes": "such as cabbage, carrots, and onions"
+    },
+    {
+      "name": "Quick wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Vegetable wrap",
+      "amount": "1",
+      "notes": "small flour tortilla for wrapping"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Grill the polish sausage for 5-7 minutes, or until browned and cooked through.",
+    "3. Slice the sausage into thin strips.",
+    "4. Steam the vegetables for 3-5 minutes, or until tender.",
+    "5. Warm the large flour tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the wrap by spreading mayonnaise and mustard on the tortilla, then adding the sliced sausage and steamed vegetables.",
+    "7. Wrap the small flour tortilla around the filling to create a tight roll.",
+    "8. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-polish-vegetable-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:25:23.502Z"
+}
