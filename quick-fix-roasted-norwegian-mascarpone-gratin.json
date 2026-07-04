@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-roasted-norwegian-mascarpone-gratin",
+  "title": "Norwegian Gratin with Mascarpone",
+  "description": "A rich and creamy gratin dish inspired by Norwegian cuisine, perfect for a cold evening. This gratin combines roasted vegetables with a tangy mascarpone sauce.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roasted Butternut Squash",
+      "amount": "1 medium squash, peeled and cubed",
+      "notes": null
+    },
+    {
+      "name": "Mascarpone Cheese",
+      "amount": "8 oz (225g)",
+      "notes": null
+    },
+    {
+      "name": "Fix Fennel",
+      "amount": "1 bulb, sliced",
+      "notes": "Anise-flavored fennel adds a unique twist to the dish"
+    },
+    {
+      "name": "Norwegian Fontina Cheese",
+      "amount": "8 oz (225g), grated",
+      "notes": "Melts beautifully and adds a rich flavor"
+    },
+    {
+      "name": "Quick Chives",
+      "amount": "1/4 cup, chopped",
+      "notes": "Adds a pop of color and freshness"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Gratin Breadcrumbs (optional)",
+      "amount": "1/4 cup, toasted",
+      "notes": "Adds a crunchy texture to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the cubed butternut squash, sliced fennel, and a pinch of salt and pepper. Toss to coat.",
+    "Transfer the squash mixture to a baking dish and roast in the oven for 20-25 minutes, or until tender.",
+    "Meanwhile, in a separate bowl, combine the mascarpone cheese, Norwegian fontina cheese, and a pinch of salt and pepper. Mix until smooth.",
+    "Once the squash is tender, remove it from the oven and top with the mascarpone mixture.",
+    "Return the dish to the oven and bake for an additional 5-7 minutes, or until the top is golden brown.",
+    "Remove from the oven and sprinkle with toasted breadcrumbs (if using).",
+    "Garnish with chopped chives and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "gratin",
+    "mascarpone",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-roasted-norwegian-mascarpone-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:17:32.734Z"
+}
