@@ -1,0 +1,64 @@
+{
+  "slug": "quenched-tunisian-nutella-wrap",
+  "title": "Nutella Tunisian Wrap",
+  "description": "A sweet and satisfying treat featuring Nutella, quenched, and tunisian in a crispy wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Nutella",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "quenched",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "Place the wrap in the pan and cook for 1-2 minutes.",
+    "Flip the wrap and spread 1 tbsp of Nutella on half of the wrap.",
+    "Add the tunisian and quenched on top of the Nutella.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cook for an additional 1-2 minutes or until the wrap is crispy.",
+    "Dust with powdered sugar if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "breakfast",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-tunisian-nutella-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:22:10.061Z"
+}
