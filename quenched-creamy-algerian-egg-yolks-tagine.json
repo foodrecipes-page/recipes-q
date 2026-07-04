@@ -1,0 +1,70 @@
+{
+  "slug": "quenched-creamy-algerian-egg-yolks-tagine",
+  "title": "Creamy Algerian Tagine",
+  "description": "A rich and comforting Algerian-inspired dish made with creamy tagine sauce and eggs.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "egg",
+      "amount": "4",
+      "notes": "large eggs"
+    },
+    {
+      "name": "tagine",
+      "amount": "250g",
+      "notes": "store-bought or homemade tagine sauce"
+    },
+    {
+      "name": "algerian",
+      "amount": "1tsp",
+      "notes": "algerian spice blend"
+    },
+    {
+      "name": "quenched",
+      "amount": "50g",
+      "notes": "milk or heavy cream"
+    },
+    {
+      "name": "yolks",
+      "amount": "2",
+      "notes": "egg yolks for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a medium saucepan, whisk together the tagine sauce, quenched, and algerian spice blend. Bring to a simmer over medium heat.",
+    "In a separate bowl, whisk the egg yolks until smooth. Temper the egg yolks by slowly pouring the warm tagine sauce into the egg yolks, whisking constantly.",
+    "Add the egg yolks to the saucepan with the tagine sauce and whisk until well combined.",
+    "Crack the eggs into a separate bowl and whisk them lightly. Temper the eggs by slowly pouring the warm egg yolk mixture into the eggs, whisking constantly.",
+    "Pour the egg mixture into 4 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 20-25 minutes, or until the eggs are set and the tagine sauce is bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "breakfast",
+    "egg-recipes",
+    "lunch",
+    "tagine-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-creamy-algerian-egg-yolks-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:55:37.567Z"
+}
