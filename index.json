@@ -2427,16 +2427,15 @@
   },
   {
     "slug": "quenched-croatian-corn-salad",
-    "title": "Quenched Croatian Corn Salad",
+    "title": "Croatian Corn Salad",
     "tags": [
-      "croatian-dish",
-      "fresh",
-      "quick",
       "salad",
-      "vegetarian-friendly"
+      "summer",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -4519,16 +4518,14 @@
   },
   {
     "slug": "quenched-ukrainian-fish-borscht",
-    "title": "Quenched Ukrainian Fish Borscht",
+    "title": "Traditional Ukranian Borscht",
     "tags": [
+      "ukrainian",
       "beets",
-      "comfort-food",
-      "fish",
-      "pescatarian",
-      "ukrainian"
+      "soup"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -12561,14 +12558,15 @@
   },
   {
     "slug": "quick-sweet-poach",
-    "title": "QuickSweetPoach",
+    "title": "Sweet Poached Salmon",
     "tags": [
-      "quick-sweet-poach",
-      "sour-gooey-dish",
-      "uruguayan"
+      "poached",
+      "salmon",
+      "honey",
+      "lemon"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 8,
+    "cuisine": "seafood",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
