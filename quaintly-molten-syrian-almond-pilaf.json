@@ -1,0 +1,85 @@
+{
+  "slug": "quaintly-molten-syrian-almond-pilaf",
+  "title": "Syrian Pilaf with Almond Crunch",
+  "description": "A flavorful Middle Eastern-inspired pilaf dish with crispy almond topping, perfect for a satisfying dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Syrian Pilaf Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Quaintly Quinoa (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add Syrian pilaf mix and cook according to package instructions.",
+    "Stir in 1 cup of water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "While pilaf is cooking, toast sliced almonds in a separate pan over medium heat until lightly browned.",
+    "Fluff pilaf with a fork and stir in toasted almonds, salt, and black pepper.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "If using quinoa, cook according to package instructions and serve alongside pilaf."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian",
+    "pilaf",
+    "almond",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-molten-syrian-almond-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:34:21.521Z"
+}
