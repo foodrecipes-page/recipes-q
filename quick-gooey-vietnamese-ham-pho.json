@@ -1,0 +1,72 @@
+{
+  "slug": "quick-gooey-vietnamese-ham-pho",
+  "title": "Vietnamese-Style Ham and Cheese Quesadilla",
+  "description": "A fusion take on a classic quesadilla, featuring crispy Vietnamese pho ham and gooey cheese.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "dairy",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Vietnamese Pho Ham",
+      "amount": "1 cup, thinly sliced"
+    },
+    {
+      "name": "Quick Mozzarella Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Gooey Cheddar Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Quick Tortilla",
+      "amount": "2",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat.",
+    "Butter one side of each tortilla.",
+    "Place one tortilla, buttered side down, in the skillet.",
+    "Top with Vietnamese Pho Ham, Mozzarella Cheese, and Cheddar Cheese.",
+    "Place the second tortilla, buttered side up, on top.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is crispy.",
+    "Cut into wedges and serve immediately.",
+    "Repeat with the remaining ingredients.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "quesadilla",
+    "ham",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-gooey-vietnamese-ham-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:13:07.429Z"
+}
