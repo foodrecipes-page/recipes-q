@@ -1061,17 +1061,14 @@
   },
   {
     "slug": "quaint-russian-pappardelle-pasta",
-    "title": "Quaint Russian Pappardelle Pasta",
+    "title": "Russian Pappardelle Bake",
     "tags": [
-      "glassy-jelly",
-      "nutty",
-      "one-pan",
-      "russian-cuisine",
-      "satvik-friendly",
-      "vegetarian"
+      "russian",
+      "pasta",
+      "bake"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -4387,13 +4384,16 @@
   },
   {
     "slug": "quenched-syrian-peanut-butter-tagine",
-    "title": "Quenched Syrian Peanut Butter Tagine",
+    "title": "Syrian Tagine Chicken with Peanut Sauce",
     "tags": [
+      "chicken",
+      "peanut sauce",
       "syrian",
-      "dinner"
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -4558,17 +4558,16 @@
   },
   {
     "slug": "quenched-umami-british-collards-shepherd-s-pie",
-    "title": "Quenched Umami British Collards Shepherd's Pie",
+    "title": "British Shepherd's Pie",
     "tags": [
-      "bain-marie",
-      "british-cuisine",
-      "cataplana",
-      "comfort-food",
-      "shepherds-pie",
-      "vegetarian"
+      "shepherd",
+      "pie",
+      "british",
+      "comfort",
+      "food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -6695,18 +6694,17 @@
   },
   {
     "slug": "quick-filipino-rice-noodles-noodles",
-    "title": "Quick Filipino Rice Noodles",
+    "title": "Filipino-Style Fried Noodles",
     "tags": [
-      "flaky",
-      "kid-friendly",
-      "korean-brass-bowl",
-      "nogarlic",
-      "noonion",
-      "pancit-bihon",
-      "quick"
+      "filipino",
+      "noodles",
+      "vegetarian",
+      "quick",
+      "easy",
+      "stir-fry"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -13247,16 +13245,15 @@
   },
   {
     "slug": "quickly-braised-welsh-sausages-toad-in-the-hole",
-    "title": "Quickly Braised Welsh Sausages Toad-in-the-Hole",
+    "title": "Welsh Sausage in the Hole",
     "tags": [
-      "beef-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "breakfast",
+      "sausage",
+      "wales",
+      "comfort-food"
     ],
     "cuisine": "Welsh",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
