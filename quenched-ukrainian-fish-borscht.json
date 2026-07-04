@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-ukrainian-fish-borscht",
+  "title": "Traditional Ukranian Borscht",
+  "description": "A hearty beet-based soup originating from Ukraine, typically served with a dollop of sour cream. This recipe combines classic ingredients with a hint of fish for added depth of flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add grated beets, carrots, and cabbage. Cook for an additional 5 minutes.",
+    "Add fish broth, tomato paste (if using), and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream and garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "beets",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-ukrainian-fish-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:12:10.124Z"
+}
