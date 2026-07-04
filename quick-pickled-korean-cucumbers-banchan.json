@@ -1,0 +1,76 @@
+{
+  "slug": "quick-pickled-korean-cucumbers-banchan",
+  "title": "Spicy Korean Cucumber Banchan",
+  "description": "A refreshing and spicy side dish featuring pickled cucumbers from Korea. Perfect for balancing the richness of a Korean meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quick Korean Cucumbers",
+      "amount": "1 (14.5 oz) jar"
+    },
+    {
+      "name": "Korean Banchan Cucumbers",
+      "amount": "1 (12 oz) jar"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Drain the liquid from the Korean cucumbers and set aside.",
+    "2. In a small bowl, whisk together gochujang, rice vinegar, sesame oil, salt, and black pepper.",
+    "3. Add the drained cucumbers to the bowl and toss to coat with the gochujang mixture.",
+    "4. Chill in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "5. Serve chilled, garnished with chopped green onions if desired.",
+    "6. Store any leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "veggie",
+    "side-dish",
+    "spicy",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 0.5,
+    "carbs": 15,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-pickled-korean-cucumbers-banchan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:44:52.900Z"
+}
