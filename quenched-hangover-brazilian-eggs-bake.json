@@ -1,0 +1,76 @@
+{
+  "slug": "quenched-hangover-brazilian-eggs-bake",
+  "title": "Brazilian Hangover Bake",
+  "description": "A hearty breakfast dish to cure your hangover, featuring eggs, cheese, and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "bake",
+      "amount": "200g",
+      "notes": "mildly spiced"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a pan over medium heat, cook the onion and garlic until softened.",
+    "Add the cumin and paprika, and stir for 1 minute.",
+    "In a separate bowl, whisk the eggs and a pinch of salt.",
+    "Add the cooked onion mixture, shredded cheese, and baked goods to the eggs. Mix well.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brasilian",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-hangover-brazilian-eggs-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:57:04.097Z"
+}
