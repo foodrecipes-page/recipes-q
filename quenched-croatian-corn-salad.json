@@ -1,0 +1,61 @@
+{
+  "slug": "quenched-croatian-corn-salad",
+  "title": "Croatian Corn Salad",
+  "description": "A refreshing summer salad from Croatia, made with corn, salad, and a hint of spice.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": " mixed greens"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 teaspoon",
+      "notes": "paprika"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the salad and corn.",
+    "2. In a small bowl, whisk together the quenched and croatian.",
+    "3. Pour the dressing over the salad and corn.",
+    "4. Toss to combine.",
+    "5. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "summer",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-croatian-corn-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:35:23.873Z"
+}
