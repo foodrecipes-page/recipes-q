@@ -1826,16 +1826,16 @@
   },
   {
     "slug": "quality-dense-japanese-buckwheat-oyakodon",
-    "title": "Quality Dense Japanese Buckwheat Oyakodon",
+    "title": "Japanese Oyakodon",
     "tags": [
-      "buckwheat-recipes",
-      "coconut-cream-dishes",
-      "japanese-cuisine",
-      "shojin-friendly",
-      "special-occasion"
+      "japanese",
+      "oyakodon",
+      "buckwheat",
+      "chicken",
+      "eggs"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -2331,17 +2331,14 @@
   },
   {
     "slug": "quenched-comfort-russian-grape-pilaf",
-    "title": "Quenched Comfort Russian Grape Pilaf",
+    "title": "Russian Pilaf",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "one-pan",
-      "pilaf",
-      "russian-cuisine",
-      "weeknight"
+      "russian",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -14159,16 +14156,16 @@
   },
   {
     "slug": "quietly-charred-argentinian-tomato-bowl",
-    "title": "Quietly Charred Argentinian Tomato Bowl",
+    "title": "Quietly Grilled Charred Tomato Bowl",
     "tags": [
-      "argentinian-cuisine",
-      "lazy-sunday",
-      "one-pan",
-      "scallop-shell-recipe",
-      "vegan-friendly"
+      "argentinian",
+      "charred",
+      "tomato",
+      "grilled",
+      "bowl"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
