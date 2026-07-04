@@ -1,0 +1,83 @@
+{
+  "slug": "quintessential-peppery-egyptian-lentil-kebabs",
+  "title": "Egyptian Kebabs with Lentil Salad",
+  "description": "A flavorful and nutritious Egyptian-inspired dish featuring lentil salad and grilled kebabs. Perfect for a quick weeknight dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quintessential lentils",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "quintessential olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "quintessential lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "peppery red onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "quintessential garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "kebabs",
+      "amount": "1 package",
+      "notes": "your favorite type"
+    },
+    {
+      "name": "quintessential salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "quintessential black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook lentils according to package instructions.",
+    "In a large bowl, whisk together olive oil, lemon juice, and cumin. Add cooked lentils, red onion, and garlic.",
+    "Season with salt and black pepper to taste.",
+    "Preheat grill to medium-high heat.",
+    "Thread kebabs onto skewers, if needed.",
+    "Grill kebabs for 8-10 minutes, or until cooked through.",
+    "Serve kebabs with lentil salad on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "kebabs",
+    "lentils",
+    "salad",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-peppery-egyptian-lentil-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:37:17.624Z"
+}
