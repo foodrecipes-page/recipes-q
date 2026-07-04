@@ -4012,17 +4012,15 @@
   },
   {
     "slug": "quenched-smoke-xinjiang-lamb-tagine",
-    "title": "Quenched Smoke Xinjiang Lamb Tagine",
+    "title": "Xinjiang Lamb Tagine",
     "tags": [
-      "dairy-free",
-      "high-protein",
-      "low-fodmap",
-      "one-pan",
-      "slow-cooker",
-      "weeknight"
+      "lamb",
+      "tagine",
+      "xinjiang",
+      "slow-cooked"
     ],
     "cuisine": "Xinjiang",
-    "totalTimeMin": 180,
+    "totalTimeMin": 150,
     "shard": "q"
   },
   {
