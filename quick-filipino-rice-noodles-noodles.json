@@ -1,0 +1,88 @@
+{
+  "slug": "quick-filipino-rice-noodles-noodles",
+  "title": "Filipino-Style Fried Noodles",
+  "description": "A quick and delicious Filipino-inspired dish made with stir-fried noodles and vegetables, perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "any color"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and grated"
+    },
+    {
+      "name": "Egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add onion and garlic and stir-fry until onion is translucent.",
+    "Add cabbage and carrots and stir-fry until vegetables are tender.",
+    "Push vegetables to one side of the pan.",
+    "Add egg to the other side of the pan and scramble until cooked through.",
+    "Mix egg with vegetables.",
+    "Add cooked noodles to the pan, along with soy sauce, salt, and pepper.",
+    "Stir-fry everything together until well combined.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "noodles",
+    "vegetarian",
+    "quick",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-rice-noodles-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:56:42.586Z"
+}
