@@ -1,0 +1,85 @@
+{
+  "slug": "quaint-brazilian-walnut-paella",
+  "title": "Brazilian Paella with Walnut Crust",
+  "description": "A twist on the classic Spanish dish, this Brazilian paella features a crunchy walnut crust and is packed with flavorful chicken and spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paella rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a blender or food processor, blend chopped walnuts until finely ground.",
+    "In a large skillet, heat coconut oil over medium-high heat. Add chicken and cook until browned, about 5 minutes.",
+    "Add diced onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add paella rice to the skillet and cook, stirring constantly, for 2-3 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "While the paella is baking, mix the ground walnuts with a pinch of salt.",
+    "To assemble the paella, remove it from the oven and sprinkle the walnut crust on top.",
+    "Return the paella to the oven and bake for an additional 5-10 minutes, or until the crust is golden brown.",
+    "Remove the paella from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "walnut",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-brazilian-walnut-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:28:04.063Z"
+}
