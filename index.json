@@ -71,18 +71,16 @@
   },
   {
     "slug": "qtoast-avocado-pesto",
-    "title": "Qtoast Avocado Pesto",
+    "title": "Avocado Toast with Pesto",
     "tags": [
-      "adventurous",
-      "brazilian",
-      "grassy",
-      "reduce",
-      "satvik-friendly",
-      "shattering",
-      "unsalted-butter"
+      "breakfast",
+      "snack",
+      "avocado",
+      "pesto",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 7,
     "shard": "q"
   },
   {
