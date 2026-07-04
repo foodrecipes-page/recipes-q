@@ -1,0 +1,66 @@
+{
+  "slug": "quick-sweet-poach",
+  "title": "Sweet Poached Salmon",
+  "description": "A delicate and flavorful dish featuring poached salmon fillet with a sweet and tangy glaze.",
+  "cuisine": "seafood",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillet",
+      "amount": "2",
+      "notes": "fresh and of good quality"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "pure and of good quality"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for poaching"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a simmer in a large skillet.",
+    "Add the honey and lemon juice to the water, stirring to combine.",
+    "Add the salmon fillet to the skillet and poach for 8-10 minutes, or until cooked through.",
+    "Remove the salmon from the skillet and let rest for 2-3 minutes.",
+    "Serve the salmon with a sprinkle of fresh thyme, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "poached",
+    "salmon",
+    "honey",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-poach",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:29:50.424Z"
+}
