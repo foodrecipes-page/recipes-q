@@ -1,0 +1,95 @@
+{
+  "slug": "quenched-smoke-xinjiang-lamb-tagine",
+  "title": "Xinjiang Lamb Tagine",
+  "description": "A traditional Xinjiang-inspired lamb tagine rich with the flavors of the region. This slow-cooked stew is a perfect representation of the local cuisine.",
+  "cuisine": "Xinjiang",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 tablespoons",
+      "notes": "sesame oil for cooking"
+    },
+    {
+      "name": "smoke",
+      "amount": "2 tablespoons",
+      "notes": "lamb's own fat for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of smoke in a large clay pot over medium heat.",
+    "2. Add 1 tablespoon of cumin and 1 teaspoon of coriander. Cook for 1 minute.",
+    "3. Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "4. Add the onion, garlic, and ginger. Cook until the onion is translucent.",
+    "5. Add the lamb's own fat, cumin, coriander, cinnamon, and salt.",
+    "6. Stir in 2 tablespoons of quenched.",
+    "7. Cover the pot and transfer it to the oven at 300°F (150°C) for 2 hours.",
+    "8. Stir the tagine every 30 minutes to ensure even cooking.",
+    "9. Serve hot, garnished with fresh cilantro leaves.",
+    "10. Serve with steamed basmati rice and warm naan bread for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "xinjiang",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoke-xinjiang-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:06:05.587Z"
+}
