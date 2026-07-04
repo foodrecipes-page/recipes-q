@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-comfort-russian-grape-pilaf",
+  "title": "Russian Pilaf",
+  "description": "A hearty and comforting dish originating from Russia, made with pilaf and a hint of grape.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably basmati or jasmine"
+    },
+    {
+      "name": "quenched red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "grape",
+      "amount": "1/2 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "comforting chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "comforting chicken fat",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken fat in a large pan over medium-high heat.",
+    "Add the sliced red onion and cook until translucent, about 3-4 minutes.",
+    "Add the pilaf and cook for an additional 2-3 minutes.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low and cover the pan with a lid.",
+    "Simmer for 15-20 minutes or until the liquid has been absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped grapes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-comfort-russian-grape-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:15:24.597Z"
+}
