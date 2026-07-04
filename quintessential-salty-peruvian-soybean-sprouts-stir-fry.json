@@ -1,0 +1,65 @@
+{
+  "slug": "quintessential-salty-peruvian-soybean-sprouts-stir-fry",
+  "title": "Peruvian Stir-Fry with Sprouts and Soybean",
+  "description": "A tasty and nutritious stir-fry dish from Peru, featuring sprouts and soybeans as the main ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soybeans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Sprouts",
+      "amount": "1 cup",
+      "notes": "trim the ends and chop"
+    },
+    {
+      "name": "Quintessential Oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Stir-Fry Pepper",
+      "amount": "1",
+      "notes": "any color, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the quintessential oil in a pan over medium-high heat.",
+    "Add the sliced stir-fry pepper and cook for 2 minutes.",
+    "Add the cooked soybeans and sprouts, stir-frying for 3-4 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional sprouts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "vegetarian",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-salty-peruvian-soybean-sprouts-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:44:10.353Z"
+}
