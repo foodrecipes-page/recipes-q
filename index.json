@@ -4460,18 +4460,15 @@
   },
   {
     "slug": "quenched-tunisian-nutella-wrap",
-    "title": "Quenched Tunisian Nutella Wrap",
+    "title": "Nutella Tunisian Wrap",
     "tags": [
-      "deep-fry",
-      "lotus-leaf",
-      "quick",
-      "sick-day",
       "sweet",
-      "tunisian",
-      "wrap"
+      "breakfast",
+      "snack",
+      "easy"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 17,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 9,
     "shard": "q"
   },
   {
@@ -6421,16 +6418,15 @@
   },
   {
     "slug": "quick-energizing-french-chicken-noodles",
-    "title": "Quick Energizing French Chicken Noodles",
+    "title": "Quick Chicken Noodle Stir Fry",
     "tags": [
-      "french-cuisine",
-      "high-protein",
-      "one-pan",
-      "quick-meal",
-      "weeknight"
+      "easy",
+      "quick",
+      "chicken",
+      "noodles"
     ],
     "cuisine": "French",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -12424,17 +12420,14 @@
   },
   {
     "slug": "quick-steamed-polish-vegetable-wrap",
-    "title": "Quick Steamed Polish Vegetable Wrap",
+    "title": "Polish Vegetable Wrap",
     "tags": [
-      "healthy-eating",
-      "polish-cuisine",
-      "quick-meals",
-      "spring-recipes",
-      "steamed-vegetables",
-      "vegetarian-dishes"
+      "polish",
+      "vegetarian",
+      "wrap"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -13344,18 +13337,18 @@
   },
   {
     "slug": "quickly-crumbly-turkish-lamb-doner-kebab",
-    "title": "Quickly Crumbly Turkish Lamb Doner Kebab",
+    "title": "Quick Turkish-Style Lamb Doner Kebab",
     "tags": [
-      "doner-kebab",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "post-workout",
       "turkish",
-      "weeknight"
+      "lamb",
+      "kebab",
+      "doner",
+      "grill",
+      "pita",
+      "feta"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
