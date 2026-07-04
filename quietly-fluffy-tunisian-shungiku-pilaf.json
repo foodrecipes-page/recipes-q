@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-fluffy-tunisian-shungiku-pilaf",
+  "title": "Tunisian Chicken and Greens Pilaf",
+  "description": "A flavorful and healthy pilaf dish made with Tunisian spices, chicken, and nutritious shungiku greens.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fluffy jasmine rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "shungiku greens",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "quietly roasted red pepper",
+      "amount": "1",
+      "notes": "roasted and diced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the diced red pepper to the skillet and cook for 2-3 minutes.",
+    "Add the Tunisian spice blend and cook for another minute.",
+    "Add the pilaf to the skillet and cook for 2-3 minutes, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and stir in the cooked chicken and shungiku greens.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "greens",
+    "tunisian-spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fluffy-tunisian-shungiku-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:47:56.895Z"
+}
