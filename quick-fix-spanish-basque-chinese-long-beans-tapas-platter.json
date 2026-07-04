@@ -1,0 +1,71 @@
+{
+  "slug": "quick-fix-spanish-basque-chinese-long-beans-tapas-platter",
+  "title": "Spanish Tapas Platter",
+  "description": "A selection of classic Spanish tapas dishes, perfect for a quick and easy meal. This platter includes a variety of flavors and textures to satisfy any appetite.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quick Crostini",
+      "amount": "1 baguette, sliced",
+      "notes": "You can use store-bought or homemade baguette"
+    },
+    {
+      "name": "Fix Beans",
+      "amount": "1 can black beans, drained and rinsed",
+      "notes": "You can use any type of beans you like"
+    },
+    {
+      "name": "Spanish Olives",
+      "amount": "1 cup pitted green olives",
+      "notes": "You can use any type of olives you like"
+    },
+    {
+      "name": "Basque Ham",
+      "amount": "1 cup diced ham",
+      "notes": "You can use any type of cured ham you like"
+    },
+    {
+      "name": "Chili Sauce",
+      "amount": "1/4 cup",
+      "notes": "You can use any type of chili sauce you like"
+    },
+    {
+      "name": "Garlic Aioli",
+      "amount": "1/4 cup",
+      "notes": "You can use store-bought or homemade aioli"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Arrange the crostini slices on a baking sheet.",
+    "3. Drizzle with olive oil and toast in the oven for 5 minutes.",
+    "4. Spread a layer of garlic aioli on each crostini slice.",
+    "5. Top with a spoonful of black beans, diced ham, and a few olives.",
+    "6. Drizzle with chili sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tapas",
+    "spanish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-spanish-basque-chinese-long-beans-tapas-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:06:58.415Z"
+}
