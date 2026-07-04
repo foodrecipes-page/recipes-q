@@ -1,0 +1,68 @@
+{
+  "slug": "qtoast-avocado-pesto",
+  "title": "Avocado Toast with Pesto",
+  "description": "A simple and delicious breakfast or snack recipe featuring fresh avocado and store-bought or homemade pesto on toasted bread.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 slices of bread",
+      "amount": "2",
+      "notes": "gluten-free bread recommended"
+    },
+    {
+      "name": "1 ripe avocado",
+      "amount": "1",
+      "notes": "mashed"
+    },
+    {
+      "name": "2 tbsp pesto",
+      "amount": "2",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: 1-2 cherry tomatoes",
+      "amount": "1-2",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl.",
+    "Spread the mashed avocado on the toasted bread.",
+    "Drizzle 1-2 tbsp of pesto over the avocado.",
+    "Season with salt and pepper to taste.",
+    "Optional: top with halved cherry tomatoes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "avocado",
+    "pesto",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qtoast-avocado-pesto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:32:08.366Z"
+}
