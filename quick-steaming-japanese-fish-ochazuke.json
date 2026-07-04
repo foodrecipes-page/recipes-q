@@ -1,0 +1,77 @@
+{
+  "slug": "quick-steaming-japanese-fish-ochazuke",
+  "title": "Steamed Ochazuke with Japanese Fish",
+  "description": "A simple and flavorful Japanese dish made with steamed rice and topped with fish and green tea broth.",
+  "cuisine": "japanese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fish (such as salmon or trout)",
+      "amount": "6 oz",
+      "notes": "preferably sashimi-grade"
+    },
+    {
+      "name": "Green tea",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated daikon (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese rice thoroughly and cook according to the package instructions.",
+    "Meanwhile, prepare the green tea broth by steeping the green tea leaves in 2 cups of hot water.",
+    "Strain the green tea broth and mix with soy sauce and sesame oil.",
+    "Cut the fish into thin slices and set aside.",
+    "To serve, place a scoop of cooked Japanese rice in a bowl, followed by a few slices of fish.",
+    "Pour the green tea broth over the fish and rice, and garnish with green onions, sesame seeds, and grated daikon (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "fish",
+    "steaming",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steaming-japanese-fish-ochazuke",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:57:20.099Z"
+}
