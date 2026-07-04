@@ -1,0 +1,67 @@
+{
+  "slug": "quietly-charred-argentinian-tomato-bowl",
+  "title": "Quietly Grilled Charred Tomato Bowl",
+  "description": "A simple yet flavorful bowl filled with charred tomatoes, served with a side of quiet Argentinean spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "charred tomatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian seasoning",
+      "amount": "1 tsp",
+      "notes": "available in most spice aisles"
+    },
+    {
+      "name": "quiet olive oil",
+      "amount": "1 tbsp",
+      "notes": "use a light touch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Brush charred tomatoes with quiet olive oil and season with salt, black pepper, and Argentinian seasoning.",
+    "Grill the tomatoes for 5-7 minutes per side, or until slightly charred.",
+    "Transfer the tomatoes to a bowl.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "charred",
+    "tomato",
+    "grilled",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-charred-argentinian-tomato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:02:52.361Z"
+}
