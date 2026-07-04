@@ -1,0 +1,89 @@
+{
+  "slug": "quietly-smoked-kenyan-sweet-potato-stew",
+  "title": "Smoked Stew with Sweet Potatoes",
+  "description": "A hearty stew made with smoked potatoes and sweet potatoes, perfect for a chilly evening. This Kenyan-inspired dish is rich in flavor and nutrients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked potatoes",
+      "amount": "2 large",
+      "notes": "Look for smoked potatoes at your local market or substitute with regular potatoes and add a smoky flavor with liquid smoke"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "3 medium",
+      "notes": "Choose sweet potatoes that are high in beta-carotene for their vibrant orange color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Use a sweet onion like Vidalia for added sweetness"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Add baby carrots for extra crunch and flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince garlic for added depth of flavor"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality tomato paste for intense flavor"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Choose a low-sodium broth for a healthier option"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use sea salt for added depth of flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add carrots and cook for 5 minutes, until slightly tender.",
+    "Add smoked potatoes and sweet potatoes, cook for 5 minutes, until slightly tender.",
+    "Add tomato paste, vegetable broth, salt, and black pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "kenyan",
+    "smoked",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoked-kenyan-sweet-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:42:30.305Z"
+}
