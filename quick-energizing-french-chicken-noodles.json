@@ -1,0 +1,67 @@
+{
+  "slug": "quick-energizing-french-chicken-noodles",
+  "title": "Quick Chicken Noodle Stir Fry",
+  "description": "A simple and delicious stir fry made with chicken, noodles, and some French flair.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "noodles",
+      "amount": "1/2 cup",
+      "notes": "French-style"
+    },
+    {
+      "name": "quick sauce",
+      "amount": "2 tablespoons",
+      "notes": "available in the grocery store"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a large skillet or wok, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add the garlic and green onion to the skillet and cook for 1-2 minutes.",
+    "Add the noodles and quick sauce to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "chicken",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-french-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:23:07.633Z"
+}
