@@ -145,13 +145,11 @@
   },
   {
     "slug": "quaint-brazilian-walnut-paella",
-    "title": "Quaint Brazilian Walnut Paella",
+    "title": "Brazilian Paella with Walnut Crust",
     "tags": [
-      "brazilian-food",
-      "chicken-recipe",
-      "halal-recipe",
-      "one-pan",
-      "walnut-recipe"
+      "paella",
+      "walnut",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
@@ -7769,16 +7767,14 @@
   },
   {
     "slug": "quick-fix-saudi-arabian-cheese-dumplings",
-    "title": "Quick-Fix Saudi-Arabian Cheese Dumplings",
+    "title": "Saudian Dumpling Delight",
     "tags": [
-      "cheese-pull",
-      "easy-to-make",
-      "high-protein",
-      "saudi-arabian",
-      "weeknight"
+      "saudiarabian",
+      "dumplings",
+      "cheese"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7926,19 +7922,14 @@
   },
   {
     "slug": "quick-fix-spanish-basque-chinese-long-beans-tapas-platter",
-    "title": "Quick Fix Spanish Basque Chinese Long Beans Tapas Platter",
+    "title": "Spanish Tapas Platter",
     "tags": [
-      "basque",
-      "easy-to-make",
-      "high-fiber",
-      "spanish-cuisine",
-      "spicy",
       "tapas",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "snack"
     ],
     "cuisine": "spanish",
-    "totalTimeMin": 13,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -16992,16 +16983,14 @@
   },
   {
     "slug": "quintessential-salty-peruvian-soybean-sprouts-stir-fry",
-    "title": "Quintessential Salty Peruvian Soybean Sprouts Stir Fry",
+    "title": "Peruvian Stir-Fry with Sprouts and Soybean",
     "tags": [
-      "high-protein",
       "peruvian",
-      "stir-fry",
       "vegetarian",
-      "weeknight"
+      "quick-cooking"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
