@@ -1,0 +1,98 @@
+{
+  "slug": "quickly-crumbly-turkish-lamb-doner-kebab",
+  "title": "Quick Turkish-Style Lamb Doner Kebab",
+  "description": "A simplified version of the classic Turkish dish, perfect for a weeknight dinner. This recipe uses thinly sliced lamb and a flavorful spice blend to create a delicious and tender kebab.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Slice thinly against the grain"
+    },
+    {
+      "name": "Quick Turkish spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Doner kebab meat (lamb or beef)",
+      "amount": "1 pound",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6",
+      "notes": "Optional"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Optional"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together the Quick Turkish spice blend and olive oil.",
+    "Brush the spice blend mixture onto both sides of the lamb slices.",
+    "Grill the lamb slices for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Once the lamb is cooked, let it rest for a few minutes before slicing it thinly against the grain.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the kebabs by placing a few slices of the lamb onto each pita bread, along with some crumbly feta cheese, lettuce, tomatoes, red onion, and cucumber.",
+    "Drizzle the tops of the kebabs with a little olive oil and serve immediately.",
+    "Optional: Top with parsley and serve with extra pita bread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebab",
+    "doner",
+    "grill",
+    "pita",
+    "feta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-crumbly-turkish-lamb-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:53:39.683Z"
+}
