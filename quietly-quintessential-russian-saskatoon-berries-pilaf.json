@@ -1,0 +1,83 @@
+{
+  "slug": "quietly-quintessential-russian-saskatoon-berries-pilaf",
+  "title": "Saskatoon Berry Pilaf",
+  "description": "A flavorful pilaf dish featuring Saskatoon berries and quintessential Russian spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Saskatoon berries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "quintessential rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "pilaf spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or to desired consistency"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the uncooked rice and pilaf spice blend, stirring to combine.",
+    "Add the Saskatoon berries, lemon juice, and water, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and cover.",
+    "Simmer for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "berry",
+    "rice",
+    "russian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quintessential-russian-saskatoon-berries-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:54:40.208Z"
+}
