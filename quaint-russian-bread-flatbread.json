@@ -1,0 +1,78 @@
+{
+  "slug": "quaint-russian-bread-flatbread",
+  "title": "Russian-Style Flatbread with Quaint Twist",
+  "description": "A delicious Russian-inspired flatbread with a quaint twist, served best with a glass of cold beverage.",
+  "cuisine": "Russian",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Quaint (such as Caramelized Onions or Mushrooms)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mozzarella Cheese (or Russian Cheese alternatives)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Unroll flatbread and separate into individual pieces.",
+    "In a small bowl, mix together quaint ingredients (caramelized onions or mushrooms, garlic, salt, and black pepper).",
+    "Place a spoonful of the quaint mixture onto each flatbread piece.",
+    "Top with mozzarella cheese.",
+    "Sprinkle with fresh dill.",
+    "Brush edges of flatbread with olive oil.",
+    "Bake for 12-15 minutes or until cheese is melted and bubbly.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "russian",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-russian-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:01:59.711Z"
+}
