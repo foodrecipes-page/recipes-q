@@ -2348,17 +2348,16 @@
   },
   {
     "slug": "quenched-creamy-algerian-egg-yolks-tagine",
-    "title": "Quenched Creamy Algerian Egg Yolks Tagine",
+    "title": "Creamy Algerian Tagine",
     "tags": [
       "algerian-cuisine",
-      "dairy-free",
-      "easy-to-make",
-      "high-protein",
-      "low-fat-food",
-      "weeknight"
+      "breakfast",
+      "egg-recipes",
+      "lunch",
+      "tagine-recipes"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -16008,16 +16007,15 @@
   },
   {
     "slug": "quietly-smoked-kenyan-sweet-potato-stew",
-    "title": "Quietly Smoked Kenyan Sweet Potato Stew",
+    "title": "Smoked Stew with Sweet Potatoes",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "smoked-paprika",
-      "sweet-potatoes",
-      "vegetarian"
+      "stew",
+      "kenyan",
+      "smoked",
+      "sweet-potatoes"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
