@@ -1,0 +1,96 @@
+{
+  "slug": "quick-fix-aerated-syrian-rice-biryani",
+  "title": "Syrian Biryani Rice Bowl",
+  "description": "A flavorful and aromatic one-pot dish made with basmati rice, meat, and spices. This recipe serves as a base for a quick and delicious Syrian-inspired meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the ginger and cook for an additional 1 minute.",
+    "Add the ground beef and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the cumin, cayenne pepper, turmeric, salt, and black pepper. Stir to combine.",
+    "Add the rice to the skillet and stir to combine with the meat and spice mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the biryani with a fork and serve hot.",
+    "Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "biryani",
+    "rice",
+    "beef",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-aerated-syrian-rice-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:25:05.456Z"
+}
