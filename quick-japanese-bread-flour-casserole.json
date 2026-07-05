@@ -1,0 +1,69 @@
+{
+  "slug": "quick-japanese-bread-flour-casserole",
+  "title": "Japanese-Style Casserole Bread",
+  "description": "A sweet and savory bread dish inspired by Japanese flavors, perfect for a dinner option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 large can"
+    },
+    {
+      "name": "Quick bread mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup, chopped",
+      "notes": "(optional)"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon",
+      "notes": "(optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, combine the flour and quick bread mix.",
+    "Add the casserole contents to the dry ingredients and stir until well combined.",
+    "Stir in the soy sauce and chopped green onions (if using).",
+    "Pour the mixture into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes, or until the bread is golden brown.",
+    "Remove from the oven and sprinkle with grated ginger (if using).",
+    "Let cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "casserole",
+    "japanese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-bread-flour-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:26:58.811Z"
+}
