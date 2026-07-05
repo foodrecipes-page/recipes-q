@@ -1,0 +1,85 @@
+{
+  "slug": "quenched-festive-middle-eastern-applesauce-skewers",
+  "title": "Middle Eastern Skewers with Applesauce Glaze",
+  "description": "Grilled Middle Eastern skewers served with a sweet and tangy applesauce glaze.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eastern spices blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Quenched yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "Middle eastern pita bread",
+      "amount": "1/4 cup",
+      "notes": "crumb"
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Festive onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Eastern bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together Eastern spices blend, quenched yogurt, and vegetable oil.",
+    "3. Add crumbled pita bread to the bowl and mix until it forms a paste.",
+    "4. Thread festive onions, eastern bell peppers, and eastern spices blend mixture onto skewers.",
+    "5. Brush skewers with additional vegetable oil and season with Eastern spices blend.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally.",
+    "7. While skewers are cooking, mix applesauce and 1 tsp Eastern spices blend in a small bowl.",
+    "8. Once skewers are done, let them rest for 2-3 minutes.",
+    "9. Brush applesauce glaze onto skewers and serve.",
+    "10. Garnish with additional Eastern spices blend, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "middle-eastern",
+    "applesauce-glaze",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-festive-middle-eastern-applesauce-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:24:25.028Z"
+}
