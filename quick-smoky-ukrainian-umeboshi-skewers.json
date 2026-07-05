@@ -1,0 +1,93 @@
+{
+  "slug": "quick-smoky-ukrainian-umeboshi-skewers",
+  "title": "Smoked Shish Kebabs",
+  "description": "A smoky twist on traditional Ukrainian shish kebabs, featuring umeboshi plum flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skewers",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "quick-cooking chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "umeboshi plums",
+      "amount": "4-6",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together olive oil, garlic, onion, bell pepper, smoky paprika, salt, and black pepper.",
+    "Thread chicken breast and umeboshi plum onto skewers.",
+    "Brush skewers with the olive oil mixture.",
+    "Grill skewers for 8-10 minutes.",
+    "Turn skewers halfway through the cooking time.",
+    "Remove skewers from grill and let rest for 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked",
+    "ukrainian",
+    "vegetarian",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-ukrainian-umeboshi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:42:13.052Z"
+}
