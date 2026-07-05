@@ -1,0 +1,89 @@
+{
+  "slug": "quick-fix-filipino-pilchards-kaldereta",
+  "title": "Pan-Seared Pilchard Kaldereta",
+  "description": "A Filipino-inspired dish featuring pilchard sardines in a rich tomato-based sauce, served with steamed rice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilchards",
+      "amount": "1 can (drained and chopped)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium (chopped)",
+      "notes": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves (minced)",
+      "notes": "1 tablespoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "1/4 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup",
+      "notes": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "2 teaspoons"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "1 sprig"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and garlic; cook until softened (3-4 minutes).",
+    "Add tomato paste; cook for 1 minute.",
+    "Add tomato sauce, fish sauce, sugar, and bay leaves; stir to combine.",
+    "Add pilchard sardines; cook for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve with steamed rice.",
+    "Garnish with chopped fresh parsley or basil (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "fish",
+    "sardines",
+    "kaldereta",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-filipino-pilchards-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:16:27.257Z"
+}
