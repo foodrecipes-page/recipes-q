@@ -7023,16 +7023,16 @@
   },
   {
     "slug": "quick-fix-filipino-pilchards-kaldereta",
-    "title": "Quick-Fix Filipino Pilchards Kaldereta",
+    "title": "Pan-Seared Pilchard Kaldereta",
     "tags": [
       "filipino",
       "fish",
-      "quick-fix",
-      "sous-vide",
-      "weeknight"
+      "sardines",
+      "kaldereta",
+      "sauce"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -17157,16 +17157,15 @@
   },
   {
     "slug": "quintessentially-qazi-portuguese-five-spice-lamb-bake",
-    "title": "Quintessentially Qazi Portuguese Five Spice Lamb Bake",
+    "title": "Lamb Koftas with Qazi Spice",
     "tags": [
-      "five-spice",
       "lamb",
-      "lazy-sunday",
-      "portuguese",
-      "weeknight"
+      "kebab",
+      "middle-eastern",
+      "spicy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
