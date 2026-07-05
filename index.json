@@ -1485,17 +1485,15 @@
   },
   {
     "slug": "quaint-yeasty-australian-pineapple-skewers",
-    "title": "Quaint Yeasty Australian Pineapple Skewers",
+    "title": "Australian Pineapple Satay",
     "tags": [
-      "australian-cuisine",
-      "coconut-recipes",
-      "kid-friendly",
-      "pineapple-recipes",
-      "rum-infused",
-      "steamed-dishes"
+      "australian",
+      "grilled",
+      "snack",
+      "pineapple"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -2027,18 +2025,16 @@
   },
   {
     "slug": "quenched-bitter-arabian-butter-pudding",
-    "title": "Quenched Bitter Arabian Butter Pudding",
+    "title": "Quenched Arabian Pudding Delight",
     "tags": [
-      "arabian",
-      "bain-marie",
-      "bitter",
-      "butter-rich",
+      "arabic",
+      "pudding",
       "dessert",
-      "lazy-sunday",
-      "one-pan"
+      "chocolate",
+      "cold"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Arabic",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -9817,15 +9813,16 @@
   },
   {
     "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf",
-    "title": "Quick Lazy-Sunday Sweet-Rice-Chapssalgaru Pilaf",
+    "title": "Sunday Sweet Rice Pilaf",
     "tags": [
-      "anti-inflammatory",
-      "lazy-sunday",
-      "pilaf-style",
-      "turkish-flavor"
+      "pilaf",
+      "rice",
+      "sweet",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 20,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -12919,16 +12916,15 @@
   },
   {
     "slug": "quick-vietnamese-pork-noodles",
-    "title": "Quick Vietnamese Pork Noodles",
+    "title": "Vietnamese-Style Pork Noodle Soup",
     "tags": [
-      "low-fat-friendly",
-      "one-pan",
-      "quick-cook",
       "vietnamese",
-      "weeknight"
+      "noodle-soup",
+      "pork",
+      "easy-to-make"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
