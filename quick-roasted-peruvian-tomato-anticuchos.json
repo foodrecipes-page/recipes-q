@@ -1,0 +1,85 @@
+{
+  "slug": "quick-roasted-peruvian-tomato-anticuchos",
+  "title": "Peruvian Anticuchos Recipe",
+  "description": "Delicious grilled beef heart skewers marinated in a mix of Peruvian spices and served with a side of roasted tomatoes.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef heart",
+      "amount": "1 pound",
+      "notes": "make sure to cut into 1-inch pieces"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1 teaspoon",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "peruvian anticuchos spice blend",
+      "amount": "1/4 teaspoon",
+      "notes": "available at latin markets"
+    },
+    {
+      "name": "quick-roasted tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vinegar, olive oil, garlic, aji amarillo pepper, cumin, and peruvian anticuchos spice blend.",
+    "Add the beef heart pieces to the marinade and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated beef heart pieces onto skewers.",
+    "Grill the skewers for 5-7 minutes per side, or until they reach an internal temperature of 145°F.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with roasted tomatoes and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "beef",
+    "heart",
+    "peruvian",
+    "anticuchos",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-peruvian-tomato-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:52:38.736Z"
+}
