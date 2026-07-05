@@ -1,0 +1,68 @@
+{
+  "slug": "quick-sour-croatian-porridge-oats-hash",
+  "title": "Croatian Hash and Porridge Bowl",
+  "description": "A hearty bowl filled with croatian hash, topped with a creamy porridge and a sprinkle of quick oats.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian hash",
+      "amount": "1 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the croatian hash in a pan over medium-high heat.",
+    "In a separate pot, bring the sour milk to a simmer.",
+    "Add the quick oats to the pot and cook, stirring constantly, until the oats have absorbed most of the liquid.",
+    "Season with salt and black pepper to taste.",
+    "To assemble the dish, place the cooked croatian hash in a bowl and top with the oat porridge.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "hash",
+    "oatmeal",
+    "porridge",
+    "croatian-hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sour-croatian-porridge-oats-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:26:28.301Z"
+}
