@@ -1,0 +1,86 @@
+{
+  "slug": "quietly-creamy-turkish-lamb-iskender",
+  "title": "Lamb Iskender Kebab",
+  "description": "A classic Turkish dish made with lamb, served with a creamy tomato sauce and served with pita bread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Creamy Tomato Sauce",
+      "amount": "200g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Quietly Toasted Pita Bread",
+      "amount": "4-6 slices",
+      "notes": "warm bread for serving"
+    },
+    {
+      "name": "Iskender Salad",
+      "amount": "serves 4-6",
+      "notes": "tomato, onion, parsley, sumac"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing lamb"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning lamb"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning lamb"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced for sauce"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb strips, olive oil, salt, and black pepper. Mix well to coat.",
+    "Heat a grill or grill pan to medium-high heat. Cook lamb strips for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, warm pita bread by wrapping it in foil and heating in the oven for 5 minutes.",
+    "To make the creamy tomato sauce, combine sauce ingredients in a bowl and stir to combine.",
+    "Assemble the kebab by placing cooked lamb strips on a plate, topping with creamy tomato sauce, and serving with pita bread and iskender salad.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebab",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-creamy-turkish-lamb-iskender",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:57:18.535Z"
+}
