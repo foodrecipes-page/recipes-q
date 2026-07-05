@@ -1,0 +1,96 @@
+{
+  "slug": "quietly-braised-american-beef-stew",
+  "title": "Classic Beef Stew",
+  "description": "A hearty and comforting beef stew made with tender beef and vegetables in a rich broth.",
+  "cuisine": "american",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds beef stew meat",
+      "amount": "",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": "chopped"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "2 carrots",
+      "amount": "",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "2 potatoes",
+      "amount": "",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the broth, thyme, and bay leaf to the pot and stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "beef",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 36,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-braised-american-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:34:08.382Z"
+}
