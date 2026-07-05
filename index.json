@@ -3314,16 +3314,15 @@
   },
   {
     "slug": "quenched-mexican-liver-tacos",
-    "title": "Quenched Mexican Liver Tacos",
+    "title": "Tasty Taco Tacos",
     "tags": [
-      "carnitas",
-      "paleo",
-      "quick",
+      "mexican",
       "tacos",
-      "weeknight"
+      "ground-beef",
+      "easy"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -3708,14 +3707,12 @@
   },
   {
     "slug": "quenched-portuguese-tofu-stir-fry",
-    "title": "Quenched Portuguese Tofu Stir-fry",
+    "title": "Portuguese-Style Stir-Fried Tofu",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "one-pan",
       "portuguese",
-      "quick",
-      "vegan"
+      "stir-fry",
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
@@ -8254,17 +8251,16 @@
   },
   {
     "slug": "quick-flaky-japanese-noodle-udon",
-    "title": "Quick Flaky Japanese Noodle Udon",
+    "title": "Quick Japanese Udon Noodle Soup",
     "tags": [
-      "flaky-noodles",
-      "jain-friendly",
-      "japanese-cuisine",
-      "noodle-dish",
-      "quick-lunch",
-      "vegetarian"
+      "japanese",
+      "noodle",
+      "soup",
+      "quick",
+      "easy"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 18,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -13938,16 +13934,15 @@
   },
   {
     "slug": "quietly-braised-american-beef-stew",
-    "title": "Quietly Braised American Beef Stew",
+    "title": "Classic Beef Stew",
     "tags": [
+      "american",
+      "beef",
       "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "one-tray",
-      "weeknight"
+      "stew"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": "american",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -16168,17 +16163,16 @@
   },
   {
     "slug": "quietly-smoky-uruguayan-beef-skewers",
-    "title": "Quietly Smoky Uruguayan Beef Skewers",
+    "title": "Uruguayan Beef Skewers",
     "tags": [
-      "beef-skewers",
-      "egg-free",
-      "gluten-free",
-      "one-pan",
-      "smoky",
-      "uruguayan"
+      "grill",
+      "bbq",
+      "skewers",
+      "uruguayan",
+      "beef"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
