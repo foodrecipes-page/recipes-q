@@ -2594,17 +2594,15 @@
   },
   {
     "slug": "quenched-festive-middle-eastern-applesauce-skewers",
-    "title": "Quenched Festive Middle-Eastern Applesauce Skewers",
+    "title": "Middle Eastern Skewers with Applesauce Glaze",
     "tags": [
-      "easy-to-make",
-      "festive",
-      "gluten-free",
-      "lacto-vegetarian",
+      "grilled",
       "middle-eastern",
-      "vegan-friendly"
+      "applesauce-glaze",
+      "skewers"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 32,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -3550,18 +3548,16 @@
   },
   {
     "slug": "quenched-peppery-norwegian-silken-tofu-kjottkaker-gratin",
-    "title": "Quenched Peppery Norwegian Silken Tofu Kjøttkaker Gratin",
+    "title": "Norwegian Tofu Kjottkaker",
     "tags": [
-      "gratin",
-      "high-protein",
+      "vegan",
       "norwegian",
-      "one-pan",
-      "silken-tofu",
-      "weeknight",
-      "yuzu-cure"
+      "kjottkaker",
+      "tofu",
+      "breakfast"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -14365,16 +14361,15 @@
   },
   {
     "slug": "quietly-creamy-turkish-lamb-iskender",
-    "title": "Quietly Creamy Turkish Lamb Iskender",
+    "title": "Lamb Iskender Kebab",
     "tags": [
-      "kid-friendly",
-      "lamb-recipes",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight-dinner"
+      "turkish",
+      "lamb",
+      "kebab",
+      "breakfast"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
