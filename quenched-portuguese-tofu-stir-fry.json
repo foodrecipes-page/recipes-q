@@ -1,0 +1,88 @@
+{
+  "slug": "quenched-portuguese-tofu-stir-fry",
+  "title": "Portuguese-Style Stir-Fried Tofu",
+  "description": "A simple and flavorful stir-fry dish inspired by Portuguese cuisine, featuring tofu as the main protein.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cubed"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 cups",
+      "notes": "mixed greens with Portuguese seasoning"
+    },
+    {
+      "name": "stir",
+      "amount": "1 tablespoon",
+      "notes": "portuguese seasoning blend"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and diced chili pepper and stir-fry for 1 minute.",
+    "Add the cubed tofu and stir-fry for 3-4 minutes or until golden brown.",
+    "Add the mixed greens and stir-fry for 2-3 minutes or until wilted.",
+    "Season with Portuguese seasoning blend and salt to taste.",
+    "Squeeze fresh lemon juice over the top and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "stir-fry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-portuguese-tofu-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T19:58:37.274Z"
+}
