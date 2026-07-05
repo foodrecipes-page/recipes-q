@@ -1,0 +1,71 @@
+{
+  "slug": "quenched-bitter-arabian-butter-pudding",
+  "title": "Quenched Arabian Pudding Delight",
+  "description": "Indulge in a rich, creamy pudding dessert infused with exotic flavors of the Arabian region. A perfect treat after a warm meal.",
+  "cuisine": "Arabic",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "arabian",
+      "amount": "1 cup",
+      "notes": "arabic spice blend"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 cup",
+      "notes": "unsweetened almond milk"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 package",
+      "notes": "vanilla pudding mix"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup",
+      "notes": "unsweetened cocoa powder"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium saucepan, whisk together the quenched and pudding mix.",
+    "Add the arabian spice blend and whisk until combined.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 2 minutes.",
+    "Remove from heat and stir in the melted butter and bitter cocoa powder.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Bake for 15-20 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Serve chilled, garnished with additional arabian spice blend if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "arabic",
+    "pudding",
+    "dessert",
+    "chocolate",
+    "cold"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-bitter-arabian-butter-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:27:16.285Z"
+}
