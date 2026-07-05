@@ -7573,16 +7573,16 @@
   },
   {
     "slug": "quick-fix-piquant-ukrainian-burrata-pastry",
-    "title": "Quick Fix Piquant Ukrainian Burrata Pastry",
+    "title": "Burrata Pastry Puffs",
     "tags": [
-      "low-glycemic",
-      "one-pan",
-      "quick-fix",
-      "snack-food",
-      "ukrainian-cuisine"
+      "italian",
+      "easy",
+      "cheese",
+      "pastries",
+      "snack"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 22,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -14522,17 +14522,15 @@
   },
   {
     "slug": "quietly-crunchy-uruguayan-dried-white-corn-empanadas",
-    "title": "Uruguayan Dried White Corn Empanadas",
+    "title": "Uruguayan-Style Corn Fritters",
     "tags": [
-      "baked-goods",
-      "corn-based",
-      "flexitarian",
-      "party-food",
-      "snack-food",
-      "south-american"
+      "corn-fritters",
+      "uruguayan-cuisine",
+      "fritters",
+      "fried-food"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -14626,18 +14624,15 @@
   },
   {
     "slug": "quietly-earthy-argentinian-hazelnuts-tagine",
-    "title": "Quietly Earthy Argentinian Hazelnuts Tagine",
+    "title": "Argentinian Hazelnut and Quietly Earthy Tagine",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "earthy",
-      "hazelnut-based",
-      "monsoon-inspired",
-      "ovo-vegetarian",
-      "tagine-cooked"
+      "argentinian",
+      "hazelnut",
+      "earthly",
+      "tagine"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -17343,18 +17338,15 @@
   },
   {
     "slug": "quirky-spanish-rice-arroz-negro",
-    "title": "Quirky Spanish Rice Arroz Negro",
+    "title": "Negro Rice with Quirky Spanish Twist",
     "tags": [
-      "coconut-cream",
-      "fermented-food",
-      "macrobiotic",
-      "one-pan",
-      "quirky-recipe",
-      "spanish-cuisine",
-      "vegetarian"
+      "spanish",
+      "rice",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 70,
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
