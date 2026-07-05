@@ -1,0 +1,96 @@
+{
+  "slug": "quick-vietnamese-pork-noodles",
+  "title": "Vietnamese-Style Pork Noodle Soup",
+  "description": "A flavorful and comforting noodle soup made with quick-cooking pork, fresh Vietnamese herbs, and soft noodles.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Add the pork shoulder and cook until browned, about 5 minutes.",
+    "Add the ginger, garlic, and fish sauce to the pot.",
+    "Cook for an additional 2 minutes.",
+    "Add the noodles to the pot and cook until tender, about 3-4 minutes.",
+    "Remove the pork from the pot and slice into thin strips.",
+    "Return the pork to the pot and stir in the lime juice and sesame oil.",
+    "Top with green onions, cilantro, and bean sprouts.",
+    "Serve hot and enjoy!",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "pork",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-vietnamese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:26:49.113Z"
+}
