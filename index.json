@@ -2419,17 +2419,15 @@
   },
   {
     "slug": "quenched-croatian-pork-pastrmajlija",
-    "title": "Quenched Croatian Pork Pastrmajlija",
+    "title": "Traditional Pastrmajlija with Croatian Twist",
     "tags": [
-      "crumbly",
-      "european",
-      "fermented",
-      "one-pan",
-      "pork",
-      "weeknight"
+      "croatian",
+      "meatpie",
+      "pastrmajlija",
+      "pork"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16262,14 +16260,14 @@
   },
   {
     "slug": "quietly-spicy-portuguese-kiwifruit-toast",
-    "title": "Quietly Spicy Portuguese Kiwifruit Toast",
+    "title": "Spicy Portuguese Toast with Kiwifruit",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "keto-friendly",
+      "spicy",
       "portuguese",
-      "quick-snack",
-      "spicy"
+      "breakfast",
+      "snack",
+      "kiwifruit",
+      "chorizo"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 18,
