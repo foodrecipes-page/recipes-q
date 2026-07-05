@@ -1,0 +1,72 @@
+{
+  "slug": "quenched-peppery-norwegian-silken-tofu-kjottkaker-gratin",
+  "title": "Norwegian Tofu Kjottkaker",
+  "description": "A vegan version of traditional Norwegian Kjottkaker using silken tofu and kjottkaker.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silken tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "kjottkaker",
+      "amount": "1 package (12 oz)",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup (120g)",
+      "notes": "diced"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 cup (240ml)",
+      "notes": "water"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. In a large bowl, combine the crumbled tofu, broken kjottkaker, and diced gratin.",
+    "3. Add the peppery black pepper and mix well.",
+    "4. Add the quenched water and mix until a thick, but pourable batter forms.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet.",
+    "6. Flatten the batter slightly with a spatula.",
+    "7. Cook for 3-4 minutes, until the bottom is golden brown.",
+    "8. Flip the Kjottkaker and cook for an additional 3-4 minutes.",
+    "9. Serve hot with your favorite sides or toppings.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "norwegian",
+    "kjottkaker",
+    "tofu",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peppery-norwegian-silken-tofu-kjottkaker-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:09:20.383Z"
+}
