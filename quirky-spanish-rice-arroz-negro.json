@@ -1,0 +1,88 @@
+{
+  "slug": "quirky-spanish-rice-arroz-negro",
+  "title": "Negro Rice with Quirky Spanish Twist",
+  "description": "A twist on traditional spanish rice with the added flavor of negro rice. This recipe combines the nutty taste of negro rice with the spiciness of quirky spices.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "quirky spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "arroz",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add quirky spice blend and cook for 1 minute.",
+    "Add chicken broth, soaked saffron threads, and salt. Bring to a boil.",
+    "Add black rice and arroz. Stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until liquid is absorbed.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "rice",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-spanish-rice-arroz-negro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:29:07.135Z"
+}
