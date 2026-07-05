@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-crunchy-uruguayan-dried-white-corn-empanadas",
+  "title": "Uruguayan-Style Corn Fritters",
+  "description": "A crispy fritter filled with corn and spices, inspired by Uruguayan cuisine.",
+  "cuisine": "uruguayan",
+  "diet": [
+    null,
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup, fresh or frozen"
+    },
+    {
+      "name": "white uruguayan cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "empanadas (for reference)",
+      "amount": "2 cups, crushed (for breadcrumbs)",
+      "notes": "you can omit this if you don't have empanadas"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1/4 cup, for coating"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten"
+    },
+    {
+      "name": "quietly (or buttermilk)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine corn, cheese, crushed empanadas, oregano, thyme, and salt.",
+    "In a separate bowl, mix together egg, quietly, and a pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Heat about 1-2 inches of oil in a deep frying pan over medium-high heat.",
+    "Using a spoon, drop the fritter mixture into the oil, making sure not to overcrowd.",
+    "Fry for 3-4 minutes on each side, until golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot, sprinkled with crunchy breadcrumbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn-fritters",
+    "uruguayan-cuisine",
+    "fritters",
+    "fried-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-crunchy-uruguayan-dried-white-corn-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:59:12.285Z"
+}
