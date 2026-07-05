@@ -3478,16 +3478,14 @@
   },
   {
     "slug": "quenched-nutty-german-pork-stew",
-    "title": "Quenched Nutty German Pork Stew",
+    "title": "German Pork Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "high-protein",
-      "nutty-flavors",
-      "one-pot"
+      "german",
+      "stew",
+      "pork"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 140,
     "shard": "q"
   },
   {
@@ -12088,16 +12086,15 @@
   },
   {
     "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella",
-    "title": "quick spanish chicken paella",
+    "title": "Spanish Chicken Paella",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
       "spanish",
-      "weeknight"
+      "paella",
+      "chicken",
+      "rice"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 30,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
