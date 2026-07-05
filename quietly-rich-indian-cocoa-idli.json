@@ -1,0 +1,68 @@
+{
+  "slug": "quietly-rich-indian-cocoa-idli",
+  "title": "Quietly Rich Indian Idli",
+  "description": "A rich and quiet take on the traditional Indian idli. A comforting breakfast dish that pairs perfectly with a warm beverage.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Idli rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Urad dal",
+      "amount": "1 cup",
+      "notes": "split black lentils"
+    },
+    {
+      "name": "Fenugreek seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "full-fat yogurt"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Soak the idli rice and urad dal in water for 4-5 hours.",
+    "Drain and rinse the rice and dal. Grind them into a smooth batter in a blender or food processor.",
+    "Add the fenugreek seeds, yogurt, and 1 cup of water to the grinder. Blend until well combined.",
+    "Transfer the batter to a large bowl. Add 2 cups of water and mix well.",
+    "The batter should be smooth and free of lumps. Cover and let it ferment for 4-5 hours.",
+    "Preheat a non-stick idli steamer or a metal steamer basket. Grease the idli molds with oil.",
+    "Pour the batter into the molds, filling them about 3/4 of the way.",
+    "Steam the idlis for 12-15 minutes. Remove from heat and let them cool.",
+    "Serve the idlis with a dollop of yogurt and a sprinkle of chutney or sambar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-indian-cocoa-idli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T17:15:00.581Z"
+}
