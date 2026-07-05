@@ -44,17 +44,15 @@
   },
   {
     "slug": "qmiso-marinated-duck-fat-wrap",
-    "title": "QMiso Marinated Duck Fat Wrap",
+    "title": "Duck Quesadilla",
     "tags": [
-      "algerian",
-      "breakfast-dish",
-      "duck-fat-wrap",
-      "funky-meal",
-      "marinated-fatty",
-      "raw-friendly"
+      "mexican",
+      "duck",
+      "quesadilla",
+      "wrap"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 60,
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -1951,13 +1949,15 @@
   },
   {
     "slug": "quenched-algerian-myeongnan-roe-tagine",
-    "title": "Quenched Algerian Myeongnan Roe Tagine",
+    "title": "Pan-Seared Algerian Roe with Quenched Sauce",
     "tags": [
-      "algerian",
-      "dinner"
+      "north-african",
+      "roe",
+      "seafood",
+      "easy-recipe"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -11968,17 +11968,15 @@
   },
   {
     "slug": "quick-smoky-ukrainian-umeboshi-skewers",
-    "title": "Quick Smoky Ukrainian Umeboshi Skewers",
+    "title": "Smoked Shish Kebabs",
     "tags": [
-      "easy-entertaining",
-      "gluten-free",
-      "quick-snack",
-      "raw-friendly",
-      "smoky-flavor",
-      "ukrainian-cuisine"
+      "smoked",
+      "ukrainian",
+      "vegetarian",
+      "grill"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 52,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
