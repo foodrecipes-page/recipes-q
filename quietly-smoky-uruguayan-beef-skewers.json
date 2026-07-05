@@ -1,0 +1,88 @@
+{
+  "slug": "quietly-smoky-uruguayan-beef-skewers",
+  "title": "Uruguayan Beef Skewers",
+  "description": "A classic South American dish, these smoky skewers are marinated in a mix of herbs and spices, perfect for a BBQ.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (1 pound)",
+      "amount": "250g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Soaked wood skewers (10-12)",
+      "amount": "10",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Uruguayan chimichurri (store-bought or homemade)",
+      "amount": "1/4 cup",
+      "notes": "marinade for beef"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil and season with salt, black pepper, smoked paprika, and garlic powder.",
+    "Grill skewers for 8-10 minutes, or until cooked to desired level of doneness.",
+    "Brush with Uruguayan chimichurri during the last 2 minutes of grilling.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "bbq",
+    "skewers",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-uruguayan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:22:07.486Z"
+}
