@@ -1,0 +1,65 @@
+{
+  "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf",
+  "title": "Sunday Sweet Rice Pilaf",
+  "description": "A comforting, easy-to-make pilaf perfect for a lazy Sunday. Sweet and savory flavors blend in this delightful dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup sweet corn kernels"
+    },
+    {
+      "name": "lazy",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "sunday",
+      "amount": "1 small onion, diced"
+    },
+    {
+      "name": "chapssalgaru",
+      "amount": "1 teaspoon ground cumin"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until translucent.",
+    "Add the ground cumin and cook for 1 minute.",
+    "Add the rice and stir to coat with the oil and spices.",
+    "Add the sweet corn kernels and stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "rice",
+    "sweet",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:30:03.274Z"
+}
