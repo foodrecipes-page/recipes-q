@@ -9572,16 +9572,15 @@
   },
   {
     "slug": "quick-japanese-bread-flour-casserole",
-    "title": "Quick Japanese Bread Flour Casserole",
+    "title": "Japanese-Style Casserole Bread",
     "tags": [
+      "bread",
+      "casserole",
       "japanese",
-      "molten",
-      "nut-free",
-      "one-pan",
-      "quick"
+      "dinner"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -15497,13 +15496,12 @@
   },
   {
     "slug": "quietly-rich-indian-cocoa-idli",
-    "title": "Quietly Rich Indian Cocoa Idli",
+    "title": "Quietly Rich Indian Idli",
     "tags": [
-      "cocoa-based",
-      "fodmap-friendly",
-      "gluten-free",
-      "indian-breakfast",
-      "vegetarian-option"
+      "indian",
+      "breakfast",
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
