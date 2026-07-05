@@ -1,0 +1,83 @@
+{
+  "slug": "quenched-croatian-pork-pastrmajlija",
+  "title": "Traditional Pastrmajlija with Croatian Twist",
+  "description": "A popular Croatian meat pie filled with ground pork and topped with a crusty crust, giving it a rich and savory flavor. This recipe is a twist on the traditional Croatian version, adding a modern touch to a classic dish.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Pastrmajlija Crust Mix",
+      "amount": "1 package",
+      "notes": "available at most European grocery stores"
+    },
+    {
+      "name": "Quenched Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "Diced Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Grated Cheese",
+      "amount": "1 cup",
+      "notes": "Dutch or Cheddar"
+    },
+    {
+      "name": "Beaten Egg",
+      "amount": "1 large",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, cook ground pork over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add finely chopped onion to the pan and cook until translucent.",
+    "Stir in Pastrmajlija Crust Mix and cook for an additional 2 minutes.",
+    "Transfer the mixture to a greased 9x13 inch baking dish.",
+    "In a separate bowl, mix together grated cheese, softened butter, and beaten egg.",
+    "Spread the cheese mixture evenly over the top of the meat mixture.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25-30 minutes or until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "meatpie",
+    "pastrmajlija",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-croatian-pork-pastrmajlija",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:28:10.208Z"
+}
