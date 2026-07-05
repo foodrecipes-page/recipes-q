@@ -1,0 +1,64 @@
+{
+  "slug": "quick-fix-piquant-ukrainian-burrata-pastry",
+  "title": "Burrata Pastry Puffs",
+  "description": "A simple and elegant pastry filled with creamy burrata cheese, perfect as a snack or appetizer.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Burrata cheese",
+      "amount": "1 (8 oz) ball",
+      "notes": ""
+    },
+    {
+      "name": "Pastry",
+      "amount": "1 package (thawed)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut pastry into 1-inch squares.",
+    "Place a small spoonful of burrata cheese in the center of each square.",
+    "Fold the pastry squares in half to form triangles and press edges to seal.",
+    "Brush tops with a little water and sprinkle with salt.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm, garnished with chopped fresh basil if desired.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "easy",
+    "cheese",
+    "pastries",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-piquant-ukrainian-burrata-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:40:17.684Z"
+}
