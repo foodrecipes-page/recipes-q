@@ -1,0 +1,70 @@
+{
+  "slug": "quintessentially-qazi-portuguese-five-spice-lamb-bake",
+  "title": "Lamb Koftas with Qazi Spice",
+  "description": "A flavorful and aromatic lamb koftas dish with the warm, sweet, and slightly spicy notes of qazi spice, served with a crispy bake.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "qazi spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "five spice powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced onion",
+      "amount": "1"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "portuguese bread crumbs",
+      "amount": "100g"
+    },
+    {
+      "name": "bake seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large bowl, combine lamb mince, qazi spice blend, five spice powder, onion, garlic, and egg. Mix well.",
+    "Add bread crumbs and mix until just combined. Do not overmix.",
+    "Cover mixture and refrigerate for 30 minutes.",
+    "Preheat grill or grill pan to medium-high heat.",
+    "Shape mixture into 8-10 koftas. Cook for 4-5 minutes per side, or until browned and cooked through.",
+    "Transfer koftas to a baking tray and bake for 10-12 minutes, or until crispy.",
+    "Sprinkle with bake seasoning and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebab",
+    "middle-eastern",
+    "spicy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-qazi-portuguese-five-spice-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:10:30.359Z"
+}
