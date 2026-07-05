@@ -6680,18 +6680,16 @@
   },
   {
     "slug": "quick-fix-aerated-syrian-rice-biryani",
-    "title": "Quick-Fix Aerated Syrian Rice Biryani",
+    "title": "Syrian Biryani Rice Bowl",
     "tags": [
-      "biryani",
-      "easy-dinner",
-      "jain",
-      "one-pan",
       "syrian",
-      "vegetarian",
-      "weeknight"
+      "biryani",
+      "rice",
+      "beef",
+      "one-pot"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -11032,14 +11030,14 @@
   },
   {
     "slug": "quick-roasted-peruvian-tomato-anticuchos",
-    "title": "Quick Roasted Peruvian Tomato Anticuchos",
+    "title": "Peruvian Anticuchos Recipe",
     "tags": [
-      "easy-dinner",
-      "one-pan",
-      "peruvian-cuisine",
-      "quick-fix",
-      "roasted-vegetables",
-      "vegan-friendly"
+      "grilled",
+      "beef",
+      "heart",
+      "peruvian",
+      "anticuchos",
+      "skewers"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
