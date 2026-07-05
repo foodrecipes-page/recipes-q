@@ -1256,17 +1256,15 @@
   },
   {
     "slug": "quaint-spicy-egyptian-chicken-kebabs",
-    "title": "Quaint Spicy Egyptian Chicken Kebabs",
+    "title": "Chicken Kebab Shawarma",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "kid-friendly",
-      "middle-eastern",
-      "spicy-food"
+      "chicken",
+      "kebabs",
+      "egyptian",
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -2791,16 +2789,15 @@
   },
   {
     "slug": "quenched-german-beef-stew-korean-brass-bowl",
-    "title": "Quenched German Beef Stew Korean-Brass-Bowl",
+    "title": "Korean Beef Stew",
     "tags": [
-      "beef",
-      "easy",
-      "german",
+      "korean",
       "stew",
-      "weeknight"
+      "beef",
+      "spicy"
     ],
-    "cuisine": "german",
-    "totalTimeMin": 140,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
