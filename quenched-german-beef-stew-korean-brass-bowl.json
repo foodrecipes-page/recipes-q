@@ -1,0 +1,78 @@
+{
+  "slug": "quenched-german-beef-stew-korean-brass-bowl",
+  "title": "Korean Beef Stew",
+  "description": "A hearty and flavorful stew from Korea, made with tender beef and a variety of spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "german",
+      "amount": "2 tablespoons",
+      "notes": "sugar"
+    },
+    {
+      "name": "stew",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "korean",
+      "amount": "1 tablespoon",
+      "notes": "gochujang"
+    },
+    {
+      "name": "brass",
+      "amount": "1 cup",
+      "notes": "zucchini"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the beef broth, sugar, soy sauce, and gochujang, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10-12 minutes.",
+    "Add the zucchini and simmer for an additional 2-3 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with green onions and toasted sesame seeds.",
+    "Serve with a side of rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-german-beef-stew-korean-brass-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:24:25.840Z"
+}
