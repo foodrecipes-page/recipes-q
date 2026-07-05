@@ -1,0 +1,75 @@
+{
+  "slug": "quietly-spicy-portuguese-kiwifruit-toast",
+  "title": "Spicy Portuguese Toast with Kiwifruit",
+  "description": "A refreshing and spicy twist on traditional toast, perfect for a quick breakfast or snack.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kiwi",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Chorizo",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Bread (Portuguese-Style)",
+      "amount": "4 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "a few leaves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or griddle over medium heat.",
+    "2. Add butter to the pan and melt.",
+    "3. Add slices of chorizo and cook until browned and crispy.",
+    "4. Meanwhile, toast slices of bread until lightly browned.",
+    "5. Slice the kiwi into thin pieces.",
+    "6. Assemble the toast by spreading a slice of bread with a piece of chorizo, then topping with a slice of kiwi, a drizzle of honey, and a few fresh mint leaves.",
+    "7. Serve immediately and enjoy!",
+    "8. Optional: Add a sprinkle of red pepper flakes on top for extra heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "portuguese",
+    "breakfast",
+    "snack",
+    "kiwifruit",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-spicy-portuguese-kiwifruit-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:39:04.004Z"
+}
