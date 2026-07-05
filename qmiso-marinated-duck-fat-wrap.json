@@ -1,0 +1,65 @@
+{
+  "slug": "qmiso-marinated-duck-fat-wrap",
+  "title": "Duck Quesadilla",
+  "description": "A twist on traditional Mexican cuisine using marinated duck, served in a crispy wrap.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": "Marinated"
+    },
+    {
+      "name": "QMiso paste",
+      "amount": "2 tsp",
+      "notes": "For glaze"
+    },
+    {
+      "name": "Fat (duck fat)",
+      "amount": "1 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Wrap (large flour)",
+      "amount": "1",
+      "notes": "For quesadilla"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the fat to the pan and let it melt.",
+    "Add the marinated duck breast and cook until browned on both sides.",
+    "Brush the QMiso paste on the duck breast during the last minute of cooking.",
+    "Meanwhile, warm the wrap in the microwave for 10-15 seconds.",
+    "Slice the cooked duck breast into thin strips.",
+    "Place the duck strips on half of the wrap, leaving a small border.",
+    "Fold the other half of the wrap over the duck to enclose.",
+    "Cook the quesadilla in the pan for 2-3 minutes on each side, until crispy and golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "duck",
+    "quesadilla",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qmiso-marinated-duck-fat-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:17:37.948Z"
+}
