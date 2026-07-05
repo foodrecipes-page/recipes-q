@@ -1,0 +1,89 @@
+{
+  "slug": "quaint-spicy-egyptian-chicken-kebabs",
+  "title": "Chicken Kebab Shawarma",
+  "description": "A flavorful chicken kebab recipe inspired by Egyptian cuisine, served with a side of spicy tahini sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Quaint olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Spicy paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Egyptian pita bread",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Kebab skewers",
+      "amount": "8",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, paprika, salt, and black pepper.",
+    "3. Add chicken to the bowl and toss to coat.",
+    "4. Thread chicken and vegetables onto kebab skewers.",
+    "5. Brush kebabs with olive oil and season with salt and pepper.",
+    "6. Grill kebabs for 8-10 minutes, or until cooked through.",
+    "7. Warm pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "8. Assemble shawarma by slicing kebabs and serving on pita bread with tahini sauce and lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "egyptian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-spicy-egyptian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:55:39.333Z"
+}
