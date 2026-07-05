@@ -1,0 +1,94 @@
+{
+  "slug": "quenched-nutty-german-pork-stew",
+  "title": "German Pork Stew",
+  "description": "A hearty and flavorful stew originating from Germany, made with tender pork and a variety of spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Add the beef broth, vinegar, thyme, salt, and pepper to the pot.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Serve hot, garnished with thyme."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-nutty-german-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:53:35.645Z"
+}
