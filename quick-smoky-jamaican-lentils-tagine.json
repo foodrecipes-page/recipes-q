@@ -1,0 +1,81 @@
+{
+  "slug": "quick-smoky-jamaican-lentils-tagine",
+  "title": "Lentil Tagine",
+  "description": "A flavorful and spicy North African-inspired stew made with lentils and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quick Smoky JAMAICAN Seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Canned Diced Tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lentil Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the onion, carrots, and bell pepper. Cook until the vegetables are tender, about 8 minutes.",
+    "Add the Quick Smoky JAMAICAN Seasoning and cook for 1 minute.",
+    "Add the lentils, diced tomatoes, and broth. Bring to a boil, then reduce the heat to low and simmer, covered, until the lentils are tender, about 30 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "north-african",
+    "vegetarian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-jamaican-lentils-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:31:27.490Z"
+}
