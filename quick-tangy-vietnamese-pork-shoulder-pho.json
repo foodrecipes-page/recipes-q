@@ -1,0 +1,93 @@
+{
+  "slug": "quick-tangy-vietnamese-pork-shoulder-pho",
+  "title": "Vietnamese Style Pork Shoulder Pho",
+  "description": "A delicious and flavorful Vietnamese-inspired pho made with tender pork shoulder and a rich broth. Serve with rice noodles and fresh herbs for a hearty and satisfying meal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "quick broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tangy fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vietnamese cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the quick broth, tangy fish sauce, onion, ginger, star anise, cinnamon, and black pepper.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the pork shoulder to the pot and simmer for 2-3 hours, or until the meat is tender and falls apart easily.",
+    "Remove the pork from the pot and slice it thinly against the grain.",
+    "Add the sliced pork back to the pot and simmer for an additional 10-15 minutes.",
+    "Cook the rice noodles according to the package instructions and divide them among bowls.",
+    "Add the hot pork and broth to the bowls and garnish with vietnamese cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "pho",
+    "noodle soup"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-tangy-vietnamese-pork-shoulder-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:18:31.278Z"
+}
