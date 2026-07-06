@@ -1,0 +1,76 @@
+{
+  "slug": "quickly-crisped-ukrainian-khao-khua-fried-rice",
+  "title": "Crispy Fried Rice",
+  "description": "A simple and quick Ukrainian-inspired fried rice dish, perfect for a weeknight dinner. This recipe combines the crunch of fried onions with the savory flavors of cooked rice.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably leftover or day-old"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced for quick frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced for added flavor"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "1/4 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Khao khua",
+      "amount": "2 tablespoons",
+      "notes": "Thai fried rice seasoning or substitute with paprika and salt"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until crispy, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the cooked rice to the skillet and stir-fry for about 2-3 minutes.",
+    "Add the fried onions, khao khua, and salt. Stir-fry for another 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "ukrainian-cuisine",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-crisped-ukrainian-khao-khua-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:45:40.627Z"
+}
