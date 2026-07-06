@@ -1702,17 +1702,15 @@
   },
   {
     "slug": "quaintly-smoky-middle-eastern-lentils-mujadara",
-    "title": "Quaintly Smoky Middle Eastern Lentils Mujadara",
+    "title": "Quaintly Smoky Mujadara",
     "tags": [
-      "lentil-recipes",
+      "lentils",
       "middle-eastern",
-      "one-pot",
-      "tandoor-cooking",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "comfort-food"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8939,17 +8937,15 @@
   },
   {
     "slug": "quick-greek-chicken-salad",
-    "title": "Quick Greek Chicken Salad",
+    "title": "Greek Chicken Salad",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "no-waste",
-      "post-workout",
-      "quick"
+      "greek",
+      "chicken",
+      "salad",
+      "healthy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -9111,17 +9107,14 @@
   },
   {
     "slug": "quick-grilled-slovakian-sauerkraut-skewers",
-    "title": "Quick Grilled Slovakian Sauerkraut Skewers",
+    "title": "Slovakian Grilled Skewers",
     "tags": [
-      "easy",
-      "gluten-free",
       "grilled",
-      "keto-friendly",
-      "quick",
-      "slovakian"
+      "slovakian",
+      "skewers"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 36,
     "shard": "q"
   },
   {
@@ -13434,16 +13427,14 @@
   },
   {
     "slug": "quickly-grilled-thai-pork-moo-ping",
-    "title": "Quickly Grilled Thai Pork Moo Ping",
+    "title": "Thai-Style Grilled Pork",
     "tags": [
-      "grilledpork",
-      "mopings",
-      "streefood",
-      "thaifood",
-      "weeknight"
+      "thai",
+      "grilled",
+      "pork"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
