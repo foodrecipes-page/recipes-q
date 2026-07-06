@@ -1,0 +1,79 @@
+{
+  "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake",
+  "title": "Argentinian-Style Wood Fired Mushroom Empanadas",
+  "description": "A twist on traditional empanadas, featuring ovolimushroom filling, baked to perfection in a wood fired oven.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ovolimushroom",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "fix",
+      "amount": "1/2 cup, chopped onion"
+    },
+    {
+      "name": "fix",
+      "amount": "1/4 cup, chopped fresh cilantro"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1 tsp, paprika"
+    },
+    {
+      "name": "argentinian",
+      "amount": "1/2 tsp, cumin"
+    },
+    {
+      "name": "quick",
+      "amount": "1/4 cup, olive oil"
+    },
+    {
+      "name": "quick",
+      "amount": "1/2 cup, all-purpose flour"
+    },
+    {
+      "name": "quick",
+      "amount": "1/4 cup, grated Parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the wood fired oven to 450°F (230°C).",
+    "2. In a pan over medium heat, cook the fix (chopped onion) until softened.",
+    "3. Add the fix (chopped cilantro), argentinian (paprika), and argentinian (cumin) to the pan and cook for 1 minute.",
+    "4. In a separate pan, heat the quick (olive oil) over medium heat.",
+    "5. Add the ovolimushroom to the pan and cook until browned.",
+    "6. In a large bowl, combine the cooked mushroom mixture, fix (chopped onion), fix (chopped cilantro), argentinian (paprika), and argentinian (cumin).",
+    "7. In a separate bowl, mix the quick (flour), quick (Parmesan cheese), and a pinch of salt.",
+    "8. Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "9. Roll out each ball of dough into a thin circle.",
+    "10. Place a tablespoon of the mushroom mixture onto the center of each dough circle.",
+    "11. Fold the dough in half and press the edges to seal.",
+    "12. Brush the tops of the empanadas with egg wash and bake in the wood fired oven for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "mushroom",
+    "woodfired",
+    "ovenbaked"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-argentinian-ovolimushroom-wood-fired-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:50:53.396Z"
+}
