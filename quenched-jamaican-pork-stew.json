@@ -1,0 +1,87 @@
+{
+  "slug": "quenched-jamaican-pork-stew",
+  "title": "Jamaican Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and a blend of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "quenched lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pork broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the pork cubes with salt and allspice.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned pork from the pot and set aside.",
+    "Add more oil to the pot if necessary, then sauté the onions and bell peppers until tender.",
+    "Add the brown sugar and cook for 1 minute.",
+    "Add the pork broth, lime juice, and browned pork to the pot.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the pork is tender.",
+    "Skim off any excess fat before serving.",
+    "Garnish with fresh thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pork",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-jamaican-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:29:17.863Z"
+}
