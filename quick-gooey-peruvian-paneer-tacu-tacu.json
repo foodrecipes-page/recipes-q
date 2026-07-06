@@ -1,76 +1,74 @@
 {
   "slug": "quick-gooey-peruvian-paneer-tacu-tacu",
-  "title": "Quick Peruvian Tacu Tacu with Paneer",
-  "description": "A simplified version of the traditional Peruvian dish, combining crispy tacu tacu with creamy paneer.",
-  "cuisine": "Peruvian",
+  "title": "Taco Paneer Quesadilla",
+  "description": "A twist on the classic quesadilla with Indian-inspired paneer cheese and Peruvian flavors.",
+  "cuisine": "Latin American",
   "diet": [
     "vegetarian",
-    "lacto-vegetarian"
+    "dairy"
   ],
-  "meal": "lunch",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "paneer",
-      "amount": "250g"
+      "amount": "8 ounces"
     },
     {
-      "name": "tacu tacu",
-      "amount": "250g"
+      "name": "tacu",
+      "amount": "1 cup"
     },
     {
-      "name": "onion",
-      "amount": "1 medium",
-      "notes": ""
+      "name": "quick flour tortillas",
+      "amount": "4"
     },
     {
-      "name": "garlic",
-      "amount": "2 cloves",
-      "notes": ""
+      "name": "peruvian aji amarillo sauce",
+      "amount": "1/2 cup"
     },
     {
-      "name": "aaji amarillo pepper",
-      "amount": "1",
-      "notes": "optional"
+      "name": "cilantro",
+      "amount": "chopped (for garnish)"
     },
     {
-      "name": "salt",
-      "amount": "to taste",
-      "notes": ""
+      "name": "sour cream",
+      "amount": "sour cream (for serving)"
     },
     {
-      "name": "black pepper",
-      "amount": "to taste",
-      "notes": ""
+      "name": "queso fresco",
+      "amount": "shredded (optional)"
     }
   ],
   "instructions": [
-    "Heat a non-stick skillet over medium heat.",
-    "Add the onion and cook until translucent.",
-    "Add the garlic and cook for another minute.",
-    "Add the paneer and cook until lightly browned.",
-    "Add the tacu tacu and cook, stirring frequently, until crispy.",
-    "Season with salt and black pepper to taste.",
-    "Add the aaji amarillo pepper, if using.",
-    "Serve immediately and enjoy."
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. In a bowl, crumble the paneer and mix with aji amarillo sauce.",
+    "3. Place a flour tortilla in the skillet and sprinkle with the paneer mixture.",
+    "4. Fold the tortilla in half to enclose the filling.",
+    "5. Cook for 2-3 minutes or until the tortilla is crispy and the filling is heated through.",
+    "6. Flip the quesadilla and cook for an additional 2 minutes.",
+    "7. Repeat with the remaining tortillas and filling.",
+    "8. Cut the quesadillas into wedges and serve with sour cream and cilantro.",
+    "9. Garnish with queso fresco, if desired.",
+    "10. Serve immediately."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "peruvian",
+    "taco",
     "paneer",
-    "tacu-tacu"
+    "quesadilla",
+    "peruvian"
   ],
   "nutrition": {
     "calories": 320,
-    "protein": 18,
-    "carbs": 30,
-    "fat": 12
+    "protein": 22,
+    "carbs": 25,
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/quick-gooey-peruvian-paneer-tacu-tacu",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T12:41:10.147Z"
+  "createdAt": "2026-07-04T05:02:26.445Z"
 }
