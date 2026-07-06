@@ -1,0 +1,80 @@
+{
+  "slug": "quick-butter-japanese-fish-pasta",
+  "title": "Japanese-Style Teriyaki Pasta with Fish",
+  "description": "A flavorful and easy-to-make pasta dish featuring pan-seared fish and a sweet teriyaki sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "quick fish fillets",
+      "amount": "4",
+      "notes": "such as tilapia or cod"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or tamari"
+    },
+    {
+      "name": "japanese sake",
+      "amount": "1 tbsp",
+      "notes": "or dry white wine"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "Season the fish fillets with salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the fish fillets and cook for 3-4 minutes per side, until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "In the same skillet, add the soy sauce, sake, brown sugar, and ginger.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "Add the cooked pasta to the skillet and toss to coat with the teriyaki sauce.",
+    "Return the fish to the skillet and serve the pasta and fish together.",
+    "Garnish with sesame seeds and chopped scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "fish",
+    "pasta",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-butter-japanese-fish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:21:29.868Z"
+}
