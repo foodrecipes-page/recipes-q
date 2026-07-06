@@ -1,0 +1,94 @@
+{
+  "slug": "quickly-grilled-thai-pork-moo-ping",
+  "title": "Thai-Style Grilled Pork",
+  "description": "A quick and flavorful grilled pork dish inspired by Thai cuisine, perfect for a summer evening.",
+  "cuisine": "thai",
+  "diet": [
+    "pork",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Grilled chili pepper",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Toasted peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a small bowl, whisk together fish sauce, palm sugar, and grated ginger.",
+    "3. Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "4. Place the pork on the grill and cook for 5-7 minutes per side, or until it reaches an internal temperature of 145°F.",
+    "5. While the pork is cooking, combine coconut milk, lime juice, and toasted peanuts in a small bowl.",
+    "6. Once the pork is cooked, let it rest for 5 minutes before slicing it thinly.",
+    "7. Serve the pork with the coconut milk sauce spooned over the top and garnished with cilantro.",
+    "8. Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "grilled",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-grilled-thai-pork-moo-ping",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:48:11.003Z"
+}
