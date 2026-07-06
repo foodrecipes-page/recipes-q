@@ -783,16 +783,13 @@
   },
   {
     "slug": "quaint-juicy-chinese-pork-dumplings",
-    "title": "Quaint Juicy Chinese Pork Dumplings",
+    "title": "Pan-Fried Dumplings with Soy Sauce",
     "tags": [
-      "chinese-food",
-      "hakka-recipes",
-      "pork-recipes",
-      "steamed-dishes",
-      "traditional-cuisine"
+      "chinese",
+      "snack"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -12492,17 +12489,16 @@
   },
   {
     "slug": "quick-syrian-chickpeas-salad",
-    "title": "Quick Syrian Chickpeas Salad",
+    "title": "Quick Chickpea Salad",
     "tags": [
       "chickpea",
-      "low-calorie",
-      "quick",
       "salad",
-      "syrian",
-      "vegan"
+      "middle eastern",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
