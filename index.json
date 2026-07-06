@@ -1355,14 +1355,12 @@
   },
   {
     "slug": "quaint-sweet-malaysian-cherry-stir-fry",
-    "title": "Quaint Sweet Malaysian Cherry Stir Fry",
+    "title": "Malaysian-Style Stir Fry with Sweet Cherry Sauce",
     "tags": [
-      "fruit-based",
-      "malaysian-cuisine",
-      "romantic-dinner",
-      "stir-fry",
-      "sugar-free",
-      "sweet-dishes"
+      "malaysian",
+      "vegetarian",
+      "gluten-free",
+      "stir-fry"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 25,
@@ -3036,16 +3034,14 @@
   },
   {
     "slug": "quenched-jamaican-pork-stew",
-    "title": "Quenched Jamaican Pork Stew",
+    "title": "Jamaican Pork Stew",
     "tags": [
-      "comfort-food",
-      "fermented",
       "jamaican",
-      "low-carb",
-      "one-pot"
+      "pork",
+      "stew"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 110,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -3799,17 +3795,14 @@
   },
   {
     "slug": "quenched-russian-water-borscht",
-    "title": "quenched russian water borscht",
+    "title": "Traditional Borscht Recipe",
     "tags": [
-      "anti-inflammatory",
-      "gluten-free",
-      "low-calorie",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "beet-based",
+      "soup",
+      "vegetarian"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 55,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -12535,16 +12528,15 @@
   },
   {
     "slug": "quick-tangy-vietnamese-pork-shoulder-pho",
-    "title": "quick tangy vietnamese pork shoulder pho",
+    "title": "Vietnamese Style Pork Shoulder Pho",
     "tags": [
-      "asia-fusion",
-      "low-calorie",
-      "quick-cook",
       "vietnamese",
-      "weeknight"
+      "pork",
+      "pho",
+      "noodle soup"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 230,
     "shard": "q"
   },
   {
@@ -17151,18 +17143,16 @@
   },
   {
     "slug": "quintessentially-rich-french-lamb-confit",
-    "title": "Quintessentially Rich French Lamb Confit",
+    "title": "Lamb Confit with Garlic Mashed Potatoes",
     "tags": [
-      "comfort-food",
-      "french-dish",
-      "jain",
-      "one-pan",
-      "romantic-dinner",
-      "vegetarian",
-      "weeknight"
+      "lamb",
+      "confit",
+      "garlic",
+      "mashed-potatoes",
+      "french-cuisine"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 165,
+    "cuisine": "French",
+    "totalTimeMin": 240,
     "shard": "q"
   },
   {
