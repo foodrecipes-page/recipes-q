@@ -1,0 +1,77 @@
+{
+  "slug": "quenched-russian-water-borscht",
+  "title": "Traditional Borscht Recipe",
+  "description": "A hearty beet-based soup originating from Eastern Europe, typically served with a dollop of sour cream. This recipe is a simplified version of the classic dish.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can diced",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "quenched borscht mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the beets, carrots, and cabbage. Cook for 10 minutes.",
+    "Add the canned tomatoes, quenched borscht mix, and water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "beet-based",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-russian-water-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:13:16.383Z"
+}
