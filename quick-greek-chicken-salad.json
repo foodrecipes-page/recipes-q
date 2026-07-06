@@ -1,0 +1,80 @@
+{
+  "slug": "quick-greek-chicken-salad",
+  "title": "Greek Chicken Salad",
+  "description": "A refreshing salad with juicy chicken, crunchy veggies, and tangy Greek flavors.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound, boneless and skinless",
+      "notes": null
+    },
+    {
+      "name": "Greek Salad Dressing",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, diced",
+      "notes": null
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Grill the chicken for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "4. Let the chicken rest for 5 minutes before slicing it thinly.",
+    "5. In a large bowl, combine the mixed greens, sliced cucumber, diced tomato, and thinly sliced red onion.",
+    "6. In a small bowl, whisk together the Greek salad dressing and a pinch of salt.",
+    "7. Pour the dressing over the salad and toss to coat.",
+    "8. Top the salad with sliced grilled chicken and crumbled feta cheese.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "chicken",
+    "salad",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-greek-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:48:08.741Z"
+}
