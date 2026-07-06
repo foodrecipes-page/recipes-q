@@ -1,0 +1,87 @@
+{
+  "slug": "quick-grilled-jamaican-pineapple-sliders",
+  "title": "Jamaican Pineapple Sliders",
+  "description": "Sweet and tangy Jamaican-inspired sliders topped with caramelized pineapple.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Mini Pineapple Sliders Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Grilled Shrimp",
+      "amount": "8",
+      "notes": "marinated in jerk seasoning"
+    },
+    {
+      "name": "Caramelized Pineapple",
+      "amount": "1 cup",
+      "notes": "see instructions for preparation"
+    },
+    {
+      "name": "Mango Salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Jalapeños",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill shrimp for 2-3 minutes per side, or until pink and cooked through. Set aside.",
+    "In a small saucepan, melt butter over medium heat. Add honey and cook, stirring occasionally, until caramelized pineapple is tender, about 5 minutes.",
+    "Toast sliders buns on the grill or in a toaster.",
+    "Assemble sliders by spreading mango salsa on the bottom bun, followed by a grilled shrimp, a spoonful of caramelized pineapple, and finally the top bun.",
+    "Garnish with chopped cilantro and jalapeños, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "grilled",
+    "pineapple",
+    "sliders"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-jamaican-pineapple-sliders",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:24:34.019Z"
+}
