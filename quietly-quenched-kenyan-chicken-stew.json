@@ -1,0 +1,76 @@
+{
+  "slug": "quietly-quenched-kenyan-chicken-stew",
+  "title": "Kenyan Chicken Stew",
+  "description": "A hearty and flavorful stew from Kenya, featuring tender chicken and a rich blend of spices.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": " Kenyan stew spice mix"
+    },
+    {
+      "name": "quietly",
+      "amount": "2 tablespoons",
+      "notes": " Kenyan chili peppers, sliced"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 cup",
+      "notes": "Kenyan beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, carrots, and potatoes, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the stew spice mix, chili peppers, and beef broth, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to medium-low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "chicken",
+    "stew",
+    "african"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-kenyan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T08:19:04.732Z"
+}
