@@ -1,0 +1,99 @@
+{
+  "slug": "quintessentially-rich-french-lamb-confit",
+  "title": "Lamb Confit with Garlic Mashed Potatoes",
+  "description": "A classic French dish featuring tender lamb confit, served with a side of rich garlic mashed potatoes.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1.5-2 kg",
+      "notes": "preferably with the bone in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-5 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tablespoon",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4-5",
+      "notes": "large, peeled and chopped"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Season the lamb with salt and black pepper.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Sear the lamb until browned on all sides, then remove it from the pot.",
+    "Add the minced garlic, thyme, and bay leaves to the pot and cook for 1-2 minutes.",
+    "Return the lamb to the pot, cover it with a lid, and transfer it to the preheated oven.",
+    "Braise the lamb for 2-3 hours, or until it's tender and falls apart easily.",
+    "While the lamb is cooking, prepare the garlic mashed potatoes.",
+    "Boil the chopped potatoes in salted water until they're tender.",
+    "Drain the potatoes and mash them with butter, milk, salt, and pepper.",
+    "Stir in the minced garlic and adjust the seasoning as needed.",
+    "To serve, slice the lamb confit and serve it with the garlic mashed potatoes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "confit",
+    "garlic",
+    "mashed-potatoes",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 24,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-rich-french-lamb-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:24:55.851Z"
+}
