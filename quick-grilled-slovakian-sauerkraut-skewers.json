@@ -1,0 +1,82 @@
+{
+  "slug": "quick-grilled-slovakian-sauerkraut-skewers",
+  "title": "Slovakian Grilled Skewers",
+  "description": "A delicious Slovakian-inspired dish of marinated meat skewers grilled to perfection. Serve with a side of sauerkraut for a traditional touch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "sausage",
+      "amount": "200g",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "200g",
+      "notes": "for serving"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together vinegar, olive oil, garlic powder, and onion powder.",
+    "3. Add pork and sausage to the marinade, mixing well to coat.",
+    "4. Thread pork and sausage onto skewers, leaving space between each piece.",
+    "5. Season with black pepper to taste.",
+    "6. Grill skewers for 8-10 minutes per side, or until cooked through.",
+    "7. Meanwhile, heat sauerkraut in a pan over medium heat until warmed through.",
+    "8. Serve skewers with sauerkraut on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "slovakian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-slovakian-sauerkraut-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T13:18:31.968Z"
+}
