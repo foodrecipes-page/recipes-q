@@ -1,0 +1,59 @@
+{
+  "slug": "quick-melted-syrian-sausage-wrap",
+  "title": "Syrian Sausage Wrap",
+  "description": "An easy and flavorful wrap filled with spicy Syrian sausage and topped with melted cheese.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Quick wrap",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Melted cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Vegetables (lettuce, tomato, onion)",
+      "amount": "1 cup",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Cook the sliced Syrian sausage until browned, about 5 minutes.",
+    "Warm the wraps in the microwave or oven according to package instructions.",
+    "Assemble the wraps by placing cooked sausage, melted cheese, and vegetables inside.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "syrian-sausage",
+    "wrap",
+    "quick-lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-melted-syrian-sausage-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:52:23.309Z"
+}
