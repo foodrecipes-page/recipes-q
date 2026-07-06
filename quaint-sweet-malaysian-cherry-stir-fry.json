@@ -1,0 +1,89 @@
+{
+  "slug": "quaint-sweet-malaysian-cherry-stir-fry",
+  "title": "Malaysian-Style Stir Fry with Sweet Cherry Sauce",
+  "description": "A sweet and savory stir fry dish inspired by Malaysian flavors, featuring a cherry sauce and various vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quaint cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Malaysian sweet chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "for the cherry sauce"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "Stir-fry rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry until they start to soften, about 3-4 minutes.",
+    "Add the snow peas and stir-fry for another 2-3 minutes, until they are tender but still crisp.",
+    "Add the cooked stir-fry rice to the wok or skillet and stir-fry for about 2 minutes, until the rice is well combined with the vegetables.",
+    "In a small bowl, whisk together the sweet chili sauce and 2 tablespoons of water to create the cherry sauce.",
+    "Pour the cherry sauce over the rice and vegetables, and stir-fry for another minute, until everything is well coated.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter or individual plates, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "vegetarian",
+    "gluten-free",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-sweet-malaysian-cherry-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T12:38:44.480Z"
+}
