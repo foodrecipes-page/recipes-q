@@ -3494,16 +3494,15 @@
   },
   {
     "slug": "quenched-peppery-italian-peppers-carbonara",
-    "title": "Quenched Peppery Italian Peppers Carbonara",
+    "title": "Spicy Carbonara Pasta",
     "tags": [
       "italian",
-      "paleo",
+      "vegetarian",
       "pasta",
-      "peppers",
-      "whole30"
+      "spicy"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -9982,17 +9981,14 @@
   },
   {
     "slug": "quick-melted-syrian-sausage-wrap",
-    "title": "Quick Melted Syrian Sausage Wrap",
+    "title": "Syrian Sausage Wrap",
     "tags": [
-      "cheesy",
-      "meat-lovers",
-      "midnight-cravings",
-      "quick-snacks",
-      "sugar-free",
-      "syrian-cuisine"
+      "syrian-sausage",
+      "wrap",
+      "quick-lunch"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -12128,17 +12124,15 @@
   },
   {
     "slug": "quick-spicy-japanese-collards-paella",
-    "title": "Quick Spicy Japanese Collards Paella",
+    "title": "Spicy Paella with Collard Greens",
     "tags": [
-      "breakfast",
-      "easy",
-      "jain-friendly",
-      "one-pan",
-      "quick",
+      "spanish",
+      "paella",
+      "collard-greens",
       "spicy"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 30,
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
