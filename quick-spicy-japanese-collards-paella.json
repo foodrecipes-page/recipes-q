@@ -1,0 +1,85 @@
+{
+  "slug": "quick-spicy-japanese-collards-paella",
+  "title": "Spicy Paella with Collard Greens",
+  "description": "A twist on the classic Spanish dish, this spicy paella combines the flavors of Japan with the nutrition of collard greens.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Collard Greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Saffron Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy Japanese Sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Quick Cooking Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the spicy Japanese sausage and cook until browned, about 5 minutes.",
+    "Add the garlic and smoked paprika and cook for 1 minute.",
+    "Add the saffron rice and stir to coat with the oil and mix with the sausage and spices.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, or until the rice is cooked.",
+    "Stir in the collard greens and cook until wilted.",
+    "Season with soy sauce, lime juice, salt, and pepper to taste.",
+    "Serve hot, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "collard-greens",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spicy-japanese-collards-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:44:22.731Z"
+}
