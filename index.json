@@ -5222,17 +5222,15 @@
   },
   {
     "slug": "quick-butter-japanese-fish-pasta",
-    "title": "Quick Butter Japanese Fish Pasta",
+    "title": "Japanese-Style Teriyaki Pasta with Fish",
     "tags": [
-      "fish",
       "japanese",
-      "one-pan",
+      "fish",
       "pasta",
-      "quick-and-easy",
-      "weeknight"
+      "quick"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -6727,18 +6725,15 @@
   },
   {
     "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake",
-    "title": "quick-fix Argentinian ovolimushroom wood-fired-bake",
+    "title": "Argentinian-Style Wood Fired Mushroom Empanadas",
     "tags": [
-      "anti-inflammatory",
-      "argentinian",
-      "high-protein",
-      "one-pan",
-      "quick-fix",
-      "weeknight",
-      "wood-fired"
+      "empanadas",
+      "mushroom",
+      "woodfired",
+      "ovenbaked"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "South American",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8878,14 +8873,15 @@
   },
   {
     "slug": "quick-gooey-peruvian-paneer-tacu-tacu",
-    "title": "Quick Peruvian Tacu Tacu with Paneer",
+    "title": "Taco Paneer Quesadilla",
     "tags": [
-      "peruvian",
+      "taco",
       "paneer",
-      "tacu-tacu"
+      "quesadilla",
+      "peruvian"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -15768,17 +15764,15 @@
   },
   {
     "slug": "quietly-simmered-ethiopian-collard-greens-gomen",
-    "title": "Quietly Simmered Ethiopian Collard Greens Gomen",
+    "title": "Ethiopian Collard Greens Stew",
     "tags": [
-      "comfort-food",
-      "ethiopian-cuisine",
-      "gluten-free",
-      "lazy-sunday",
-      "one-pot",
-      "vegan-friendly"
+      "ethiopian",
+      "stew",
+      "collard-greens",
+      "simmered"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
