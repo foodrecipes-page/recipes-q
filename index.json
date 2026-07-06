@@ -11878,18 +11878,15 @@
   },
   {
     "slug": "quick-smoky-jamaican-lentils-tagine",
-    "title": "Quick Smoky Jamaican Lentils Tagine",
+    "title": "Lentil Tagine",
     "tags": [
-      "high-protein",
-      "jamaican-inspired",
-      "lentil-based",
-      "one-pan",
-      "paleo-friendly",
-      "smoky",
-      "weeknight"
+      "lentils",
+      "north-african",
+      "vegetarian",
+      "stew"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -13254,18 +13251,15 @@
   },
   {
     "slug": "quickly-crisped-ukrainian-khao-khua-fried-rice",
-    "title": "Quickly Crisped Ukrainian Khao Khua Fried Rice",
+    "title": "Crispy Fried Rice",
     "tags": [
-      "crispy",
       "fried-rice",
-      "high-protein",
-      "keto-friendly",
-      "one-pan",
       "ukrainian-cuisine",
-      "weeknight"
+      "quick-dinner",
+      "vegetarian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
