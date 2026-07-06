@@ -9063,15 +9063,12 @@
   },
   {
     "slug": "quick-grilled-jamaican-pineapple-sliders",
-    "title": "Quick Grilled Jamaican Pineapple Sliders",
+    "title": "Jamaican Pineapple Sliders",
     "tags": [
-      "date-night",
-      "easy-entertaining",
-      "grilled",
-      "high-protein",
       "jamaican",
-      "low-carb",
-      "quick-dinner"
+      "grilled",
+      "pineapple",
+      "sliders"
     ],
     "cuisine": "jamaican",
     "totalTimeMin": 25,
@@ -15252,17 +15249,15 @@
   },
   {
     "slug": "quietly-quenched-kenyan-chicken-stew",
-    "title": "Quietly Quenched Kenyan Chicken Stew",
+    "title": "Kenyan Chicken Stew",
     "tags": [
-      "almond-milk",
-      "chicken-stew",
-      "earthenware-cooking",
-      "kenyan-cuisine",
-      "low-sodium",
-      "special-occasion"
+      "kenyan",
+      "chicken",
+      "stew",
+      "african"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
