@@ -7688,17 +7688,15 @@
   },
   {
     "slug": "quick-fix-russian-pecorino-tart",
-    "title": "quick-fix russian pecorino tart",
+    "title": "Russian Pecorino Tart",
     "tags": [
-      "cheese",
-      "herbal",
-      "russian",
-      "snappy",
       "tart",
-      "weeknight"
+      "cheese",
+      "dessert",
+      "italian-russian-fusion"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 35,
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
