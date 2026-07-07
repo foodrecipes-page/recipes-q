@@ -1008,15 +1008,14 @@
   },
   {
     "slug": "quaint-romantic-dutch-paccheri-pasta",
-    "title": "Quaint Romantic Dutch Paccheri Pasta",
+    "title": "Paccheri Pasta alla Romantica",
     "tags": [
-      "dutch-cuisine",
-      "low-carb",
-      "one-pot",
-      "romantic-dinner",
-      "weeknight"
+      "pasta",
+      "italian",
+      "romantic",
+      "dinner"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "q"
   },
