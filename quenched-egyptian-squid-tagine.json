@@ -1,0 +1,96 @@
+{
+  "slug": "quenched-egyptian-squid-tagine",
+  "title": "Egyptian Squid Tagine",
+  "description": "A flavorful and aromatic North African-inspired stew from Egypt, featuring tender squid and a rich tagine sauce. This dish is a true representation of the region's culinary prowess.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squid tubes",
+      "amount": "1 pound",
+      "notes": " cleaned and sliced into 1-inch pieces"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Quenched (dry white wine)",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the squid, tagine spice mix, salt, and pepper. Cook for 2-3 minutes, until the squid starts to change color.",
+    "Add the wine (if using) and cook until the liquid has almost completely evaporated, about 2-3 minutes.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10-12 minutes, or until the squid is tender.",
+    "Stir in some chopped parsley and serve over rice or couscous.",
+    "Garnish with additional parsley, if desired.",
+    "Serve hot, enjoying the rich flavors of this North African-inspired stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "squid",
+    "north-african",
+    "tagine",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-egyptian-squid-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T11:47:38.268Z"
+}
