@@ -3154,17 +3154,15 @@
   },
   {
     "slug": "quenched-korean-gosari-stew",
-    "title": "Quenched Korean Gosari Stew",
+    "title": "Korean-Style Stew with Gosari",
     "tags": [
-      "fermented",
       "korean",
-      "one-pot",
-      "soup",
       "stew",
+      "gosari",
       "vegetarian"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 40,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -4199,17 +4197,15 @@
   },
   {
     "slug": "quenched-sour-middle-eastern-black-pudding-shawarma-fatteh",
-    "title": "Quenched Sour Middle Eastern Black Pudding Shawarma Fatteh",
+    "title": "Middle Eastern Fatteh Shawarma",
     "tags": [
-      "festive",
-      "high-protein",
+      "shawarma",
+      "fatteh",
       "middle-eastern",
-      "one-pan",
-      "snappy",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 27,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -9447,16 +9443,15 @@
   },
   {
     "slug": "quick-jamaican-steak-skillet",
-    "title": "Quick Jamaican Steak Skillet",
+    "title": "Jamaican Steak Skillet",
     "tags": [
-      "jamaican",
-      "low-fat",
-      "one-pan",
       "steak",
-      "weeknight"
+      "jamaican",
+      "skillet",
+      "quick-cooking"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
