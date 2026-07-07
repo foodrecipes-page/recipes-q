@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-peruvian-duck-confit-leg-cazuela",
+  "title": "Peruvian Duck Confit Leg",
+  "description": "A rich and flavorful dish inspired by Peruvian cuisine, featuring slow-cooked duck leg confit served with a side of tangy salsa criolla.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "2",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "Quenched red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cazuela chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the duck legs with salt, black pepper, and chili flakes.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on both sides, about 5 minutes per side.",
+    "Transfer the duck legs to a plate and set aside.",
+    "Add the garlic to the pot and cook for 1 minute.",
+    "Add the vinegar to the pot and stir to deglaze, scraping up any browned bits.",
+    "Return the duck legs to the pot and transfer to the preheated oven.",
+    "Braise the duck legs for 2-1/2 hours, or until tender and falling off the bone.",
+    "Remove the duck legs from the pot and let rest for 10 minutes.",
+    "Strain the sauce and discard the solids.",
+    "Serve the duck legs with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "duck",
+    "confit"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peruvian-duck-confit-leg-cazuela",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:40:41.805Z"
+}
