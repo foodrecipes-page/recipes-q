@@ -1,0 +1,77 @@
+{
+  "slug": "quaint-spanish-pork-jamon-iberico",
+  "title": "Spanish-Style Iberico Pork Tapas",
+  "description": "A simple and flavorful tapas dish featuring tender Iberico pork, crispy jamon, and a hint of Spanish flair.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iberico Pork Belly",
+      "amount": "1 pound",
+      "notes": "Cured Iberico pork belly, preferably acorn-fed"
+    },
+    {
+      "name": "Jamon",
+      "amount": "4 slices",
+      "notes": "Thinly sliced Spanish cured ham"
+    },
+    {
+      "name": "Quaint Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality Spanish olive oil"
+    },
+    {
+      "name": "Spanish Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika adds a deep, smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic for added depth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt for added texture"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped",
+      "notes": "Fresh parsley for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the Iberico pork belly with salt and Spanish smoked paprika.",
+    "Heat the quaint olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the pork belly until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the pork is tender and slightly caramelized.",
+    "Meanwhile, toast the jamon slices in a dry skillet until crispy.",
+    "Slice the cooked pork into thin strips and serve with crispy jamon, garlic, and a sprinkle of salt.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "iberico",
+    "tapas",
+    "pork",
+    "jamon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-spanish-pork-jamon-iberico",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:50:12.983Z"
+}
