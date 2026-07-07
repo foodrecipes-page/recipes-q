@@ -1,0 +1,99 @@
+{
+  "slug": "quietly-spicy-brazilian-challots-stew",
+  "title": "Brazilian Stew with Spicy Kick",
+  "description": "A flavorful and spicy stew inspired by Brazilian cuisine, perfect for a cold evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "challots",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "quietly simmered beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "spicy sausage",
+      "amount": "1 pound",
+      "notes": "such as chorizo"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the onion, challots, and bell peppers, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the tomatoes, beef broth, and simmered stew, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "stew",
+    "spicy",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-spicy-brazilian-challots-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T04:40:45.712Z"
+}
