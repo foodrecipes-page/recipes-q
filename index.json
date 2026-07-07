@@ -521,17 +521,15 @@
   },
   {
     "slug": "quaint-flaky-jamaican-rice-fried-rice",
-    "title": "Quaint Flaky Jamaican Rice Fried Rice",
+    "title": "Jamaican Fried Rice",
     "tags": [
-      "flaky",
-      "gluten-free",
-      "herbal",
-      "jamaican-cuisine",
-      "midnight-cravings",
-      "sugar-free"
+      "jamaican",
+      "fried-rice",
+      "caribbean",
+      "lunch-ideas"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 20,
+    "cuisine": "jamaican",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -1560,16 +1558,14 @@
   },
   {
     "slug": "quaintly-cheesy-american-cheese-casserole",
-    "title": "Quaintly Cheesy American Cheese Casserole",
+    "title": "American Cheese Casserole",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "jain-friendly",
-      "one-pot",
-      "weeknight-dinners"
+      "comfort food",
+      "casserole",
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
