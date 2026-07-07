@@ -11883,17 +11883,15 @@
   },
   {
     "slug": "quick-smoky-portuguese-beef-skewers",
-    "title": "Quick Smoky Portuguese Beef Skewers",
+    "title": "Portuguese Beef Skewers",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
+      "beef",
+      "grill",
       "portuguese",
-      "smoky",
-      "weeknight"
+      "skewers"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "q"
   },
   {
