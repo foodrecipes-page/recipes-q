@@ -1,0 +1,84 @@
+{
+  "slug": "quenched-sour-middle-eastern-black-pudding-shawarma-fatteh",
+  "title": "Middle Eastern Fatteh Shawarma",
+  "description": "A twist on traditional shawarma, this dish combines the flavors of the Middle East with the richness of fatteh. Crispy flatbread is filled with juicy shawarma, creamy pudding, and a tangy side of black pudding.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sharshoura (or shawarma meat)",
+      "amount": "500g",
+      "notes": "cooked and thinly sliced"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "preferably pita"
+    },
+    {
+      "name": "black pudding",
+      "amount": "200g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "quenched yogurt",
+      "amount": "1 cup",
+      "notes": "to serve"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "to serve"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "fatteh",
+      "amount": "200g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "to garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C)",
+    "2. Warm the flatbread in the oven for 5 minutes",
+    "3. Spread the middle eastern spices on the flatbread",
+    "4. Add the sliced shawarma on top of the flatbread",
+    "5. Crumble the black pudding and fatteh on top of the shawarma",
+    "6. Drizzle the quenched yogurt and sour cream on top",
+    "7. Garnish with chopped parsley",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shawarma",
+    "fatteh",
+    "middle-eastern",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-sour-middle-eastern-black-pudding-shawarma-fatteh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:56:49.315Z"
+}
