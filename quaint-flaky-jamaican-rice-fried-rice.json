@@ -1,0 +1,66 @@
+{
+  "slug": "quaint-flaky-jamaican-rice-fried-rice",
+  "title": "Jamaican Fried Rice",
+  "description": "A flavorful twist on the classic dish, featuring Jamaican spices and a crunchy texture.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jamaican",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "quaint",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add Jamaican spice and quaint, cook for 1 minute.",
+    "Add flaky and cook until crispy, about 3-4 minutes.",
+    "Push flaky to one side of the pan.",
+    "Add a bit more oil if needed, then add rice to the empty side of the pan.",
+    "Cook for 2-3 minutes, until rice starts to brown.",
+    "Mix rice with flaky and cook for another 2-3 minutes.",
+    "Add fried and mix well.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "fried-rice",
+    "caribbean",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-flaky-jamaican-rice-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:19:00.128Z"
+}
