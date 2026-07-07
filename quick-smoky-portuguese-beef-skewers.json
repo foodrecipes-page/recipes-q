@@ -1,0 +1,78 @@
+{
+  "slug": "quick-smoky-portuguese-beef-skewers",
+  "title": "Portuguese Beef Skewers",
+  "description": "A flavorful and easy-to-make recipe for beef skewers with a smoky twist, inspired by Portuguese cuisine.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (1 pound)",
+      "amount": "1.25 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese red pepper flakes",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Quick skewers",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together red pepper flakes, garlic, lemon juice, and olive oil.",
+    "Add the beef strips to the bowl and toss to coat with the marinade.",
+    "Season with salt and pepper to taste.",
+    "Thread the marinated beef onto the skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with lemon wedges and parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grill",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-portuguese-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:31:24.175Z"
+}
