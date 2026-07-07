@@ -1,0 +1,80 @@
+{
+  "slug": "quaint-comforting-malaysian-chicken-stew",
+  "title": "Malaysian Chicken Stew",
+  "description": "A hearty and comforting stew with a blend of Malaysian flavors. Perfect for a chilly evening.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add curry powder and cook for 1 minute.",
+    "Add chicken broth, coconut milk, fish sauce, and salt.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "malaysian",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-comforting-malaysian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:03:04.140Z"
+}
