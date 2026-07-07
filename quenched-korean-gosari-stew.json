@@ -1,0 +1,91 @@
+{
+  "slug": "quenched-korean-gosari-stew",
+  "title": "Korean-Style Stew with Gosari",
+  "description": "A hearty and flavorful Korean-inspired stew made with gosari, a type of Korean mushroom, and a variety of vegetables and spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gosari",
+      "amount": "1 cup",
+      "notes": "Korean mushroom"
+    },
+    {
+      "name": "quenched rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or peanut oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the gosari and cook until it starts to soften, about 2-3 minutes.",
+    "Add the gochujang, soy sauce, and sugar (if using), and stir to combine.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-15 minutes, or until the gosari is tender.",
+    "Stir in the sesame oil (if using) and season with salt to taste.",
+    "Serve the stew hot, garnished with chopped green onions and a sprinkle of toasted sesame seeds (if desired).",
+    "Serve over a bed of quenched rice.",
+    "Optional: add other vegetables, such as zucchini or carrots, to the stew for added flavor and nutrition."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "gosari",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-korean-gosari-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:20:06.077Z"
+}
