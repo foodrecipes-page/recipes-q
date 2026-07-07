@@ -1,0 +1,91 @@
+{
+  "slug": "quick-jamaican-steak-skillet",
+  "title": "Jamaican Steak Skillet",
+  "description": "Quick and delicious Jamaican inspired steak skillet recipe with a flavorful blend of spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting steak"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1",
+      "notes": "medium, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Season the steak with jerk seasoning and dust with flour.",
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Sear the steak for 2-3 minutes per side, or until browned.",
+    "Remove the steak from the skillet and set aside.",
+    "Add sliced onion and bell pepper to the skillet and cook until tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cherry tomatoes and cook until they start to release their juices.",
+    "Return the steak to the skillet and cook for an additional 2-3 minutes, or until the steak reaches an internal temperature of 135°F for medium-rare.",
+    "Remove the skillet from the heat and let the steak rest for 5 minutes.",
+    "Serve the steak with the vegetables and sauce from the skillet."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "steak",
+    "jamaican",
+    "skillet",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-jamaican-steak-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:33:32.665Z"
+}
