@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-russian-pecorino-tart",
+  "title": "Russian Pecorino Tart",
+  "description": "A classic Russian dessert with a twist of Italian pecorino cheese, all wrapped up in a flaky tart crust.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pecorino cheese",
+      "amount": "1 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Tart fix",
+      "amount": "1 pre-made tart crust",
+      "notes": null
+    },
+    {
+      "name": "Quick sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart crust and place in a tart pan.",
+    "In a bowl, mix together the crumbled pecorino cheese and sugar.",
+    "Pour the cheese mixture into the tart crust.",
+    "In a separate bowl, whisk together the eggs and melted butter.",
+    "Pour the egg mixture over the cheese mixture in the tart crust.",
+    "Bake for 35-40 minutes, or until the tart is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "tart",
+    "cheese",
+    "dessert",
+    "italian-russian-fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-russian-pecorino-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:09:34.306Z"
+}
