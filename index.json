@@ -255,16 +255,15 @@
   },
   {
     "slug": "quaint-comforting-malaysian-chicken-stew",
-    "title": "Quaint Comforting Malaysian Chicken Stew",
+    "title": "Malaysian Chicken Stew",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pot",
-      "whole30"
+      "chicken",
+      "stew",
+      "malaysian",
+      "comforting"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
