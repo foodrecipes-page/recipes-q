@@ -1,0 +1,92 @@
+{
+  "slug": "quintessential-indulgent-egyptian-lamb-tagine",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish from the ancient city of Marrakech, this lamb tagine is slow-cooked in a rich and aromatic spice mix.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "quintessential tagine spice mix",
+      "amount": "2 tbsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried preserved lemon",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "egyptian dates",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb in batches, about 5 minutes per batch, until browned on all sides.",
+    "Remove lamb from pot and set aside.",
+    "Add more oil if necessary, then sauté onion until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add preserved lemon and cook for 1 minute.",
+    "Add tagine spice mix and cook for 1 minute.",
+    "Add lamb, wine (if using), and dates to pot.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 hours or until lamb is tender.",
+    "Skim fat from pot and season with salt and pepper to taste.",
+    "Garnish with parsley and serve over couscous."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-indulgent-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:13:24.870Z"
+}
