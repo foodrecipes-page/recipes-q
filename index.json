@@ -2541,15 +2541,14 @@
   },
   {
     "slug": "quenched-egyptian-squid-tagine",
-    "title": "quenched egyptian squid tagine",
+    "title": "Egyptian Squid Tagine",
     "tags": [
-      "egyptian",
-      "high-protein",
-      "one-pan",
       "squid",
-      "weeknight"
+      "north-african",
+      "tagine",
+      "egyptian"
     ],
-    "cuisine": "egyptian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "q"
   },
@@ -5962,20 +5961,15 @@
   },
   {
     "slug": "quick-crunchy-grassy-egyptian-flaxseed-toast",
-    "title": "Quick Crunchy Grassy Egyptian Flaxseed Toast",
+    "title": "Egyptian Flaxseed Crunch",
     "tags": [
-      "breakfast",
-      "easy",
-      "flaxseed",
-      "gluten-free",
-      "middle-eastern",
-      "one-pan",
-      "quick",
       "snack",
-      "vegetarian"
+      "gluten-free",
+      "easy",
+      "vegan"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 7,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 17,
     "shard": "q"
   },
   {
@@ -16692,16 +16686,15 @@
   },
   {
     "slug": "quintessential-indulgent-egyptian-lamb-tagine",
-    "title": "Quintessential Indulgent Egyptian Lamb Tagine",
+    "title": "Classic Moroccan Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot",
-      "spicy"
+      "lamb",
+      "tagine",
+      "moroccan",
+      "slow-cooked"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 180,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
