@@ -1,0 +1,68 @@
+{
+  "slug": "quick-crunchy-grassy-egyptian-flaxseed-toast",
+  "title": "Egyptian Flaxseed Crunch",
+  "description": "A crunchy snack inspired by Egyptian cuisine, made with flaxseed, crunchy ingredients, and a hint of grassy freshness.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "2 cups",
+      "notes": "ground"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "chopped nuts or seeds"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1/4 cup",
+      "notes": "dried herbs, such as thyme or oregano"
+    },
+    {
+      "name": "grassy",
+      "amount": "2 tablespoons",
+      "notes": "fresh parsley or cilantro"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "gluten-free bread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Mix the flaxseed, crunchy, egyptian, and grassy ingredients in a bowl.",
+    "Cut the toast into bite-sized pieces and place on a baking sheet.",
+    "Spread the flaxseed mixture evenly over the toast.",
+    "Bake for 10-12 minutes or until the mixture is lightly toasted.",
+    "Remove from the oven and let cool completely.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "gluten-free",
+    "easy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-grassy-egyptian-flaxseed-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:47:35.344Z"
+}
