@@ -1,0 +1,72 @@
+{
+  "slug": "quietly-smoky-australian-tamarind-skewers",
+  "title": "Smoky Australian Tamarind Skewers",
+  "description": "A fusion of Australian flavors with a smoky twist, these skewers are perfect for a summer evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and de-veined"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": "diluted in 2 tablespoons water"
+    },
+    {
+      "name": "smoky barbecue sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "quietly grilled pineapple",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch chunks"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes before use"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Soak skewers in water for 30 minutes before use.",
+    "Thread Australian shrimp, quietly grilled pineapple, and a small amount of smoky barbecue sauce onto each skewer.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until shrimp are pink and cooked through.",
+    "Serve immediately with additional smoky barbecue sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "smoky",
+    "shrimp",
+    "pineapple",
+    "skewers",
+    "summer"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-australian-tamarind-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:57:16.931Z"
+}
