@@ -1,0 +1,74 @@
+{
+  "slug": "quick-fried-spanish-lard-skillet",
+  "title": "Crispy Fried Spanish Tortas",
+  "description": "Crispy fried Spanish tortas, a twist on the classic Mexican sandwich. Crunchy on the outside and soft on the inside, topped with savory ingredients.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lard",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Bread",
+      "amount": "4",
+      "notes": "Spanish-style bolillo or Mexican telera"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/4 pound",
+      "notes": "Mexican-style chorizo, sliced"
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat lard in a skillet over medium-high heat.",
+    "Fry the bread until golden brown, about 2-3 minutes per side.",
+    "Remove the bread from the skillet and set aside.",
+    "Add chorizo to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the cooked chorizo to the fried bread.",
+    "Sprinkle shredded cheese over the chorizo.",
+    "Return the bread to the skillet and cook until the cheese is melted and the bread is crispy, about 2-3 minutes.",
+    "Garnish with chopped cilantro and season with salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "fried",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-spanish-lard-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:10.837Z"
+}
