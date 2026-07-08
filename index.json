@@ -3044,14 +3044,15 @@
   },
   {
     "slug": "quenched-japanese-allspice-udon",
-    "title": "quenched japanese allspice udon",
+    "title": "Japanese Udon Noodle Stir Fry",
     "tags": [
-      "comfort-food",
-      "sick-day",
-      "weeknight"
+      "japanese",
+      "stir-fry",
+      "udon-noodles",
+      "vegetarian"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 25,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -5815,17 +5816,15 @@
   },
   {
     "slug": "quick-crispy-moroccan-split-peas-tagine",
-    "title": "Quick Crispy Moroccan Split Peas Tagine",
+    "title": "Crispy Moroccan Chickpea Tagine",
     "tags": [
-      "crispy",
-      "meal-prep",
       "moroccan",
-      "one-pan",
-      "paleo",
-      "sous-vide"
+      "chickpeas",
+      "tagine",
+      "spicy"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 140,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7933,14 +7932,14 @@
   },
   {
     "slug": "quick-fix-turkish-tuna-crumble",
-    "title": "Quick-Fix Turkish Tuna Crumble",
+    "title": "Turkish Tuna Crumble",
     "tags": [
-      "quick-fix-turkish-dish",
-      "bitter-flaky-tuna-crumble",
-      "gluten-free-friendly"
+      "turkish",
+      "fish",
+      "easy-dinner"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 15,
+    "cuisine": "turkish",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -12679,14 +12678,12 @@
   },
   {
     "slug": "quick-velvety-argentinian-yautia-gratin",
-    "title": "Quick Velvety Argentinian Yautia Gratin",
+    "title": "Argentinian Yautia Gratin",
     "tags": [
-      "argentinian-cuisine",
-      "comfort-food",
-      "one-pan",
-      "quick-meal",
-      "ramekin-recipe",
-      "vegetarian-friendly"
+      "argentinian",
+      "yautia",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 40,
@@ -13449,16 +13446,16 @@
   },
   {
     "slug": "quickly-nimonoed-portuguese-fish-fillets-stew",
-    "title": "Quickly Nimonoed Portuguese Fish Fillets Stew",
+    "title": "Japanese-Style Fish Stew",
     "tags": [
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "japanese",
+      "fish",
+      "stew",
+      "comfort-food",
+      "quick-cooking"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
