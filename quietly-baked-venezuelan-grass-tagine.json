@@ -1,0 +1,87 @@
+{
+  "slug": "quietly-baked-venezuelan-grass-tagine",
+  "title": "Grilled Tagine Chicken with Quietly Roasted Vegetables",
+  "description": "A flavorful and aromatic dish inspired by Venezuelan cuisine, featuring tender chicken and roasted vegetables.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most middle eastern grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "Slice into rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "Slice into strips"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing vegetables"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with tagine spice blend and cook for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toss vegetables with olive oil, salt, and pepper. Grill for 3-4 minutes per side, or until tender.",
+    "Transfer vegetables to a serving platter and brush with lemon juice.",
+    "Slice cooked chicken and serve alongside vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "veggies",
+    "lemon",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-baked-venezuelan-grass-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:42:29.632Z"
+}
