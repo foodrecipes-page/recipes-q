@@ -1,0 +1,104 @@
+{
+  "slug": "quenched-algerian-turkey-neck-tagine",
+  "title": "Classic Algerian Chicken Tagine",
+  "description": "A flavorful stew originating from North Africa, typically cooked in a clay pot with a conical lid. This recipe showcases the rich flavors of Moroccan cuisine.",
+  "cuisine": "Algerian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken necks",
+      "amount": "4-6",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "algerian olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "quenched almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add chicken necks and cook until browned on all sides, about 5 minutes.",
+    "Add olives, almonds, salt, and black pepper. Stir to combine.",
+    "Cover the pot and transfer to the oven. Cook at 300°F (150°C) for 45 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-algerian-turkey-neck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:19:39.973Z"
+}
