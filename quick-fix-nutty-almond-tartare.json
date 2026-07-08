@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-nutty-almond-tartare",
+  "title": "Tartare of Almond Crusted Fish",
+  "description": "A delicate fish tartare coated with a crunchy almond crust, perfect for a light dinner.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod (sashimi-grade)",
+      "amount": "120g",
+      "notes": "Fresh, sustainable cod"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "60g",
+      "notes": "Finely ground almonds"
+    },
+    {
+      "name": "Quick bread crumbs",
+      "amount": "30g",
+      "notes": "Gluten-free bread crumbs"
+    },
+    {
+      "name": "Nutty olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil with a nutty flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "Freshly squeezed lemon juice"
+    },
+    {
+      "name": "Fix salt",
+      "amount": "to taste",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Tartare sauce (store-bought or homemade)",
+      "amount": "2 tbsp",
+      "notes": "Optional, but recommended for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the cod under cold water, pat dry with paper towels.",
+    "2. In a shallow dish, mix together almond flour, bread crumbs, and a pinch of fix salt.",
+    "3. Coat the cod with the almond mixture, pressing gently to adhere.",
+    "4. Heat nutty olive oil in a non-stick skillet over medium heat.",
+    "5. Add the coated cod to the skillet and sear for 2-3 minutes on each side.",
+    "6. Remove the cod from the skillet and let it rest for 2 minutes.",
+    "7. Slice the cod into thin pieces and place on a plate.",
+    "8. Drizzle tartare sauce over the cod, if using.",
+    "9. Serve immediately, garnished with lemon wedges and fix salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "gluten-free",
+    "dinner",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-nutty-almond-tartare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:44:39.109Z"
+}
