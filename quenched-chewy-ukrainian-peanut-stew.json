@@ -1,0 +1,87 @@
+{
+  "slug": "quenched-chewy-ukrainian-peanut-stew",
+  "title": "Ukrainian Stew",
+  "description": "A hearty, comforting stew made with tender beef and vegetables, inspired by traditional Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "quenched tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chewy whole wheat bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the quenched tomatoes, salt, and black pepper.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 hour.",
+    "Serve hot, garnished with chopped fresh parsley and crusty chewy whole wheat bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-chewy-ukrainian-peanut-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:38:43.692Z"
+}
