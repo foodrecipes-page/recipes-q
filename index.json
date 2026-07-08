@@ -11457,17 +11457,16 @@
   },
   {
     "slug": "quick-seared-chinese-king-prawns-char-siu",
-    "title": "Quick Seared Chinese King Prawns Char Siu",
+    "title": "King Prawn Char Siu Stir Fry",
     "tags": [
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "chinese-cuisine",
+      "prawn-recipe",
+      "char-siu-sauce",
+      "quick-dinner-ideas",
+      "veggie-optional"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 16,
+    "totalTimeMin": 13,
     "shard": "q"
   },
   {
@@ -11694,17 +11693,16 @@
   },
   {
     "slug": "quick-smoked-irish-bresaola-grub",
-    "title": "Quick Smoked Irish Bresaola Grub",
+    "title": "Smoked Salmon Bagel",
     "tags": [
-      "easy-smoking",
-      "high-protein",
-      "irish-cuisine",
-      "one-pan",
-      "smoked-meat",
-      "weeknight"
+      "breakfast",
+      "smoked-salmon",
+      "bagel",
+      "easy",
+      "quick"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 132,
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
