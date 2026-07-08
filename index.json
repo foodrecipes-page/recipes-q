@@ -2250,17 +2250,14 @@
   },
   {
     "slug": "quenched-chewy-ukrainian-peanut-stew",
-    "title": "Quenched Chewy Ukrainian Peanut Stew",
+    "title": "Ukrainian Stew",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "one-pot",
-      "peanut-based",
-      "ukrainian-cuisine",
-      "vegetarian-friendly"
+      "beef",
+      "stew",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "q"
   },
   {
@@ -3133,18 +3130,16 @@
   },
   {
     "slug": "quenched-keto-polish-cauliflower-dumplings",
-    "title": "Quenched Keto Polish Cauliflower Dumplings",
+    "title": "Keto Polish Cauliflower Dumplings",
     "tags": [
-      "dumpling",
-      "family-friendly",
-      "fermented",
-      "keto-friendly",
-      "low-carb",
-      "nostalgic",
-      "quick"
+      "keto",
+      "polish",
+      "cauliflower",
+      "dumplings",
+      "low-carb"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "polish",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7482,17 +7477,15 @@
   },
   {
     "slug": "quick-fix-peruvian-peruvian-cheese-quesadilla",
-    "title": "Quick-fix Peruvian Peruvian Cheese Quesadilla",
+    "title": "Peruvian Quesadilla",
     "tags": [
-      "cheese-pull",
-      "high-protein",
-      "one-pan",
+      "peruvian",
       "quick-fix",
-      "snack-friendly",
-      "weeknight"
+      "cheese",
+      "quesadilla"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -12648,16 +12641,15 @@
   },
   {
     "slug": "quick-uruguayan-peanut-cookies-bake",
-    "title": "quick uruguayan peanut cookies bake",
+    "title": "Uruguayan Peanut Cookies",
     "tags": [
-      "coconut-cream-crack",
-      "paleo-friendly",
-      "peanut-butter-cookies",
-      "quick-fix",
-      "south-american"
+      "peanut",
+      "cookies",
+      "bake",
+      "dessert"
     ],
-    "cuisine": "south american",
-    "totalTimeMin": 22,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
