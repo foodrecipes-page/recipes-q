@@ -1949,16 +1949,15 @@
   },
   {
     "slug": "quenched-algerian-turkey-neck-tagine",
-    "title": "Quenched Algerian Turkey Neck Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
       "algerian",
-      "halal",
-      "meat",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "stew",
+      "north-african"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 130,
+    "totalTimeMin": 75,
     "shard": "q"
   },
   {
@@ -8492,17 +8491,14 @@
   },
   {
     "slug": "quick-fried-spanish-lard-skillet",
-    "title": "Quick Fried Spanish Lard Skillet",
+    "title": "Crispy Fried Spanish Tortas",
     "tags": [
-      "galician",
-      "one-pan",
-      "skillet",
       "spanish",
-      "vegan",
-      "weeknight"
+      "fried",
+      "breakfast"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 30,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -11150,17 +11146,15 @@
   },
   {
     "slug": "quick-russian-vegetable-curry",
-    "title": "Quick Russian Vegetable Curry",
+    "title": "Quick Vegetable Curry",
     "tags": [
-      "lacto-vegetarian",
-      "massaman-paste",
-      "puff-pastry",
-      "russian-cuisine",
-      "tandoor-cooking",
-      "vegetable-curry"
+      "curry",
+      "vegetarian",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -11493,15 +11487,13 @@
   },
   {
     "slug": "quick-seared-portuguese-beef-skillet",
-    "title": "Quick Seared Portuguese Beef Skillet",
+    "title": "Quick Portuguese Beef Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "portuguese",
+      "skillet"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 25,
     "shard": "q"
   },
