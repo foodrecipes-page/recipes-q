@@ -3805,16 +3805,15 @@
   },
   {
     "slug": "quenched-saudi-arabian-eggs-frittata",
-    "title": "Quenched Saudi-Arabian Eggs Frittata",
+    "title": "Saudi Arabian Quenched Frittata",
     "tags": [
       "breakfast",
-      "date-night",
       "eggs",
-      "frittata",
-      "middle-eastern"
+      "cheese",
+      "saudi-arabian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
