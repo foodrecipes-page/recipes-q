@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-saudi-arabian-eggs-frittata",
+  "title": "Saudi Arabian Quenched Frittata",
+  "description": "A twist on the traditional Italian frittata, infused with the unique flavors of Saudi Arabia.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quenched",
+      "amount": "1"
+    },
+    {
+      "name": "Arabian eggs",
+      "amount": "6",
+      "notes": "Fresh from a local farm"
+    },
+    {
+      "name": "Frittata",
+      "amount": "1",
+      "notes": "A frittata pan is recommended for this recipe"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a large skillet, heat a couple of tablespoons of oil over medium heat. Add the minced garlic and sauté for 1-2 minutes.",
+    "Add the chopped fresh parsley and cook for another minute, until fragrant.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper.",
+    "Add the grated cheddar cheese and stir to combine.",
+    "Pour the egg mixture over the skillet with the garlic and parsley mixture.",
+    "Cook for 2-3 minutes, until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the frittata from the skillet and transfer it to a plate."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "cheese",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-saudi-arabian-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:37:26.818Z"
+}
