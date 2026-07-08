@@ -1,0 +1,85 @@
+{
+  "slug": "quick-crispy-moroccan-split-peas-tagine",
+  "title": "Crispy Moroccan Chickpea Tagine",
+  "description": "A flavorful and spicy tagine dish made with crispy chickpeas, perfect for a satisfying dinner. This recipe is inspired by traditional Moroccan cuisine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "split peas",
+      "amount": "1 cup dried",
+      "notes": ""
+    },
+    {
+      "name": "quick moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crispy onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the moroccan spice blend and stir for 1 minute.",
+    "Add the chickpeas and stir to coat with the spice blend.",
+    "Add the split peas, water, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Meanwhile, heat some oil in a pan over medium heat. Add the crispy onions and stir to coat.",
+    "After 20 minutes, add the crispy onions to the saucepan and stir to combine.",
+    "Simmer for an additional 5 minutes.",
+    "Serve hot and garnish with additional crispy onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chickpeas",
+    "tagine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 80,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-moroccan-split-peas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:01:08.378Z"
+}
