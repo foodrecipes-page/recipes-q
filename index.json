@@ -2658,17 +2658,15 @@
   },
   {
     "slug": "quenched-fluffy-ukrainian-ackee-pilaf",
-    "title": "Quenched Fluffy Ukrainian Ackee Pilaf",
+    "title": "Traditional Ukrainian Ackee Pilaf",
     "tags": [
-      "flambe",
-      "one-pan",
-      "ovo-vegetarian",
-      "post-workout",
-      "ukrainian-cuisine",
-      "umami"
+      "ukrainian",
+      "pilaf",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -3812,16 +3810,16 @@
   },
   {
     "slug": "quenched-saudi-sirloin-skillet",
-    "title": "Quenched Saudi Sirloin Skillet",
+    "title": "Sirloin Steak with Pan-Seared Quenelles",
     "tags": [
-      "comfort-food",
-      "garlic",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "steak",
+      "quenelles",
+      "pan-seared",
+      "easy-dinner"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 20,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -8755,16 +8753,15 @@
   },
   {
     "slug": "quick-glazed-jamaican-pork-burger",
-    "title": "quick-glazed jamaican pork burger",
+    "title": "Jamaican Glazed Pork Burger",
     "tags": [
-      "bacon",
-      "grilled",
+      "glazed",
       "jamaican",
-      "ovo-vegetarian",
-      "quick-fix"
+      "pork",
+      "burger"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
