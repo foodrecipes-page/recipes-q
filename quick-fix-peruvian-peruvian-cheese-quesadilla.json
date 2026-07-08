@@ -1,0 +1,67 @@
+{
+  "slug": "quick-fix-peruvian-peruvian-cheese-quesadilla",
+  "title": "Peruvian Quesadilla",
+  "description": "A twist on the classic quesadilla, this Peruvian-inspired dish combines the flavors of the Andes with the comfort of melted cheese. Perfect for a quick and easy meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "4-6, depending on size"
+    },
+    {
+      "name": "quick fix",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fix",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 tsp, ground cumin"
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 tsp, paprika"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Place a quesadilla in the skillet and sprinkle shredded cheese on half of the tortilla.",
+    "Fold the other half of the tortilla over the cheese and cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "Repeat with the remaining quesadillas and cheese.",
+    "Cut the quesadillas into wedges and serve hot with a side of quick fix.",
+    "Garnish with a sprinkle of ground cumin and paprika."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "quick-fix",
+    "cheese",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-peruvian-peruvian-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:17:20.144Z"
+}
