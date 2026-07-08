@@ -1,0 +1,77 @@
+{
+  "slug": "quick-smoked-irish-bresaola-grub",
+  "title": "Smoked Salmon Bagel",
+  "description": "A quick and easy breakfast recipe featuring smoked salmon, cream cheese, and capers.",
+  "cuisine": "irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "4 oz",
+      "notes": "lox or thinly sliced"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Capers",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Bagel",
+      "amount": "1",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat toaster or toaster oven to 350°F (175°C).",
+    "Toast the bagel for 2-3 minutes, or until lightly browned.",
+    "Spread the cream cheese evenly over the toasted bagel.",
+    "Top the cream cheese with the smoked salmon, chopped capers, and red onion.",
+    "Squeeze a bit of lemon juice over the top and season with salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "smoked-salmon",
+    "bagel",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-irish-bresaola-grub",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:19:53.289Z"
+}
