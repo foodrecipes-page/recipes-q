@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-smoky-korean-pretzels-onigiri",
+  "title": "Smoky Korean Pretzel Bites",
+  "description": "A crispy and savory snack inspired by Korean flavors. Perfect for a quick bite.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pretzels",
+      "amount": "1 cup",
+      "notes": "broken into small pieces"
+    },
+    {
+      "name": "quietly flavored soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "onigiri rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "or regular rice vinegar"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for balance of flavors"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, mix together the pretzel pieces, soy sauce, rice vinegar, chili flakes, brown sugar, garlic powder, and black pepper.",
+    "Mix until the pretzels are evenly coated with the Korean-inspired seasoning.",
+    "Spread the pretzel mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the pretzels are crispy and golden brown.",
+    "Remove from the oven and sprinkle with sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "korean",
+    "pretzels"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-korean-pretzels-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:35:15.899Z"
+}
