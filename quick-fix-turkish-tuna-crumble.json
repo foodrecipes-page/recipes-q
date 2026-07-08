@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fix-turkish-tuna-crumble",
+  "title": "Turkish Tuna Crumble",
+  "description": "A flavorful and easy-to-make dish that combines the freshness of tuna with the crunch of a crumble topping.",
+  "cuisine": "turkish",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "1 can (5 oz)",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Quick Fix Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbles",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Mix the tuna, breadcrumbs, spice mix, garlic, and lemon juice in a bowl.",
+    "Transfer the mixture to a baking dish.",
+    "Top with crumbles.",
+    "Drizzle with olive oil.",
+    "Bake for 12-15 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "fish",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-turkish-tuna-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:51:38.959Z"
+}
