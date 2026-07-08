@@ -806,17 +806,18 @@
   },
   {
     "slug": "quaint-juicy-ukrainian-beets-bake",
-    "title": "Quaint Juicy Ukrainian Beets Bake",
+    "title": "Baked Ukrainian Beet Delight",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "macrobiotic",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "beets",
+      "ukrainian",
+      "sugar",
+      "flour",
+      "juice",
+      "dill",
+      "parsley"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 75,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -6467,17 +6468,14 @@
   },
   {
     "slug": "quick-ethiopian-ethiopian-tomatoes-lasagna",
-    "title": "quick ethiopian tomato lasagna",
+    "title": "Ethiopian-Style Lasagna",
     "tags": [
-      "easy-dinner",
-      "homemade-pasta",
-      "low-fat",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "lasagna",
+      "ethiopian",
+      "vegetarian"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 70,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -7867,15 +7865,15 @@
   },
   {
     "slug": "quick-fix-syrian-duck-fry",
-    "title": "Quick-Fix Syrian Duck Fry",
+    "title": "Crispy Duck Fry",
     "tags": [
-      "low-fat",
-      "one-pan",
-      "quick-fry",
-      "syrian"
+      "crispy",
+      "duck",
+      "fix",
+      "syrian-spices"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10527,17 +10525,17 @@
   },
   {
     "slug": "quick-quenched-peruvian-tofu-chupe-de-camarones",
-    "title": "Quick Quenched Peruvian Tofu Chupe De Camarones",
+    "title": "Peruvian Shrimp Stir Fry",
     "tags": [
-      "brunch",
-      "low-carb",
       "peruvian",
-      "sous-vide",
+      "shrimp",
       "tofu",
-      "vegetarian"
+      "chickpeas",
+      "quick",
+      "quenched"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 90,
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
