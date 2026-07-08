@@ -13168,13 +13168,12 @@
   },
   {
     "slug": "quickly-cooked-korean-cherry-tomatoes-jjigae",
-    "title": "Quickly Cooked Korean Cherry Tomatoes Jjigae",
+    "title": "Cherry Tomato Jjigae",
     "tags": [
-      "cherry-tomatoes",
-      "deopbap",
       "korean",
-      "one-pan",
-      "weeknight"
+      "quick",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -13846,17 +13845,16 @@
   },
   {
     "slug": "quietly-baked-venezuelan-grass-tagine",
-    "title": "Quietly Baked Venezuelan Grass Tagine",
+    "title": "Grilled Tagine Chicken with Quietly Roasted Vegetables",
     "tags": [
-      "baked",
-      "ceramic-tagine",
-      "macrobiotic",
-      "one-pan",
-      "venezuelan",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "veggies",
+      "lemon",
+      "aromatic"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
