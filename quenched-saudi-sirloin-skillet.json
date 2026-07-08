@@ -1,0 +1,64 @@
+{
+  "slug": "quenched-saudi-sirloin-skillet",
+  "title": "Sirloin Steak with Pan-Seared Quenelles",
+  "description": "A classic steak dish paired with crispy pan-seared quenelles, perfect for a quick dinner.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 (6 oz) steak",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "quenelles",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "saudi (olive) oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "large, non-stick"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over high heat.",
+    "Season the sirloin steak with salt and pepper.",
+    "Sear the steak in the hot skillet for 2-3 minutes per side, or until cooked to desired temperature.",
+    "Transfer the steak to a plate and let it rest.",
+    "Heat the saudi oil in the skillet over medium heat.",
+    "Add the quenelles and pan-fry until golden brown and crispy.",
+    "Serve the steak with the pan-seared quenelles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "steak",
+    "quenelles",
+    "pan-seared",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-saudi-sirloin-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:29:17.741Z"
+}
