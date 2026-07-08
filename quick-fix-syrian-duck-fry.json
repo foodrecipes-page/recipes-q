@@ -1,0 +1,87 @@
+{
+  "slug": "quick-fix-syrian-duck-fry",
+  "title": "Crispy Duck Fry",
+  "description": "A simple, flavorful dish combining crispy duck with a side of fried fix and syrian spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Fix",
+      "amount": "1 cup",
+      "notes": "chopped into small pieces"
+    },
+    {
+      "name": "Syrian spices",
+      "amount": "2 tsp",
+      "notes": "a mix of oregano, cumin and coriander"
+    },
+    {
+      "name": "Quick oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the duck breast with salt, black pepper, and Syrian spices.",
+    "3. Heat the quick oil in a large skillet over medium-high heat.",
+    "4. Sear the duck breast until browned on both sides, then transfer to the oven and roast for 20 minutes.",
+    "5. While the duck is cooking, heat the fix in a separate skillet over medium heat until crispy.",
+    "6. Remove the duck from the oven and let it rest for 5 minutes.",
+    "7. Slice the duck into thin strips and serve with the crispy fix and garnish with parsley.",
+    "8. Drizzle with lemon juice and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "duck",
+    "fix",
+    "syrian-spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-syrian-duck-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:00:11.263Z"
+}
