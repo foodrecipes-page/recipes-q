@@ -1,0 +1,79 @@
+{
+  "slug": "quick-uruguayan-peanut-cookies-bake",
+  "title": "Uruguayan Peanut Cookies",
+  "description": "A classic Uruguayan recipe with a peanut twist, perfect for baking and snacking.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Whisk together peanut butter, sugar, eggs, and vanilla extract.",
+    "In a separate bowl, whisk together flour, baking powder, and salt.",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Stir in chopped peanuts.",
+    "Drop rounded tablespoonfuls of dough onto the prepared baking sheet.",
+    "Bake for 10-12 minutes or until the edges are lightly golden.",
+    "Remove from oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer cookies to a wire rack to cool completely.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "peanut",
+    "cookies",
+    "bake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-uruguayan-peanut-cookies-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:29:21.027Z"
+}
