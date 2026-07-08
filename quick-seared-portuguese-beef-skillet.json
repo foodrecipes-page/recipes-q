@@ -1,0 +1,83 @@
+{
+  "slug": "quick-seared-portuguese-beef-skillet",
+  "title": "Quick Portuguese Beef Skillet",
+  "description": "A flavorful and quick beef skillet dish inspired by Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Portuguese skillet seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook for 2-3 minutes per side, or until browned. Transfer to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "Add the onion, bell pepper, and garlic. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the tomato, Portuguese skillet seasoning, and Worcestershire sauce. Cook for an additional 2 minutes.",
+    "Return the beef to the skillet and stir to combine with the vegetables and sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Cook time may vary based on desired level of doneness for the beef."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "portuguese",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-portuguese-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:08.607Z"
+}
