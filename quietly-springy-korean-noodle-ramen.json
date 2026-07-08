@@ -1,0 +1,74 @@
+{
+  "slug": "quietly-springy-korean-noodle-ramen",
+  "title": "Spicy Springy Ramen",
+  "description": "A quick and easy Korean-inspired ramen recipe with a spicy kick.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Springy Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Ramen Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Spicy Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Green Chilies",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Bring ramen broth to a boil in a large pot.",
+    "Add springy noodles and cook according to package instructions.",
+    "In a small bowl, mix together chili flakes, soy sauce, and sesame oil.",
+    "Add the spice mixture to the pot and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Garnish with green onions and sliced green chilies.",
+    "Serve hot and enjoy!",
+    "Optional: add sliced protein (e.g., chicken, beef, or tofu) for added protein.",
+    "Optional: customize with additional toppings (e.g., kimchi, bean sprouts, or pickled ginger)."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "ramen",
+    "spicy",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-springy-korean-noodle-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:11:10.098Z"
+}
