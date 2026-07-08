@@ -1,0 +1,82 @@
+{
+  "slug": "quick-glazed-jamaican-pork-burger",
+  "title": "Jamaican Glazed Pork Burger",
+  "description": "A sweet and savory twist on the classic pork burger, with a Jamaican glaze and a hint of spice.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork burgers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "jamaican glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork burgers with salt and black pepper.",
+    "Grill pork burgers for 5-6 minutes per side, or until cooked through.",
+    "While burgers are grilling, brush jamaican glaze on both sides of the burgers during the last minute of grilling.",
+    "If using bacon, grill bacon slices until crispy, then set aside.",
+    "Assemble burgers with bacon, if using, and top with jamaican glaze.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "glazed",
+    "jamaican",
+    "pork",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-glazed-jamaican-pork-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:03:16.733Z"
+}
