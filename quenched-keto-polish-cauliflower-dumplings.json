@@ -1,0 +1,76 @@
+{
+  "slug": "quenched-keto-polish-cauliflower-dumplings",
+  "title": "Keto Polish Cauliflower Dumplings",
+  "description": "A low-carb twist on traditional Polish dumplings, made with cauliflower and a keto-friendly dough.",
+  "cuisine": "polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "used for keto-friendly dough"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "used for keto-friendly dough"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "used for keto-friendly dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Keto-friendly cheese",
+      "amount": "1/2 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rice the cauliflower in a food processor until it resembles rice.",
+    "Mix the almond flour, eggs, sour cream, and salt in a bowl.",
+    "Add the cauliflower to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it's smooth.",
+    "Divide the dough into 8-10 pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a spoonful of keto-friendly cheese in the center of each circle.",
+    "Fold the dough over the cheese to form a dumpling.",
+    "Pan-fry the dumplings in a skillet with a small amount of oil until golden brown.",
+    "Serve hot with additional keto-friendly cheese on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "polish",
+    "cauliflower",
+    "dumplings",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-keto-polish-cauliflower-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:56:28.949Z"
+}
