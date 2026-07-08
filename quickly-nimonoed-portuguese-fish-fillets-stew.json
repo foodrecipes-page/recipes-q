@@ -1,0 +1,69 @@
+{
+  "slug": "quickly-nimonoed-portuguese-fish-fillets-stew",
+  "title": "Japanese-Style Fish Stew",
+  "description": "A hearty and flavorful stew made with fish fillets, quickly cooked vegetables, and a hint of portuguese spices.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Nimonoed Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Portuguese Saffron",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add 1 tablespoon of olive oil.",
+    "Add the sliced onions and cook until they are translucent, about 5 minutes.",
+    "Add the sliced carrots and potatoes, and cook for another 5 minutes.",
+    "Add the fish fillets and cook for 2-3 minutes on each side.",
+    "Pour in the nimonoed broth and add the portuguese saffron.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped green onions and a side of steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "stew",
+    "comfort-food",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-nimonoed-portuguese-fish-fillets-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:09:24.545Z"
+}
