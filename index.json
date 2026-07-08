@@ -6223,17 +6223,16 @@
   },
   {
     "slug": "quick-dense-uruguayan-rice-pilaf",
-    "title": "Quick Dense Uruguayan Rice Pilaf",
+    "title": "Uruguayan-Style Rice Pilaf",
     "tags": [
-      "one-pan",
-      "rice-pilaf",
-      "shojin",
       "uruguayan",
+      "rice",
+      "pilaf",
       "vegetarian",
-      "weeknight"
+      "easy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -16219,16 +16218,16 @@
   },
   {
     "slug": "quietly-springy-korean-noodle-ramen",
-    "title": "Quietly Springy Korean Noodle Ramen",
+    "title": "Spicy Springy Ramen",
     "tags": [
-      "halal-friendly",
-      "korean-food",
-      "lazy-sunday",
-      "noodle-recipes",
-      "spring-recipes"
+      "korean",
+      "ramen",
+      "spicy",
+      "quick",
+      "easy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
