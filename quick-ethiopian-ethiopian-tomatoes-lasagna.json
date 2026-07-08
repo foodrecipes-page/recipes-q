@@ -1,0 +1,85 @@
+{
+  "slug": "quick-ethiopian-ethiopian-tomatoes-lasagna",
+  "title": "Ethiopian-Style Lasagna",
+  "description": "A unique twist on the classic Italian dish, featuring the bold flavors of Ethiopian spices and tomatoes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quick Injera",
+      "amount": "4 pieces",
+      "notes": "available in most international markets or online"
+    },
+    {
+      "name": "Ethiopian Spices",
+      "amount": "2 tsp",
+      "notes": "Berbere or Mitmita powder works well"
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "or substitute with Ethiopian flatbread"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh or canned, diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a pan over medium heat, sauté onion and garlic until softened.",
+    "Add Ethiopian spices, cook for 1-2 minutes.",
+    "Add diced tomatoes, cook until heated through.",
+    "To assemble the lasagna, spread a layer of sauce on the bottom of a baking dish.",
+    "Arrange 4 lasagna noodles on top, followed by a layer of sauce and a sprinkle of basil.",
+    "Repeat this process two more times, ending with a layer of noodles.",
+    "Top with a piece of injera and drizzle with olive oil.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-ethiopian-ethiopian-tomatoes-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:36:34.909Z"
+}
