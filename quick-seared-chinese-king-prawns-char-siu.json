@@ -1,0 +1,76 @@
+{
+  "slug": "quick-seared-chinese-king-prawns-char-siu",
+  "title": "King Prawn Char Siu Stir Fry",
+  "description": "Quick and flavorful stir fry dish featuring king prawns cooked in a char siu sauce, served with a side of steamed vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King Prawns",
+      "amount": "12",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Char Siu Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and grated ginger; stir-fry for 30 seconds until fragrant.",
+    "Add the king prawns; stir-fry for 2-3 minutes until they start to turn pink.",
+    "Add the char siu sauce; stir-fry for another 2-3 minutes until the prawns are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Transfer the prawns and sauce to a serving platter.",
+    "Serve with steamed vegetables and garnish with chopped scallions.",
+    "Enjoy your delicious king prawn char siu stir fry!",
+    "Cooking time: 8-10 minutes.",
+    "Total time: 15-18 minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "prawn-recipe",
+    "char-siu-sauce",
+    "quick-dinner-ideas",
+    "veggie-optional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-chinese-king-prawns-char-siu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:45:08.460Z"
+}
