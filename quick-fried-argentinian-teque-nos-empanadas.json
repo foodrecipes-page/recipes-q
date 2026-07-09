@@ -1,0 +1,82 @@
+{
+  "slug": "quick-fried-argentinian-teque-nos-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "Delicious empanadas from Argentina, filled with beef and onions, fried to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chop finely"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "For dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flour, salt, and pepper. Mix well.",
+    "2. Gradually add water to the flour mixture, kneading until a dough forms.",
+    "3. Divide the dough into 8 equal pieces. Roll out each piece into a thin circle.",
+    "4. In a pan over medium heat, cook the ground beef until browned, breaking it up with a spoon.",
+    "5. Add chopped onion to the pan and cook until softened.",
+    "6. Brush the edges of the dough circles with egg wash.",
+    "7. Place a tablespoon of the beef and onion mixture onto the center of each dough circle.",
+    "8. Fold the dough in half and press the edges together to seal the empanada.",
+    "9. Heat the vegetable oil in a deep frying pan over medium-high heat.",
+    "10. Fry the empanadas until golden brown, about 3-4 minutes per side.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "beef",
+    "onion",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-argentinian-teque-nos-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T21:31:17.490Z"
+}
