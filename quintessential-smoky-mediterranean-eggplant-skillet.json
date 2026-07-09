@@ -1,0 +1,68 @@
+{
+  "slug": "quintessential-smoky-mediterranean-eggplant-skillet",
+  "title": "Skillet Eggplant with Smoky Flair",
+  "description": "A flavorful eggplant dish with smoky undertones, perfect for a Mediterranean-inspired meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp smoked paprika",
+      "notes": "adds depth to the dish"
+    },
+    {
+      "name": "quintessential",
+      "amount": "2 cloves garlic, minced",
+      "notes": "sauteed with eggplant"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup olive oil",
+      "notes": "used for sautéing"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large skillet",
+      "notes": "used for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the sliced eggplant and cook for 3-4 minutes per side, until tender.",
+    "Reduce heat to medium and add the smoked paprika, sautéing for 1 minute.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Cook time can be adjusted based on eggplant thickness and desired tenderness."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "mediterranean",
+    "smoky",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-smoky-mediterranean-eggplant-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:27:00.929Z"
+}
