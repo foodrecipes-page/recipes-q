@@ -1,0 +1,85 @@
+{
+  "slug": "quick-fix-algerian-petit-pois-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A hearty and aromatic Algerian chicken tagine stew made with chicken, vegetables, and spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quick tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": "available at most spice stores or online"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "algerian fix spices",
+      "amount": "1 teaspoon",
+      "notes": "available at most spice stores or online"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the tagine spice mix and stir to combine.",
+    "Add the petit pois, chicken broth, and fix spices. Stir to combine.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stew",
+    "tagine",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-algerian-petit-pois-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T04:04:05.830Z"
+}
