@@ -1,0 +1,91 @@
+{
+  "slug": "quietly-quenched-portuguese-pasta",
+  "title": "Portuguese Pasta Bake",
+  "description": "A comforting Portuguese pasta bake made with tender pasta, rich tomato sauce, and melted cheese.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "any gluten-free pasta"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "28 oz",
+      "notes": "crushed or diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crushed tomatoes, chicken broth, salt, and black pepper.",
+    "Simmer the sauce for 10-15 minutes, stirring occasionally.",
+    "In a large bowl, combine the cooked pasta and tomato sauce.",
+    "Transfer the pasta mixture to a baking dish and top with grated cheddar cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-portuguese-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:28:38.366Z"
+}
