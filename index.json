@@ -5313,16 +5313,14 @@
   },
   {
     "slug": "quick-charred-greek-beans-gigantes-plaki",
-    "title": "Quick Charred Greek Beans Gigantes Plaki",
+    "title": "Greek Gigantes Plaki",
     "tags": [
-      "gluten-free",
-      "greek-cuisine",
-      "kid-friendly",
-      "one-pan",
-      "weeknight-dinner"
+      "greek",
+      "comfort-food",
+      "vegetarian"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "cuisine": "greek",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10436,18 +10434,14 @@
   },
   {
     "slug": "quick-quenched-canadian-lettuce-salad",
-    "title": "Quick Quenched Canadian Lettuce Salad",
+    "title": "Canadian Quenched Salad",
     "tags": [
-      "canadian-cuisine",
-      "easy-to-make",
-      "gourmet",
+      "salad",
       "lunch",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "quick-and-easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
@@ -11196,15 +11190,15 @@
   },
   {
     "slug": "quick-sauteed-australian-aubergine-bush-tucker",
-    "title": "Quick Sauteed Australian Aubergine Bush Tucker",
+    "title": "Australian Bush Tucker Aubergine Stew",
     "tags": [
-      "australian",
+      "australian-cuisine",
+      "vegetarian",
       "bush-tucker",
-      "low-carb",
-      "quick-fix"
+      "aubergine"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 13,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
