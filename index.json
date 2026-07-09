@@ -8750,17 +8750,16 @@
   },
   {
     "slug": "quick-golden-vietnamese-tofu-noodles",
-    "title": "Quick Golden Vietnamese Tofu Noodles",
+    "title": "Vietnamese Noodle Soup",
     "tags": [
-      "chocolate-lover",
-      "macrobiotic",
-      "noodle-dish",
-      "one-pan",
       "vietnamese",
-      "weeknight"
+      "noodle-soup",
+      "soup",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
