@@ -1,0 +1,76 @@
+{
+  "slug": "quick-nutty-irish-rhubarb-crumble",
+  "title": "Irish Rhubarb Crumble",
+  "description": "A sweet and tangy dessert combining the flavors of irish oats and rhubarb topped with a crunchy crumble.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "irish oats",
+      "amount": "250g"
+    },
+    {
+      "name": "rhubarb",
+      "amount": "400g"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "80g"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "quick oats",
+      "amount": "20g"
+    },
+    {
+      "name": "nutty granola",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop rhubarb into 2-inch pieces.",
+    "In a large bowl, combine chopped rhubarb, sugar, and flour. Mix until rhubarb is evenly coated.",
+    "Transfer rhubarb mixture to a 9x9-inch baking dish.",
+    "In another bowl, combine irish oats, brown sugar, and nutty granola. Mix until well combined.",
+    "Add cold unsalted butter to the oat mixture and use your fingers to work it into the dry ingredients until crumbly.",
+    "Spread the crumble mixture evenly over the rhubarb.",
+    "Bake in the preheated oven for 40-45 minutes, or until the topping is golden brown and the rhubarb is tender.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "irish",
+    "rhubarb",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-nutty-irish-rhubarb-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:23:09.429Z"
+}
