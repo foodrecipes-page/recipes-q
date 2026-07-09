@@ -1,0 +1,81 @@
+{
+  "slug": "quick-charred-greek-beans-gigantes-plaki",
+  "title": "Greek Gigantes Plaki",
+  "description": "A hearty, comforting Greek gigantes plaki recipe made with tender gigantes beans in a rich, charred tomato sauce.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gigantes beans",
+      "amount": "1 (14 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "charred tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "gaeta olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add charred tomatoes, gigantes beans, olives, and feta cheese.",
+    "Season with salt, pepper, and lemon juice.",
+    "Simmer for 15-20 minutes, stirring occasionally.",
+    "Serve hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-greek-beans-gigantes-plaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:04:06.864Z"
+}
