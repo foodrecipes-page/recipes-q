@@ -1,0 +1,54 @@
+{
+  "slug": "quick-spanish-honey-boil",
+  "title": "Spanish Boiled Honey Sausage",
+  "description": "A simple and flavorful dish combining the sweetness of honey with the savory taste of Spanish sausage.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Spanish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Quick boil",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the Spanish sausage and cook until browned.",
+    "Reduce heat to a simmer and add honey, salt, and quick boil.",
+    "Continue cooking for 10-15 minutes or until the sausage is cooked through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-sausage",
+    "honey",
+    "breakfast",
+    "meat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spanish-honey-boil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:26:33.900Z"
+}
