@@ -1,0 +1,68 @@
+{
+  "slug": "quick-crunchy-norwegian-mars-bar-bars",
+  "title": "Crunchy Mars Bar Dessert",
+  "description": "A sweet and crunchy dessert made with Mars bars, perfect for a quick treat.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars Bars",
+      "amount": "4",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "Crunchy Bar",
+      "amount": "1",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line an 8x8 inch baking dish with parchment paper.",
+    "Melt the butter in a medium saucepan over low heat.",
+    "Add the sugar and stir until dissolved.",
+    "Bring to a boil, then reduce heat and simmer for 5 minutes.",
+    "Remove from heat and stir in the vanilla extract.",
+    "Add the broken Mars bars and crunchy bar to the saucepan, stir until well combined.",
+    "Pour the mixture into the prepared baking dish.",
+    "Bake for 20-25 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool completely before slicing into bars."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 25,
+  "totalTimeMin": 30,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "mars-bar",
+    "dessert",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-norwegian-mars-bar-bars",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T05:51:28.143Z"
+}
