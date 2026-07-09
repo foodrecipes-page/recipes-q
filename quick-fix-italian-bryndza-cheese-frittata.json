@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-italian-bryndza-cheese-frittata",
+  "title": "Italian Frittata with Baked Bryndza",
+  "description": "A traditional Italian omelette-style dish made with bryndza cheese and other flavorful ingredients, perfect for a quick breakfast or brunch.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8"
+    },
+    {
+      "name": "bryndza",
+      "amount": "150g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "oregano",
+      "amount": "2g",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "italian cheese",
+      "amount": "50g",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Whisk eggs, salt, and black pepper in a bowl.",
+    "Heat a non-stick skillet over medium heat, add onion, and cook until softened.",
+    "Add bryndza and cook for another 2 minutes.",
+    "Pour the whisked eggs over the bryndza mixture and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "Remove from the oven and sprinkle with italian cheese.",
+    "Return to the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven, let it cool for a minute, and slice into wedges.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "lunch",
+    "cheese",
+    "oven",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-italian-bryndza-cheese-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:23:29.133Z"
+}
