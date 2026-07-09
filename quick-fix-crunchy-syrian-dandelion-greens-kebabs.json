@@ -1,0 +1,70 @@
+{
+  "slug": "quick-fix-crunchy-syrian-dandelion-greens-kebabs",
+  "title": "Kebab Salad with Dandelion Greens",
+  "description": "A refreshing salad featuring grilled kebabs and peppery dandelion greens, topped with crunchy fix and a sprinkle of syrian.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Kebabs",
+      "amount": "4",
+      "notes": "beef or lamb"
+    },
+    {
+      "name": "Dandelion Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Crunchy Fix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quick Greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season kebabs with Syrian and grill for 5-7 minutes per side, or until cooked through.",
+    "Combine dandelion greens, crunchy fix, and quick greens in a bowl.",
+    "Slice grilled kebabs and add to the bowl.",
+    "Drizzle with olive oil and lemon juice, and toss to combine.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "salad",
+    "grilled",
+    "dandelion greens"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-crunchy-syrian-dandelion-greens-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:51:58.769Z"
+}
