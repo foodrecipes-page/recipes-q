@@ -1,0 +1,83 @@
+{
+  "slug": "quick-fix-middle-eastern-potato-fried-rice",
+  "title": "Eastern Fried Rice",
+  "description": "A classic quick and easy eastern dish made with leftover rice and a variety of vegetables. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scrambled eggs",
+      "amount": "2 eggs",
+      "notes": "beaten"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Diced cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the scrambled eggs to the skillet and cook until they are set, breaking them up with a spatula as they cook.",
+    "Add the diced onion, carrot, and cabbage to the skillet and cook until the vegetables are tender-crisp.",
+    "Add the cooked rice to the skillet and stir-fry for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Add the soy sauce, salt, and pepper to the skillet and stir-fry for another minute.",
+    "Transfer the fried rice to a serving platter and serve hot.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eastern",
+    "vegetarian",
+    "gluten-free",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-middle-eastern-potato-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:30:21.285Z"
+}
