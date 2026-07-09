@@ -1,0 +1,94 @@
+{
+  "slug": "quick-golden-vietnamese-tofu-noodles",
+  "title": "Vietnamese Noodle Soup",
+  "description": "A delicious and comforting noodle soup made with quick-cooking tofu, golden noodles, and a variety of Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quick-cooking tofu",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Golden noodles",
+      "amount": "1 bundle",
+      "notes": null
+    },
+    {
+      "name": "Vietnamese fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil.",
+    "Cook the golden noodles according to package instructions.",
+    "In a separate pan, heat some oil over medium heat.",
+    "Add the sliced ginger and cook for 1-2 minutes.",
+    "Add the chili flakes and cook for another minute.",
+    "Add the tofu and cook until lightly browned.",
+    "Add the soy sauce and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Squeeze in the lime juice and stir to combine.",
+    "Season with fish sauce to taste.",
+    "Garnish with green onions and cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "soup",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-golden-vietnamese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T08:41:10.997Z"
+}
