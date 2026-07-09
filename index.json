@@ -5995,17 +5995,14 @@
   },
   {
     "slug": "quick-crunchy-norwegian-mars-bar-bars",
-    "title": "Quick Crunchy Norwegian Mars Bar Bars",
+    "title": "Crunchy Mars Bar Dessert",
     "tags": [
-      "crowd-pleaser",
-      "crunchy",
-      "garlicky",
-      "keto-friendly",
-      "low-carb",
-      "norwegian-dessert"
+      "mars-bar",
+      "dessert",
+      "easy-to-make"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -7397,16 +7394,15 @@
   },
   {
     "slug": "quick-fix-middle-eastern-potato-fried-rice",
-    "title": "Quick-fix Middle-Eastern Potato Fried-Rice",
+    "title": "Eastern Fried Rice",
     "tags": [
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "eastern",
+      "vegetarian",
+      "gluten-free",
+      "quick"
     ],
-    "cuisine": "Middle-Eastern",
-    "totalTimeMin": 25,
+    "cuisine": "eastern",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -16830,18 +16826,16 @@
   },
   {
     "slug": "quintessential-smoky-mediterranean-eggplant-skillet",
-    "title": "Quintessential Smoky Mediterranean Eggplant Skillet",
+    "title": "Skillet Eggplant with Smoky Flair",
     "tags": [
-      "cozy",
-      "easy",
-      "flexitarian",
+      "eggplant",
       "mediterranean",
-      "one-pan",
       "smoky",
-      "weeknight"
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
