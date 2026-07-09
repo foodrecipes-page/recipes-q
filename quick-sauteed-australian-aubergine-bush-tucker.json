@@ -1,0 +1,82 @@
+{
+  "slug": "quick-sauteed-australian-aubergine-bush-tucker",
+  "title": "Australian Bush Tucker Aubergine Stew",
+  "description": "Enjoy the unique flavors of Australian bush tucker with this hearty aubergine stew.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "quick bush tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sauteed bush herbs",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the aubergine and cook until browned.",
+    "Add the quick bush tomatoes, sautéed bush herbs, salt, and pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 20 minutes.",
+    "Serve hot, garnished with additional bush herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "vegetarian",
+    "bush-tucker",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sauteed-australian-aubergine-bush-tucker",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:00:28.284Z"
+}
