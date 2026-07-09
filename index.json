@@ -6648,18 +6648,16 @@
   },
   {
     "slug": "quick-fix-algerian-petit-pois-tagine",
-    "title": "quick fix algerian petit pois tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian-food",
-      "cheese-lovers",
-      "one-pan",
-      "paleo-friendly",
-      "quick-fix",
-      "vegetarian-options",
-      "weeknight"
+      "algerian",
+      "chicken",
+      "stew",
+      "tagine",
+      "spicy"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -10090,17 +10088,15 @@
   },
   {
     "slug": "quick-nutty-irish-rhubarb-crumble",
-    "title": "Quick Nutty Irish Rhubarb Crumble",
+    "title": "Irish Rhubarb Crumble",
     "tags": [
       "dessert",
-      "easy-baking",
-      "gluten-free",
-      "irish-food",
-      "low-sugar",
-      "whole30"
+      "irish",
+      "rhubarb",
+      "crumble"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -10741,17 +10737,15 @@
   },
   {
     "slug": "quick-roasted-british-barramundi-cottage-pie",
-    "title": "Quick Roasted British Barramundi Cottage Pie",
+    "title": "Barramundi Pie",
     "tags": [
       "barramundi",
-      "british",
-      "comfort-food",
       "cottage-pie",
-      "one-pan",
-      "quick"
+      "british",
+      "fish-dinner"
     ],
     "cuisine": "British",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -12002,18 +11996,15 @@
   },
   {
     "slug": "quick-spanish-honey-boil",
-    "title": "Quick Spanish Honey Boil",
+    "title": "Spanish Boiled Honey Sausage",
     "tags": [
-      "boil",
-      "diabetic-friendly",
+      "spanish-sausage",
       "honey",
-      "low-carb",
-      "one-pan",
-      "quick",
-      "spanish"
+      "breakfast",
+      "meat"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 10,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -15284,17 +15275,15 @@
   },
   {
     "slug": "quietly-quintessential-french-beef-fillet-madeleine",
-    "title": "Quietly Quintessential French Beef Fillet Madeleine",
+    "title": "French Beef Fillet Madeleine",
     "tags": [
-      "beef-recipes",
+      "beef",
       "french-cuisine",
-      "lazy-sunday",
-      "madeleine-recipes",
-      "pescatarian-friendly",
-      "wooden-board-presentation"
+      "madeleine-cake",
+      "main-course"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 33,
     "shard": "q"
   },
   {
