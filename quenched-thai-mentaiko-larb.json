@@ -1,0 +1,78 @@
+{
+  "slug": "quenched-thai-mentaiko-larb",
+  "title": "Larb Quesadilla",
+  "description": "A fusion of Thai and Mexican flavors, this larb quesadilla combines the spicy, sour, and umami flavors of larb with the comforting warmth of a quesadilla.",
+  "cuisine": "Thai-Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quenched Tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Larb Mixture",
+      "amount": "1 cup",
+      "notes": "See larb mixture recipe"
+    },
+    {
+      "name": "Mentaiko Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Chilies",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat.",
+    "Place a tortilla in the skillet and sprinkle with larb mixture.",
+    "Sprinkle mentaiko cheese on top of the larb mixture.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "Repeat with the remaining tortillas and filling.",
+    "Cut the quesadillas into wedges and serve immediately.",
+    "Garnish with fresh cilantro, sliced chilies, and a drizzle of soy sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "larb",
+    "quesadilla",
+    "thaifusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-thai-mentaiko-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:34:34.017Z"
+}
