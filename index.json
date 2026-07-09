@@ -13312,16 +13312,16 @@
   },
   {
     "slug": "quickly-fried-norwegian-goose-skewers",
-    "title": "Quickly Fried Norwegian Goose Skewers",
+    "title": "Pan-Fried Norwegian Goose Skewers",
     "tags": [
-      "deep-fried",
-      "goose-recipes",
-      "low-glycemic",
-      "norwegian-cuisine",
-      "special-occasion"
+      "norwegian",
+      "goose",
+      "skewers",
+      "quick",
+      "easy"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -15236,17 +15236,14 @@
   },
   {
     "slug": "quietly-quenched-portuguese-pasta",
-    "title": "Quietly Quenched Portuguese Pasta",
+    "title": "Portuguese Pasta Bake",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
       "portuguese",
-      "vegetarian",
-      "weeknight"
+      "pasta",
+      "bake"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
