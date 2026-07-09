@@ -1,0 +1,59 @@
+{
+  "slug": "quick-quenched-canadian-lettuce-salad",
+  "title": "Canadian Quenched Salad",
+  "description": "A fresh salad with crispy Canadian bacon and a tangy dressing.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": "preferably thick-cut"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": "pre-washed"
+    },
+    {
+      "name": "Quick dressing",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lettuce and salad.",
+    "Cut Canadian bacon into 1-inch pieces.",
+    "Add the bacon pieces to the bowl with the lettuce and salad.",
+    "Drizzle quick dressing over the top and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-quenched-canadian-lettuce-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T11:09:17.496Z"
+}
