@@ -8290,17 +8290,16 @@
   },
   {
     "slug": "quick-fried-argentinian-teque-nos-empanadas",
-    "title": "Quick Fried Argentinian Teque Nos Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
       "argentinian",
       "empanadas",
-      "one-pan",
-      "quick-dinner",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "onion",
+      "fried"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -11201,17 +11200,15 @@
   },
   {
     "slug": "quick-saute-egyptian-oat-pilaf",
-    "title": "Quick Saute Egyptian Oat Pilaf",
+    "title": "Quick Egyptian Chicken and Rice",
     "tags": [
-      "cazuela",
-      "gluten-free",
-      "mediterranean",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "rice",
+      "quick",
+      "easy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -14723,17 +14720,16 @@
   },
   {
     "slug": "quietly-indulgent-greek-soya-baklava",
-    "title": "Quietly Indulgent Greek Soya Baklava",
+    "title": "Greek Baklava with Honey and Walnuts",
     "tags": [
+      "greek",
       "baklava",
-      "dairy-free",
-      "greek-dessert",
-      "indulgent",
-      "soya-milk",
-      "vegetarian"
+      "honey",
+      "walnuts",
+      "pastry"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
