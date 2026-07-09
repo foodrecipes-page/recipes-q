@@ -1,0 +1,81 @@
+{
+  "slug": "quickly-fried-norwegian-goose-skewers",
+  "title": "Pan-Fried Norwegian Goose Skewers",
+  "description": "A quick and delicious Norwegian-inspired dish featuring tender goose skewers, pan-fried to perfection. Best served hot with a side of your favorite vegetables.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pork-free",
+    "beef-free",
+    "lamb-free",
+    "chicken-free",
+    "fish-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Goose breast or thighs, cut into 1-inch pieces",
+      "amount": "1 pound",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Skewers (wooden or metal)",
+      "amount": "10-12",
+      "notes": "Soak wooden skewers in water for 30 minutes before use"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-smoke-point oil for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or grill pan over medium-high heat.",
+    "2. Thread the goose pieces onto the skewers, leaving a small space between each piece.",
+    "3. Brush the skewers with olive oil and season with salt, black pepper, garlic powder, and paprika.",
+    "4. Add the skewers to the preheated skillet and cook for 5-7 minutes on each side, or until cooked through.",
+    "5. Remove the skewers from the skillet and let them rest for a few minutes.",
+    "6. Serve the pan-fried goose skewers hot with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "goose",
+    "skewers",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fried-norwegian-goose-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:47:28.360Z"
+}
