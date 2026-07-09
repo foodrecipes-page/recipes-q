@@ -1,0 +1,90 @@
+{
+  "slug": "quick-saute-egyptian-oat-pilaf",
+  "title": "Quick Egyptian Chicken and Rice",
+  "description": "A flavorful and fast meal made with chicken, rice, and spices. Serve hot and enjoy!",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine or basmati"
+    },
+    {
+      "name": "quick pilaf mix",
+      "amount": "1 packet",
+      "notes": "follow package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the pilaf mix to the skillet and follow the package instructions for cooking.",
+    "Stir in the cumin, paprika, salt, and pepper.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Fluff the pilaf with a fork and stir in the chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "rice",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-saute-egyptian-oat-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T20:34:30.587Z"
+}
