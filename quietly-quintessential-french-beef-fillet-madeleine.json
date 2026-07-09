@@ -1,0 +1,93 @@
+{
+  "slug": "quietly-quintessential-french-beef-fillet-madeleine",
+  "title": "French Beef Fillet Madeleine",
+  "description": "A classic French dish featuring tender beef fillet in a rich Madeleine-inspired sauce, served with a side of sautéed vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "1 (6 oz) piece",
+      "notes": "preferably tender cut"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Madeleine cake mix",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season beef fillet with salt and black pepper.",
+    "Dust beef fillet with flour, shaking off excess.",
+    "Melt 1 tablespoon of butter in a skillet over medium-high heat.",
+    "Sear beef fillet until browned on both sides, then transfer to a baking sheet.",
+    "Bake beef fillet in the oven for 12-15 minutes, or until cooked to desired level of doneness.",
+    "While beef is cooking, make the Madeleine-inspired sauce.",
+    "In a saucepan, melt the remaining 1 tablespoon of butter over medium heat.",
+    "Add chopped onion and carrot to the saucepan and cook until tender.",
+    "Add heavy cream to the saucepan and bring to a simmer.",
+    "Stir in Madeleine cake mix until dissolved.",
+    "Season sauce with salt and black pepper to taste.",
+    "Serve beef fillet with Madeleine-inspired sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french-cuisine",
+    "madeleine-cake",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quintessential-french-beef-fillet-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T01:57:38.184Z"
+}
