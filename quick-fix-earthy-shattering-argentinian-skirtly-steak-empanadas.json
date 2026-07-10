@@ -1,0 +1,89 @@
+{
+  "slug": "quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas",
+  "title": "Argentinian Skirt Steak Empanadas",
+  "description": "A traditional Argentinian dish featuring skirt steak empanadas with a tangy chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": "such as cheddar or mozzarella"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Earthly Onion Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large bowl, combine the flour, water, and a pinch of salt to form the dough.",
+    "3. Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "4. Divide the dough into small pieces and roll out each piece into a thin circle.",
+    "5. Place a tablespoon of shredded cheese in the center of each circle.",
+    "6. Add a few pieces of skirt steak on top of the cheese.",
+    "7. Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "8. Brush the tops of the empanadas with a little water and sprinkle with some cilantro.",
+    "9. Place the empanadas on a baking sheet lined with parchment paper and bake for 15-20 minutes.",
+    "10. While the empanadas are baking, heat the chimichurri sauce in a small saucepan over medium heat.",
+    "11. Once the empanadas are done, serve them hot with the chimichurri sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "skirt-steak",
+    "empanadas",
+    "latin-american",
+    "beef",
+    "chimichurri-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:12:46.884Z"
+}
