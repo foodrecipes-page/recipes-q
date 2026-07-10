@@ -1,0 +1,91 @@
+{
+  "slug": "quenched-sweet-algerian-potatoes-wrap",
+  "title": "Algerian Sweet Potato Wrap",
+  "description": "A delicious Algerian-inspired sweet potato wrap with a hint of spice.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "algerian flatbread wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "quenched",
+      "amount": "fresh cilantro",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Poke some holes in the sweet potatoes and bake for 45-60 minutes, or until tender.",
+    "While the sweet potatoes are baking, mix together cumin, coriander, and cayenne pepper in a small bowl.",
+    "Once the sweet potatoes are done, let them cool for a few minutes.",
+    "Slice the sweet potatoes in half lengthwise and mash with a fork.",
+    "Add the spice mixture to the mashed sweet potatoes and mix well.",
+    "Season with salt and black pepper to taste.",
+    "Warm the flatbread wrap in the oven for a few minutes.",
+    "Assemble the wrap by spreading the sweet potato mixture onto the flatbread, then topping with fresh cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "sweet-potatoes",
+    "wrap",
+    "lunch",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-sweet-algerian-potatoes-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:45:02.346Z"
+}
