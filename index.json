@@ -16,17 +16,16 @@
   },
   {
     "slug": "qgrilled-quinoa-agave-leaf-wrap",
-    "title": "QGrilled Quinoa Agave-Leaf Wrap",
+    "title": "Grilled Quinoa Wrap",
     "tags": [
-      "agave-leaf-wrap",
-      "char-grill-yang",
-      "flour",
-      "paleo-friendly",
-      "savory-portuguese",
-      "vegan-option"
+      "grilled",
+      "quinoa",
+      "vegan",
+      "gluten-free",
+      "wrap"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -3880,16 +3879,15 @@
   },
   {
     "slug": "quenched-silky-malaysian-millet-pilaf",
-    "title": "Quenched Silky Malaysian Millet Pilaf",
+    "title": "Malaysian Millet Breakfast Bowl",
     "tags": [
-      "comfort-food",
-      "healthy",
-      "lacto-vegetarian",
-      "malaysian-cuisine",
-      "one-pot"
+      "breakfast",
+      "malaysian",
+      "gluten-free",
+      "vegan"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
