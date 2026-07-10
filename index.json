@@ -4253,16 +4253,16 @@
   },
   {
     "slug": "quenched-sweet-algerian-potatoes-wrap",
-    "title": "Quenched Sweet Algerian Potatoes Wrap",
+    "title": "Algerian Sweet Potato Wrap",
     "tags": [
-      "grilled",
-      "north-african",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "algerian",
+      "sweet-potatoes",
+      "wrap",
+      "lunch",
+      "vegan"
     ],
-    "cuisine": "North African",
-    "totalTimeMin": 45,
+    "cuisine": "Algerian",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -5475,14 +5475,13 @@
   },
   {
     "slug": "quick-citrusy-korean-tofu-skillet",
-    "title": "Quick Citrusy Korean Tofu Skillet",
+    "title": "Korean Tofu Skillet",
     "tags": [
-      "citrusy",
-      "korean-food",
-      "one-pan",
-      "quick-dinner",
+      "korean",
+      "tofu",
+      "skillet",
       "vegetarian",
-      "weeknight"
+      "quick-cooking"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
