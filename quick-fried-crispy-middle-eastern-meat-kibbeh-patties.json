@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fried-crispy-middle-eastern-meat-kibbeh-patties",
+  "title": "Crispy Middle Eastern Kibbeh Patties",
+  "description": "A crispy, flavorful take on traditional Middle Eastern kibbeh patties, made with a mix of ground meat and bulgur.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "paprika, salt, black pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the ground beef, bulgur, onion, and spices. Mix well with your hands until just combined.",
+    "Cover the mixture and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Using your hands, shape the mixture into patties, about 1 1/2 inches (3.8 cm) in diameter and 1/2 inch (1.3 cm) thick. You should end up with around 8-10 patties.",
+    "Heat the olive oil in a large non-stick skillet over medium-high heat. When the oil is hot, add 4-5 patties to the skillet and fry until crispy and golden brown, about 3-4 minutes per side.",
+    "Transfer the cooked patties to a baking sheet lined with parchment paper. Repeat with the remaining patties.",
+    "Bake the patties in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Serve the patties hot with a dollop of yogurt on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "kibbeh",
+    "patties",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-crispy-middle-eastern-meat-kibbeh-patties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:38:24.356Z"
+}
