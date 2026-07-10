@@ -1,0 +1,65 @@
+{
+  "slug": "qgrilled-quinoa-agave-leaf-wrap",
+  "title": "Grilled Quinoa Wrap",
+  "description": "A flavorful and nutritious wrap filled with grilled quinoa and vegetables, perfect for a quick lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "agave",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "leaf (lettuce or collard greens)",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "grilled",
+      "amount": "to taste (optional)"
+    },
+    {
+      "name": "wrap (corn or flour tortilla)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Cook quinoa according to package instructions.",
+    "Heat agave in a pan over medium heat.",
+    "Add chopped leaf to the pan and sauté until wilted.",
+    "If desired, add grilled elements to the pan and stir to combine.",
+    "Warm the wrap in the pan for a few seconds.",
+    "Assemble the wrap by placing the cooked quinoa mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "quinoa",
+    "vegan",
+    "gluten-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qgrilled-quinoa-agave-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:03:35.578Z"
+}
