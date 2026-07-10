@@ -1,0 +1,82 @@
+{
+  "slug": "quick-crunchy-portuguese-shrimp-skewers",
+  "title": "Portuguese Shrimp Skewers",
+  "description": "Grilled shrimp skewers with a Portuguese twist, featuring quick and crunchy vegetables.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Portuguese chili peppers",
+      "amount": "4",
+      "notes": "such as piri piri"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 cup",
+      "notes": "cherry tomatoes, halved"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, chili peppers, zucchini, red onion, and tomato onto skewers.",
+    "Brush skewers with olive oil and season with garlic powder (if using).",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until shrimp are pink and cooked through.",
+    "Serve hot, garnished with lemon wedges and a sprinkle of parsley (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "shrimp",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-portuguese-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:15:34.827Z"
+}
