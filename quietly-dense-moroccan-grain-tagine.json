@@ -1,0 +1,87 @@
+{
+  "slug": "quietly-dense-moroccan-grain-tagine",
+  "title": "Moroccan Tagine Stew",
+  "description": "A hearty and flavorful stew originating from Morocco, typically cooked in a clay pot with a conical lid.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "2 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Dense Bread",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger, cumin, and paprika. Cook for 1 minute, stirring constantly.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cubed bread, chopped carrots, and chopped potatoes. Stir to combine.",
+    "Add 2 cups of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the vegetables are tender, about 30-40 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-dense-moroccan-grain-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:43:53.760Z"
+}
