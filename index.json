@@ -8284,15 +8284,15 @@
   },
   {
     "slug": "quick-fried-crispy-middle-eastern-meat-kibbeh-patties",
-    "title": "Quick Fried Crispy Middle-Eastern Meat Kibbeh Patties",
+    "title": "Crispy Middle Eastern Kibbeh Patties",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "middle-eastern",
+      "kibbeh",
+      "patties",
+      "snack"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 23,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -15353,17 +15353,15 @@
   },
   {
     "slug": "quietly-rich-mediterranean-chicken-tagine",
-    "title": "Quietly Rich Mediterranean Chicken Tagine",
+    "title": "Chicken Tagine with Mediterranean Flair",
     "tags": [
-      "cheese",
       "chicken",
-      "gluten-free",
-      "low-glycemic",
+      "tagine",
       "mediterranean",
-      "one-pot"
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
