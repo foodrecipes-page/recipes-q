@@ -2706,19 +2706,16 @@
   },
   {
     "slug": "quenched-french-salmon-tart-tatin",
-    "title": "quenched french salmon tart tatin",
+    "title": "Baked Salmon Tart",
     "tags": [
-      "bhuna-curry",
-      "dinner-party",
-      "french",
-      "gruy-re-cheese",
-      "puff-pastry",
       "salmon",
-      "savory",
-      "weeknight"
+      "tart",
+      "french",
+      "fish",
+      "dinner"
     ],
-    "cuisine": "french",
-    "totalTimeMin": 50,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -6064,17 +6061,15 @@
   },
   {
     "slug": "quick-crunchy-ukrainian-vegetable-stew",
-    "title": "Quick Crunchy Ukrainian Vegetable Stew",
+    "title": "Ukrainian Vegetable Stew",
     "tags": [
-      "comfort-food",
-      "indulgent",
-      "one-pot",
-      "spicy",
-      "vegetarian-friendly",
-      "weeknight"
+      "ukrainian",
+      "stew",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -14436,16 +14431,13 @@
   },
   {
     "slug": "quietly-dense-moroccan-grain-tagine",
-    "title": "Quietly Dense Moroccan Grain Tagine",
+    "title": "Moroccan Tagine Stew",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "low-sodium",
-      "moroccan-inspired",
-      "one-pot",
-      "vegetarian"
+      "moroccan",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "moroccan",
     "totalTimeMin": 60,
     "shard": "q"
   },
