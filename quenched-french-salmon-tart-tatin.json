@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-french-salmon-tart-tatin",
+  "title": "Baked Salmon Tart",
+  "description": "A classic salmon tart recipe with a flaky crust and a rich salmon filling.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon",
+      "amount": "6 oz",
+      "notes": null
+    },
+    {
+      "name": "French Pastry Dough",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Tart Tatin Caramelized Onions",
+      "amount": "4 oz",
+      "notes": null
+    },
+    {
+      "name": "Quenched Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the French Pastry Dough and place it in a tart pan.",
+    "In a separate pan, caramelize the Tart Tatin Onions.",
+    "Season the salmon with salt, pepper, and thyme.",
+    "Place the salmon on top of the onions in the tart pan.",
+    "Pour the quenched eggs over the salmon.",
+    "Dot the top with butter.",
+    "Bake for 20-25 minutes or until the crust is golden brown and the eggs are set.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "tart",
+    "french",
+    "fish",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-french-salmon-tart-tatin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T13:48:29.007Z"
+}
