@@ -1,0 +1,92 @@
+{
+  "slug": "quietly-rich-mediterranean-chicken-tagine",
+  "title": "Chicken Tagine with Mediterranean Flair",
+  "description": "A rich and flavorful dish inspired by the Mediterranean, featuring tender chicken cooked in a fragrant tagine sauce.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large tagine or Dutch oven over medium heat.",
+    "Add the onion, garlic, and ginger; cook, stirring occasionally, until the onion is softened, about 5 minutes.",
+    "Add the cumin, coriander, paprika, salt, and pepper; cook for 1 minute.",
+    "Add the chicken; cook until browned on all sides, about 5-7 minutes.",
+    "Add 1 cup of water to the tagine; bring to a simmer.",
+    "Reduce the heat to low; cover and cook, stirring occasionally, until the chicken is cooked through and the sauce has thickened, about 20-25 minutes.",
+    "Serve the chicken hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-mediterranean-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:28:04.654Z"
+}
