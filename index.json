@@ -1458,16 +1458,16 @@
   },
   {
     "slug": "quaint-venezuelan-plantain-empanadas",
-    "title": "Quaint Venezuelan Plantain Empanadas",
+    "title": "Venezuelan-Style Fried Plantain Empanadas",
     "tags": [
-      "date-night",
-      "jain-friendly",
-      "latin-american",
-      "plantain-based",
-      "vegetarian"
+      "venezuelan",
+      "plantain",
+      "empanada",
+      "fried",
+      "snack"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -8554,18 +8554,15 @@
   },
   {
     "slug": "quick-garlicky-mediterranean-corn-pilaf",
-    "title": "Quick Garlicky Mediterranean Corn Pilaf",
+    "title": "Garlicky Corn Pilaf",
     "tags": [
-      "corn-based",
-      "garlic-lovers",
-      "low-sodium",
-      "mediterranean",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "garlicky",
+      "corn",
+      "pilaf",
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -13268,15 +13265,15 @@
   },
   {
     "slug": "quickly-grilled-peruvian-beef-brochette",
-    "title": "Quickly Grilled Peruvian Beef Brochette",
+    "title": "Quick Peruvian Beef Brochette",
     "tags": [
-      "beef",
+      "peruvian",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "skewer",
+      "quick"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": "peruvian",
     "totalTimeMin": 25,
     "shard": "q"
   },
