@@ -1,0 +1,89 @@
+{
+  "slug": "quick-jamaican-potatoes-stir-fry",
+  "title": "Stir Fry Jamaican Jerk Potatoes",
+  "description": "A flavorful and spicy stir fry dish made with Jamaican jerk seasoning, potatoes, and a hint of quick cooking. Perfect for a weeknight dinner.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tbsp",
+      "notes": "cooking oil"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tsp",
+      "notes": "jerk seasoning"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of quick cooking oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the diced potatoes, jerk seasoning, salt, and black pepper to the skillet. Stir to combine.",
+    "Cook for an additional 5-7 minutes, or until the potatoes are tender.",
+    "If using soy sauce, stir it in during the last minute of cooking.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "jamaican-jerk",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-jamaican-potatoes-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:28:24.006Z"
+}
