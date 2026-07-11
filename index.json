@@ -8696,17 +8696,15 @@
   },
   {
     "slug": "quick-glassy-venezuelan-peanut-casserole",
-    "title": "Quick Glassy Venezuelan Peanut Casserole",
+    "title": "Venezuelan Peanut Casserole",
     "tags": [
-      "festive-dish",
-      "glassy-jelly",
-      "low-calorie",
-      "one-pan",
-      "peanut-butter-based",
-      "venezuelan-cuisine"
+      "peanut",
+      "casserole",
+      "dessert",
+      "latinamerican"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 65,
+    "cuisine": "Latin American",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -9537,18 +9535,14 @@
   },
   {
     "slug": "quick-jellified-american-meal-prep-bake",
-    "title": "Quick Jellified American Bake",
+    "title": "American-Style Apple Pie",
     "tags": [
-      "breakfast-for-dinner",
-      "easy-to-make",
-      "gluten-free-option",
-      "jellified",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "apple-pie",
+      "american-desserts",
+      "homemade-pie"
     ],
     "cuisine": "American",
-    "totalTimeMin": 55,
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -16279,18 +16273,15 @@
   },
   {
     "slug": "quietly-velvety-irish-mozzarella-tagine",
-    "title": "Quietly Velvety Irish Mozzarella Tagine",
+    "title": "Irish Mozzarella Tagine with Quietly VELVETY Sauce",
     "tags": [
-      "comfort-food",
       "irish",
-      "kid-friendly",
-      "mozzarella",
-      "one-pot",
+      "lamb",
       "tagine",
-      "vegetarian"
+      "velvety"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 140,
     "shard": "q"
   },
   {
