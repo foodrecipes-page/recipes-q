@@ -1,0 +1,77 @@
+{
+  "slug": "quick-fix-german-sausages-skillet",
+  "title": "Quick German Sausage Skillet",
+  "description": "A hearty and flavorful skillet dish made with German sausages, onions, and bell peppers. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German Sausages",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "large cast-iron skillet"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced bell pepper and cook for an additional 2-3 minutes.",
+    "Add the German sausages to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes or until the sausages are cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "skillet",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-german-sausages-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:22:04.484Z"
+}
