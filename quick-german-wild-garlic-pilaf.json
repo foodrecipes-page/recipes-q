@@ -1,0 +1,74 @@
+{
+  "slug": "quick-german-wild-garlic-pilaf",
+  "title": "Pan-Seared Wild Garlic Pilaf",
+  "description": "A flavorful pilaf dish featuring wild garlic and a crispy exterior.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic",
+      "amount": "2 bunches",
+      "notes": "chopped"
+    },
+    {
+      "name": "german pilaf",
+      "amount": "1 package",
+      "notes": "uncooked"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quick oil",
+      "amount": "2 tablespoons",
+      "notes": "olive oil or vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add chopped wild garlic and sauté until tender.",
+    "Add pilaf and stir to coat with oil and garlic mixture.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, with a squeeze of lemon juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wild-garlic",
+    "german-cuisine",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-wild-garlic-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:31:51.998Z"
+}
