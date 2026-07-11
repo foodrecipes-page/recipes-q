@@ -6247,17 +6247,15 @@
   },
   {
     "slug": "quick-egyptian-cheese-curry",
-    "title": "Quick Egyptian Cheese Curry",
+    "title": "Spicy Egyptian Cheese Curry",
     "tags": [
-      "breakfast",
+      "egyptian",
       "cheese-curry",
-      "easy",
-      "panang",
-      "quick",
-      "vegetarian"
+      "quick-recipe",
+      "lunch-ideas"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -10393,15 +10391,14 @@
   },
   {
     "slug": "quick-qorma-indian-boudin-noir-curry",
-    "title": "Quick Qorma Indian Boudin-noir Curry",
+    "title": "Boudin Noir Qorma Curry",
     "tags": [
-      "curry",
-      "dinner",
       "indian",
-      "romantic",
-      "weeknight"
+      "curry",
+      "blood sausage",
+      "fusion"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "q"
   },
@@ -14500,16 +14497,16 @@
   },
   {
     "slug": "quietly-fermented-moroccan-lentil-sellou",
-    "title": "Quietly Fermented Moroccan Lentil Sellou",
+    "title": "Moroccan Lentil Stew with Quietly Sweet Sellou",
     "tags": [
-      "flexitarian-friendly",
-      "high-fiber",
-      "lentil-recipes",
-      "moroccan-cuisine",
-      "post-workout-meal"
+      "lentil",
+      "moroccan",
+      "sellou",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 74,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
