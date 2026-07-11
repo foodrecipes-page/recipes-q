@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-chewy-ukrainian-peanut-cookies-kissed-stew",
+  "title": "Ukrainian Peanut Cookies",
+  "description": "A classic dessert recipe from Ukraine, featuring peanut cookies with a unique texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "quenched sugar",
+      "amount": "3/4 cup",
+      "notes": "powdered"
+    },
+    {
+      "name": "chewy brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "ukrainian flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "cookies",
+      "amount": "1 teaspoon",
+      "notes": "crushed"
+    },
+    {
+      "name": "kissed vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "high-quality"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whisk together the powdered sugar, brown sugar, and all-purpose flour.",
+    "Add the chopped peanuts, crushed cookies, and high-quality vanilla extract to the dry ingredients. Mix until well combined.",
+    "Roll the dough into balls, about 1 inch in diameter. Place the balls onto the prepared baking sheet, leaving about 2 inches of space between each cookie.",
+    "Bake for 12-15 minutes, or until the edges are lightly golden brown.",
+    "Remove the cookies from the oven and let them cool on the baking sheet for 5 minutes.",
+    "Transfer the cookies to a wire rack to cool completely.",
+    "Once the cookies are cool, store them in an airtight container at room temperature for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "peanut",
+    "cookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-chewy-ukrainian-peanut-cookies-kissed-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:53:48.992Z"
+}
