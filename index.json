@@ -5587,17 +5587,15 @@
   },
   {
     "slug": "quick-crisp-japanese-tofu-gyoza",
-    "title": "Quick Crisp Japanese Tofu Gyoza",
+    "title": "Pan-Seared Gyoza",
     "tags": [
-      "brandy-based",
-      "crispy",
-      "deep-fried",
-      "japanese-cuisine",
-      "lacto-vegetarian",
-      "quick-dinner"
+      "japanese",
+      "pan-fried",
+      "dumplings",
+      "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -13604,18 +13602,14 @@
   },
   {
     "slug": "quickly-tendered-mediterranean-chicken-salad",
-    "title": "Quickly Tendered Mediterranean Chicken Salad",
+    "title": "Greek Chicken Salad",
     "tags": [
-      "fodmap-friendly",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "mediterranean",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "salad",
+      "greek"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -14466,17 +14460,16 @@
   },
   {
     "slug": "quietly-energizing-chinese-yogurt-buddha-jumps-over-wall",
-    "title": "Quietly Energizing Chinese Yogurt Buddha Jumps Over Wall",
+    "title": "Energizing Buddha Bowl",
     "tags": [
-      "chinese-dessert",
-      "easy-to-make",
-      "energizing",
-      "herbal",
-      "one-vessel",
-      "yogurt-based"
+      "healthy",
+      "vegan",
+      "vegetarian",
+      "snack",
+      "breakfast"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
