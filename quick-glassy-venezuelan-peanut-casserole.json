@@ -1,0 +1,67 @@
+{
+  "slug": "quick-glassy-venezuelan-peanut-casserole",
+  "title": "Venezuelan Peanut Casserole",
+  "description": "A creamy and rich dish from Venezuela, perfect for a comforting meal. With peanuts as the main ingredient, this casserole is a twist on traditional desserts.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "large, for baking"
+    },
+    {
+      "name": "quick",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "glassy",
+      "amount": "1",
+      "notes": "jar of honey"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the casserole"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease the casserole dish with veggie oil.",
+    "In a large bowl, mix the roasted peanuts, honey, and flour until well combined.",
+    "Pour the mixture into the prepared casserole dish.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "casserole",
+    "dessert",
+    "latinamerican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-glassy-venezuelan-peanut-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:30:50.341Z"
+}
