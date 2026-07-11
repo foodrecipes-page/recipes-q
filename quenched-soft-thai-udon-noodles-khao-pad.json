@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-soft-thai-udon-noodles-khao-pad",
+  "title": "Thai-Style Udon Noodle Stir Fry",
+  "description": "A simple and flavorful stir-fry made with udon noodles, vegetables, and your choice of protein. This recipe is quick, easy, and perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "1 cup",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soft khao (mushrooms)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quenched noodles (bell peppers)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Pad thai sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the soft khao (mushrooms) and cook until they start to brown, about 3-4 minutes.",
+    "Add the quenched noodles (bell peppers) and cook until they start to soften, about 3-4 minutes.",
+    "Add the udon noodles and cook until they are heated through, about 2-3 minutes.",
+    "Pour in the pad thai sauce and stir-fry everything together for about 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-soft-thai-udon-noodles-khao-pad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:17:53.414Z"
+}
