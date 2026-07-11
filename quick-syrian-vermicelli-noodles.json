@@ -1,0 +1,74 @@
+{
+  "slug": "quick-syrian-vermicelli-noodles",
+  "title": "Quick Vermicelli Noodle Stir Fry",
+  "description": "A simple and quick stir fry recipe using vermicelli noodles and a mix of vegetables. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli Noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quick Syrian Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup, peeled and sliced"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of cooking oil in a large pan over medium heat.",
+    "Add sliced onions and cook until they are translucent.",
+    "Add sliced bell peppers and carrots. Cook until they are tender.",
+    "Add sliced vermicelli noodles and stir fry for 2 minutes.",
+    "Add quick Syrian sauce and stir fry for another 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "quick",
+    "easy",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-syrian-vermicelli-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T04:05:57.581Z"
+}
