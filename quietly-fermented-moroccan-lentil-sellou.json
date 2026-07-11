@@ -1,0 +1,94 @@
+{
+  "slug": "quietly-fermented-moroccan-lentil-sellou",
+  "title": "Moroccan Lentil Stew with Quietly Sweet Sellou",
+  "description": "A hearty and comforting stew that combines the earthy flavors of lentils with the subtle sweetness of quietly-cooked vegetables and the exotic spices of Moroccan cuisine, served with a side of traditional sellou.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sweet potato",
+      "amount": "1 large",
+      "notes": "Peeled and cubed"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Sellou",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrots, and sweet potato; cook until tender, about 10 minutes.",
+    "Add ginger, cumin, paprika, salt, and pepper; cook for 1 minute.",
+    "Add lentils and 4 cups water; bring to a boil.",
+    "Reduce heat to low and simmer, covered, until lentils are tender, about 20 minutes.",
+    "Stir in chopped sellou and cook for an additional 5 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "moroccan",
+    "sellou",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fermented-moroccan-lentil-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:34:52.190Z"
+}
