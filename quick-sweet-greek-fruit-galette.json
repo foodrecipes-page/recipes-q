@@ -1,0 +1,78 @@
+{
+  "slug": "quick-sweet-greek-fruit-galette",
+  "title": "Greek Fruit Galette",
+  "description": "A sweet and tangy dessert featuring a flaky crust and topped with a mix of fresh Greek yogurt, honey, and seasonal fruit.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mixed berries (strawberries, blueberries, raspberries)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the flour and sugar. Add the cold butter and use a pastry blender or your fingers to work it into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add cold water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom. Trim the edges and press the dough into the corners of the pan.",
+    "In a separate bowl, mix together the Greek yogurt, honey, lemon zest, and vanilla extract. Spoon the mixture over the dough, leaving a 1-inch border around the edges.",
+    "Top the yogurt mixture with the mixed berries.",
+    "Fold the edges of the dough up over the berries, pressing gently to seal.",
+    "Bake the galette for 40-45 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "greek",
+    "fruit",
+    "galette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-greek-fruit-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:53:06.869Z"
+}
