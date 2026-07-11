@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-velvety-irish-mozzarella-tagine",
+  "title": "Irish Mozzarella Tagine with Quietly VELVETY Sauce",
+  "description": "A twist on traditional Irish cuisine, this recipe combines tender lamb with a rich, velvety tagine sauce and melted mozzarella.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": "2 lbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "mozzarella",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "quietly velvety sauce",
+      "amount": "1 cup",
+      "notes": "see note"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season lamb shoulder with tagine spice blend and cook in a large Dutch oven over medium-high heat until browned on all sides.",
+    "Add onion and garlic to the pot and cook until the onion is translucent.",
+    "Transfer the pot to the preheated oven and cook for 2 hours, or until the lamb is tender.",
+    "While the lamb is cooking, combine quietly velvety sauce and mozzarella in a small saucepan over low heat, stirring until melted and smooth.",
+    "Serve the lamb with the tagine sauce spooned over the top and garnished with chopped parsley or cilantro, if desired.",
+    "Serve with crusty bread or over rice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "tagine",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-velvety-irish-mozzarella-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:56:29.149Z"
+}
