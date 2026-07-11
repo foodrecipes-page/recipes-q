@@ -5683,18 +5683,13 @@
   },
   {
     "slug": "quick-crispy-american-rice-pilaf",
-    "title": "Quick Crispy American Rice Pilaf",
+    "title": "Crispy American Rice Pilaf",
     "tags": [
       "american",
-      "crispy",
-      "gluten-free",
-      "one-pot",
-      "rice",
-      "tagine",
-      "vegetarian"
+      "sidedish"
     ],
     "cuisine": "American",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -12376,16 +12371,15 @@
   },
   {
     "slug": "quick-syrian-vermicelli-noodles",
-    "title": "Quick Syrian Vermicelli Noodles",
+    "title": "Quick Vermicelli Noodle Stir Fry",
     "tags": [
-      "easy",
-      "lunch",
+      "stir-fry",
       "quick",
-      "rice-vermicelli",
-      "syrian"
+      "easy",
+      "noodles"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -15011,17 +15005,15 @@
   },
   {
     "slug": "quietly-quenched-canadian-tomato-gratin",
-    "title": "Quietly Quenched Canadian Tomato Gratin",
+    "title": "Canadian Gratin with Fresh Tomato",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "egg-free",
-      "gluten-free",
-      "one-pan",
-      "vegetarian"
+      "canadian",
+      "cheesy",
+      "gratin",
+      "tomato"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
