@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-silky-australian-chicken-nimono",
+  "title": "Silky Chicken Nimono",
+  "description": "A tender and flavorful Japanese-inspired dish featuring silky chicken in a rich nimono sauce. Perfect for a comforting dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aussie chicken breasts",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Australian silky soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or regular soy sauce"
+    },
+    {
+      "name": "Nimono dashi broth",
+      "amount": "4 cups",
+      "notes": "or chicken broth"
+    },
+    {
+      "name": "Quenched sake",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine dashi broth, soy sauce, sake (if using), sliced ginger, and minced garlic.",
+    "2. Bring the mixture to a boil over high heat.",
+    "3. Reduce the heat to medium-low and simmer for 10 minutes.",
+    "4. Add the chicken breasts to the pot and cook for 10-12 minutes or until cooked through.",
+    "5. Remove the chicken from the pot and let it rest for 5 minutes before slicing.",
+    "6. Strain the sauce through a fine-mesh sieve into a clean saucepan, discarding the solids.",
+    "7. Bring the sauce to a simmer over medium heat.",
+    "8. Add the sliced chicken back to the sauce and cook for an additional 2-3 minutes or until coated.",
+    "9. Garnish with chopped green onions and serve hot.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "japanese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-silky-australian-chicken-nimono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:06:36.972Z"
+}
