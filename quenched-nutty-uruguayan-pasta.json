@@ -1,0 +1,78 @@
+{
+  "slug": "quenched-nutty-uruguayan-pasta",
+  "title": "Uruguayan Pasta Bake",
+  "description": "A hearty and flavorful pasta bake inspired by the rich culture of Uruguay. This dish combines the comforting taste of pasta with the bold flavors of Uruguayan cuisine.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quenched pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "nutty Uruguayan cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the minced garlic to the skillet and cook for an additional 1-2 minutes until fragrant.",
+    "In a large mixing bowl, combine the cooked pasta, sautéed mushrooms, and shredded cheese. Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with additional shredded cheese if desired.",
+    "Bake in the preheated oven for 20-25 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "pasta",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-nutty-uruguayan-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:33:28.070Z"
+}
