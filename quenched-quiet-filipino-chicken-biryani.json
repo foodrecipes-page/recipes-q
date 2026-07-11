@@ -1,0 +1,91 @@
+{
+  "slug": "quenched-quiet-filipino-chicken-biryani",
+  "title": "Filipino Chicken Biryani",
+  "description": "A flavorful and aromatic rice dish from the Philippines, made with chicken and spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Biryani rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat. Add the onion, garlic, and ginger and sauté until the onion is translucent.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the tomato paste, fish sauce, sugar, salt, and pepper. Stir well to combine.",
+    "Add the biryani rice and stir-fry for 2-3 minutes.",
+    "Transfer the rice mixture to a large pot and add enough water to cover the rice. Bring to a boil, then reduce the heat to low and simmer for 18-20 minutes, or until the water has been absorbed.",
+    "Fluff the rice with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "filipino",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-quiet-filipino-chicken-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:15:14.801Z"
+}
