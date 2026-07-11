@@ -1,0 +1,78 @@
+{
+  "slug": "quenched-smoky-portuguese-tuna-tagine",
+  "title": "Smoky Tuna Tagine",
+  "description": "A flavorful and aromatic North African-inspired stew made with smoky tuna, portuguese spices and a blend of international flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoky tuna steaks",
+      "amount": "2",
+      "notes": "preferably sashimi-grade"
+    },
+    {
+      "name": "Portuguese tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or a mix of cumin, coriander and cinnamon"
+    },
+    {
+      "name": "Quenched red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Quenched red bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium heat.",
+    "Add sliced onion and bell pepper and cook until tender.",
+    "Add tuna steaks and cook until browned on both sides.",
+    "Add tagine spice blend and cook for 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Simmer the stew for 5-7 minutes or until the tuna is cooked through.",
+    "Garnish with chopped cilantro and serve over rice or couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "seafood",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-portuguese-tuna-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:06:18.315Z"
+}
