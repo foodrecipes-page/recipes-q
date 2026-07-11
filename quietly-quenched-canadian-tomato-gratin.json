@@ -1,0 +1,80 @@
+{
+  "slug": "quietly-quenched-canadian-tomato-gratin",
+  "title": "Canadian Gratin with Fresh Tomato",
+  "description": "A simple, comforting side dish featuring a Canadian twist on a classic French recipe.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "2 medium-sized tomatoes",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated Canadian cheddar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter, softened",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup grated Canadian bacon or ham",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup grated all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Butter a 9x13-inch baking dish.",
+    "In a skillet, sauté the sliced onions and minced garlic until softened.",
+    "Add the sliced tomatoes and cook for an additional 2-3 minutes.",
+    "In a separate bowl, mix together the grated cheese, flour, and Canadian bacon.",
+    "In the prepared baking dish, create a layer of the tomato mixture.",
+    "Next, add a layer of the cheese mixture.",
+    "Repeat this process until all the ingredients have been used, finishing with a layer of cheese on top.",
+    "Bake for 25-30 minutes or until golden brown and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "cheesy",
+    "gratin",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-canadian-tomato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T03:24:00.504Z"
+}
