@@ -1,0 +1,73 @@
+{
+  "slug": "quick-crispy-american-rice-pilaf",
+  "title": "Crispy American Rice Pilaf",
+  "description": "A flavorful and crispy twist on a classic pilaf dish.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "American rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "quick pilaf mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the rice and pilaf mix to the skillet and stir to combine.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add the chicken broth and water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes, or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and season with salt and pepper.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "sidedish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-american-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:59:23.089Z"
+}
