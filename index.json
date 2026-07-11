@@ -1992,17 +1992,14 @@
   },
   {
     "slug": "quenched-bitter-american-beef-tagine",
-    "title": "Quenched Bitter American Beef Tagine",
+    "title": "Tagine Beef Stew",
     "tags": [
       "beef",
-      "comfort-food",
-      "dinner-party",
-      "high-protein",
-      "one-pan",
-      "slow-cooker"
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -8637,18 +8634,14 @@
   },
   {
     "slug": "quick-german-wild-garlic-pilaf",
-    "title": "Quick German Wild Garlic Pilaf",
+    "title": "Pan-Seared Wild Garlic Pilaf",
     "tags": [
-      "breakfast",
+      "wild-garlic",
       "german-cuisine",
-      "low-fat",
-      "miso",
-      "one-pan",
-      "weeknight",
-      "wild-garlic"
+      "pilaf"
     ],
     "cuisine": "german",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -9347,17 +9340,14 @@
   },
   {
     "slug": "quick-jamaican-potatoes-stir-fry",
-    "title": "Quick Jamaican Potatoes Stir-fry",
+    "title": "Stir Fry Jamaican Jerk Potatoes",
     "tags": [
-      "jamaican",
-      "one-pan",
-      "quick",
-      "snack",
-      "vegetarian",
-      "weeknight"
+      "stir-fry",
+      "jamaican-jerk",
+      "potatoes"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -12311,17 +12301,15 @@
   },
   {
     "slug": "quick-sweet-greek-fruit-galette",
-    "title": "Quick Sweet Greek Fruit Galette",
+    "title": "Greek Fruit Galette",
     "tags": [
       "dessert",
-      "easy-to-make",
-      "fruit-tart",
       "greek",
-      "quick-dinner",
-      "sweet"
+      "fruit",
+      "galette"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
