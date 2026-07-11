@@ -4020,17 +4020,15 @@
   },
   {
     "slug": "quenched-smoky-portuguese-tuna-tagine",
-    "title": "Quenched Smoky Portuguese Tuna Tagine",
+    "title": "Smoky Tuna Tagine",
     "tags": [
-      "flambe",
-      "low-glycemic",
-      "one-pot",
-      "portuguese-cuisine",
+      "north-african",
       "seafood",
-      "special-occasion"
+      "spicy",
+      "stew"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -11874,16 +11872,15 @@
   },
   {
     "slug": "quick-smoky-wilted-northern-thai-vermicelli-tom-kha",
-    "title": "Quick Smoky Wilted Northern Thai Vermicelli Tom Kha",
+    "title": "Tom Kha Soup with Vermicelli Noodles",
     "tags": [
-      "high-protein",
-      "no-onion-no-garlic",
-      "northern-thai",
-      "one-pan",
-      "weeknight"
+      "soup",
+      "thai",
+      "coconut-milk",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -16681,17 +16678,15 @@
   },
   {
     "slug": "quintessential-molten-peruvian-chwinamul-tacu-tacu",
-    "title": "Quintessential Molten Peruvian Chwinamul Tacu Tacu",
+    "title": "Tacu Tacu Stew",
     "tags": [
-      "brunch",
-      "diabetic-friendly",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "weeknight"
+      "stew",
+      "beef",
+      "chorizo"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
