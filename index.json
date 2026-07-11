@@ -4126,19 +4126,16 @@
   },
   {
     "slug": "quenched-soft-thai-udon-noodles-khao-pad",
-    "title": "Quenched, Soft Thai Udon Noodles Khao Pad",
+    "title": "Thai-Style Udon Noodle Stir Fry",
     "tags": [
-      "comfort-food",
-      "delicious",
-      "easy-to-make",
-      "homemade",
-      "one-pan",
-      "pescatarian",
-      "quick-meal",
-      "thai-cuisine"
+      "thai",
+      "stir-fry",
+      "noodles",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 25,
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -6029,17 +6026,15 @@
   },
   {
     "slug": "quick-crunchy-turkish-wood-ear-mushrooms-kuru-fasulye",
-    "title": "Quick Crunchy Turkish Wood Ear Mushrooms Kuru Fasulye",
+    "title": "Kuru Fasulye with Mushrooms",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
-      "turkish-food",
-      "weeknight",
-      "whole30"
+      "turkish",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
