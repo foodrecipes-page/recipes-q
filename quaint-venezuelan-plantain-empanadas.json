@@ -1,0 +1,67 @@
+{
+  "slug": "quaint-venezuelan-plantain-empanadas",
+  "title": "Venezuelan-Style Fried Plantain Empanadas",
+  "description": "A crispy, savory empanada filled with sweet plantains, a classic Venezuelan street food. Serve as a snack or side dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "2 large",
+      "notes": "ripe or green"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the plantains and cut them into 1-inch pieces.",
+    "Heat about 1/2 cup of vegetable oil in a deep frying pan over medium heat.",
+    "Mix the plantain pieces with a pinch of salt and fry until golden brown (about 3-4 minutes).",
+    "While the plantains are frying, preheat a baking sheet in the oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or glass.",
+    "Place a few pieces of fried plantain in the center of each dough circle.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Place the empanadas on the preheated baking sheet and brush with a little vegetable oil.",
+    "Bake in the oven for 15-20 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "plantain",
+    "empanada",
+    "fried",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-venezuelan-plantain-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T23:04:35.738Z"
+}
