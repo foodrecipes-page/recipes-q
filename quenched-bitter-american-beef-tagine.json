@@ -1,0 +1,92 @@
+{
+  "slug": "quenched-bitter-american-beef-tagine",
+  "title": "Tagine Beef Stew",
+  "description": "A hearty, slow-cooked stew made with tender beef and flavorful spices, inspired by North African cuisine.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 pounds beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "1 large onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon ground cumin",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat. Brown the beef on all sides, then remove it from the pot and set it aside.",
+    "Add the onion to the pot and cook until it's softened, about 5 minutes.",
+    "Add the garlic, cumin, coriander, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the beef broth to the pot and bring it to a boil.",
+    "Return the beef to the pot and cover it with a lid.",
+    "Transfer the pot to the oven and cook for 2 1/2 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-bitter-american-beef-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T12:55:25.966Z"
+}
