@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-energizing-chinese-yogurt-buddha-jumps-over-wall",
+  "title": "Energizing Buddha Bowl",
+  "description": "A refreshing and healthy Chinese-inspired bowl filled with energizing ingredients for a perfect snack or light meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup cooked",
+      "notes": null
+    },
+    {
+      "name": "Mixed Vegetables",
+      "amount": "1 cup (broccoli, carrots, bell peppers)",
+      "notes": null
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup (coconut or almond yogurt)",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh Herbs",
+      "amount": "1/4 cup (chopped cilantro, scallions)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cook quinoa according to package instructions.",
+    "2. Steam the mixed vegetables until tender.",
+    "3. In a small bowl, mix together yogurt, honey, and sesame seeds.",
+    "4. In a large bowl, combine cooked quinoa, steamed vegetables, and yogurt mixture.",
+    "5. Sprinkle with fresh herbs and serve immediately.",
+    "6. If desired, add a small portion of your favorite protein (such as tofu or chicken).",
+    "7. Garnish with additional sesame seeds and herbs if desired.",
+    "8. Serve immediately and enjoy!",
+    "9. Refrigerate any leftovers for up to 24 hours.",
+    "10. Reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "vegan",
+    "vegetarian",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-energizing-chinese-yogurt-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:05:10.204Z"
+}
