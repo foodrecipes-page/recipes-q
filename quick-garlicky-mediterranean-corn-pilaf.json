@@ -1,0 +1,70 @@
+{
+  "slug": "quick-garlicky-mediterranean-corn-pilaf",
+  "title": "Garlicky Corn Pilaf",
+  "description": "A flavorful and aromatic side dish, perfect for any meal. This garlicky corn pilaf combines the sweetness of corn with the savory taste of garlic and the crunch of pilaf.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "corn kernels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the corn kernels and cook for 3-4 minutes until tender.",
+    "Stir in the pilaf and cook for 1-2 minutes until lightly toasted.",
+    "Squeeze the lemon juice over the pilaf and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "corn",
+    "pilaf",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-garlicky-mediterranean-corn-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:18:41.666Z"
+}
