@@ -1,0 +1,72 @@
+{
+  "slug": "quaint-silky-chinese-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "A Chinese-inspired dish featuring pan-seared dumplings filled with savory pork. Serve with your favorite dipping sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "Dumpling wrappers",
+      "amount": "20-24 count"
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tablespoons, soy sauce"
+    },
+    {
+      "name": "Quaint",
+      "amount": "2 tablespoons, sesame oil"
+    },
+    {
+      "name": "Chinese",
+      "amount": "2 cloves, garlic, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine ground pork, soy sauce, sesame oil, garlic, salt, and pepper. Mix well with your hands until just combined.",
+    "2. Lay a dumpling wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "4. Fold the wrapper into a half-moon shape, pressing the edges together to seal the dumpling.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. Heat a large skillet or wok over medium-high heat. Add a tablespoon of oil and swirl it around.",
+    "7. When the oil is hot, add the dumplings to the pan, being careful not to overcrowd it.",
+    "8. Cook the dumplings for 2-3 minutes on each side, until they are golden brown and crispy.",
+    "9. Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-silky-chinese-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:46:13.391Z"
+}
