@@ -1,0 +1,82 @@
+{
+  "slug": "quick-crisp-japanese-tofu-gyoza",
+  "title": "Pan-Seared Gyoza",
+  "description": "Crunchy and savory Japanese dumplings filled with tofu, pan-seared to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "usually found in the Asian food section"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Quick-fry sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grate and sauté with tofu"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped and garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or wok over medium-high heat.",
+    "2. In a pan, heat sesame oil and sauté ginger until fragrant.",
+    "3. Add crumbled tofu and cook until lightly browned.",
+    "4. Add soy sauce and quick-fry sauce (if using) and stir-fry until combined.",
+    "5. Lay a gyoza wrapper on a flat surface and place a tablespoon of the tofu mixture in the center.",
+    "6. Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "7. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "8. Press the edges together to seal the gyoza and press the edges to seal.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. Add 1-2 tablespoons of oil to the preheated skillet and swirl it around.",
+    "11. Place the gyoza in the skillet, seam-side down, and pan-fry until the bottom is golden brown.",
+    "12. Flip the gyoza over and cook until the other side is also golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pan-fried",
+    "dumplings",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-japanese-tofu-gyoza",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:49:59.572Z"
+}
