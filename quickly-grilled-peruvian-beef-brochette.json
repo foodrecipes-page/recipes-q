@@ -1,0 +1,85 @@
+{
+  "slug": "quickly-grilled-peruvian-beef-brochette",
+  "title": "Quick Peruvian Beef Brochette",
+  "description": "A simple and flavorful grilled beef skewer inspired by Peruvian cuisine. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "peruvian",
+  "diet": [
+    "beef",
+    "grilled"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Choose a high-quality beef for the best flavor"
+    },
+    {
+      "name": "Red onion, cut into 1-inch pieces",
+      "amount": "1 medium",
+      "notes": "Add a sweet and crunchy texture to the skewer"
+    },
+    {
+      "name": "Red bell pepper, cut into 1-inch pieces",
+      "amount": "1 medium",
+      "notes": "Sweet and slightly smoky flavor"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Add a fresh and herbaceous flavor to the dish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Brighten the flavors with a squeeze of fresh lime juice"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Add a pungent and aromatic flavor"
+    },
+    {
+      "name": "Aji amarillo pepper, minced",
+      "amount": "1 teaspoon",
+      "notes": "Add a spicy and slightly sweet flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef, onion, bell pepper, and cilantro onto skewers.",
+    "In a small bowl, mix together lime juice, garlic, and aji amarillo pepper.",
+    "Brush the mixture onto the skewers, making sure to coat all the ingredients.",
+    "Season with salt and pepper to taste.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to your desired level of doneness.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "beef",
+    "skewer",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-grilled-peruvian-beef-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:35:51.074Z"
+}
