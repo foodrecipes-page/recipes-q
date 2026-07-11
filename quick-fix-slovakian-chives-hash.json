@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fix-slovakian-chives-hash",
+  "title": "Slovakian Hash with Chives",
+  "description": "A hearty Slovakian hash dish made with crispy potatoes and onions, topped with fresh chives. Perfect for a quick breakfast or brunch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss diced potatoes and onion with hash in a bowl.",
+    "Season with salt and black pepper.",
+    "Spread on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Sprinkle chopped chives on top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-hash",
+    "chives",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-slovakian-chives-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:44:06.498Z"
+}
