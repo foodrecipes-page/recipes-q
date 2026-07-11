@@ -1,0 +1,74 @@
+{
+  "slug": "quick-filipino-cheese-skewers",
+  "title": "Cheesy Filipino Chicken Skewers",
+  "description": "A twist on the classic Filipino dish, these skewers are marinated in a sweet and savory mixture and served with a side of melted cheese.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Quick teriyaki sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Filipino-style vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheese sticks",
+      "amount": "6"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, pineapple, onion, and bell pepper onto skewers.",
+    "In a small bowl, whisk together teriyaki sauce, vinegar, and soy sauce.",
+    "Brush the marinade onto the skewers and let sit for 10 minutes.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Meanwhile, toast the cheese sticks by wrapping them in foil and heating them in the oven at 350°F for 5 minutes.",
+    "Serve the skewers with melted cheese and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "cheese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-filipino-cheese-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:15:57.518Z"
+}
