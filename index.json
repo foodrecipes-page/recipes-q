@@ -1086,16 +1086,14 @@
   },
   {
     "slug": "quaint-silky-chinese-pork-dumplings",
-    "title": "Quaint Silky Chinese Pork Dumplings",
+    "title": "Pan-Seared Pork Dumplings",
     "tags": [
-      "chinese-food",
-      "dumplings",
-      "pork-recipes",
-      "shandong-cuisine",
-      "umami-flavors"
+      "chinese",
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
