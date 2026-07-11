@@ -1,0 +1,65 @@
+{
+  "slug": "quintessential-juicy-turkish-red-potatoes-menemen",
+  "title": "Turkish-Style Menemen",
+  "description": "A classic Turkish dish made with eggs, tomatoes, and spices. Perfect for a quick and flavorful breakfast or brunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red Potatoes",
+      "amount": "2 medium-sized, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Menemen Spice Blend (available at most spice stores or online)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Juicy Tomatoes",
+      "amount": "2 medium-sized, diced",
+      "notes": ""
+    },
+    {
+      "name": "Quintessential Onion",
+      "amount": "1 small-sized, finely chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the diced tomatoes and cook for another 3-4 minutes, stirring occasionally.",
+    "Add the diced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the Menemen Spice Blend and stir to combine.",
+    "Crack in 2 large eggs and scramble them with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "turkish",
+    "eggs",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-juicy-turkish-red-potatoes-menemen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:05:03.151Z"
+}
