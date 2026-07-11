@@ -1,0 +1,89 @@
+{
+  "slug": "quintessential-molten-peruvian-chwinamul-tacu-tacu",
+  "title": "Tacu Tacu Stew",
+  "description": "A hearty and flavorful Peruvian stew made with chorizo, beef, and various vegetables.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tacu",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "quintessential",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "molten",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the quintessential in a large pot over medium heat.",
+    "Add the molten and cook until softened, about 5 minutes.",
+    "Add the peruvian and cook for 1 minute.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the chwinamul, tacu, salt, and pepper. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 1 1/2 hours.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stew",
+    "beef",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-molten-peruvian-chwinamul-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:02:59.733Z"
+}
