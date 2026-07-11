@@ -3455,13 +3455,11 @@
   },
   {
     "slug": "quenched-nutty-uruguayan-pasta",
-    "title": "Quenched Nutty Uruguayan Pasta",
+    "title": "Uruguayan Pasta Bake",
     "tags": [
-      "hangover-cure",
-      "nutty",
-      "one-pot",
-      "pasta",
       "uruguayan",
+      "pasta",
+      "cheese",
       "vegetarian"
     ],
     "cuisine": "Uruguayan",
@@ -7046,16 +7044,14 @@
   },
   {
     "slug": "quick-fix-german-sausages-skillet",
-    "title": "Quick-Fix German Sausages Skillet",
+    "title": "Quick German Sausage Skillet",
     "tags": [
       "german",
-      "high-protein",
-      "one-pan",
-      "sausages",
-      "weeknight"
+      "skillet",
+      "sausages"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 21,
+    "cuisine": "german",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
