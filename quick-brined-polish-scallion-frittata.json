@@ -1,0 +1,81 @@
+{
+  "slug": "quick-brined-polish-scallion-frittata",
+  "title": "Polish Scallion Frittata",
+  "description": "A hearty breakfast or brunch dish packed with the flavors of Poland, featuring a crispy frittata filled with caramelized scallions and savory polish sausage.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "scallion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1",
+      "notes": "cooked, diced"
+    },
+    {
+      "name": "brined frittata",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "quick cheese",
+      "amount": "1/2",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a skillet, sauté the chopped scallions in melted butter until caramelized.",
+    "Add the cooked polish sausage to the skillet and stir to combine.",
+    "In a separate bowl, beat the brined frittata.",
+    "Pour the beaten frittata into the skillet over the sausage and scallion mixture.",
+    "Sprinkle shredded quick cheese over the top of the frittata.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the frittata is set.",
+    "Remove the skillet from the oven and let the frittata cool for a few minutes.",
+    "Slice the frittata into wedges and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "polish",
+    "scallion",
+    "frittata"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-brined-polish-scallion-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:26:31.248Z"
+}
