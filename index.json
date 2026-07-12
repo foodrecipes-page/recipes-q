@@ -9612,18 +9612,15 @@
   },
   {
     "slug": "quick-korean-uni-tteokguk",
-    "title": "Quick Korean Uni Tteokguk",
+    "title": "Spicy Korean Tteokguk Soup",
     "tags": [
-      "breakfast",
-      "brunch",
-      "hangover-cure",
       "korean",
-      "seafood",
-      "sous-vide",
-      "weeknight"
+      "soup",
+      "spicy",
+      "rice-cake"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14899,14 +14896,12 @@
   },
   {
     "slug": "quietly-pungent-polish-meat-dumplings",
-    "title": "Quietly Pungent Polish Meat Dumplings",
+    "title": "Polish-Style Meat Dumplings",
     "tags": [
-      "lotus-leaves",
-      "low-sodium",
-      "meat-dumplings",
-      "polish-cuisine",
-      "rose-water",
-      "steamed-dishes"
+      "polish",
+      "meat",
+      "dumplings",
+      "comfort-food"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
