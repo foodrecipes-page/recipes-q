@@ -1,0 +1,94 @@
+{
+  "slug": "quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
+  "title": "Peruvian Roasted Chicken",
+  "description": "A flavorful and moist Peruvian roasted chicken recipe, perfect for any occasion.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": ""
+    },
+    {
+      "name": "Quick",
+      "amount": "1 cup",
+      "notes": "Quick cooking oil or neutral oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "2-3",
+      "notes": "Or substitute with jalapeño or serrano pepper"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together garlic, aji amarillo pepper, black pepper, salt, cumin, and paprika.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Drizzle the olive oil over the chicken and rub it in to coat.",
+    "Place the chicken in a roasting pan and put it in the oven.",
+    "Roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving.",
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "chicken",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:30:12.851Z"
+}
