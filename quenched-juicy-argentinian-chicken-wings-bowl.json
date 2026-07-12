@@ -1,0 +1,91 @@
+{
+  "slug": "quenched-juicy-argentinian-chicken-wings-bowl",
+  "title": "Argentinian Chicken Wings",
+  "description": "Tender and juicy chicken wings marinated in a zesty Argentinian-inspired sauce, perfect for a flavorful and satisfying meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "Drumsticks and flats separated"
+    },
+    {
+      "name": "argentinian bowl seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Available at most supermarkets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "For marinating and grilling"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "Juice and wedges for serving"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced and mixed with bowl seasoning"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "Optional for added heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "quenched yogurt",
+      "amount": "1 cup",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together olive oil, Argentinian bowl seasoning, garlic, chili flakes (if using), salt, and black pepper.",
+    "Add chicken wings to the marinade and toss to coat. Cover and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Remove chicken from the marinade and shake off excess.",
+    "Grill chicken wings for 20-25 minutes or until cooked through, flipping halfway through.",
+    "While chicken is grilling, mix together lime juice and salt in a small bowl.",
+    "Once chicken is cooked, brush with lime juice mixture and serve with quenched yogurt (if using) and additional lime wedges on the side.",
+    "Serve immediately and enjoy!",
+    "Let chicken rest for 5 minutes before serving.",
+    "Adjust seasoning as needed before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "chicken",
+    "grilled",
+    "wings",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-juicy-argentinian-chicken-wings-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:38:43.693Z"
+}
