@@ -1,0 +1,96 @@
+{
+  "slug": "quietly-wholesome-canadian-lentil-stew",
+  "title": "Wholesome Canadian Lentil Stew",
+  "description": "A hearty and comforting stew made with red lentils, vegetables, and aromatic spices. Perfect for a chilly Canadian evening.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canadian beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery; cook until tender, about 5 minutes.",
+    "Add garlic; cook for 1 minute.",
+    "Add lentils, broth, water, thyme, rosemary, salt, and pepper; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until lentils are tender, about 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "canadian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-wholesome-canadian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:54:28.657Z"
+}
