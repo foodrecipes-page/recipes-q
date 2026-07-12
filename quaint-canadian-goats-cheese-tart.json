@@ -1,0 +1,80 @@
+{
+  "slug": "quaint-canadian-goats-cheese-tart",
+  "title": "Canadian Cheese Tart",
+  "description": "A rich and savory tart filled with a blend of Canadian cheeses.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tart crust",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "goats cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "quaint cheddar cheese",
+      "amount": "4 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "canadian mozzarella cheese",
+      "amount": "2 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "to taste",
+      "notes": "such as parsley or thyme"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart crust and place in a 9-inch tart pan.",
+    "In a mixing bowl, combine the softened goats cheese, quaint cheddar cheese, and canadian mozzarella cheese.",
+    "Add the beaten eggs to the cheese mixture and mix until well combined.",
+    "Season with salt to taste, if desired.",
+    "Pour the cheese mixture into the tart crust.",
+    "Bake for 25-30 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Garnish with fresh herbs, if desired.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "cheese",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-canadian-goats-cheese-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:16:03.578Z"
+}
