@@ -10833,17 +10833,14 @@
   },
   {
     "slug": "quick-roasted-peruvian-chicken-peruvian-roasted-chicken",
-    "title": "Quick Roasted Peruvian Chicken",
+    "title": "Peruvian Roasted Chicken",
     "tags": [
-      "chicken-dinner",
-      "easy-roast",
-      "high-protein",
-      "latin-inspired",
-      "one-pan",
-      "weeknight"
+      "peruvian",
+      "chicken",
+      "roasted"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "q"
   },
   {
