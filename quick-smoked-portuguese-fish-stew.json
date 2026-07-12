@@ -1,0 +1,88 @@
+{
+  "slug": "quick-smoked-portuguese-fish-stew",
+  "title": "Smoked Fish Stew",
+  "description": "A hearty and flavorful stew made with smoked fish, vegetables, and a hint of portuguese spices.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked fish",
+      "amount": "1 pound",
+      "notes": "Broken into pieces"
+    },
+    {
+      "name": "Quick potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and sauté for an additional minute.",
+    "Add the diced potatoes, smoked fish, and diced tomato.",
+    "Pour in the fish stock and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 15-20 minutes or until the potatoes are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-fish",
+    "portuguese",
+    "stew",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-portuguese-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:32:16.805Z"
+}
