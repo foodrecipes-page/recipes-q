@@ -1,0 +1,65 @@
+{
+  "slug": "quenched-polish-sauerkraut-pierogi",
+  "title": "Polish-Style Sauerkraut and Pierogi Casserole",
+  "description": "A hearty, comforting casserole combining sauerkraut, pierogi, and a touch of Polish flair. Perfect for a chilly evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi",
+      "amount": "1 package (28 oz)",
+      "notes": "Thaw according to package instructions"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Quenched",
+      "amount": "1 tablespoon",
+      "notes": "Also known as caraway seeds"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound, sliced",
+      "notes": "Optional, can substitute with vegetarian sausage"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the sliced Polish sausage in a pan over medium heat until browned, breaking it up with a spoon as it cooks.",
+    "In a separate pan, sauté the quenched (caraway seeds) and sauerkraut over medium heat until the mixture is heated through.",
+    "In a greased 9x13-inch baking dish, arrange half of the pierogi.",
+    "Top the pierogi with the cooked sausage and sauerkraut mixture.",
+    "Arrange the remaining pierogi on top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the pierogi are golden brown.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "comfort-food",
+    "casserole",
+    "sauerkraut",
+    "pierogi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-polish-sauerkraut-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:06:40.584Z"
+}
