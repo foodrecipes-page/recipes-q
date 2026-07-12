@@ -3155,17 +3155,14 @@
   },
   {
     "slug": "quenched-light-brazilian-shrimp-skewers",
-    "title": "Quenched Light Brazilian Shrimp Skewers",
+    "title": "Brazilian Shrimp Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "gluten-free",
       "grilled",
-      "low-carb",
       "seafood",
-      "summer-recipes"
+      "summer"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -4711,15 +4708,15 @@
   },
   {
     "slug": "quick-aerated-ethiopian-mussels-stew",
-    "title": "Quick Aerated Ethiopian Mussels Stew",
+    "title": "Mussels in Ethiopian Stew",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "mussels",
+      "ethiopian",
+      "seafood",
+      "quick-cooking"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -6681,16 +6678,15 @@
   },
   {
     "slug": "quick-fix-brazilian-sour-cream-pilaf",
-    "title": "Quick-Fix Brazilian Sour Cream Pilaf",
+    "title": "Brazilian Creamy Pilaf",
     "tags": [
-      "brazilian",
-      "high-protein",
-      "one-pan",
       "pilaf",
-      "weeknight"
+      "brazilian",
+      "creamy",
+      "quick-cooking"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -13802,18 +13798,15 @@
   },
   {
     "slug": "quietly-braised-turkish-beef-shin-kebabs",
-    "title": "Quietly Braised Turkish Beef Shin Kebabs",
+    "title": "Braised Beef Kebabs",
     "tags": [
       "beef",
       "braised",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "turkish",
-      "weeknight"
+      "kebabs",
+      "turkish"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 170,
+    "cuisine": "turkish",
+    "totalTimeMin": 165,
     "shard": "q"
   },
   {
