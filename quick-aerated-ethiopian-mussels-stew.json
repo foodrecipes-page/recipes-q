@@ -1,0 +1,83 @@
+{
+  "slug": "quick-aerated-ethiopian-mussels-stew",
+  "title": "Mussels in Ethiopian Stew",
+  "description": "A flavorful and spicy Ethiopian-inspired stew featuring mussels as the main ingredient. This dish is quick to prepare and packed with nutrients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 dozen",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "quick stew",
+      "amount": "1 package",
+      "notes": "follow package instructions for cooking"
+    },
+    {
+      "name": "aerated flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening the stew"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 teaspoon",
+      "notes": "such as berbere or mitmita"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the stew according to package instructions.",
+    "Add the mussels, Ethiopian spices, and chicken broth to the stew.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5-7 minutes.",
+    "Stir in the aerated flour to thicken the stew.",
+    "Add the lemon juice, garlic, and onion to the stew and stir to combine.",
+    "Cook for an additional 2-3 minutes or until the mussels are cooked through.",
+    "Serve the mussels in the stew hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Cook the mussels to an internal temperature of 145°F (63°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mussels",
+    "ethiopian",
+    "seafood",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-aerated-ethiopian-mussels-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:41:09.229Z"
+}
