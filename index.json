@@ -7343,16 +7343,15 @@
   },
   {
     "slug": "quick-fix-norwegian-beef-borscht",
-    "title": "Quick Fix Norwegian Beef Borscht",
+    "title": "Norwegian Beef and Borscht Stew",
     "tags": [
-      "comfort-food",
-      "norwegian",
-      "one-pan",
-      "quick-fix",
-      "weeknight"
+      "beef",
+      "soups",
+      "stews",
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 105,
     "shard": "q"
   },
   {
@@ -10786,18 +10785,15 @@
   },
   {
     "slug": "quick-roasted-mexican-peanut-tagine",
-    "title": "Quick Roasted Mexican Peanut Tagine",
+    "title": "Roasted Peanut Tagine Chicken",
     "tags": [
-      "lacto-vegetarian",
-      "mexican-cuisine",
-      "one-pot",
-      "peanut-based",
-      "quick-meal",
-      "roasted-nuts",
-      "tagine-recipe"
+      "chicken",
+      "peanuts",
+      "north-african",
+      "tagine"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -16834,17 +16830,14 @@
   },
   {
     "slug": "quintessentially-nutty-algerian-lamb-tagine",
-    "title": "Quintessentially Nutty Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "keto-friendly",
-      "lamb-recipes",
-      "low-carb",
-      "nutty-flavors"
+      "algerian",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {
