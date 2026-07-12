@@ -3629,17 +3629,16 @@
   },
   {
     "slug": "quenched-polish-sauerkraut-pierogi",
-    "title": "Quenched Polish Sauerkraut Pierogi",
+    "title": "Polish-Style Sauerkraut and Pierogi Casserole",
     "tags": [
-      "cheesy",
-      "comfort-food",
-      "gochugaru",
-      "one-pan",
       "polish",
-      "sauerkraut"
+      "comfort-food",
+      "casserole",
+      "sauerkraut",
+      "pierogi"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
