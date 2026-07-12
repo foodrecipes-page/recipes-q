@@ -178,17 +178,15 @@
   },
   {
     "slug": "quaint-canadian-goats-cheese-tart",
-    "title": "Quaint Canadian Goats Cheese Tart",
+    "title": "Canadian Cheese Tart",
     "tags": [
-      "canadian-cuisine",
-      "goats-cheese",
-      "holiday-recipe",
-      "macrobiotic",
-      "special-occasion",
-      "tart"
+      "canadian",
+      "cheese",
+      "tart",
+      "dessert"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -3056,18 +3054,16 @@
   },
   {
     "slug": "quenched-juicy-argentinian-chicken-wings-bowl",
-    "title": "Quenched Juicy Argentinian Chicken Wings Bowl",
+    "title": "Argentinian Chicken Wings",
     "tags": [
-      "argentina",
       "argentinian",
-      "high-protein",
-      "korean",
-      "one-pan",
-      "spherified",
-      "weeknight"
+      "chicken",
+      "grilled",
+      "wings",
+      "dinner"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -7192,16 +7188,15 @@
   },
   {
     "slug": "quick-fix-kicked-uruguayan-galangal-grill",
-    "title": "Quick Fix Kicked Uruguayan Galangal Grill",
+    "title": "Uruguayan Galangal Grilled Skewers",
     "tags": [
       "grilled",
-      "high-protein",
-      "mason-jar",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "galangal",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -11313,17 +11308,15 @@
   },
   {
     "slug": "quick-seared-canadian-hail-battered-salmon-skillet",
-    "title": "Quick Seared Canadian Hail Battered Salmon Skillet",
+    "title": "Pan-Seared Canadian Salmon",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "one-pan",
-      "quick-meal",
-      "seafood",
-      "sugar-free"
+      "salmon",
+      "pan-seared",
+      "easy",
+      "healthy"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 33,
+    "cuisine": "North American",
+    "totalTimeMin": 13,
     "shard": "q"
   },
   {
@@ -12171,14 +12164,12 @@
   },
   {
     "slug": "quick-steamed-portuguese-wild-garlic-leaf-wrap",
-    "title": "Quick Steamed Portuguese Wild Garlic Leaf Wrap",
+    "title": "Steamed Wild Fish Wrap",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "portuguese",
-      "quick",
-      "steamed",
-      "wild-garlic"
+      "wild-fish",
+      "steamed-fish",
+      "portuguese-cuisine",
+      "gluten-free"
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 15,
@@ -16410,17 +16401,15 @@
   },
   {
     "slug": "quintessential-earthy-korean-lentils-dosirak",
-    "title": "Quintessential Earthy Korean Lentils Dosirak",
+    "title": "Spicy Korean-Style Lentil Dosirak",
     "tags": [
-      "date-night",
-      "dosirak-ideas",
-      "korean-food",
-      "lentil-recipes",
-      "shojin-friendly",
-      "vegan-dinner"
+      "korean",
+      "lentils",
+      "dosirak",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
