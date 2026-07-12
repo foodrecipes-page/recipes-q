@@ -1,0 +1,62 @@
+{
+  "slug": "quick-seared-canadian-hail-battered-salmon-skillet",
+  "title": "Pan-Seared Canadian Salmon",
+  "description": "A simple yet flavorful recipe for seared salmon with a crispy crust. This dish is high in protein and omega-3 fatty acids. Serve with your favorite sides for a delicious and healthy meal.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Quick skillet oil",
+      "amount": "2 tbsp",
+      "notes": "For searing"
+    },
+    {
+      "name": "Hail battered panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": "For crispy topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the salmon fillets with salt and pepper.",
+    "Add the skillet oil to the preheated skillet. Once hot, add the salmon fillets, skin side up (if they have skin).",
+    "Sear the salmon for 2-3 minutes, then flip and cook for an additional 2-3 minutes, or until cooked through.",
+    "Meanwhile, mix the panko breadcrumbs in a shallow dish.",
+    "Once the salmon is cooked, place it on a plate and immediately sprinkle the panko breadcrumbs on top.",
+    "Serve hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "pan-seared",
+    "easy",
+    "healthy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-canadian-hail-battered-salmon-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:35:43.634Z"
+}
