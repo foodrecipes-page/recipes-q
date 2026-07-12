@@ -1,0 +1,70 @@
+{
+  "slug": "quaint-buttery-brazilian-cheese-wrap",
+  "title": "Brazilian Cheese Wrap",
+  "description": "A simple and delicious cheese-filled Brazilian wrap. This recipe is a delightful twist on traditional cheese wraps.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quaint flour tortilla",
+      "amount": "1",
+      "notes": "large, flat tortilla"
+    },
+    {
+      "name": "buttery gouda cheese",
+      "amount": "100g",
+      "notes": "semi-soft, mild cheese"
+    },
+    {
+      "name": "cheese",
+      "amount": "25g",
+      "notes": "shredded, mild cheese"
+    },
+    {
+      "name": "brazilian wrap seasoning",
+      "amount": "1 tsp",
+      "notes": "optional, adds flavor"
+    },
+    {
+      "name": "butter or non-stick cooking spray",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick pan or griddle over medium heat.",
+    "Butter or spray the pan with non-stick cooking spray.",
+    "Place the flour tortilla in the pan and cook for 1-2 minutes.",
+    "Flip the tortilla and cook for another 1-2 minutes.",
+    "Sprinkle shredded cheese on half of the tortilla.",
+    "Add gouda cheese on top of the shredded cheese.",
+    "Sprinkle wrap seasoning on top (if using).",
+    "Fold the tortilla in half to enclose the cheese.",
+    "Cook for an additional 1-2 minutes, until the cheese is melted.",
+    "Flip the wrap and cook for another 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-buttery-brazilian-cheese-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:03:27.294Z"
+}
