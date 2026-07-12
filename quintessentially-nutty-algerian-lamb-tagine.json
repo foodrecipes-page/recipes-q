@@ -1,0 +1,114 @@
+{
+  "slug": "quintessentially-nutty-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A classic Algerian dish made with tender lamb and aromatic spices, slow-cooked in a rich tagine sauce.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "quintessentially nutty almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "algerian cumin",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "algerian preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay or ceramic tagine over medium-high heat.",
+    "Add lamb and brown on all sides, about 5 minutes. Remove from pot.",
+    "Add onion and garlic and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add cumin, coriander, cinnamon, turmeric, salt, and pepper. Cook, stirring constantly, for 1 minute.",
+    "Add browned lamb, chicken broth, preserved lemon, and almonds. Stir to combine.",
+    "Bring mixture to a boil, then reduce heat to low and simmer, covered, for 2-1/2 hours, or until lamb is tender.",
+    "Stir in chopped parsley. Serve hot over couscous or rice.",
+    "Let tagine rest, uncovered, for 10 minutes before serving.",
+    "Skim off excess oil and fat before serving.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "42g",
+    "carbs": "20g",
+    "fat": "33g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-nutty-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T12:14:09.980Z"
+}
