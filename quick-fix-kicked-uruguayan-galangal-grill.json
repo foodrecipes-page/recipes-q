@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fix-kicked-uruguayan-galangal-grill",
+  "title": "Uruguayan Galangal Grilled Skewers",
+  "description": "A flavorful and aromatic Uruguayan-inspired dish featuring grilled chicken and galangal, perfect for a summer evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grill",
+      "amount": "preheated to medium-high heat",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the chicken breast into bite-sized pieces and place in a bowl.",
+    "Mince the galangal and add to the bowl with the chicken.",
+    "Drizzle the olive oil over the chicken and galangal, and sprinkle with salt and black pepper.",
+    "Thread the chicken and galangal onto skewers.",
+    "Preheat the grill to medium-high heat.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "galangal",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-kicked-uruguayan-galangal-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:07:54.171Z"
+}
