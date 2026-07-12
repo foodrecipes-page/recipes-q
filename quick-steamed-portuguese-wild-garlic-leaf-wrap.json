@@ -1,0 +1,78 @@
+{
+  "slug": "quick-steamed-portuguese-wild-garlic-leaf-wrap",
+  "title": "Steamed Wild Fish Wrap",
+  "description": "A healthy and flavorful meal made with fresh wild fish, steamed to perfection and wrapped in a leafy Portuguese flatbread.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild fish fillet",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Portuguese leaf flatbread",
+      "amount": "1",
+      "notes": "Gluten-free and crispy"
+    },
+    {
+      "name": "Quick garlic aioli",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Steamed garlic cloves",
+      "amount": "3",
+      "notes": "Adds a punch of flavor"
+    },
+    {
+      "name": "Wild garlic leaves",
+      "amount": "1/4 cup",
+      "notes": "Fresh and fragrant"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "Squeeze for extra flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to perfection"
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "Season the wild fish fillet with salt and pepper.",
+    "Steam the fish for 8-10 minutes, or until cooked through.",
+    "Meanwhile, toast the Portuguese flatbread until crispy.",
+    "Spread the quick garlic aioli on the flatbread.",
+    "Top the flatbread with the steamed fish, wild garlic leaves, and lemon wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "wild-fish",
+    "steamed-fish",
+    "portuguese-cuisine",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-portuguese-wild-garlic-leaf-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:15:45.717Z"
+}
