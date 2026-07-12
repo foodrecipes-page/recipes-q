@@ -1,0 +1,82 @@
+{
+  "slug": "quick-fix-crunchy-mexican-chickpea-wrap",
+  "title": "Crunchy Chickpea Wrap",
+  "description": "A flavorful and healthy wrap filled with crunchy chickpea salad, perfect for a quick snack or meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crushed tortilla chips"
+    },
+    {
+      "name": "quick",
+      "amount": "2 tbsp",
+      "notes": "lime juice"
+    },
+    {
+      "name": "fix",
+      "amount": "1 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/4 cup",
+      "notes": "diced red onion"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": "whole wheat or gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add crunchy, quick, fix, and mexican to the bowl and mix well.",
+    "Season with salt and pepper to taste.",
+    "Warm the wrap in the skillet for 1 minute on each side.",
+    "Spoon the chickpea mixture onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "wrap",
+    "mexican",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-crunchy-mexican-chickpea-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:17:35.686Z"
+}
