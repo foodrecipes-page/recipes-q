@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fix-slovakian-shallots-hash",
+  "title": "Slovakian Hash with Scrambled Eggs",
+  "description": "A hearty and flavorful breakfast dish inspired by Slovakian cuisine, featuring crispy hash browns and rich scrambled eggs.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "breakfast",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash browns",
+      "amount": "1 large pan",
+      "notes": "preferably leftover from the night before"
+    },
+    {
+      "name": "Shallots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Quick fix potatoes",
+      "amount": "2-3 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick pan over medium heat.",
+    "Add chopped shallots and cook until translucent, about 3-4 minutes.",
+    "Add chopped potatoes and cook for about 5 minutes, stirring occasionally.",
+    "Push the hash browns to one side of the pan and crack in the eggs.",
+    "Scramble the eggs and mix with the hash browns.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "hash",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-slovakian-shallots-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:45:35.419Z"
+}
