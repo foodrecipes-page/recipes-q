@@ -6792,15 +6792,16 @@
   },
   {
     "slug": "quick-fix-crunchy-mexican-chickpea-wrap",
-    "title": "Quick-Fix Crunchy Mexican Chickpea Wrap",
+    "title": "Crunchy Chickpea Wrap",
     "tags": [
-      "quick-fix",
-      "crunchy",
+      "chickpea",
+      "wrap",
       "mexican",
-      "vegetarian-friendly"
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 15,
+    "totalTimeMin": 12,
     "shard": "q"
   },
   {
@@ -16280,17 +16281,15 @@
   },
   {
     "slug": "quietly-wholesome-canadian-lentil-stew",
-    "title": "Quietly Wholesome Canadian Lentil Stew",
+    "title": "Wholesome Canadian Lentil Stew",
     "tags": [
-      "canadian-cuisine",
-      "gluten-free",
-      "kid-friendly",
-      "lentil-stew",
-      "one-pot",
+      "lentil",
+      "stew",
+      "canadian",
       "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
