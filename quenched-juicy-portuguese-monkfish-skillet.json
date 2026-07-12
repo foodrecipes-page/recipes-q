@@ -1,0 +1,97 @@
+{
+  "slug": "quenched-juicy-portuguese-monkfish-skillet",
+  "title": "Pan-Seared Monkfish Skillet",
+  "description": "A quick and flavorful Portuguese-inspired dish featuring seared monkfish and a variety of vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "Large, oven-safe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "Halved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the monkfish fillets with salt and black pepper.",
+    "Heat 1 tablespoon of olive oil in the skillet over medium-high heat.",
+    "Add the onion and garlic; cook until the onion is translucent, about 3-4 minutes.",
+    "Add the monkfish fillets; cook for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the monkfish is cooked through.",
+    "While the monkfish cooks, combine the cherry tomatoes and lemon juice in a bowl.",
+    "Stir in the chopped parsley.",
+    "Serve the monkfish with the tomato-lemon sauce spooned over the top.",
+    "Garnish with additional parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "monkfish",
+    "portuguese",
+    "skillet",
+    "seafood",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-juicy-portuguese-monkfish-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T03:25:23.137Z"
+}
