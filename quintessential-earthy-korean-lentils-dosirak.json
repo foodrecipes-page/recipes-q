@@ -1,0 +1,79 @@
+{
+  "slug": "quintessential-earthy-korean-lentils-dosirak",
+  "title": "Spicy Korean-Style Lentil Dosirak",
+  "description": "A flavorful, spicy Korean-inspired dosirak filled with sautéed lentils, vegetables, and a hint of sesame.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown lentils",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Dried Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add the sliced carrots and zucchini and cook for 3-4 minutes.",
+    "Add the brown lentils, gochujang, and gochugaru to the pan and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Stir in chopped green onions and sesame seeds.",
+    "Serve the lentil mixture in a dosirak bowl and garnish with additional green onions if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lentils",
+    "dosirak",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-earthy-korean-lentils-dosirak",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:23:37.480Z"
+}
