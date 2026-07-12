@@ -1,0 +1,89 @@
+{
+  "slug": "quietly-braised-turkish-beef-shin-kebabs",
+  "title": "Braised Beef Kebabs",
+  "description": "A delicious and tender beef dish made with slow-cooked kebabs in a rich, flavorful sauce.",
+  "cuisine": "turkish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Shin",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Reduce heat to medium and cook the onion until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, salt, black pepper, and paprika. Stir to combine.",
+    "Return the beef cubes to the pot, cover, and transfer to the oven.",
+    "Braise the kebabs for 2 1/2 to 3 hours, or until tender.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "braised",
+    "kebabs",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-braised-turkish-beef-shin-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:26:28.498Z"
+}
