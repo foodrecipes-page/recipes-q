@@ -1,0 +1,101 @@
+{
+  "slug": "quietly-romantic-filipino-sirloin-steak-skewers",
+  "title": "Sirloin Steak Skewers with Quietly Romantic Filipino Flair",
+  "description": "Impress your loved one with these tender sirloin steak skewers marinated in a mixture of soy sauce, garlic, and brown sugar, served with a side of steamed vegetables.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, peanut butter, lime juice, salt, and black pepper.",
+    "Add sirloin steak pieces to the marinade and mix well.",
+    "Thread sirloin steak pieces, bell peppers, and onions onto skewers.",
+    "Brush grill with vegetable oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until sirloin steak reaches an internal temperature of 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve skewers with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sirloin",
+    "steak",
+    "skewers",
+    "filipino",
+    "romantic",
+    "quietly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-romantic-filipino-sirloin-steak-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:29:59.566Z"
+}
