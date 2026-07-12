@@ -1,0 +1,77 @@
+{
+  "slug": "quick-charred-venezuelan-porcini-pilaf",
+  "title": "Venezuelan-Style Grilled Shrimp Pilaf",
+  "description": "A flavorful and easy-to-make pilaf dish with a twist of Venezuelan spices, served with charred shrimp.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quick-cooking shrimp",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Porcini pilaf",
+      "amount": "1 cup",
+      "notes": "Pre-cooked or homemade"
+    },
+    {
+      "name": "Venezuelan spices",
+      "amount": "1 teaspoon",
+      "notes": "A mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Charred onions",
+      "amount": "1/2 cup",
+      "notes": "Caramelized onions for added sweetness"
+    },
+    {
+      "name": "Charred bell peppers",
+      "amount": "1/2 cup",
+      "notes": "Roasted bell peppers for added flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For grilling and cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the charred onions and bell peppers, and cook for 2 minutes.",
+    "Add the Venezuelan spices and cook for 1 minute, stirring constantly.",
+    "Add the quick-cooking shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the pre-cooked pilaf to the skillet and stir to combine with the shrimp and vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin-american",
+    "grilled",
+    "pilaf",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-venezuelan-porcini-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:25:36.918Z"
+}
