@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-light-brazilian-shrimp-skewers",
+  "title": "Brazilian Shrimp Skewers",
+  "description": "Grilled shrimp skewers with a Brazilian twist, featuring a flavorful marinade and a squeeze of fresh lime juice.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "light olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "minced fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "quenched sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together light olive oil, lime juice, minced fresh cilantro, salt, black pepper, and garlic powder.",
+    "Brush the marinade onto both sides of the shrimp.",
+    "Grill the shrimp skewers for 2-3 minutes per side, or until they're pink and cooked through.",
+    "Serve immediately, garnished with additional fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "seafood",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-light-brazilian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:22:29.513Z"
+}
