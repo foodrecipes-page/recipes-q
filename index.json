@@ -5345,16 +5345,15 @@
   },
   {
     "slug": "quick-charred-venezuelan-porcini-pilaf",
-    "title": "Quick Charred Venezuelan Porcini Pilaf",
+    "title": "Venezuelan-Style Grilled Shrimp Pilaf",
     "tags": [
-      "high-fiber",
-      "mediterranean",
-      "one-pan",
-      "veggie-rich",
-      "weeknight"
+      "latin-american",
+      "grilled",
+      "pilaf",
+      "shrimp"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -11579,16 +11578,14 @@
   },
   {
     "slug": "quick-smoked-portuguese-fish-stew",
-    "title": "Quick Smoked Portuguese Fish Stew",
+    "title": "Smoked Fish Stew",
     "tags": [
-      "gluten-free",
-      "hangover-cure",
-      "low-calorie",
-      "one-pot",
-      "portuguese-cuisine",
-      "smoked-fish"
+      "smoked-fish",
+      "portuguese",
+      "stew",
+      "fish"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 35,
     "shard": "q"
   },
