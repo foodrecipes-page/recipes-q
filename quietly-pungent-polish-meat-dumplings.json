@@ -1,0 +1,92 @@
+{
+  "slug": "quietly-pungent-polish-meat-dumplings",
+  "title": "Polish-Style Meat Dumplings",
+  "description": "A hearty, comforting dish from Poland featuring meat-filled dumplings in a savory broth.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground meat",
+      "amount": "1 lb",
+      "notes": "80/20 ground beef and pork"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1/2 lb",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "for broth"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, egg, and water to form dumpling dough.",
+    "Knead dough for 5 minutes until smooth.",
+    "Divide dough into 20-25 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk shape.",
+    "Place a tablespoon of ground meat in the center of each disk.",
+    "Fold dough over meat to form a dumpling, pressing edges together to seal.",
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Brown dumplings on all sides, about 5 minutes.",
+    "Add beef broth, onion, carrot, and celery to the pot.",
+    "Bring broth to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Add polish sausage (if using) and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "meat",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-pungent-polish-meat-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:08:26.125Z"
+}
