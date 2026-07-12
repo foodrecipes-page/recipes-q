@@ -1,0 +1,75 @@
+{
+  "slug": "quick-pillowy-croatian-vegan-meal-dumplings",
+  "title": "Vegan Dumpling Meal",
+  "description": "A hearty, comforting vegan meal featuring pillowy dumplings in a savory sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegan croatian meal",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Quick flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "2 tbsp",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "Savory spices",
+      "amount": "1 tsp",
+      "notes": "for dumpling filling"
+    }
+  ],
+  "instructions": [
+    "Combine flour and water to form dumpling dough.",
+    "Knead the dough until smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly.",
+    "Mix vegan meal with savory spices.",
+    "Place a tablespoon of filling in the center of each dumpling.",
+    "Fold the dough over the filling to form a half-circle.",
+    "Seal the edges with a fork.",
+    "Heat vegan oil in a pan over medium heat.",
+    "Cook dumplings for 5 minutes on each side, or until golden brown.",
+    "Serve hot with your favorite sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "meal",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-pillowy-croatian-vegan-meal-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:24:41.038Z"
+}
