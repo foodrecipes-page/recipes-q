@@ -663,16 +663,16 @@
   },
   {
     "slug": "quaint-garlicky-algerian-lamb-tagine",
-    "title": "Quaint Garlicky Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "crowd-pleaser",
-      "garlic-lovers",
-      "lamb-based",
+      "lamb",
       "north-african",
-      "one-pot"
+      "slow-cooker",
+      "couscous",
+      "rice"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -5090,17 +5090,16 @@
   },
   {
     "slug": "quick-brined-polish-scallion-frittata",
-    "title": "Quick Brined Polish Scallion Frittata",
+    "title": "Polish Scallion Frittata",
     "tags": [
+      "breakfast",
       "brunch",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "polish",
+      "scallion",
+      "frittata"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7724,17 +7723,15 @@
   },
   {
     "slug": "quick-fix-slovakian-shallots-hash",
-    "title": "Quick-Fix Slovakian Shallots Hash",
+    "title": "Slovakian Hash with Scrambled Eggs",
     "tags": [
       "breakfast",
+      "vegetarian",
       "hash",
-      "one-pan",
-      "paleo-friendly",
-      "quick-fix",
-      "weeknight"
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 17,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
