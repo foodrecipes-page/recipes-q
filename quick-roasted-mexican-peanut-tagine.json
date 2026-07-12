@@ -1,0 +1,100 @@
+{
+  "slug": "quick-roasted-mexican-peanut-tagine",
+  "title": "Roasted Peanut Tagine Chicken",
+  "description": "A flavorful North African-inspired dish with roasted chicken, peanuts, and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken breasts and pat them dry with paper towels.",
+    "In a small bowl, mix together the cumin, coriander, paprika, salt, and pepper.",
+    "Rub the spice mixture all over the chicken breasts.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken breasts for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, toast the peanuts in a small dry skillet over medium heat, stirring frequently, until fragrant.",
+    "Remove the skillet from the oven and stir in the toasted peanuts, chopped onion, minced garlic, and freshly squeezed lemon juice.",
+    "Serve the chicken hot, garnished with additional peanuts and lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peanuts",
+    "north-african",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-mexican-peanut-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:44:07.711Z"
+}
