@@ -6578,17 +6578,15 @@
   },
   {
     "slug": "quick-fix-algerian-garlic-tagine",
-    "title": "Algerian Garlic Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "algerian",
-      "high-fiber",
-      "one-pan",
-      "quick-fix",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "north african",
+      "stew",
+      "one pot"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -15386,16 +15384,17 @@
   },
   {
     "slug": "quietly-romantic-filipino-sirloin-steak-skewers",
-    "title": "Quietly Romantic Filipino Sirloin Steak Skewers",
+    "title": "Sirloin Steak Skewers with Quietly Romantic Filipino Flair",
     "tags": [
-      "filipino-food",
-      "grilled-meat",
-      "herbal-flavors",
-      "romantic-dinner",
-      "special-occasion"
+      "sirloin",
+      "steak",
+      "skewers",
+      "filipino",
+      "romantic",
+      "quietly"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
