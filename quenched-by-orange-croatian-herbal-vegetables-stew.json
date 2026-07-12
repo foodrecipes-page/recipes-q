@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-by-orange-croatian-herbal-vegetables-stew",
+  "title": "Hearty Croatian Vegetable Stew",
+  "description": "A flavorful and comforting stew originating from Croatia, made with a variety of vegetables and herbs.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quenched vegetables (carrots, potatoes, onions)",
+      "amount": "2 cups, chopped",
+      "notes": ""
+    },
+    {
+      "name": "by, herbal",
+      "amount": "2 tablespoons, chopped",
+      "notes": ""
+    },
+    {
+      "name": "orange bell pepper",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "croatian tomatoes (or regular)",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "stew broth",
+      "amount": "4 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and sauté until translucent.",
+    "Add the sliced bell peppers and cook for 2-3 minutes.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the diced tomatoes, broth, and herbs.",
+    "Bring the stew to a boil, then reduce heat to low and simmer for 30-40 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-by-orange-croatian-herbal-vegetables-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:31:09.776Z"
+}
