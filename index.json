@@ -2116,17 +2116,15 @@
   },
   {
     "slug": "quenched-by-orange-croatian-herbal-vegetables-stew",
-    "title": "Quenched by Orange Croatian Herbal Vegetables Stew",
+    "title": "Hearty Croatian Vegetable Stew",
     "tags": [
       "croatian",
-      "diabetic-friendly",
-      "easy-to-make",
-      "herbal",
-      "sick-day",
-      "vegetarian"
+      "vegetarian",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -10192,17 +10190,14 @@
   },
   {
     "slug": "quick-pillowy-croatian-vegan-meal-dumplings",
-    "title": "Quick pillowy Croatian Vegan meal Dumplings",
+    "title": "Vegan Dumpling Meal",
     "tags": [
-      "croatian",
-      "dinner",
-      "gluten-free",
-      "meal-prep",
-      "one-pan",
-      "vegan-friendly"
+      "vegan",
+      "meal",
+      "dumplings"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
