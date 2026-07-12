@@ -152,17 +152,14 @@
   },
   {
     "slug": "quaint-buttery-brazilian-cheese-wrap",
-    "title": "Quaint Buttery Brazilian Cheese Wrap",
+    "title": "Brazilian Cheese Wrap",
     "tags": [
-      "brazilian-cuisine",
-      "buttery-goodness",
-      "cheese-recipes",
-      "easy-meals",
-      "snack-ideas",
-      "vegetarian-options"
+      "cheese",
+      "wrap",
+      "snack"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 10,
     "shard": "q"
   },
   {
@@ -3077,17 +3074,16 @@
   },
   {
     "slug": "quenched-juicy-portuguese-monkfish-skillet",
-    "title": "Quenched Juicy Portuguese Monkfish Skillet",
+    "title": "Pan-Seared Monkfish Skillet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "portuguese-cuisine",
-      "weeknight"
+      "monkfish",
+      "portuguese",
+      "skillet",
+      "seafood",
+      "quick"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
