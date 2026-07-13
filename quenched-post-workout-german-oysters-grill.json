@@ -1,0 +1,83 @@
+{
+  "slug": "quenched-post-workout-german-oysters-grill",
+  "title": "Grilled Oysters with German-Style Salsa",
+  "description": "A refreshing and flavorful seafood dish perfect for a post-workout meal or a light lunch. The combination of tangy German-style salsa and grilled oysters will leave you wanting more.",
+  "cuisine": "german",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 count"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 medium",
+      "notes": "juiced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "grill",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Rinse the oysters under cold water, scrubbing to remove any grit.",
+    "Pat oysters dry with a paper towel.",
+    "Season oysters with salt and pepper.",
+    "Grill oysters for 2-3 minutes on each side, or until the edges start to curl.",
+    "Meanwhile, combine lemon juice, parsley, red onion, German mustard, and mayonnaise in a bowl.",
+    "Mix well to combine.",
+    "To serve, place a grilled oyster on each plate and top with a spoonful of the German-style salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "seafood",
+    "german",
+    "salsa",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-post-workout-german-oysters-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:45:57.324Z"
+}
