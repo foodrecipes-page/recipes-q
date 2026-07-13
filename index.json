@@ -3688,17 +3688,15 @@
   },
   {
     "slug": "quenched-resinous-greek-peas-bowl",
-    "title": "Quenched, Resinous Greek Peas Bowl",
+    "title": "Greek Pea Stew",
     "tags": [
-      "gluten-free",
       "greek",
-      "high-fiber",
-      "one-pan",
       "vegetarian",
-      "weeknight"
+      "stew",
+      "peas"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
