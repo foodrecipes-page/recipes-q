@@ -1,0 +1,84 @@
+{
+  "slug": "quaintly-crispy-dutch-rhubarb-tagine",
+  "title": "Crispy Rhubarb Tagine",
+  "description": "A sweet and tangy dessert inspired by the flavors of Morocco, with crispy pastry and tender rhubarb.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Cut the pastry into squares, about 3 inches per side.",
+    "Place a tablespoon of honey on one half of each square, leaving a 1/2 inch border around the edges.",
+    "Top the honey with a few pieces of rhubarb.",
+    "Sprinkle the lemon juice, ginger, and cinnamon over the rhubarb.",
+    "Fold the other half of the pastry square over the filling, pressing the edges to seal.",
+    "Brush the tops of the pastries with a little bit of water.",
+    "Bake the pastries for 20-25 minutes, or until they are golden brown.",
+    "Sprinkle with confectioners' sugar and serve warm.",
+    "Garnish with chopped almonds, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "dessert",
+    "rhubarb",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-crispy-dutch-rhubarb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:43:15.927Z"
+}
