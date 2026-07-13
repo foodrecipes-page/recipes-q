@@ -1,0 +1,71 @@
+{
+  "slug": "quick-quenched-dutch-portobello-casserole",
+  "title": "Portobello Mushroom Casserole",
+  "description": "A hearty casserole made with sautéed portobello mushrooms and served with a side of dutch crunch.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Dutch crunch",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Quick quinoa",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté sliced portobello mushrooms in olive oil until tender.",
+    "In a separate pan, toast crushed dutch crunch.",
+    "In a large bowl, combine cooked quinoa, sautéed mushrooms, and toasted dutch crunch.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-quenched-dutch-portobello-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:56:03.653Z"
+}
