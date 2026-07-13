@@ -1,0 +1,70 @@
+{
+  "slug": "quick-jammy-filipino-ciabatta-toast",
+  "title": "Filipino-Style Breakfast Sandwich",
+  "description": "A twist on the classic breakfast sandwich with a Filipino-inspired twist. Toasted ciabatta is topped with a fried egg, sweet and spicy jammy Filipino sausage, and melted cheese.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Filipino sausage",
+      "amount": "4 links",
+      "notes": null
+    },
+    {
+      "name": "Ciabatta",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices",
+      "notes": "American or cheddar"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Jam",
+      "amount": "2 tablespoons",
+      "notes": "sweet and spicy jam"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium heat.",
+    "2. Add 1 tablespoon of butter to the skillet.",
+    "3. Once the butter is melted, add the Filipino sausage and cook until browned on both sides.",
+    "4. Meanwhile, toast the ciabatta by slicing it and placing it in the oven at 350°F (180°C) for 5-7 minutes.",
+    "5. Crack the eggs into a bowl and whisk them together.",
+    "6. Add the eggs to the skillet and scramble them until cooked through.",
+    "7. Assemble the sandwich by placing a cooked egg on the bottom half of the toasted ciabatta, followed by a slice of cheese and a few slices of the Filipino sausage.",
+    "8. Place the other half of the ciabatta on top of the sandwich and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sandwich",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-jammy-filipino-ciabatta-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:59:06.775Z"
+}
