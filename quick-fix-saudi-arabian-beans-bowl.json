@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fix-saudi-arabian-beans-bowl",
+  "title": "Quick Saudi Arabian Bean Bowl",
+  "description": "A flavorful and nutritious bowl filled with sautéed beans, onions, and spices, inspired by traditional Saudi Arabian cuisine.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "quick fix rice",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add cumin, coriander, salt, and pepper, and stir for 1 minute.",
+    "Add black beans and stir to combine.",
+    "Cook for 5 minutes or until heated through.",
+    "Serve over quick fix rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "vegetarian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-saudi-arabian-beans-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:09:02.748Z"
+}
