@@ -1,0 +1,87 @@
+{
+  "slug": "quick-crisp-malaysian-cornmeal-bowl",
+  "title": "Crispy Corn Fritters",
+  "description": "A simple and delicious snack made with cornmeal, perfect for a quick bite.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Quick Rice Flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bowl of Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together cornmeal, rice flour, and salt.",
+    "2. Add chopped scallions and mix well.",
+    "3. In a separate bowl, beat the egg and add water. Mix well.",
+    "4. Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "5. Heat a non-stick pan with cooking oil over medium heat.",
+    "6. Using a spoon, drop small amounts of the dough mixture into the hot oil.",
+    "7. Flatten the dough mixture slightly with a spatula.",
+    "8. Fry the fritters until they are golden brown and crispy.",
+    "9. Remove the fritters from the oil and drain on paper towels.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "fritters",
+    "snack",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-malaysian-cornmeal-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:12.679Z"
+}
