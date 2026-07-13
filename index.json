@@ -13584,17 +13584,14 @@
   },
   {
     "slug": "quietly-baked-dutch-fish-bake",
-    "title": "Quietly Baked Dutch Fish Bake",
+    "title": "Pan-Seared Baked Fish",
     "tags": [
-      "baked-dishes",
-      "comfort-food",
-      "dutch-cuisine",
-      "fish-recipes",
-      "fondue-pot-recipes",
-      "spicy-food"
+      "fish",
+      "dinner",
+      "easy-cooking"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -16248,17 +16245,16 @@
   },
   {
     "slug": "quietly-yeasty-algerian-turnip-tagine",
-    "title": "Quietly Yeasty Algerian Turnip Tagine",
+    "title": "Algerian Turnip Tagine",
     "tags": [
-      "family-friendly",
-      "lazy-susan",
-      "one-pot",
+      "algerian",
       "vegetarian",
-      "velvety",
-      "yeasty"
+      "stew",
+      "turnip",
+      "tagine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
