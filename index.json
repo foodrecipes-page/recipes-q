@@ -1575,17 +1575,15 @@
   },
   {
     "slug": "quaintly-crispy-dutch-rhubarb-tagine",
-    "title": "Quaintly Crispy Dutch Rhubarb Tagine",
+    "title": "Crispy Rhubarb Tagine",
     "tags": [
-      "aromatic",
-      "comfort-food",
-      "dairy-free",
-      "dutch-cuisine",
-      "one-pot",
-      "vegetarian"
+      "moroccan",
+      "dessert",
+      "rhubarb",
+      "pastry"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 60,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7589,16 +7587,15 @@
   },
   {
     "slug": "quick-fix-saudi-arabian-beans-bowl",
-    "title": "Quick-Fix Saudi-Arabian Beans Bowl",
+    "title": "Quick Saudi Arabian Bean Bowl",
     "tags": [
-      "middle-eastern",
-      "one-pan",
-      "quick-fix",
+      "saudi arabian",
       "vegetarian",
-      "weeknight"
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 15,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -7910,19 +7907,14 @@
   },
   {
     "slug": "quick-fix-venezuelan-plantains-empanadas",
-    "title": "Quick-Fix Venezuelan Plantains Empanadas",
+    "title": "Venezuelan Plantain Empanadas",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "empanada-lovers",
-      "latin-inspired",
-      "one-pan",
-      "quick-meal",
-      "veggie-friendly",
-      "weeknight-dinner"
+      "venezuelan",
+      "plantains",
+      "empanadas"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 28,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -14857,16 +14849,13 @@
   },
   {
     "slug": "quietly-pungent-russian-shallots-pasta",
-    "title": "Quietly Pungent Russian Shallots Pasta",
+    "title": "Russian Shallots Quietly Cooked Pasta",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-glycemic",
-      "one-pot",
-      "russian-cuisine",
-      "weeknight"
+      "italian",
+      "pasta",
+      "vegetarian"
     ],
-    "cuisine": "Russian",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "q"
   },
