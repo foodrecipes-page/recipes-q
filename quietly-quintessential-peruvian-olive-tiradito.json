@@ -1,0 +1,78 @@
+{
+  "slug": "quietly-quintessential-peruvian-olive-tiradito",
+  "title": "Olive and Peruvian Inspired Tiradito",
+  "description": "A refreshing Peruvian-inspired dish marinated in olive oil and mixed with quietly flavorful ingredients. This recipe is perfect for a hot summer day.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tiradito fish (sushi-grade)",
+      "amount": "1 pound",
+      "notes": "Fresh, preferably sashimi-grade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin for best flavor"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "Diced, seeds removed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Quietly sweet onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together olive oil, aji amarillo peppers, cilantro, and lime juice.",
+    "Add the sliced onion to the bowl and mix well.",
+    "Add the Tiradito fish to the bowl and mix gently to coat.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional cilantro if desired.",
+    "Serve chilled, garnished with additional aji amarillo peppers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "tiradito",
+    "snack",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quintessential-peruvian-olive-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:17:57.231Z"
+}
