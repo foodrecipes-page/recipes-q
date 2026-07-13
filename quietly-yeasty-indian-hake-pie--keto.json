@@ -1,0 +1,87 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--keto",
+  "title": "Indian-Style Hake with Yeasty Breading",
+  "description": "A keto-friendly Indian-inspired dish featuring hake in a flavorful yeasty breading. Perfect for a quick and satisfying meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": "Keto-friendly breading"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/4 cup",
+      "notes": "Add extra texture"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "Keto-friendly oil for frying"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp",
+      "notes": "Indian-inspired spice"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "Warm, aromatic spice"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together yeast, almond flour, coconut flour, curry powder, garam masala, salt, and black pepper.",
+    "Add ghee to the dry mixture and mix until crumbly.",
+    "Dip each hake fillet into the yeasty breading mixture, coating both sides evenly.",
+    "Place the coated hake fillets on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until cooked through and flaky.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "keto",
+    "low-carb",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:58:30.423Z"
+}
