@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-savory-syrian-lamb-kebabs",
+  "title": "Syrian Lamb Kebabs",
+  "description": "A traditional Middle Eastern dish, these lamb kebabs are marinated in a mixture of spices and herbs, then grilled to perfection.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Syrian Spices",
+      "amount": "2 teaspoons",
+      "notes": "containing cumin, coriander, and paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, Syrian spices, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush kebabs with additional olive oil and season with salt and pepper.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer kebabs to a platter and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "syrian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-savory-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:11:13.120Z"
+}
