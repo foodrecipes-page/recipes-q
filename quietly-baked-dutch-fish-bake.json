@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-baked-dutch-fish-bake",
+  "title": "Pan-Seared Baked Fish",
+  "description": "A simple and flavorful dish made with baked fish, pan-seared to perfection. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baked fish fillet",
+      "amount": "1",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "lemon",
+      "amount": "1/2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "To taste"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "To garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt, black pepper, and garlic powder.",
+    "Heat a skillet over medium-high heat and add the butter.",
+    "Once melted, add the fish and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Remove the fish from the oven and squeeze the lemon juice over the top.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "dinner",
+    "easy-cooking"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-baked-dutch-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:37:50.038Z"
+}
