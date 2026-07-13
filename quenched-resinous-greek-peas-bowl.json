@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-resinous-greek-peas-bowl",
+  "title": "Greek Pea Stew",
+  "description": "A hearty and flavorful stew made with Greek ingredients and fresh peas. It's perfect for a cold winter evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Greek peas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "resinous",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 cup",
+      "notes": "water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the resinous in a large pot over medium heat.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the Greek peas, quenched, and tomato paste. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Place in the bowl before serving.",
+    "Enjoy your delicious Greek Pea Stew!",
+    "Note: You can add other ingredients like lemon juice or herbs to give it a personal touch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "stew",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-resinous-greek-peas-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T17:34:01.481Z"
+}
