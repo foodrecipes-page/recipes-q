@@ -5582,16 +5582,15 @@
   },
   {
     "slug": "quick-crisp-malaysian-cornmeal-bowl",
-    "title": "Quick Crisp Malaysian Cornmeal Bowl",
+    "title": "Crispy Corn Fritters",
     "tags": [
-      "crisp-texture",
-      "garlicky-dishes",
-      "malaysian-cuisine",
-      "quick-meal",
-      "stone-bowl-recipes",
-      "vegetarian-option"
+      "corn",
+      "fritters",
+      "snack",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 25,
     "shard": "q"
   },
@@ -15212,16 +15211,15 @@
   },
   {
     "slug": "quietly-rich-algerian-mushroom-tagine",
-    "title": "Quietly Rich Algerian Mushroom Tagine",
+    "title": "Algerian Tagine Stew",
     "tags": [
-      "gluten-free",
-      "mushroom-based",
+      "algerian",
       "north-african",
-      "one-pot",
-      "special-occasion",
-      "vegetarian"
+      "stew",
+      "chicken",
+      "mushroom"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 50,
     "shard": "q"
   },
