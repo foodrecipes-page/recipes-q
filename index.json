@@ -9331,20 +9331,14 @@
   },
   {
     "slug": "quick-jammy-filipino-ciabatta-toast",
-    "title": "Quick Jammy Filipino Ciabatta Toast",
+    "title": "Filipino-Style Breakfast Sandwich",
     "tags": [
       "breakfast",
-      "coconut-based",
-      "dairy-free",
-      "filipino",
-      "jammy",
-      "low-carb",
-      "low-fat",
-      "quick-fix",
-      "weeknight"
+      "sandwich",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -9488,17 +9482,16 @@
   },
   {
     "slug": "quick-k-maize-ugali",
-    "title": "Quick K Maize Ugali",
+    "title": "Quick Ugali with K and Maize",
     "tags": [
-      "gluten-free",
-      "kenyan",
-      "maize-ugali",
-      "quick-recipe",
-      "solo-dinner",
-      "traditional"
+      "quick",
+      "ugali",
+      "k",
+      "maize",
+      "breakfast"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 12,
+    "cuisine": "east_african",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -15144,17 +15137,15 @@
   },
   {
     "slug": "quietly-quintessential-peruvian-olive-tiradito",
-    "title": "Quietly Quintessential Peruvian Olive Tiradito",
+    "title": "Olive and Peruvian Inspired Tiradito",
     "tags": [
-      "copper-mug",
-      "easy-recipe",
-      "gluten-free",
-      "low-calorie",
-      "peruvian-cuisine",
-      "quick-snack"
+      "peruvian",
+      "tiradito",
+      "snack",
+      "fish"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
