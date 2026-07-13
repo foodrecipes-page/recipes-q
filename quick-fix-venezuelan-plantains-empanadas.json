@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fix-venezuelan-plantains-empanadas",
+  "title": "Venezuelan Plantain Empanadas",
+  "description": "A classic Venezuelan dish of crispy empanadas filled with sweet plantains and served with a side of salsa or guacamole.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "2",
+      "notes": "Green or ripe"
+    },
+    {
+      "name": "Venezuelan Empanada Dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Quick Cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional, for extra flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing empanadas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel the plantains and slice them into 1-inch pieces.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the plantains to the skillet and cook until they're tender and lightly browned.",
+    "Season the plantains with salt and pepper to taste.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon or two of the plantain mixture onto the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until they're golden brown.",
+    "Serve the empanadas warm with a side of salsa or guacamole."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "plantains",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-venezuelan-plantains-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:27:11.421Z"
+}
