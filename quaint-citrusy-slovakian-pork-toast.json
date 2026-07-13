@@ -1,0 +1,76 @@
+{
+  "slug": "quaint-citrusy-slovakian-pork-toast",
+  "title": "Slovakian Pork Paninis",
+  "description": "A delicious Slovakian-inspired dish featuring tender pork and crunchy toast, all held together with the perfect balance of flavors.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "quaint cheese",
+      "amount": "1 cup, shredded",
+      "notes": "such as Gruyère or Emmental"
+    },
+    {
+      "name": "citrusy aioli",
+      "amount": "1/2 cup",
+      "notes": "made with mayonnaise, lemon juice, and zest"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "slovakian spices",
+      "amount": "1 teaspoon",
+      "notes": "such as caraway seeds or paprika"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the pork with Slovakian spices, salt, and pepper.",
+    "Grill the pork until browned and cooked through, about 5-6 minutes per side.",
+    "Meanwhile, toast the bread until crispy.",
+    "Spread a layer of citrusy aioli on each toasted bread slice.",
+    "Add sliced pork and top with quaint cheese.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "panini",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-citrusy-slovakian-pork-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:57:00.151Z"
+}
