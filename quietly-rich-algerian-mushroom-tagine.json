@@ -1,0 +1,79 @@
+{
+  "slug": "quietly-rich-algerian-mushroom-tagine",
+  "title": "Algerian Tagine Stew",
+  "description": "A hearty North African stew made with tender meat and flavorful spices. Serve over couscous for a truly authentic experience.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rich Chicken Thighs",
+      "amount": "2 lbs",
+      "notes": "Bone-in for added flavor"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tbsp",
+      "notes": "Ground spice blend"
+    },
+    {
+      "name": "Algerian Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For browning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the chicken on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the mushrooms until they release their liquid and start to brown.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Return the chicken to the pot and add the cumin, salt, and pepper. Stir to combine.",
+    "Add enough water to cover the chicken and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes or until the chicken is tender.",
+    "Serve hot over couscous, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "north-african",
+    "stew",
+    "chicken",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-algerian-mushroom-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:06:17.250Z"
+}
