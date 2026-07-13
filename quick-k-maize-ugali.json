@@ -1,0 +1,58 @@
+{
+  "slug": "quick-k-maize-ugali",
+  "title": "Quick Ugali with K and Maize",
+  "description": "A simple and traditional East African dish made with quick ugali and topped with k and maize.",
+  "cuisine": "east_african",
+  "diet": [
+    "gluten_free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quick ugali",
+      "amount": "2 cups"
+    },
+    {
+      "name": "k",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "maize",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Boil 2 cups of water in a large pot.",
+    "Add 1 cup of quick ugali flour and stir to combine.",
+    "Cook for 2-3 minutes or until the mixture thickens.",
+    "Transfer the ugali to a serving plate.",
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add 1 cup of chopped k and cook for 2-3 minutes or until lightly browned.",
+    "Add 1 cup of grated maize and cook for another 2 minutes.",
+    "Serve the k and maize mixture on top of the ugali."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "ugali",
+    "k",
+    "maize",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-k-maize-ugali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T21:04:42.660Z"
+}
