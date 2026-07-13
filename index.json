@@ -3658,17 +3658,16 @@
   },
   {
     "slug": "quenched-post-workout-german-oysters-grill",
-    "title": "quenched post-workout german oysters grill",
+    "title": "Grilled Oysters with German-Style Salsa",
     "tags": [
-      "30-min-meal",
-      "easy-to-make",
       "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "seafood",
+      "german",
+      "salsa",
+      "easy-to-make"
     ],
     "cuisine": "german",
-    "totalTimeMin": 18,
+    "totalTimeMin": 16,
     "shard": "q"
   },
   {
@@ -15390,14 +15389,13 @@
     "slug": "quietly-savory-syrian-lamb-kebabs",
     "title": "Syrian Lamb Kebabs",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "syrian",
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 36,
     "shard": "q"
   },
   {
@@ -17628,6 +17626,19 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--keto",
+    "title": "Indian-Style Hake with Yeasty Breading",
+    "tags": [
+      "indian",
+      "keto",
+      "low-carb",
+      "fish"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
