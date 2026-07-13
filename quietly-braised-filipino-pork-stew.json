@@ -1,0 +1,78 @@
+{
+  "slug": "quietly-braised-filipino-pork-stew",
+  "title": "Braised Pork Stew",
+  "description": "A classic comfort food dish from the Philippines, this braised pork stew is a hearty and flavorful meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "pork broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the pork shoulder on all sides, about 5 minutes.",
+    "Remove the pork and set aside.",
+    "Add more oil if necessary and sauté the onions and garlic until softened.",
+    "Add the pork broth, soy sauce, brown sugar, bay leaves, and black peppercorns.",
+    "Return the pork to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the pork for 2 1/2 to 3 hours, or until tender.",
+    "Season with salt to taste.",
+    "Serve hot garnished with chopped green onions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "pork",
+    "stew",
+    "braised",
+    "filipino",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-braised-filipino-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:25:03.200Z"
+}
