@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-pungent-russian-shallots-pasta",
+  "title": "Russian Shallots Quietly Cooked Pasta",
+  "description": "A simple, comforting pasta dish made with quietly-cooked shallots and pungent flavors. Serve with a side of crusty bread for a cozy meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "quietly",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "russian",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-low heat.",
+    "Add the sliced shallots and cook, stirring occasionally, for 15-20 minutes or until they are caramelized and dark golden brown.",
+    "Stir in the chopped fresh dill and cook for an additional 1-2 minutes.",
+    "Drain the cooked pasta and add it to the skillet with the shallot mixture.",
+    "Toss the pasta to combine with the shallots and dill.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-pungent-russian-shallots-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:00:50.818Z"
+}
