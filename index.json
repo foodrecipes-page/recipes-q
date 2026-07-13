@@ -219,17 +219,15 @@
   },
   {
     "slug": "quaint-citrusy-slovakian-pork-toast",
-    "title": "Quaint Citrusy Slovakian Pork Toast",
+    "title": "Slovakian Pork Paninis",
     "tags": [
-      "citrusy-flavors",
-      "comfort-food",
-      "date-night",
-      "easy-dinner",
-      "pork-recipes",
-      "slovakian-cuisine"
+      "slovakian",
+      "pork",
+      "panini",
+      "grilled"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -10368,17 +10366,14 @@
   },
   {
     "slug": "quick-quenched-dutch-portobello-casserole",
-    "title": "Quick Quenched Dutch Portobello Casserole",
+    "title": "Portobello Mushroom Casserole",
     "tags": [
-      "comfort-food",
-      "date-night",
-      "dutch-cuisine",
-      "mushroom-based",
-      "one-pan",
-      "vegan-friendly"
+      "mushroom",
+      "casserole",
+      "vegetarian"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
