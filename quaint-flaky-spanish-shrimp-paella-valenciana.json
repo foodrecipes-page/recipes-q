@@ -1,0 +1,77 @@
+{
+  "slug": "quaint-flaky-spanish-shrimp-paella-valenciana",
+  "title": "Spanish Paella",
+  "description": "A traditional Spanish dish originating from the Valencia region, typically made with rice, seafood, and vegetables.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quaint Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "valenciana paella seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "valencia olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped bell pepper",
+      "amount": "1",
+      "notes": "medium"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the onion, garlic, and bell pepper, and cook until the vegetables are tender.",
+    "Add the shrimp and cook until pink and fully cooked.",
+    "Add the paella seasoning, sea salt, and rice, stirring to combine.",
+    "Cook for 1-2 minutes, then add 2 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-flaky-spanish-shrimp-paella-valenciana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:01:32.146Z"
+}
