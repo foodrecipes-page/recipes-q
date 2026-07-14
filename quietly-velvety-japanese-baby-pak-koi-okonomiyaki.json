@@ -1,0 +1,89 @@
+{
+  "slug": "quietly-velvety-japanese-baby-pak-koi-okonomiyaki",
+  "title": "Koi-Pak Okonomiyaki with Japanese Twist",
+  "description": "A fusion twist on the classic Japanese street food, incorporating unique flavors and ingredients. Enjoy the delicate balance of sweet and savory.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Okonomiyaki Mix",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Koi (Goldfish) Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pak Choy",
+      "amount": "1 bunch",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Baby Corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Mayo",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Quietly Pan",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Velvety Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Heat the Quietly Pan over medium heat.",
+    "In a bowl, whisk together Japanese Mayo, Soy Sauce, and Sesame Oil.",
+    "Add the beaten Velvety Eggs to the bowl and mix well.",
+    "Add the Okonomiyaki Mix, Koi Sauce, and a pinch of salt to the bowl and mix until combined.",
+    "Add the cut Pak Choy and Baby Corn to the bowl and mix well.",
+    "Pour the egg mixture into the Quietly Pan and cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the Okonomiyaki and cook for an additional 2-3 minutes or until the other side is golden brown.",
+    "Serve hot and enjoy!",
+    "Optional: Top with additional Koi Sauce, sliced green onions, and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "veggie",
+    "fritter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-velvety-japanese-baby-pak-koi-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:43:31.424Z"
+}
