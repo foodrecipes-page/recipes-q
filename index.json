@@ -2719,17 +2719,14 @@
   },
   {
     "slug": "quenched-garlic-russian-chicken-dumplings",
-    "title": "Quenched Garlic Russian Chicken Dumplings",
+    "title": "Russian Chicken Dumplings",
     "tags": [
-      "comfort-food",
-      "garlic-lovers",
-      "high-protein",
-      "one-pan",
-      "russian-cuisine",
-      "weeknight"
+      "chicken",
+      "dumplings",
+      "russian"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 50,
+    "cuisine": "Russian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -7051,16 +7048,16 @@
   },
   {
     "slug": "quick-fix-indian-chicken-butter-chicken-curry",
-    "title": "Quick Fix Indian Chicken Butter Chicken Curry",
+    "title": "Quick Chicken Curry",
     "tags": [
-      "dairy",
-      "easy-dinner",
+      "chicken",
+      "curry",
       "indian",
-      "quick-fix",
-      "weeknight"
+      "quick",
+      "easy"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 60,
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
