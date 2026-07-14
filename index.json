@@ -7454,12 +7454,11 @@
     "title": "Argentinian Masarepa Toast",
     "tags": [
       "breakfast",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "argentinian",
+      "simple"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -16262,17 +16261,15 @@
   },
   {
     "slug": "quintessential-briny-malaysian-fish-curry",
-    "title": "Quintessential Briny Malaysian Fish Curry",
+    "title": "Malaysian Fish Curry",
     "tags": [
-      "coconut-milk",
-      "deep-fry",
       "fish-curry",
-      "halal-friendly",
       "malaysian-cuisine",
-      "romantic-dinner"
+      "coconut-milk",
+      "spicy"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -16807,18 +16804,15 @@
   },
   {
     "slug": "quintessentially-pungent-moroccan-lamb-tagine-with-kebabs",
-    "title": "quintessentially pungent moroccan lamb tagine with kebabs",
+    "title": "Moroccan Lamb Kebabs with Tagine",
     "tags": [
-      "high-protein",
       "kebabs",
       "lamb",
       "moroccan",
-      "one-pan",
-      "tagine",
-      "weeknight"
+      "tagine"
     ],
-    "cuisine": "moroccan",
-    "totalTimeMin": 65,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
