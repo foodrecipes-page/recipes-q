@@ -1,0 +1,99 @@
+{
+  "slug": "quick-greek-lamb-kebabs",
+  "title": "Greek Lamb Kebabs",
+  "description": "Quick and flavorful Greek lamb kebabs, perfect for a summer evening. Marinate the lamb in a mix of olive oil, lemon juice, and herbs before grilling to perfection.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Quick skewers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the yogurt, olive oil, lemon juice, garlic, and oregano.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto the skewers, leaving a small space between each piece.",
+    "Season with salt and pepper to taste.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and let rest for 5 minutes before serving.",
+    "Serve the kebabs hot with a side of pita bread, lemon wedges, and a sprinkle of parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:24:07.598Z"
+}
