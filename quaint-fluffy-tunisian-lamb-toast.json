@@ -1,0 +1,69 @@
+{
+  "slug": "quaint-fluffy-tunisian-lamb-toast",
+  "title": "Tunisian Lamb Koftas",
+  "description": "A simple and flavorful dish from Tunisia made with lamb and spices, served with toasted bread.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "minced"
+    },
+    {
+      "name": "quaint",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb, quaint, fluffy, and tunisian.",
+    "Mix well with your hands until just combined.",
+    "Don't overmix.",
+    "Shape into 8-10 koftas.",
+    "Thread koftas onto skewers.",
+    "Grill for 5-6 minutes per side, or until cooked through.",
+    "Serve with toasted bread.",
+    "Toast the bread by grilling for 1-2 minutes per side, or until lightly browned.",
+    "Serve with koftas and your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "grilled",
+    "snack",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-tunisian-lamb-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:44:36.741Z"
+}
