@@ -1,0 +1,74 @@
+{
+  "slug": "quietly-baked-norwegian-fennel-bake",
+  "title": "Norwegian Fennel Bake with Quietly Baked Salmon",
+  "description": "A simple and flavorful dish originating from Norway, featuring a delicate salmon fillet baked to perfection with fennel and a touch of Norwegian flair.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet (6 oz)",
+      "amount": "1",
+      "notes": "quietly baked"
+    },
+    {
+      "name": "Fennel bulb",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the salmon fillet and pat dry with paper towels.",
+    "Season the salmon with salt and black pepper.",
+    "In a baking dish, arrange the sliced fennel in a single layer.",
+    "Place the salmon fillet on top of the fennel.",
+    "dot the top of the salmon with butter.",
+    "Bake in the preheated oven for 12-15 minutes or until cooked through.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "salmon",
+    "fennel",
+    "norwegian",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-baked-norwegian-fennel-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:36:51.914Z"
+}
