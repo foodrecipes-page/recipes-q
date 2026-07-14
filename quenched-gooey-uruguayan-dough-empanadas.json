@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-gooey-uruguayan-dough-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A classic Uruguayan dish filled with gooey cheese and savory meat, perfect for a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "all-purpose",
+      "notes": "for the dough"
+    },
+    {
+      "name": "1 cup warm water",
+      "amount": "1 cup",
+      "notes": "for the dough"
+    },
+    {
+      "name": "1/4 cup uruguayan cheese",
+      "amount": "1/4 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1/2 cup ground beef",
+      "amount": "1/2 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1/4 cup chopped onion",
+      "amount": "1/4 cup",
+      "notes": "for the filling"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing the dough"
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": "1 egg",
+      "notes": "for brushing the dough"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine flour and warm water to form the dough.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Let the dough rest for 30 minutes.",
+    "Mix the cheese, beef, onion, and olive oil for the filling.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the filling in the center of each circle.",
+    "Fold the dough in half and press the edges to seal.",
+    "Brush the tops with beaten egg.",
+    "Bake for 20-25 minutes until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-gooey-uruguayan-dough-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:55:21.853Z"
+}
