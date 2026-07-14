@@ -1,0 +1,92 @@
+{
+  "slug": "quenched-crispy-fried-malaysian-tofu-satay",
+  "title": "Crispy Satay Tofu",
+  "description": "A popular Malaysian dish, this recipe combines the crunch of satay with the simplicity of tofu. A perfect snack for any occasion.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat for best results"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crispy rice",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, whisk together coconut milk and satay sauce.",
+    "2. Add the tofu cubes to the marinade and toss to coat.",
+    "3. Heat 2 tablespoons of peanut oil in a large skillet over medium-high heat.",
+    "4. Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "5. Fry the tofu until golden brown and crispy, about 3-4 minutes per side.",
+    "6. Remove the tofu from the skillet and place on a paper towel-lined plate to drain excess oil.",
+    "7. In the same skillet, add the remaining 2 tablespoons of peanut oil.",
+    "8. Reduce heat to medium and add the crispy rice. Cook, stirring frequently, until lightly toasted.",
+    "9. To serve, place a few pieces of fried tofu on a plate, top with toasted crispy rice, and garnish with chopped peanuts and a lime wedge.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "malaysian",
+    "tofu",
+    "crispy",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-crispy-fried-malaysian-tofu-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:05:19.021Z"
+}
