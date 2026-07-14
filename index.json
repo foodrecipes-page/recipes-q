@@ -2801,17 +2801,14 @@
   },
   {
     "slug": "quenched-gooey-uruguayan-dough-empanadas",
-    "title": "Quenched Gooey Uruguayan Dough Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "crowd-pleaser",
-      "flexitarian-friendly",
-      "gooey-pastry",
-      "malty-flavors",
-      "snack-time",
-      "uruguayan-cuisine"
+      "empanadas",
+      "uruguayan",
+      "snack"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -7703,17 +7700,14 @@
   },
   {
     "slug": "quick-fix-sour-croatian-bread-bake",
-    "title": "Quick Fix Sour Croatian Bread Bake",
+    "title": "Croatian Bread Bake",
     "tags": [
-      "bread",
-      "one-pan",
-      "quick-fix",
+      "breakfast",
       "snack",
-      "sourdough",
-      "weeknight"
+      "easy"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -13590,17 +13584,16 @@
   },
   {
     "slug": "quietly-baked-norwegian-fennel-bake",
-    "title": "Quietly Baked Norwegian Fennel Bake",
+    "title": "Norwegian Fennel Bake with Quietly Baked Salmon",
     "tags": [
-      "funky-texture",
-      "midnight-craving",
-      "norwegian-cuisine",
-      "satvik-friendly",
-      "vegetarian",
-      "wood-fired"
+      "fish",
+      "salmon",
+      "fennel",
+      "norwegian",
+      "baked"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
