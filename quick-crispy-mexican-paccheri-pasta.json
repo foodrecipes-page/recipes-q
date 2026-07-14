@@ -1,0 +1,97 @@
+{
+  "slug": "quick-crispy-mexican-paccheri-pasta",
+  "title": "Mexican Pasta Bake",
+  "description": "A quick and easy pasta bake recipe inspired by Mexican flavors. This dish is perfect for a weeknight dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri pasta",
+      "amount": "8 oz",
+      "notes": "Any pasta shape will work, but paccheri is recommended for this recipe."
+    },
+    {
+      "name": "Quick taco seasoning",
+      "amount": "2 tsp",
+      "notes": "You can use store-bought taco seasoning or make your own."
+    },
+    {
+      "name": "Crispy tortilla strips",
+      "amount": "1 cup",
+      "notes": "To make crispy tortilla strips, cut tortillas into strips and bake in the oven at 350°F (180°C) for 10 minutes."
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "You can use cheddar, Monterey Jack, or a combination of cheeses."
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "You can use fresh or canned diced tomatoes."
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/2 cup",
+      "notes": "You can use fresh or frozen diced onion."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "You can use fresh or dried cilantro."
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "Optional, but adds a nice tangy flavor to the dish."
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "You can use store-bought or homemade salsa."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use salt to taste, but be mindful of the amount of sodium already present in the taco seasoning and cheese."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the paccheri pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat. Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the taco seasoning to the skillet and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes to the skillet and cook for 2-3 minutes, until they start to break down.",
+    "Stir in the shredded cheese until melted and well combined.",
+    "In a large bowl, combine the cooked pasta, taco mixture, and crispy tortilla strips. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with additional shredded cheese.",
+    "Bake in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving. Garnish with chopped cilantro and a dollop of sour cream, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "pasta",
+    "bake",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-mexican-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:39:54.846Z"
+}
