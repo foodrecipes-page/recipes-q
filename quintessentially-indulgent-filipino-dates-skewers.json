@@ -1,0 +1,77 @@
+{
+  "slug": "quintessentially-indulgent-filipino-dates-skewers",
+  "title": "Grilled Pork Skewers with Date Glaze",
+  "description": "A sweet and savory Filipino-inspired dish featuring pork skewers glazed with a date reduction. Perfect for a summer evening or outdoor gathering.",
+  "cuisine": "filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes before using"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pork cubes onto skewers, leaving a small space between each piece.",
+    "In a small saucepan, combine dates, soy sauce, brown sugar, and fish sauce (if using).",
+    "Bring mixture to a boil over medium heat, then reduce heat to low and simmer for 10-15 minutes or until reduced and syrupy.",
+    "Grill skewers for 8-10 minutes per side, or until pork is cooked through and slightly charred.",
+    "Brush with date glaze during last minute of grilling.",
+    "Serve hot, garnished with chopped fresh herbs (such as parsley or cilantro)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "grilled",
+    "pork",
+    "skewers",
+    "date-glazed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-indulgent-filipino-dates-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:24:27.683Z"
+}
