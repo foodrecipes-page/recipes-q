@@ -1,0 +1,107 @@
+{
+  "slug": "quintessentially-pungent-moroccan-lamb-tagine-with-kebabs",
+  "title": "Moroccan Lamb Kebabs with Tagine",
+  "description": "A traditional Moroccan dish featuring lamb kebabs cooked with a flavorful tagine sauce, served with crusty bread and fresh herbs.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush grill with olive oil to prevent sticking.",
+    "Grill lamb kebabs for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, heat a large skillet over medium heat.",
+    "Add onion, garlic, and ginger to the skillet and cook, stirring occasionally, until the onion is softened.",
+    "Stir in cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add lamb tagine sauce (see below) to the skillet and stir to combine.",
+    "Serve lamb kebabs with the tagine sauce spooned over the top and garnished with parsley and cilantro.",
+    "Serve with crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "moroccan",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-pungent-moroccan-lamb-tagine-with-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:42:28.254Z"
+}
