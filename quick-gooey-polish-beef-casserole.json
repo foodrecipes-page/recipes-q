@@ -1,0 +1,92 @@
+{
+  "slug": "quick-gooey-polish-beef-casserole",
+  "title": "Polish Beef Casserole",
+  "description": "A hearty casserole filled with tender beef, gooey cheese, and a touch of polish flair.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Quick Polish Sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Casserole Filling Mix",
+      "amount": "1 box",
+      "notes": "available at most grocery stores"
+    },
+    {
+      "name": "Gooey Cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella works well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "to thicken the sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Brown the ground beef in a large skillet over medium-high heat. Drain excess fat.",
+    "Add the sliced polish sausage and cook until browned.",
+    "Add the chopped onion and minced garlic and cook until softened.",
+    "Stir in the casserole filling mix, shredded cheese, salt, and pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a small bowl, mix the flour and a splash of water to create a slurry.",
+    "Pour the slurry over the casserole mixture and stir to combine.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "casserole",
+    "polish",
+    "comfort-food",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-gooey-polish-beef-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:17:07.309Z"
+}
