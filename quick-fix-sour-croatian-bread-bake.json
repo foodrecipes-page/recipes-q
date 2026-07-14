@@ -1,0 +1,62 @@
+{
+  "slug": "quick-fix-sour-croatian-bread-bake",
+  "title": "Croatian Bread Bake",
+  "description": "A delicious, easy-to-make Croatian bread bake using quick fix bread.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Quick Fix Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Croatian Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bake Mix",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Crumb the bread and set aside.",
+    "Mix the sour cream and Croatian cheese.",
+    "Combine the bread crumbs and bake mix.",
+    "Add the bread crumb mixture to the sour cream mixture.",
+    "Pour the mixture into a baking dish.",
+    "Bake for 25-30 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-sour-croatian-bread-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:34:47.477Z"
+}
