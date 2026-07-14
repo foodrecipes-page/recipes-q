@@ -1,0 +1,94 @@
+{
+  "slug": "quick-sauteed-malaysian-beef-stir-fry",
+  "title": "Malaysian Beef Stir Fry",
+  "description": "Quick and flavorful beef stir fry with a Malaysian twist. This dish is great as a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok.",
+    "Add the onion and garlic and cook until the onion is translucent, about 2-3 minutes.",
+    "Add the bell pepper and cook for an additional 2 minutes.",
+    "Add the soy sauce, fish sauce, sugar, and chili flakes to the wok. Stir to combine.",
+    "Add the cooked beef back into the wok and stir to combine with the sauce.",
+    "Add the bean sprouts to the wok and stir to combine. Cook for an additional 2-3 minutes.",
+    "Serve the beef stir fry hot over steamed rice.",
+    " Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sauteed-malaysian-beef-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:16:05.796Z"
+}
