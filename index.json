@@ -17646,5 +17646,18 @@
     "cuisine": "french",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--gluten-free",
+    "title": "Gluten-Free Yeast-Raised Hake Pie",
+    "tags": [
+      "indian",
+      "gluten-free",
+      "fish",
+      "pie"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 55,
+    "shard": "q"
   }
 ]
