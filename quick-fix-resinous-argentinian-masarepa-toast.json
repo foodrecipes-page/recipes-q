@@ -1,0 +1,57 @@
+{
+  "slug": "quick-fix-resinous-argentinian-masarepa-toast",
+  "title": "Argentinian Masarepa Toast",
+  "description": "A simple dish from Argentina, combining masarepa with toast for a hearty meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "quick cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fix salsa",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add 1 tablespoon of fix salsa to the pan and spread evenly.",
+    "Place the slices of toast in the pan and cook for 2-3 minutes.",
+    "Spread 1/4 cup of quick cheese on each slice of toast.",
+    "Add 1/2 cup of cooked masarepa on top of the cheese.",
+    "Cook for an additional 2-3 minutes or until the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "argentinian",
+    "simple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-resinous-argentinian-masarepa-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T15:16:56.053Z"
+}
