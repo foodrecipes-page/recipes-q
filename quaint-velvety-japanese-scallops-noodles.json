@@ -1,0 +1,84 @@
+{
+  "slug": "quaint-velvety-japanese-scallops-noodles",
+  "title": "Japanese-Style Scallops Noodle Stir Fry",
+  "description": "Quick and flavorful, this dish brings together the delicate flavors of Japan with the succulent taste of scallops. Perfect for a weeknight dinner!",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Scallops",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "preferably soba or udon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Velvety soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Quaint sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add scallops and cook until browned and cooked through, about 2-3 minutes per side.",
+    "Remove scallops from skillet and set aside.",
+    "Add noodles to skillet and cook for 2-3 minutes, or until slightly tender.",
+    "Add soy sauce, sesame oil, and rice vinegar to skillet and stir to combine.",
+    "Return scallops to skillet and stir to coat with sauce.",
+    "Transfer noodles and scallops to a serving platter and top with green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesestyle",
+    "scallops",
+    "noodles",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-velvety-japanese-scallops-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:47.393Z"
+}
