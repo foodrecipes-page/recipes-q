@@ -1,0 +1,68 @@
+{
+  "slug": "quick-lazy-sunday-tomato-raclette",
+  "title": "Lazy Sunday Brunch",
+  "description": "A simple and delicious brunch recipe perfect for a relaxing Sunday morning.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Raclette",
+      "amount": "8 oz",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Quick bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Lazy eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Sunday hash browns",
+      "amount": "1 bag",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the raclette and set aside.",
+    "3. Bake the quick bread according to the package instructions.",
+    "4. Scramble the lazy eggs in a bowl.",
+    "5. Hash brown the Sunday hash browns in a pan.",
+    "6. Top the bread with scrambled eggs, hash browns, and sliced raclette.",
+    "7. Serve warm and enjoy!",
+    "8. Wash the dishes and take a nap."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "lazy"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-lazy-sunday-tomato-raclette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:31:11.406Z"
+}
