@@ -1490,17 +1490,15 @@
   },
   {
     "slug": "quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
-    "title": "Quaint Yeasty Peruvian Chicken Drumsticks Anticuchos",
+    "title": "Peruvian Style Grilled Chicken Anticuchos",
     "tags": [
-      "cheese-pull",
-      "cozy-dinner",
-      "grill-or-bake",
-      "high-protein",
-      "peruvian-cuisine",
-      "yeasty"
+      "peruvian",
+      "grilled",
+      "chicken",
+      "anticuchos"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -8722,17 +8720,16 @@
   },
   {
     "slug": "quick-gooey-polish-beef-casserole",
-    "title": "Quick Gooey Polish Beef Casserole",
+    "title": "Polish Beef Casserole",
     "tags": [
       "beef",
       "casserole",
+      "polish",
       "comfort-food",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight"
+      "easy-dinner"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 65,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -15225,17 +15222,17 @@
   },
   {
     "slug": "quietly-rich-polish-rye-bread-toast",
-    "title": "Quietly Rich Polish Rye Bread Toast",
+    "title": "Polish Open-Faced Sandwich",
     "tags": [
-      "easy-dinner",
-      "mortar-pestle",
-      "polish-cuisine",
-      "rye-bread",
-      "vegan-friendly",
-      "wholesome-food"
+      "polish",
+      "sandwich",
+      "salmon",
+      "rye",
+      "bread",
+      "toast"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
