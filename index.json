@@ -2927,18 +2927,15 @@
   },
   {
     "slug": "quenched-italian-jerusalem-artichokes-cake",
-    "title": "Quenched Italian Jerusalem Artichokes Cake",
+    "title": "Jerusalem Artichoke Fritters",
     "tags": [
-      "agave-leaf",
-      "jerusalem-artichokes",
-      "light",
-      "panforte",
-      "resinous",
-      "solo-dinner",
-      "vegan"
+      "italian",
+      "snack",
+      "fritters",
+      "vegetarian"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -11864,17 +11861,16 @@
   },
   {
     "slug": "quick-spicy-jamaican-chicken-curry",
-    "title": "Quick Spicy Jamaican Chicken Curry",
+    "title": "Jamaican Curry Chicken",
     "tags": [
-      "chicken",
+      "jamaican",
       "curry",
-      "easy-to-make",
-      "one-pan",
+      "chicken",
       "spicy",
-      "weeknight"
+      "quick"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
