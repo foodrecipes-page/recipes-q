@@ -1,0 +1,89 @@
+{
+  "slug": "quenched-garlic-russian-chicken-dumplings",
+  "title": "Russian Chicken Dumplings",
+  "description": "A hearty Russian-inspired dish featuring chicken and dumplings in a savory sauce.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "quenched dumplings",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "russian dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the quenched dumplings according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the russian dill and cook for 1 minute.",
+    "Reduce heat to medium-low and simmer for 5 minutes.",
+    "Stir in the sour cream and cook for an additional 2 minutes.",
+    "Serve the chicken and sauce over the cooked dumplings.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dumplings",
+    "russian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-garlic-russian-chicken-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:04:49.381Z"
+}
