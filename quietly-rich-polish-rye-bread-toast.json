@@ -1,0 +1,63 @@
+{
+  "slug": "quietly-rich-polish-rye-bread-toast",
+  "title": "Polish Open-Faced Sandwich",
+  "description": "A simple yet flavorful Polish-inspired open-faced sandwich made with rye bread, rich ingredients, and a hint of quiet elegance.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Quietly Smoked Salmon",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Polish-Style Butter",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Crunchy Toast",
+      "amount": "4 slices",
+      "notes": "toasted until crispy"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Slice the rye bread into 1-inch thick slices and toast until crispy.",
+    "Spread a generous amount of Polish-style butter on each toasted rye slice.",
+    "Top each slice with a layer of quietly smoked salmon.",
+    "Garnish with fresh herbs, such as parsley or dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "sandwich",
+    "salmon",
+    "rye",
+    "bread",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-polish-rye-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T10:17:27.538Z"
+}
