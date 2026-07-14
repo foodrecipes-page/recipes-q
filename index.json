@@ -8783,13 +8783,12 @@
   },
   {
     "slug": "quick-greek-lamb-kebabs",
-    "title": "Quick Greek Lamb Kebabs",
+    "title": "Greek Lamb Kebabs",
     "tags": [
-      "date-night",
-      "greek-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "greek",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
@@ -9416,16 +9415,15 @@
   },
   {
     "slug": "quick-japanese-red-bean-dorayaki",
-    "title": "Quick Japanese Red Bean Dorayaki",
+    "title": "Japanese-Style Dorayaki Breakfast Pancakes",
     "tags": [
-      "easy-cooking",
-      "japanese-snack",
-      "one-pan",
-      "quick-snack",
-      "satvik-friendly"
+      "japanese",
+      "breakfast",
+      "dessert",
+      "pancakes"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
