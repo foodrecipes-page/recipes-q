@@ -641,17 +641,15 @@
   },
   {
     "slug": "quaint-fluffy-tunisian-lamb-toast",
-    "title": "Quaint Fluffy Tunisian Lamb Toast",
+    "title": "Tunisian Lamb Koftas",
     "tags": [
-      "gluten-free",
-      "keto-friendly",
-      "lamb-recipes",
-      "low-carb",
-      "special-occasion",
-      "tunisian-cuisine"
+      "lamb",
+      "grilled",
+      "snack",
+      "tunisian"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -2341,18 +2339,16 @@
   },
   {
     "slug": "quenched-crispy-fried-malaysian-tofu-satay",
-    "title": "Quenched Crispy Fried Malaysian Tofu Satay",
+    "title": "Crispy Satay Tofu",
     "tags": [
-      "dinner-party",
-      "high-protein",
-      "malaysian-cuisine",
-      "one-pan",
       "snack",
-      "vegan-friendly",
-      "weeknight"
+      "malaysian",
+      "tofu",
+      "crispy",
+      "fried"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -11957,18 +11953,14 @@
   },
   {
     "slug": "quick-spring-braised-filipino-broad-beans-tagine",
-    "title": "Quick Spring Braised Filipino Broad Beans Tagine",
+    "title": "Tagine Braised Beans",
     "tags": [
-      "easy-dinner",
-      "filipino",
-      "one-pot",
-      "spring",
       "tagine",
-      "vegetarian",
-      "weeknight"
+      "braised",
+      "beans"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "cuisine": "Filipino, Moroccan",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -17639,6 +17631,20 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--french",
+    "title": "Baked Hake with Yeast Crust",
+    "tags": [
+      "french",
+      "fish",
+      "baked",
+      "yeast",
+      "crust"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
