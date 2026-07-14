@@ -1,0 +1,94 @@
+{
+  "slug": "quick-spicy-jamaican-chicken-curry",
+  "title": "Jamaican Curry Chicken",
+  "description": "A spicy and flavorful dish made with marinated chicken cooked in a rich Jamaican curry sauce. Serve with rice or roti for a delicious meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "curry oil",
+      "amount": "2 tbsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine curry powder, curry leaves, garlic, ginger, salt, and black pepper. Blend until smooth.",
+    "In a large skillet, heat curry oil over medium-high heat. Add chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add blended spice mixture to the skillet and stir to coat chicken evenly.",
+    "Add chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add hot sauce (if using) and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes or until chicken is cooked through.",
+    "Serve hot with rice or roti, garnished with chopped fresh cilantro (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "curry",
+    "chicken",
+    "spicy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spicy-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:28:31.633Z"
+}
