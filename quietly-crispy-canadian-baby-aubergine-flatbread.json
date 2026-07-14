@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-crispy-canadian-baby-aubergine-flatbread",
+  "title": "Crispy Canadian Baby Aubergine Flatbread",
+  "description": "A delicious and easy-to-make flatbread recipe featuring crispy Canadian baby aubergine. Perfect for a quick snack or light meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Canadian baby aubergine",
+      "amount": "2"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "crispy",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Canadian baby aubergine into 1/4 inch thick rounds.",
+    "Brush both sides of the aubergine slices with olive oil and sprinkle with garlic powder, salt, and pepper.",
+    "Place the aubergine slices on a baking sheet and bake for 15-20 minutes, or until crispy.",
+    "While the aubergine is baking, toast the flatbread in the oven for 2-3 minutes, or until crispy.",
+    "Once the aubergine is done, remove it from the oven and let it cool for a few minutes.",
+    "Top the flatbread with the crispy aubergine slices and serve immediately.",
+    "Optional: sprinkle with crispy for added crunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "aubergine",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-crispy-canadian-baby-aubergine-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:51:27.500Z"
+}
