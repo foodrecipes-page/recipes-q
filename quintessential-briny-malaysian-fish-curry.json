@@ -1,0 +1,83 @@
+{
+  "slug": "quintessential-briny-malaysian-fish-curry",
+  "title": "Malaysian Fish Curry",
+  "description": "A flavorful and spicy fish curry dish inspired by the cuisine of Malaysia. The combination of coconut milk, curry, and fish creates a rich and savory taste experience.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Snapper)",
+      "amount": "1 pound",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Choose a mild or spicy curry paste according to your preference"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "Full-fat coconut milk for richer flavor"
+    },
+    {
+      "name": "Quintessential soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Or substitute with regular soy sauce"
+    },
+    {
+      "name": "Briny fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Optional for added umami flavor"
+    },
+    {
+      "name": "Malaysian chili peppers",
+      "amount": "2-3",
+      "notes": "Sliced or chopped for added heat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the fish pieces and cook until browned on all sides, about 3-4 minutes.",
+    "Pour in coconut milk, soy sauce, and fish sauce (if using). Stir to combine.",
+    "Bring the mixture to a simmer, then reduce heat to medium-low.",
+    "Add sliced chili peppers and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-curry",
+    "malaysian-cuisine",
+    "coconut-milk",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-briny-malaysian-fish-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:05:38.951Z"
+}
