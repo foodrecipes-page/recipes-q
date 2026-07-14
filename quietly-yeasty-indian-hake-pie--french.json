@@ -1,0 +1,69 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--french",
+  "title": "Baked Hake with Yeast Crust",
+  "description": "A French-inspired dish featuring a yeast-based crust topped with a delicate hake filling.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "skin removed"
+    },
+    {
+      "name": "yeast",
+      "amount": "1/2 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "unsifted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large mixing bowl, combine yeast, flour, and salt. Gradually add warm water, mixing until a dough forms.",
+    "Roll out the dough to a thickness of 1/4 inch (6 mm).",
+    "Place the hake fillets in the center of the dough, leaving a 1-inch (2.5 cm) border around each fillet.",
+    "Fold the dough over the fish, pressing edges to seal.",
+    "Place the pie crust on top of the fish, pressing edges to seal.",
+    "Brush the crust with egg wash (beaten egg mixed with a little water).",
+    "Bake for 20-25 minutes or until the crust is golden brown and the fish is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "fish",
+    "baked",
+    "yeast",
+    "crust"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:07:08.502Z"
+}
