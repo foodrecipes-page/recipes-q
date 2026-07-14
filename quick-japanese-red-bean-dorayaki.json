@@ -1,0 +1,84 @@
+{
+  "slug": "quick-japanese-red-bean-dorayaki",
+  "title": "Japanese-Style Dorayaki Breakfast Pancakes",
+  "description": "A traditional Japanese dessert turned into a delicious breakfast treat. Soft, fluffy pancakes filled with sweet red bean paste.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dorayaki",
+      "amount": "4",
+      "notes": "Japanese-style pancakes"
+    },
+    {
+      "name": "red bean paste",
+      "amount": "1 cup",
+      "notes": "sweetened red bean paste"
+    },
+    {
+      "name": "quick bread flour",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "for the pancakes"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "for the red bean paste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 teaspoon",
+      "notes": "for greasing the pan"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, whisk together the flour and sugar.",
+    "2. In a separate bowl, whisk together the eggs, milk, and water.",
+    "3. Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "4. Heat a non-stick pan or griddle over medium heat.",
+    "5. Grease the pan with a small amount of vegetable oil.",
+    "6. Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "7. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "8. Flip the pancakes and cook for an additional 1-2 minutes.",
+    "9. Serve the pancakes with red bean paste and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "breakfast",
+    "dessert",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-red-bean-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:05:30.632Z"
+}
