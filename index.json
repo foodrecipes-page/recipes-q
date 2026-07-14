@@ -540,16 +540,14 @@
   },
   {
     "slug": "quaint-flaky-spanish-shrimp-paella-valenciana",
-    "title": "Quaint Flaky Spanish Shrimp Paella Valenciana",
+    "title": "Spanish Paella",
     "tags": [
-      "coconut-based",
-      "date-night",
-      "paleo-friendly",
-      "seafood",
-      "spanish-cuisine"
+      "spanish",
+      "paella",
+      "seafood"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -852,17 +850,16 @@
   },
   {
     "slug": "quaint-malty-egyptian-chickpeas-wrap",
-    "title": "Quaint Malty Egyptian Chickpeas Wrap",
+    "title": "Egyptian Chickpea Wrap",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "egyptian",
+      "chickpea",
+      "wrap",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -1433,16 +1430,15 @@
   },
   {
     "slug": "quaint-velvety-japanese-scallops-noodles",
-    "title": "Quaint Velvety Japanese Scallops Noodles",
+    "title": "Japanese-Style Scallops Noodle Stir Fry",
     "tags": [
-      "festive-meals",
-      "japanese-cuisine",
-      "noodle-dishes",
-      "raw-friendly",
-      "seafood-lovers"
+      "japanesestyle",
+      "scallops",
+      "noodles",
+      "stirfry"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -5733,14 +5729,12 @@
   },
   {
     "slug": "quick-crispy-mexican-paccheri-pasta",
-    "title": "Quick Crispy Mexican Paccheri Pasta",
+    "title": "Mexican Pasta Bake",
     "tags": [
-      "crispy-pasta",
-      "mexican-food",
-      "one-pot",
-      "pasta-recipes",
-      "quick-dinner",
-      "vegan-recipes"
+      "mexican",
+      "pasta",
+      "bake",
+      "quick"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
@@ -14007,16 +14001,13 @@
   },
   {
     "slug": "quietly-comforting-portuguese-deodeok-root-stew",
-    "title": "Quietly Comforting Portuguese Deodeok Root Stew",
+    "title": "Cozy Deodeok Root Stew",
     "tags": [
-      "comfort-food",
-      "low-sodium",
-      "portuguese-cuisine",
-      "root-vegetables",
       "stew",
-      "winter-meal"
+      "comfort-food",
+      "portuguese-cuisine"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": "portuguese",
     "totalTimeMin": 45,
     "shard": "q"
   },
@@ -14090,17 +14081,15 @@
   },
   {
     "slug": "quietly-crispy-canadian-baby-aubergine-flatbread",
-    "title": "Quietly Crispy Canadian Baby Aubergine Flatbread",
+    "title": "Crispy Canadian Baby Aubergine Flatbread",
     "tags": [
-      "brunch-ideas",
-      "canadian-cuisine",
-      "flatbread-recipes",
-      "plant-based",
-      "vegan-friendly",
-      "vegetarian-options"
+      "canadian",
+      "aubergine",
+      "flatbread",
+      "snack"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -16755,17 +16744,16 @@
   },
   {
     "slug": "quintessentially-indulgent-filipino-dates-skewers",
-    "title": "Quintessentially Indulgent Filipino Dates Skewers",
+    "title": "Grilled Pork Skewers with Date Glaze",
     "tags": [
-      "filipino-food",
-      "grilled-dates",
-      "high-protein",
-      "indulgent-snacks",
-      "quick-and-easy",
-      "vegetarian-options"
+      "filipino",
+      "grilled",
+      "pork",
+      "skewers",
+      "date-glazed"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 23,
+    "cuisine": "filipino",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
