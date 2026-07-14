@@ -1,0 +1,74 @@
+{
+  "slug": "quenched-italian-jerusalem-artichokes-cake",
+  "title": "Jerusalem Artichoke Fritters",
+  "description": "A crispy fritter filled with the sweetness of Jerusalem artichokes, perfect as a snack or side dish.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Italian quenched",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Cake",
+      "amount": "1/4 cup",
+      "notes": "crumbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine grated Jerusalem artichokes, Italian quenched, cake crumbs, salt, and black pepper.",
+    "Mix well to combine.",
+    "Gradually add beaten egg and mix until a thick batter forms.",
+    "Heat olive oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the hot oil.",
+    "Fry until golden brown, about 3-4 minutes.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "fritters",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-italian-jerusalem-artichokes-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:24:26.830Z"
+}
