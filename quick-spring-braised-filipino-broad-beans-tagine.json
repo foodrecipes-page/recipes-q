@@ -1,0 +1,78 @@
+{
+  "slug": "quick-spring-braised-filipino-broad-beans-tagine",
+  "title": "Tagine Braised Beans",
+  "description": "A flavorful and comforting tagine-inspired dish made with braised beans, perfect for a cold evening. This recipe is a fusion of Moroccan and Filipino flavors.",
+  "cuisine": "Filipino, Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "braised beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and ginger and sauté until fragrant.",
+    "Add spring onions and cook until softened.",
+    "Add broad beans and cook for 5 minutes.",
+    "Add braised beans, tagine spice blend, and stir to combine.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped spring onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "braised",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spring-braised-filipino-broad-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T07:01:02.658Z"
+}
