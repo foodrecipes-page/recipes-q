@@ -1,0 +1,77 @@
+{
+  "slug": "quenched-norwegian-almond-ceviche",
+  "title": "Quenched Norwegian Ceviche",
+  "description": "A refreshing ceviche dish combining the flavors of Norway with the tanginess of quenched citrus. Perfect for a light dinner or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quenched citrus juice",
+      "amount": "1/2 cup",
+      "notes": " freshly squeezed"
+    },
+    {
+      "name": "Salmon fillet",
+      "amount": "1 pound",
+      "notes": "sushi-grade"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "1/4 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the salmon into small pieces and place in a large bowl.",
+    "Pour the quenched citrus juice, almond milk, and lemon juice over the salmon.",
+    "Mix well to coat the salmon evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the salmon to 'cook' in the citrus juices.",
+    "Just before serving, sprinkle with chopped fresh parsley if desired.",
+    "Season with salt and black pepper to taste.",
+    "Serve chilled, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "seafood",
+    "ceviche",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-norwegian-almond-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:20:16.731Z"
+}
