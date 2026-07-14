@@ -1,0 +1,84 @@
+{
+  "slug": "quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
+  "title": "Peruvian Style Grilled Chicken Anticuchos",
+  "description": "A traditional Peruvian dish, these marinated chicken skewers are grilled to perfection and full of flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "yeasty",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "chicken drumsticks",
+      "amount": "4-6 pieces",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "anticuchos",
+      "amount": "4-6 pieces",
+      "notes": "pounded thin"
+    },
+    {
+      "name": "quaint",
+      "amount": "1 teaspoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Peruvian, yeasty, quaint, and olive oil to make marinade.",
+    "Add chicken and anticuchos to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread chicken and anticuchos onto skewers.",
+    "Season with salt and black pepper to taste.",
+    "Grill for 8-10 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "2-3",
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "grilled",
+    "chicken",
+    "anticuchos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-yeasty-peruvian-chicken-drumsticks-anticuchos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:02:40.055Z"
+}
