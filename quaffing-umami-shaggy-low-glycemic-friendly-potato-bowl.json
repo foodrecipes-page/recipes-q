@@ -1,0 +1,64 @@
+{
+  "slug": "quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl",
+  "title": "Low Glycemic Shaggy Bowl",
+  "description": "A hearty, low glycemic bowl dish perfect for a weeknight dinner or a healthy lunch option.",
+  "cuisine": "Modern Cuisine",
+  "diet": [
+    "low-glycemic",
+    "healthy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "Choose low glycemic variety"
+    },
+    {
+      "name": "Glycemic Friendly",
+      "amount": "1 cup",
+      "notes": "Optional, add for extra flavor"
+    },
+    {
+      "name": "Umami",
+      "amount": "1 tsp",
+      "notes": "A pinch for umami flavor"
+    },
+    {
+      "name": "Low",
+      "amount": "2 tbsp",
+      "notes": "Add for extra zest"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Wash and peel the potatoes, then chop them into 1-inch cubes.",
+    "3. In a large bowl, toss the potatoes with the Umami and Low until well coated.",
+    "4. Spread the potatoes on a baking sheet in a single layer.",
+    "5. Roast in the preheated oven for 20-25 minutes, or until the potatoes are tender.",
+    "6. While the potatoes are roasting, prepare the Shaggy sauce.",
+    "7. In a small bowl, mix together the Shaggy and Quaffing until well combined.",
+    "8. Once the potatoes are done, remove them from the oven and toss with the Shaggy sauce.",
+    "9. Serve the potatoes hot, garnished with additional Shaggy if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "low-glycemic",
+    "healthy",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:50:58.344Z"
+}
