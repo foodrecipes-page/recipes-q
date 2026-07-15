@@ -1,0 +1,78 @@
+{
+  "slug": "quaint-malty-slovakian-ovoli-mushroom-skillet",
+  "title": "Skillet Mushroom Breakfast Delight",
+  "description": "A hearty skillet breakfast filled with sautéed mushrooms, ovoli, and Slovakian flair, cooked to perfection in a quaint skillet.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ovoli",
+      "amount": "2",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 tsp",
+      "notes": "Paprika"
+    },
+    {
+      "name": "Quaint Skillet",
+      "amount": "1",
+      "notes": "Preheated"
+    },
+    {
+      "name": "Malty",
+      "amount": "1 tsp",
+      "notes": "Brown sugar"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Crack the ovoli into the quaint skillet.",
+    "2. Add the malty and Slovakian to the skillet and stir",
+    "3. Add the mushroom and cook until browned.",
+    "4. Season with salt and pepper to taste.",
+    "5. Cook the ovoli until the whites are set.",
+    "6. Flip the ovoli and cook until the yolks are cooked to your preference.",
+    "7. Serve the mushroom and ovoli together in the skillet.",
+    "8. Garnish with any additional Slovakian flair.",
+    "9. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "mushroom",
+    "ovol"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-malty-slovakian-ovoli-mushroom-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:39:25.780Z"
+}
