@@ -1,0 +1,64 @@
+{
+  "slug": "quick-fix-pungent-american-yautia-fritters",
+  "title": "Crispy Fritters with Yautia Mash",
+  "description": "A delicious Caribbean-inspired snack using yautia and fritters. Enjoy as a side dish or as a light meal. The crispy fritters add a satisfying crunch to the creamy yautia mash.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yautia",
+      "amount": "2 large tubers, peeled and chopped"
+    },
+    {
+      "name": "Fritters",
+      "amount": "1 cup, crushed into crumbs"
+    },
+    {
+      "name": "Quick American Cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "Pungent Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fix Olive Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Boil the chopped yautia until tender, then mash.",
+    "In a separate bowl, mix together the crushed fritters, grated cheese, and minced garlic.",
+    "Add the olive oil to the fritter mixture and stir to combine.",
+    "Fold the fritter mixture into the mashed yautia until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: Top with additional grated cheese or crushed fritters before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "caribbean",
+    "snack",
+    "yautia",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-pungent-american-yautia-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:16:46.179Z"
+}
