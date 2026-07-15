@@ -1,0 +1,80 @@
+{
+  "slug": "quick-dense-argentinian-mung-bean-sprouts-roast",
+  "title": "Argentinian Roast Bean Stew",
+  "description": "A hearty, comforting stew originating from Argentina, made with roast beef and mung bean sprouts.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Argentinian quick bean",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dense mung",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "Roast",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the sliced roast beef and cook until browned, about 5 minutes.",
+    "Add the mung bean sprouts, argentinian quick bean, and mashed mung bean.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley.",
+    "Serve with crusty bread or over rice for a filling meal.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "beef",
+    "argentinian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-argentinian-mung-bean-sprouts-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:43:40.712Z"
+}
