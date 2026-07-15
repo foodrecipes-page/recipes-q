@@ -1,0 +1,72 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--chinese",
+  "title": "Szechuan Crispy Hake",
+  "description": "Crispy fried hake in a spicy Szechuan sauce. A classic Chinese dish with a kick.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake",
+      "amount": "4 fillets",
+      "notes": "Fresh and thawed"
+    },
+    {
+      "name": "yeasty flour",
+      "amount": "1 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "quietly egg",
+      "amount": "2",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "indian spices",
+      "amount": "2 tsp",
+      "notes": "Szechuan pepper and chili powder"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 sheet",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Cut the hake fillets into bite-sized pieces.",
+    "2. In a bowl, mix together yeasty flour, indian spices, and a pinch of salt.",
+    "3. Dip each piece of hake into the flour mixture, coating evenly.",
+    "4. Dip the floured hake into the quietly egg for a light coating.",
+    "5. Dredge the egg-coated hake in the flour mixture again for a crispy coating.",
+    "6. Heat oil in a wok or deep frying pan to 350°F (180°C).",
+    "7. Fry the hake in batches until golden brown and crispy.",
+    "8. Remove the fried hake from oil and place on a paper towel-lined plate.",
+    "9. Mix together Szechuan sauce and a pinch of salt in a bowl.",
+    "10. Add the fried hake to the bowl and toss to coat with the sauce.",
+    "11. Serve the hake hot with pie crust on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "fried",
+    "szechuan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:39.906Z"
+}
