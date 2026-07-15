@@ -1,0 +1,85 @@
+{
+  "slug": "quick-grilled-argentinian-lamb-asado",
+  "title": "Argentinian-Style Grilled Lamb Choripan",
+  "description": "A classic Argentinian street food featuring grilled lamb chorizo served on a crusty bun with chimichurri sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb Chorizo",
+      "amount": "4 links"
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "store-bought or homemade (see notes)",
+      "notes": "Homemade: Mix 1/2 cup parsley, 1/4 cup oregano, 2 cloves garlic, 1/2 cup red wine vinegar, 1/4 cup olive oil"
+    },
+    {
+      "name": "Bun",
+      "amount": "4 crusty buns"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Mayo",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Grill lamb chorizo for 2-3 minutes per side, or until slightly charred.",
+    "3. Meanwhile, toast buns on the grill.",
+    "4. Slice red onion and tomato.",
+    "5. Spread mayo on buns.",
+    "6. Add grilled lamb chorizo, sliced onion, and tomato.",
+    "7. Drizzle with chimichurri sauce.",
+    "8. Sprinkle with chili flakes and kosher salt.",
+    "9. Garnish with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "grilled",
+    "asado",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-argentinian-lamb-asado",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:42:59.093Z"
+}
