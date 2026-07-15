@@ -17597,15 +17597,15 @@
   },
   {
     "slug": "quietly-yeasty-indian-hake-pie--gluten-free",
-    "title": "Gluten-Free Yeast-Raised Hake Pie",
+    "title": "Gluten-free Indian Hake Pie",
     "tags": [
       "indian",
       "gluten-free",
       "fish",
       "pie"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -17632,6 +17632,98 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--mexican",
+    "title": "Crispy Yeast Hake Tacos",
+    "tags": [
+      "tacos",
+      "mexican",
+      "fry",
+      "fish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--indian",
+    "title": "Hake Tikka Masala Pie",
+    "tags": [
+      "indian",
+      "fish",
+      "pie",
+      "tikka-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--chinese",
+    "title": "Szechuan Crispy Hake",
+    "tags": [
+      "chinese",
+      "fish",
+      "fried",
+      "szechuan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--vegan",
+    "title": "Spiced Hake Pie",
+    "tags": [
+      "vegan",
+      "indian",
+      "seafood",
+      "pie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--vegetarian",
+    "title": "Indian-Style Yeast Bread",
+    "tags": [
+      "indian",
+      "yeast",
+      "bread",
+      "snack",
+      "easy-to-make"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--italian",
+    "title": "Baked Hake with Indian Spices",
+    "tags": [
+      "italian",
+      "fish",
+      "seafood",
+      "easy-to-make"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--japanese",
+    "title": "Japanese Hake Pie",
+    "tags": [
+      "japanese",
+      "fish",
+      "pie",
+      "yeast"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
