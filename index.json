@@ -10701,15 +10701,16 @@
   },
   {
     "slug": "quick-roasted-mexican-bread-tacos",
-    "title": "Quick-Roasted Mexican Bread Tacos",
+    "title": "Roasted Mexican Tacos",
     "tags": [
-      "earthly-flaky",
-      "mexican-tacos",
-      "quick-fix",
-      "whole30-friendly"
+      "mexican",
+      "tacos",
+      "chicken",
+      "roasted",
+      "easy dinner"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 120,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
