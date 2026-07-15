@@ -1,0 +1,93 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--mexican",
+  "title": "Crispy Yeast Hake Tacos",
+  "description": "A Mexican-inspired recipe featuring crispy fried hake, served with a side of warm tortillas and a sprinkle of yeast-infused spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": " skin removed"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "mexican spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "for the yeast batter"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix yeast with 1/4 cup of warm milk. Let it sit for 5 minutes.",
+    "2. In a large bowl, mix flour, mexican spices, and yeast mixture. Gradually add milk and mix until a smooth batter forms.",
+    "3. Heat oil in a deep frying pan to 180°C.",
+    "4. Dip each hake fillet into the yeast batter, then coat with flour, and fry for 3-4 minutes on each side.",
+    "5. Drain the fried hake on paper towels.",
+    "6. Warm tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "7. Assemble the tacos by placing fried hake on a tortilla, topping with onions and a sprinkle of cumin.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "mexican",
+    "fry",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:46.506Z"
+}
