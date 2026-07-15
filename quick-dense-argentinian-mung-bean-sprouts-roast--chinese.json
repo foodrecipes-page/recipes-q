@@ -1,0 +1,89 @@
+{
+  "slug": "quick-dense-argentinian-mung-bean-sprouts-roast--chinese",
+  "title": "Argentinian Beef and Mung Bean Stir Fry",
+  "description": "A hearty Chinese-inspired stir fry made with tender beef, mung beans, and the crunch of roasted vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian Beef (sirloin), sliced",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Mung Bean Sprouts",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Roasted Vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Quick Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": "Mince for flavor"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1-inch piece",
+      "notes": "Mince for flavor"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "Adjust seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and ginger, stir-fry for 30 seconds until fragrant.",
+    "Add sliced beef, cook for 3-4 minutes until browned, then set aside.",
+    "Add mung bean sprouts, roasted vegetables, and cooked beef back into the wok.",
+    "Pour in soy sauce, sesame oil, salt, and pepper. Stir-fry for 2-3 minutes until combined.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over steamed rice or noodles.",
+    "Garnish with sesame seeds and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "beef",
+    "mung-beans",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-argentinian-mung-bean-sprouts-roast--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:32:40.520Z"
+}
