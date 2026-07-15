@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-creamy-uruguayan-beef-wrap",
+  "title": "Uruguayan Beef Wrap",
+  "description": "A simple and flavorful Uruguayan-inspired beef wrap recipe. Perfect for a quick and easy dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef (such as skirt steak or flank steak)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Quietly roasted onions",
+      "amount": "1 medium onion",
+      "notes": "Sliced and roasted in a 350°F oven for 20 minutes"
+    },
+    {
+      "name": "Creamy chimichurri sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Large flour wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: sliced bell peppers and/or zucchini",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the beef with salt and pepper.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes before slicing.",
+    "Meanwhile, warm the wrap in the microwave or in a dry skillet.",
+    "Assemble the wrap by spreading chimichurri sauce on the bottom half of the wrap, then layering with sliced beef, roasted onions, and any desired toppings.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "grill",
+    "wrap",
+    "uruguayan",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-creamy-uruguayan-beef-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:28:06.696Z"
+}
