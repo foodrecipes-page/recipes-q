@@ -864,16 +864,15 @@
   },
   {
     "slug": "quaint-malty-slovakian-ovoli-mushroom-skillet",
-    "title": "Quaint Malty Slovakian Ovoli Mushroom Skillet",
+    "title": "Skillet Mushroom Breakfast Delight",
     "tags": [
-      "date-night",
-      "gluten-free",
-      "mushroom-lovers",
-      "one-pan",
-      "whole30"
+      "breakfast",
+      "skillet",
+      "mushroom",
+      "ovol"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "cuisine": "European",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -8192,16 +8191,16 @@
   },
   {
     "slug": "quick-fried-croatian-peanut-fritters",
-    "title": "Quick Fried Croatian Peanut Fritters",
+    "title": "Croatian Fried Fritters",
     "tags": [
-      "brunch-ideas",
-      "croatian-cuisine",
-      "deep-fried",
-      "kosher-friendly",
-      "peanut-butter"
+      "fried",
+      "croatian",
+      "peanut",
+      "fritters",
+      "snack"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -14046,18 +14045,16 @@
   },
   {
     "slug": "quietly-creamy-uruguayan-beef-wrap",
-    "title": "Quietly Creamy Uruguayan Beef Wrap",
+    "title": "Uruguayan Beef Wrap",
     "tags": [
-      "beef-recipes",
-      "gluten-free",
-      "low-calorie",
-      "lunch-ideas",
-      "one-pan",
-      "south-american",
-      "weeknight"
+      "beef",
+      "grill",
+      "wrap",
+      "uruguayan",
+      "dinner"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14628,16 +14625,15 @@
   },
   {
     "slug": "quietly-luxurious-thai-beef-shin-curry",
-    "title": "Quietly Luxurious Thai Beef Shin Curry",
+    "title": "Beef Shin Thai Curry",
     "tags": [
-      "beef-shin",
-      "cozy-dinner",
-      "mediterranean-inspired",
-      "slow-cooked",
-      "thai-curry"
+      "beef",
+      "curry",
+      "thaicuisine",
+      "comfortfood"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 170,
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
