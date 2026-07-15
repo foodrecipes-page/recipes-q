@@ -1,0 +1,59 @@
+{
+  "slug": "quenched-midnight-craving-saudi-arabian-porridge-oats-porridge",
+  "title": "Traditional Saudi Arabian Oats Porridge",
+  "description": "A warm and comforting porridge made with oats and spices, inspired by the flavors of Saudi Arabia. Perfect for a cold winter morning.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the oats, salt, cinnamon, and ginger. Reduce heat to low and simmer, stirring occasionally.",
+    "Cook for 10-15 minutes, or until the oats have absorbed most of the liquid and the porridge has a creamy consistency.",
+    "Serve hot, garnished with a sprinkle of cinnamon if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "porridge",
+    "oats",
+    "saudi arabian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-midnight-craving-saudi-arabian-porridge-oats-porridge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T09:44:25.643Z"
+}
