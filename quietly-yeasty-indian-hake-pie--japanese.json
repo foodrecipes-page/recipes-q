@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--japanese",
+  "title": "Japanese Hake Pie",
+  "description": "A unique fusion of Japanese and Western flavors, featuring hake fish in a yeasty pie crust.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "2"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "pie crust mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thaw pie crust mix according to package instructions.",
+    "Season hake fillets with salt and pepper.",
+    "Heat sesame oil in a pan over medium heat.",
+    "Sear hake fillets until browned, then set aside.",
+    "Roll out pie crust to fit a 9-inch pie dish.",
+    "Fill pie crust with seared hake fillets, soy sauce, and mirin.",
+    "Top with chopped green onions.",
+    "Bake for 20-25 minutes, or until crust is golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fish",
+    "pie",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:54:04.528Z"
+}
