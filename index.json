@@ -1900,18 +1900,16 @@
   },
   {
     "slug": "quenched-algerian-dates-tagine",
-    "title": "Quenched Algerian Dates Tagine",
+    "title": "Algerian Date Tagine",
     "tags": [
-      "algerian-cuisine",
-      "dessert",
-      "fodmap-friendly",
-      "high-protein",
-      "low-fodmap",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "vegetarian",
+      "gluten-free",
+      "north-african",
+      "stew"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -17608,6 +17606,32 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--thai",
+    "title": "Thai Yeast Baked Hake",
+    "tags": [
+      "thai",
+      "fish",
+      "baked",
+      "yeast"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-yeasty-indian-hake-pie--german",
+    "title": "Pan-Seared Hake with Yeast Crust",
+    "tags": [
+      "german",
+      "fish",
+      "seafood",
+      "yeast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
     "shard": "q"
   }
 ]
