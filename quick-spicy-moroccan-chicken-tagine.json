@@ -1,0 +1,99 @@
+{
+  "slug": "quick-spicy-moroccan-chicken-tagine",
+  "title": "Chicken Tagine with Spicy Moroccan Flair",
+  "description": "A flavorful and aromatic dish inspired by Moroccan cuisine, featuring chicken cooked in a spicy tagine sauce.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast or thighs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive tapenade",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "chicken tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the olive tapenade (if using) and chicken broth, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in the chicken tagine spice blend and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with fresh parsley or cilantro (if desired).",
+    "Traditionally, a tagine is cooked in a clay pot with a conical lid, which allows the steam to rise and condense, creating a rich and flavorful sauce.",
+    "If you don't have a clay pot, you can cook the tagine in a Dutch oven or other heavy pot with a lid.",
+    "Serve with couscous, rice, or bread for a hearty and flavorful meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "spicy",
+    "lamb-free",
+    "pork-free",
+    "tagine"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spicy-moroccan-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:16:06.512Z"
+}
