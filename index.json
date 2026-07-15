@@ -5391,17 +5391,15 @@
   },
   {
     "slug": "quick-citrusy-filipino-sirloin-steak-tips-stir-fry",
-    "title": "Quick Citrusy Filipino Sirloin Steak Tips Stir fry",
+    "title": "Sirloin Steak Stir Fry with Filipino Citrus",
     "tags": [
-      "citrusy",
-      "filipino-food",
-      "low-fat",
-      "quick-dinner",
+      "filipino",
+      "citrus",
       "stir-fry",
-      "weeknight"
+      "sirloin"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -10095,17 +10093,14 @@
   },
   {
     "slug": "quick-piedmontese-shrimp-risotto",
-    "title": "Quick Piedmontese Shrimp Risotto",
+    "title": "Shrimp and Risotto",
     "tags": [
-      "fodmap-friendly",
-      "kid-friendly",
-      "low-fat",
-      "piedmontese",
-      "quick",
+      "italian",
+      "seafood",
       "risotto"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
