@@ -1,0 +1,91 @@
+{
+  "slug": "quick-citrusy-filipino-sirloin-steak-tips-stir-fry",
+  "title": "Sirloin Steak Stir Fry with Filipino Citrus",
+  "description": "A quick and delicious sirloin steak stir fry with a hint of Filipino citrus flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Calamansi (Filipino Lime)",
+      "amount": "2 juiced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Chilies",
+      "amount": "1 small",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add sirloin steak and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Remove steak from the wok and let it rest for 5 minutes.",
+    "In the same wok, add onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Stir in calamansi juice, salt, and black pepper.",
+    "Return the sirloin steak to the wok and stir to coat with the citrus sauce.",
+    "Cook for an additional 1-2 minutes, or until the steak is well coated.",
+    "Slice the steak against the grain and serve with the stir-fried vegetables.",
+    "Garnish with fresh chilies and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "citrus",
+    "stir-fry",
+    "sirloin"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-citrusy-filipino-sirloin-steak-tips-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:46.851Z"
+}
