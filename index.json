@@ -11868,16 +11868,17 @@
   },
   {
     "slug": "quick-spicy-moroccan-chicken-tagine",
-    "title": "Quick Spicy Moroccan Chicken Tagine",
+    "title": "Chicken Tagine with Spicy Moroccan Flair",
     "tags": [
-      "high-protein",
+      "chicken",
       "moroccan",
-      "one-pan",
-      "quick-cooking",
-      "spicy"
+      "spicy",
+      "lamb-free",
+      "pork-free",
+      "tagine"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -17728,6 +17729,18 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-fix-hash--chinese",
+    "title": "Crispy Wontons with Sweet Chili Sauce",
+    "tags": [
+      "chinese",
+      "appetizer",
+      "wontons"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
