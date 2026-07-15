@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-luxurious-thai-beef-shin-curry",
+  "title": "Beef Shin Thai Curry",
+  "description": "A rich and flavorful Thai-inspired beef curry made with tender beef shin. Serve with steamed rice or noodles for a satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1 pound"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add beef shin and cook until browned on all sides.",
+    "Add curry paste and cook for 1 minute.",
+    "Add fish sauce, sugar, and vegetable broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 1/2 hours.",
+    "Stir in Thai basil and chilies.",
+    "Serve over rice or noodles.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "curry",
+    "thaicuisine",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-luxurious-thai-beef-shin-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T23:08:18.257Z"
+}
