@@ -17703,5 +17703,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-dense-argentinian-mung-bean-sprouts-roast--vegan",
+    "title": "Argentinian Mung Bean Stew",
+    "tags": [
+      "vegan",
+      "argentinian",
+      "stew",
+      "mung-beans"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-dense-argentinian-mung-bean-sprouts-roast--chinese",
+    "title": "Argentinian Beef and Mung Bean Stir Fry",
+    "tags": [
+      "stir-fry",
+      "beef",
+      "mung-beans",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 27,
+    "shard": "q"
   }
 ]
