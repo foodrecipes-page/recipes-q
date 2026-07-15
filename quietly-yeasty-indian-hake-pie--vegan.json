@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--vegan",
+  "title": "Spiced Hake Pie",
+  "description": "A flavorful and spicy pie made with the delicate flavor of hake, all within a vegan and yeast-based crust.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hake",
+      "amount": "1 lb",
+      "notes": "Frozen hake, thawed"
+    },
+    {
+      "name": "quietly Yeast",
+      "amount": "1 packet",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "2 tsp curry powder",
+      "notes": ""
+    },
+    {
+      "name": "Vegan pie crust mix",
+      "amount": "1 package",
+      "notes": "Make sure it's vegan"
+    },
+    {
+      "name": "quietly Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "quietly Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Thaw the hake and cut it into small pieces.",
+    "3. Mix the yeast, water, and a pinch of sugar in a bowl. Let it sit for 5 minutes.",
+    "4. In a pan, heat the oil and sauté the hake pieces until they're browned.",
+    "5. Add the curry powder, salt, and a squeeze of lime juice to the pan and mix well.",
+    "6. Roll out the vegan pie crust mix according to the package instructions.",
+    "7. Fill the pie crust with the hake mixture and cover it with another pie crust.",
+    "8. Bake the pie in the preheated oven for 25-30 minutes or until the crust is golden brown.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "indian",
+    "seafood",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:54.186Z"
+}
