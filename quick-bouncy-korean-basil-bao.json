@@ -1,0 +1,64 @@
+{
+  "slug": "quick-bouncy-korean-basil-bao",
+  "title": "Bouncy Korean Bao Bites",
+  "description": "Delicious bite-sized Korean bao filled with a sweet and spicy filling.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bouncy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bao",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Quick",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut bao into small cubes.",
+    "3. In a pan, combine bouncy, Korean, and basil. Cook for 3-4 minutes.",
+    "4. Add quick (soy sauce) to the pan and stir.",
+    "5. Add bao cubes to the pan and stir to coat.",
+    "6. Place bao mixture onto a baking sheet and bake for 10-12 minutes.",
+    "7. Remove from oven and let cool slightly.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "bao",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-bouncy-korean-basil-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:36:55.019Z"
+}
