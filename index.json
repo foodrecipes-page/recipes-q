@@ -6034,18 +6034,15 @@
   },
   {
     "slug": "quick-dense-argentinian-mung-bean-sprouts-roast",
-    "title": "Quick Dense Argentinian Mung Bean Sprouts Roast",
+    "title": "Argentinian Roast Bean Stew",
     "tags": [
+      "stew",
+      "beef",
       "argentinian",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "roasted",
-      "vegetarian",
-      "weeknight"
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -8416,17 +8413,15 @@
   },
   {
     "slug": "quick-galician-potatoes-stew",
-    "title": "Quick Galician Potatoes Stew",
+    "title": "Galician Stew",
     "tags": [
-      "one-pot",
-      "potato",
-      "quick",
-      "sattvic",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "stew",
+      "potatoes",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8803,20 +8798,15 @@
   },
   {
     "slug": "quick-grilled-argentinian-lamb-asado",
-    "title": "Quick Grilled Argentinian Lamb Asado",
+    "title": "Argentinian-Style Grilled Lamb Choripan",
     "tags": [
-      "asado",
-      "breakfast",
-      "brunch",
-      "gluten-free",
+      "argentinian",
       "grilled",
-      "halal",
-      "lamb",
-      "one-pan",
-      "weeknight"
+      "asado",
+      "lamb"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
