@@ -1,0 +1,90 @@
+{
+  "slug": "quick-roasted-mexican-bread-tacos",
+  "title": "Roasted Mexican Tacos",
+  "description": "A flavorful and spicy Mexican-inspired taco recipe made with roasted chicken, topped with fresh cilantro, sour cream, and salsa.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "any color"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tacos seasoning",
+      "amount": "1 packet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bread",
+      "amount": "4-6 corn tortillas",
+      "notes": "preferably handmade or store-bought"
+    },
+    {
+      "name": "quick salsa",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season chicken breasts with tacos seasoning, salt, and pepper.",
+    "Place the chicken on a baking sheet and roast in the oven for 20-25 minutes, or until fully cooked.",
+    "While the chicken is cooking, roast peppers in the oven for 20-25 minutes, or until tender.",
+    "Sauté the onion and garlic in a pan over medium heat until softened.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of chicken on each tortilla, followed by roasted peppers, onion, and garlic.",
+    "Top each taco with a dollop of sour cream, a sprinkle of cilantro, and a spoonful of salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "chicken",
+    "roasted",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-mexican-bread-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T17:05:18.701Z"
+}
