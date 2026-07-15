@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-smoky-tunisian-lamb-grill",
+  "title": "Lamb Koftas with Smoky Tunisian Flair",
+  "description": "Indulge in the flavors of Tunisia with these smoky lamb koftas, perfect for a warm evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb is ideal for koftas."
+    },
+    {
+      "name": "Smoky Quenched Tunisian Chili Paste",
+      "amount": "2 tbsp",
+      "notes": "For the smoky flavor"
+    },
+    {
+      "name": "Grill Seasoning",
+      "amount": "1 tsp",
+      "notes": "Add a touch of smokiness"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add a pinch of salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "Add a pinch of pepper"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": "Garnish with parsley"
+    },
+    {
+      "name": "Lebanese Bread",
+      "amount": "4-6 pieces (optional)",
+      "notes": "Serve with bread"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to medium-high heat.",
+    "2. In a large bowl, combine the ground lamb, smoky quenched tunisian chili paste, grill seasoning, salt, and pepper. Mix well with your hands until just combined.",
+    "3. Divide the lamb mixture into 8-10 portions, depending on desired kofta size.",
+    "4. Shape each portion into a ball and then flatten slightly into a disk shape.",
+    "5. Brush the grill with olive oil to prevent sticking.",
+    "6. Grill the koftas for 4-5 minutes per side, or until they reach an internal temperature of 63°C.",
+    "7. Remove the koftas from the grill and let them rest for a few minutes.",
+    "8. Serve the koftas hot, garnished with chopped parsley and accompanied by Lebanese bread if desired.",
+    "9. Enjoy the smoky flavors of Tunisia!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tunisian",
+    "smoky",
+    "grill",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-tunisian-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:23:27.173Z"
+}
