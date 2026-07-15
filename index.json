@@ -4002,13 +4002,16 @@
   },
   {
     "slug": "quenched-smoky-tunisian-lamb-grill",
-    "title": "Quenched Smoky Tunisian Lamb Grill",
+    "title": "Lamb Koftas with Smoky Tunisian Flair",
     "tags": [
+      "lamb",
       "tunisian",
-      "dinner"
+      "smoky",
+      "grill",
+      "north-african"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -4946,17 +4949,15 @@
   },
   {
     "slug": "quick-bouncy-korean-basil-bao",
-    "title": "Quick Bouncy Korean Basil Bao",
+    "title": "Bouncy Korean Bao Bites",
     "tags": [
-      "basil",
       "korean",
-      "one-pan",
-      "quick",
-      "vegan",
-      "weeknight"
+      "bao",
+      "snack",
+      "easy"
     ],
     "cuisine": "korean",
-    "totalTimeMin": 9,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
