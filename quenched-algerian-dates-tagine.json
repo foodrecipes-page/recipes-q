@@ -1,0 +1,85 @@
+{
+  "slug": "quenched-algerian-dates-tagine",
+  "title": "Algerian Date Tagine",
+  "description": "A traditional North African stew originating from Algeria, made with sweet and savory flavors from dates and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Quenched dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Almond oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add olives, dates, spice blend, and cook until fragrant (2 minutes).",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Stir in rice and cook for an additional 10 minutes.",
+    "Stir in parsley and grapes.",
+    "Season with salt and pepper to taste.",
+    "Serve warm over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "gluten-free",
+    "north-african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-algerian-dates-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:20:26.774Z"
+}
