@@ -1,0 +1,86 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--thai",
+  "title": "Thai Yeast Baked Hake",
+  "description": "A flavorful Thai-inspired baked hake dish with a yeasty crust.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix yeast and water to create a starter.",
+    "In a large bowl, combine coconut milk, curry paste, fish sauce, brown sugar, lemongrass, and chili flakes.",
+    "Add the yeast starter to the bowl and mix well.",
+    "Place the hake fillets in a baking dish and pour the coconut milk mixture over them.",
+    "Bake for 15-20 minutes or until the fish is cooked through.",
+    "Serve hot garnished with lemongrass and chili flakes.",
+    "Let it rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "baked",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:06.809Z"
+}
