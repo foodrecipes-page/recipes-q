@@ -1,0 +1,67 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--german",
+  "title": "Pan-Seared Hake with Yeast Crust",
+  "description": "A twist on the traditional German dish, this recipe features pan-seared hake with a crispy yeast crust. The yeast adds a unique flavor and texture to the dish.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the hake fillets with salt and pepper.",
+    "In a small bowl, mix together the yeast, 1/4 cup warm water, and 1 tsp sugar.",
+    "Dust the hake fillets with flour, shaking off excess.",
+    "Pan-fry the hake fillets in butter until golden brown on both sides.",
+    "Transfer the hake to a baking dish and top with the yeast mixture.",
+    "Bake in the preheated oven for 8-10 minutes or until the yeast crust is golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "seafood",
+    "yeast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:09.861Z"
+}
