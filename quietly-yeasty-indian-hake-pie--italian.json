@@ -1,0 +1,91 @@
+{
+  "slug": "quietly-yeasty-indian-hake-pie--italian",
+  "title": "Baked Hake with Indian Spices",
+  "description": "A flavorful Italian-inspired dish featuring baked hake in a yeasty and aromatic Indian spice blend.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Hake fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Yeasty bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free option available"
+    },
+    {
+      "name": "Indian spice blend",
+      "amount": "2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the hake fillets and pat them dry with a paper towel.",
+    "Season the hake with salt, black pepper, and a pinch of Indian spice blend.",
+    "In a shallow dish, mix together the yeasty bread crumbs and a pinch of Indian spice blend.",
+    "Dip each hake fillet in the bread crumb mixture, coating both sides evenly.",
+    "Place the coated hake fillets on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the hake fillets, then sprinkle with minced garlic.",
+    "Bake in the preheated oven for 12-15 minutes or until cooked through.",
+    "Remove from the oven and brush with lemon juice.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fish",
+    "seafood",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-indian-hake-pie--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:53:26.807Z"
+}
