@@ -1,0 +1,87 @@
+{
+  "slug": "quenched-jamaican-buckwheat-stew--indian",
+  "title": "Buckwheat Jamaican Stew",
+  "description": "A flavorful and nutritious Indian-inspired stew made with buckwheat, jamaican spices, and other wholesome ingredients.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quenched water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the buckwheat groats and soak them in quenched water for at least 4 hours.",
+    "2. Drain the buckwheat and set it aside.",
+    "3. Heat the coconut oil in a large pan over medium heat.",
+    "4. Add the onion and ginger and sauté until the onion is translucent.",
+    "5. Add the jamaican curry powder and stir for 1 minute.",
+    "6. Add the stew tomatoes and stir to combine.",
+    "7. Add the buckwheat and stir to combine.",
+    "8. Add the spinach and stir to combine.",
+    "9. Season with salt and black pepper to taste.",
+    "10. Reduce heat to low and simmer for 20-25 minutes or until the buckwheat is tender.",
+    "11. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "gluten-free-recipe",
+    "vegetarian-recipe",
+    "stew-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-jamaican-buckwheat-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:05:27.119Z"
+}
