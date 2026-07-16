@@ -1,0 +1,57 @@
+{
+  "slug": "quick-quenched-uruguayan-melon-salad",
+  "title": "Uruguayan Melon Salad",
+  "description": "A refreshing salad from Uruguay, perfect for hot summer days.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Melon",
+      "amount": "2 medium",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups",
+      "notes": "Mixed greens"
+    },
+    {
+      "name": "Quick Quenched Uruguayan Cheese",
+      "amount": "8 oz",
+      "notes": "Crumbly cheese"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the melon pieces and mixed greens.",
+    "2. Crumble the Uruguayan cheese over the salad.",
+    "3. Toss gently to combine.",
+    "4. Serve immediately and enjoy!",
+    "5. Optional: Add a simple vinaigrette for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "uruguayan",
+    "summer",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-quenched-uruguayan-melon-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:04:47.090Z"
+}
