@@ -1,0 +1,76 @@
+{
+  "slug": "quick-saucy-monsoon-american-chicken-thighs-stew",
+  "title": "Monsoon Chicken Stew",
+  "description": "A flavorful and spicy stew made with chicken thighs and a blend of spices, perfect for a cold day.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "monsoon",
+      "amount": "2 tablespoons",
+      "notes": "Monsoon sauce or a combination of soy sauce, vinegar, and chili flakes"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "Chicken broth or a combination of water and bouillon powder"
+    },
+    {
+      "name": "quick",
+      "amount": "1 tablespoon",
+      "notes": "Quick oats or all-purpose flour"
+    },
+    {
+      "name": "american",
+      "amount": "1 teaspoon",
+      "notes": "Dried oregano or thyme"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Salt to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Black pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the chicken thighs and cook until browned on all sides.",
+    "Add the monsoon sauce, stew, quick, and american to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "monsoon",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-saucy-monsoon-american-chicken-thighs-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:17:52.740Z"
+}
