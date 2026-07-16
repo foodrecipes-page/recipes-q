@@ -1,0 +1,96 @@
+{
+  "slug": "quick-russian-vegetable-curry--french",
+  "title": "Braised Beef Bourguignon",
+  "description": "A hearty French stew made with tender beef, mushrooms, and a rich red wine sauce.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef short ribs until browned, about 5 minutes. Remove the browned beef and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and celery and cook for another 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown.",
+    "Add the red wine to the pot and cook until the liquid is almost completely reduced, stirring to scrape up the browned bits from the bottom of the pot.",
+    "Add the browned beef back to the pot, along with the beef broth, thyme, salt, and pepper.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the preheated oven for 2 1/2 to 3 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "french",
+    "stew",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-russian-vegetable-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:29:56.106Z"
+}
