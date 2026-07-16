@@ -17754,5 +17754,32 @@
     "cuisine": "german",
     "totalTimeMin": 240,
     "shard": "q"
+  },
+  {
+    "slug": "quick-galician-potatoes-stew--vegan",
+    "title": "Galician Stew Potato Fritters",
+    "tags": [
+      "galician",
+      "stew",
+      "potatoes",
+      "fritters",
+      "vegan"
+    ],
+    "cuisine": "Galician",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-nutty-irish-rhubarb-crumble--gluten-free",
+    "title": "Rhubarb Crumble",
+    "tags": [
+      "rhubarb",
+      "crumble",
+      "gluten-free",
+      "dessert"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
+    "shard": "q"
   }
 ]
