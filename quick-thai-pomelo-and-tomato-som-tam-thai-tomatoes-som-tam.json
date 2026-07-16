@@ -1,0 +1,89 @@
+{
+  "slug": "quick-thai-pomelo-and-tomato-som-tam-thai-tomatoes-som-tam",
+  "title": "Spicy Thai Tom Yum Soup",
+  "description": "A classic Thai soup made with a flavorful broth, spicy from chili peppers and lemongrass, and sweet from the addition of tomatoes.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "som tam (papaya salad sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tam (fish sauce)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "quick (or regular) tomatoes",
+      "amount": "1",
+      "notes": "cherry tomatoes, halved"
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": "bruised"
+    },
+    {
+      "name": "pomelo",
+      "amount": "1/4 cup",
+      "notes": "juice"
+    },
+    {
+      "name": "fish balls (or tofu for vegetarian)",
+      "amount": "4"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the sliced chilies, lemongrass, and a pinch of salt. Cook, stirring occasionally, until fragrant (1-2 minutes).",
+    "Add the diced tomatoes, fish balls or tofu, and Thai basil. Cook, stirring occasionally, until the fish balls or tofu are cooked through (3-4 minutes).",
+    "Add the som tam and tam sauces. Stir to combine.",
+    "Pour in the pomelo juice and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "thai",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-thai-pomelo-and-tomato-som-tam-thai-tomatoes-som-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:21:26.860Z"
+}
