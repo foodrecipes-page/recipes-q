@@ -17832,5 +17832,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-midnight-craving-saudi-arabian-porridge-oats-porridge--german",
+    "title": "German Apple Oat Porridge",
+    "tags": [
+      "breakfast",
+      "oatmeal",
+      "german",
+      "apple"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "q"
   }
 ]
