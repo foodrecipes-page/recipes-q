@@ -1,0 +1,74 @@
+{
+  "slug": "quintessential-crisp-tunisian-lentil-tagine",
+  "title": "Tunisian-Style Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Tunisia, made with red lentils and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quintessential lentils",
+      "amount": "1 cup",
+      "notes": "red or green lentils work well"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "or substitute with a combination of cumin, coriander, and paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crisp carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tbsp",
+      "notes": "or substitute with olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and cook for 5 minutes.",
+    "Add the lentils, Tunisian spice blend, and 4 cups of water.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "north-african-cuisine",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-crisp-tunisian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:21:39.015Z"
+}
