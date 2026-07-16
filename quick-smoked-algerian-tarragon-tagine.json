@@ -1,0 +1,69 @@
+{
+  "slug": "quick-smoked-algerian-tarragon-tagine",
+  "title": "Smoked Chicken Tagine",
+  "description": "A flavorful Moroccan-inspired stew made with smoked chicken, quick-cooking ingredients, and aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Chicken Thighs",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Quick-cooking Chickpeas",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Chermoula",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tarragon",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 3 minutes.",
+    "Stir in the chermoula, tarragon, and chickpeas.",
+    "Return the chicken to the pot and add the grapes.",
+    "Reduce heat to low and simmer, covered, until the chicken is cooked through and the flavors have melded together, about 20-25 minutes.",
+    "Serve hot, garnished with fresh tarragon if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked-chicken",
+    "tagine",
+    "moroccan",
+    "chicken-thighs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-algerian-tarragon-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:07:59.021Z"
+}
