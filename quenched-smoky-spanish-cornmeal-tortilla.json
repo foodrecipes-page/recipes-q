@@ -1,0 +1,74 @@
+{
+  "slug": "quenched-smoky-spanish-cornmeal-tortilla",
+  "title": "Smoky Spanish Corn Fritters",
+  "description": "Crispy corn fritters with a smoky twist, perfect for a snack or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortilla",
+      "amount": "2",
+      "notes": "soaked in water"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "quenched garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 375°F (190°C).",
+    "Drain the soaked tortillas and chop into small pieces.",
+    "In a large bowl, combine the cornmeal, smoked paprika, garlic, salt, and black pepper.",
+    "Add the chopped tortillas to the bowl and mix well.",
+    "Using a spoon, add small amounts of the mixture to the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, or until crispy and golden.",
+    "Using a slotted spoon, remove the fritters from the oil and drain on paper towels.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "spanish",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-spanish-cornmeal-tortilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:19:36.340Z"
+}
