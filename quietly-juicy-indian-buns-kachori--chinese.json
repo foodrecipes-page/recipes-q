@@ -1,0 +1,75 @@
+{
+  "slug": "quietly-juicy-indian-buns-kachori--chinese",
+  "title": "Savory Kachori Buns",
+  "description": "A Chinese twist on the Indian street food, these crispy buns are filled with a flavorful and savory mixture of herbs and spices.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kachori",
+      "amount": "4",
+      "notes": "pre-cooked and crumbled"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Quietly",
+      "amount": "1/4 cup",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/4 cup",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "curry powder, cumin powder, coriander powder"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the sesame oil and quietly to the pan and stir until combined.",
+    "Add the crumbled kachori and cook for 2-3 minutes or until lightly browned.",
+    "Add the curry powder, cumin powder, and coriander powder to the pan and stir for 1 minute.",
+    "Split the buns in half and toast until lightly browned.",
+    "Assemble the buns by spooning the kachori mixture onto the bottom half and topping with the top half.",
+    "Garnish with chopped scallions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-juicy-indian-buns-kachori--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:07:28.430Z"
+}
