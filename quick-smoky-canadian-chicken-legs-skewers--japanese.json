@@ -1,0 +1,90 @@
+{
+  "slug": "quick-smoky-canadian-chicken-legs-skewers--japanese",
+  "title": "Japanese Teriyaki Chicken Skewers",
+  "description": "Sweet and savory Japanese-style chicken skewers, perfect for a quick weeknight dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken legs, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "quick",
+      "amount": "1/4 cup teriyaki sauce (store-bought or homemade)",
+      "notes": null
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons soy sauce",
+      "notes": null
+    },
+    {
+      "name": "canadian",
+      "amount": "1 tablespoon brown sugar",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers, soaked in water for 30 minutes",
+      "notes": "If using wooden skewers, soak in water for 30 minutes before grilling"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon vegetable oil",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup thinly sliced green onions, for garnish",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon sesame seeds, for garnish",
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons grated fresh ginger",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together teriyaki sauce, soy sauce, brown sugar, and grated ginger.",
+    "3. Add chicken to the bowl and toss to coat with the marinade.",
+    "4. Thread chicken and vegetables onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill with vegetable oil to prevent sticking.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "7. Garnish with green onions and sesame seeds.",
+    "8. Serve immediately and enjoy!",
+    "9. Let the skewers rest for a few minutes before serving.",
+    "10. Serve with steamed rice and your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "skewers",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-canadian-chicken-legs-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:42:06.600Z"
+}
