@@ -3987,17 +3987,15 @@
   },
   {
     "slug": "quenched-smoky-spanish-cornmeal-tortilla",
-    "title": "Quenched Smoky Spanish Cornmeal Tortilla",
+    "title": "Smoky Spanish Corn Fritters",
     "tags": [
-      "breakfast",
-      "cheesy",
-      "cornmeal",
-      "ovo-vegetarian",
-      "smoky",
-      "spanish"
+      "corn",
+      "spanish",
+      "fritters",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -17806,6 +17804,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-sweet-turkish-split-peas-revani--italian",
+    "title": "Turkish Revani Cake with Sweet Pea Ice Cream",
+    "tags": [
+      "italian",
+      "turkish",
+      "cake",
+      "ice-cream",
+      "dessert"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-snappy-malaysian-dum-satay--japanese",
+    "title": "Japanese Satay",
+    "tags": [
+      "japanese",
+      "satay",
+      "grilled",
+      "peanut-sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
