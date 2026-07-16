@@ -1,0 +1,93 @@
+{
+  "slug": "quick-german-fix-hash--german",
+  "title": "Sauerbraten",
+  "description": "A classic German pot roast dish marinated in vinegar, water, and spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beverages"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast (3 lbs)",
+      "amount": "1",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": "apple cider"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine beef, vinegar, water, onion, bay leaves, black pepper, salt, allspice, ginger, and brown sugar.",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 2 days or up to 4 days.",
+    "3. Preheat oven to 300°F (150°C).",
+    "4. Remove the meat from the marinade and place in a large Dutch oven.",
+    "5. Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "6. Braise the meat for 3-4 hours, or until it reaches 160°F (71°C).",
+    "7. Remove the meat from the oven and let it rest for 15 minutes.",
+    "8. Slice the meat against the grain and serve with the braising liquid."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "german",
+    "pot roast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-fix-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:20:12.894Z"
+}
