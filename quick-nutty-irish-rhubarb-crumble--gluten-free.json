@@ -1,0 +1,67 @@
+{
+  "slug": "quick-nutty-irish-rhubarb-crumble--gluten-free",
+  "title": "Rhubarb Crumble",
+  "description": "A sweet and tangy dessert made with fresh rhubarb and topped with a crunchy crumble. Perfect for those with gluten intolerance.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Nutty brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Irish sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the rhubarb into 1-inch pieces and place in a 9x9-inch baking dish.",
+    "Mix the quick oats, nutty brown sugar, and Irish sugar in a bowl.",
+    "Add the unsalted butter to the bowl and mix until crumbly.",
+    "Spread the crumble mixture evenly over the rhubarb.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the rhubarb is tender.",
+    "Serve warm with vanilla ice cream or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "rhubarb",
+    "crumble",
+    "gluten-free",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-nutty-irish-rhubarb-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:52:34.183Z"
+}
