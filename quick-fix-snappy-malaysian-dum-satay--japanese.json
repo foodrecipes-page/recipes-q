@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-snappy-malaysian-dum-satay--japanese",
+  "title": "Japanese Satay",
+  "description": "A popular Japanese street food, this satay recipe is a fusion of Asian flavors and traditional Japanese ingredients. Serve with steamed rice or noodles for a complete meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Satay",
+      "amount": "1 package"
+    },
+    {
+      "name": "Quick fix peanut sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Malaysian coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dum skewers",
+      "amount": "10"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread satay onto dum skewers.",
+    "Brush satay with vegetable oil and season with salt and pepper.",
+    "Grill satay for 2-3 minutes per side, or until slightly charred.",
+    "While satay is cooking, combine peanut sauce, coconut milk, and green onions in a small saucepan.",
+    "Bring sauce to a simmer over medium heat and cook until slightly thickened.",
+    "To serve, place grilled satay on a plate and drizzle with peanut sauce.",
+    "Sprinkle sesame seeds over top and garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "satay",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-snappy-malaysian-dum-satay--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:32:30.042Z"
+}
