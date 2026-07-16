@@ -17742,5 +17742,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quick-german-fix-hash--german",
+    "title": "Sauerbraten",
+    "tags": [
+      "beef",
+      "german",
+      "pot roast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 240,
+    "shard": "q"
   }
 ]
