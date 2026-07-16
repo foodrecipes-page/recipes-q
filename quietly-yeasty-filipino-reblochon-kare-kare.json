@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-yeasty-filipino-reblochon-kare-kare",
+  "title": "Filipino Kare Kare with Reblochon",
+  "description": "A modern twist on the classic Filipino dish, featuring tender ox tripe and vegetables in a rich peanut sauce, topped with melted Reblochon cheese.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ox tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kare kare powder",
+      "amount": "2 tablespoons",
+      "notes": "Filipino peanut sauce mix"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "or brown sugar"
+    },
+    {
+      "name": "Reblochon cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion and garlic; sauté until softened, about 3 minutes.",
+    "Add ox tripe; cook until browned, about 5 minutes.",
+    "Add peanuts, kare kare powder, and palm sugar; stir to combine.",
+    "Add 1 cup water; bring to a boil, then reduce heat to low and simmer, covered, until tripe is tender, about 1 hour.",
+    "Season with salt to taste.",
+    "Transfer to a serving platter; top with sliced Reblochon cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "kare-kare",
+    "reblochon",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-yeasty-filipino-reblochon-kare-kare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:17:42.394Z"
+}
