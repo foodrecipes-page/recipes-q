@@ -16236,17 +16236,15 @@
   },
   {
     "slug": "quintessential-crisp-tunisian-lentil-tagine",
-    "title": "Quintessential Crisp Tunisian Lentil Tagine",
+    "title": "Tunisian-Style Lentil Stew",
     "tags": [
-      "crispy-top",
-      "grilled",
-      "lentil-based",
-      "north-african",
-      "one-pot",
-      "vegan-friendly"
+      "lentil-stew",
+      "north-african-cuisine",
+      "vegetarian",
+      "comfort-food"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -17913,6 +17911,58 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-juicy-turkish-red-potatoes-menemen--mexican",
+    "title": "Turkish-Style Menemen Tacos",
+    "tags": [
+      "breakfast",
+      "mexican",
+      "turkish",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-flaky-german-dough-dumplings--french",
+    "title": "French Dumplings with Flaky Dough",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "homemade",
+      "dumplings"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-jamaican-buckwheat-stew--indian",
+    "title": "Buckwheat Jamaican Stew",
+    "tags": [
+      "indian-food",
+      "gluten-free-recipe",
+      "vegetarian-recipe",
+      "stew-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-juicy-indian-buns-kachori--chinese",
+    "title": "Savory Kachori Buns",
+    "tags": [
+      "chinese",
+      "snack",
+      "indian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 23,
     "shard": "q"
   }
 ]
