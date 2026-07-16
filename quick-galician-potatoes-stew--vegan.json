@@ -1,0 +1,75 @@
+{
+  "slug": "quick-galician-potatoes-stew--vegan",
+  "title": "Galician Stew Potato Fritters",
+  "description": "A vegan twist on traditional Galician Stew, served as crispy fritters.",
+  "cuisine": "Galician",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "Galician stew",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Vegan egg replacement",
+      "amount": "1/4 cup",
+      "notes": "flaxseed or chia seed mixture"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine the grated potatoes, oats, stew, egg replacement, salt, and pepper. Mix well.",
+    "Using a spoon, drop small portions of the mixture into the hot oil, flattening slightly with a spatula.",
+    "Fry the fritters for 4-5 minutes on each side, or until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "galician",
+    "stew",
+    "potatoes",
+    "fritters",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-galician-potatoes-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T20:44:02.370Z"
+}
