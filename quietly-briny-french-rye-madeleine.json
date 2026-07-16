@@ -1,0 +1,72 @@
+{
+  "slug": "quietly-briny-french-rye-madeleine",
+  "title": "French Country Bread",
+  "description": "A crusty French bread made with a mix of rye and French bread flours, perfect for serving with your favorite soups or stews.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French bread flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rye flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Rye",
+      "amount": "2 tbsp, for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Combine the flours, salt, and sugar in a bowl.",
+    "Add the yeast and water to the bowl and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Form the dough into a round loaf and place on a baking sheet.",
+    "Brush the top with water and sprinkle with rye.",
+    "Bake for 25-30 minutes until golden brown.",
+    "Remove from the oven and let cool on a wire rack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "artisan",
+    "breakfast",
+    "bread",
+    "country-french",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-briny-french-rye-madeleine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:12:12.451Z"
+}
