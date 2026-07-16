@@ -1,0 +1,90 @@
+{
+  "slug": "quick-fried-vietnamese-chicken-sizzling-crepe--french",
+  "title": "Vietnamese Chicken Crepes",
+  "description": "A delicious French-inspired Vietnamese dish made with crispy crepes and savory chicken filling.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Crepes",
+      "amount": "8-10",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of vegetable oil in a large skillet over medium heat.",
+    "Add the chopped onion and minced garlic and cook until softened, about 3-4 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes.",
+    "In a blender or food processor, combine the cooked shrimp mixture, chicken breast, soy sauce, fish sauce, and 1 tablespoon of water.",
+    "Blend until smooth and set aside.",
+    "Cook the crepes according to package instructions or until lightly browned.",
+    "Place a crepe on a flat surface and spoon about 1/4 cup of the chicken-shrimp mixture onto the center of the crepe.",
+    "Fold the crepe in half over the filling and repeat with the remaining crepes and filling.",
+    "Serve the crepes hot, garnished with sliced scallions and a side of your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "chicken",
+    "crepes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-vietnamese-chicken-sizzling-crepe--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:24:40.958Z"
+}
