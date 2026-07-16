@@ -1,0 +1,75 @@
+{
+  "slug": "quenched-syrian-peanut-butter-tagine--german",
+  "title": "Peanut Tagine Chicken with German Twist",
+  "description": "A hearty German-inspired dish with the flavors of North Africa and the richness of peanuts.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "peanuts",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "quenched chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "syrian honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "In a large pan, melt 1 tablespoon of butter over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of butter and the peanuts.",
+    "Cook for 1-2 minutes, until the peanuts are fragrant.",
+    "Add the tagine spice mix, chicken broth, and honey to the pan.",
+    "Stir to combine and bring to a simmer.",
+    "Return the chicken to the pan and cook until cooked through, about 10-12 minutes.",
+    "Serve hot, garnished with chopped peanuts if desired.",
+    "Traditionally, a tagine is cooked in a clay pot with a conical lid.",
+    "If you have access to a tagine, feel free to use it! Otherwise, a Dutch oven or large saucepan will work."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "north-african",
+    "chicken",
+    "peanuts"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-syrian-peanut-butter-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:15:55.379Z"
+}
