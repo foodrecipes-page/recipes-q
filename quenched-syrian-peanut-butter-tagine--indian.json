@@ -1,0 +1,121 @@
+{
+  "slug": "quenched-syrian-peanut-butter-tagine--indian",
+  "title": "Syrian Peanut Chicken Tagine",
+  "description": "A fusion of Indian and Middle Eastern flavors, this spicy chicken tagine is made with juicy chicken, crunchy peanuts, and a rich sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "quenched peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/4 cup",
+      "notes": "dairy or non-dairy, whisked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of peanut oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides and cooked through, about 6-8 minutes. Remove the chicken and set aside.",
+    "Add the remaining 1 tablespoon of peanut oil to the pot. Add the onion, garlic, and ginger and cook, stirring occasionally, until the onion is lightly browned, about 5 minutes.",
+    "Stir in the cumin, coriander, turmeric, and red pepper flakes (if using). Cook for 1 minute.",
+    "Add the chicken broth, peanut butter, salt, and black pepper to the pot. Stir to combine.",
+    "Return the chicken to the pot and simmer, covered, until the sauce has thickened and the chicken is coated, about 10-12 minutes.",
+    "Stir in the yogurt and cook for an additional 2-3 minutes, or until the sauce has cooled slightly.",
+    "Serve the chicken and sauce over rice or with naan bread. Garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "peanut",
+    "tagine",
+    "spicy",
+    "easy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-syrian-peanut-butter-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:30:09.795Z"
+}
