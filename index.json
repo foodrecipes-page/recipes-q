@@ -5362,16 +5362,15 @@
   },
   {
     "slug": "quick-chinese-asparagus-stir-fry",
-    "title": "Quick Chinese Asparagus Stir-fry",
+    "title": "Quick Chinese-Style Stir Fry",
     "tags": [
-      "dairy-free",
-      "one-pan",
       "quick",
-      "vegetarian",
-      "weeknight"
+      "chinese",
+      "stir-fry",
+      "asparagus"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -10967,15 +10966,15 @@
   },
   {
     "slug": "quick-saucy-monsoon-american-chicken-thighs-stew",
-    "title": "Quick Saucy Monsoon American Chicken Thighs Stew",
+    "title": "Monsoon Chicken Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "stew",
+      "monsoon",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 45,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -12314,18 +12313,15 @@
   },
   {
     "slug": "quick-thai-pomelo-and-tomato-som-tam-thai-tomatoes-som-tam",
-    "title": "Quick Thai Pomelo and Tomato Som Tam",
+    "title": "Spicy Thai Tom Yum Soup",
     "tags": [
-      "easy",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "quick",
-      "vegetarian",
-      "weeknight"
+      "spicy",
+      "thai",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -17970,6 +17966,45 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-glazed-jamaican-pork-burger--german",
+    "title": "German-Style BBQ Pork Burger",
+    "tags": [
+      "german",
+      "bbq",
+      "pork",
+      "burger"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-spicy-moroccan-chicken-tagine--french",
+    "title": "Spicy Chicken Tagine",
+    "tags": [
+      "french",
+      "mexican",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-russian-vegetable-curry--french",
+    "title": "Braised Beef Bourguignon",
+    "tags": [
+      "beef",
+      "french",
+      "stew",
+      "braised"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
     "shard": "q"
   }
 ]
