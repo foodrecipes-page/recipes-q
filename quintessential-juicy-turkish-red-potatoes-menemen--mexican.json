@@ -1,0 +1,69 @@
+{
+  "slug": "quintessential-juicy-turkish-red-potatoes-menemen--mexican",
+  "title": "Turkish-Style Menemen Tacos",
+  "description": "A twist on traditional menemen, this recipe combines the spicy flavors of Turkish cuisine with the crunch of Mexican tacos. Serve with warm tortillas and enjoy!",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Red potatoes",
+      "amount": "2-3",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Menemen",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Quintessential",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Juicy",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Turkish",
+      "amount": "1/4 cup",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add a splash of oil and cook the diced potatoes until tender, about 5 minutes.",
+    "Add the diced menemen, quintessential, juicy, and Turkish ingredients to the skillet.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the menemen mixture onto a tortilla and serving immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "mexican",
+    "turkish",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-juicy-turkish-red-potatoes-menemen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:45:38.137Z"
+}
