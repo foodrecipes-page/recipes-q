@@ -1,0 +1,83 @@
+{
+  "slug": "quick-sweet-turkish-split-peas-revani--italian",
+  "title": "Turkish Revani Cake with Sweet Pea Ice Cream",
+  "description": "A unique Italian dessert combining the flavors of Turkish Revani cake with a sweet pea ice cream.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "revani",
+      "amount": "1 package",
+      "notes": "Turkish-style sponge cake mix"
+    },
+    {
+      "name": "sweet peas",
+      "amount": "1 cup, fresh",
+      "notes": "For ice cream"
+    },
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "For ice cream"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "For Revani cake"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "For Revani cake"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "For Revani cake"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "For Revani cake"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "2 cups",
+      "notes": "For ice cream"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Prepare Revani cake according to package instructions.",
+    "Chill cake completely before slicing.",
+    "In a blender, puree sweet peas, split peas, and sugar until smooth.",
+    "In a separate bowl, whip heavy cream until stiff peaks form.",
+    "Fold pea mixture into whipped cream and freeze.",
+    "Slice Revani cake and serve with sweet pea ice cream."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "turkish",
+    "cake",
+    "ice-cream",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-turkish-split-peas-revani--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:06:26.521Z"
+}
