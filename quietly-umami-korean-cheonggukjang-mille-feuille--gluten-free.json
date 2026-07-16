@@ -1,0 +1,90 @@
+{
+  "slug": "quietly-umami-korean-cheonggukjang-mille-feuille--gluten-free",
+  "title": "Cheonggukjang Glazed Korean Dumplings",
+  "description": "A flavorful and savory gluten-free dish, featuring the rich umami taste of Korean cheonggukjang fermented soybean paste.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gluten-Free Dumpling Wrappers (4-5 wrappers)",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Cheonggukjang Fermented Soybean Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound, diced",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch, chopped",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine cheonggukjang, Korean chili flakes, soy sauce, sugar, and water. Whisk until smooth.",
+    "Bring the sauce to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "While the sauce is simmering, cook the diced pork belly in a separate pan over medium-high heat until browned, about 5-7 minutes.",
+    "Add the chopped scallions to the pork and stir to combine.",
+    "Place a dumpling wrapper on a flat surface and add 1-2 tablespoons of the pork and scallion mixture to the center of the wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper. Fold the dough over the filling to form a half-moon shape, and press the edges together to seal.",
+    "When the sauce has finished simmering, brush the dumplings with the sauce and cook for an additional 2-3 minutes, until golden brown.",
+    "Serve the dumplings hot with additional sauce for dipping.",
+    "Garnish with thinly sliced scallions and a drizzle of sesame oil, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "gluten-free",
+    "dinner",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-korean-cheonggukjang-mille-feuille--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:08:55.517Z"
+}
