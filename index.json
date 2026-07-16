@@ -10385,17 +10385,15 @@
   },
   {
     "slug": "quick-queso-less-brazilian-tomatoes-bake",
-    "title": "Quick Queso-Less Brazilian Tomatoes Bake",
+    "title": "Brazilian Queso Bake",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "brazilian",
+      "queso",
+      "casserole",
+      "veggie"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -11439,18 +11437,15 @@
   },
   {
     "slug": "quick-smoked-algerian-tarragon-tagine",
-    "title": "Quick Smoked Algerian Tarragon Tagine",
+    "title": "Smoked Chicken Tagine",
     "tags": [
-      "algerian",
-      "high-protein",
-      "keto",
-      "low-carb",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "smoked-chicken",
+      "tagine",
+      "moroccan",
+      "chicken-thighs"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -17963,6 +17958,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-canadian-chicken-legs-skewers--japanese",
+    "title": "Japanese Teriyaki Chicken Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "skewers",
+      "chicken"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
