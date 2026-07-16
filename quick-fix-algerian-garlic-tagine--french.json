@@ -1,0 +1,91 @@
+{
+  "slug": "quick-fix-algerian-garlic-tagine--french",
+  "title": "Chicken Tagine",
+  "description": "A classic French dish inspired by Algerian flavors, made with tender chicken and aromatic spices.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Quick-cooking apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in the bottom of a tagine or Dutch oven over medium heat.",
+    "2. Add the garlic and cook, stirring occasionally, until fragrant, 2-3 minutes.",
+    "3. Add the chicken and cook, stirring occasionally, until browned on all sides, 5-7 minutes.",
+    "4. Add the Algerian spice mix, salt, and black pepper. Cook, stirring occasionally, for 1 minute.",
+    "5. Add the chicken broth and bring to a simmer.",
+    "6. Cover the tagine or Dutch oven and transfer to the oven. Bake at 300°F (150°C) for 25-30 minutes, or until the chicken is cooked through.",
+    "7. Stir in the apricots and cook for an additional 5 minutes.",
+    "8. Garnish with parsley and serve hot.",
+    "9. Serve with couscous or rice, if desired.",
+    "10. Let the tagine rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "french",
+    "algerian",
+    "tagine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-algerian-garlic-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:50:22.951Z"
+}
