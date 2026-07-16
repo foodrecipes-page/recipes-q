@@ -1,0 +1,85 @@
+{
+  "slug": "quick-glazed-jamaican-pork-burger--german",
+  "title": "German-Style BBQ Pork Burger",
+  "description": "A twist on the classic burger, featuring a sweet and tangy German-inspired BBQ sauce, topped with glazed pork and crispy onions.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork burgers",
+      "amount": "4",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Quick BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Glazed onions",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "soft, sesame seed buns"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "4 slices",
+      "notes": "optional, beer-braised Swiss"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "In a small bowl, whisk together BBQ sauce, Jamaican seasoning, and a pinch of salt and pepper.",
+    "Brush the BBQ sauce mixture onto both sides of the pork burgers.",
+    "Grill the burgers for 5-7 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "Meanwhile, toast the burger buns on the grill.",
+    "Top each burger with a slice of cheese, if using.",
+    "Add a few slices of glazed onions on top of the cheese.",
+    "Assemble the burgers with lettuce, tomato, and a dollop of the remaining BBQ sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bbq",
+    "pork",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 34,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-glazed-jamaican-pork-burger--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:47:24.964Z"
+}
