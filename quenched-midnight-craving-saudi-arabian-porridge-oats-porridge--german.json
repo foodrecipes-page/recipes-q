@@ -1,0 +1,67 @@
+{
+  "slug": "quenched-midnight-craving-saudi-arabian-porridge-oats-porridge--german",
+  "title": "German Apple Oat Porridge",
+  "description": "A hearty German-inspired oat porridge with sautéed apples, perfect for a cold winter morning.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple",
+      "amount": "1 medium",
+      "notes": "Granny Smith or other sweet-tart variety"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or milk for a creamier porridge"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil.",
+    "Add the oats, cinnamon, and nutmeg. Reduce heat to medium and simmer for 5 minutes.",
+    "Core and dice the apple. In a separate pan, cook the apple over medium heat until tender.",
+    "Stir the cooked apple into the oat mixture.",
+    "Return the saucepan to low heat and cook for an additional 2-3 minutes, until the porridge has reached your desired consistency.",
+    "Serve warm, topped with additional cinnamon or nutmeg if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "oatmeal",
+    "german",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-midnight-craving-saudi-arabian-porridge-oats-porridge--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T01:15:01.989Z"
+}
