@@ -10343,13 +10343,13 @@
   },
   {
     "slug": "quick-quenched-uruguayan-melon-salad",
-    "title": "Quick Quenched Uruguayan Melon Salad",
+    "title": "Uruguayan Melon Salad",
     "tags": [
-      "melons",
-      "plant-based",
-      "quick",
       "salad",
-      "uruguay"
+      "uruguayan",
+      "summer",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 10,
@@ -17844,6 +17844,75 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-umami-korean-cheonggukjang-mille-feuille--gluten-free",
+    "title": "Cheonggukjang Glazed Korean Dumplings",
+    "tags": [
+      "korean",
+      "gluten-free",
+      "dinner",
+      "lunch"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-syrian-peanut-butter-tagine--german",
+    "title": "Peanut Tagine Chicken with German Twist",
+    "tags": [
+      "german",
+      "north-african",
+      "chicken",
+      "peanuts"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-melted-portuguese-cheese-quesadilla--thai",
+    "title": "Thai Cheese Quesadilla",
+    "tags": [
+      "thai",
+      "mexican",
+      "quesadilla",
+      "fusion"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fried-vietnamese-chicken-sizzling-crepe--french",
+    "title": "Vietnamese Chicken Crepes",
+    "tags": [
+      "french",
+      "vietnamese",
+      "chicken",
+      "crepes",
+      "breakfast"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-syrian-peanut-butter-tagine--indian",
+    "title": "Syrian Peanut Chicken Tagine",
+    "tags": [
+      "indian",
+      "chicken",
+      "peanut",
+      "tagine",
+      "spicy",
+      "easy",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
