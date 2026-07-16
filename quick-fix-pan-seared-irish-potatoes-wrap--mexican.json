@@ -1,0 +1,77 @@
+{
+  "slug": "quick-fix-pan-seared-irish-potatoes-wrap--mexican",
+  "title": "Mexican Irish Wrap",
+  "description": "A flavorful Mexican-inspired wrap filled with seared Irish potatoes and savory fix ingredients.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fix wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Quick pan",
+      "amount": "1",
+      "notes": "large skillet"
+    },
+    {
+      "name": "Seared fix",
+      "amount": "1/2 cup",
+      "notes": "diced and seared"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "cheddar or Monterey Jack"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "mild and spicy"
+    }
+  ],
+  "instructions": [
+    "Heat the Quick pan over medium heat.",
+    "Add the sliced Irish potatoes and cook for 5 minutes, or until tender.",
+    "Add the seared fix to the pan and cook for 2 minutes.",
+    "Warm the Fix wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wrap by spreading the salsa on the wrap, followed by the cooked potatoes and seared fix.",
+    "Top with shredded cheese and chopped cilantro.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "wrap",
+    "veggie",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-pan-seared-irish-potatoes-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:30:03.891Z"
+}
