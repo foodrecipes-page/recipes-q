@@ -1,0 +1,82 @@
+{
+  "slug": "quick-smoked-canadian-chicken-wings-skewers--keto",
+  "title": "Smoked Chicken Wings Keto Skewers",
+  "description": "A delicious keto recipe featuring smoked chicken wings on skewers, perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Chicken Wings",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Quick Skewers",
+      "amount": "10-12 skewers"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Canadian Cheddar Cheese",
+      "amount": "1/4 cup, shredded"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Thread smoked chicken wings onto quick skewers.",
+    "In a small bowl, mix together Canadian bacon, cheddar cheese, cilantro, lemon juice, olive oil, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto the chicken wings.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Cook to an internal temperature of at least 165°F (74°C).",
+    "Serve hot and enjoy!",
+    "Optional: Serve with a side of roasted vegetables or a salad for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "smoked-chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-canadian-chicken-wings-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:24:05.193Z"
+}
