@@ -1,0 +1,62 @@
+{
+  "slug": "quaint-dense-japanese-rice-onigiri",
+  "title": "Japanese-Style Tri-Colored Onigiri",
+  "description": "A Japanese staple made with three different fillings, wrapped in triangular-shaped rice balls. Perfect for a quick snack or lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salmon (canned in water)",
+      "amount": "1/2 cup",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Pickled plum (umeboshi)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Shredded daikon (white radish)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and cook according to the package instructions.",
+    "While the rice is cooking, prepare the fillings. Flake the salmon and chop the umeboshi.",
+    "Once the rice is cooked, allow it to cool down to room temperature.",
+    "Mix the rice with salt to taste and shape into small triangles.",
+    "Place a small amount of each filling in the center of each triangle.",
+    "Fold the triangle over the filling and press the edges together to seal the onigiri.",
+    "Serve immediately or store in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "rice",
+    "onigiri",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-dense-japanese-rice-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:35:39.560Z"
+}
