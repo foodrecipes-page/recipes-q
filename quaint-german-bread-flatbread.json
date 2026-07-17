@@ -1,0 +1,84 @@
+{
+  "slug": "quaint-german-bread-flatbread",
+  "title": "German-Style Bratwurst Flatbread",
+  "description": "A hearty German-inspired flatbread topped with grilled bratwurst, sauerkraut, and melted cheese.",
+  "cuisine": "German",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Bratwurst Sausage",
+      "amount": "4 sausages",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tbsp",
+      "notes": "German-style mustard"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill bratwurst sausages for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, grill flatbread for 2-3 minutes per side, or until crispy and lightly charred.",
+    "Slice onion and grill for 2-3 minutes per side, or until caramelized.",
+    "Top flatbread with grilled bratwurst, sauerkraut, cheese, and mustard.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!",
+    "Optional: Add additional toppings such as sliced jalapenos or diced tomatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "flatbread",
+    "bratwurst",
+    "sausage",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-german-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:28:05.854Z"
+}
