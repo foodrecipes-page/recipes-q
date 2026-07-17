@@ -18054,5 +18054,18 @@
     "cuisine": "Spanish",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-crispy-canadian-baby-aubergine-flatbread--indian",
+    "title": "Crispy Aloo Tikki",
+    "tags": [
+      "indian",
+      "snack",
+      "potato",
+      "flatbread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
