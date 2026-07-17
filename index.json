@@ -5166,18 +5166,17 @@
   },
   {
     "slug": "quick-canadian-poroidge-oats-hash",
-    "title": "Quick Canadian Porridge Oats Hash",
+    "title": "Canadian Hash and Poroidge Bowl",
     "tags": [
       "breakfast",
+      "brunch",
       "canadian",
-      "dinner",
-      "high-protein",
-      "one-pan",
-      "weeknight",
-      "whole30-friendly"
+      "hash",
+      "poroidge",
+      "oats"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -18141,6 +18140,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoked-canadian-chicken-wings-skewers--gluten-free",
+    "title": "Smoked Chicken Wings",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "bbq",
+      "grilled"
+    ],
+    "cuisine": "North American",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quaintly-roasted-italian-vegetable-ribollita--gluten-free",
+    "title": "Creamy Italian Ribollita Soup",
+    "tags": [
+      "italian",
+      "soup",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
