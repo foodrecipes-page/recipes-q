@@ -1,0 +1,79 @@
+{
+  "slug": "quaintly-roasted-italian-vegetable-ribollita--gluten-free",
+  "title": "Creamy Italian Ribollita Soup",
+  "description": "A hearty, comforting Italian soup made with roasted vegetables and served with a side of gluten-free bread.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Italian bread",
+      "amount": "2 cups, torn into pieces"
+    },
+    {
+      "name": "Roasted vegetables (zucchini, eggplant, carrots)",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Canned cannellini beans",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "Tomatoes, diced",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups, gluten-free"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup, optional"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced tomatoes, roasted vegetables, cannellini beans, and vegetable broth.",
+    "Bring the mixture to a simmer and cook for 20-25 minutes, or until the soup has thickened slightly.",
+    "Use an immersion blender to puree the soup until it's smooth.",
+    "If using ricotta cheese, stir it in just before serving.",
+    "Serve the soup hot, topped with a dollop of ricotta cheese and a side of gluten-free bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-roasted-italian-vegetable-ribollita--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:34:13.026Z"
+}
