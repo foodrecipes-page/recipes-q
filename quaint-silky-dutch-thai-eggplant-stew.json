@@ -1,0 +1,75 @@
+{
+  "slug": "quaint-silky-dutch-thai-eggplant-stew",
+  "title": "Thai Stew with Eggplant",
+  "description": "A delicious and flavorful Thai-inspired stew made with tender eggplant and a blend of aromatic spices. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai Stew",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Stew",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Silly Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Quaint Spice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Thai Stew in a large pan over medium-high heat.",
+    "Add the Quaint Spice and stir for 1-2 minutes.",
+    "Add the Eggplant and cook until tender, about 5 minutes.",
+    "Add the Dutch Stew and stir to combine.",
+    "Add the Soy Sauce, Silly Sauce, and Thai Basil.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "eggplant",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-silky-dutch-thai-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:13:49.073Z"
+}
