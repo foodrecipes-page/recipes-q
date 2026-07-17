@@ -1,0 +1,71 @@
+{
+  "slug": "quietly-crunchy-mediterranean-eggplant-skewers--japanese",
+  "title": "Japanese Eggplant Skewers with Crunchy Sesame",
+  "description": "A simple and flavorful Japanese-inspired side dish featuring grilled eggplant skewers with crunchy sesame seeds.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "quietly Japanese eggplant",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "crunchy sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "mediterranean olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the eggplant into 1-inch cubes.",
+    "3. Thread the eggplant cubes onto the bamboo skewers.",
+    "4. In a small bowl, mix together olive oil, salt, and pepper.",
+    "5. Brush the eggplant skewers with the olive oil mixture.",
+    "6. Grill the eggplant skewers for 3-4 minutes per side, or until tender.",
+    "7. Sprinkle with crunchy sesame seeds.",
+    "8. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "veggie",
+    "grilled",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-crunchy-mediterranean-eggplant-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:30:07.510Z"
+}
