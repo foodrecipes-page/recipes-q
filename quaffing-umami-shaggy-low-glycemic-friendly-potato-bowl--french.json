@@ -1,0 +1,64 @@
+{
+  "slug": "quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl--french",
+  "title": "French Potato Bowl",
+  "description": "A hearty French-inspired potato bowl with a variety of flavors, perfect for a comforting meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "Choose high glycemic potatoes for best results"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp",
+      "notes": "Dried mushroom powder or soy sauce works well"
+    },
+    {
+      "name": "friendlly",
+      "amount": "1 tsp",
+      "notes": "Herbs like thyme or rosemary add depth"
+    },
+    {
+      "name": "shaggy",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley or chives for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wash and peel the potatoes, then cut into 1-inch cubes.",
+    "Toss the potatoes with 1 tsp umami and 1 tsp friendly in a bowl.",
+    "Bake the potatoes in the oven for 20 minutes, or until tender.",
+    "While the potatoes are baking, heat 1 tsp low in a skillet over medium heat.",
+    "Add the shaggy to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Remove the potatoes from the oven and toss with the shaggy mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve the potatoes in a bowl, garnished with additional shaggy if desired.",
+    "Enjoy your French Potato Bowl!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "potato",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:12:41.717Z"
+}
