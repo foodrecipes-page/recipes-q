@@ -1,0 +1,64 @@
+{
+  "slug": "quietly-briny-french-rye-madeleine--vegetarian",
+  "title": "French Briny Focaccia",
+  "description": "A crispy on the outside and soft on the inside vegetarian focaccia topped with a rich briny spread and fragrant herbs.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette"
+    },
+    {
+      "name": "Quietly cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Briny capers",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rye flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh herbs",
+      "amount": "chopped parsley and thyme"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Slice the baguette into 1-inch thick rounds.",
+    "3. In a bowl mix cream cheese, rye flour, and a pinch of salt.",
+    "4. Spread a layer of cream cheese mixture on each baguette slice.",
+    "5. Top with capers and chopped herbs.",
+    "6. Bake for 10-12 minutes or until golden brown.",
+    "7. Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "focaccia",
+    "briny",
+    "cream-cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-briny-french-rye-madeleine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:16:37.893Z"
+}
