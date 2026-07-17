@@ -1,0 +1,68 @@
+{
+  "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf--thai",
+  "title": "Thai-Style Sunday Rice Pilaf",
+  "description": "A flavorful and aromatic Thai-style rice pilaf perfect for a relaxing Sunday meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chapssalgaru rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chapssalgaru rice and sweet rice, stir to combine with the onion and garlic mixture.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover the saucepan, and simmer for 18-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the lemon juice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "rice-pilaf",
+    "sunday-meal"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:27:14.074Z"
+}
