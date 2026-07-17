@@ -1,0 +1,83 @@
+{
+  "slug": "quaint-silky-chinese-pork-dumplings--mexican",
+  "title": "Mexican Pork Dumplings",
+  "description": "A unique twist on traditional dumplings, filled with tender pork and spices, served with a side of salsa and cilantro.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground pork"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 teaspoons",
+      "notes": "five-spice powder"
+    },
+    {
+      "name": "quaint",
+      "amount": "1 teaspoon",
+      "notes": "cumin"
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup",
+      "notes": "sriracha sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground pork, five-spice powder, cumin, salt, and pepper. Mix well until just combined.",
+    "Add sriracha sauce and mix until the pork is well coated.",
+    "Place a tablespoon of the pork mixture onto the center of a dumpling wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle, pressing the edges together to seal the dumpling.",
+    "Repeat with the remaining pork mixture and dumpling wrappers.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the dumplings to the skillet, being careful not to overcrowd.",
+    "Cook for 2-3 minutes on each side, until the dumplings are golden brown.",
+    "Serve the dumplings with your favorite salsa and a sprinkle of cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pork",
+    "dumplings",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-silky-chinese-pork-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:13:05.194Z"
+}
