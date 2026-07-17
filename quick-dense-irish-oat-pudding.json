@@ -1,0 +1,59 @@
+{
+  "slug": "quick-dense-irish-oat-pudding",
+  "title": "Quick Irish Oat Pudding",
+  "description": "A simple and comforting dessert made with rolled oats, perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Quick Oats",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Dense Irish Pudding Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large saucepan, bring the water to a boil.",
+    "2. Add the salt and stir to dissolve.",
+    "3. Gradually stir in the oats.",
+    "4. Reduce the heat to medium and simmer, covered, for 5 minutes.",
+    "5. Remove from heat and stir in the pudding mix and butter until the mixture is smooth.",
+    "6. Return the saucepan to the heat and cook, stirring constantly, for an additional 2 minutes.",
+    "7. Remove from heat and stir in the cinnamon.",
+    "8. Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "oatmeal",
+    "pudding",
+    "comfort-food"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-irish-oat-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:58:11.301Z"
+}
