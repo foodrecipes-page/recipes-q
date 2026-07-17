@@ -1100,17 +1100,15 @@
   },
   {
     "slug": "quaint-silky-dutch-thai-eggplant-stew",
-    "title": "Quaint Silky Dutch Thai Eggplant Stew",
+    "title": "Thai Stew with Eggplant",
     "tags": [
-      "comfort-food",
-      "dutch-thai",
-      "meal-prep",
-      "one-pot",
-      "vegan",
-      "vegetarian"
+      "thai",
+      "stew",
+      "eggplant",
+      "spicy"
     ],
-    "cuisine": "Dutch Thai",
-    "totalTimeMin": 45,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -18005,6 +18003,18 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 180,
+    "shard": "q"
+  },
+  {
+    "slug": "quaffing-umami-shaggy-low-glycemic-friendly-potato-bowl--french",
+    "title": "French Potato Bowl",
+    "tags": [
+      "french",
+      "potato",
+      "comfort-food"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
