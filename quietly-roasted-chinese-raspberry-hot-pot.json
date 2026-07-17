@@ -1,0 +1,85 @@
+{
+  "slug": "quietly-roasted-chinese-raspberry-hot-pot",
+  "title": "Savory Roasted Pot Roast",
+  "description": "A tender and flavorful pot roast dish that's perfect for a weeknight dinner. This recipe features a richly flavored sauce made with roasted ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pot roast",
+      "amount": "2 pounds",
+      "notes": "chuck roast or similar cut"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, potatoes, and onions"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pot roast with salt, pepper, and chinese five-spice powder.",
+    "Heat a large Dutch oven over medium-high heat. Add the hot sauce and sear the pot roast until browned on all sides.",
+    "Remove the pot roast from the pot and set aside. Add the onion and garlic to the pot and cook until the onion is softened.",
+    "Add the roasted vegetables to the pot and stir to combine. Cook for an additional 5 minutes.",
+    "Add the red wine to the pot and bring to a simmer. Scrape up any browned bits from the bottom of the pot.",
+    "Return the pot roast to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 to 3 hours, or until the pot roast is tender.",
+    "Remove the pot from the oven and let it cool for 10 minutes before slicing the pot roast against the grain.",
+    "Serve the pot roast with the roasted vegetables and sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pot-roast",
+    "roasted-vegetables",
+    "chinese-five-spice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-roasted-chinese-raspberry-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:56:00.061Z"
+}
