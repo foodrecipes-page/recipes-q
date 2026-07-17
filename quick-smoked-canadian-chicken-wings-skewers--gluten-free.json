@@ -1,0 +1,82 @@
+{
+  "slug": "quick-smoked-canadian-chicken-wings-skewers--gluten-free",
+  "title": "Smoked Chicken Wings",
+  "description": "A smoky twist on classic chicken wings, perfect for a gluten-free dinner.",
+  "cuisine": "North American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken wings",
+      "amount": "2 pounds",
+      "notes": "Drumsticks and flats"
+    },
+    {
+      "name": "Quick BBQ sauce",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Flavor enhancer"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Canadian bacon skewers",
+      "amount": "4-6 skewers",
+      "notes": "Optional side dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, around 400°F (200°C).",
+    "In a large bowl, mix together the smoked paprika, garlic powder, salt, and pepper.",
+    "Add the chicken wings to the bowl and toss to coat with the spice mixture.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the chicken wings for 20-25 minutes, or until cooked through.",
+    "During the last 5 minutes of grilling, brush the wings with the quick BBQ sauce.",
+    "Serve hot with Canadian bacon skewers on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "bbq",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-canadian-chicken-wings-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:33:14.264Z"
+}
