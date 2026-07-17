@@ -1,0 +1,104 @@
+{
+  "slug": "quenched-by-orange-croatian-herbal-vegetables-stew--thai",
+  "title": "Thai Vegetable Stew",
+  "description": "A flavorful and nutritious Thai-inspired stew made with a variety of vegetables and herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orange bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "croatian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "vegetables (carrots, potatoes, zucchini)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "herbal tea",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for another minute.",
+    "Add bell pepper and cook for 2 minutes.",
+    "Add vegetables, stew, and herbal tea. Bring to a boil, then reduce heat and simmer.",
+    "Add coconut milk, sugar, salt, and fish sauce. Stir to combine.",
+    "Simmer for 10-15 minutes or until the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-by-orange-croatian-herbal-vegetables-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:19:14.331Z"
+}
