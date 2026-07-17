@@ -413,18 +413,16 @@
   },
   {
     "slug": "quaint-dense-japanese-rice-onigiri",
-    "title": "Quaint Dense Japanese Rice Onigiri",
+    "title": "Japanese-Style Tri-Colored Onigiri",
     "tags": [
-      "gluten-free",
-      "japanese-food",
-      "kyushu",
-      "low-carb",
-      "mason-jar",
+      "japanese",
+      "rice",
       "onigiri",
-      "snack"
+      "snack",
+      "lunch"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -18166,6 +18164,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf--thai",
+    "title": "Thai-Style Sunday Rice Pilaf",
+    "tags": [
+      "thai",
+      "rice-pilaf",
+      "sunday-meal"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
