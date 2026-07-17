@@ -1,0 +1,85 @@
+{
+  "slug": "quick-saucy-monsoon-american-chicken-thighs-stew--indian",
+  "title": "Monsoon Chicken Stew",
+  "description": "A flavorful Indian-inspired stew made with tender chicken thighs and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "saucy",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "monsoon",
+      "amount": "2 tablespoons",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "american",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "quick",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "as needed"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning chicken"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the chicken thighs on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add a bit more oil if needed, then add the monsoon spice blend and cook for 1 minute.",
+    "Add the saucy and cook for 1 minute, stirring constantly.",
+    "Add the stew and water to the pot, scraping up any browned bits from the bottom.",
+    "Return the chicken to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20-25 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-saucy-monsoon-american-chicken-thighs-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:31:52.404Z"
+}
