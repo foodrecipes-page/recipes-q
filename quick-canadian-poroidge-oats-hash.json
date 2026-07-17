@@ -1,0 +1,64 @@
+{
+  "slug": "quick-canadian-poroidge-oats-hash",
+  "title": "Canadian Hash and Poroidge Bowl",
+  "description": "A hearty breakfast bowl filled with crispy Canadian hash, creamy poroidge, and a side of oats. Perfect for a cold morning.",
+  "cuisine": "Canadian",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian hash",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Poroidge",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1/4 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the Canadian hash according to package instructions.",
+    "In a separate pan, cook the oats until lightly toasted.",
+    "In a bowl, combine the cooked hash and oats.",
+    "Top the hash and oats mixture with a scoop of poroidge.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "canadian",
+    "hash",
+    "poroidge",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-canadian-poroidge-oats-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:48:23.410Z"
+}
