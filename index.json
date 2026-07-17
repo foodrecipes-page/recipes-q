@@ -18094,5 +18094,44 @@
     "cuisine": "french",
     "totalTimeMin": 22,
     "shard": "q"
+  },
+  {
+    "slug": "quick-smoked-canadian-chicken-wings-skewers--keto",
+    "title": "Smoked Chicken Wings Keto Skewers",
+    "tags": [
+      "keto",
+      "smoked-chicken",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-briny-french-rye-madeleine--vegetarian",
+    "title": "French Briny Focaccia",
+    "tags": [
+      "french",
+      "vegetarian",
+      "focaccia",
+      "briny",
+      "cream-cheese"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-lazy-sunday-sweet-rice-chapssalgaru-pilaf--keto",
+    "title": "Sunday Keto Pilaf",
+    "tags": [
+      "keto",
+      "korean",
+      "pilaf",
+      "sunday"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
