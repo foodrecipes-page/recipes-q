@@ -1,0 +1,76 @@
+{
+  "slug": "quickly-fermented-thai-mozzarella-larb--french",
+  "title": "Quick French Larb Mozzarella",
+  "description": "A fusion twist on the classic French tartine, featuring a tangy and savory Thai-inspired larb topping made with quickly fermented ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Quickly fermented red cabbage",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce (optional)",
+      "amount": "1/4 teaspoon",
+      "notes": "optional for added umami flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the mozzarella cheese into thin rounds.",
+    "Place the cheese on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 10-12 minutes, or until golden brown and melted.",
+    "While the cheese is baking, mix together the quickly fermented red cabbage, Thai basil, chili flakes, and fish sauce (if using) in a bowl.",
+    "Squeeze the lime juice over the cabbage mixture and toss to combine.",
+    "Once the cheese is done, remove it from the oven and top each round with a spoonful of the cabbage mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "thai",
+    "quick",
+    "fermented",
+    "mozzarella",
+    "larb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fermented-thai-mozzarella-larb--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:14:07.260Z"
+}
