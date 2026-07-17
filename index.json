@@ -18079,5 +18079,20 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "q"
+  },
+  {
+    "slug": "quickly-fermented-thai-mozzarella-larb--french",
+    "title": "Quick French Larb Mozzarella",
+    "tags": [
+      "french",
+      "thai",
+      "quick",
+      "fermented",
+      "mozzarella",
+      "larb"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "q"
   }
 ]
