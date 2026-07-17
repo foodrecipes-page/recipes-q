@@ -18016,5 +18016,43 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-saucy-monsoon-american-chicken-thighs-stew--indian",
+    "title": "Monsoon Chicken Stew",
+    "tags": [
+      "indian",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-slovakian-sauerkraut-skewers--mexican",
+    "title": "Carnitas Tacos with Sauerkraut and Salsa",
+    "tags": [
+      "mexican",
+      "tacos",
+      "carnitas",
+      "sauerkraut",
+      "salsa"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-spanish-tomatoes-pa-amb-tomaquet--gluten-free",
+    "title": "Spanish Tomato Stew",
+    "tags": [
+      "spanish",
+      "tomatoes",
+      "gluten-free"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
