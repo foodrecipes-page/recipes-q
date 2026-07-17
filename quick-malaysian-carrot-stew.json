@@ -1,0 +1,87 @@
+{
+  "slug": "quick-malaysian-carrot-stew",
+  "title": "Malaysian-Style Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef, crunchy carrots, and aromatic spices.",
+  "cuisine": "malaysian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quick curry powder",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for vegetarian version"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, omit for vegetarian version"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for thinning the stew"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "3. Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "4. Stir in the curry powder and cook for 1 minute.",
+    "5. Add the beef back into the pot, along with the carrot, fish sauce, soy sauce, chicken broth, and water.",
+    "6. Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-carrot-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:18:04.703Z"
+}
