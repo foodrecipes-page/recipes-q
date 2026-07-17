@@ -1,0 +1,94 @@
+{
+  "slug": "quietly-crispy-canadian-baby-aubergine-flatbread--indian",
+  "title": "Crispy Aloo Tikki",
+  "description": "A popular North Indian street food made with crispy potato patties served with a side of chutney.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and mashed"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "amchur powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "chutney",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the mashed potatoes, chopped onion, grated ginger, cumin powder, coriander powder, amchur powder, and salt. Mix well.",
+    "2. Divide the mixture into 6-8 portions, depending on how large you want your patties to be.",
+    "3. Shape each portion into a round patty.",
+    "4. Heat a non-stick pan with a small amount of oil over medium heat.",
+    "5. Once the oil is hot, add the patties and cook for about 4-5 minutes on each side, or until they are golden brown and crispy.",
+    "6. While the patties are cooking, toast the flatbread by grilling it on a pan or baking it in the oven for a few minutes.",
+    "7. Once the patties are done, place them on a serving plate with the toasted flatbread.",
+    "8. Serve the crispy aloo tikki with a side of chutney.",
+    "9. Garnish with a sprinkle of amchur powder and a squeeze of lemon juice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "potato",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-crispy-canadian-baby-aubergine-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:53:18.338Z"
+}
