@@ -9383,14 +9383,11 @@
   },
   {
     "slug": "quick-japanese-tofu-agedashi",
-    "title": "Quick Japanese Tofu Agedashi",
+    "title": "Japanese-Style Agedashi Tofu",
     "tags": [
-      "agedashi-style",
-      "gluten-free",
-      "hot-smoked-paprika",
-      "japanese-cuisine",
-      "lardons-recipes",
-      "tofu-recipes"
+      "japanese",
+      "tofu",
+      "agedashi"
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 35,
@@ -9620,17 +9617,14 @@
   },
   {
     "slug": "quick-malaysian-carrot-stew",
-    "title": "Quick Malaysian Carrot Stew",
+    "title": "Malaysian-Style Beef Stew",
     "tags": [
-      "claypot",
-      "gluten-free",
-      "low-glycemic",
-      "malaysian",
-      "quick",
-      "stew"
+      "beef",
+      "stew",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 110,
     "shard": "q"
   },
   {
@@ -18175,6 +18169,19 @@
       "sunday-meal"
     ],
     "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-by-orange-croatian-herbal-vegetables-stew--thai",
+    "title": "Thai Vegetable Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "q"
   }
