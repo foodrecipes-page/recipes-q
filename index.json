@@ -18067,5 +18067,18 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-silky-chinese-pork-dumplings--mexican",
+    "title": "Mexican Pork Dumplings",
+    "tags": [
+      "mexican",
+      "pork",
+      "dumplings",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
