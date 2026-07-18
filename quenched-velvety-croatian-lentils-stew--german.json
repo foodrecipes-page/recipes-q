@@ -1,0 +1,85 @@
+{
+  "slug": "quenched-velvety-croatian-lentils-stew--german",
+  "title": "German Lentil Stew",
+  "description": "A hearty and comforting German-inspired lentil stew, perfect for a cold winter's day. Made with a variety of vegetables and spices, this stew is a true delight.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "croatian lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "velvety stew meat",
+      "amount": "1 pound",
+      "notes": "Optional, can be omitted for vegetarian version"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "Sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "quenched vegetable broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and celery, and sauté until the vegetables are tender.",
+    "Add garlic and sauté for 1 minute.",
+    "Add lentils, stew meat (if using), and tomato paste (if using). Cook for 1-2 minutes.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30-40 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "german",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-velvety-croatian-lentils-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:47:42.129Z"
+}
