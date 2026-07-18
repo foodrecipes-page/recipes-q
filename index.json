@@ -4728,18 +4728,16 @@
   },
   {
     "slug": "quick-and-chewy-argentinian-black-beans-empanadas",
-    "title": "Quick and Chewy Argentinian Black Beans Empanadas",
+    "title": "Argentinian Black Bean Empanadas",
     "tags": [
       "argentinian",
-      "breakfast-for-dinner",
+      "south-american",
       "empanadas",
-      "low-carb",
-      "one-pan",
-      "quick-fix",
-      "vegan"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 25,
+    "cuisine": "South American",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8086,17 +8084,16 @@
   },
   {
     "slug": "quick-flaky-turkish-meat-manti",
-    "title": "Quick Flaky Turkish Meat Manti",
+    "title": "Turkish Manti (Stuffed Dumplings)",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "homemade",
-      "lactose-free",
-      "one-pan",
-      "weeknight"
+      "turkish",
+      "stuffed-dumplings",
+      "yogurt",
+      "paprika",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
@@ -12776,17 +12773,16 @@
   },
   {
     "slug": "quickly-baked-german-apple-strudel",
-    "title": "Quickly Baked German Apple Strudel",
+    "title": "German Apple Strudel",
     "tags": [
-      "apple-strudel",
-      "crowd-pleaser",
-      "german-dessert",
-      "herbal",
-      "puff-pastry",
-      "vegetarian-friendly"
+      "german",
+      "baked",
+      "apple",
+      "strudel",
+      "pastry"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 55,
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -18220,6 +18216,19 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-soft-thai-udon-noodles-khao-pad--indian",
+    "title": "Spicy Udon Noodle Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "noodles",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
