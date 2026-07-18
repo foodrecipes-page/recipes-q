@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-quenched-spanish-duck-crema-catalana",
+  "title": "Duck Crema Catalana",
+  "description": "A rich and creamy dessert inspired by the classic Spanish dessert, Crema Catalana. The addition of duck gives it a unique twist.",
+  "cuisine": "spanish",
+  "diet": [
+    "dairy",
+    "egg"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Duck eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Quenched honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spanish crema",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Catalana citrus zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and quenched honey. Heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "In a large bowl, whisk together the duck eggs and vanilla extract.",
+    "Gradually add the hot cream mixture to the eggs, whisking constantly to prevent the eggs from scrambling.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let them cool to room temperature.",
+    "Cover the ramekins with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Just before serving, sprinkle a layer of Spanish crema on top of each ramekin.",
+    "Use a kitchen torch to caramelize the crema, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "crema-catalana",
+    "duck-eggs",
+    "spanish-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-spanish-duck-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:52:12.625Z"
+}
