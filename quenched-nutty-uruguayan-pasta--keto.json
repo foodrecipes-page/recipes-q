@@ -1,0 +1,81 @@
+{
+  "slug": "quenched-nutty-uruguayan-pasta--keto",
+  "title": "Uruguayan Keto Pasta Bake",
+  "description": "A keto twist on a classic pasta bake, featuring Uruguayan flavors and a nutty crunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta (made from almond flour)",
+      "amount": "8 oz",
+      "notes": "Choose a keto-friendly pasta alternative"
+    },
+    {
+      "name": "Uruguayan Chorizo",
+      "amount": "1 lb",
+      "notes": "Slice into bite-sized pieces"
+    },
+    {
+      "name": "Nutty Pecorino Cheese",
+      "amount": "1 cup, shredded",
+      "notes": "Keto-friendly cheese alternative"
+    },
+    {
+      "name": "Quenched Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the chorizo"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced chorizo and cook, breaking it up with a spoon, until browned and crispy.",
+    "Add the cooked pasta, Pecorino cheese, garlic powder, salt, and pepper to the skillet.",
+    "Stir until the cheese is melted and the pasta is well coated.",
+    "Transfer the pasta mixture to a baking dish and top with additional Pecorino cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is golden brown and bubbly.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "uruguayan",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-nutty-uruguayan-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:36:05.354Z"
+}
