@@ -18352,5 +18352,30 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quirky-citrusy-greek-guanciale-dolmades--japanese",
+    "title": "Citrus-Glazed Dolmades with Greek Twist",
+    "tags": [
+      "japanese-fusion",
+      "citrus-glaze",
+      "dolmades"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-fermented-kenyan-meal-grill--italian",
+    "title": "Kenyan-Inspired Grilled Steak with Italian Flair",
+    "tags": [
+      "italian",
+      "kenyan",
+      "grilled",
+      "steak"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "q"
   }
 ]
