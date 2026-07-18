@@ -1,0 +1,92 @@
+{
+  "slug": "quick-malaysian-almonds-stir-fry--chinese",
+  "title": "Quick Malaysian Almond Stir Fry",
+  "description": "A fast and flavorful Chinese-inspired stir fry made with crunchy almonds and your choice of protein. Serve over steamed vegetables or rice for a nutritious meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken to the wok and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the wok and set aside.",
+    "In the same wok, add the sliced almonds and cook until lightly toasted, about 2-3 minutes.",
+    "Add the grated ginger and minced garlic to the wok and cook for 1 minute.",
+    "In a small bowl, whisk together the rice vinegar, soy sauce, and honey until well combined.",
+    "Pour the sauce into the wok and stir to combine with the ginger and garlic.",
+    "Return the chicken to the wok and stir to coat with the sauce.",
+    "Serve the chicken and sauce over steamed vegetables or rice, garnished with chopped scallions.",
+    "Enjoy your Quick Malaysian Almond Stir Fry!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "quick",
+    "easy",
+    "almonds"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-almonds-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:33:50.474Z"
+}
