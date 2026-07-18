@@ -1,0 +1,62 @@
+{
+  "slug": "quick-crisp-malaysian-cornmeal-bowl--french",
+  "title": "Crisp French Corn Fritters",
+  "description": "A French-inspired corn fritter recipe with a crunchy exterior and a soft interior, perfect for a snack or side dish.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quick",
+      "amount": "2 cups",
+      "notes": "fresh corn kernels"
+    },
+    {
+      "name": "malaysian",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large bowl for mixing"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the cornmeal and salt.",
+    "In a separate bowl, whisk together the coconut milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the corn kernels.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop the batter into the oil, making sure not to overcrowd the skillet.",
+    "Fry the fritters for about 3-4 minutes on each side, or until golden brown and crispy.",
+    "Drain the fritters on paper towels.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-fritters",
+    "french-cuisine",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-malaysian-cornmeal-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:40:15.632Z"
+}
