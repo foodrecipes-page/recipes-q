@@ -9129,15 +9129,14 @@
     "slug": "quick-irish-lamb-bake",
     "title": "Quick Irish Lamb Bake",
     "tags": [
-      "high-protein",
       "irish",
       "lamb",
-      "one-pan",
-      "weeknight",
-      "whole30"
+      "bake",
+      "quick",
+      "easy"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 170,
     "shard": "q"
   },
   {
@@ -16126,15 +16125,14 @@
   },
   {
     "slug": "quietly-yeasty-filipino-reblochon-kare-kare",
-    "title": "Filipino Kare Kare with Reblochon",
+    "title": "Filipino Yeast Bread",
     "tags": [
+      "bread",
       "filipino",
-      "kare-kare",
-      "reblochon",
-      "peanut-sauce"
+      "yeast"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 90,
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -18228,6 +18226,32 @@
       "spicy"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-malty-ukrainian-couscous-grill--german",
+    "title": "Grilled Sausage with Braised Sauerkraut and Couscous",
+    "tags": [
+      "german",
+      "sausage",
+      "sauerkraut",
+      "couscous"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-polish-sauerkraut-pierogi--mexican",
+    "title": "Pierogi Quesadilla",
+    "tags": [
+      "mexican",
+      "polish",
+      "quesadilla",
+      "pierogi"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "q"
   }
