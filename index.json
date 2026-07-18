@@ -18377,5 +18377,18 @@
     "cuisine": "italian",
     "totalTimeMin": 27,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-quintessential-peruvian-olive-tiradito--french",
+    "title": "Braised Lamb Shanks with Peruvian Olive and Quintessential Reduction",
+    "tags": [
+      "french",
+      "peruvian",
+      "lamb",
+      "braised"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 200,
+    "shard": "q"
   }
 ]
