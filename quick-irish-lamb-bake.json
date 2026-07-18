@@ -1,0 +1,97 @@
+{
+  "slug": "quick-irish-lamb-bake",
+  "title": "Quick Irish Lamb Bake",
+  "description": "A hearty and flavorful lamb dish inspired by traditional Irish cuisine. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 lbs",
+      "notes": "boneless"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4-5",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Bragg's Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt and pepper.",
+    "In a large bowl, whisk together the flour, garlic, and rosemary. Add the lamb and toss to coat.",
+    "In a large Dutch oven or oven-safe pot, cook the bacon over medium heat until crispy. Remove the bacon and set aside.",
+    "Add the lamb to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes, and cook for 5 minutes.",
+    "Add the Bragg's Apple Cider Vinegar and stir to combine.",
+    "Transfer the pot to the preheated oven and bake for 2-3 hours, or until the lamb is tender and the vegetables are cooked through.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and vegetables hot, garnished with fresh rosemary and crispy bacon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "bake",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-irish-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:38:11.496Z"
+}
