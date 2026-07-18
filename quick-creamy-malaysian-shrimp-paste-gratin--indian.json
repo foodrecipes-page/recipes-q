@@ -1,0 +1,88 @@
+{
+  "slug": "quick-creamy-malaysian-shrimp-paste-gratin--indian",
+  "title": "Creamy Shrimp Malabar",
+  "description": "A rich and flavorful Indian-inspired shrimp dish with a creamy malaysian-inspired sauce, served with a gratin crust. Perfect for a special occasion or a romantic dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 oz",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Quick Indian Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Malaysian Cream",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "1/4 cup",
+      "notes": "for gratin topping"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "for gratin crust"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the shrimp with salt and pepper.",
+    "In a large skillet, heat the butter over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Pour in the malaysian cream and bring to a simmer.",
+    "Reduce the heat to low and let sauce simmer for 2-3 minutes.",
+    "Stir in the parmesan cheese until melted.",
+    "Transfer the shrimp to a baking dish and spoon the sauce over the top.",
+    "Top with a layer of grated parmesan cheese and a sprinkle of chopped cilantro.",
+    "Bake in the preheated oven for 5-7 minutes, or until the cheese is golden brown and bubbly.",
+    "Serve immediately and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "shrimp",
+    "creamy",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 12,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-creamy-malaysian-shrimp-paste-gratin--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:18:05.492Z"
+}
