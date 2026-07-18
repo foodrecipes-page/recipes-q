@@ -1,0 +1,89 @@
+{
+  "slug": "quick-jamaican-pasta--italian",
+  "title": "Quick Jamaican Pasta",
+  "description": "A fusion of Jamaican jerk flavors with Italian pasta for a quick and flavorful meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta (spaghetti or linguine)",
+      "amount": "8 oz",
+      "notes": "such as penne or rotini"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional (for serving)"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/4 cup",
+      "notes": "optional (for serving)"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add chopped bell pepper and cook until tender, about 5 minutes.",
+    "Add jerk seasoning and jamaican allspice (if using) and cook for an additional minute.",
+    "Stir in cooked pasta and toss to combine with jerk seasoning mixture.",
+    "Cook for an additional 2-3 minutes to allow flavors to meld.",
+    "Serve with sour cream and parmesan cheese (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "jamaican",
+    "pasta",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-jamaican-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:17:07.537Z"
+}
