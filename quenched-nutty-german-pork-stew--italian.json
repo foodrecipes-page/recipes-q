@@ -1,0 +1,81 @@
+{
+  "slug": "quenched-nutty-german-pork-stew--italian",
+  "title": "Italian Pork Stew",
+  "description": "A hearty and flavorful Italian stew made with tender pork and rich vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "german",
+      "amount": "2 medium",
+      "notes": "potatoes, peeled and cubed"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Season the pork with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork on all sides, then remove from the pot.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the potatoes, beef broth, and browned pork back to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Stir in chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-nutty-german-pork-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:36:41.241Z"
+}
