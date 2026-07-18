@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fried-mediterranean-lamb-kebabs",
+  "title": "Lamb Kebabs with Mediterranean Flair",
+  "description": "A flavorful and easy-to-make dish that combines the taste of lamb with the richness of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4"
+    },
+    {
+      "name": "Mixed bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut lamb shoulder into 1-inch cubes and season with salt, pepper, and Mediterranean spices.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the lamb with olive oil and grill for 5-7 minutes per side, or until cooked to your liking.",
+    "Meanwhile, toast the pita bread and top with feta cheese, mixed bell peppers, red onion, and fresh parsley.",
+    "Drizzle lemon juice over the salad and serve with the lamb kebabs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "lamb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 24,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-mediterranean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:23:32.849Z"
+}
