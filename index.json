@@ -9216,15 +9216,12 @@
     "slug": "quick-jamaican-pasta",
     "title": "Quick Jamaican Pasta",
     "tags": [
-      "gluten-free",
-      "jamaican-cuisine",
-      "one-pan",
-      "quick-fix",
-      "weeknight",
-      "whole30"
+      "quick",
+      "pasta",
+      "jamaican"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -18253,6 +18250,60 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-malaysian-almonds-stir-fry--mexican",
+    "title": "Spicy Malaysian Chicken Fajitas",
+    "tags": [
+      "quick",
+      "mexican",
+      "chicken",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella--mexican",
+    "title": "Mexican Chicken Paella",
+    "tags": [
+      "mexican",
+      "spanish",
+      "chicken",
+      "paella"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-velvety-croatian-lentils-stew--german",
+    "title": "German Lentil Stew",
+    "tags": [
+      "lentils",
+      "german",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-slovakian-shallots-hash--french",
+    "title": "Pan-Seared Hash Browns with Shallots",
+    "tags": [
+      "french",
+      "breakfast",
+      "hash-browns",
+      "shallots",
+      "slovakian-spice"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
