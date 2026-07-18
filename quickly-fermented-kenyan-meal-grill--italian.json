@@ -1,0 +1,94 @@
+{
+  "slug": "quickly-fermented-kenyan-meal-grill--italian",
+  "title": "Kenyan-Inspired Grilled Steak with Italian Flair",
+  "description": "A fusion dish that combines the bold flavors of Kenya with the rich traditions of Italy. Grilled to perfection and served with a side of tangy sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grilled Steak",
+      "amount": "1.5 pounds",
+      "notes": "Choose a high-quality cut, such as ribeye or sirloin"
+    },
+    {
+      "name": "Quickly Fermented Kimchi",
+      "amount": "1/2 cup",
+      "notes": "Add a spicy kick to your dish"
+    },
+    {
+      "name": "Italian Flatbread",
+      "amount": "4 slices",
+      "notes": "Perfect for serving as a side"
+    },
+    {
+      "name": "Kenyan Chai Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "Add a warm, aromatic flavor"
+    },
+    {
+      "name": "Italian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Use for grilling and finishing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for added flavor"
+    },
+    {
+      "name": "Italian Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use to season the steak"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use to season the steak"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Add a spicy kick"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the steak with salt, black pepper, and Kenyan Chai Spice Blend.",
+    "Grill the steak for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, grill the Italian flatbread slices for 1-2 minutes per side, or until crispy.",
+    "In a small bowl, mix together quickly fermented kimchi, garlic, and Italian parsley.",
+    "To serve, place the grilled steak on top of the flatbread slices and spoon the kimchi mixture over the top.",
+    "Drizzle with Italian olive oil and sprinkle with red pepper flakes.",
+    "Garnish with additional Italian parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "kenyan",
+    "grilled",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fermented-kenyan-meal-grill--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:15:13.395Z"
+}
