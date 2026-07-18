@@ -1,0 +1,71 @@
+{
+  "slug": "quick-grilled-slovakian-sauerkraut-skewers--german",
+  "title": "Grilled Slovakian Sausages with Sauerkraut",
+  "description": "A traditional German-inspired dish featuring Slovakian sausages grilled to perfection and served with tangy sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausages",
+      "amount": "500g",
+      "notes": "look for a gluten-free option"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "250g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season sausages with paprika and black pepper.",
+    "Grill sausages for 5-6 minutes per side, or until nicely charred.",
+    "Meanwhile, sauté thinly sliced onions and minced garlic in a pan until softened.",
+    "Add drained and rinsed sauerkraut to the pan and stir to combine with onions and garlic.",
+    "Serve grilled sausages with sauerkraut mixture.",
+    "Optional: serve with a side of bread or potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grilled",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-slovakian-sauerkraut-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:44:42.181Z"
+}
