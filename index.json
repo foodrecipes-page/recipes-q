@@ -577,17 +577,16 @@
   },
   {
     "slug": "quaint-fluffy-dutch-herring-tagine",
-    "title": "Quaint Fluffy Dutch Herring Tagine",
+    "title": "Pan-Seared Herring with Quaint Salsa",
     "tags": [
-      "dutch-cuisine",
-      "fish-based",
+      "herring",
+      "quaint",
+      "dutch",
       "gluten-free",
-      "keto-friendly",
-      "midnight-craving",
-      "one-pot"
+      "vegetarian"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -2379,18 +2378,16 @@
   },
   {
     "slug": "quenched-crumbly-saudi-arabian-serrano-ham-tagine",
-    "title": "Saudi-Arabian Serrano Ham Tagine",
+    "title": "Saudi Arabian Ham and Serrano Tagine",
     "tags": [
-      "comfort-food",
-      "lamb",
-      "one-pan",
-      "pomegranate",
       "saudi-arabian",
-      "serrano-ham",
-      "tagine"
+      "ham",
+      "serrano-peppers",
+      "tagine",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 150,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -14693,14 +14690,13 @@
   },
   {
     "slug": "quietly-pungent-malaysian-chicken-satay",
-    "title": "Quietly Pungent Malaysian Chicken Satay",
+    "title": "Malaysian Satay",
     "tags": [
-      "gluten-free",
-      "grilled-meats",
-      "high-protein",
-      "nut-free",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "chicken",
+      "satay",
+      "malaysian",
+      "peanut sauce"
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
@@ -18427,6 +18423,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-pungent-mexican-cheese-chiles-rellenos--french",
+    "title": "French Stuffed Poblanos",
+    "tags": [
+      "french",
+      "mexican",
+      "vegetarian",
+      "cheese",
+      "poblanos"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-slovakian-sauerkraut-skewers--german",
+    "title": "Grilled Slovakian Sausages with Sauerkraut",
+    "tags": [
+      "german",
+      "grilled",
+      "slovakian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
     "shard": "q"
   }
 ]
