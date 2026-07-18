@@ -1,0 +1,82 @@
+{
+  "slug": "quick-uruguayan-peanut-cookies-bake--chinese",
+  "title": "Crispy Peanut Cookies",
+  "description": "A sweet and crunchy Chinese-inspired cookie with a peanut twist. Crunchy on the outside, chewy on the inside.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 cup",
+      "notes": "creamy peanut butter"
+    },
+    {
+      "name": "quick oats",
+      "amount": "1 cup",
+      "notes": "old fashioned oats"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "sodium-free baking powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "chopped peanuts, roasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line baking sheet with parchment paper.",
+    "In a large bowl, cream peanut butter, sugar, and butter until smooth.",
+    "Beat in eggs until well combined.",
+    "Stir in oats, baking powder, and salt.",
+    "Fold in peanuts.",
+    "Scoop tablespoon-sized balls of dough onto prepared baking sheet.",
+    "Flatten dough balls slightly.",
+    "Bake for 12-15 minutes or until edges are golden brown.",
+    "Let cookies cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "peanut",
+    "cookies",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-uruguayan-peanut-cookies-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:39:06.405Z"
+}
