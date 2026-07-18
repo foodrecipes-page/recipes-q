@@ -1,0 +1,83 @@
+{
+  "slug": "quick-fix-crunchy-mexican-chickpea-wrap--german",
+  "title": "German Chickpea Wrap",
+  "description": "A hearty German-inspired wrap filled with chickpea salad, crunchy slaw, and fresh herbs.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "quick fix wrap",
+      "amount": "1",
+      "notes": "whole wheat or white"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "shredded cabbage"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a pan or griddle over medium heat.",
+    "In a bowl, mix together chickpeas, mayonnaise, and mexican.",
+    "Add crunchy, onion, salt, and pepper to the bowl and mix well.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the chickpea salad onto the center of the wrap.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap to form a neat package.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "chickpea",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-crunchy-mexican-chickpea-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:36:30.356Z"
+}
