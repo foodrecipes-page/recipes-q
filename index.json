@@ -18390,5 +18390,43 @@
     "cuisine": "french",
     "totalTimeMin": 200,
     "shard": "q"
+  },
+  {
+    "slug": "quick-gooey-polish-beef-casserole--keto",
+    "title": "Keto Beef Casserole",
+    "tags": [
+      "beef",
+      "cheese",
+      "keto"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-nutty-uruguayan-pasta--keto",
+    "title": "Uruguayan Keto Pasta Bake",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-creamy-tunisian-couscous-tagine--japanese",
+    "title": "Japanese-Style Quenched Tagine",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "couscous",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
