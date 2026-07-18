@@ -1,0 +1,85 @@
+{
+  "slug": "quick-crisp-german-pork-stir-fry",
+  "title": "Crispy German Pork Schnitzel",
+  "description": "A classic German dish of thinly sliced pork, breaded and fried to a crispy perfection. This schnitzel recipe is a simple and delicious meal to serve with a side of your favorite vegetables or salad.",
+  "cuisine": "German",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": " thinly sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": " seasoned with salt and pepper"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": " beaten"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": " crisp and fine"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": " for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": " for serving"
+    }
+  ],
+  "instructions": [
+    "Step 1: In a shallow dish, mix together flour, salt, and pepper.",
+    "Step 2: In a separate dish, beat the eggs.",
+    "Step 3: In a third dish, place the panko breadcrumbs.",
+    "Step 4: Season the pork slices with salt and pepper.",
+    "Step 5: Dip each pork slice in the flour mixture, coating both sides, then in the eggs, and finally in the breadcrumbs, pressing gently to adhere.",
+    "Step 6: Heat about 1/2-inch of vegetable oil in a large skillet over medium-high heat.",
+    "Step 7: Fry the breaded pork slices in batches until golden brown and crispy, about 2-3 minutes per side.",
+    "Step 8: Transfer the fried schnitzel to a plate and serve immediately with lemon wedges.",
+    "Step 9: Serve hot and enjoy!",
+    "Step 10: Garnish with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-german-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:27:23.792Z"
+}
