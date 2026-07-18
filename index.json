@@ -2802,17 +2802,15 @@
   },
   {
     "slug": "quenched-gourmet-polish-bacon-gratin",
-    "title": "Quenched Gourmet Polish Bacon Gratin",
+    "title": "Polish Bacon Gratin",
     "tags": [
-      "bacon",
-      "breakfast",
-      "eggs",
       "polish",
-      "raclette-grill",
-      "whole30-friendly"
+      "breakfast",
+      "gratin",
+      "bacon"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "european",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -18304,6 +18302,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-wholesome-canadian-lentil-stew--german",
+    "title": "Lentil Eintopf",
+    "tags": [
+      "lentil",
+      "german",
+      "stew",
+      "wholesome"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-bouncy-korean-basil-bao--chinese",
+    "title": "Crunchy Bao Bites with Korean Basil",
+    "tags": [
+      "chinese",
+      "snack",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "q"
   }
 ]
