@@ -1,0 +1,74 @@
+{
+  "slug": "quick-and-chewy-argentinian-black-beans-empanadas",
+  "title": "Argentinian Black Bean Empanadas",
+  "description": "A delicious South American pastry filled with tender black beans, inspired by the flavors of Argentina. Perfect for a snack or light lunch.",
+  "cuisine": "South American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black beans, cooked",
+      "amount": "1 cup",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Argentinian empanada dough",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Quick cheese",
+      "amount": "1/2 cup",
+      "notes": "Shredded or crumbled"
+    },
+    {
+      "name": "Chewy onion",
+      "amount": "1/2 cup",
+      "notes": "Chopped or caramelized"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to desired thickness.",
+    "Place a tablespoon of black beans in the center of each dough piece.",
+    "Top with a sprinkle of quick cheese and a pinch of chewy onion.",
+    "Fold the dough in half to form a half-moon shape and press edges to seal.",
+    "Brush tops with a little water and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "south-american",
+    "empanadas",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "5g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-and-chewy-argentinian-black-beans-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:52:29.269Z"
+}
