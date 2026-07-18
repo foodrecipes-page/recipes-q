@@ -18195,5 +18195,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-malaysian-almonds-stir-fry--chinese",
+    "title": "Quick Malaysian Almond Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "quick",
+      "easy",
+      "almonds"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella--vegan",
+    "title": "Spanish Vegan Paella",
+    "tags": [
+      "vegan",
+      "spanish",
+      "paella"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
