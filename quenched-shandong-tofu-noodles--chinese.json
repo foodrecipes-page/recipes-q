@@ -1,0 +1,74 @@
+{
+  "slug": "quenched-shandong-tofu-noodles--chinese",
+  "title": "Shandong Noodle Soup",
+  "description": "A comforting Chinese noodle soup made with Shandong noodles, tofu, and a variety of vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shandong noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium heat.",
+    "Add the ginger and garlic and sauté for 1 minute.",
+    "Add the tofu and cook for 2 minutes.",
+    "Add the quenched and cook for 3 minutes.",
+    "Add the chicken broth and soy sauce, and bring to a boil.",
+    "Add the Shandong noodles and cook for 5 minutes, or until the noodles are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "noodles",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-shandong-tofu-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:49:58.040Z"
+}
