@@ -1,0 +1,69 @@
+{
+  "slug": "quirky-citrusy-greek-guanciale-dolmades--japanese",
+  "title": "Citrus-Glazed Dolmades with Greek Twist",
+  "description": "A fusion dish combining Japanese flavors with a Greek twist. Sweet and sour citrus glaze complements the crispy dolmades, while guanciale adds a savory touch.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dolmades",
+      "amount": "12 pieces",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Quirky Citrus Marmalade",
+      "amount": "2 tbsp",
+      "notes": "see note"
+    },
+    {
+      "name": "Guanciale",
+      "amount": "4 slices",
+      "notes": "thinly sliced, crispy"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place dolmades on a baking sheet lined with parchment paper.",
+    "Bake dolmades in the oven for 5-7 minutes, or until crispy.",
+    "While dolmades are baking, mix quirky citrus marmalade and 1 tbsp of water in a small saucepan.",
+    "Bring the mixture to a simmer over low heat.",
+    "Reduce the glaze by half, stirring occasionally.",
+    "Once the dolmades are crispy, remove them from the oven and brush the citrus glaze on top.",
+    "Crisp the guanciale in a pan over medium heat until golden brown.",
+    "To serve, place a dolmade on a plate, top with a piece of crispy guanciale, and drizzle with remaining citrus glaze.",
+    "Garnish with chopped cilantro and serve with a dollop of Greek yogurt."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-fusion",
+    "citrus-glaze",
+    "dolmades"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-citrusy-greek-guanciale-dolmades--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:48:15.394Z"
+}
