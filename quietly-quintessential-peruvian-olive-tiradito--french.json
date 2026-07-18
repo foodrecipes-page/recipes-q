@@ -1,0 +1,102 @@
+{
+  "slug": "quietly-quintessential-peruvian-olive-tiradito--french",
+  "title": "Braised Lamb Shanks with Peruvian Olive and Quintessential Reduction",
+  "description": "A classic French dish with a Peruvian twist, featuring tender lamb shanks in a rich and flavorful reduction sauce.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "quintessential wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tiradito sauce (peruvian citrus sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shanks with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb shanks from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the aji amarillo peppers and cook for 1 minute.",
+    "Add the vinegar and stir to deglaze the pot.",
+    "Return the lamb shanks to the pot and add the tiradito sauce, thyme, and rosemary.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb shanks for 2 1/2 to 3 hours, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce and discard the solids.",
+    "Serve the lamb shanks with the rich reduction sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peruvian",
+    "lamb",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quintessential-peruvian-olive-tiradito--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:07:18.867Z"
+}
