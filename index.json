@@ -1170,17 +1170,16 @@
   },
   {
     "slug": "quaint-snappy-canadian-prawns-skewers",
-    "title": "Quaint Snappy Canadian Prawns Skewers",
+    "title": "Grilled Prawn Skewers",
     "tags": [
-      "air-fryer",
-      "canadian-cuisine",
-      "fodmap-friendly",
-      "gluten-free",
-      "quick-snack",
-      "seafood"
+      "grilled",
+      "prawns",
+      "skewers",
+      "summer",
+      "barbecue"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 23,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -7818,16 +7817,15 @@
   },
   {
     "slug": "quick-fix-velvety-vietnamese-beef-fillet-bun",
-    "title": "Quick-Fix Velvety Vietnamese Beef Fillet Bun",
+    "title": "Vietnamese Beef Fillet Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "beef",
+      "skewers",
+      "snack"
     ],
     "cuisine": "vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -18449,6 +18447,35 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-crunchy-mexican-chickpea-wrap--german",
+    "title": "German Chickpea Wrap",
+    "tags": [
+      "german",
+      "chickpea",
+      "wrap",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 5,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoked-mediterranean-lamb-kebabs--vegan",
+    "title": "Smoked Mediterranean Lentil Bowl",
+    "tags": [
+      "lentils",
+      "smoked-paprika",
+      "mediterranean",
+      "vegan",
+      "lunch",
+      "bowl"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
