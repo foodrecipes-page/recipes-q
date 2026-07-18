@@ -678,16 +678,15 @@
   },
   {
     "slug": "quaint-german-bread-flatbread",
-    "title": "German-Style Bratwurst Flatbread",
+    "title": "German-Style Flatbread with Toasted Sausage",
     "tags": [
       "german",
-      "flatbread",
-      "bratwurst",
       "sausage",
-      "grilled"
+      "flatbread",
+      "bread"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 30,
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14944,17 +14943,14 @@
   },
   {
     "slug": "quietly-quenched-spanish-duck-crema-catalana",
-    "title": "Quietly Quenched Spanish Duck Crema Catalana",
+    "title": "Duck Crema Catalana",
     "tags": [
-      "creamy",
-      "gluten-free",
-      "kid-friendly",
-      "low-carb",
-      "spanish-cuisine",
-      "special-occasion"
+      "crema-catalana",
+      "duck-eggs",
+      "spanish-dessert"
     ],
-    "cuisine": "Spanish",
-    "totalTimeMin": 65,
+    "cuisine": "spanish",
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -18532,6 +18528,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-uruguayan-peanut-cookies-bake--chinese",
+    "title": "Crispy Peanut Cookies",
+    "tags": [
+      "chinese",
+      "peanut",
+      "cookies",
+      "bake"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
     "shard": "q"
   }
 ]
