@@ -1,0 +1,71 @@
+{
+  "slug": "quick-fix-velvety-vietnamese-beef-fillet-bun",
+  "title": "Vietnamese Beef Fillet Skewers",
+  "description": "A refreshing and flavorful dish that combines the tender beef fillet with the bold flavors of Vietnamese cuisine.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "250g",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tbsp",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "quick fix",
+      "amount": "1 tsp",
+      "notes": "garlic chili sauce"
+    },
+    {
+      "name": "bun",
+      "amount": "4-6",
+      "notes": "rice paper rolls"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/4 cup",
+      "notes": "mayonnaise"
+    },
+    {
+      "name": "beef",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    }
+  ],
+  "instructions": [
+    "Soak the rice paper rolls in water for 5 minutes.",
+    "In a large bowl, whisk together fish sauce, garlic chili sauce, and grated ginger.",
+    "Add the beef fillet pieces to the marinade and mix well.",
+    "Thread the beef fillet onto the rice paper rolls.",
+    "Brush the mayonnaise onto the beef fillet.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "beef",
+    "skewers",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-velvety-vietnamese-beef-fillet-bun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:14:33.031Z"
+}
