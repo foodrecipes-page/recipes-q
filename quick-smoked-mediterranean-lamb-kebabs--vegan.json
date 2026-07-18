@@ -1,0 +1,83 @@
+{
+  "slug": "quick-smoked-mediterranean-lamb-kebabs--vegan",
+  "title": "Smoked Mediterranean Lentil Bowl",
+  "description": "A flavorful and hearty vegan bowl filled with the rich flavors of the Mediterranean, featuring smoked lentils and a variety of spices.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the lentils and pick out any debris; place them in a medium saucepan with 2 cups of water.",
+    "2. Bring the water to a boil, then reduce the heat to a simmer and cook until the lentils are tender, about 20-25 minutes.",
+    "3. In a large skillet, heat the olive oil over medium-high heat.",
+    "4. Add the chopped red onion and cook until softened, about 3-4 minutes.",
+    "5. Add the minced garlic and cook for an additional minute, stirring constantly.",
+    "6. Stir in the smoked paprika and Mediterranean seasoning; cook for 1-2 minutes.",
+    "7. Add the cherry tomatoes and cook until they start to release their juices, about 3-4 minutes.",
+    "8. Fluff the cooked lentils with a fork and stir them into the skillet with the onion and tomato mixture.",
+    "9. Season with salt and pepper to taste, then garnish with chopped parsley.",
+    "10. Serve the smoked lentil mixture over a bed of rice or enjoy as a bowl on its own."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "smoked-paprika",
+    "mediterranean",
+    "vegan",
+    "lunch",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoked-mediterranean-lamb-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:05:17.902Z"
+}
