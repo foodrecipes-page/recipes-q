@@ -1,0 +1,90 @@
+{
+  "slug": "quick-fix-german-sausages-skillet--chinese",
+  "title": "Chinese Sausage Skillet",
+  "description": "A quick and easy Chinese-inspired dish made with German sausages and a mix of vegetables. Serve as a snack or light meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese sausages",
+      "amount": "4-6",
+      "notes": "available at Asian grocery stores"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "large skillet or wok"
+    },
+    {
+      "name": "Fix ingredients",
+      "amount": "1 cup",
+      "notes": "e.g. rice, noodles, or vegetables"
+    },
+    {
+      "name": "Quick cooking oil",
+      "amount": "2 tbsp",
+      "notes": "e.g. vegetable or peanut oil"
+    },
+    {
+      "name": "Quick onions",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Quick bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Quick garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Quick soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Quick oyster sauce (optional)",
+      "amount": "1 tbsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet or wok over medium-high heat.",
+    "Add the cooking oil and swirl to coat the pan.",
+    "Add the sliced onions and cook until they start to brown.",
+    "Add the sliced bell peppers and cook until they start to soften.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Chinese sausages and cook until they are browned and cooked through.",
+    "Add the fix ingredients and stir to combine.",
+    "Pour in the soy sauce and oyster sauce (if using) and stir to combine.",
+    "Cook for an additional 1-2 minutes until the ingredients are well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "skillet",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-german-sausages-skillet--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:40:55.278Z"
+}
