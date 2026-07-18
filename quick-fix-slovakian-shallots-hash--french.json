@@ -1,0 +1,65 @@
+{
+  "slug": "quick-fix-slovakian-shallots-hash--french",
+  "title": "Pan-Seared Hash Browns with Shallots",
+  "description": "A classic French-inspired dish made with crispy hash browns, caramelized shallots, and a hint of Slovakian spice.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups",
+      "notes": "Shredded potatoes"
+    },
+    {
+      "name": "Shallots",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Slovakian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "Available at most international grocery stores"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and grate the potatoes, then squeeze out excess moisture.",
+    "In a bowl, mix together the hash browns, Slovakian spice blend, and a pinch of salt.",
+    "Heat 1 tablespoon of butter in a skillet over medium-high heat.",
+    "Add the hash browns to the skillet and cook for 3-4 minutes, until crispy and golden brown.",
+    "Transfer the hash browns to a baking sheet and bake for 10-12 minutes, until crispy.",
+    "In the same skillet, add the remaining 1 tablespoon of butter and cook until melted.",
+    "Add the sliced shallots to the skillet and cook for 5-7 minutes, until caramelized.",
+    "Serve the hash browns hot, topped with caramelized shallots and a sprinkle of Slovakian spice blend."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "breakfast",
+    "hash-browns",
+    "shallots",
+    "slovakian-spice"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-slovakian-shallots-hash--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T08:04:06.342Z"
+}
