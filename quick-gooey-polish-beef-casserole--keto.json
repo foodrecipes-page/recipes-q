@@ -1,0 +1,84 @@
+{
+  "slug": "quick-gooey-polish-beef-casserole--keto",
+  "title": "Keto Beef Casserole",
+  "description": "A hearty and satisfying casserole dish made with ground beef, gooey cheese, and a crispy polish topping.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Quick Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Polish",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brown the ground beef in a large skillet over medium-high heat.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the casserole and cook for 1-2 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Top the mixture with the shredded cheese.",
+    "Sprinkle the crushed polish on top of the cheese.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheese",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-gooey-polish-beef-casserole--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:06:36.457Z"
+}
