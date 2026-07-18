@@ -1,0 +1,84 @@
+{
+  "slug": "quickly-fermented-kenyan-meal-grill--gluten-free",
+  "title": "Kenyan Grilled Mealie Cakes",
+  "description": "A gluten-free, flavorful dish from Kenya. These grilled mealie cakes are a great side dish or snack.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "stone-ground"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": " lukewarm"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "grilled meal",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cornmeal, salt, and cayenne pepper.",
+    "Add water and stir until the mixture forms a thick batter.",
+    "Add chopped onion and cilantro, if using.",
+    "Heat a non-stick skillet or grill over medium heat.",
+    "Using a spoon, drop small balls of the batter onto the skillet or grill.",
+    "Flatten the balls slightly with a spatula.",
+    "Brush the tops with coconut oil.",
+    "Cook for 4-5 minutes on each side, or until golden brown.",
+    "Serve hot with grilled meal on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "gluten-free",
+    "grill",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-fermented-kenyan-meal-grill--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:53:52.686Z"
+}
