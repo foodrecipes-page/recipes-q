@@ -1,0 +1,70 @@
+{
+  "slug": "quick-bouncy-korean-basil-bao--chinese",
+  "title": "Crunchy Bao Bites with Korean Basil",
+  "description": "A tasty and crunchy Chinese-inspired snack made with bao, Korean chili flakes, and fresh basil.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Bouncy rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Quick sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the bao into bite-sized pieces.",
+    "3. In a small bowl, mix together the Korean chili flakes and bouncy rice vinegar.",
+    "4. Add the quick sesame oil to the bowl and stir to combine.",
+    "5. Add the chopped basil to the bowl and stir to combine.",
+    "6. Toss the bao pieces in the bowl to coat with the Korean chili flake mixture.",
+    "7. Season with salt to taste.",
+    "8. Spread the bao pieces on a baking sheet in a single layer.",
+    "9. Bake for 10-12 minutes, or until crispy and golden brown.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-bouncy-korean-basil-bao--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:12:01.002Z"
+}
