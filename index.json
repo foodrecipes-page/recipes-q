@@ -5488,14 +5488,11 @@
   },
   {
     "slug": "quick-crisp-german-pork-stir-fry",
-    "title": "Quick Crisp German Pork Stir Fry",
+    "title": "Crispy German Pork Schnitzel",
     "tags": [
-      "crispy-pork",
-      "german-food",
-      "kid-friendly",
-      "one-pan",
-      "quick-dinner",
-      "stir-fry"
+      "german",
+      "pork",
+      "schnitzel"
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
@@ -18328,6 +18325,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-jamaican-pasta--italian",
+    "title": "Quick Jamaican Pasta",
+    "tags": [
+      "italian",
+      "jamaican",
+      "pasta",
+      "quick-cooking"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-creamy-malaysian-shrimp-paste-gratin--indian",
+    "title": "Creamy Shrimp Malabar",
+    "tags": [
+      "indian",
+      "shrimp",
+      "creamy",
+      "malaysian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
