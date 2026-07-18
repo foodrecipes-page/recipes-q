@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-pungent-malaysian-chicken-satay",
+  "title": "Malaysian Satay",
+  "description": "A classic Southeast Asian dish made with marinated chicken and grilled to perfection.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Cut into skewer-sized pieces"
+    },
+    {
+      "name": "Malaysian peanut sauce (store-bought or homemade)",
+      "amount": "200g",
+      "notes": "For serving"
+    },
+    {
+      "name": "Quietly oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Pungent lemongrass",
+      "amount": "2 stalks",
+      "notes": "Mince and use in marinade"
+    },
+    {
+      "name": "Kecap manis (sweet soy sauce)",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For marinade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lemongrass, kecap manis, coriander powder, cumin powder, and salt.",
+    "2. Add the chicken pieces to the marinade and mix well.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated chicken onto skewers.",
+    "6. Brush the skewers with quietly oil.",
+    "7. Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "8. Serve with Malaysian peanut sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "satay",
+    "malaysian",
+    "peanut sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-pungent-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:07:19.014Z"
+}
