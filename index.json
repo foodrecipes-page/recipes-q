@@ -1155,17 +1155,14 @@
   },
   {
     "slug": "quaint-smoky-middle-eastern-borlotti-beans-musakhan",
-    "title": "Quaint Smoky Middle Eastern Borlotti Beans Musakhan",
+    "title": "Smoky Musakhan Stew",
     "tags": [
-      "gluten-free",
       "middle-eastern",
-      "one-pot",
-      "paleo",
-      "smoky",
-      "whole30"
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 90,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8244,17 +8241,14 @@
   },
   {
     "slug": "quick-fried-mediterranean-lamb-kebabs",
-    "title": "Quick Fried Mediterranean Lamb Kebabs",
+    "title": "Lamb Kebabs with Mediterranean Flair",
     "tags": [
-      "gluten-free",
-      "kebabs",
+      "grill",
       "lamb",
-      "low-carb",
-      "mediterranean",
-      "quick"
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -18526,6 +18520,18 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crisp-malaysian-cornmeal-bowl--french",
+    "title": "Crisp French Corn Fritters",
+    "tags": [
+      "corn-fritters",
+      "french-cuisine",
+      "vegetarian-snacks"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
