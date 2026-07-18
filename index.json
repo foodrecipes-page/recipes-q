@@ -18477,5 +18477,18 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quickly-fermented-kenyan-meal-grill--gluten-free",
+    "title": "Kenyan Grilled Mealie Cakes",
+    "tags": [
+      "kenyan",
+      "gluten-free",
+      "grill",
+      "snack"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
