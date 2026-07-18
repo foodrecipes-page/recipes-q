@@ -1,0 +1,93 @@
+{
+  "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella--vegan",
+  "title": "Spanish Vegan Paella",
+  "description": "A vegan twist on the classic Spanish dish, made with saffron-infused rice, vegetables, and a touch of smokiness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quick Spanish Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan Saffron",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Yellow Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Artichoke Hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "canned or diced fresh"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the diced onion and red bell pepper, and cook until tender, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the smoked paprika and cook for 1 minute.",
+    "Stir in the tomato, artichoke hearts, and saffron. Cook for 2-3 minutes.",
+    "Add the quick Spanish rice to the pan and stir to combine with the vegetables and spices.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "spanish",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spanish-chicken-cocotte-spanish-chicken-paella--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:40:09.062Z"
+}
