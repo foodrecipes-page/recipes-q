@@ -1,84 +1,77 @@
 {
   "slug": "quaint-german-bread-flatbread",
-  "title": "German-Style Bratwurst Flatbread",
-  "description": "A hearty German-inspired flatbread topped with grilled bratwurst, sauerkraut, and melted cheese.",
-  "cuisine": "German",
+  "title": "German-Style Flatbread with Toasted Sausage",
+  "description": "A hearty flatbread topped with toasted sausage, onions, and a sprinkle of parsley. Perfect for a quick German-inspired meal.",
+  "cuisine": "german",
   "diet": [
-    "gluten"
+    "gluten",
+    "meat"
   ],
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Flatbread",
-      "amount": "1 package",
-      "notes": ""
+      "name": "flatbread",
+      "amount": "1 package (4 pieces)"
     },
     {
-      "name": "Bratwurst Sausage",
-      "amount": "4 sausages",
-      "notes": "German-style sausage"
+      "name": "sausages (such as Bratwurst)",
+      "amount": "4"
     },
     {
-      "name": "Onion",
+      "name": "onion",
       "amount": "1 medium",
-      "notes": ""
+      "notes": "thinly sliced"
     },
     {
-      "name": "Sauerkraut",
-      "amount": "1 cup",
-      "notes": ""
+      "name": "butter",
+      "amount": "2 tablespoons"
     },
     {
-      "name": "Cheddar Cheese",
-      "amount": "1 cup shredded",
-      "notes": ""
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
     },
     {
-      "name": "Mustard",
-      "amount": "2 tbsp",
-      "notes": "German-style mustard"
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
     },
     {
-      "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
-    },
-    {
-      "name": "Pepper",
-      "amount": "to taste",
-      "notes": ""
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
     }
   ],
   "instructions": [
-    "Preheat grill to medium-high heat.",
-    "Grill bratwurst sausages for 5-7 minutes per side, or until cooked through.",
-    "Meanwhile, grill flatbread for 2-3 minutes per side, or until crispy and lightly charred.",
-    "Slice onion and grill for 2-3 minutes per side, or until caramelized.",
-    "Top flatbread with grilled bratwurst, sauerkraut, cheese, and mustard.",
-    "Season with salt and pepper to taste.",
-    "Serve immediately and enjoy!",
-    "Optional: Add additional toppings such as sliced jalapenos or diced tomatoes."
+    "Preheat oven to 400°F (200°C).",
+    "Slice the sausages into 1-inch pieces and place on a baking sheet lined with parchment paper.",
+    "Drizzle with 1 tablespoon of butter and season with salt and pepper.",
+    "Bake in the preheated oven for 12-15 minutes, or until the sausages are toasted and lightly browned.",
+    "Meanwhile, slice the onion and separate into rings.",
+    "Place the flatbread slices on a baking sheet and brush with remaining 1 tablespoon of butter.",
+    "Bake in the oven for 2-3 minutes, or until lightly toasted.",
+    "Assemble the flatbread by topping each slice with a toasted sausage, some onion rings, and a sprinkle of parsley.",
+    "Serve hot and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "german",
-    "flatbread",
-    "bratwurst",
     "sausage",
-    "grilled"
+    "flatbread",
+    "bread"
   ],
   "nutrition": {
     "calories": 550,
-    "protein": 35,
+    "protein": 30,
     "carbs": 40,
     "fat": 30
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/quaint-german-bread-flatbread",
   "providerUsed": "groq",
-  "createdAt": "2026-07-15T16:28:05.854Z"
+  "createdAt": "2026-07-16T19:28:11.452Z"
 }
