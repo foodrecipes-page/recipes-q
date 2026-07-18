@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-polish-sauerkraut-pierogi--mexican",
+  "title": "Pierogi Quesadilla",
+  "description": "A Mexican twist on classic Polish pierogi, filled with cheese and wrapped in a tortilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish pierogi",
+      "amount": "8-10",
+      "notes": "any fillings removed"
+    },
+    {
+      "name": "Quenched cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "4",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the melted butter and swirl to coat.",
+    "Place a tortilla in the skillet and sprinkle shredded cheese on half of it.",
+    "Add 2-3 pierogi on top of the cheese.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with the remaining ingredients.",
+    "Cut the quesadillas into wedges and serve with sour cream and chopped cilantro if desired.",
+    "Serve with sauerkraut on the side as a topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "polish",
+    "quesadilla",
+    "pierogi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-polish-sauerkraut-pierogi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:03:31.043Z"
+}
