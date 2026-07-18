@@ -1,0 +1,83 @@
+{
+  "slug": "quick-malty-ukrainian-couscous-grill--german",
+  "title": "Grilled Sausage with Braised Sauerkraut and Couscous",
+  "description": "A classic German dish featuring grilled sausage, tangy sauerkraut, and fluffy couscous.",
+  "cuisine": "german",
+  "diet": [
+    "gluten",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Grill the Bratwurst over medium-high heat for 5-7 minutes per side, or until browned and cooked through.",
+    "2. In a large skillet, heat the butter over medium heat.",
+    "3. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "4. Add the sauerkraut, caraway seeds, black pepper, and salt to the skillet.",
+    "5. Cook the sauerkraut mixture for 5-7 minutes, stirring occasionally, or until heated through.",
+    "6. Cook the couscous according to package instructions.",
+    "7. To serve, place a cooked Bratwurst on top of a scoop of couscous and spoon the braised sauerkraut over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "sauerkraut",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malty-ukrainian-couscous-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:42:56.226Z"
+}
