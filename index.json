@@ -18184,5 +18184,18 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-shandong-tofu-noodles--chinese",
+    "title": "Shandong Noodle Soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "noodles",
+      "tofu"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
