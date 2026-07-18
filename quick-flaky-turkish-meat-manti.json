@@ -1,0 +1,76 @@
+{
+  "slug": "quick-flaky-turkish-meat-manti",
+  "title": "Turkish Manti (Stuffed Dumplings)",
+  "description": "A traditional Turkish dish of steamed dumplings filled with spiced meat, served with a dollop of yogurt and a sprinkle of paprika. Enjoy as a snack or light meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground meat",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Spices (cumin, paprika, salt, black pepper)",
+      "amount": "1 tsp each"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups, for dumpling dough"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup, for serving"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp, for garnish"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1/4 cup, for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine ground meat, chopped onion, and spices. Mix well.",
+    "Knead the flour and water to form a dough. Divide into small balls.",
+    "Roll out each ball into a thin circle. Place a tablespoon of the meat mixture in the center.",
+    "Fold the dough over the filling to form a triangle or a square shape. Press the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Place the dumplings in a steamer basket, leaving some space between each one.",
+    "Steam the dumplings over boiling water for 10-12 minutes, or until cooked through.",
+    "Serve the manti hot with a dollop of yogurt and a sprinkle of paprika. Garnish with Turkish delight, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "stuffed-dumplings",
+    "yogurt",
+    "paprika",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-flaky-turkish-meat-manti",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:51:19.646Z"
+}
