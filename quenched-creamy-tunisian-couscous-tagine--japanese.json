@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-creamy-tunisian-couscous-tagine--japanese",
+  "title": "Japanese-Style Quenched Tagine",
+  "description": "A twist on traditional Japanese flavors, this dish brings together the warm, comforting spices of North Africa and the freshness of Japanese ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quenched tagine",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "Or sesame oil for added depth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high.",
+    "Add onion and mushrooms; cook until tender.",
+    "Add soy sauce, rice vinegar, and maple syrup; stir to combine.",
+    "Add quenched tagine and cook until heated through.",
+    "Serve over couscous.",
+    "Garnish with ginger and serve immediately.",
+    "Optional: Add sliced green onions or sesame seeds for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "couscous",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-creamy-tunisian-couscous-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:49:13.882Z"
+}
