@@ -1,0 +1,95 @@
+{
+  "slug": "quick-jamaican-pasta--german",
+  "title": "German Sausage Pasta",
+  "description": "A hearty German-inspired pasta dish featuring sausage and vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican sausage",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "Quick onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Quick bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Quick tomato",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Quick tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Quick black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Quick parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the Jamaican sausage to the skillet and cook until browned.",
+    "Add the tomato paste to the skillet and cook for 1-2 minutes.",
+    "Add the canned tomato to the skillet and stir to combine.",
+    "Add the cooked pasta to the skillet and toss with the sausage and vegetable mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "sausage",
+    "pasta",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-jamaican-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T17:50:07.887Z"
+}
