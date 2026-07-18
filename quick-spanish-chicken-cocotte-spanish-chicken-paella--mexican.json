@@ -1,0 +1,95 @@
+{
+  "slug": "quick-spanish-chicken-cocotte-spanish-chicken-paella--mexican",
+  "title": "Mexican Chicken Paella",
+  "description": "A classic Mexican twist on the traditional Spanish dish, featuring chicken and rice cooked in a delicious spicy tomato sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 lb boneless, skinless chicken breast, cut into 1-inch pieces",
+      "notes": "season with fajita seasoning"
+    },
+    {
+      "name": "paella",
+      "amount": "1 cup Spanish-style rice",
+      "notes": "preferably uncooked"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "for added heat"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "for added flavor and color"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or paella pan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add the chili powder and cumin and cook for 1 minute, stirring constantly.",
+    "Add the tomato sauce, chicken broth, and saffron threads. Stir to combine.",
+    "Add the paella rice and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes.",
+    "Fluff the paella with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "spanish",
+    "chicken",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-spanish-chicken-cocotte-spanish-chicken-paella--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:27:53.781Z"
+}
