@@ -3987,17 +3987,14 @@
   },
   {
     "slug": "quenched-smoky-uruguayan-beef-stew",
-    "title": "Quenched Smoky Uruguayan Beef Stew",
+    "title": "Uruguayan Beef Stew",
     "tags": [
-      "dense-dinner",
-      "midnight-craving",
-      "smoky",
-      "sous-vide",
-      "uruguayan",
-      "whole30-friendly"
+      "beef-stew",
+      "uruguayan-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 1460,
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {
@@ -18567,6 +18564,30 @@
       "curry"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-fermented-moroccan-lentil-sellou--keto",
+    "title": "Keto Moroccan Stew",
+    "tags": [
+      "keto",
+      "low-carb",
+      "moroccan"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-ethiopian-prawns-wot--vegan",
+    "title": "Ethiopian-Style Vegan Stew",
+    "tags": [
+      "vegan",
+      "ethiopian",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
     "totalTimeMin": 40,
     "shard": "q"
   }
