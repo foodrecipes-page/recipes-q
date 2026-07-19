@@ -1,0 +1,58 @@
+{
+  "slug": "quaint-yeasty-australian-pineapple-skewers--vegan",
+  "title": "Grilled Pineapple Skewers",
+  "description": "A simple and sweet vegan dessert, perfect for warm weather. This recipe showcases the natural sweetness of pineapple, paired with a hint of yeasty flavor.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, chunks"
+    },
+    {
+      "name": "Yeasty bread, stale",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "2",
+      "notes": "such as bush cherry or quandong"
+    },
+    {
+      "name": "Quaint thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium heat.",
+    "2. Thread pineapple, bush tomatoes, and thyme onto skewers.",
+    "3. Brush the skewers with a little water.",
+    "4. Sprinkle crumbled stale bread over the skewers.",
+    "5. Grill for 5-7 minutes per side, or until the pineapple is caramelized and the bread is toasted.",
+    "6. Serve warm, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "grilled",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-yeasty-australian-pineapple-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:35:16.452Z"
+}
