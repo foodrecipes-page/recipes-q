@@ -2471,16 +2471,14 @@
   },
   {
     "slug": "quenched-egyptian-split-peas-dal",
-    "title": "Quenched Egyptian SPLIT PEAS Dal",
+    "title": "Egyptian Lentil Dal",
     "tags": [
-      "fodmap-friendly",
-      "high-protein",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "lentil-curry",
+      "north-african-cuisine",
+      "vegetarian-recipe"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -3824,18 +3822,14 @@
   },
   {
     "slug": "quenched-slovakian-lentils-soup",
-    "title": "Quenched Slovakian Lentils Soup",
+    "title": "Slovakian Lentil Soup",
     "tags": [
-      "aerated",
-      "bamboo-steamer",
-      "jain-friendly",
-      "jammy",
-      "one-pot",
-      "slovakian",
-      "vegetarian"
+      "lentil-soup",
+      "slovakian-recipe",
+      "vegetarian-recipe"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "Slovak",
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -18561,6 +18555,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crunchy-ukrainian-vegetable-stew--indian",
+    "title": "Spicy Vegetable Stew",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "stew",
+      "curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
