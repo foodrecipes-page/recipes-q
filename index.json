@@ -1800,18 +1800,14 @@
   },
   {
     "slug": "quality-dense-russian-peanut-stew",
-    "title": "Quality Dense Russian Peanut Stew",
+    "title": "Braised Beef Stew",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "hearty",
-      "one-pot",
-      "peanut",
-      "russian",
-      "stew"
+      "beef",
+      "stew",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "cuisine": "russian",
+    "totalTimeMin": 200,
     "shard": "q"
   },
   {
@@ -11908,14 +11904,13 @@
   },
   {
     "slug": "quick-springy-middle-eastern-chickpea-pilaf",
-    "title": "Quick Springy Middle-Eastern Chickpea Pilaf",
+    "title": "Mediterranean Chickpea Pilaf",
     "tags": [
       "chickpea",
-      "dinner",
-      "gluten-free",
-      "kid-friendly",
-      "lunch",
-      "middle-eastern"
+      "pilaf",
+      "middle-eastern",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
@@ -18541,6 +18536,20 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-french-beans-pie--italian",
+    "title": "Quick Italian Bean Pie",
+    "tags": [
+      "italian",
+      "lunch",
+      "vegetarian",
+      "beans",
+      "pie"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
