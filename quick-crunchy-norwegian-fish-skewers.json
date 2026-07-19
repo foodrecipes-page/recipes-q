@@ -1,0 +1,76 @@
+{
+  "slug": "quick-crunchy-norwegian-fish-skewers",
+  "title": "Grilled Fish Skewers with Crunchy Slaw",
+  "description": "A quick and easy recipe for grilled fish skewers served with a crunchy slaw made with norwegian ingredients.",
+  "cuisine": "norwegian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon Fillets",
+      "amount": "4 Fillets",
+      "notes": "Fresh salmon fillets for the skewers"
+    },
+    {
+      "name": "Quick Pickle",
+      "amount": "1/4 cup",
+      "notes": "Homemade quick pickle for serving"
+    },
+    {
+      "name": "Crunchy Slaw",
+      "amount": "2 cups",
+      "notes": "Shredded cabbage and carrot slaw with a crunchy texture"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lemon juice for marinating"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10 Skewers",
+      "notes": "Norwegian skewers for grilling the fish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the skewers before grilling"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the fish"
+    }
+  ],
+  "instructions": [
+    "1. Cut the salmon fillets into bite-sized pieces and thread onto the skewers, leaving a small space between each piece.",
+    "2. In a small bowl, whisk together lemon juice and olive oil. Brush the skewers with the marinade and season with salt and pepper.",
+    "3. Preheat the grill to medium-high heat. Grill the skewers for 8-10 minutes, turning occasionally, until the fish is cooked through.",
+    "4. Meanwhile, mix together the crunchy slaw ingredients and set aside.",
+    "5. Once the skewers are cooked, serve with the crunchy slaw and a dollop of quick pickle on top.",
+    "6. Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-fish",
+    "norwegian-cuisine",
+    "fish-skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-norwegian-fish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:09:02.216Z"
+}
