@@ -1,0 +1,66 @@
+{
+  "slug": "quick-fix-ethiopian-prawns-wot--vegan",
+  "title": "Ethiopian-Style Vegan Stew",
+  "description": "A flavorful and spicy vegan stew inspired by the flavors of Ethiopia, made with a variety of vegetables and a rich wot sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ethiopian berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and cook until softened.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add tomato paste and berbere spice blend and cook for 1 minute.",
+    "Add broth and bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over injera or with rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ethiopian",
+    "stew"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-ethiopian-prawns-wot--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:48:05.827Z"
+}
