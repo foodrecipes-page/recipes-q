@@ -1,0 +1,90 @@
+{
+  "slug": "quick-citrusy-korean-tofu-skillet--german",
+  "title": "Korean-Style Pan-Fried Tofu with Citrusy German Twist",
+  "description": "A fusion twist on traditional German cuisine, this dish combines the bold flavors of Korea with the comfort of a hearty skillet meal.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional for some heat"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "citrus juice (orange or lemon)",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tbsp",
+      "notes": "such as canola or avocado oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "german seasonings (such as paprika, caraway, or marjoram)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large skillet over medium-high heat.",
+    "Add the onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the tofu and cook until golden brown on all sides, about 5-7 minutes.",
+    "Add the korean chili flakes, grated ginger, citrus juice, and german seasonings (if using).",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve hot, garnished with additional citrus wedges (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "koreanfusion",
+    "germaninspired",
+    "tofu",
+    "skilletmeal",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-citrusy-korean-tofu-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:28:43.554Z"
+}
