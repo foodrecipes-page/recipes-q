@@ -1,0 +1,89 @@
+{
+  "slug": "quenched-smoky-uruguayan-beef-stew",
+  "title": "Uruguayan Beef Stew",
+  "description": "A hearty and flavorful stew originating from Uruguay, made with tender beef and smoky spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 large onion, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "3 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "stew",
+      "amount": "2 carrots, peeled and chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic, carrots, and smoked paprika to the pot and cook for 1 minute.",
+    "Add the beef back into the pot, along with the water, salt, and pepper.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the beef is tender.",
+    "If using red wine, stir it in during the last 30 minutes of cooking.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "uruguayan-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-uruguayan-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:44:23.871Z"
+}
