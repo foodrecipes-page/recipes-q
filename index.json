@@ -11789,17 +11789,15 @@
   },
   {
     "slug": "quick-spicy-jamaican-chicken-skewers",
-    "title": "Quick Spicy Jamaican Chicken Skewers",
+    "title": "Spicy Jamaican Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "jamaican-cuisine",
-      "low-carb",
-      "quick-dinner",
-      "spicy-food"
+      "chicken",
+      "grill",
+      "jamaican",
+      "spicy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 27,
+    "totalTimeMin": 36,
     "shard": "q"
   },
   {
@@ -18550,6 +18548,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-yeasty-australian-pineapple-skewers--vegan",
+    "title": "Grilled Pineapple Skewers",
+    "tags": [
+      "vegan",
+      "dessert",
+      "grilled",
+      "pineapple"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
     "shard": "q"
   }
 ]
