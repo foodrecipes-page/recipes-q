@@ -1,0 +1,98 @@
+{
+  "slug": "quintessential-juicy-korean-samphire-guk",
+  "title": "Korean-Style Samphire Stir Fry",
+  "description": "A flavorful and spicy stir-fry dish made with samphire, inspired by Korean cuisine. Perfect as a side or main course. ",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Samphire",
+      "amount": "1 bunch",
+      "notes": "trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "Guk",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Juicy quintessential beef substitute",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced, optional"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the beef substitute (if using) and cook until browned, about 2-3 minutes. Remove from the skillet and set aside.",
+    "Add the garlic and ginger to the skillet and cook for 1 minute, until fragrant.",
+    "Add the samphire, guk, and chili flakes to the skillet. Cook for 2-3 minutes, until the samphire starts to soften.",
+    "Add the soy sauce and rice vinegar (if using) to the skillet. Stir to combine.",
+    "Return the beef substitute (if using) to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the samphire is tender and the sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with green onions and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "samphire",
+    "guk",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-juicy-korean-samphire-guk",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:52:32.620Z"
+}
