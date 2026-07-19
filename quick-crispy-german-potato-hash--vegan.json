@@ -1,0 +1,65 @@
+{
+  "slug": "quick-crispy-german-potato-hash--vegan",
+  "title": "Crispy German Potato Hash",
+  "description": "A crispy, flavorful potato hash inspired by German cuisine, made vegan-friendly.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Quick oats",
+      "amount": "1/2 cup",
+      "notes": "rolled oats"
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix potatoes, hash browns, and oats.",
+    "Add vegan oil, salt, and pepper. Mix well.",
+    "Transfer the mixture to a baking sheet.",
+    "Bake for 20-25 minutes, or until crispy.",
+    "Serve hot.",
+    "Optional: Top with additional salt, pepper, or other seasonings of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "german"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-german-potato-hash--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:36:24.540Z"
+}
