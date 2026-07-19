@@ -1250,17 +1250,15 @@
   },
   {
     "slug": "quaint-springy-ukrainian-pork-dumplings",
-    "title": "Quaint Springy Ukrainian Pork Dumplings",
+    "title": "Pork and Dumplings",
     "tags": [
-      "cajun-twist",
-      "dumplings",
-      "pork-dishes",
-      "romantic-dinner",
-      "special-occasion",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "comfort-food",
+      "hearty-meal",
+      "homemade-dumplings"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 140,
     "shard": "q"
   },
   {
@@ -5855,16 +5853,14 @@
   },
   {
     "slug": "quick-crunchy-norwegian-fish-skewers",
-    "title": "Quick Crunchy Norwegian Fish Skewers",
+    "title": "Grilled Fish Skewers with Crunchy Slaw",
     "tags": [
-      "fish-recipes",
-      "kid-friendly",
-      "low-glycemic",
+      "grilled-fish",
       "norwegian-cuisine",
-      "quick-dinner"
+      "fish-skewers"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -18601,6 +18597,20 @@
       "chicken"
     ],
     "cuisine": "filipino",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-flaky-pepper-crumble--indian",
+    "title": "Chicken Tikka Naan Bites",
+    "tags": [
+      "chicken",
+      "naan",
+      "indian",
+      "snack",
+      "appetizer"
+    ],
+    "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "q"
   }
