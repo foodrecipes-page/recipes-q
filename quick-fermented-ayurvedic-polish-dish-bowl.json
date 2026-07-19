@@ -1,0 +1,71 @@
+{
+  "slug": "quick-fermented-ayurvedic-polish-dish-bowl",
+  "title": "Polish Fermented Beet Soup",
+  "description": "A hearty, comforting soup made with fermented beets and a hint of Polish spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented beets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Quick-cooking potatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "Ayurvedic spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dish liquid",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bowl water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the Polish sausage and cook until browned, about 5 minutes.",
+    "Add the fermented beets, potatoes, and ayurvedic spices. Cook for 10 minutes.",
+    "Pour in the dish liquid and bowl water. Bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Purée the soup with an immersion blender or regular blender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Cook the Polish sausage to an internal temperature of 160°F (71°C).",
+    "Let the soup cool to room temperature before refrigerating or freezing.",
+    "Reheat the soup to 165°F (74°C) before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "polish-food",
+    "lunch",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fermented-ayurvedic-polish-dish-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:20:33.532Z"
+}
