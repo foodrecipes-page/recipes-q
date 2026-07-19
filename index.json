@@ -15688,17 +15688,14 @@
   },
   {
     "slug": "quietly-smoky-turkish-beef-doner-kebab",
-    "title": "Quietly Smoky Turkish Beef Doner Kebab",
+    "title": "Classic Turkish Doner Kebab",
     "tags": [
-      "beef-recipes",
-      "doner-kebab",
-      "lazy-sunday",
-      "smoky-flavors",
-      "turkish-cuisine",
-      "vegetarian-friendly"
+      "turkish",
+      "kebab",
+      "lamb"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -16542,16 +16539,16 @@
   },
   {
     "slug": "quintessential-venezuelan-chicken-stew",
-    "title": "Quintessential Venezuelan Chicken Stew",
+    "title": "Venezuelan Chicken Stew",
     "tags": [
-      "fluffy",
-      "garlicky",
-      "low-glycemic",
-      "one-pot",
-      "showcase"
+      "chicken",
+      "stew",
+      "venezuelan",
+      "hearty",
+      "comfort food"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
