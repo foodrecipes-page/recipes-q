@@ -1,0 +1,84 @@
+{
+  "slug": "quick-crisp-german-pork-stir-fry--gluten-free",
+  "title": "Gluten-Free German Pork Schnitzel",
+  "description": "A classic German dish adapted to be gluten-free, featuring pork cutlets breaded and fried to a crispy perfection.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "quick-stir batter mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "crisp german breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fryer oil",
+      "amount": "1 cup",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Season the pork cutlets with salt and pepper.",
+    "2. In a shallow dish, combine the gluten-free flour and quick-stir batter mix.",
+    "3. In a separate shallow dish, place the crisp german breadcrumbs.",
+    "4. Dredge the pork cutlets in the flour mixture, coating both sides evenly.",
+    "5. Dip the flour-coated pork cutlets in the breadcrumbs, pressing gently to adhere.",
+    "6. Heat the fryer oil in a large skillet over medium-high heat until it reaches 350°F.",
+    "7. Fry the breaded pork cutlets in batches for 2-3 minutes on each side, or until golden brown.",
+    "8. Remove the fried pork cutlets from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "9. Serve the pork cutlets hot with a squeeze of lemon juice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "gluten-free-recipe",
+    "pork-recipes",
+    "schnitzel"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-german-pork-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:23:04.251Z"
+}
