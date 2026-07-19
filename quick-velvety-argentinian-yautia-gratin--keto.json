@@ -1,0 +1,73 @@
+{
+  "slug": "quick-velvety-argentinian-yautia-gratin--keto",
+  "title": "Keto Argentinian Yautia Gratin",
+  "description": "A low-carb, creamy gratin dish featuring yautia, Argentinian flair, and a velvety texture.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "1 large, peeled and thinly sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "velvety cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "quick parmesan",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, melt butter over medium heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add sliced yautia and cook for 5 minutes, or until slightly tender.",
+    "In a separate bowl, combine velvety cheese and quick parmesan.",
+    "Transfer the yautia mixture to a baking dish and top with the cheese mixture.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 20-25 minutes, or until the top is golden brown and the gratin is heated through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "argentinian",
+    "yautia",
+    "gratin",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-velvety-argentinian-yautia-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:02:49.233Z"
+}
