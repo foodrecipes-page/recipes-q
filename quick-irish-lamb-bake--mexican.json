@@ -1,0 +1,93 @@
+{
+  "slug": "quick-irish-lamb-bake--mexican",
+  "title": "Mexican Lamb Shepherd's Pie",
+  "description": "A twist on the classic shepherd's pie, this Mexican lamb version combines the flavors of the Southwest with a crispy bake topping.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Mixture",
+      "amount": "1 lb",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 (14.5 oz) can",
+      "notes": "drained"
+    },
+    {
+      "name": "Black Beans",
+      "amount": "1 (15 oz) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Mexican Blend Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Bake Mix",
+      "amount": "1 cup",
+      "notes": "from quick mix"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large skillet, cook lamb mixture over medium-high heat until browned, breaking into small pieces.",
+    "Add onion, cumin, chili powder, and garlic to the skillet and cook until onion is translucent.",
+    "Stir in diced tomatoes, black beans, and Mexican blend cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, prepare the bake mix according to package instructions.",
+    "Spread the bake mix evenly over the top of the lamb mixture.",
+    "Bake for 25-30 minutes, or until the bake mix is golden brown.",
+    "Remove from oven and top with sour cream, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lamb",
+    "shepherd's-pie",
+    "southwestern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-irish-lamb-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:41:59.718Z"
+}
