@@ -1,0 +1,76 @@
+{
+  "slug": "quick-german-fix-hash--thai",
+  "title": "Thai-Style Hashed Noodles",
+  "description": "A quick and easy Thai-inspired dish made with hashed chicken and noodles.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "handful",
+      "notes": ""
+    },
+    {
+      "name": "Quick fix sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hash (for garnish)",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions.",
+    "Heat the quick fix sauce in a pan over medium heat.",
+    "Add the sliced onion and bell pepper to the pan and cook until they are softened.",
+    "Add the diced chicken to the pan and cook until it is browned and cooked through.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Stir in the chopped Thai basil.",
+    "Serve the dish hot, garnished with hash if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "quick",
+    "noodles",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-fix-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:27:44.808Z"
+}
