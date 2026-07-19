@@ -18664,5 +18664,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "q"
+  },
+  {
+    "slug": "quick-velvety-argentinian-yautia-gratin--keto",
+    "title": "Keto Argentinian Yautia Gratin",
+    "tags": [
+      "keto",
+      "argentinian",
+      "yautia",
+      "gratin",
+      "velvety"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-thai-barbeque-sauce-khanom-thai--vegetarian",
+    "title": "Thai-Style Vegetarian Skewers",
+    "tags": [
+      "thai",
+      "vegetarian",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
