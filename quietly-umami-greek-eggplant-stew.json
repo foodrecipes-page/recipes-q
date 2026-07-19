@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-umami-greek-eggplant-stew",
+  "title": "Greek Stew",
+  "description": "A hearty and flavorful stew with eggplant, perfect for a chilly evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 medium, cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can, diced (14 oz)",
+      "notes": "for acidity and flavor"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "to add depth to the stew"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute, until fragrant.",
+    "Add the eggplant cubes and sauté until they start to brown, about 5 minutes.",
+    "Add the diced tomatoes, stew, salt, and black pepper. Stir well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Serve hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "stew",
+    "eggplant"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-greek-eggplant-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:21:33.519Z"
+}
