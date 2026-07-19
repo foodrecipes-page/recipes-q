@@ -1,0 +1,72 @@
+{
+  "slug": "quick-thai-barbeque-sauce-khanom-thai--vegetarian",
+  "title": "Thai-Style Vegetarian Skewers",
+  "description": "A flavorful and colorful vegetarian skewer dish inspired by Thai cuisine, featuring marinated tofu and vegetables.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 cups",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "khanom",
+      "amount": "1 cup",
+      "notes": "Thai-style rice noodles, soaked and drained"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2 leaves",
+      "notes": "fresh or dried, for wrapping skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together quick sauce, 1 tablespoon of oil, and 1 tablespoon of chopped fresh cilantro.",
+    "Add the tofu, bell peppers, onion, and mushrooms to the marinade and toss to coat.",
+    "Thread the marinated vegetables and tofu onto the pandan leaves, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Serve the skewers hot with a side of Thai-style barbecue sauce for dipping.",
+    "Garnish with chopped cilantro and a sprinkle of toasted peanuts, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-thai-barbeque-sauce-khanom-thai--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:16:19.159Z"
+}
