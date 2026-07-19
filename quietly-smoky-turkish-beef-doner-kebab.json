@@ -1,0 +1,71 @@
+{
+  "slug": "quietly-smoky-turkish-beef-doner-kebab",
+  "title": "Classic Turkish Doner Kebab",
+  "description": "A traditional Turkish dish made with thinly sliced lamb and served in a crusty roll with vegetables and sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Doner-style lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "Crusty"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat a vertical spit or a grill to medium-high heat.",
+    "Slice the lamb into thin strips and season with salt and black pepper.",
+    "Thread the lamb onto skewers, if using.",
+    "Grill the lamb for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the pita bread on the grill or in a toaster.",
+    "Assemble the kebabs by spreading tzatziki sauce on the pita bread, followed by a few slices of lamb, some onion, tomato, and lettuce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebab",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-turkish-beef-doner-kebab",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:11:25.888Z"
+}
