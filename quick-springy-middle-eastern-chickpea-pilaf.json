@@ -1,0 +1,75 @@
+{
+  "slug": "quick-springy-middle-eastern-chickpea-pilaf",
+  "title": "Mediterranean Chickpea Pilaf",
+  "description": "A flavorful pilaf dish with chickpeas, inspired by Middle Eastern cuisine. This quick and easy recipe is perfect for a weeknight dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add uncooked pilaf, chickpeas, cumin, paprika, salt, and pepper. Stir to combine.",
+    "Cook for 5-7 minutes or until the pilaf is tender and the liquid has been absorbed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "pilaf",
+    "middle-eastern",
+    "vegetarian",
+    "quick"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-springy-middle-eastern-chickpea-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:37:36.221Z"
+}
