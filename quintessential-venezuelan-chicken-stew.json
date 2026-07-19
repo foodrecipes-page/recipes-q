@@ -1,0 +1,78 @@
+{
+  "slug": "quintessential-venezuelan-chicken-stew",
+  "title": "Venezuelan Chicken Stew",
+  "description": "A hearty and flavorful stew from Venezuela, made with tender chicken, potatoes, and yuca. This dish is perfect for a cold winter night.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken thighs",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yuca",
+      "amount": "2 medium",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quintessential spices",
+      "amount": "1 teaspoon",
+      "notes": "Venezuelan spice blend"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Add the yuca and potatoes and cook for another 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the quintessential spices and chicken broth, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to medium-low and simmer, covered, for 25-30 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "venezuelan",
+    "hearty",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-venezuelan-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T12:06:30.664Z"
+}
