@@ -1,0 +1,75 @@
+{
+  "slug": "quick-snappy-turkish-lamb-kebab-doner--japanese",
+  "title": "Japanese Lamb Doner Kebab",
+  "description": "A creative twist on traditional doner kebab, featuring lamb and Japanese flavors. Grill the lamb to perfection and serve in a crispy Turkish-style pita.",
+  "cuisine": "japanese",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Doner Meat",
+      "amount": "500g"
+    },
+    {
+      "name": "Turkish Pita Bread",
+      "amount": "4"
+    },
+    {
+      "name": "Japanese Teriyaki Sauce",
+      "amount": "120ml"
+    },
+    {
+      "name": "Quick Pickled Cucumber",
+      "amount": "1"
+    },
+    {
+      "name": "Snappy Lettuce",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "Kebab Spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the lamb doner meat with kebab spices, salt, and pepper.",
+    "Grill the lamb for 5-7 minutes per side, or until it reaches an internal temperature of 63°C.",
+    "Slice the lamb into thin strips.",
+    "Warm the Turkish pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the doner kebab by placing the grilled lamb onto the pita bread, followed by a dollop of Japanese teriyaki sauce, some snappy lettuce, and a slice of quick pickled cucumber.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "lamb",
+    "doner",
+    "kebab",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-snappy-turkish-lamb-kebab-doner--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:26:01.594Z"
+}
