@@ -15956,17 +15956,15 @@
   },
   {
     "slug": "quietly-umami-greek-eggplant-stew",
-    "title": "Quietly Umami Greek Eggplant Stew",
+    "title": "Greek Stew",
     "tags": [
-      "comfort-food",
       "greek",
-      "one-pot",
+      "vegetarian",
       "stew",
-      "umami",
-      "vegan"
+      "eggplant"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -16341,17 +16339,17 @@
   },
   {
     "slug": "quintessential-juicy-korean-samphire-guk",
-    "title": "Quintessential Juicy Korean Samphire Guk",
+    "title": "Korean-Style Samphire Stir Fry",
     "tags": [
-      "korean-cuisine",
-      "low-fat",
-      "one-pot",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "korean",
+      "stir-fry",
+      "samphire",
+      "guk",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -18699,6 +18697,46 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-fix-hash--thai",
+    "title": "Thai-Style Hashed Noodles",
+    "tags": [
+      "thai",
+      "quick",
+      "noodles",
+      "chicken"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-citrusy-korean-tofu-skillet--german",
+    "title": "Korean-Style Pan-Fried Tofu with Citrusy German Twist",
+    "tags": [
+      "koreanfusion",
+      "germaninspired",
+      "tofu",
+      "skilletmeal",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-german-potato-hash--vegan",
+    "title": "Crispy German Potato Hash",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
