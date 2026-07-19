@@ -1,0 +1,92 @@
+{
+  "slug": "quenched-quiet-filipino-chicken-biryani--keto",
+  "title": "Keto Chicken and Filipino-Style Rice Bowl",
+  "description": "A delicious and healthy low-carb chicken dish with a flavorful Filipino twist. Pair it with a side of cauliflower rice for a keto-friendly meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breast and pat it dry with a paper towel.",
+    "Season the chicken with garlic powder, onion powder, salt, and chili flakes.",
+    "Heat the coconut oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, heat the fish sauce and lime juice in a small saucepan over low heat.",
+    "Stir in the cauliflower rice and cook for 2-3 minutes, or until it's tender but still crisp.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing it thinly.",
+    "Serve the sliced chicken on top of the cauliflower rice and drizzle with the fish sauce-lime juice sauce.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "filipino",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-quiet-filipino-chicken-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:33:41.072Z"
+}
