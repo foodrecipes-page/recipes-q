@@ -1,27 +1,17 @@
 {
   "slug": "quick-malaysian-almonds-stir-fry--mexican",
-  "title": "Spicy Malaysian Chicken Fajitas",
-  "description": "A quick and flavorful Mexican dish featuring chicken, peanuts, and a hint of Malaysian spices.",
+  "title": "Mexican Chicken Fajitas",
+  "description": "A quick and flavorful Mexican dish made with chicken, peppers, and onions, served with warm flour tortillas. This recipe is perfect for a weeknight dinner.",
   "cuisine": "mexican",
   "diet": [
     "gluten-free"
   ],
-  "meal": "lunch",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "chicken breast",
+      "name": "chicken breasts",
       "amount": "1 pound",
       "notes": ""
-    },
-    {
-      "name": "Malaysian peanut sauce",
-      "amount": "1/4 cup",
-      "notes": "store-bought or homemade"
-    },
-    {
-      "name": "quick almonds",
-      "amount": "1/4 cup",
-      "notes": "sliced"
     },
     {
       "name": "bell peppers",
@@ -29,9 +19,14 @@
       "notes": "any color"
     },
     {
-      "name": "onions",
-      "amount": "1 large",
-      "notes": ""
+      "name": "onion",
+      "amount": "1",
+      "notes": "any color"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "chopped"
     },
     {
       "name": "fajita seasoning",
@@ -39,43 +34,37 @@
       "notes": ""
     },
     {
-      "name": "fry oil",
-      "amount": "2 tablespoons",
+      "name": "flour tortillas",
+      "amount": "4",
       "notes": ""
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of fry oil in a large skillet over medium-high heat.",
-    "Add the chicken breast and cook until browned, about 5 minutes.",
-    "Remove the chicken from the skillet and set aside.",
-    "Add the remaining 1 tablespoon of fry oil to the skillet.",
-    "Add the sliced bell peppers and onions to the skillet and cook until tender, about 5 minutes.",
-    "Add the fajita seasoning to the skillet and stir to combine.",
-    "Return the chicken to the skillet and stir to combine with the vegetables and seasoning.",
-    "Stir in the Malaysian peanut sauce.",
-    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
-    "Serve the chicken and vegetables hot, garnished with sliced quick almonds.",
-    "Serve with your favorite Mexican dishes, such as tortillas, rice, and beans."
+    "Heat a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add bell peppers, onion, and almonds to the skillet. Cook until vegetables are tender, about 5 minutes.",
+    "Add fajita seasoning to the skillet and stir to combine.",
+    "Warm flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble fajitas by placing cooked chicken and vegetables onto tortillas and serving."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "quick",
-    "mexican",
     "chicken",
-    "fajitas"
+    "fajitas",
+    "mexican"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 35,
+    "calories": 420,
+    "protein": 43,
     "carbs": 20,
-    "fat": 15
+    "fat": 24
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-almonds-stir-fry--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-16T07:23:11.527Z"
+  "createdAt": "2026-07-17T11:39:42.739Z"
 }
