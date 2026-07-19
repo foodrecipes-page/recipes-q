@@ -18590,5 +18590,18 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-quiet-filipino-chicken-biryani--keto",
+    "title": "Keto Chicken and Filipino-Style Rice Bowl",
+    "tags": [
+      "keto",
+      "low-carb",
+      "filipino",
+      "chicken"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
