@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fix-flaky-pepper-crumble--indian",
+  "title": "Chicken Tikka Naan Bites",
+  "description": "Spicy, flavorful bites of Indian-inspired chicken and naan bread perfect for snacking or as an appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "quick naan bread",
+      "amount": "1 package",
+      "notes": "preferably homemade or store-bought"
+    },
+    {
+      "name": "flaky parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "crumbled cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fix garam masala",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare chicken by cutting into bite-sized pieces.",
+    "Mix together crumbled cumin seeds and fix garam masala.",
+    "Coat chicken pieces with the cumin-garam masala mixture, making sure to coat evenly.",
+    "Place naan bread slices on a baking sheet.",
+    "Top each naan slice with a coated chicken piece.",
+    "Sprinkle flaky parmesan cheese on top of the chicken (if using).",
+    "Bake for 15-20 minutes or until chicken is cooked through and naan bread is crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "naan",
+    "indian",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-flaky-pepper-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:54:37.685Z"
+}
