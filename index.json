@@ -3449,18 +3449,17 @@
   },
   {
     "slug": "quenched-peppery-peruvian-fish-ceviche",
-    "title": "Quenched Peppery Peruvian Fish Ceviche",
+    "title": "Peruvian Ceviche",
     "tags": [
-      "ceviche",
-      "halal",
-      "lunch",
-      "monsoon",
-      "peppery",
       "peruvian",
-      "quick"
+      "ceviche",
+      "fish",
+      "raw",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -6345,16 +6344,15 @@
   },
   {
     "slug": "quick-fermented-ayurvedic-polish-dish-bowl",
-    "title": "Quick Fermented Ayurvedic Polish Dish Bowl",
+    "title": "Polish Fermented Beet Soup",
     "tags": [
-      "ayurvedic",
-      "fermented",
-      "polish",
-      "quick-fix",
-      "sattvic"
+      "beets",
+      "polish-food",
+      "lunch",
+      "soup"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -18611,6 +18609,59 @@
       "appetizer"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-malaysian-almonds-stir-fry--french",
+    "title": "French-Style Stir-Fried Nuts",
+    "tags": [
+      "french",
+      "snack",
+      "nuts",
+      "almonds"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-irish-lamb-bake--mexican",
+    "title": "Mexican Lamb Shepherd's Pie",
+    "tags": [
+      "mexican",
+      "lamb",
+      "shepherd's-pie",
+      "southwestern"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crisp-german-pork-stir-fry--gluten-free",
+    "title": "Gluten-Free German Pork Schnitzel",
+    "tags": [
+      "german-food",
+      "gluten-free-recipe",
+      "pork-recipes",
+      "schnitzel"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-snappy-turkish-lamb-kebab-doner--japanese",
+    "title": "Japanese Lamb Doner Kebab",
+    "tags": [
+      "japanese",
+      "lamb",
+      "doner",
+      "kebab",
+      "turkish"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "q"
   }
