@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-fermented-moroccan-lentil-sellou--keto",
+  "title": "Keto Moroccan Stew",
+  "description": "A hearty, one-pot dish featuring lentils, vegetables, and a blend of Moroccan spices. This stew is low in carbs, making it a great option for a keto diet.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup (160g)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium (120g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bone broth",
+      "amount": "2 cups (475ml)"
+    },
+    {
+      "name": "Sliced sellou (Moroccan preserved lemon)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, paprika, and cayenne pepper. Cook for 1 minute.",
+    "Add the lentils, tomato paste, and bone broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the lentils are tender.",
+    "Stir in the sliced sellou and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "18g",
+    "carbs": "10g",
+    "fat": "32g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fermented-moroccan-lentil-sellou--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:10:29.691Z"
+}
