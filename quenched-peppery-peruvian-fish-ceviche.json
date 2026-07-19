@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-peppery-peruvian-fish-ceviche",
+  "title": "Peruvian Ceviche",
+  "description": "A refreshing Peruvian-style ceviche made with fresh fish, lime juice, and spices. Perfect for a light and healthy meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raw Fish (halibut or sea bass)",
+      "amount": "1 pound",
+      "notes": "Fresh and sashimi-grade"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Quenched Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Peppery Aji Amarillo Pepper",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Peruvian Ceviche Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Latin American markets"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Flaky salt or kosher salt"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Cut the fish into small, uniform pieces and place in a large bowl.",
+    "In a separate bowl, combine lime juice, onion, pepper, and spice mix.",
+    "Pour the lime juice mixture over the fish and mix well.",
+    "Season with salt to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Just before serving, stir in chopped cilantro.",
+    "Serve immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "fish",
+    "raw",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peppery-peruvian-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:09:50.973Z"
+}
