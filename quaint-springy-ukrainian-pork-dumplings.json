@@ -1,0 +1,81 @@
+{
+  "slug": "quaint-springy-ukrainian-pork-dumplings",
+  "title": "Pork and Dumplings",
+  "description": "A hearty Ukrainian dish made with pork and springy dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "springy dumplings",
+      "amount": "12-15",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "quaint vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "ukrainian onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Heat the quaint vegetable oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes in batches until browned on all sides, about 5 minutes.",
+    "Remove the browned pork from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the browned pork to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "While the pork is cooking, prepare the dumplings according to package instructions.",
+    "Add the dumplings to the pot and cook for an additional 10-15 minutes, or until cooked through.",
+    "Serve the pork and dumplings hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "comfort-food",
+    "hearty-meal",
+    "homemade-dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "40g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-springy-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:06:02.800Z"
+}
