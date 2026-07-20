@@ -1278,16 +1278,16 @@
   },
   {
     "slug": "quaint-sweet-american-pistachio-cobbler",
-    "title": "Quaint Sweet American Pistachio Cobbler",
+    "title": "Pistachio Cobbler",
     "tags": [
-      "american-classics",
-      "comfort-food",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "pistachio",
+      "american",
+      "biscuit",
+      "cobbler",
+      "dessert"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 60,
+    "cuisine": "american",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -18827,6 +18827,46 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-savory-mediterranean-vegetable-tagine--indian",
+    "title": "Spicy Vegetable Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-japanese-red-bean-dorayaki--keto",
+    "title": "Japanese Red Bean Dorayaki Keto Pancakes",
+    "tags": [
+      "keto",
+      "japanese",
+      "dessert",
+      "red-bean-paste",
+      "dorayaki"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-umami-greek-eggplant-stew--italian",
+    "title": "Eggplant Parmesan",
+    "tags": [
+      "italian",
+      "eggplant",
+      "parmesan",
+      "mozzarella"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
