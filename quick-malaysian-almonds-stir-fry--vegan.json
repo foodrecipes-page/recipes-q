@@ -1,0 +1,79 @@
+{
+  "slug": "quick-malaysian-almonds-stir-fry--vegan",
+  "title": "Sri Lankan-Style Vegan Stir Fry",
+  "description": "A flavorful and nutritious stir-fry made with a variety of vegetables and a hint of Sri Lankan spices, all vegan and ready in under 30 minutes.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Quick-cooking rice noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mixed vegetables (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sri Lankan curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (make sure it's vegan)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the mixed vegetables and cook until they start to soften, about 3-4 minutes.",
+    "Add the Sri Lankan curry powder and stir-fry for 1 minute.",
+    "Add the quick-cooking rice noodles and stir-fry for another 2-3 minutes, until they're well coated with the curry powder and starting to brown.",
+    "Add the sliced almonds and stir-fry for 1 minute.",
+    "Add the soy sauce and lime juice, and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional lime wedges if desired.",
+    "This dish should take about 15-20 minutes to prepare, but can be made in under 30 minutes if you're using pre-cut vegetables and noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "malaysian",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-almonds-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:52:35.930Z"
+}
