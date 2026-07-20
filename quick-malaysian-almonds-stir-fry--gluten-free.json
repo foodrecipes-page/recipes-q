@@ -1,0 +1,94 @@
+{
+  "slug": "quick-malaysian-almonds-stir-fry--gluten-free",
+  "title": "Malaysian Almond Stir Fry",
+  "description": "A quick and flavorful stir fry made with malaysian spices, almonds and your choice of protein, served gluten-free.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional for spice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of coconut oil.",
+    "Add the sliced almonds and cook until lightly toasted, about 2-3 minutes.",
+    "Add the grated ginger and minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the soy sauce, honey, and chili flakes (if using) to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the sauce.",
+    "Season with salt to taste.",
+    "Serve the chicken and sauce over rice, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-almonds-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:26:25.224Z"
+}
