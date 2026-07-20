@@ -1,0 +1,75 @@
+{
+  "slug": "quenched-syrian-double-fried-chicken-burger",
+  "title": "Double Burger",
+  "description": "A classic double burger recipe with two juicy patties, cheese, and all the fixings.",
+  "cuisine": null,
+  "diet": [
+    "null"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Burger Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Double Burger Patties",
+      "amount": "2"
+    },
+    {
+      "name": "American Cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Fried Chicken Strips",
+      "amount": "4"
+    },
+    {
+      "name": "Letuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "Ripe and sliced"
+    },
+    {
+      "name": "Syrian Pickles",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Double Meat Seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the double burger patties with double meat seasoning.",
+    "3. Grill the patties for 4-5 minutes per side, or until they reach an internal temperature of 160°F.",
+    "4. Meanwhile, toast the burger buns on the grill.",
+    "5. Assemble the burgers by spreading a slice of cheese on the bottom bun, followed by a patty, a few strips of fried chicken, a lettuce leaf, a tomato slice, and finally the top bun.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "burger",
+    "fried-chicken",
+    "double-burger",
+    "american-food"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 48,
+    "carbs": 60,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-syrian-double-fried-chicken-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:40:21.923Z"
+}
