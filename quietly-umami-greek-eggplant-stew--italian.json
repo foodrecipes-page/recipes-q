@@ -1,0 +1,83 @@
+{
+  "slug": "quietly-umami-greek-eggplant-stew--italian",
+  "title": "Eggplant Parmesan",
+  "description": "Classic Italian dish featuring breaded and fried eggplant slices layered with tomato sauce and melted mozzarella cheese.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "1 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 jar"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Slice the eggplant into 1/4-inch thick rounds.",
+    "2. Season both sides of the eggplant slices with salt and pepper.",
+    "3. Dip each eggplant slice into the flour, then the eggs, and finally the bread crumbs, pressing gently to adhere.",
+    "4. Heat about 1/4 inch of olive oil in a large skillet over medium-high heat.",
+    "5. Fry the eggplant slices until golden brown on both sides, about 3-4 minutes per side.",
+    "6. Transfer the fried eggplant slices to a baking dish.",
+    "7. Spread a layer of tomato sauce over the eggplant slices.",
+    "8. Sprinkle shredded mozzarella cheese over the tomato sauce.",
+    "9. Bake in a preheated oven at 375°F (190°C) for about 20-25 minutes, or until the cheese is melted and bubbly.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "parmesan",
+    "mozzarella"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-greek-eggplant-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:29:44.986Z"
+}
