@@ -18738,5 +18738,47 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fluffy-venezuelan-rice-pilaf--thai",
+    "title": "Venezuelan-Style Thai Fried Rice",
+    "tags": [
+      "thai",
+      "fried-rice",
+      "venezuelan",
+      "fusion",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-indulgent-egyptian-spaghetti-pasta--keto",
+    "title": "Egyptian Keto Spaghetti",
+    "tags": [
+      "keto",
+      "egyptian",
+      "indulgent",
+      "spaghetti",
+      "pasta",
+      "quick"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-yeasty-australian-pineapple-skewers--thai",
+    "title": "Thai Pineapple Skewers",
+    "tags": [
+      "thai",
+      "grilled",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
