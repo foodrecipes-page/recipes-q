@@ -1,0 +1,85 @@
+{
+  "slug": "quick-crisp-german-pork-stir-fry--vegan",
+  "title": "Quick Vegan Stir Fry",
+  "description": "A simple and delicious vegan stir fry recipe made with crispy vegetables and served with a side of steamed rice.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (vegan)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onions and garlic and cook for 2-3 minutes, until softened.",
+    "Add the broccoli, carrots, and bell peppers, and cook for 5-7 minutes, until the vegetables are tender.",
+    "Stir in the soy sauce and ginger, and cook for an additional minute.",
+    "Serve the stir-fry over steamed rice.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "quick",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-german-pork-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:41:50.701Z"
+}
