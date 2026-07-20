@@ -1,0 +1,57 @@
+{
+  "slug": "qtoast-avocado-pesto--italian",
+  "title": "Avocado Pesto Toast",
+  "description": "A simple Italian-inspired dish featuring fresh avocado and pesto on toasted bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole Wheat Bread",
+      "amount": "2 slices",
+      "notes": "toasting recommended"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "mashed"
+    },
+    {
+      "name": "Pesto",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl until smooth.",
+    "Spread the avocado over the toasted bread.",
+    "Drizzle the pesto over the avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "brunch",
+    "avocado",
+    "pesto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qtoast-avocado-pesto--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:38:10.861Z"
+}
