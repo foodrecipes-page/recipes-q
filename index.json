@@ -18803,5 +18803,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-braised-french-cherry-tomato-stew--italian",
+    "title": "Braised Cherry Tomato Stew",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "stew",
+      "cherry-tomatoes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
