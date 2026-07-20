@@ -1,0 +1,80 @@
+{
+  "slug": "quaint-fluffy-brazilian-chorizo-casserole--german",
+  "title": "Sauerbraten with Chorizo and Casserole",
+  "description": "A traditional German dish with a twist, featuring the spicy flavors of chorizo and a hearty casserole.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Fluffy white bread",
+      "amount": "1 loaf",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Quaint red cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Brazilian beef",
+      "amount": "1 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, whisk together vinegar, water, salt, and black pepper to make marinade.",
+    "Add sliced beef and let it marinate for at least 2 hours or overnight.",
+    "In a large skillet, heat oil over medium heat.",
+    "Add sliced chorizo and cook until browned, about 5 minutes.",
+    "Add cubed bread to the skillet and cook until toasted, about 3-4 minutes.",
+    "In a large Dutch oven, create a layer of shredded red cabbage.",
+    "Add sliced beef on top of the cabbage, then spoon the chorizo-bread mixture over the beef.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Bake for 2 hours or until the meat is tender.",
+    "Serve warm, garnished with crushed casserole."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "meat-lovers",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 55,
+    "carbs": 40,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-brazilian-chorizo-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:19:26.527Z"
+}
