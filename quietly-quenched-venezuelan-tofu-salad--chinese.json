@@ -1,0 +1,79 @@
+{
+  "slug": "quietly-quenched-venezuelan-tofu-salad--chinese",
+  "title": "Venezuelan-Style Stir Fry with Tofu",
+  "description": "A Chinese-inspired stir fry made with crispy tofu, crunchy vegetables, and a hint of Venezuelan flair. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "salad",
+      "amount": "1 cup",
+      "notes": "chopped mix of lettuce, cabbage, and carrots"
+    },
+    {
+      "name": "quietly",
+      "amount": "1 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "quenched",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of veggie oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tofu and cook for 3-4 minutes, until golden brown and crispy.",
+    "Add the chopped salad and cook for 2-3 minutes, until wilted.",
+    "In a small bowl, whisk together the soy sauce, ground ginger, and 1 tablespoon of water.",
+    "Pour the sauce over the tofu and salad mixture, and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter, garnish with chopped green onions, and serve immediately.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegan",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-venezuelan-tofu-salad--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:10:50.256Z"
+}
