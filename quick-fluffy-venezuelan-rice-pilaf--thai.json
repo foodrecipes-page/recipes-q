@@ -1,0 +1,88 @@
+{
+  "slug": "quick-fluffy-venezuelan-rice-pilaf--thai",
+  "title": "Venezuelan-Style Thai Fried Rice",
+  "description": "A fusion of Thai and Venezuelan flavors in this easy-to-make fried rice dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quick-cooking rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups",
+      "notes": "any type of pilaf"
+    },
+    {
+      "name": "Venezuelan cheese (Queso Venezolano)",
+      "amount": "1/4 cup, shredded",
+      "notes": "or substitute with mozzarella"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Thai red chili peppers",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the diced onion and minced garlic and stir-fry until the onion is translucent.",
+    "Add the sliced Thai red chili peppers and stir-fry for another minute.",
+    "Add the pilaf and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the cooked rice to the skillet or wok and stir-fry for 2-3 minutes, breaking up any clumps.",
+    "Add the Venezuelan cheese, fish sauce, soy sauce, and sesame oil to the rice mixture and stir-fry until the cheese is melted and the rice is well coated.",
+    "Transfer the rice mixture to a serving platter and garnish with additional Thai red chili peppers, if desired.",
+    "Serve immediately and enjoy!",
+    "Note: You can customize this recipe by adding your favorite vegetables or protein to the rice mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "fried-rice",
+    "venezuelan",
+    "fusion",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fluffy-venezuelan-rice-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:32:17.285Z"
+}
