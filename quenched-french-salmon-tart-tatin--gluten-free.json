@@ -1,0 +1,95 @@
+{
+  "slug": "quenched-french-salmon-tart-tatin--gluten-free",
+  "title": "French Salmon Tart",
+  "description": "A gluten-free salmon tart with a flaky crust and a delicious salmon filling. Perfect for a special occasion dinner.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Quenched cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "French tart crust",
+      "amount": "1",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Tatin apples",
+      "amount": "2",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the gluten-free tart crust and place it in a tart pan.",
+    "In a separate pan, cook the salmon fillets over medium heat until they're cooked through.",
+    "In a bowl, mix together the quenched cheese, eggs, and milk. Season with salt and black pepper.",
+    "Arrange the cooked salmon fillets in the tart crust.",
+    "Pour the cheese mixture over the salmon.",
+    "Bake the tart in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the tart from the oven and let it cool for a few minutes.",
+    "Serve warm, garnished with caramelized tatin apples."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "tart",
+    "gluten-free",
+    "french",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-french-salmon-tart-tatin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:35:25.580Z"
+}
