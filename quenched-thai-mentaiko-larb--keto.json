@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-thai-mentaiko-larb--keto",
+  "title": "Keto Larb-Style Stir Fry with Mentaiko",
+  "description": "A spicy and savory low-carb stir fry, inspired by the flavors of larb, featuring mentaiko and a bold Thai-inspired sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quenched pork loin",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "thaibasil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mentaiko",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons",
+      "notes": "Thai-style"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for extra heat"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the pork and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the Thai basil and cook until fragrant, about 1 minute.",
+    "Add the crushed mentaiko and cook for an additional 1-2 minutes.",
+    "Return the pork to the skillet and stir in the fish sauce, lime juice, and chili flakes (if using).",
+    "Cook for an additional 1-2 minutes, until the pork is coated in the sauce and heated through.",
+    "Serve immediately, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "paleo",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 6,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-thai-mentaiko-larb--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:46:32.987Z"
+}
