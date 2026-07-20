@@ -14569,16 +14569,15 @@
   },
   {
     "slug": "quietly-molten-irish-potato-casserole",
-    "title": "Quietly Molten Irish Potato Casserole",
+    "title": "Irish Potato Casserole",
     "tags": [
-      "comfort-food",
-      "family-friendly",
-      "irish-cuisine",
-      "potato-casserole",
-      "winter-dish"
+      "irish",
+      "potato",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 85,
+    "cuisine": "irish",
+    "totalTimeMin": 70,
     "shard": "q"
   },
   {
@@ -18815,6 +18814,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-sweet-syrian-ladyfingers-trifle--chinese",
+    "title": "Ladyfinger Trifle",
+    "tags": [
+      "chinese",
+      "dessert",
+      "ladyfinger",
+      "trifle"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
