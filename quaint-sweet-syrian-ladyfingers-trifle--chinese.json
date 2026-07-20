@@ -1,0 +1,63 @@
+{
+  "slug": "quaint-sweet-syrian-ladyfingers-trifle--chinese",
+  "title": "Ladyfinger Trifle",
+  "description": "A sweet and unique Chinese dessert made with ladyfingers.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-16 pieces"
+    },
+    {
+      "name": "Quaint Syrup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweetened Red Bean Paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Syrian Cream Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Trifle",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your oven to 350°F (180°C).",
+    "2. Cut the ladyfingers into 1-inch cubes and toast them in the oven for 5-7 minutes.",
+    "3. In a separate bowl, mix the quaint syrup and sweetened red bean paste.",
+    "4. In another bowl, whip the Syrian cream cheese until smooth.",
+    "5. To assemble the trifle, start with a layer of toasted ladyfingers.",
+    "6. Spread half of the quaint syrup mixture on top of the ladyfingers.",
+    "7. Add a layer of whipped cream cheese on top of the syrup mixture.",
+    "8. Repeat the layers, starting with the ladyfingers, then the syrup mixture, and finally the whipped cream cheese.",
+    "9. Top the trifle with a layer of quaint syrup and decorate with additional ladyfingers if desired.",
+    "10. Refrigerate the trifle for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "ladyfinger",
+    "trifle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-sweet-syrian-ladyfingers-trifle--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:00:44.581Z"
+}
