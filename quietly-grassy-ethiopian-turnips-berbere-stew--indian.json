@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-grassy-ethiopian-turnips-berbere-stew--indian",
+  "title": "Spiced Turnip Stew",
+  "description": "A warm, comforting stew combining the flavors of India with the earthiness of turnips. This dish is perfect for a cozy evening.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Berbere",
+      "amount": "2 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Sauté until the onion is translucent.",
+    "Add turnips, berbere, and vegetable broth. Bring to a boil.",
+    "Reduce heat, cover, and simmer for 20 minutes.",
+    "Stir in coconut milk. Continue to simmer for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-grassy-ethiopian-turnips-berbere-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:43:24.734Z"
+}
