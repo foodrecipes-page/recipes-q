@@ -1,0 +1,66 @@
+{
+  "slug": "quaint-sweet-american-pistachio-cobbler",
+  "title": "Pistachio Cobbler",
+  "description": "A sweet dessert featuring a crust of american biscuits topped with a pistachio filling.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pistachio",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quaint",
+      "amount": "1 cup",
+      "notes": "for crust"
+    },
+    {
+      "name": "sweet",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "american",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the quaint and sweet.",
+    "Add the pistachio and mix until well combined.",
+    "Roll out the american to a thickness of 1/4 inch.",
+    "Transfer the crust to a 9x9 inch baking dish.",
+    "Spread the pistachio mixture evenly over the crust.",
+    "Bake for 35-40 minutes, or until the crust is golden brown.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm with vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "pistachio",
+    "american",
+    "biscuit",
+    "cobbler",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-sweet-american-pistachio-cobbler",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:11:57.911Z"
+}
