@@ -1,0 +1,79 @@
+{
+  "slug": "quick-japanese-red-bean-dorayaki--keto",
+  "title": "Japanese Red Bean Dorayaki Keto Pancakes",
+  "description": "A keto version of the traditional Japanese dessert, with sweet red bean paste filling and crispy dorayaki pancakes.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Red Bean Paste",
+      "amount": "1 cup",
+      "notes": "made with azuki beans, sugar substitute (e.g. stevia) and water"
+    },
+    {
+      "name": "Dorayaki Batter",
+      "amount": "1 cup",
+      "notes": "made with almond flour, coconut flour, eggs, sugar substitute (e.g. stevia) and water"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying dorayaki"
+    },
+    {
+      "name": "Sugar Substitute (e.g. Stevia)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4",
+      "notes": "for dorayaki batter"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, whisk together dorayaki batter ingredients.",
+    "2. Heat a small non-stick pan or griddle over medium heat.",
+    "3. Using 1/4 cup measuring cup, scoop batter onto pan and spread into a circular shape.",
+    "4. Cook for 2-3 minutes or until bubbles appear on surface, flip and cook for another 1-2 minutes.",
+    "5. Repeat with remaining batter to make additional dorayaki pancakes.",
+    "6. In a small bowl, mix red bean paste ingredients until smooth.",
+    "7. To assemble, place a spoonful of red bean paste on one dorayaki pancake and top with another.",
+    "8. Drizzle with coconut oil and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "dessert",
+    "red-bean-paste",
+    "dorayaki"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-red-bean-dorayaki--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:19:41.483Z"
+}
