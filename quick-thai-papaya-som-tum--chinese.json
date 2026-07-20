@@ -1,0 +1,86 @@
+{
+  "slug": "quick-thai-papaya-som-tum--chinese",
+  "title": "Thai-Style Papaya Salad",
+  "description": "A spicy and sour salad made with shredded green papaya, tomatoes, and chilies. A classic Thai dish with a Chinese twist.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Green Papaya",
+      "amount": "1 medium",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Thai Chilies",
+      "amount": "2-3",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fishing Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Som Tum Prahok",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Som Tam Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the shredded green papaya, diced tomatoes, and sliced chilies.",
+    "2. In a small pan, heat the peanuts over medium heat until fragrant.",
+    "3. Add the peanuts to the bowl and toss to combine.",
+    "4. In a small bowl, mix the fishing sauce, soy sauce, sugar, som tum prahok, and som tam sauce.",
+    "5. Pour the sauce over the papaya mixture and toss to coat.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chinese",
+    "salad",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-thai-papaya-som-tum--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:38:15.674Z"
+}
