@@ -1,0 +1,71 @@
+{
+  "slug": "quick-charred-gooey-german-plum-tomatoes-risotto--japanese",
+  "title": "Japanese-Style Risotto with Plum Tomatoes",
+  "description": "A sweet and savory twist on traditional risotto, featuring charred plum tomatoes and a hint of Japanese flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto",
+      "amount": "250g"
+    },
+    {
+      "name": "Plum Tomatoes",
+      "amount": "2",
+      "notes": "charred"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium heat.",
+    "Add charred plum tomatoes and cook for 2 minutes.",
+    "Add risotto and cook for 2 minutes, stirring constantly.",
+    "Add soy sauce, miso paste, and sugar, and stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring constantly.",
+    "Stir in chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanesefood",
+    "vegetarian",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-gooey-german-plum-tomatoes-risotto--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:52:59.791Z"
+}
