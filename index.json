@@ -18945,5 +18945,19 @@
     "cuisine": "malaysian",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-french-salmon-tart-tatin--gluten-free",
+    "title": "French Salmon Tart",
+    "tags": [
+      "salmon",
+      "tart",
+      "gluten-free",
+      "french",
+      "dinner"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
+    "shard": "q"
   }
 ]
