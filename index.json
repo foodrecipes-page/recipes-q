@@ -1923,19 +1923,15 @@
   },
   {
     "slug": "quenched-and-italian-eggs-bigoli",
-    "title": "Quenched and Italian Eggs Bigoli",
+    "title": "Bigoli with Italian-Style Scrambled Eggs",
     "tags": [
-      "flexitarian",
-      "grana-padano",
       "italian",
-      "lombard",
-      "mozzarella",
-      "provolone",
-      "smoked",
-      "wine-infused"
+      "breakfast",
+      "eggs",
+      "pasta"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -16251,16 +16247,15 @@
   },
   {
     "slug": "quintessential-herbal-american-chicken-stew",
-    "title": "Quintessential Herbal American Chicken Stew",
+    "title": "Classic American Chicken Stew",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "hearty-stew",
-      "one-pot",
-      "winter-night"
+      "american",
+      "chicken",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "q"
   },
   {
@@ -18983,6 +18978,70 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-malaysian-almonds-stir-fry--vegan",
+    "title": "Sri Lankan-Style Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "malaysian",
+      "stir-fry",
+      "quick-cooking"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-venezuelan-tofu-salad--chinese",
+    "title": "Venezuelan-Style Stir Fry with Tofu",
+    "tags": [
+      "chinese",
+      "vegan",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-wild-garlic-pilaf--french",
+    "title": "Wild Garlic and Pilaf French Casserole",
+    "tags": [
+      "french",
+      "casserole",
+      "wild-garlic",
+      "pilaf"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-braised-french-cherry-tomato-stew--vegetarian",
+    "title": "French Braised Cherry Tomato Stew",
+    "tags": [
+      "french",
+      "vegetarian",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-thai-papaya-som-tum--chinese",
+    "title": "Thai-Style Papaya Salad",
+    "tags": [
+      "thai",
+      "chinese",
+      "salad",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "q"
   }
 ]
