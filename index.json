@@ -2563,15 +2563,16 @@
   },
   {
     "slug": "quenched-flaky-quinoa-papillote",
-    "title": "Quenched Flaky Quinoa Papillote",
+    "title": "Baked Quinoa with Papillote Crust",
     "tags": [
-      "flaky",
-      "gluten-free",
-      "peruvian",
-      "smoky"
+      "baked",
+      "quinoa",
+      "papillote",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 65,
+    "cuisine": "vegetarian",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -4167,17 +4168,15 @@
   },
   {
     "slug": "quenched-syrian-double-fried-chicken-burger",
-    "title": "quenched syrian double-fried chicken burger",
+    "title": "Double Burger",
     "tags": [
-      "double-fry",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "syrian-cuisine",
-      "weeknight"
+      "burger",
+      "fried-chicken",
+      "double-burger",
+      "american-food"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -18867,6 +18866,84 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-aerated-ethiopian-mussels-stew--gluten-free",
+    "title": "Ethiopian Stew with Mussels",
+    "tags": [
+      "gluten-free",
+      "mussels",
+      "ethiopian",
+      "stew"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "qgrilled-quinoa-agave-leaf-wrap--vegetarian",
+    "title": "Grilled Vegetable Wrap",
+    "tags": [
+      "quick",
+      "easy",
+      "healthy",
+      "vegetarian",
+      "lunch",
+      "grilled"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-gooey-uruguayan-dough-empanadas--vegetarian",
+    "title": "Uruguayan Empanada Pastry",
+    "tags": [
+      "empanadas",
+      "pastry",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-fluffy-brazilian-chorizo-casserole--german",
+    "title": "Sauerbraten with Chorizo and Casserole",
+    "tags": [
+      "german",
+      "meat-lovers",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 150,
+    "shard": "q"
+  },
+  {
+    "slug": "quaintly-molten-syrian-almond-pilaf--thai",
+    "title": "Thai Almond Chicken Pilaf",
+    "tags": [
+      "thai",
+      "chicken",
+      "pilaf",
+      "almond"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-malaysian-almonds-stir-fry--gluten-free",
+    "title": "Malaysian Almond Stir Fry",
+    "tags": [
+      "gluten-free",
+      "malaysian",
+      "chicken"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
