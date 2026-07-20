@@ -1,0 +1,83 @@
+{
+  "slug": "quick-savory-mediterranean-vegetable-tagine--indian",
+  "title": "Spicy Vegetable Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with a variety of vegetables in a rich and spicy sauce. Serve over basmati rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece, grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can (14 oz), diced"
+    },
+    {
+      "name": "Quick curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Savory tagine spice blend",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add red bell pepper, carrots, and zucchini; cook until vegetables are tender.",
+    "Add tomato, curry paste, and tagine spice blend; stir well.",
+    "Bring to a simmer and cook for 10 minutes.",
+    "Serve over basmati rice or with naan bread.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve with raita or yogurt, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-mediterranean-vegetable-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:39:07.440Z"
+}
