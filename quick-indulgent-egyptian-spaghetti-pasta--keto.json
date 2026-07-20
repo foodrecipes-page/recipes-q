@@ -1,0 +1,97 @@
+{
+  "slug": "quick-indulgent-egyptian-spaghetti-pasta--keto",
+  "title": "Egyptian Keto Spaghetti",
+  "description": "A keto twist on the classic spaghetti dish, featuring egyptian flavors and quick preparation.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1 cup (115g)",
+      "notes": "Make sure to choose a keto-friendly cheese option."
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (10g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the spaghetti according to package instructions.",
+    "In a large skillet, heat 2 tbsp (30g) of oil over medium-high heat. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the tomato paste, garlic, cumin, and paprika to the skillet. Cook for 1-2 minutes, stirring constantly.",
+    "Reduce heat to low and simmer the sauce for 10-15 minutes, stirring occasionally.",
+    "Drain the cooked spaghetti and add it to the skillet with the sauce. Toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with parmesan cheese and chopped parsley.",
+    "Enjoy your keto egyptian spaghetti!",
+    "Note: Make sure to choose a keto-friendly cheese option.",
+    "Optional: Add some spicy kick with a sprinkle of cayenne pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "egyptian",
+    "indulgent",
+    "spaghetti",
+    "pasta",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-indulgent-egyptian-spaghetti-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:33:19.063Z"
+}
