@@ -1,0 +1,97 @@
+{
+  "slug": "quaintly-molten-syrian-almond-pilaf--thai",
+  "title": "Thai Almond Chicken Pilaf",
+  "description": "A flavorful and aromatic Thai dish made with chicken, almond, and pilaf, perfect for a quick and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "quaintly",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "almond",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "syrup",
+      "amount": "1 tablespoon",
+      "notes": "molten"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Add the sliced almond and cook for an additional 2 minutes.",
+    "In a small bowl, whisk together the soy sauce, fish sauce, and molten syrup.",
+    "Pour the sauce over the chicken and almond mixture, and stir to coat.",
+    "Add the pilaf to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the pilaf is heated through.",
+    "Serve hot and garnish with quaintly, if desired.",
+    "Note: If using quaintly, add it to the skillet with the chicken and cook until fragrant, about 1 minute."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "chicken",
+    "pilaf",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-molten-syrian-almond-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:20:23.355Z"
+}
