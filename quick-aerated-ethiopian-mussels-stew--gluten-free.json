@@ -1,0 +1,88 @@
+{
+  "slug": "quick-aerated-ethiopian-mussels-stew--gluten-free",
+  "title": "Ethiopian Stew with Mussels",
+  "description": "A flavorful and spicy stew made with tender mussels, Ethiopian spices, and a hint of aeration.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound, scrubbed and debearded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "use quick onion to speed up cooking time"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ethiopian berbere spice mix",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Quick stew",
+      "amount": "1 cup, homemade or store-bought"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 cup",
+      "notes": "for added moisture and aeration"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the berbere spice mix and cook for 1-2 minutes, stirring constantly.",
+    "Add the stew, chicken broth, and tomato paste. Stir to combine.",
+    "Add the mussels, cover the pot, and cook until the mussels open, about 5-7 minutes.",
+    "Add the aerated water and stir to combine.",
+    "Bring the stew to a simmer and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mussels",
+    "ethiopian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-aerated-ethiopian-mussels-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:35:05.452Z"
+}
