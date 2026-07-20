@@ -18959,5 +18959,18 @@
     "cuisine": "French",
     "totalTimeMin": 55,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-thai-mentaiko-larb--keto",
+    "title": "Keto Larb-Style Stir Fry with Mentaiko",
+    "tags": [
+      "keto",
+      "low-carb",
+      "paleo",
+      "thaifood"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
