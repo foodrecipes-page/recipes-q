@@ -18972,5 +18972,17 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quick-charred-gooey-german-plum-tomatoes-risotto--japanese",
+    "title": "Japanese-Style Risotto with Plum Tomatoes",
+    "tags": [
+      "japanesefood",
+      "vegetarian",
+      "risotto"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
