@@ -1,0 +1,59 @@
+{
+  "slug": "quenched-gooey-uruguayan-dough-empanadas--vegetarian",
+  "title": "Uruguayan Empanada Pastry",
+  "description": "A traditional Uruguayan pastry filled with gooey cheese and served at room temperature.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan dough",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Gooey cheese",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Quenched cheese",
+      "amount": "100g",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Roll out the Uruguayan dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough to fit your empanada molds.",
+    "Place a spoonful of gooey cheese in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water.",
+    "Bake the empanadas for 20-25 minutes, or until they're golden brown.",
+    "Remove the empanadas from the oven and let them cool for a few minutes.",
+    "Serve the empanadas at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "pastry",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-gooey-uruguayan-dough-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:03:18.680Z"
+}
