@@ -1,0 +1,61 @@
+{
+  "slug": "qgrilled-quinoa-agave-leaf-wrap--vegetarian",
+  "title": "Grilled Vegetable Wrap",
+  "description": "A delicious and healthy vegetarian wrap filled with grilled vegetables and quinoa. Perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Leaf",
+      "amount": "1 bunch",
+      "notes": "lettuce or spinach work well"
+    },
+    {
+      "name": "Agave",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cook quinoa according to package instructions.",
+    "Grill leaf until slightly charred.",
+    "Brush agave on both sides of the wrap.",
+    "Place wrap on the grill for a few seconds to warm.",
+    "Assemble wrap by placing cooked quinoa, grilled leaf, and any other desired vegetables inside.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "healthy",
+    "vegetarian",
+    "lunch",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qgrilled-quinoa-agave-leaf-wrap--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:00:24.388Z"
+}
