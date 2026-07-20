@@ -1,0 +1,87 @@
+{
+  "slug": "quick-ethiopian-duck-fat-sambusa",
+  "title": "Ethiopian Sambusa Duck Fritters",
+  "description": "A twist on traditional Ethiopian sambusa, these crispy fritters are filled with duck and spices. Perfect as a snack or appetizer.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Duck, boneless and skinless",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Quick Ethiopian Injera Bread",
+      "amount": "2 cups, crumbled",
+      "notes": "Toasted in a pan until crispy"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Sambusa spice blend",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Middle Eastern or African markets"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1/2 cup",
+      "notes": "Sautéed until softened"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Sautéed until fragrant"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "To help bind the mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, combine the duck, crumbled injera, sambusa spice blend, onion, garlic, salt, and black pepper. Mix well.",
+    "Add the breadcrumbs to the bowl and mix until the mixture is well combined.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches (3.8 cm) in diameter and 1/2 inch (1.3 cm) thick.",
+    "Carefully place the patties in the hot oil and fry until they are golden brown and crispy, about 3-4 minutes per side.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the sambusa duck fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "sambusa",
+    "duck",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-ethiopian-duck-fat-sambusa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:54:26.151Z"
+}
