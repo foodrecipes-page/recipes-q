@@ -1,0 +1,82 @@
+{
+  "slug": "quietly-braised-french-cherry-tomato-stew--italian",
+  "title": "Braised Cherry Tomato Stew",
+  "description": "A hearty Italian-inspired stew made with tender cherry tomatoes and a rich braising liquid.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the halved cherry tomatoes and cook for 2-3 minutes, until they start to release their juices.",
+    "Add the stew, salt, and pepper. Stir to combine.",
+    "Bring the stew to a simmer, then cover and transfer to the oven.",
+    "Braise the stew in a preheated oven at 300°F (150°C) for 20-25 minutes, or until the tomatoes are tender.",
+    "Stir in the chopped fresh basil.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "stew",
+    "cherry-tomatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-braised-french-cherry-tomato-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:26:54.080Z"
+}
