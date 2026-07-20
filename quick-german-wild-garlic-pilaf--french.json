@@ -1,0 +1,69 @@
+{
+  "slug": "quick-german-wild-garlic-pilaf--french",
+  "title": "Wild Garlic and Pilaf French Casserole",
+  "description": "A hearty and flavorful casserole that combines the earthy taste of wild garlic with the nuttiness of pilaf. French cuisine at its finest.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild garlic",
+      "amount": "1 bunch, chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup, uncooked"
+    },
+    {
+      "name": "quick",
+      "amount": "1 tablespoon, olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pilaf according to package instructions.",
+    "In a skillet, heat olive oil over medium heat. Add wild garlic, garlic, salt, and pepper. Cook until wild garlic is tender, about 5 minutes.",
+    "In a large mixing bowl, combine cooked pilaf, wild garlic mixture, and shredded Gruyère cheese.",
+    "Transfer the mixture to a 9x13-inch baking dish and bake for 20-25 minutes, or until the top is golden brown.",
+    "Remove from oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "casserole",
+    "wild-garlic",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-wild-garlic-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:20:13.250Z"
+}
