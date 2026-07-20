@@ -6290,17 +6290,15 @@
   },
   {
     "slug": "quick-ethiopian-duck-fat-sambusa",
-    "title": "Quick Ethiopian Duck Fat Sambusa",
+    "title": "Ethiopian Sambusa Duck Fritters",
     "tags": [
-      "diabetic-friendly",
-      "easy-servings",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "ethiopian",
+      "sambusa",
+      "duck",
+      "fritters"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 32,
     "shard": "q"
   },
   {
@@ -18791,6 +18789,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-slovakian-lentils-soup--indian",
+    "title": "Slovakian Lentil Soup",
+    "tags": [
+      "lentils",
+      "soup",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
