@@ -1631,15 +1631,15 @@
   },
   {
     "slug": "quaintly-simmered-algerian-lamb-tagine",
-    "title": "Quaintly Simmered Algerian Lamb Tagine",
+    "title": "Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "lamb-recipes",
-      "low-sodium",
-      "simmered-dishes",
-      "special-occasion"
+      "algerian",
+      "lamb",
+      "tagine",
+      "slow-cooked",
+      "north-african"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 110,
     "shard": "q"
   },
@@ -8335,18 +8335,16 @@
   },
   {
     "slug": "quick-frozen-syrian-prawns-skewers",
-    "title": "Quick Frozen Syrian Prawns Skewers",
+    "title": "Quick Syrian Shrimp Skewers",
     "tags": [
       "easy",
-      "frozen",
-      "grilled",
       "quick",
+      "syrian",
       "seafood",
-      "skewers",
-      "syrian"
+      "prawns"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 23,
+    "totalTimeMin": 33,
     "shard": "q"
   },
   {
@@ -11134,17 +11132,16 @@
   },
   {
     "slug": "quick-seared-algerian-chicken-liver-skewers",
-    "title": "Quick Seared Algerian Chicken Liver Skewers",
+    "title": "Algerian Chicken Skewers",
     "tags": [
       "algerian",
-      "easy",
+      "chicken",
+      "skewers",
       "grilled",
-      "high-protein",
-      "low-carb",
-      "quick"
+      "summer"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 23,
+    "cuisine": "North African",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -19127,6 +19124,31 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-british-bangers-pan-fried-sausage-and-mashed-potatoes--indian",
+    "title": "British Sausage Vindaloo",
+    "tags": [
+      "indian",
+      "british",
+      "sausages",
+      "vindaloo"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-roasted-canadian-chicken-roast--keto",
+    "title": "Roasted Chicken Keto Delight",
+    "tags": [
+      "keto",
+      "chicken",
+      "roasted"
+    ],
+    "cuisine": "North American",
+    "totalTimeMin": 60,
     "shard": "q"
   }
 ]
