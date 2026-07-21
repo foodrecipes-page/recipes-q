@@ -19102,5 +19102,18 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-seared-canadian-hail-battered-salmon-skillet--vegan",
+    "title": "Vegan Skillet Meal",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "quick",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
