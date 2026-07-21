@@ -1,0 +1,85 @@
+{
+  "slug": "quick-british-bangers-pan-fried-sausage-and-mashed-potatoes--indian",
+  "title": "British Sausage Vindaloo",
+  "description": "A spicy twist on traditional British sausages, inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sauces, british, bangers",
+      "amount": "4 British sausages",
+      "notes": "Choose sausages with a good balance of spices"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "Chop onions before sautéing"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "Grate ginger for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Mince garlic for best results"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "Boil or bake potatoes before mashing"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "Diced tomatoes"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "Blend spices for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pan over medium-high heat.",
+    "2. Add onions and cook until they start to brown.",
+    "3. Add ginger and garlic and cook for 1-2 minutes.",
+    "4. Add British sausages and cook until browned.",
+    "5. Add diced tomatoes, chili peppers, and garam masala.",
+    "6. Stir well and bring to a simmer.",
+    "7. Reduce heat to low and let cook for 10-15 minutes.",
+    "8. Meanwhile, boil or bake potatoes until tender.",
+    "9. Mash potatoes with a fork or potato masher.",
+    "10. Serve British sausages with mashed potatoes and vindaloo sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "british",
+    "sausages",
+    "vindaloo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-british-bangers-pan-fried-sausage-and-mashed-potatoes--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:30:25.076Z"
+}
