@@ -12314,17 +12314,15 @@
   },
   {
     "slug": "quick-umami-indian-farfalle-pasta",
-    "title": "Quick Umami Indian Farfalle Pasta",
+    "title": "Quick Indian-Style Pasta",
     "tags": [
-      "gluten-free",
-      "indian-cuisine",
-      "one-pot",
-      "sugar-free",
-      "umami-rich",
-      "weeknight"
+      "indian",
+      "pasta",
+      "quick",
+      "easy"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -19089,6 +19087,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-smoked-cold-fromage-tagine--italian",
+    "title": "Smoked Tagine Stuffed fromage",
+    "tags": [
+      "italian",
+      "snack",
+      "vegetarian",
+      "cheese",
+      "melted"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
