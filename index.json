@@ -14117,17 +14117,15 @@
   },
   {
     "slug": "quietly-dense-kenyan-olive-casserole",
-    "title": "Quietly Dense Kenyan Olive Casserole",
+    "title": "Kenyan Olive Casserole",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "lazy-sunday",
-      "one-pan",
-      "shojin-friendly",
+      "kenyan",
+      "olive",
+      "casserole",
       "vegetarian"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "q"
   },
   {
@@ -19189,6 +19187,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crisp-russian-rice-pilaf--french",
+    "title": "Crispy French-Style Pilaf with Russian Twist",
+    "tags": [
+      "french",
+      "rice",
+      "pilaf",
+      "crispy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
