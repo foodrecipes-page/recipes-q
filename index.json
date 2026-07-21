@@ -19150,5 +19150,20 @@
     "cuisine": "North American",
     "totalTimeMin": 60,
     "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-peruvian-chicken-peruvian-roasted-chicken--thai",
+    "title": "Thai Chicken Skewers",
+    "tags": [
+      "thai",
+      "chicken",
+      "skewers",
+      "grilled",
+      "peanut-oil",
+      "fish-sauce"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
