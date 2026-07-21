@@ -1,0 +1,90 @@
+{
+  "slug": "quenched-smoked-german-sausage-tagine--mexican",
+  "title": "Smoked Sausage Tagine",
+  "description": "A Mexican twist on the traditional Moroccan tagine dish, featuring smoked sausage and a blend of spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "quenched onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "german potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the potato, cumin, chili powder, salt, and pepper. Cook for 1 minute.",
+    "Add the chicken broth and tagine spice mix. Bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "sausage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoked-german-sausage-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:24:51.850Z"
+}
