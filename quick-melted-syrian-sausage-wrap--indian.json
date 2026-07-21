@@ -1,0 +1,67 @@
+{
+  "slug": "quick-melted-syrian-sausage-wrap--indian",
+  "title": "Indian Sausage Wrap",
+  "description": "A flavorful and spicy Indian-inspired sausage wrap, perfect for a quick snack or meal. The combination of melted cheese, sausage, and wrap creates a delicious and satisfying taste experience.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1/2 pound",
+      "notes": "Indian-style sausage or substitute with a similar type of sausage"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "Indian-style flatbread or substitute with a similar type of flatbread"
+    },
+    {
+      "name": "Quick cheese",
+      "amount": "1/4 cup",
+      "notes": "Melted cheese, such as mozzarella or cheddar"
+    },
+    {
+      "name": "Syrian cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbly cheese, such as feta or goat cheese"
+    },
+    {
+      "name": "Syrup",
+      "amount": "1 tablespoon",
+      "notes": "Optional, adds a sweet and spicy flavor"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan or griddle over medium heat.",
+    "2. Add the sausage to the pan and cook until browned, about 3-4 minutes.",
+    "3. Add the wrap to the pan and cook for 1-2 minutes on each side, until crispy and lightly browned.",
+    "4. Add the quick cheese to the wrap and cook until melted.",
+    "5. Add the Syrian cheese on top of the quick cheese.",
+    "6. Add the cooked sausage on top of the cheese.",
+    "7. Drizzle the syrup over the sausage, if using.",
+    "8. Fold the wrap in half to create a half-moon shape.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "sausage-wrap",
+    "quick-meal",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-melted-syrian-sausage-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T04:43:05.819Z"
+}
