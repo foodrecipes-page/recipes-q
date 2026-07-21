@@ -4319,15 +4319,14 @@
   },
   {
     "slug": "quenched-ukrainian-citrus-casserole",
-    "title": "Quenched Ukrainian Citrus Casserole",
+    "title": "Ukrainian Citrus Casserole",
     "tags": [
-      "breakfast",
-      "casserole",
-      "citrus",
-      "ginger",
-      "ukrainian"
+      "ukrainian",
+      "dessert",
+      "casseroles",
+      "chocolate"
     ],
-    "cuisine": "ukrainian",
+    "cuisine": "Ukrainian",
     "totalTimeMin": 55,
     "shard": "q"
   },
@@ -15876,17 +15875,16 @@
   },
   {
     "slug": "quietly-tangy-venezuelan-fish-ceviche",
-    "title": "Quietly Tangy Venezuelan Fish Ceviche",
+    "title": "Venezuelan Ceviche",
     "tags": [
-      "high-protein",
-      "latin-american",
-      "one-bowl",
-      "raw-fish",
-      "shojin-friendly",
-      "weeknight"
+      "fish",
+      "ceviche",
+      "venezuelan",
+      "appetizer",
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
