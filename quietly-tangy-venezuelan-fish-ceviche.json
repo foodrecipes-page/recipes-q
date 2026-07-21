@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-tangy-venezuelan-fish-ceviche",
+  "title": "Venezuelan Ceviche",
+  "description": "A refreshing and tangy dish from Venezuela, made with fresh fish marinated in citrus juices.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Gutted and skinned halibut fillets",
+      "amount": "4 oz",
+      "notes": "Use fresh and sashimi-grade fish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lime and orange juice.",
+    "Add the sliced red onion and chopped cilantro to the bowl.",
+    "Season with salt to taste.",
+    "Add the minced garlic to the bowl.",
+    "Gently place the halibut fillets in the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Before serving, stir gently to coat the fish evenly.",
+    "Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "ceviche",
+    "venezuelan",
+    "appetizer",
+    "gluten-free"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-tangy-venezuelan-fish-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:11:59.516Z"
+}
