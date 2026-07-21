@@ -19115,5 +19115,18 @@
     "cuisine": null,
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-japanese-tofu-agedashi--thai",
+    "title": "Agedashi Tofu in Thai Broth",
+    "tags": [
+      "japanese",
+      "thai",
+      "tofu",
+      "agedashi"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
