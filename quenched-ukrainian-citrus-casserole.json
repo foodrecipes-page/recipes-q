@@ -1,0 +1,72 @@
+{
+  "slug": "quenched-ukrainian-citrus-casserole",
+  "title": "Ukrainian Citrus Casserole",
+  "description": "A sweet and tangy dessert, combining traditional ukrainian flavors with a citrus twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "quenched chocolate",
+      "amount": "250g"
+    },
+    {
+      "name": "ukrainian wheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "120ml"
+    },
+    {
+      "name": "sugar",
+      "amount": "150g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "In a large mixing bowl, combine quenched chocolate, ukrainian wheat flour, and sugar.",
+    "Add lemon juice and mix until well combined.",
+    "Beat in eggs and melted butter.",
+    "Pour the mixture into a greased baking dish.",
+    "Bake for 35-40 minutes, or until set.",
+    "Remove from the oven and sprinkle with orange zest.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dessert",
+    "casseroles",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-ukrainian-citrus-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:42:47.100Z"
+}
