@@ -19043,5 +19043,30 @@
     "cuisine": "chinese",
     "totalTimeMin": 20,
     "shard": "q"
+  },
+  {
+    "slug": "quick-baked-russian-pepper-pilaf--mexican",
+    "title": "Quick Mexican Pilaf",
+    "tags": [
+      "mexican",
+      "quick",
+      "easy",
+      "pilaf"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quickly-flambe-turkish-fish-borek--vegan",
+    "title": "Turkish-Style Vegetable Stuffed Borek",
+    "tags": [
+      "turkish",
+      "vegan",
+      "breakfast"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
