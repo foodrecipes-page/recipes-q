@@ -1,0 +1,105 @@
+{
+  "slug": "quaintly-simmered-algerian-lamb-tagine",
+  "title": "Algerian Lamb Tagine",
+  "description": "A traditional North African dish, slow-cooked with tender lamb, aromatic spices, and sweet preserved lemons.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "Preserved lemons, chopped",
+      "amount": "2",
+      "notes": "see notes for homemade preserved lemons"
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, ginger, cinnamon, cumin, cayenne pepper, salt, and black pepper; cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add preserved lemons, water, and quinces (if using); bring to a boil.",
+    "Cover and simmer over low heat until lamb is tender, about 1 1/2 hours.",
+    "Stir in parsley and cook for 5 minutes.",
+    "Serve over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "slow-cooked",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-simmered-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:25:45.486Z"
+}
