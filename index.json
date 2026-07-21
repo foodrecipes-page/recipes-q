@@ -19165,5 +19165,32 @@
     "cuisine": "Thai",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-egyptian-squid-tagine--chinese",
+    "title": "Squid in Egyptian Tagine",
+    "tags": [
+      "seafood",
+      "chinese-cuisine",
+      "squid",
+      "tagine",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-mexican-paccheri-pasta--vegan",
+    "title": "Mexican Vegan Paccheri",
+    "tags": [
+      "mexican",
+      "vegan",
+      "pasta",
+      "dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
