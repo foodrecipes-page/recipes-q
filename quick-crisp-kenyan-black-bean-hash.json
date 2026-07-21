@@ -1,0 +1,78 @@
+{
+  "slug": "quick-crisp-kenyan-black-bean-hash",
+  "title": "Kenyan Black Bean Hash",
+  "description": "A flavorful and spicy hash recipe inspired by Kenyan cuisine, featuring black beans and crisp vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black bean",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "hash",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "crisp",
+      "amount": "4-6, for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onion, bell pepper, and tomato, and cook until tender, about 5 minutes.",
+    "Add cumin and paprika, and cook for 1 minute.",
+    "Stir in black bean and hash, and cook for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, topped with crisp."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "vegetarian",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-kenyan-black-bean-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:22:32.079Z"
+}
