@@ -1,0 +1,89 @@
+{
+  "slug": "quenched-egyptian-squid-tagine--chinese",
+  "title": "Squid in Egyptian Tagine",
+  "description": "A Chinese-inspired dish using Egyptian spices and a traditional tagine pot to cook tender squid. This recipe combines the flavors of the East with the comfort of a hearty stew.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "quenched rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular rice vinegar"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 teaspoon",
+      "notes": "or substitute with regular cumin"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with tamari"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "fresh, peeled and sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine pot over medium-high heat.",
+    "Add sliced ginger and minced garlic and cook until fragrant, about 2 minutes.",
+    "Add brown sugar and cook for 1 minute.",
+    "Add soy sauce, cumin, and red pepper flakes (if using) and stir to combine.",
+    "Add squid and cook until it starts to brown, about 2 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 8-10 minutes or until squid is cooked through.",
+    "Stir in quenched rice vinegar and serve hot over cooked rice.",
+    "Garnish with chopped green onions and a squeeze of fresh lime juice (optional).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "chinese-cuisine",
+    "squid",
+    "tagine",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-egyptian-squid-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:07:54.845Z"
+}
