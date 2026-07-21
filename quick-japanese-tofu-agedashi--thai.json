@@ -1,0 +1,88 @@
+{
+  "slug": "quick-japanese-tofu-agedashi--thai",
+  "title": "Agedashi Tofu in Thai Broth",
+  "description": "A fusion dish that brings together the best of Japanese and Thai cuisine: crispy fried tofu served in a savory and spicy Thai-inspired broth.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm Tofu",
+      "amount": "1 block",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Agedashi Tofu Breading",
+      "amount": "1 cup",
+      "notes": "Japanese-style breadcrumb mix"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 cups",
+      "notes": "For deep-frying"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 cups",
+      "notes": "Full-fat for rich flavor"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tsp",
+      "notes": "Traditional Thai flavor"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "Add depth to the broth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of vegetable oil in a deep frying pan to 350°F (180°C).",
+    "Dredge the tofu cubes in the agedashi breading, shaking off excess.",
+    "Fry the breaded tofu in batches until golden brown, about 3-4 minutes. Drain on paper towels.",
+    "In a large pot, combine coconut milk, Thai red curry paste, fish sauce, and soy sauce. Whisk until smooth.",
+    "Bring the mixture to a simmer over medium heat.",
+    "Reduce the heat to low and add the sliced ginger. Cook for 5 minutes.",
+    "Add the fried tofu to the pot and cook for an additional 2-3 minutes.",
+    "Season the broth with salt and pepper to taste.",
+    "Serve the agedashi tofu in the spicy Thai broth, garnished with chopped Thai basil.",
+    "Enjoy immediately!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "thai",
+    "tofu",
+    "agedashi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-tofu-agedashi--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:11:24.520Z"
+}
