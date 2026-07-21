@@ -1,0 +1,78 @@
+{
+  "slug": "quick-seared-algerian-chicken-liver-skewers",
+  "title": "Algerian Chicken Skewers",
+  "description": "Quick and flavorful chicken skewers with an Algerian twist, perfect for a summer evening.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, Algerian spice blend, lemon juice, garlic, salt, and pepper.",
+    "Brush the mixture onto the chicken skewers, making sure to coat all the pieces.",
+    "Grill the skewers for 8-10 minutes, flipping halfway through, until the chicken is cooked through and slightly charred.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "chicken",
+    "skewers",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-algerian-chicken-liver-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:34:03.093Z"
+}
