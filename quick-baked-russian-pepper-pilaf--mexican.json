@@ -1,0 +1,76 @@
+{
+  "slug": "quick-baked-russian-pepper-pilaf--mexican",
+  "title": "Quick Mexican Pilaf",
+  "description": "A flavorful Mexican-inspired pilaf dish made with a variety of ingredients. Cook in under 30 minutes!",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 pound",
+      "notes": "cooked"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Russian Sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Quick Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Mexican Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the diced pepper and cook for 3-4 minutes until tender.",
+    "Add the cooked pilaf and stir to combine with the pepper.",
+    "Add the sliced Russian sausage and cooked ground beef.",
+    "Sprinkle the Mexican seasoning over the top and stir to combine.",
+    "Transfer the mixture to a baking dish and top with shredded cheese.",
+    "Bake in a preheated oven at 375°F (190°C) for 5-7 minutes until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quick",
+    "easy",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-baked-russian-pepper-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:22:47.196Z"
+}
