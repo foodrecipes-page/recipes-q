@@ -1,0 +1,81 @@
+{
+  "slug": "quaint-crumbly-korean-rice-tteok",
+  "title": "Korean Tteok Pancake with Crispy Rice",
+  "description": "A crispy and crunchy Korean-inspired pancake using tteok and rice, perfect for a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Quaint rice",
+      "amount": "2 cups",
+      "notes": "Short-grain rice"
+    },
+    {
+      "name": "Crumbly tteok",
+      "amount": "1 cup",
+      "notes": "Glutinous rice cake"
+    },
+    {
+      "name": "Korean rice flour",
+      "amount": "1/2 cup",
+      "notes": "For pancake batter"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For pancake batter"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For frying"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Grind quaint rice and crumbly tteok into a fine texture.",
+    "Mix Korean rice flour and water to create a smooth pancake batter.",
+    "Combine ground rice mixture, pancake batter, sesame oil, and a pinch of salt.",
+    "Heat a non-stick pan over medium heat and pour in the pancake mixture.",
+    "Cook for 4-5 minutes or until the edges start to set.",
+    "Use a spatula to gently lift and fold the pancake to achieve a crispy texture.",
+    "Continue cooking for another 2-3 minutes or until the pancake is golden brown.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "pancake",
+    "tteok",
+    "rice",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-crumbly-korean-rice-tteok",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:55:30.650Z"
+}
