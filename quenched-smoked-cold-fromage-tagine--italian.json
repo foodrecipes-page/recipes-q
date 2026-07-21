@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-smoked-cold-fromage-tagine--italian",
+  "title": "Smoked Tagine Stuffed fromage",
+  "description": "An Italian take on Mediterranean flavors, combining smoked tagine with creamy fromage.",
+  "cuisine": "italian",
+  "diet": [
+    null,
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fromage",
+      "amount": "1 block (250g)"
+    },
+    {
+      "name": "tagine",
+      "amount": "1/4 cup (60g)",
+      "notes": "smoked"
+    },
+    {
+      "name": "cold quenched milk",
+      "amount": "1/2 cup (120ml)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Cut the fromage into 8 equal pieces.",
+    "3. In a mixing bowl, combine the tagine, cold quenched milk, parsley, garlic powder, salt, and black pepper. Mix well.",
+    "4. Stuff each fromage piece with the tagine mixture, dividing it evenly.",
+    "5. Place the stuffed fromage pieces on a baking sheet lined with parchment paper, leaving space between each piece.",
+    "6. Drizzle the olive oil over the fromage pieces.",
+    "7. Bake in the preheated oven for 15-20 minutes, or until the fromage is melted and golden brown.",
+    "8. Remove from the oven and let cool slightly.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "vegetarian",
+    "cheese",
+    "melted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoked-cold-fromage-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:46:13.522Z"
+}
