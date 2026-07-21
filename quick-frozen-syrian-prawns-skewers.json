@@ -1,0 +1,79 @@
+{
+  "slug": "quick-frozen-syrian-prawns-skewers",
+  "title": "Quick Syrian Shrimp Skewers",
+  "description": "A flavorful and easy-to-make dish perfect for a quick lunch or dinner. This recipe combines succulent prawns with the bold flavors of the Middle East.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "1 pound",
+      "notes": "Deveined and peeled"
+    },
+    {
+      "name": "Quick Skewers",
+      "amount": "10-12",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, Middle Eastern spice blend, lemon juice, and garlic.",
+    "3. Add prawns to the bowl and toss to coat with the marinade.",
+    "4. Thread prawns onto skewers, leaving a small space between each prawn.",
+    "5. Brush skewers with olive oil and season with salt and pepper.",
+    "6. Grill skewers for 8-10 minutes per side, or until prawns are pink and cooked through.",
+    "7. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick",
+    "syrian",
+    "seafood",
+    "prawns"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-frozen-syrian-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:17:27.692Z"
+}
