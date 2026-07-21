@@ -1,0 +1,89 @@
+{
+  "slug": "quick-umami-indian-farfalle-pasta",
+  "title": "Quick Indian-Style Pasta",
+  "description": "A simple and flavorful pasta dish inspired by Indian cuisine, made with quick-cooking farfalle and a blend of aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14 oz",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the farfalle pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat. Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and cook for another minute, until fragrant.",
+    "Stir in the Indian curry powder and cook for 1 minute, until fragrant.",
+    "Add the crushed tomatoes, vegetable broth, and reserved pasta water to the skillet. Bring the sauce to a simmer and let cook for 5-7 minutes, stirring occasionally.",
+    "Add the cooked farfalle pasta to the skillet and toss with the sauce until well coated.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "pasta",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-umami-indian-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:32:18.587Z"
+}
