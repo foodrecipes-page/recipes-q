@@ -19068,5 +19068,30 @@
     "cuisine": "Turkish",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-smoked-german-sausage-tagine--mexican",
+    "title": "Smoked Sausage Tagine",
+    "tags": [
+      "mexican",
+      "sausage",
+      "stew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-melted-syrian-sausage-wrap--indian",
+    "title": "Indian Sausage Wrap",
+    "tags": [
+      "indian-food",
+      "sausage-wrap",
+      "quick-meal",
+      "spicy-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
