@@ -1,0 +1,72 @@
+{
+  "slug": "quick-seared-canadian-hail-battered-salmon-skillet--vegan",
+  "title": "Vegan Skillet Meal",
+  "description": "A hearty and flavorful skillet meal made with seared vegetables and skillet-fried tofu, perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "press and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown.",
+    "Add the onion, bell pepper, and mushroom, and cook until tender.",
+    "Add the garlic and cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-seared-canadian-hail-battered-salmon-skillet--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:53:06.588Z"
+}
