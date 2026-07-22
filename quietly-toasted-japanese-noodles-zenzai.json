@@ -1,0 +1,64 @@
+{
+  "slug": "quietly-toasted-japanese-noodles-zenzai",
+  "title": "Toasted Noodle Zenzai",
+  "description": "A warm, comforting Japanese dessert featuring toasted noodles in a sweet red bean sauce. Perfect for a cold winter evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red bean paste (zenzai)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large saucepan.",
+    "Add the sugar and stir until dissolved.",
+    "Add the red bean paste and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Meanwhile, toast the noodles in a dry pan over medium heat until lightly browned.",
+    "Add the toasted noodles to the saucepan and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Drizzle with sesame oil and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toasted",
+    "noodles",
+    "zenzai",
+    "dessert",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-toasted-japanese-noodles-zenzai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:43:57.864Z"
+}
