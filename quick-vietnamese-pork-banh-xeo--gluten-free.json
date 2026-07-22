@@ -1,0 +1,84 @@
+{
+  "slug": "quick-vietnamese-pork-banh-xeo--gluten-free",
+  "title": "Vietnamese Style Pork Banh Xeo",
+  "description": "A gluten-free twist on the classic Vietnamese pancake, Banh Xeo. This dish is filled with crispy pork and savory flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "250g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "200g",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese sweet sauce",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "50g",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Pork lard or vegetable oil",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine rice flour and water in a bowl. Mix well to avoid lumps.",
+    "Add coconut milk, Vietnamese sweet sauce, and mix until smooth.",
+    "Heat a non-stick pan over medium-high heat.",
+    "Add a small amount of pork lard or oil and swirl to coat.",
+    "Pour 1/4 of the batter into the pan and tilt to evenly coat.",
+    "Add sliced pork and cook until edges start to curl.",
+    "Add bean sprouts and cook until the pancake is crispy and golden.",
+    "Flip the pancake and cook for an additional 2 minutes.",
+    "Serve hot with fresh cilantro and additional sweet sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "banhxoe",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-vietnamese-pork-banh-xeo--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:59:04.701Z"
+}
