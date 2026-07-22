@@ -19334,5 +19334,29 @@
     "cuisine": "Vietnamese",
     "totalTimeMin": 27,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-egyptian-squid-tagine--gluten-free",
+    "title": "Grilled Squid Tagine",
+    "tags": [
+      "mexican",
+      "grilled",
+      "seafood"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-resinous-argentinian-masarepa-toast--mexican",
+    "title": "Argentinian-Style Toasted Corn Cakes",
+    "tags": [
+      "argentinian",
+      "corn-cakes",
+      "mexican-snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "q"
   }
 ]
