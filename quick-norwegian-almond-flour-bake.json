@@ -1,0 +1,67 @@
+{
+  "slug": "quick-norwegian-almond-flour-bake",
+  "title": "Norwegian Almond Cake",
+  "description": "A traditional Norwegian dessert made with ground almonds and quick flour. Perfect for special occasions.",
+  "cuisine": "norwegian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "quick flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a medium bowl, whisk together the ground almonds and quick flour.",
+    "In a large bowl, beat the butter and granulated sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the vanilla extract if using.",
+    "Add the almond mixture to the butter mixture and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "norwegian",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-norwegian-almond-flour-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:34:26.037Z"
+}
