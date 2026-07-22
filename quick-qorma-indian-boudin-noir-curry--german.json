@@ -1,0 +1,95 @@
+{
+  "slug": "quick-qorma-indian-boudin-noir-curry--german",
+  "title": "German Boudin Sausage Curry",
+  "description": "A rich and flavorful curry made with German boudin sausage, served with a side of crispy potatoes and fresh naan bread.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German boudin sausage",
+      "amount": "450g",
+      "notes": "You can also use other German sausage varieties"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cm",
+      "notes": "Grated"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Naan bread",
+      "amount": "4-6 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "150ml",
+      "notes": "Plain, for serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium-high heat and brown the boudin sausage, about 5 minutes.",
+    "Remove the sausage from the pan and set aside.",
+    "Reduce heat to medium and sauté the chopped onion, minced garlic, and grated ginger until softened, about 5 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the chopped red bell pepper and cook for another 2 minutes.",
+    "Add the chopped potatoes, browned boudin sausage, and 1 cup of water to the pan.",
+    "Bring the mixture to a simmer, reduce heat to low, and cook for 15-20 minutes, or until the potatoes are tender.",
+    "Warm the naan bread according to package instructions.",
+    "Serve the curry with naan bread, a dollop of yogurt, and garnished with chopped cilantro.",
+    "Optional: Serve with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "curry",
+    "boudin"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-qorma-indian-boudin-noir-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:32:03.795Z"
+}
