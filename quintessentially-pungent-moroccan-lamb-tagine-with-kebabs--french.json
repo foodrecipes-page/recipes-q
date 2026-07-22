@@ -1,0 +1,106 @@
+{
+  "slug": "quintessentially-pungent-moroccan-lamb-tagine-with-kebabs--french",
+  "title": "Lamb Tagine with Moroccan Spice",
+  "description": "A classic French-inspired Moroccan dish, slow-cooked to perfection in a rich and aromatic tagine. Serve with crusty bread or couscous.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "Ask your butcher to cut the lamb for you."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1 onion",
+      "notes": null
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon ground cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "2 cups lamb or beef broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set it aside.",
+    "Add the onion to the pot and cook until it is softened and lightly browned, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute.",
+    "Add the cumin, coriander, cinnamon, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the broth to the pot and bring to a boil.",
+    "Return the lamb to the pot and cover it with a lid.",
+    "Transfer the pot to the oven and braise the lamb for 1 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "moroccan",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessentially-pungent-moroccan-lamb-tagine-with-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:58:37.034Z"
+}
