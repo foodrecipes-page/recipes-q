@@ -1,0 +1,59 @@
+{
+  "slug": "quick-melted-syrian-sausage-wrap--gluten-free",
+  "title": "Gluten-Free Sausage Wrap",
+  "description": "A simple and quick meal made with sausage, melted cheese, and a delicious Syrian wrap.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "4",
+      "notes": "Cooked to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Syrian wrap",
+      "amount": "1",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Quick cheese shreds",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Optional toppings",
+      "amount": null,
+      "notes": "Chopped onions, bell peppers, or olives"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Cook the sausage for about 5-7 minutes, until browned and cooked through.",
+    "Slice the cooked sausage into pieces.",
+    "Warm the Syrian wrap in a dry pan or in the microwave.",
+    "Add the sliced sausage and melted cheese to the wrap.",
+    "Add any desired toppings, such as chopped onions or bell peppers.",
+    "Fold the wrap to enclose the filling.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "wrap",
+    "cheese",
+    "quick",
+    "easy",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-melted-syrian-sausage-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:29:59.682Z"
+}
