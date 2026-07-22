@@ -1,0 +1,90 @@
+{
+  "slug": "quietly-smoky-ethiopian-pork-knuckle-stew",
+  "title": "Ethiopian Smoky Pork Stew",
+  "description": "A hearty and aromatic stew made with tender pork and a blend of Ethiopian spices. This dish is perfect for a chilly evening.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork knuckle",
+      "amount": "1 (about 2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced",
+      "notes": ""
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "quietly",
+      "amount": "4 cups, beef broth",
+      "notes": "use store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork knuckle on all sides, about 5 minutes.",
+    "Remove the pork and set aside.",
+    "Add the onion, garlic, and ginger to the pot and cook until the onion is translucent.",
+    "Add the berbere spice, turmeric, cumin, and smoked paprika to the pot and cook for 1 minute.",
+    "Add the beef broth and bring to a boil.",
+    "Return the pork knuckle to the pot and cover.",
+    "Simmer the stew over low heat for 2 hours, or until the pork is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoky-ethiopian-pork-knuckle-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:44:11.689Z"
+}
