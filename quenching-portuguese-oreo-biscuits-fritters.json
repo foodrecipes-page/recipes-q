@@ -1,0 +1,54 @@
+{
+  "slug": "quenching-portuguese-oreo-biscuits-fritters",
+  "title": "Fritter Cookie Sandwiches",
+  "description": "A sweet twist on a classic cookie sandwich, featuring crispy fritter cookies and a creamy interior.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oreo cookies",
+      "amount": "1 package"
+    },
+    {
+      "name": "Fritter cookies",
+      "amount": "1 package"
+    },
+    {
+      "name": "Portuguese biscuits",
+      "amount": "1 package"
+    },
+    {
+      "name": "Quenching",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Crush Oreos and mix with quenching to create a creamy filling.",
+    "Separate fritter cookies into individual pieces.",
+    "Place a spoonful of the Oreo-quenching mixture onto the center of a fritter cookie.",
+    "Top with another fritter cookie to create a sandwich.",
+    "Repeat with remaining ingredients.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cookies",
+    "desserts",
+    "easy-treats"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenching-portuguese-oreo-biscuits-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:53:15.471Z"
+}
