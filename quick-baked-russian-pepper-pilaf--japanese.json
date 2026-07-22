@@ -1,0 +1,83 @@
+{
+  "slug": "quick-baked-russian-pepper-pilaf--japanese",
+  "title": "Japanese Beef Pilaf",
+  "description": "A flavorful Japanese-inspired pilaf dish featuring beef and a blend of savory spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (thinly sliced)",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 cup",
+      "notes": "green or red pepper"
+    },
+    {
+      "name": "quick pilaf seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add beef and cook for 3-4 minutes, or until browned, then set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil, then add the onion and cook for 2-3 minutes.",
+    "Add the pepper and cook for another minute, until the vegetables are tender.",
+    "Add the Japanese rice and stir-fry for 2-3 minutes, until lightly toasted.",
+    "In a small bowl, whisk together the pilaf seasoning, soy sauce, and sugar, then add to the rice mixture and stir-fry for 1-2 minutes.",
+    "Add the cooked beef back into the skillet and stir-fry for another minute, until the beef is coated in the pilaf seasoning mixture.",
+    "Transfer the pilaf mixture to a serving dish and serve hot.",
+    "Optional: garnish with sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-baked-russian-pepper-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:29:20.994Z"
+}
