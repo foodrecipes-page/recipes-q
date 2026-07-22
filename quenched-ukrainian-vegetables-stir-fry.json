@@ -1,0 +1,88 @@
+{
+  "slug": "quenched-ukrainian-vegetables-stir-fry",
+  "title": "Ukrainian Vegetable Stir Fry",
+  "description": "Quick and easy Ukrainian-inspired stir fry with a variety of colorful vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until softened, about 3-4 minutes.",
+    "Add the sliced carrots and bell peppers and cook for another 4-5 minutes, or until tender.",
+    "Add the sliced mushrooms and zucchini and cook for 2-3 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "vegetarian",
+    "stir-fry",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-ukrainian-vegetables-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:56:25.334Z"
+}
