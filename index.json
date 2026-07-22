@@ -19262,5 +19262,31 @@
     "cuisine": null,
     "totalTimeMin": 12,
     "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-algerian-carrot-tagine--keto",
+    "title": "Algerian Keto Tagine Stew with Roasted Carrots",
+    "tags": [
+      "algerian",
+      "keto",
+      "lamb",
+      "carrots",
+      "cauliflower"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 200,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-baked-russian-pepper-pilaf--japanese",
+    "title": "Japanese Beef Pilaf",
+    "tags": [
+      "beef",
+      "japanese",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
