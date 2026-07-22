@@ -1,0 +1,68 @@
+{
+  "slug": "quick-lazy-sunday-tomato-raclette--japanese",
+  "title": "Lazy Sunday Raclette with Tomato",
+  "description": "A simple and comforting Japanese-inspired raclette dish perfect for a relaxing Sunday afternoon.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Raclette cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "preferably cherry tomatoes"
+    },
+    {
+      "name": "Quick pickled ginger",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lazy sushi rice",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat broiler to medium-high heat.",
+    "Cut the raclette cheese into small slices.",
+    "Place the raclette cheese under the broiler for 2-3 minutes, or until melted and bubbly.",
+    "Meanwhile, slice the tomatoes and place them on a plate.",
+    "Serve the melted raclette cheese over the sliced tomatoes.",
+    "Top with quick pickled ginger, lazy sushi rice, and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easypeasy",
+    "japanese",
+    "raclette",
+    "sunday-afternoon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-lazy-sunday-tomato-raclette--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:22:13.702Z"
+}
