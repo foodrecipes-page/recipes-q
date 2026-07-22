@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-saudi-arabian-eggs-frittata--gluten-free",
+  "title": "Saudi Arabian Frittata",
+  "description": "A classic frittata recipe from the Arabian Peninsula, made with eggs and a blend of spices. This dish is perfect for a quick and easy breakfast or brunch.",
+  "cuisine": "Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Saudi Arabian eggs",
+      "amount": "6",
+      "notes": "Fresh from the Arabian Peninsula"
+    },
+    {
+      "name": "Frittata cheese",
+      "amount": "1 cup",
+      "notes": "Shredded or crumbled"
+    },
+    {
+      "name": "Quenched oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the oil over medium heat.",
+    "Add the frittata cheese and cook until melted and lightly browned.",
+    "In a separate bowl, whisk together the eggs, salt, black pepper, and paprika (if using).",
+    "Pour the egg mixture over the melted cheese in the skillet.",
+    "Cook until the eggs are almost set, about 5 minutes.",
+    "Transfer the skillet to the oven and bake for an additional 5-7 minutes, until the eggs are fully set.",
+    "Remove from the oven and let cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "breakfast",
+    "eggs",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-saudi-arabian-eggs-frittata--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:51:01.434Z"
+}
