@@ -4263,16 +4263,16 @@
   },
   {
     "slug": "quenched-tunisian-grain-tagine",
-    "title": "Quenched Tunisian Grain Tagine",
+    "title": "Tunisian-Style Grilled Quenched Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "healthy",
+      "chicken",
+      "tagine",
+      "grilled",
       "north-african",
-      "one-pot",
-      "whole-grains"
+      "spicy"
     ],
-    "cuisine": "north african",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -8397,17 +8397,15 @@
   },
   {
     "slug": "quick-german-beef-or-fish-hash",
-    "title": "Quick German Beef or Fish Hash",
+    "title": "German Beef Hash",
     "tags": [
-      "beef",
       "german",
+      "beef",
       "hash",
-      "one-pan",
-      "pescatarian",
-      "weeknight"
+      "breakfast"
     ],
     "cuisine": "german",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -14851,17 +14849,14 @@
   },
   {
     "slug": "quietly-quenched-moroccan-lamb-mechoui",
-    "title": "Quietly Quenched Moroccan Lamb Mechoui",
+    "title": "Moroccan Mechoui Lamb",
     "tags": [
-      "high-protein",
       "lamb",
       "moroccan",
-      "one-pot",
-      "quiet-dinner",
-      "romantic"
+      "slow-cooked"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 170,
+    "totalTimeMin": 180,
     "shard": "q"
   },
   {
@@ -19357,6 +19352,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessentially-pungent-moroccan-lamb-tagine-with-kebabs--french",
+    "title": "Lamb Tagine with Moroccan Spice",
+    "tags": [
+      "french",
+      "moroccan",
+      "lamb",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
     "shard": "q"
   }
 ]
