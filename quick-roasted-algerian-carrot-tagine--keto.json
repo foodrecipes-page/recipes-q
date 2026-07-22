@@ -1,0 +1,83 @@
+{
+  "slug": "quick-roasted-algerian-carrot-tagine--keto",
+  "title": "Algerian Keto Tagine Stew with Roasted Carrots",
+  "description": "A hearty, low-carb Algerian-inspired stew made with roasted carrots and tender meat, served with crispy cauliflower.",
+  "cuisine": "algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "Quick lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "boneless"
+    },
+    {
+      "name": "Algerian spices",
+      "amount": "2 tsp",
+      "notes": "mix of cumin, coriander, paprika, and cayenne"
+    },
+    {
+      "name": "Roasted cauliflower",
+      "amount": "1 head",
+      "notes": "for serving"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the carrots with 1 tbsp olive oil, salt, and black pepper on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large Dutch oven, heat the remaining 1 tbsp olive oil over medium-high heat.",
+    "Brown the lamb shoulder on all sides, then set aside.",
+    "Add the Algerian spices to the pot and cook for 1 minute.",
+    "Add 1 cup of water to the pot and bring to a simmer.",
+    "Return the lamb to the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2-3 hours, or until tender and falling apart.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Stir in the roasted carrots and cook for an additional 10-15 minutes.",
+    "Serve the stew over roasted cauliflower.",
+    "Garnish with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "keto",
+    "lamb",
+    "carrots",
+    "cauliflower"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-algerian-carrot-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:06:15.672Z"
+}
