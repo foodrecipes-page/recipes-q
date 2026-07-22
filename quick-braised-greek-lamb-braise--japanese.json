@@ -1,0 +1,80 @@
+{
+  "slug": "quick-braised-greek-lamb-braise--japanese",
+  "title": "Japanese Braised Lamb Shanks",
+  "description": "A hearty, comforting Japanese-inspired dish featuring tender lamb shanks in a rich, savory sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder/Neck Bones",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sake/Rice Wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mirin/Sweet Japanese Cooking Wine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Season the lamb with salt and black pepper.",
+    "2. In a large Dutch oven or heavy pot, heat 2 tablespoons of oil over medium-high heat.",
+    "3. Sear the lamb shanks until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "4. Reduce the heat to medium and add the sliced ginger. Cook for 1-2 minutes until fragrant.",
+    "5. Add the soy sauce, sake, mirin, and brown sugar to the pot, stirring to combine.",
+    "6. Return the lamb shanks to the pot and bring the mixture to a simmer.",
+    "7. Cover the pot and transfer it to the oven. Braise the lamb for 2 1/2 to 3 hours, or until tender.",
+    "8. Remove the pot from the oven and let it cool slightly.",
+    "9. Strain the sauce and discard the solids.",
+    "10. Serve the lamb shanks with the sauce spooned over the top, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "braised",
+    "lamb",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-greek-lamb-braise--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:14:35.717Z"
+}
