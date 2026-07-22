@@ -1,0 +1,101 @@
+{
+  "slug": "quick-grilled-turkish-meat-lahmacun--keto",
+  "title": "Turkish-Style Lahmacun",
+  "description": "A keto-friendly version of the traditional Turkish dish lahmacun, featuring a crispy crust topped with spiced meat and onions.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80% fat, 20% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "100g",
+      "notes": "replaced with cauliflower rice for keto version"
+    },
+    {
+      "name": "Cauliflower Rice",
+      "amount": "100g",
+      "notes": "used as a low-carb substitute for bulgur"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet or hot, to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing crust"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 450°F (230°C).",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Brush the crust with olive oil and prick it with a fork to prevent air pockets.",
+    "Bake the crust for 12-15 minutes, or until golden brown.",
+    "While the crust is baking, cook the ground beef in a skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the beef is browned, add the onion, tomato, parsley, salt, black pepper, paprika, and garlic powder to the skillet.",
+    "Stir to combine and cook for an additional 2-3 minutes.",
+    "Remove the crust from the oven and top it with the spiced beef mixture.",
+    "Return the baking sheet to the oven and bake for an additional 5-7 minutes, or until the crust is golden brown and the filling is hot.",
+    "Remove the lahmacun from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "turkish",
+    "meat",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 47
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-turkish-meat-lahmacun--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:49:06.614Z"
+}
