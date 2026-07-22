@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-egyptian-squid-tagine--gluten-free",
+  "title": "Grilled Squid Tagine",
+  "description": "A Moroccan-inspired dish featuring grilled squid, served in a flavorful tagine sauce. Gluten-free and perfect for a quick dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "squid",
+      "amount": "1 pound"
+    },
+    {
+      "name": "egyptian tagine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "quenched",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the squid under cold water and pat dry with paper towels.",
+    "2. Heat the olive oil in a large skillet over medium-high heat.",
+    "3. Add the squid and cook for 2-3 minutes per side, or until slightly charred.",
+    "4. Transfer the squid to a plate and cover with foil to keep warm.",
+    "5. Reduce heat to medium and add the tagine to the skillet.",
+    "6. Cook for 2-3 minutes, stirring constantly, or until fragrant.",
+    "7. Add the lemon juice, garlic, parsley, salt, and pepper to the skillet.",
+    "8. Stir to combine and cook for an additional minute.",
+    "9. To assemble the dish, place the grilled squid on a plate and spoon the tagine sauce over the top.",
+    "10. Serve immediately and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-egyptian-squid-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:03:55.057Z"
+}
