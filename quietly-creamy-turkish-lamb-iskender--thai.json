@@ -1,0 +1,80 @@
+{
+  "slug": "quietly-creamy-turkish-lamb-iskender--thai",
+  "title": "Thai Lamb Koftas with Creamy Sauce",
+  "description": "A flavorful Thai-inspired dish featuring lamb koftas served with a creamy sauce. This recipe is perfect for a dinner party or special occasion.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "Turkish bread",
+      "amount": "4 slices",
+      "notes": "For serving"
+    },
+    {
+      "name": "Quietly onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Iskender peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "250ml",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "For the sauce"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine lamb, chopped onions, sliced peppers, and salt. Mix well.",
+    "3. Form lamb mixture into small koftas.",
+    "4. Grill koftas for 4-5 minutes per side or until cooked through.",
+    "5. Meanwhile, heat coconut oil in a pan over medium heat.",
+    "6. Add Thai red curry paste and cook for 1-2 minutes or until fragrant.",
+    "7. Pour in creamy sauce and stir to combine.",
+    "8. Serve grilled lamb koftas with the creamy sauce.",
+    "9. Serve with Turkish bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "lamb",
+    "koftas",
+    "creamy sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-creamy-turkish-lamb-iskender--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:38:08.591Z"
+}
