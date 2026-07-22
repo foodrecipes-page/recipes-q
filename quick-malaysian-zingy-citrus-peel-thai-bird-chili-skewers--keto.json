@@ -1,0 +1,82 @@
+{
+  "slug": "quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers--keto",
+  "title": "Keto Thai Chicken Skewers",
+  "description": "A spicy and flavorful Thai-inspired dish, perfect for a keto diet. Marinate chicken in a mixture of zesty citrus and chili, then grill to perfection on skewers.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "for added heat"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together lime juice, chili flakes, ginger, garlic, and a pinch of salt.",
+    "3. Add the chicken pieces to the marinade and mix well to coat.",
+    "4. Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "5. Brush the grill grates with coconut oil to prevent sticking.",
+    "6. Grill the skewers for 8-10 minutes, or until the chicken is cooked through and slightly charred.",
+    "7. Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "thai",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-zingy-citrus-peel-thai-bird-chili-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:58:43.964Z"
+}
