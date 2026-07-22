@@ -1,0 +1,87 @@
+{
+  "slug": "quick-smoky-jamaican-lentils-tagine--gluten-free",
+  "title": "Smoky Jamaican Lentil Tagine",
+  "description": "A hearty, flavorful gluten-free stew originating from North Africa, made with tender lentils, aromatic spices and a smoky kick.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup, rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Smoky Jamaican Seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Quick-cooking Brown Rice",
+      "amount": "1 cup, cooked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and carrots; cook, stirring occasionally, until tender, about 10 minutes.",
+    "Stir in tagine spice mix, smoky Jamaican seasoning and tomato paste; cook 1 minute.",
+    "Add lentils, broth, water and salt; bring to a boil.",
+    "Reduce heat to low; cover and simmer, stirring occasionally, until lentils are tender, about 30 minutes.",
+    "Serve over cooked brown rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "lentils",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-jamaican-lentils-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:03:00.691Z"
+}
