@@ -19253,5 +19253,20 @@
     "cuisine": "Thai",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quick-melted-syrian-sausage-wrap--gluten-free",
+    "title": "Gluten-Free Sausage Wrap",
+    "tags": [
+      "sausage",
+      "wrap",
+      "cheese",
+      "quick",
+      "easy",
+      "lunch"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 12,
+    "shard": "q"
   }
 ]
