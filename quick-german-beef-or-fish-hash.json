@@ -1,0 +1,80 @@
+{
+  "slug": "quick-german-beef-or-fish-hash",
+  "title": "German Beef Hash",
+  "description": "A hearty German-inspired dish made with beef, potatoes, and onions.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb (450g) ground beef",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, diced",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large potatoes, peeled and diced",
+      "notes": "about 3 cups"
+    },
+    {
+      "name": "hash",
+      "amount": "2 cups hash browns",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup beef broth",
+      "notes": "you can use store-bought beef broth or make your own"
+    }
+  ],
+  "instructions": [
+    "1. Heat a large skillet over medium-high heat.",
+    "2. Add 1 tablespoon of oil to the skillet and swirl it around to coat the bottom.",
+    "3. Add the diced onion to the skillet and cook until it's translucent, about 5 minutes.",
+    "4. Add the diced potatoes to the skillet and cook for about 5 minutes, or until they start to brown.",
+    "5. Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "6. Cook the beef until it's browned, about 5-7 minutes.",
+    "7. Add the hash browns to the skillet and stir to combine with the beef and potatoes.",
+    "8. Cook for about 5 minutes, or until the hash browns are crispy and golden brown.",
+    "9. Taste and adjust the seasoning with salt and pepper as needed.",
+    "10. Serve the German Beef Hash hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "hash",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 34,
+    "carbs": 40,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-beef-or-fish-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:24:40.193Z"
+}
