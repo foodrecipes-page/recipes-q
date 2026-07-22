@@ -1565,14 +1565,13 @@
   },
   {
     "slug": "quaintly-crispy-mexican-shrimp-fajitas",
-    "title": "Quaintly Crispy Mexican Shrimp Fajitas",
+    "title": "Crispy Shrimp Fajitas",
     "tags": [
-      "bento-box",
-      "comfort-food",
+      "mexican",
+      "shrimp",
       "fajitas",
-      "mexican-food",
-      "pescatarian",
-      "seafood"
+      "quick",
+      "easy"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 25,
@@ -9825,17 +9824,14 @@
   },
   {
     "slug": "quick-norwegian-almond-flour-bake",
-    "title": "Quick Norwegian Almond Flour Bake",
+    "title": "Norwegian Almond Cake",
     "tags": [
-      "breakfast",
-      "easy",
+      "cake",
       "norwegian",
-      "one-pot",
-      "quick",
-      "snack"
+      "almond"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "norwegian",
+    "totalTimeMin": 55,
     "shard": "q"
   },
   {
@@ -19324,6 +19320,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-vietnamese-pork-banh-xeo--gluten-free",
+    "title": "Vietnamese Style Pork Banh Xeo",
+    "tags": [
+      "vietnamese",
+      "pork",
+      "banhxoe",
+      "gluten-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 27,
     "shard": "q"
   }
 ]
