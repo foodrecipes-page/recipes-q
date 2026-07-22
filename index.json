@@ -19366,5 +19366,32 @@
     "cuisine": "french",
     "totalTimeMin": 110,
     "shard": "q"
+  },
+  {
+    "slug": "quick-charred-venezuelan-porcini-pilaf--mexican",
+    "title": "Charred Pilaf Bowl with Porcini and Venezuelan Salsa",
+    "tags": [
+      "mexican",
+      "veggie",
+      "pilaf",
+      "porcini"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-jamaican-lentils-tagine--gluten-free",
+    "title": "Smoky Jamaican Lentil Tagine",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "lentils",
+      "tagine",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
