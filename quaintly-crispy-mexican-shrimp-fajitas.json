@@ -1,0 +1,98 @@
+{
+  "slug": "quaintly-crispy-mexican-shrimp-fajitas",
+  "title": "Crispy Shrimp Fajitas",
+  "description": "Quick and flavorful fajitas with crispy shrimp, bell peppers, onions, and a hint of Mexican spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Quaintly Mexican Seasoning (or fajita seasoning)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crusty Tortillas",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the sliced bell peppers and onions to the skillet.",
+    "Cook until the vegetables are tender, about 5 minutes.",
+    "Add the cumin, chili powder, garlic powder, and Mexican seasoning to the skillet.",
+    "Cook for 1 minute, stirring constantly.",
+    "Return the shrimp to the skillet and stir to combine with the vegetables and spices.",
+    "Serve the shrimp and vegetables in the tortillas and enjoy!",
+    "Optional: Add your favorite toppings such as avocado, sour cream, or salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "shrimp",
+    "fajitas",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-crispy-mexican-shrimp-fajitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:38:05.238Z"
+}
