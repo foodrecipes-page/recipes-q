@@ -4357,17 +4357,15 @@
   },
   {
     "slug": "quenched-ukrainian-vegetables-stir-fry",
-    "title": "Quenched Ukrainian Vegetables Stir-fry",
+    "title": "Ukrainian Vegetable Stir Fry",
     "tags": [
-      "fodmap-friendly",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
+      "ukrainian",
+      "vegetarian",
       "stir-fry",
-      "ukrainian"
+      "low-carb"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 35,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -15902,17 +15900,16 @@
   },
   {
     "slug": "quietly-toasted-japanese-noodles-zenzai",
-    "title": "Quietly Toasted Japanese Noodles Zenzai",
+    "title": "Toasted Noodle Zenzai",
     "tags": [
-      "japanese-cuisine",
-      "noodle-dish",
-      "ovo-vegetarian",
-      "romantic-dinner",
-      "shikoku-region",
-      "zenzai-style"
+      "toasted",
+      "noodles",
+      "zenzai",
+      "dessert",
+      "winter"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -19287,6 +19284,46 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-turkish-meat-lahmacun--keto",
+    "title": "Turkish-Style Lahmacun",
+    "tags": [
+      "keto",
+      "turkish",
+      "meat",
+      "quick"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-braised-greek-lamb-braise--japanese",
+    "title": "Japanese Braised Lamb Shanks",
+    "tags": [
+      "japanese",
+      "braised",
+      "lamb",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-lazy-sunday-tomato-raclette--japanese",
+    "title": "Lazy Sunday Raclette with Tomato",
+    "tags": [
+      "comfort-food",
+      "easypeasy",
+      "japanese",
+      "raclette",
+      "sunday-afternoon"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "q"
   }
 ]
