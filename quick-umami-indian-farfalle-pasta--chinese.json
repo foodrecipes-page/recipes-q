@@ -1,0 +1,78 @@
+{
+  "slug": "quick-umami-indian-farfalle-pasta--chinese",
+  "title": "Quick Chinese Farfalle Stir Fry",
+  "description": "A simple and flavorful stir fry made with farfalle pasta, vegetables, and a savory sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 small"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook farfalle pasta according to package instructions.",
+    "Heat vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add onion and bell pepper and stir-fry for 3-4 minutes.",
+    "Add snow peas and stir-fry for another 2-3 minutes.",
+    "In a small bowl, whisk together soy sauce, oyster sauce, and sesame oil.",
+    "Pour sauce into the wok and stir to combine.",
+    "Add cooked farfalle pasta to the wok and toss to coat with the sauce.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "quick",
+    "stir-fry",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-umami-indian-farfalle-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:00:14.356Z"
+}
