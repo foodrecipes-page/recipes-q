@@ -19554,5 +19554,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fix-korean-springy-batter-pancake--french",
+    "title": "French Crêpe",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "french",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
