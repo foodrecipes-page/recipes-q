@@ -1,0 +1,67 @@
+{
+  "slug": "quick-fix-tangy-kenyan-vegetables-wrap--french",
+  "title": "Kenyan Wrap with Tangy Vegetables",
+  "description": "A French-inspired wrap filled with fresh vegetables and a tangy twist. Perfect for a quick and easy meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables (bell peppers, carrots, cucumber)",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Sauce (mayonnaise, lemon juice, chopped herbs)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Quick Pickled Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fixings (tomato, lettuce, cheese)",
+      "amount": "1 each",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tangy sauce in a pan over medium heat.",
+    "Add the sliced vegetables and cook for 3-4 minutes.",
+    "Warm the Kenyan wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by adding the cooked vegetables, fixings, and quick pickled onions.",
+    "Drizzle with additional tangy sauce if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "quick",
+    "easy",
+    "lunch",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-tangy-kenyan-vegetables-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:33:05.955Z"
+}
