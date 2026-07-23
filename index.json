@@ -1,17 +1,15 @@
 [
   {
     "slug": "qcrunchy-korean-eggplant-grill",
-    "title": "QCrunchy Korean Eggplant Grill",
+    "title": "Grilled Korean Eggplant with Crunchy Queso",
     "tags": [
-      "banchotan-grill",
-      "creamy",
-      "grilled-eggplant",
-      "high-protein",
-      "korean-gangwon",
-      "nutty"
+      "korean",
+      "grilled",
+      "eggplant",
+      "queso"
     ],
-    "cuisine": "Korean (Gangwon)",
-    "totalTimeMin": 25,
+    "cuisine": "Korean",
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
