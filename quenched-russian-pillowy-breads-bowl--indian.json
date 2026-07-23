@@ -1,0 +1,65 @@
+{
+  "slug": "quenched-russian-pillowy-breads-bowl--indian",
+  "title": "Pillowy Russian Bread Bowl",
+  "description": "A unique Indian-inspired bread bowl recipe featuring pillowy bread as the base. This recipe is perfect for serving soups or salads.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pillowy Bread",
+      "amount": "1 large loaf"
+    },
+    {
+      "name": "Quenched Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Russian Dill",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Bread Bows",
+      "amount": "as needed"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the pillowy bread into small bowls.",
+    "Drizzle the olive oil over the bread bowls and season with salt.",
+    "Bake the bread bowls in the oven for 10-12 minutes, or until lightly toasted.",
+    "In a separate bowl, mix together the quenched yogurt and chopped Russian dill.",
+    "Spoon the yogurt mixture over the bread bowls and serve with bread bows on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "bread",
+    "yogurt",
+    "dill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-russian-pillowy-breads-bowl--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:36:28.774Z"
+}
