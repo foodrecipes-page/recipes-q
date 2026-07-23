@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-comfort-russian-grape-pilaf--chinese",
+  "title": "Grape Pilaf Stir Fry",
+  "description": "A Chinese-inspired stir fry made with grape pilaf as the base, featuring comfort russian and quenched ingredients. Quick and easy to prepare.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Pilaf",
+      "amount": "1 cup",
+      "notes": "Pre-cooked pilaf"
+    },
+    {
+      "name": "Russian Comfort Mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Quenched Green Beans",
+      "amount": "1 cup",
+      "notes": "Trimmed and cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mushrooms and cook until they start to brown, about 3-4 minutes.",
+    "Add the trimmed and cut green beans, soy sauce, ginger, and garlic to the skillet.",
+    "Stir-fry the mixture for about 4-5 minutes, or until the green beans are tender.",
+    "Add the pre-cooked grape pilaf to the skillet and stir-fry for an additional 2-3 minutes.",
+    "Season with salt to taste, if desired.",
+    "Transfer the stir-fry to a serving dish and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-comfort-russian-grape-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:31:24.417Z"
+}
