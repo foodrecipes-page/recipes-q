@@ -1,0 +1,83 @@
+{
+  "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--french",
+  "title": "Ethiopian Chicken Filo Pie",
+  "description": "A twist on traditional French pie, this Ethiopian-inspired dish combines the flaky layers of filo pastry with the spicy flavors of Ethiopia.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "can be adapted to vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "250g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbly, salty"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "250g",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "spices",
+      "amount": "1 tsp",
+      "notes": "Ethiopian berbere spice or similar"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In a pan, heat the olive oil over medium heat. Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the crumbled feta cheese and stir to combine.",
+    "Mix in the Ethiopian berbere spice.",
+    "Roll out the filo pastry to a large rectangle.",
+    "Place the chicken mixture in the center of the pastry rectangle.",
+    "Brush the edges of the pastry with olive oil and fold the pastry over the filling to form a triangle.",
+    "Bake in the preheated oven for 25-30 minutes, or until the pastry is golden brown and the filling is hot.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "french",
+    "filo",
+    "pastry",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:16:05.289Z"
+}
