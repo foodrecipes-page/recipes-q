@@ -1,0 +1,65 @@
+{
+  "slug": "quick-sweet-gooey-dutch-butter-toast",
+  "title": "Dutch Toast with Quick Caramel",
+  "description": "A twist on the classic Dutch treat, topped with a sweet and gooey caramel sauce.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "quick",
+      "amount": "1 cup",
+      "notes": "sugar"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "gooey",
+      "amount": "4 tablespoons",
+      "notes": "unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Melt 2 tablespoons of butter in the pan.",
+    "Add 1 cup of sugar and 1 cup of heavy cream to the pan.",
+    "Cook for 5-7 minutes, stirring constantly, until the sugar dissolves and the mixture thickens.",
+    "Remove from heat and stir in 4 tablespoons of unsalted butter until melted.",
+    "Dip each slice of toast into the caramel sauce and top with the sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "sweet",
+    "caramel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-gooey-dutch-butter-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:49:25.779Z"
+}
