@@ -1,0 +1,83 @@
+{
+  "slug": "quenched-charred-peruvian-sashimi-cut-rocoto-relleno",
+  "title": "Rocoto Relleno with Peruvian Flair",
+  "description": "A Peruvian twist on the classic Chilean dish, featuring charred rocoto peppers filled with a mix of seafood and spices.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "charred"
+    },
+    {
+      "name": "sashimi-grade salmon",
+      "amount": "1/2 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1/2 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "quenched peruvian aji amarillo peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Char the rocoto peppers over an open flame or in a skillet until the skin is blistered.",
+    "Peel the charred skin off the peppers and set them aside.",
+    "In a skillet, heat some oil over medium-high heat. Add the diced onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the shrimp and salmon to the skillet and cook until pink and cooked through.",
+    "Add the diced aji amarillo peppers, peruvian oregano, and salt to the skillet. Stir to combine.",
+    "Stuff each rocoto pepper with the seafood mixture and place them in a baking dish.",
+    "Bake the rocoto peppers in the preheated oven for 15-20 minutes, or until tender.",
+    "Serve the rocoto relleno hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-charred-peruvian-sashimi-cut-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:52:48.583Z"
+}
