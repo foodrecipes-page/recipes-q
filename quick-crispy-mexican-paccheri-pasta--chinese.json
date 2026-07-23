@@ -1,0 +1,93 @@
+{
+  "slug": "quick-crispy-mexican-paccheri-pasta--chinese",
+  "title": "Crispy Paccheri Stir Fry",
+  "description": "A quick Chinese-inspired stir-fry made with paccheri pasta, vegetables, and a crispy twist. Ready in just 20 minutes!",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paccheri Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook paccheri pasta according to package instructions until al dente. Drain and set aside.",
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add onion and bell pepper and stir-fry until tender, about 3-4 minutes.",
+    "Add snow peas and stir-fry for an additional 2 minutes.",
+    "In a small bowl, whisk together soy sauce and sesame oil. Pour into the skillet and stir-fry for 1 minute.",
+    "Add cooked paccheri pasta to the skillet and toss to combine with the sauce.",
+    "Transfer the pasta mixture to a serving platter.",
+    "Sprinkle crispy fried shallots on top.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pasta",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-mexican-paccheri-pasta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:05:57.857Z"
+}
