@@ -1,0 +1,85 @@
+{
+  "slug": "quality-dense-russian-peanut-stew--indian",
+  "title": "Russian-Style Beef Stew",
+  "description": "A hearty, comforting Indian-inspired beef stew recipe with a rich, thick sauce. This dish is perfect for a cold winter's night.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (chuck or brisket)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "quality peanut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the peanut oil in a large Dutch oven over medium-high heat.",
+    "2. Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "3. Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "4. Add the stew, thyme, rosemary, salt, and pepper to the pot. Stir to combine.",
+    "5. Return the beef to the pot and bring to a boil.",
+    "6. Reduce heat to low and simmer, covered, for 2 hours, or until the beef is tender.",
+    "7. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "indian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-dense-russian-peanut-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:44:20.680Z"
+}
