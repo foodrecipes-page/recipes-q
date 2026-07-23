@@ -1,0 +1,86 @@
+{
+  "slug": "quaint-peruvian-beef-anticuchos--chinese",
+  "title": "Beef Anticuchos with a Twist",
+  "description": "A fusion of Peruvian anticuchos and Chinese flavors, these beef skewers are a unique twist on a classic dish.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced beef (such as flank steak)"
+    },
+    {
+      "name": "quaint",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce (or to taste)"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "aji amarillo pepper paste (or to taste)"
+    },
+    {
+      "name": "anticuchos",
+      "amount": "1 tablespoon",
+      "notes": "Peruvian anticuchos seasoning (or to taste)"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (for garnish)"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together soy sauce, aji amarillo pepper paste, and Peruvian anticuchos seasoning.",
+    "3. Add the sliced beef to the marinade and toss to coat.",
+    "4. Thread the beef onto skewers.",
+    "5. Brush the grill with vegetable oil to prevent sticking.",
+    "6. Grill the beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "7. Transfer the beef to a plate and sprinkle with brown sugar and garlic.",
+    "8. Garnish with chopped green onions and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skewers",
+    "chinese-fusion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-peruvian-beef-anticuchos--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:27:19.367Z"
+}
