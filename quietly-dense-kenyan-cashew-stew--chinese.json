@@ -1,0 +1,83 @@
+{
+  "slug": "quietly-dense-kenyan-cashew-stew--chinese",
+  "title": "Kenyan Cashew Stew",
+  "description": "A hearty, comforting stew inspired by Kenyan cuisine, with a Chinese twist. This dish combines the richness of cashews with the depth of spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup"
+    },
+    {
+      "name": "quietly-cooked onions",
+      "amount": "2 medium",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "dense sweet potatoes",
+      "amount": "2 medium",
+      "notes": "Diced into small cubes"
+    },
+    {
+      "name": "kenyan curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "stew meat (beef or lamb)",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add chopped onions and cook until softened.",
+    "Add diced sweet potatoes and cook for 5 minutes.",
+    "Add curry powder and cook for 1 minute.",
+    "Add stew meat and cook until browned.",
+    "Add soy sauce, coconut milk, salt, and pepper. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Stir in cashews and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-kenyan-fusion",
+    "stew",
+    "cashews"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-dense-kenyan-cashew-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:01:58.156Z"
+}
