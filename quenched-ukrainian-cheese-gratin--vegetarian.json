@@ -1,0 +1,95 @@
+{
+  "slug": "quenched-ukrainian-cheese-gratin--vegetarian",
+  "title": "Ukrainian Quenched Cheese Gratin",
+  "description": "A creamy, comforting vegetarian gratin dish featuring Ukrainian flavors and a quenched twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quenched cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian rye bread",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Butter a 20cm (8-inch) gratin dish.",
+    "Cut the Ukrainian rye bread into small cubes and set aside.",
+    "Sauté the mushrooms, onions, and garlic in butter until softened.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Stir in the quenched cheese until melted and smooth.",
+    "Season with salt and black pepper.",
+    "Combine the bread cubes and mushroom mixture.",
+    "Transfer the mixture to the prepared gratin dish.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-ukrainian-cheese-gratin--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:12:46.189Z"
+}
