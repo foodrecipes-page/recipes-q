@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-tunisian-grain-tagine--chinese",
+  "title": "Tunisian Tagine Stuffed Quenched Grain",
+  "description": "A Chinese take on the traditional North African dish, with a twist of stuffed quenched grain and tunisian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quenched grain",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium heat.",
+    "Add onion and cook until softened, about 3 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add tagine and cook for 1 minute.",
+    "Add quenched grain and stir to coat with spices.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 15 minutes.",
+    "Stir in chopped cilantro and season with salt.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stuffed-grain",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-tunisian-grain-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:57:44.649Z"
+}
