@@ -19627,5 +19627,30 @@
     "cuisine": "french",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quality-dense-russian-peanut-stew--indian",
+    "title": "Russian-Style Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "indian",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-dense-kenyan-cashew-stew--french",
+    "title": "Kenyan Stew",
+    "tags": [
+      "stew",
+      "kenyan",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
