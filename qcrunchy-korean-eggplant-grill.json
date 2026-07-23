@@ -1,0 +1,74 @@
+{
+  "slug": "qcrunchy-korean-eggplant-grill",
+  "title": "Grilled Korean Eggplant with Crunchy Queso",
+  "description": "A sweet and spicy twist on classic grilled eggplant, topped with a crispy queso crunch. This dish is perfect for a quick and easy dinner or as a side for your favorite Korean dishes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Qcrunchy (queso crumbles)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Grill",
+      "amount": "none"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Brush eggplant slices with olive oil and season with salt, Korean chili flakes, and brown sugar.",
+    "3. Grill eggplant slices for 3-4 minutes per side, or until tender and slightly charred.",
+    "4. In a small bowl, mix together soy sauce and 1 tbsp of olive oil.",
+    "5. Brush the soy sauce mixture onto the grilled eggplant slices.",
+    "6. Top each eggplant slice with queso crumbles.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "grilled",
+    "eggplant",
+    "queso"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qcrunchy-korean-eggplant-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:18:42.915Z"
+}
