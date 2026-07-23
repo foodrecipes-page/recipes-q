@@ -1,0 +1,54 @@
+{
+  "slug": "quick-fix-korean-springy-batter-pancake--french",
+  "title": "French Crêpe",
+  "description": "A classic French crêpe recipe made with a simple batter and served with butter and sugar. This versatile dish can be enjoyed for breakfast or dessert.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quick batter",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "springy water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the quick batter and springy water.",
+    "Let the batter rest for 30 minutes.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour a small amount of the batter into the pan and tilt the pan to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl.",
+    "Flip the crêpe and cook for another 30 seconds.",
+    "Serve with butter and sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "french",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-korean-springy-batter-pancake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:16:56.578Z"
+}
