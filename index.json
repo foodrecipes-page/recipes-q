@@ -19389,5 +19389,45 @@
     "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fermented-croatian-turkey-neck-hash--vegan",
+    "title": "Croatian Hash with Fermented Twist",
+    "tags": [
+      "croatian",
+      "hash",
+      "fermented",
+      "vegan"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-mexican-paccheri-pasta--chinese",
+    "title": "Crispy Paccheri Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "pasta",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-resinous-argentinian-masarepa-toast--german",
+    "title": "Argentinian-Style Sausage with Toast",
+    "tags": [
+      "german",
+      "meat",
+      "lunch",
+      "sausage",
+      "bread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
