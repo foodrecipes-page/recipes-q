@@ -1,0 +1,77 @@
+{
+  "slug": "quintessential-earthy-german-padron-peppers-tagine",
+  "title": "Pan-Seared Padron Peppers with German Earthy Flair",
+  "description": "A flavorful and spicy twist on the classic Padron pepper dish, infused with the earthy essence of German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "1 pint",
+      "notes": "any color"
+    },
+    {
+      "name": "Quintessential olive oil",
+      "amount": "2 tbsp",
+      "notes": "infused with herbs"
+    },
+    {
+      "name": "Earthy mushroom duxelles",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "German all-purpose flour",
+      "amount": "1 tsp",
+      "notes": "gluten-free or regular"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Add the olive oil and swirl to coat the pan.",
+    "3. Add the mushroom duxelles and sauté for 2 minutes until fragrant.",
+    "4. Add the flour and whisk until smooth, cooking for 1 minute.",
+    "5. Add the Padron peppers and cook for 3-4 minutes on each side, until tender and slightly charred.",
+    "6. Season with salt and pepper to taste.",
+    "7. Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "padron-peppers",
+    "german-cuisine",
+    "earthy-flair",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-earthy-german-padron-peppers-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:04:23.919Z"
+}
