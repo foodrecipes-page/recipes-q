@@ -19504,5 +19504,55 @@
     "cuisine": "indian",
     "totalTimeMin": 22,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-tunisian-grain-tagine--chinese",
+    "title": "Tunisian Tagine Stuffed Quenched Grain",
+    "tags": [
+      "chinese",
+      "stuffed-grain",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-dense-kenyan-cashew-stew--chinese",
+    "title": "Kenyan Cashew Stew",
+    "tags": [
+      "chinese-kenyan-fusion",
+      "stew",
+      "cashews"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-yeasty-oven-baked-ethiopian-filo-pastry-pie--french",
+    "title": "Ethiopian Chicken Filo Pie",
+    "tags": [
+      "ethiopian",
+      "french",
+      "filo",
+      "pastry",
+      "pie"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake--chinese",
+    "title": "Argentinian-Style Wood Fired Baked Eggplant with Chinese Twist",
+    "tags": [
+      "chinese",
+      "eggplant",
+      "wood-fired"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
