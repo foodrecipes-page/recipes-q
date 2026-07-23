@@ -12055,16 +12055,15 @@
   },
   {
     "slug": "quick-sweet-gooey-dutch-butter-toast",
-    "title": "Quick Sweet Gooey Dutch Butter Toast",
+    "title": "Dutch Toast with Quick Caramel",
     "tags": [
       "breakfast",
       "dessert",
-      "easy",
-      "pescatarian",
-      "weeknight"
+      "sweet",
+      "caramel"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 13,
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -19591,6 +19590,44 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-brazilian-chicken-skewers--keto",
+    "title": "Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian",
+      "chicken",
+      "grilled",
+      "skewers",
+      "keto"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-comfort-russian-grape-pilaf--chinese",
+    "title": "Grape Pilaf Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-canadian-goats-cheese-tart--french",
+    "title": "Quaint French Tart",
+    "tags": [
+      "french",
+      "tart",
+      "goat-cheese"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
