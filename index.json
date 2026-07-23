@@ -14551,16 +14551,15 @@
   },
   {
     "slug": "quietly-nutty-egyptian-lentil-curry",
-    "title": "Quietly Nutty Egyptian Lentil Curry",
+    "title": "Egyptian Lentil Curry",
     "tags": [
-      "high-protein",
-      "lentil-based",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lentil",
+      "curry",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -16133,17 +16132,15 @@
   },
   {
     "slug": "quintessential-earthy-german-padron-peppers-tagine",
-    "title": "Quintessential Earthy German Padron Peppers Tagine",
+    "title": "Pan-Seared Padron Peppers with German Earthy Flair",
     "tags": [
-      "comfort-food",
+      "padron-peppers",
       "german-cuisine",
-      "gluten-free",
-      "hearty",
-      "one-pot",
-      "sous-vide"
+      "earthy-flair",
+      "snack-ideas"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 150,
+    "cuisine": "german",
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -19480,6 +19477,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-peruvian-tuna-suspiro-limeno-bowl--vegan",
+    "title": "Peruvian Vegan Bowl",
+    "tags": [
+      "peruvian",
+      "vegan",
+      "quick",
+      "bowl"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
