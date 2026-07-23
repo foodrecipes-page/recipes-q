@@ -1,0 +1,87 @@
+{
+  "slug": "quick-fix-argentinian-ovolimushroom-wood-fired-bake--chinese",
+  "title": "Argentinian-Style Wood Fired Baked Eggplant with Chinese Twist",
+  "description": "A fusion dish that combines the flavors of Chinese cuisine with the smoky taste of wood-fired baking, using eggplant as the main ingredient.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": "preferably Japanese or Chinese eggplant"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons",
+      "notes": "or dry sherry"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "use a good quality, low-sodium soy sauce"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust seasoning as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 500°F (260°C).",
+    "Cut the eggplant in half lengthwise and scoop out the seeds.",
+    "In a small bowl, whisk together the Shaoxing wine, soy sauce, brown sugar, ginger, and garlic.",
+    "Brush the eggplant halves with the sesame oil and season with salt.",
+    "Place the eggplant on a baking sheet lined with parchment paper and brush with the wine mixture.",
+    "Transfer the eggplant to the preheated wood-fired oven and bake for 15-20 minutes, or until tender and lightly charred.",
+    "Remove the eggplant from the oven and garnish with chopped green onions.",
+    "Serve hot, with additional soy sauce and sesame oil on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "eggplant",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-argentinian-ovolimushroom-wood-fired-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:49:56.678Z"
+}
