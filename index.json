@@ -19566,5 +19566,31 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-peruvian-beef-anticuchos--chinese",
+    "title": "Beef Anticuchos with a Twist",
+    "tags": [
+      "beef",
+      "skewers",
+      "chinese-fusion",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-umami-indian-farfalle-pasta--chinese",
+    "title": "Quick Chinese Farfalle Stir Fry",
+    "tags": [
+      "chinese",
+      "quick",
+      "stir-fry",
+      "pasta"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "q"
   }
 ]
