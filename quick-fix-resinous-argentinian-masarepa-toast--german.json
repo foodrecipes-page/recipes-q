@@ -1,0 +1,68 @@
+{
+  "slug": "quick-fix-resinous-argentinian-masarepa-toast--german",
+  "title": "Argentinian-Style Sausage with Toast",
+  "description": "A hearty German-inspired dish featuring Argentinian-style sausage served with crispy toast.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Argentinian-style sausage",
+      "amount": "1 pound",
+      "notes": "Grass-fed and free of added nitrates"
+    },
+    {
+      "name": "Masarepa",
+      "amount": "1/2 cup",
+      "notes": "Pre-cooked cornmeal"
+    },
+    {
+      "name": "Quick toast",
+      "amount": "4 slices",
+      "notes": "Day-old bread"
+    },
+    {
+      "name": "Fix",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter"
+    },
+    {
+      "name": "Resinous",
+      "amount": "1 teaspoon",
+      "notes": "Optional, add a bit of pine resin for traditional flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Argentinian-style sausage into 1-inch thick slices.",
+    "Place the sausage slices on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes, or until browned and cooked through.",
+    "Meanwhile, toast the bread slices by placing them on the oven rack for 2-3 minutes, or until crispy.",
+    "Spread 1 tablespoon of Fix on each toasted bread slice.",
+    "Serve the Argentinian-style sausage with the toasted bread slices."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "meat",
+    "lunch",
+    "sausage",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-resinous-argentinian-masarepa-toast--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:19:01.730Z"
+}
