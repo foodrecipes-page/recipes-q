@@ -1,0 +1,78 @@
+{
+  "slug": "quick-peruvian-tuna-suspiro-limeno-bowl--vegan",
+  "title": "Peruvian Vegan Bowl",
+  "description": "A flavorful and nutritious bowl filled with Peruvian-inspired flavors, perfect for a quick and easy meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canned Tuna (replaced with Vegan alternative)",
+      "amount": "1 can",
+      "notes": "use a vegan tuna alternative like tofu or tempeh"
+    },
+    {
+      "name": "Lima Beans",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Peruvian-Style Hot Sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it is vegan-friendly"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the quinoa according to package instructions.",
+    "Heat the Peruvian-Style Hot Sauce in a pan over medium heat.",
+    "Add the cooked lima beans and stir to combine.",
+    "Add the chopped cilantro and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "In a separate bowl, mix together the vegan tuna alternative, lime juice, and a pinch of salt and pepper.",
+    "To assemble the bowl, place a scoop of cooked quinoa at the bottom, followed by the lima bean mixture, and finally the vegan tuna mixture.",
+    "Garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "quick",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-peruvian-tuna-suspiro-limeno-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:13:55.618Z"
+}
