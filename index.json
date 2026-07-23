@@ -19491,5 +19491,18 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-russian-pillowy-breads-bowl--indian",
+    "title": "Pillowy Russian Bread Bowl",
+    "tags": [
+      "indian",
+      "bread",
+      "yogurt",
+      "dill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 22,
+    "shard": "q"
   }
 ]
