@@ -19661,5 +19661,17 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-silky-australian-russet-potato-hash--french",
+    "title": "French Hash Browns",
+    "tags": [
+      "breakfast",
+      "side-dish",
+      "potato"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
