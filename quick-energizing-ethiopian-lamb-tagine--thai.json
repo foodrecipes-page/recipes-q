@@ -1,0 +1,101 @@
+{
+  "slug": "quick-energizing-ethiopian-lamb-tagine--thai",
+  "title": "Thai Lamb Tagine",
+  "description": "A flavorful and aromatic Thai-inspired dish made with lamb, inspired by the spices of Ethiopia.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium-high heat.",
+    "Brown the lamb on all sides, then set aside.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger, curry paste, and chilies; cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add garlic and cook for 1 minute.",
+    "Add fish sauce and sugar; stir to combine.",
+    "Add browned lamb, water, and bring to a boil.",
+    "Transfer to the oven and braise at 300°F for 2 hours.",
+    "Skim off excess fat and adjust seasoning.",
+    "Serve over steamed rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-energizing-ethiopian-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:31:05.142Z"
+}
