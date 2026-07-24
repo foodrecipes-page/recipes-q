@@ -1,0 +1,92 @@
+{
+  "slug": "quick-steamed-vietnamese-tofu-noodles--keto",
+  "title": "Vietnamese Keto Noodle Stir Fry",
+  "description": "A quick and flavorful keto noodle dish made with tofu and steamed vegetables in a Vietnamese-inspired stir fry sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "Extra-firm tofu, drained and cut into small cubes"
+    },
+    {
+      "name": "Quick Noodles",
+      "amount": "200g",
+      "notes": "Keto-friendly noodles made from vegetables or low-carb flours"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": "Keto-friendly fish sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Keto-friendly soy sauce"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cook the quick noodles according to package instructions and set aside.",
+    "2. In a small bowl, whisk together fish sauce, soy sauce, and sesame oil.",
+    "3. In a large skillet or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "4. Add the tofu and cook until golden brown, about 3-4 minutes per side.",
+    "5. Remove the tofu from the skillet and set aside.",
+    "6. In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "7. Add the minced garlic and grated ginger and stir-fry for 1 minute.",
+    "8. Add the cooked noodles to the skillet and stir-fry for 2-3 minutes.",
+    "9. Pour the fish sauce mixture over the noodles and stir-fry for another 2-3 minutes.",
+    "10. Return the tofu to the skillet and stir-fry everything together for 1-2 minutes.",
+    "11. Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "vietnamese",
+    "noodle-stir-fry",
+    "tofu",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-vietnamese-tofu-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:01:42.670Z"
+}
