@@ -1,0 +1,91 @@
+{
+  "slug": "quick-japanese-pork-gyoza--keto",
+  "title": "Pan-Seared Japanese Pork Gyoza",
+  "description": "A keto-friendly twist on traditional Japanese gyoza, pan-seared to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Gyoza Wrappers",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": null
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup finely chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, combine ground pork, soy sauce, ginger, garlic, salt, and black pepper. Mix well until just combined.",
+    "2. Lay a gyoza wrapper on a clean surface. Place a small spoonful of the pork mixture in the center of the wrapper.",
+    "3. Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "4. Fold the wrapper into a half-moon shape by folding the bottom half over the filling, then pressing the edges together to seal.",
+    "5. Repeat with the remaining wrappers and filling.",
+    "6. Heat a large skillet or wok over medium-high heat. Add 1 tablespoon of coconut oil and swirl it around to coat the pan.",
+    "7. When the oil is hot, add a few gyoza (do not overcrowd the pan) and pan-fry until the bottom is golden brown, about 2-3 minutes.",
+    "8. Flip the gyoza over and pan-fry until the other side is also golden brown, about 2-3 minutes.",
+    "9. Remove the gyoza from the pan and place them on a paper towel-lined plate to drain excess oil.",
+    "10. Repeat with the remaining gyoza.",
+    "11. Serve the pan-seared gyoza hot with soy sauce for dipping. Garnish with chopped scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "keto",
+    "gyoza"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-pork-gyoza--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:41:22.553Z"
+}
