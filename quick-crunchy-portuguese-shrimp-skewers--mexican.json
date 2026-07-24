@@ -1,0 +1,69 @@
+{
+  "slug": "quick-crunchy-portuguese-shrimp-skewers--mexican",
+  "title": "Grilled Shrimp Skewers with Crunchy Slaw",
+  "description": "A flavorful and colorful Mexican-inspired dish featuring succulent shrimp skewers served with a refreshing crunchy slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "quick",
+      "amount": "1 tablespoon",
+      "notes": "lime juice"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "shredded cabbage"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a small bowl, mix together portuguese, quick, salt, and pepper.",
+    "3. Add the shrimp to the bowl and toss to coat.",
+    "4. Thread the shrimp onto the skewers, leaving a small space between each shrimp.",
+    "5. Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "6. Meanwhile, combine the crunchy in a separate bowl.",
+    "7. Serve the grilled shrimp skewers with the crunchy slaw on top.",
+    "8. Garnish with fresh cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "shrimp",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crunchy-portuguese-shrimp-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:57:55.851Z"
+}
