@@ -1,0 +1,71 @@
+{
+  "slug": "quick-smoky-portuguese-beef-skewers--german",
+  "title": "German-Style Beef Skewers",
+  "description": "A classic German-inspired dish featuring smoky beef skewers, perfect for a quick and flavorful meal.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "500g"
+    },
+    {
+      "name": "Portuguese marinade",
+      "amount": "250ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Quick olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "a handful"
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "1 dozen"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat (180°C).",
+    "2. In a large bowl, whisk together marinade, smoked paprika, and salt.",
+    "3. Add beef strips to the marinade and mix until coated.",
+    "4. Thread marinated beef onto wooden skewers.",
+    "5. Brush skewers with quick olive oil.",
+    "6. Grill skewers for 8-10 minutes, turning occasionally.",
+    "7. Garnish with parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-smoky-portuguese-beef-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:18:18.994Z"
+}
