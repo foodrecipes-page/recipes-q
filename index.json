@@ -19759,5 +19759,31 @@
     "cuisine": "thai",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-crisp-kenyan-black-bean-hash--thai",
+    "title": "Thai Black Bean Fritters",
+    "tags": [
+      "thai",
+      "snack",
+      "black-bean",
+      "fritters"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crunchy-portuguese-shrimp-skewers--mexican",
+    "title": "Grilled Shrimp Skewers with Crunchy Slaw",
+    "tags": [
+      "mexican",
+      "grilled",
+      "shrimp",
+      "slaw"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 28,
+    "shard": "q"
   }
 ]
