@@ -1,7 +1,7 @@
 {
   "slug": "quenched-and-italian-eggs-bigoli",
-  "title": "Bigoli with Italian-Style Scrambled Eggs",
-  "description": "A classic Italian pasta dish with a twist, featuring bigoli pasta tossed in a rich egg scramble.",
+  "title": "Bigoli Italian Breakfast",
+  "description": "A hearty Italian-inspired breakfast featuring bigoli pasta, eggs, and Italian seasonings.",
   "cuisine": "Italian",
   "diet": [
     "vegetarian"
@@ -9,50 +9,65 @@
   "meal": "breakfast",
   "ingredients": [
     {
+      "name": "bigoli pasta",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
       "name": "eggs",
-      "amount": "4"
+      "amount": "4",
+      "notes": ""
     },
     {
-      "name": "bigoli",
-      "amount": "1 cup"
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
-      "name": "and",
-      "amount": "3 cloves"
+      "name": "quenched tomatoes",
+      "amount": "1 cup",
+      "notes": ""
     },
     {
-      "name": "quenched",
-      "amount": "1/4 cup"
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Bring a large pot of salted water to a boil and cook the bigoli according to package instructions.",
-    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add the minced garlic and cook until fragrant, about 1 minute.",
-    "In a large bowl, whisk together the eggs and a pinch of salt.",
-    "Add the cooked bigoli to the bowl with the eggs and toss to combine.",
-    "Add the egg mixture to the skillet with the garlic and cook, stirring constantly, until the eggs are scrambled and set.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Bring a large pot of salted water to a boil.",
+    "Cook the bigoli pasta according to package instructions until al dente.",
+    "In a large skillet, heat a tablespoon of oil over medium heat.",
+    "Crack in the eggs and scramble until cooked through.",
+    "Add the cooked bigoli pasta to the skillet with the eggs.",
+    "Stir in the Italian seasoning, salt, and pepper.",
+    "Add the quenched tomatoes to the skillet and stir to combine.",
+    "Serve hot and enjoy!"
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "italian",
     "breakfast",
-    "eggs",
-    "pasta"
+    "italian",
+    "pasta",
+    "eggs"
   ],
   "nutrition": {
     "calories": 320,
-    "protein": 18,
-    "carbs": 30,
-    "fat": 14
+    "protein": 22,
+    "carbs": 35,
+    "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/quenched-and-italian-eggs-bigoli",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T02:51:36.831Z"
+  "createdAt": "2026-07-20T04:24:39.585Z"
 }
