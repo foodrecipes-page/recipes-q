@@ -19712,5 +19712,17 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-fluffy-dutch-herring-tagine--thai",
+    "title": "Thai Herring Tagine",
+    "tags": [
+      "thaifood",
+      "herringsoup",
+      "taginestew"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "q"
   }
 ]
