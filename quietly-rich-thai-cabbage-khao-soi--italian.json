@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-rich-thai-cabbage-khao-soi--italian",
+  "title": "Cabbage and Khao Soi Stuffed Shells",
+  "description": "A unique Italian dish featuring stuffed pasta shells filled with a mixture of cabbage, khao soi, and rich bechamel sauce, then baked to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "jumbo pasta shells",
+      "amount": "12-14 shells"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, shredded"
+    },
+    {
+      "name": "khao soi",
+      "amount": "1 cup cooked, crumbled"
+    },
+    {
+      "name": "rich bechamel sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the jumbo pasta shells according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat. Add the shredded cabbage and cook until softened, about 5 minutes.",
+    "Add the cooked khao soi to the skillet and stir to combine with the cabbage. Season with salt and black pepper to taste.",
+    "In a separate saucepan, make the rich bechamel sauce by melting 2 tablespoons of butter over medium heat. Add 1 cup of milk and 1/2 cup of grated parmesan cheese. Stir until smooth and heated through.",
+    "Stuff each cooked pasta shell with the cabbage and khao soi mixture, followed by a spoonful of the bechamel sauce.",
+    "Place the stuffed shells in a baking dish and top with the remaining bechamel sauce and grated parmesan cheese.",
+    "Dot the top of the shells with the remaining 2 tablespoons of butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the sauce is bubbly and the cheese is melted and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "cabbage",
+    "khao soi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-thai-cabbage-khao-soi--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:25:59.113Z"
+}
