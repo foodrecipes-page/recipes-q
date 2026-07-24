@@ -1,0 +1,92 @@
+{
+  "slug": "quick-indian-lettuce-curry",
+  "title": "Quick Indian Curry with Lettuce Wrap",
+  "description": "A simple and flavorful Indian-inspired curry served with a crisp lettuce wrap, perfect for a quick weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "curry",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "quick",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves",
+      "notes": null
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 3-4 minutes.",
+    "Add chicken breast and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Remove chicken from skillet and set aside.",
+    "Add curry and quick to skillet and cook for 1-2 minutes, stirring constantly.",
+    "Add coconut milk and water to skillet and stir to combine.",
+    "Return chicken to skillet and simmer for 2-3 minutes or until sauce has thickened.",
+    "Season with salt and black pepper to taste.",
+    "Serve curry over lettuce leaves as wraps."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-indian-lettuce-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:31:19.707Z"
+}
