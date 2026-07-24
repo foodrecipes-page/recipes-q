@@ -1,0 +1,82 @@
+{
+  "slug": "quickly-aerated-algerian-beans-tagine--chinese",
+  "title": "Aerated Chicken Tagine with Algerian Spices",
+  "description": "A Chinese adaptation of the classic North African dish, featuring aerated chicken cooked in a tagine with Algerian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "algerian spice mix",
+      "amount": "2 teaspoons",
+      "notes": "see notes for homemade blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet or wok over medium-high heat.",
+    "2. Add chicken and cook until browned, about 5 minutes.",
+    "3. Add onion and garlic and cook until onion is translucent, about 3 minutes.",
+    "4. Add Algerian spice mix and cook for 1 minute.",
+    "5. Add beans, soy sauce, brown sugar, and chicken broth. Stir to combine.",
+    "6. Bring mixture to a boil, then reduce heat to low and simmer, covered, for 10-15 minutes.",
+    "7. Serve hot, garnished with chopped green onions and toasted almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "tagine",
+    "algerian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-aerated-algerian-beans-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:40:38.537Z"
+}
