@@ -1,0 +1,59 @@
+{
+  "slug": "quick-silky-australian-russet-potato-hash--french",
+  "title": "French Hash Browns",
+  "description": "A simple and delicious French-inspired dish featuring crispy hash browns. The silky texture of the potatoes pairs perfectly with the rustic flavors of the Australian hash.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Russet potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Australian hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Quick olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Heat the olive oil in the pan and sauté the diced Australian hash until crispy.",
+    "Add the grated Russet potato to the pan and stir to combine with the hash.",
+    "Cook for 5-7 minutes, stirring occasionally, until the potatoes are golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "side-dish",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-silky-australian-russet-potato-hash--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:21:46.162Z"
+}
