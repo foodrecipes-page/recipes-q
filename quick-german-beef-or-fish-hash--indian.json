@@ -1,0 +1,92 @@
+{
+  "slug": "quick-german-beef-or-fish-hash--indian",
+  "title": "Beef Hash Masala",
+  "description": "A flavorful twist on traditional hash, this dish combines tender beef and crispy potatoes with Indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion, garlic, and ginger to the skillet and cook until the onion is translucent.",
+    "Add the hash to the skillet and stir to combine with the beef and onion mixture.",
+    "Sprinkle the cumin, coriander, and cayenne pepper over the top of the hash and stir to combine.",
+    "Season with salt to taste.",
+    "Reduce the heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-german-beef-or-fish-hash--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T01:12:43.243Z"
+}
