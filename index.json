@@ -19793,5 +19793,18 @@
     "cuisine": "Japanese",
     "totalTimeMin": 32,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-fluffy-brazilian-chorizo-casserole--italian",
+    "title": "Brazilian Chorizo Italian Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "chicken-free",
+      "beef-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
