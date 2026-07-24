@@ -8993,17 +8993,15 @@
   },
   {
     "slug": "quick-indian-lettuce-curry",
-    "title": "Quick Indian Lettuce Curry",
+    "title": "Quick Indian Curry with Lettuce Wrap",
     "tags": [
-      "comfort-food",
-      "gluten-free",
       "indian",
-      "lunch",
-      "one-pot",
-      "quick"
+      "curry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -19649,6 +19647,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-rich-thai-cabbage-khao-soi--italian",
+    "title": "Cabbage and Khao Soi Stuffed Shells",
+    "tags": [
+      "italian",
+      "pasta",
+      "cabbage",
+      "khao soi"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "q"
   }
 ]
