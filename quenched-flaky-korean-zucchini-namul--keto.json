@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-flaky-korean-zucchini-namul--keto",
+  "title": "Korean-Style Crispy Zucchini Fritters",
+  "description": "Crispy zucchini fritters seasoned with Korean spices, perfect as a keto snack or side dish. This recipe yields a crunchy exterior and a tender interior.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Quenched Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1/2 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Namul (Korean-style herb mix)",
+      "amount": "1 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/4 cup",
+      "notes": "Dried"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the grated zucchini, Korean chili flakes, flaky sea salt, and namul.",
+    "In a separate bowl, whisk together the coconut flour and egg.",
+    "Add the coconut flour mixture to the zucchini mixture and stir until combined.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the patties to the skillet and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Transfer the fritters to a baking sheet and bake for an additional 5-7 minutes, until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "keto",
+    "snack",
+    "zucchini",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-flaky-korean-zucchini-namul--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:47:46.650Z"
+}
