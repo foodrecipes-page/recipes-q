@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-aged-tuscan-korean-pear-ribollita",
+  "title": "Pear and Tuscan Soup",
+  "description": "A hearty and comforting soup perfect for a cozy evening. This Tuscan-style soup is made with a variety of vegetables and finished with a hint of sweetness from the pear.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pear",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Tuscan kale",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "Aged Parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the chopped kale and cook until wilted, about 2 minutes.",
+    "Add the diced pear and cook for an additional 2 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the grated Parmesan cheese and season with salt and black pepper to taste.",
+    "Serve the soup hot, garnished with additional Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-aged-tuscan-korean-pear-ribollita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:10:58.056Z"
+}
