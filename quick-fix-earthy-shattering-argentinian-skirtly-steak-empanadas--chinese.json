@@ -1,0 +1,78 @@
+{
+  "slug": "quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas--chinese",
+  "title": "Argentinian Steak Stir Fry",
+  "description": "A flavorful and savory stir fry dish featuring steak and a variety of vegetables, inspired by Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirtly Steak",
+      "amount": "250 grams"
+    },
+    {
+      "name": "Argentinian Steak",
+      "amount": "200 grams",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Quick Fix Earthy Mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shattering Bok Choy",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced argentinian steak and cook for 3-4 minutes per side, or until browned and cooked to your desired level of doneness.",
+    "Remove the steak from the wok and set aside.",
+    "Add the sliced skirtly steak to the wok and cook for 2-3 minutes, or until browned and cooked to your desired level of doneness.",
+    "Add the mushrooms, bok choy, soy sauce, garlic, and ginger to the wok.",
+    "Stir-fry for 2-3 minutes, or until the vegetables are tender.",
+    "Return the cooked steak to the wok and stir to combine with the vegetables.",
+    "Cook for an additional 1-2 minutes, or until the steak is coated in the sauce.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "steak",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-earthy-shattering-argentinian-skirtly-steak-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:28:27.082Z"
+}
