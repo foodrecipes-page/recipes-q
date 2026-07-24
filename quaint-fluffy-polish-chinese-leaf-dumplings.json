@@ -1,0 +1,71 @@
+{
+  "slug": "quaint-fluffy-polish-chinese-leaf-dumplings",
+  "title": "Polish Dumpling Delight",
+  "description": "A hearty Polish-inspired dish featuring fluffy dumplings in a savory broth.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fluffy",
+      "amount": "2 cups",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Polish",
+      "amount": "2 teaspoons",
+      "notes": "Dried thyme"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "1 package",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Quaint",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter, melted"
+    },
+    {
+      "name": "Leaf",
+      "amount": "4 cups",
+      "notes": "Fresh parsley, chopped"
+    },
+    {
+      "name": "Chinese",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine Polish, quaint, and leaf.",
+    "2. Add 4 cups of water and bring to a boil.",
+    "3. Reduce heat and add dumplings.",
+    "4. Simmer for 10 minutes or until dumplings are cooked through.",
+    "5. Stir in Chinese and quaint.",
+    "6. Season with salt and pepper to taste.",
+    "7. Serve hot, garnished with additional leaf if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-food",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-polish-chinese-leaf-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:52:58.738Z"
+}
