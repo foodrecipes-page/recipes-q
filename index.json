@@ -5361,16 +5361,15 @@
   },
   {
     "slug": "quick-comforting-irish-potato-gratin",
-    "title": "Quick Comforting Irish Potato Gratin",
+    "title": "Irish Potato Gratin",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
-      "potato-dish",
-      "quick-meal",
-      "vegetarian-friendly"
+      "comforting",
+      "irish",
+      "potato",
+      "gratin"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "q"
   },
   {
@@ -19672,6 +19671,46 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-flaky-korean-zucchini-namul--keto",
+    "title": "Korean-Style Crispy Zucchini Fritters",
+    "tags": [
+      "korean",
+      "keto",
+      "snack",
+      "zucchini",
+      "fritters"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-vietnamese-tofu-noodles--keto",
+    "title": "Vietnamese Keto Noodle Stir Fry",
+    "tags": [
+      "keto",
+      "vietnamese",
+      "noodle-stir-fry",
+      "tofu",
+      "low-carb"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-german-beef-or-fish-hash--indian",
+    "title": "Beef Hash Masala",
+    "tags": [
+      "indian",
+      "beef",
+      "hash"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
