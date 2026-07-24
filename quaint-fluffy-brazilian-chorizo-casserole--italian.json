@@ -1,0 +1,85 @@
+{
+  "slug": "quaint-fluffy-brazilian-chorizo-casserole--italian",
+  "title": "Brazilian Chorizo Italian Casserole",
+  "description": "A hearty Italian-inspired casserole featuring spicy Brazilian chorizo and a hint of quaint, fluffy texture.",
+  "cuisine": "italian",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo Sausage",
+      "amount": "1 pound",
+      "notes": "Brazilian chorizo"
+    },
+    {
+      "name": "Quaint Fluffy Breadcrumbs",
+      "amount": "2 cups",
+      "notes": "Panko breadcrumbs"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook chorizo sausage in a pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Remove cooked chorizo from pan and set aside.",
+    "Add olive oil to the pan and sauté diced onion and minced garlic until softened.",
+    "Stir in Italian seasoning, salt, and black pepper.",
+    "In a large mixing bowl, combine cooked chorizo, onion mixture, and quaint fluffy breadcrumbs.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 20-25 minutes or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "casserole",
+    "chicken-free",
+    "beef-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-brazilian-chorizo-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:40:10.249Z"
+}
