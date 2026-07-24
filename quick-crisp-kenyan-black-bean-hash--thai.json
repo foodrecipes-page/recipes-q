@@ -1,0 +1,92 @@
+{
+  "slug": "quick-crisp-kenyan-black-bean-hash--thai",
+  "title": "Thai Black Bean Fritters",
+  "description": "Crisp Thai fritters made with black beans, perfect as a snack or side dish.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black bean",
+      "amount": "1 can",
+      "notes": " drained and rinsed"
+    },
+    {
+      "name": "kenyan black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "hash brown",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "crisp coconut flakes",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "quick oats",
+      "amount": "1/2 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350F.",
+    "In a large bowl, mash the black beans using a fork until they're mostly smooth.",
+    "Add the hash brown, coconut flakes, oats, egg, green chilies, garlic, and fish sauce to the bowl with the mashed black beans.",
+    "Mix well until everything is fully incorporated.",
+    "Using your hands, shape the mixture into small patties.",
+    "When the oil is hot, add 2-3 patties to the pan and fry for 2-3 minutes on each side, or until they're golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with your favorite dipping sauce.",
+    "Repeat the frying process with the remaining patties."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "black-bean",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crisp-kenyan-black-bean-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:13:47.170Z"
+}
