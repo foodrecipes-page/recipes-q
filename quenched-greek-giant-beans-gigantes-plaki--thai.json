@@ -1,0 +1,94 @@
+{
+  "slug": "quenched-greek-giant-beans-gigantes-plaki--thai",
+  "title": "Thai Gigantes Plaki Stew",
+  "description": "A hearty and flavorful Thai-inspired stew featuring giant white beans, similar to the traditional Greek plaki, made with Thai spices and herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "giant white beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "quenched garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "greek olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "giant onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "giant ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "beans",
+      "amount": "1 can",
+      "notes": "14.5 oz, drained and rinsed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add garlic and ginger; cook, stirring occasionally, until fragrant, about 2 minutes.",
+    "Add onions; cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add cumin and coriander; cook, stirring constantly, for 1 minute.",
+    "Add soaked and drained giant white beans, fish sauce, and brown sugar; stir to combine.",
+    "Add the beans and their liquid; bring to a boil.",
+    "Reduce heat to low; simmer, covered, until the beans are tender, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-greek-giant-beans-gigantes-plaki--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:49:39.973Z"
+}
