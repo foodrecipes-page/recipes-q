@@ -1,0 +1,90 @@
+{
+  "slug": "quaint-fluffy-dutch-herring-tagine--thai",
+  "title": "Thai Herring Tagine",
+  "description": "A unique and flavorful Thai-inspired dish featuring herring in a tagine-style stew. Serve with steamed rice or noodles.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "herring",
+      "amount": "2 fillets",
+      "notes": "Fresh or canned, drained and rinsed"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 spice mix",
+      "notes": "Store-bought or homemade Thai spice blend"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added umami flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "For balance of sweetness and spice"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "quaint",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger, and sauté until softened.",
+    "Add herring fillets and cook until browned on both sides.",
+    "Add tagine spice mix, fish sauce, brown sugar, and lemon juice.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 10-12 minutes or until the fish is cooked through.",
+    "Season with quaint if using.",
+    "Serve with steamed rice or noodles and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "herringsoup",
+    "taginestew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-fluffy-dutch-herring-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:05:44.878Z"
+}
