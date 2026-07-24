@@ -1,0 +1,77 @@
+{
+  "slug": "qgrilled-zesty-robata-shrimp-kapi-wrap",
+  "title": "Robata Shrimp Wrap",
+  "description": "A flavorful and spicy wrap filled with grilled shrimp, zesty slaw, and served with a side of soy sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "zesty dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "robata sauce",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "large flour tortilla",
+      "amount": "1",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "coleslaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "kapi",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added spice"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan over medium-high heat.",
+    "Season the shrimp with salt and pepper.",
+    "Grill the shrimp for 2-3 minutes per side, until pink and cooked through.",
+    "Meanwhile, warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the zesty dressing on the tortilla, leaving a 1-inch border around the edges.",
+    "Top the dressing with a few pieces of grilled shrimp, some coleslaw, and a sprinkle of kapi, if using.",
+    "Drizzle the robata sauce over the top and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "shrimp",
+    "wrap",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/qgrilled-zesty-robata-shrimp-kapi-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:48:23.147Z"
+}
