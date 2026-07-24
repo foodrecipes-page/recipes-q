@@ -19806,5 +19806,30 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-smoky-portuguese-beef-skewers--german",
+    "title": "German-Style Beef Skewers",
+    "tags": [
+      "german",
+      "beef",
+      "skewers",
+      "grill"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-energizing-ethiopian-lamb-tagine--thai",
+    "title": "Thai Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 150,
+    "shard": "q"
   }
 ]
