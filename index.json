@@ -28,15 +28,14 @@
   },
   {
     "slug": "qgrilled-zesty-robata-shrimp-kapi-wrap",
-    "title": "QGrilled Zesty Robata Shrimp-Kapi Wrap",
+    "title": "Robata Shrimp Wrap",
     "tags": [
-      "bitter-dish",
-      "grilled-wrap",
-      "keto-friendly",
-      "light-kenyan"
+      "shrimp",
+      "wrap",
+      "asian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "q"
   },
   {
@@ -19780,6 +19779,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 28,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-japanese-pork-gyoza--keto",
+    "title": "Pan-Seared Japanese Pork Gyoza",
+    "tags": [
+      "japanese",
+      "pork",
+      "keto",
+      "gyoza"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 32,
     "shard": "q"
   }
 ]
