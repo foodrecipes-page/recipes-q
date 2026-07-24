@@ -1,0 +1,95 @@
+{
+  "slug": "quenched-resinous-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian stew made with lamb and spices, cooked in a clay pot with a conical lid.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "quenched olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "resinous cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a clay tagine or large Dutch oven over medium heat.",
+    "Add the onion and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the lamb and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the cinnamon, cumin, coriander, and tagine spice mix. Cook, stirring constantly, for 1 minute.",
+    "Add the chicken broth and bring to a boil.",
+    "Cover the tagine or Dutch oven and transfer to the oven. Braise the lamb, covered, in a preheated oven at 300°F (150°C) for 2 1/2 hours.",
+    "Stir in the parsley. Serve hot, with lemon wedges on the side.",
+    "Let the dish rest for 10-15 minutes before serving.",
+    "Serve hot.",
+    "Garnish with parsley and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tunisian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-resinous-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:07:18.190Z"
+}
