@@ -1,0 +1,85 @@
+{
+  "slug": "quenched-peppery-peruvian-fish-ceviche--thai",
+  "title": "Spicy Thai Ceviche",
+  "description": "A refreshing and spicy Thai-inspired ceviche dish, perfect for a light and easy meal.",
+  "cuisine": "thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian Fish (sushi-grade)",
+      "amount": "500g",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Quenched Lime Juice",
+      "amount": "200ml",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Peruvian Peppery Aji Amarillo Pepper",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Thai Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Thai Chilies",
+      "amount": "1 tsp",
+      "notes": "Diced, optional"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1",
+      "notes": "Diced"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the fish pieces, lime juice, aji amarillo pepper, cilantro, salt, and chilies (if using).",
+    "2. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the fish to 'cook' in the lime juice.",
+    "3. Just before serving, stir in the sliced red onion and cucumber.",
+    "4. Taste and adjust the seasoning as needed.",
+    "5. Serve the ceviche in small glasses or bowls, garnished with diced avocado and a sprinkle of cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "thai-food",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peppery-peruvian-fish-ceviche--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:25:13.828Z"
+}
