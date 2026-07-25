@@ -20086,5 +20086,19 @@
     "cuisine": "french",
     "totalTimeMin": 20,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-norwegian-lamb-skewers--italian",
+    "title": "Norwegian Lamb Skewers with Italian Twist",
+    "tags": [
+      "italian",
+      "norwegian",
+      "lamb",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 38,
+    "shard": "q"
   }
 ]
