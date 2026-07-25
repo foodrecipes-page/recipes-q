@@ -1,0 +1,86 @@
+{
+  "slug": "quenched-flaky-mexican-fish-tacos",
+  "title": "Fish Tacos with Mexican Slaw",
+  "description": "A flavorful and crunchy Mexican-inspired dish featuring battered fish and a fresh slaw.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "preferably cod or tilapia"
+    },
+    {
+      "name": "Mexican Quenched Tortillas",
+      "amount": "8",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "Mexican Slaw",
+      "amount": "2 cups",
+      "notes": "see below for slaw ingredients"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "for slaw"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "for slaw"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": "for slaw"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Dredge fish fillets in flour, then dip in beaten eggs.",
+    "Coat with crushed tortilla chips.",
+    "Fry fish in hot oil until golden and cooked through.",
+    "Drain on paper towels.",
+    "In a separate bowl, combine shredded cabbage, grated carrots, chopped cilantro, and lime juice.",
+    "Mix well and season with salt and pepper.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing a piece of fried fish on each tortilla, topping with a spoonful of slaw and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fish-tacos",
+    "tacos",
+    "slaw",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-flaky-mexican-fish-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:34:16.026Z"
+}
