@@ -10151,15 +10151,16 @@
   },
   {
     "slug": "quick-quenched-almond-pilaf",
-    "title": "Quick Quenched Almond Pilaf",
+    "title": "Quick Almond Pilaf",
     "tags": [
-      "grain-based",
-      "monsoon-inspired",
-      "no-dairy",
-      "quick-cook"
+      "almonds",
+      "quick-cooking",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 20,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -19842,6 +19843,18 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-tunisian-nutella-wrap--gluten-free",
+    "title": "Nutella Wrap",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 5,
     "shard": "q"
   }
 ]
