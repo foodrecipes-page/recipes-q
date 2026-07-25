@@ -1,0 +1,84 @@
+{
+  "slug": "quick-malaysian-fromage-blanc-noodles",
+  "title": "Malaysian Noodle Stir Fry",
+  "description": "A simple and quick Malaysian-inspired noodle dish made with a flavorful sauce and crunchy vegetables.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions. Drain and set aside.",
+    "In a large skillet or wok, heat oil over medium-high heat.",
+    "Add onion and garlic. Cook until onion is translucent.",
+    "Add snow peas and bean sprouts. Cook until vegetables are tender.",
+    "In a small bowl, whisk together soy sauce and honey.",
+    "Pour sauce into skillet and stir to combine.",
+    "Add cooked noodles to skillet and stir-fry until well coated with sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "malaysian",
+    "noodle",
+    "stir-fry",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-malaysian-fromage-blanc-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:13:30.385Z"
+}
