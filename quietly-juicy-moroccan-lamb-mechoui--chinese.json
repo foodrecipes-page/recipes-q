@@ -1,0 +1,84 @@
+{
+  "slug": "quietly-juicy-moroccan-lamb-mechoui--chinese",
+  "title": "Moroccan Lamb Kebabs with Chinese Twist",
+  "description": "A fusion of Moroccan and Chinese flavors, these lamb kebabs are juicy, tender, and full of exotic spices. Serve with steamed vegetables and a side of stir-fried noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moroccan lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing kebabs"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, rice vinegar, hoisin sauce, garlic, and ginger.",
+    "Add the lamb cubes to the marinade and mix well to coat. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the kebabs with sesame oil and season with salt and pepper.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the kebabs to a serving platter and garnish with sesame seeds.",
+    "Serve hot with steamed vegetables and a side of stir-fried noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "chinese",
+    "moroccan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-juicy-moroccan-lamb-mechoui--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:34:11.099Z"
+}
