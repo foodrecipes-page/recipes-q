@@ -1,0 +1,78 @@
+{
+  "slug": "quick-japanese-chicken-fritters--keto",
+  "title": "Keto Chicken Fritters",
+  "description": "A low-carb twist on traditional fritters, made with chicken and Japanese-inspired ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a deep frying pan with coconut oil over medium-high heat.",
+    "2. In a large bowl, combine chicken, coconut flour, ginger, soy sauce, cilantro, and scallions.",
+    "3. Mix well with your hands until everything is fully incorporated.",
+    "4. Using your hands, shape the mixture into small patties.",
+    "5. Once the oil is hot, add a few patties to the pan (do not overcrowd).",
+    "6. Cook for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "7. Repeat with the remaining patties.",
+    "8. Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "chicken",
+    "japanese",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-japanese-chicken-fritters--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:22:20.597Z"
+}
