@@ -19983,5 +19983,17 @@
     "cuisine": "Greek",
     "totalTimeMin": 10,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fix-italian-dum-pasta--chinese",
+    "title": "Quick Chinese Pasta Stir Fry",
+    "tags": [
+      "chinese",
+      "pasta",
+      "quick-and-easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 13,
+    "shard": "q"
   }
 ]
