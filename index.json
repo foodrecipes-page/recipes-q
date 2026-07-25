@@ -19946,5 +19946,42 @@
     "cuisine": "thai",
     "totalTimeMin": 15,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-saudi-sirloin-skillet--german",
+    "title": "German Sirloin Steak with Pan-Seared Quenched Potatoes",
+    "tags": [
+      "german",
+      "beef",
+      "potatoes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-vietnamese-pork-bun-thit-nuong--vegan",
+    "title": "Vietnamese Grilled Pork Noodle Salad",
+    "tags": [
+      "vietnamese",
+      "grilled",
+      "vegan"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-greek-chicken-salad--vegetarian",
+    "title": "Greek Salad",
+    "tags": [
+      "greek",
+      "salad",
+      "vegetarian",
+      "quick"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 10,
+    "shard": "q"
   }
 ]
