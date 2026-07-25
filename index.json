@@ -9547,17 +9547,16 @@
   },
   {
     "slug": "quick-malaysian-fromage-blanc-noodles",
-    "title": "Quick Malaysian Fromage-Blanc Noodles",
+    "title": "Malaysian Noodle Stir Fry",
     "tags": [
-      "fromage-blanc",
       "malaysian",
-      "noodle-dish",
-      "one-pan",
-      "quick-fix",
-      "spicy"
+      "noodle",
+      "stir-fry",
+      "quick",
+      "vegetarian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -19921,6 +19920,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-roasted-portuguese-chicken-roast--vegan",
+    "title": "Portuguese Roast Vegan Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "portuguese",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-peppery-peruvian-fish-ceviche--thai",
+    "title": "Spicy Thai Ceviche",
+    "tags": [
+      "ceviche",
+      "thai-food",
+      "fish"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
     "shard": "q"
   }
 ]
