@@ -1,0 +1,102 @@
+{
+  "slug": "quenched-jamaican-pork-stew--keto",
+  "title": "Keto Jamaican Pork Stew",
+  "description": "A flavorful and spicy stew made with tender pork and a variety of spices, perfect for a keto diet. Serve hot over cauliflower rice or with a side of vegetables.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Quenched",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion and bell pepper to the pot and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the chicken broth, Jamaican seasoning, and salt and pepper to taste.",
+    "Return the pork to the pot and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, until the pork is tender, about 1 1/2 hours.",
+    "Serve the stew hot over cauliflower rice or with a side of vegetables.",
+    "Garnish with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "pork",
+    "stew",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-jamaican-pork-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:01:20.237Z"
+}
