@@ -1,0 +1,69 @@
+{
+  "slug": "quick-savory-french-white-beans-cassoulet--german",
+  "title": "Hearty German Cassoulet",
+  "description": "A twist on the classic French dish, this German-inspired cassoulet is filled with comforting white beans, savory sausage, and a hint of quick pickled onions.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white beans (cannellini or navy)",
+      "amount": "1 1/2 cups, cooked",
+      "notes": ""
+    },
+    {
+      "name": "sausage (such as Knockwurst or Bratwurst)",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "quick pickled onions",
+      "amount": "1/2 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "french bread",
+      "amount": "1/2 cup, torn",
+      "notes": ""
+    },
+    {
+      "name": "savory sausage broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, cook the sliced sausage over medium-high heat until browned.",
+    "Remove the cooked sausage from the pot and set it aside.",
+    "Add the savory sausage broth to the pot and bring it to a simmer.",
+    "Stir in the cooked white beans and cook for 2-3 minutes.",
+    "Add the torn french bread to the pot and stir to combine.",
+    "Return the cooked sausage to the pot and stir to combine.",
+    "Transfer the pot to the preheated oven and cook for 20-25 minutes, or until the top is golden brown.",
+    "Serve the cassoulet hot, garnished with quick pickled onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "beans",
+    "cassoulet"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-french-white-beans-cassoulet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:09:20.601Z"
+}
