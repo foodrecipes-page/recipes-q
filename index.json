@@ -19831,5 +19831,17 @@
     "cuisine": "thai",
     "totalTimeMin": 150,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-bitter-arabian-butter-pudding--vegan",
+    "title": "Bitter Pudding Delight",
+    "tags": [
+      "vegan-dessert",
+      "bitter-melon",
+      "arabian-dates"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "q"
   }
 ]
