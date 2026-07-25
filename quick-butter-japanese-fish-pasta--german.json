@@ -1,0 +1,68 @@
+{
+  "slug": "quick-butter-japanese-fish-pasta--german",
+  "title": "Pan-Seared Fish with Butter and Pasta",
+  "description": "A classic German-inspired dish featuring pan-seared fish, served with a side of buttery pasta. Enjoy!",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (4-6 fillets)",
+      "amount": "4-6",
+      "notes": "Choose a mild-flavored fish like cod or tilapia"
+    },
+    {
+      "name": "Quick-cooking pasta",
+      "amount": "8 oz",
+      "notes": "Choose a German-style pasta like spätzle or egg noodles"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "Season the fish fillets with salt and pepper.",
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the fish fillets to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the fish from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Add the cooked pasta to the skillet and toss with the butter until coated.",
+    "Serve the pan-seared fish on top of the buttery pasta."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "fish",
+    "pasta",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-butter-japanese-fish-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:56:46.272Z"
+}
