@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-citrusy-french-chicken-thighs-pasta--italian",
+  "title": "Italian Chicken Pasta",
+  "description": "Quick and easy Italian-style pasta dish with chicken thighs, perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "penne or spaghetti work well"
+    },
+    {
+      "name": "french olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "quenched lemon juice",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the chicken thighs and cook until browned on both sides and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside to rest.",
+    "In the same skillet, add the garlic and cook for 1 minute until fragrant.",
+    "Stir in the lemon juice and bring to a simmer.",
+    "Add the cooked pasta to the skillet and toss to coat with the lemon sauce.",
+    "Return the chicken to the skillet and toss with the pasta.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "chicken",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-citrusy-french-chicken-thighs-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:24:03.260Z"
+}
