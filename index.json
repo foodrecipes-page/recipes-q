@@ -20048,5 +20048,31 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-french-pasta-bowl--italian",
+    "title": "Classic Italian Pasta Bowl",
+    "tags": [
+      "italian",
+      "pasta",
+      "easy-dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-juicy-moroccan-lamb-mechoui--chinese",
+    "title": "Moroccan Lamb Kebabs with Chinese Twist",
+    "tags": [
+      "kebabs",
+      "lamb",
+      "chinese",
+      "moroccan",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
