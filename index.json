@@ -19856,5 +19856,32 @@
     "cuisine": null,
     "totalTimeMin": 5,
     "shard": "q"
+  },
+  {
+    "slug": "quick-savory-french-white-beans-cassoulet--german",
+    "title": "Hearty German Cassoulet",
+    "tags": [
+      "german",
+      "sausage",
+      "beans",
+      "cassoulet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-mexican-chicken-quesadilla--mexican",
+    "title": "Chicken Quesadilla",
+    "tags": [
+      "mexican",
+      "chicken",
+      "quesadilla",
+      "easy",
+      "quick"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
