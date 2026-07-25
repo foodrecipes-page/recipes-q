@@ -1,0 +1,63 @@
+{
+  "slug": "quaint-sweet-korean-noodles-naengmyeon--french",
+  "title": "Sweet Naengmyeon French Dessert",
+  "description": "A unique dessert inspired by Korean naengmyeon, with a French twist using sweet ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Naengmyeon Noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Quaint Fruit Puree",
+      "amount": "250ml"
+    },
+    {
+      "name": "Sweet Vanilla Bean",
+      "amount": "1 bean"
+    },
+    {
+      "name": "Korean Sugar Syrup",
+      "amount": "50ml"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Boil the naengmyeon noodles according to the package instructions.",
+    "Mix the quaint fruit puree with the Korean sugar syrup.",
+    "Scoop the mixed fruit puree into a serving dish.",
+    "Place the cooked naengmyeon noodles on top of the puree mixture.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Top the noodles with the whipped cream.",
+    "Slice the vanilla bean and sprinkle the seeds on top.",
+    "Chill the dessert in the refrigerator for at least 30 minutes.",
+    "Serve cold and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "french-dessert",
+    "korean-inspiration",
+    "cold-dessert"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 3,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-sweet-korean-noodles-naengmyeon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:04:40.701Z"
+}
