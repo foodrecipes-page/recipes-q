@@ -1,0 +1,94 @@
+{
+  "slug": "quenched-japanese-allspice-udon--indian",
+  "title": "Spiced Udon Noodle Curry",
+  "description": "A flavorful and aromatic curry made with udon noodles, featuring a blend of Indian spices and a hint of sweetness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably Japanese udon"
+    },
+    {
+      "name": "Quenched vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "or any neutral-tasting oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 tsp",
+      "notes": "whole or ground"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "or vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté until softened, about 3-4 minutes.",
+    "Add garlic and ginger; sauté for another minute.",
+    "Add curry powder, cumin powder, and allspice; stir for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes.",
+    "Cook udon noodles according to package instructions.",
+    "Add cooked noodles to the curry sauce and toss to coat.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-curry",
+    "vegetarian",
+    "noodle-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-japanese-allspice-udon--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:43:11.175Z"
+}
