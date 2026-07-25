@@ -1,0 +1,56 @@
+{
+  "slug": "quenched-tunisian-nutella-wrap--gluten-free",
+  "title": "Nutella Wrap",
+  "description": "A delicious gluten-free dessert or snack made with Nutella and wrapped in a crispy wrap.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Gluten-free wrap"
+    },
+    {
+      "name": "Nutella",
+      "amount": "2 tablespoons",
+      "notes": "Spread Nutella evenly on the wrap"
+    },
+    {
+      "name": "Quenched",
+      "amount": "1",
+      "notes": "Optional topping, crushed or sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Place the wrap in the pan and cook for 1-2 minutes on each side, until crispy.",
+    "Spread 1 tablespoon of Nutella on each half of the wrap.",
+    "If using quenched, top with crushed or sliced quenched.",
+    "Fold the wrap in half to enclose the Nutella and quenched (if using).",
+    "Cook for an additional 30 seconds to 1 minute, until the Nutella is melted and the wrap is crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 3,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-tunisian-nutella-wrap--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:32:38.680Z"
+}
