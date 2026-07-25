@@ -1,0 +1,76 @@
+{
+  "slug": "quick-charred-gooey-german-plum-tomatoes-risotto--gluten-free",
+  "title": "Charred Plum and Tomato Risotto",
+  "description": "A gluten-free, Italian-inspired risotto dish featuring charred plums and tomatoes.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Plums",
+      "amount": "2",
+      "notes": "charred"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and sauté for 1 minute until fragrant.",
+    "Add risotto and cook for 2-3 minutes until lightly toasted.",
+    "Add 1 cup of water and stir until absorbed. Repeat until all water is used.",
+    "While risotto is cooking, char the plums and tomatoes on a grill or grill pan.",
+    "Add charred plums and tomatoes to the risotto and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately.",
+    "Optional: top with additional charred fruit or a drizzle of balsamic glaze."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "plum",
+    "tomato",
+    "risotto",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-gooey-german-plum-tomatoes-risotto--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:02:47.193Z"
+}
