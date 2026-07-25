@@ -20074,5 +20074,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quaint-sweet-korean-noodles-naengmyeon--french",
+    "title": "Sweet Naengmyeon French Dessert",
+    "tags": [
+      "french-dessert",
+      "korean-inspiration",
+      "cold-dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "q"
   }
 ]
