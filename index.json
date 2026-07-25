@@ -19883,5 +19883,44 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quick-japanese-chicken-fritters--keto",
+    "title": "Keto Chicken Fritters",
+    "tags": [
+      "keto",
+      "chicken",
+      "japanese",
+      "fritters"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-mexican-peanut-tagine--japanese",
+    "title": "Japanese Teriyaki Chicken with Roasted Vegetables",
+    "tags": [
+      "chicken",
+      "veggies",
+      "grilling",
+      "roasting",
+      "easy-dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-japanese-allspice-udon--indian",
+    "title": "Spiced Udon Noodle Curry",
+    "tags": [
+      "indian-curry",
+      "vegetarian",
+      "noodle-curry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
