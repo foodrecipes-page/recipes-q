@@ -1,0 +1,78 @@
+{
+  "slug": "quenched-saudi-sirloin-skillet--german",
+  "title": "German Sirloin Steak with Pan-Seared Quenched Potatoes",
+  "description": "A classic German dish featuring a tender sirloin steak paired with pan-seared quenched potatoes. This recipe showcases the rich flavors of Germany's culinary heritage.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1-2 steaks, depending on size",
+      "notes": null
+    },
+    {
+      "name": "quenched potatoes",
+      "amount": "2-3 medium-sized potatoes",
+      "notes": "peeled and cut into wedges"
+    },
+    {
+      "name": "saudi oil",
+      "amount": "2-3 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "skillet",
+      "amount": "1 large skillet",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "optional",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Season the sirloin steak with salt, pepper, and garlic powder.",
+    "Add 1-2 tablespoons of saudi oil to the preheated skillet.",
+    "Sear the sirloin steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest.",
+    "Increase the heat to high and add the remaining 1-2 tablespoons of saudi oil to the skillet.",
+    "Add the quenched potatoes to the skillet and cook for 5-7 minutes per side, or until they are golden brown and crispy.",
+    "Serve the pan-seared potatoes alongside the sirloin steak."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": "2-4",
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-saudi-sirloin-skillet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:10:52.442Z"
+}
