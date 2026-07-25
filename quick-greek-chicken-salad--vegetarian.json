@@ -1,0 +1,64 @@
+{
+  "slug": "quick-greek-chicken-salad--vegetarian",
+  "title": "Greek Salad",
+  "description": "A simple and refreshing salad made with traditional Greek ingredients, perfect for a quick and easy meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 pint, diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Greek vinaigrette",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, tomatoes, cucumber, and red onion.",
+    "Top the salad with crumbled feta cheese.",
+    "Drizzle the Greek vinaigrette over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-greek-chicken-salad--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:31:00.104Z"
+}
