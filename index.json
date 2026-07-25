@@ -2535,17 +2535,16 @@
   },
   {
     "slug": "quenched-flaky-mexican-fish-tacos",
-    "title": "Quenched Flaky Mexican Fish Tacos",
+    "title": "Fish Tacos with Mexican Slaw",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "mexican-inspired",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "mexican",
+      "fish-tacos",
+      "tacos",
+      "slaw",
+      "seafood"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 38,
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -20022,6 +20021,32 @@
     ],
     "cuisine": "Caribbean",
     "totalTimeMin": 110,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-butter-japanese-fish-pasta--german",
+    "title": "Pan-Seared Fish with Butter and Pasta",
+    "tags": [
+      "german",
+      "fish",
+      "pasta",
+      "butter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-citrusy-french-chicken-thighs-pasta--italian",
+    "title": "Italian Chicken Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "chicken",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "q"
   }
 ]
