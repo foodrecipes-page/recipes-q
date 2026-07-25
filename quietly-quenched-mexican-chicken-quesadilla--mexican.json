@@ -1,0 +1,86 @@
+{
+  "slug": "quietly-quenched-mexican-chicken-quesadilla--mexican",
+  "title": "Chicken Quesadilla",
+  "description": "A simple and delicious Mexican dish, perfect for a quick weeknight dinner. Juicy chicken, gooey cheese, and crispy tortillas all come together in this classic recipe.",
+  "cuisine": "mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "flour or corn"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "optional for serving"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional for serving"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Season the chicken breasts with Mexican seasoning.",
+    "Cook the chicken in the skillet for 5-6 minutes per side, or until cooked through.",
+    "Shred the cooked chicken with two forks.",
+    "In a separate pan, warm the tortillas over medium heat for 30 seconds on each side.",
+    "Place a large spoonful of shredded chicken onto half of each tortilla.",
+    "Sprinkle shredded cheese over the chicken.",
+    "Fold the tortillas in half to enclose the filling.",
+    "Cook the quesadillas for 2-3 minutes on each side, or until the cheese is melted and the tortillas are crispy.",
+    "Cut the quesadillas into wedges and serve with salsa, sour cream, and chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "quesadilla",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-mexican-chicken-quesadilla--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:24:34.036Z"
+}
