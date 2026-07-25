@@ -1,0 +1,84 @@
+{
+  "slug": "quaint-norwegian-lamb-skewers--italian",
+  "title": "Norwegian Lamb Skewers with Italian Twist",
+  "description": "A fusion of Norwegian lamb and Italian flavors, perfect for a summer evening. Marinate the lamb in Italian herbs and grill to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into bite-sized pieces",
+      "amount": "500g",
+      "notes": "Tender cuts work best for skewers"
+    },
+    {
+      "name": "Italian parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for marinade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers during grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Italian breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "Optional for coating skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (175°C / 350°F).",
+    "In a large bowl, combine lamb pieces, parsley, garlic, lemon juice, salt, and pepper. Toss to coat.",
+    "Thread lamb pieces onto skewers, leaving a small space between each piece.",
+    "If using breadcrumbs, sprinkle a pinch onto each lamb piece.",
+    "Brush skewers with olive oil on both sides.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches 63°C (145°F) for medium-rare.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "norwegian",
+    "lamb",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 6,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-norwegian-lamb-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:48:10.321Z"
+}
