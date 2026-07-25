@@ -19995,5 +19995,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 13,
     "shard": "q"
+  },
+  {
+    "slug": "quick-charred-gooey-german-plum-tomatoes-risotto--gluten-free",
+    "title": "Charred Plum and Tomato Risotto",
+    "tags": [
+      "charred",
+      "plum",
+      "tomato",
+      "risotto",
+      "gluten-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
