@@ -6717,16 +6717,16 @@
   },
   {
     "slug": "quick-fix-egyptian-dish-wrap",
-    "title": "Quick-Fix Egyptian Dish Wrap",
+    "title": "Egyptian Chicken Wrap",
     "tags": [
-      "agave-leaf",
-      "diabetic-friendly",
-      "easy-lunch",
-      "egyptian-cuisine",
-      "high-protein"
+      "egyptian",
+      "chicken",
+      "wrap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 8,
+    "totalTimeMin": 22,
     "shard": "q"
   },
   {
@@ -20227,6 +20227,45 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-german-mushroom-skillet--italian",
+    "title": "Pan-Seared Mushrooms with Crispy German Skillet",
+    "tags": [
+      "italian",
+      "mushroom",
+      "skillet"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-smoky-spanish-cornmeal-tortilla--mexican",
+    "title": "Smoky Spanish Tortilla",
+    "tags": [
+      "mexican",
+      "spanish",
+      "tortilla",
+      "breakfast",
+      "eggs"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-umami-greek-eggplant-stew--vegetarian",
+    "title": "Greek Eggplant Stew",
+    "tags": [
+      "greek",
+      "vegetarian",
+      "eggplant",
+      "stew"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "q"
   }
 ]
