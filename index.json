@@ -8272,17 +8272,14 @@
   },
   {
     "slug": "quick-fried-syrian-black-pudding-fritters",
-    "title": "Quick Fried Syrian Black Pudding Fritters",
+    "title": "Syrian Fried Pudding Fritters",
     "tags": [
-      "deep-fried",
-      "easy-appetizer",
-      "fritters-recipe",
-      "snack-ideas",
-      "syrian-dish",
-      "whole30-friendly"
+      "syrian",
+      "fritters",
+      "dessert"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 16,
+    "totalTimeMin": 23,
     "shard": "q"
   },
   {
@@ -10390,17 +10387,15 @@
   },
   {
     "slug": "quick-roasted-australian-beef-roast",
-    "title": "Quick Roasted Australian Beef Roast",
+    "title": "Australian Beef Roast",
     "tags": [
-      "australian-cuisine",
-      "date-night",
-      "one-pan",
-      "plant-based-friendly",
-      "roasted-beef",
-      "weeknight"
+      "australian",
+      "beef",
+      "roast",
+      "main-course"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 95,
+    "cuisine": "australian",
+    "totalTimeMin": 150,
     "shard": "q"
   },
   {
