@@ -20100,5 +20100,30 @@
     "cuisine": "italian",
     "totalTimeMin": 38,
     "shard": "q"
+  },
+  {
+    "slug": "quick-steaming-japanese-fish-ochazuke--mexican",
+    "title": "Mexican-Style Pan-Seared Fish with Ochazuke Rice",
+    "tags": [
+      "mexican",
+      "fish",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-greek-giant-beans-gigantes-plaki--japanese",
+    "title": "Japanese Giant Beans in Miso Sauce",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "beans"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
