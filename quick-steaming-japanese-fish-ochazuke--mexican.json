@@ -1,0 +1,94 @@
+{
+  "slug": "quick-steaming-japanese-fish-ochazuke--mexican",
+  "title": "Mexican-Style Pan-Seared Fish with Ochazuke Rice",
+  "description": "A fusion dish combining Mexican flavors with Japanese ochazuke rice, perfect for a quick and easy dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (tilapia or cod)",
+      "amount": "4 servings, 6 oz each",
+      "notes": ""
+    },
+    {
+      "name": "Ochazuke rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp ground",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Prepare ochazuke rice according to package instructions.",
+    "2. In a small bowl, mix together lime juice, cumin, chili powder, and garlic.",
+    "3. Season fish fillets with salt and black pepper.",
+    "4. Heat olive oil in a large skillet over medium-high heat.",
+    "5. Add fish fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "6. Transfer cooked fish to a plate and cover with foil to keep warm.",
+    "7. Add the lime juice mixture to the skillet and cook for 1 minute.",
+    "8. Serve fish with ochazuke rice and spoon the lime juice sauce over the top.",
+    "9. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "fish",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steaming-japanese-fish-ochazuke--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:01:39.079Z"
+}
