@@ -1,0 +1,89 @@
+{
+  "slug": "quick-grilled-brazilian-chicken-skewers--japanese",
+  "title": "Yakitori Chicken Skewers",
+  "description": "Japanese-style grilled chicken skewers, marinated in a sweet soy sauce mixture.",
+  "cuisine": "japanese",
+  "diet": [
+    "poultry",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast, boneless and skinless",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper, to taste",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Quick skewers (or bamboo skewers)",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together soy sauce, sake, sesame oil, and sugar.",
+    "2. Add the chicken pieces to the marinade and mix well.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours.",
+    "4. Preheat grill to medium-high heat.",
+    "5. Thread the marinated chicken onto the skewers.",
+    "6. Season with salt and pepper to taste.",
+    "7. Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "8. Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-grilled-brazilian-chicken-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:14:19.731Z"
+}
