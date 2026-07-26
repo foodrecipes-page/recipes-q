@@ -1,0 +1,80 @@
+{
+  "slug": "quick-fix-egyptian-dish-wrap",
+  "title": "Egyptian Chicken Wrap",
+  "description": "A flavorful and quick Egyptian-inspired chicken wrap recipe. Serve with your favorite sides for a delicious meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Fix wrap",
+      "amount": "4-6",
+      "notes": "Large flour tortillas"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Slice"
+    },
+    {
+      "name": "Quick hummus",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 tablespoon",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with salt, pepper, and your favorite spices.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Warm the wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread the hummus on the wrap, leaving a small border around the edges.",
+    "Add the cooked chicken, cucumber, tomato, and parsley on top of the hummus.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "chicken",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-egyptian-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:24:28.227Z"
+}
