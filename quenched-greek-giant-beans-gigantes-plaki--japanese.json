@@ -1,0 +1,73 @@
+{
+  "slug": "quenched-greek-giant-beans-gigantes-plaki--japanese",
+  "title": "Japanese Giant Beans in Miso Sauce",
+  "description": "A hearty and flavorful Japanese-inspired dish featuring giant beans in a rich miso sauce. Serve with steamed rice and your favorite stir-fried vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "giant beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "quenched soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "greek olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup, sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat.",
+    "Add onions and cook until softened, about 3 minutes.",
+    "Add miso paste and cook for 1 minute, stirring constantly.",
+    "Add soy sauce, mirin, and sugar. Bring to a simmer.",
+    "Add giant beans and cook for 5 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-greek-giant-beans-gigantes-plaki--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:02:37.646Z"
+}
