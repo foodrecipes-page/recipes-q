@@ -1,0 +1,89 @@
+{
+  "slug": "quietly-nutty-egyptian-lentil-curry--indian",
+  "title": "Egyptian Lentil Curry",
+  "description": "A flavorful and nutritious Indian-inspired lentil curry made with aromatic spices and a hint of nuttiness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "250g",
+      "notes": "red or brown"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "quietly roasted peanuts",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "egyptian coriander",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add garam masala and cook for 1 minute, stirring constantly.",
+    "Add lentils, coriander, salt, and 2 cups of water.",
+    "Bring to a boil, then reduce heat and simmer for 20-25 minutes, or until lentils are tender.",
+    "Stir in peanuts and cook for an additional 5 minutes.",
+    "Serve hot, garnished with additional peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "18g",
+    "carbs": "50g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-nutty-egyptian-lentil-curry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:43:55.176Z"
+}
