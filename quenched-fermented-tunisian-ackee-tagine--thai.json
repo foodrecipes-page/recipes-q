@@ -1,0 +1,82 @@
+{
+  "slug": "quenched-fermented-tunisian-ackee-tagine--thai",
+  "title": "Spicy Ackee and Quenched Tagine Fritters",
+  "description": "A unique Thai-inspired fritter recipe combining fermented ackee with a quenched twist on traditional tagine flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 (14 oz) can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Quenched",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tunisian Tagine Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Thai Red Chili Paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F (180°C).",
+    "In a bowl, combine ackee, quenched, tagine spice blend, chili paste, flour, baking powder, and salt.",
+    "Mix well until a dough forms.",
+    "Using a spoon, drop small balls of dough into the hot oil.",
+    "Fry the fritters until golden brown and crispy.",
+    "Drain the fritters on paper towels.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "ackee",
+    "quenched"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-fermented-tunisian-ackee-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:56:56.195Z"
+}
