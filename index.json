@@ -20192,5 +20192,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 15,
     "shard": "q"
+  },
+  {
+    "slug": "quick-grilled-brazilian-chicken-skewers--japanese",
+    "title": "Yakitori Chicken Skewers",
+    "tags": [
+      "chicken",
+      "grilled",
+      "skewers",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
