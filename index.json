@@ -5125,16 +5125,15 @@
   },
   {
     "slug": "quick-caramel-turkish-eggplant-kebabs",
-    "title": "Quick Caramel Turkish Eggplant Kebabs",
+    "title": "Turkish-style Grilled Eggplant with Caramelized Onions",
     "tags": [
-      "caramel-glaze",
-      "grilled-vegetables",
-      "middle-eastern",
-      "quick-dinner",
-      "vegetarian-friendly"
+      "eggplant",
+      "turkish",
+      "grilled",
+      "caramelized"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 27,
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -8388,12 +8387,11 @@
     "title": "German Beef Hash",
     "tags": [
       "german",
-      "beef",
-      "hash",
-      "breakfast"
+      "beef-hash",
+      "breakfast-dish"
     ],
     "cuisine": "german",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
