@@ -11896,18 +11896,15 @@
   },
   {
     "slug": "quick-steamed-greek-cabbage-salad",
-    "title": "Quick Steamed Greek Cabbage Salad",
+    "title": "Steamed Cabbage Salad",
     "tags": [
       "greek",
-      "mediterranean",
-      "one-pan",
-      "quick-and-easy",
       "salad",
-      "summer",
-      "vegetarian"
+      "lunch",
+      "healthy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -20261,6 +20258,43 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-dense-german-burger-slider--vegan",
+    "title": "Vegan German Slider Burger",
+    "tags": [
+      "vegan",
+      "german",
+      "burger"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-egyptian-dish-wrap--vegan",
+    "title": "Egyptian Vegan Wrap",
+    "tags": [
+      "vegan",
+      "egyptian",
+      "wrap",
+      "snack"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-venezuelan-plantain-empanadas--french",
+    "title": "French Plantain Empanadas",
+    "tags": [
+      "empanadas",
+      "plantain",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
