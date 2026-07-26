@@ -1,0 +1,77 @@
+{
+  "slug": "quietly-umami-greek-eggplant-stew--vegetarian",
+  "title": "Greek Eggplant Stew",
+  "description": "A hearty and flavorful vegetarian stew originating from Greece, packed with eggplant, stewing in a rich umami broth.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14.5 oz)",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "quietly",
+      "amount": "1 small onion, chopped",
+      "notes": null
+    },
+    {
+      "name": "umami",
+      "amount": "2 cloves garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "Greek",
+      "amount": "1 cup feta cheese, crumbled",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add diced eggplant and cook until tender, about 10 minutes.",
+    "Stir in stew, feta cheese, and lemon juice.",
+    "Bring the mixture to a simmer and cook until heated through.",
+    "Serve hot, garnished with extra lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "eggplant",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-umami-greek-eggplant-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:48:57.164Z"
+}
