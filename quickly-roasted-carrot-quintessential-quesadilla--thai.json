@@ -1,0 +1,89 @@
+{
+  "slug": "quickly-roasted-carrot-quintessential-quesadilla--thai",
+  "title": "Quick Thai Carrot Quesadilla",
+  "description": "A twist on traditional quesadillas, this Thai-inspired dish combines roasted carrots with a crispy tortilla and creamy sauce. This recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrot",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for roasting carrots"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and chop carrots into 1-inch sticks.",
+    "Toss carrots with coconut oil, soy sauce, honey, garlic, cumin, and chili flakes. Roast for 20-25 minutes, or until tender.",
+    "In a pan, warm a tortilla over medium heat.",
+    "Place a portion of roasted carrots onto half of the tortilla.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes, until the tortilla is crispy and the filling is heated through.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until crispy and golden.",
+    "Cut into wedges and serve with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "thaifood",
+    "vegetarian",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-roasted-carrot-quintessential-quesadilla--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:53:34.299Z"
+}
