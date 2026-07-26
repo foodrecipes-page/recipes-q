@@ -1,0 +1,57 @@
+{
+  "slug": "quick-roasted-australian-beef-roast",
+  "title": "Australian Beef Roast",
+  "description": "A hearty and flavorful roast beef dish from Australia, perfect for special occasions. This recipe serves a crowd and is sure to impress.",
+  "cuisine": "australian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef roast",
+      "amount": "2.5-3 kg",
+      "notes": "chuck or round cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "",
+      "name2": "salt",
+      "amount2": "1 tsp",
+      "notes2": "",
+      "name3": "pepper",
+      "amount3": "1 tsp",
+      "notes3": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Rinse the beef roast and pat it dry with paper towels.",
+    "Season the roast with salt and pepper.",
+    "Heat olive oil in a large oven-safe skillet over high heat. Sear the roast for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes per kilogram, or until the internal temperature reaches 63°C (145°F) for medium-rare.",
+    "Let the roast rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "beef",
+    "roast",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 1240,
+    "protein": 92,
+    "carbs": 0,
+    "fat": 90
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-australian-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:15:44.300Z"
+}
