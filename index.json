@@ -20138,5 +20138,32 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-braised-slovakian-pork-dumplings--mexican",
+    "title": "Slovakian-Style Braised Pork Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "braised",
+      "pork",
+      "dumplings"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-nutty-egyptian-lentil-curry--indian",
+    "title": "Egyptian Lentil Curry",
+    "tags": [
+      "indian",
+      "lentil",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "q"
   }
 ]
