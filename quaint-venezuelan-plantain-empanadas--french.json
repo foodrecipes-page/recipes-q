@@ -1,0 +1,69 @@
+{
+  "slug": "quaint-venezuelan-plantain-empanadas--french",
+  "title": "French Plantain Empanadas",
+  "description": "A French twist on the traditional Venezuelan empanada, filled with caramelized plantain.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "Vegetable Shortening",
+      "amount": "1/4 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Peel the plantains and slice into 1-inch rounds.",
+    "2. In a large skillet, heat 2 tablespoons of vegetable shortening over medium heat.",
+    "3. Add the plantain slices and cook, stirring occasionally, until caramelized and golden brown.",
+    "4. In a separate bowl, combine flour, salt, and granulated sugar (if using).",
+    "5. Gradually add the shortening to the dry ingredients and mix until a dough forms.",
+    "6. Divide the dough into 8 equal pieces.",
+    "7. Roll each piece into a ball and then flatten into a disk.",
+    "8. Place a few slices of caramelized plantain in the center of each disk.",
+    "9. Fold the dough over the filling and press the edges together to seal.",
+    "10. Brush tops with a little water and bake in a preheated oven at 375°F (190°C) for 15-20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "plantain",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-venezuelan-plantain-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:40:14.363Z"
+}
