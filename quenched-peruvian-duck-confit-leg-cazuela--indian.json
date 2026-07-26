@@ -1,0 +1,96 @@
+{
+  "slug": "quenched-peruvian-duck-confit-leg-cazuela--indian",
+  "title": "Peruvian-Style Duck Cazuela",
+  "description": "A flavorful and aromatic Indian-inspired stew made with tender duck, peruvian spices and crispy confit potatoes.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Confit Potatoes",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Duck Leg",
+      "amount": "1 whole",
+      "notes": null
+    },
+    {
+      "name": "Quenched Duck Fat",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Peruvian Cazuela Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the duck fat in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for an additional 2 minutes.",
+    "Add the duck leg and cook until browned on all sides, about 5 minutes.",
+    "Add the Peruvian Cazuela Spice Mix and cook for 1 minute.",
+    "Add the tomato and cook until the mixture is heated through, about 5 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the confit potatoes and cook for an additional 10 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stew",
+    "duck",
+    "cazuela"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-peruvian-duck-confit-leg-cazuela--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:32:34.806Z"
+}
