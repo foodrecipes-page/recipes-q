@@ -1,0 +1,86 @@
+{
+  "slug": "quick-dense-german-burger-slider--vegan",
+  "title": "Vegan German Slider Burger",
+  "description": "A flavorful and filling vegan slider burger inspired by traditional German cuisine.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "barbecue sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegan"
+    },
+    {
+      "name": "whole wheat bun",
+      "amount": "1",
+      "notes": "split in half"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "mashed"
+    },
+    {
+      "name": "vegan mayo",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a pan, sauté the onion and mushrooms until softened.",
+    "Add the cooked black beans, barbecue sauce, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until heated through.",
+    "Meanwhile, toast the bun on the grill or in a toaster.",
+    "Assemble the sliders by spreading the mashed avocado on the bottom bun, followed by a spoonful of the black bean mixture, lettuce, tomato, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "german",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-dense-german-burger-slider--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:34:39.805Z"
+}
