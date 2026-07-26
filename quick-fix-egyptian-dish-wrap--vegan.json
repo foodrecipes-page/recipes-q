@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fix-egyptian-dish-wrap--vegan",
+  "title": "Egyptian Vegan Wrap",
+  "description": "A flavorful and healthy vegan wrap filled with Egyptian-inspired ingredients. Serve as a snack or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Quick pickled turnips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fixings of hummus",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian-style falafel",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle to medium-high heat.",
+    "Cook the Egyptian-style falafel for 3-4 minutes on each side, until crispy and golden brown.",
+    "Warm the whole wheat wrap in the oven for 2-3 minutes, or lightly toast it on the pan.",
+    "Spread 1-2 tablespoons of hummus on the wrap.",
+    "Add 4 cooked falafel on top of the hummus.",
+    "Add mixed greens and chopped parsley on top of the falafel.",
+    "Drizzle with quick pickled turnips.",
+    "Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "egyptian",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-egyptian-dish-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:26:46.226Z"
+}
