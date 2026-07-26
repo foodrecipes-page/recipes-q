@@ -20125,5 +20125,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-peruvian-duck-confit-leg-cazuela--indian",
+    "title": "Peruvian-Style Duck Cazuela",
+    "tags": [
+      "indian",
+      "stew",
+      "duck",
+      "cazuela"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
