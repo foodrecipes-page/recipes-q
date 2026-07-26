@@ -1,0 +1,87 @@
+{
+  "slug": "quenched-smoky-spanish-cornmeal-tortilla--mexican",
+  "title": "Smoky Spanish Tortilla",
+  "description": "A Mexican twist on the classic Spanish tortilla, adding smoky flavor from chipotle peppers.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "smoked chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "quenched tortilla",
+      "amount": "1",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cornmeal",
+      "amount": "1/4 cup",
+      "notes": "to thicken the tortilla mixture"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "such as queso fresco or Monterey Jack"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute more.",
+    "Add the diced chipotle peppers and cook for 1 minute.",
+    "Add the tortilla pieces and cook until they start to brown, about 3-4 minutes.",
+    "In a large bowl, whisk together the beaten eggs and a pinch of salt and pepper.",
+    "Add the cooked tortilla mixture to the bowl and stir in the cornmeal and shredded cheese.",
+    "Pour the mixture into a greased 9-inch (23cm) round baking dish.",
+    "Bake for 35-40 minutes, or until the edges are golden brown and the center is set.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "spanish",
+    "tortilla",
+    "breakfast",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-smoky-spanish-cornmeal-tortilla--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:32:01.517Z"
+}
