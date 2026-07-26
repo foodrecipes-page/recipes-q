@@ -1,0 +1,78 @@
+{
+  "slug": "quaint-malty-egyptian-chickpeas-wrap--keto",
+  "title": "Egyptian Keto Chickpea Wrap",
+  "description": "A keto twist on the classic Middle Eastern wrap, made with chickpeas and wrapped in a low-carb wrap.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "quaint",
+      "amount": "2 tbsp",
+      "notes": "malty Egyptian spice blend"
+    },
+    {
+      "name": "malty",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 low-carb wrap",
+      "notes": "made from almond flour or coconut flour"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Add the quaint (Egyptian spice blend) to the skillet and let it toast for 1 minute.",
+    "Add the chickpeas to the skillet and cook for 3-4 minutes, or until they are lightly browned.",
+    "Add the malty and egyptian spices to the skillet and stir to combine.",
+    "Warm the low-carb wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spooning the chickpea mixture onto the center of the wrap.",
+    "Add salt and pepper to taste.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up tightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "middle-eastern",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-malty-egyptian-chickpeas-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:35:46.663Z"
+}
