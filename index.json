@@ -20165,5 +20165,32 @@
     "cuisine": "indian",
     "totalTimeMin": 50,
     "shard": "q"
+  },
+  {
+    "slug": "quickly-roasted-carrot-quintessential-quesadilla--thai",
+    "title": "Quick Thai Carrot Quesadilla",
+    "tags": [
+      "quick",
+      "thaifood",
+      "vegetarian",
+      "lunch",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-malty-egyptian-chickpeas-wrap--keto",
+    "title": "Egyptian Keto Chickpea Wrap",
+    "tags": [
+      "keto",
+      "low-carb",
+      "middle-eastern",
+      "easy"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
+    "shard": "q"
   }
 ]
