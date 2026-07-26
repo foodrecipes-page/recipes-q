@@ -1,0 +1,103 @@
+{
+  "slug": "quick-braised-slovakian-pork-dumplings--mexican",
+  "title": "Slovakian-Style Braised Pork Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring slow-cooked Slovakian-style braised pork, served with warm flour tortillas and crispy dumplings.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dumpling mix",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "6-8",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork pieces on all sides, then remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds, flour, chicken broth, tomato paste, cumin, and paprika.",
+    "Stir to combine, then return the pork to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer to the oven.",
+    "Braise the pork for 2 1/2 hours, or until tender.",
+    "While the pork is cooking, prepare the dumplings according to the package instructions.",
+    "When the pork is done, remove from the oven and stir in the cooked dumplings.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the pork and dumplings onto a tortilla, followed by any desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "braised",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-slovakian-pork-dumplings--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:09:07.819Z"
+}
