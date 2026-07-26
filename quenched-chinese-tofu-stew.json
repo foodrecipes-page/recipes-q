@@ -1,0 +1,80 @@
+{
+  "slug": "quenched-chinese-tofu-stew",
+  "title": "Stewed Tofu with Vegetables",
+  "description": "A hearty and comforting stew made with tender tofu and mixed vegetables, perfect for a cold day.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm tofu"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "vegetable-based stew"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cups",
+      "notes": "mixed vegetables"
+    },
+    {
+      "name": "quenched",
+      "amount": "2 tablespoons",
+      "notes": "chopped green onions for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the chopped green onions and sauté for 2 minutes.",
+    "Add the stew and cook for 5 minutes.",
+    "Add the mixed vegetables and cook for 3 minutes.",
+    "Add the tofu and stir to combine.",
+    "Season with soy sauce, salt, and pepper to taste.",
+    "Simmer for 10-15 minutes or until the vegetables are tender.",
+    "Serve hot and garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stew",
+    "tofu",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-chinese-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:31:41.774Z"
+}
