@@ -2203,16 +2203,15 @@
   },
   {
     "slug": "quenched-chinese-tofu-stew",
-    "title": "Quenched Chinese Tofu Stew",
+    "title": "Stewed Tofu with Vegetables",
     "tags": [
-      "hangover-cure",
-      "kosher-friendly",
-      "malty",
-      "quick",
+      "chinese",
       "stew",
-      "tofu"
+      "tofu",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Chinese",
+    "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "q"
   },
