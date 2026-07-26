@@ -1,0 +1,66 @@
+{
+  "slug": "quick-steamed-greek-cabbage-salad",
+  "title": "Steamed Cabbage Salad",
+  "description": "A simple and healthy salad made with steamed cabbage and other tasty ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "quick salad dressing",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "greek salad",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cut the cabbage into small pieces and steam it until tender.",
+    "2. In a separate bowl, mix together the salad dressing and Greek salad.",
+    "3. Add the steamed cabbage to the bowl and toss to coat.",
+    "4. Season with salt and pepper to taste.",
+    "5. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "salad",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-greek-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:43:50.958Z"
+}
