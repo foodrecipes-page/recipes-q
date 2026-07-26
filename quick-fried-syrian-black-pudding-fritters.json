@@ -1,0 +1,73 @@
+{
+  "slug": "quick-fried-syrian-black-pudding-fritters",
+  "title": "Syrian Fried Pudding Fritters",
+  "description": "A sweet and crispy dessert featuring fried pudding fritters inspired by Syrian cuisine. These bite-sized treats are perfect for snacking.",
+  "cuisine": "Syrian",
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 package, store-bought"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 inches deep, frying pan"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup, for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine crumbled black pudding and beaten eggs. Mix until well combined.",
+    "Add confectioners sugar, vanilla extract, and all-purpose flour to the bowl. Mix until a thick batter forms.",
+    "Heat 2 inches of vegetable oil in a frying pan over medium heat.",
+    "Using a spoon, drop small balls of the pudding batter into the hot oil.",
+    "Fry fritters until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, remove fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "Dust the fritters with powdered sugar and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "fritters",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-syrian-black-pudding-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:17:59.716Z"
+}
