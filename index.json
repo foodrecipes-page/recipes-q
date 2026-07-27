@@ -14678,17 +14678,15 @@
   },
   {
     "slug": "quietly-quenched-canadian-tofu-noodles",
-    "title": "Quietly Quenched Canadian Tofu Noodles",
+    "title": "Canadian Quenched Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "umami-rich",
-      "weeknight"
+      "canadian",
+      "stir-fry",
+      "noodles",
+      "tofu"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -20309,6 +20307,45 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 27,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-poached-thai-ground-poppy-seeds-noodles--german",
+    "title": "German Thai Noodle Stir Fry",
+    "tags": [
+      "german",
+      "thai",
+      "stir-fry",
+      "noodles",
+      "pork"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-rich-polish-rye-bread-toast--indian",
+    "title": "Rye Bread Toast with Indian Spices",
+    "tags": [
+      "indian",
+      "snack",
+      "breakfast"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 7,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-pungent-mexican-cheese-chiles-rellenos--indian",
+    "title": "Spiced Stuffed Peppers with Mexican Influence",
+    "tags": [
+      "indian",
+      "mexican",
+      "vegetarian",
+      "stuffed-peppers"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "q"
   }
 ]
