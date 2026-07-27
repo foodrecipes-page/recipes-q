@@ -11003,17 +11003,17 @@
   },
   {
     "slug": "quick-savory-japanese-tofu-shoyu-ramen",
-    "title": "Quick Savory Japanese Tofu Shoyu Ramen",
+    "title": "Japanese Tofu Ramen",
     "tags": [
-      "italian-seasoning",
-      "japanese-cuisine",
-      "quick-fix",
-      "ramen-shoyu",
-      "stir-fry",
-      "vegan-friendly"
+      "japanese",
+      "quick",
+      "savory",
+      "ramen",
+      "tofu",
+      "shoyu"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
