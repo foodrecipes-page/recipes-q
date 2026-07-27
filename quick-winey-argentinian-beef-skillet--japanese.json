@@ -1,0 +1,86 @@
+{
+  "slug": "quick-winey-argentinian-beef-skillet--japanese",
+  "title": "Tokyo-Style Skillet Beef Teriyaki",
+  "description": "A flavorful and savory dish inspired by the streets of Tokyo, featuring tender beef and a sweet teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skirt steak",
+      "amount": "1.5 pounds",
+      "notes": "Beef"
+    },
+    {
+      "name": "Quick teriyaki sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Wine",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Argentinian red wine vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "Cooking vessel"
+    }
+  ],
+  "instructions": [
+    "1. Preheat your skillet over medium-high heat.",
+    "2. In a small bowl, whisk together teriyaki sauce, red wine vinegar, brown sugar, ginger, garlic, and soy sauce.",
+    "3. Add the skirt steak to the skillet and cook for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Remove the steak from the skillet and let it rest.",
+    "5. Reduce heat to medium and add the whisked sauce to the skillet.",
+    "6. Simmer the sauce for 2-3 minutes, or until it thickens slightly.",
+    "7. Slice the steak against the grain and serve with the teriyaki sauce spooned over the top.",
+    "8. Garnish with sesame seeds and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "skillet",
+    "japanesecuisine",
+    "teriyaki"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-winey-argentinian-beef-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:32:06.049Z"
+}
