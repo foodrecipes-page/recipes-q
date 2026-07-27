@@ -1,0 +1,72 @@
+{
+  "slug": "quietly-quenched-canadian-tofu-noodles",
+  "title": "Canadian Quenched Noodle Stir Fry",
+  "description": "A simple and savory stir fry made with Canadian noodles, tofu, and a hint of quieted spices.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh or frozen"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "firm or soft as preferred"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "quietly seasoned oil",
+      "amount": "2 tbsp",
+      "notes": "e.g., sesame or vegetable oil"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "quiet spices",
+      "amount": "to taste",
+      "notes": "e.g., garlic powder, ginger powder"
+    }
+  ],
+  "instructions": [
+    "Heat the calmly seasoned oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown and crispy on all sides.",
+    "Add the Canadian noodles to the skillet or wok and stir to combine with the tofu.",
+    "Pour in the soy sauce and quietly seasoned oil, and stir to coat the noodles and tofu evenly.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "stir-fry",
+    "noodles",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-canadian-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:12:05.581Z"
+}
