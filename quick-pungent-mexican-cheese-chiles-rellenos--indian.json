@@ -1,0 +1,89 @@
+{
+  "slug": "quick-pungent-mexican-cheese-chiles-rellenos--indian",
+  "title": "Spiced Stuffed Peppers with Mexican Influence",
+  "description": "A fusion of Indian and Mexican flavors, these stuffed peppers are a flavorful twist on traditional stuffed peppers.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "mexican style"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut off the tops of the bell peppers and remove seeds and membranes.",
+    "In a large skillet, heat oil over medium-high heat. Add onion and cook until softened.",
+    "Add garlic, cumin, coriander, and cayenne pepper (if using) and cook for 1 minute.",
+    "Stir in chili powder and cook for an additional minute.",
+    "Stuff each bell pepper with the mixture and top with shredded cheese.",
+    "Place peppers in a baking dish and cover with foil.",
+    "Bake for 25 minutes, then remove foil and bake for an additional 10-15 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mexican",
+    "vegetarian",
+    "stuffed-peppers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-pungent-mexican-cheese-chiles-rellenos--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:41:42.748Z"
+}
