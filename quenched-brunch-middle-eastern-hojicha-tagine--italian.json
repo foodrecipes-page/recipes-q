@@ -1,0 +1,90 @@
+{
+  "slug": "quenched-brunch-middle-eastern-hojicha-tagine--italian",
+  "title": "Middle Eastern-Italian Hojicha Brunch Tagine",
+  "description": "A fusion of Italian and Middle Eastern flavors in a traditional tagine dish, featuring hojicha tea-infused chicken and served with a side of quinoa.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Hojicha tea",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken breast pieces and cook until browned, about 5-7 minutes.",
+    "Add the hojicha tea, diced tomatoes, chicken broth, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in the remaining 1 tablespoon of olive oil. Taste and adjust seasoning as needed.",
+    "Serve the chicken and sauce over quinoa.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "middle-eastern",
+    "hojicha",
+    "brunch",
+    "quinoa"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-brunch-middle-eastern-hojicha-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:43:05.334Z"
+}
