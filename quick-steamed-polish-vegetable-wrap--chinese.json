@@ -1,0 +1,51 @@
+{
+  "slug": "quick-steamed-polish-vegetable-wrap--chinese",
+  "title": "Steamed Dumplings with Polish Wrap",
+  "description": "Steamed dumplings wrapped in polish wrap with a delicious dipping sauce. A tasty and healthy Chinese dish.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "lowcalorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish wrap",
+      "amount": "4-5 sheets"
+    },
+    {
+      "name": "Quick mix of vegetables",
+      "amount": "1 cup",
+      "notes": "such as cabbage, carrots, and scallions"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine quick mix of vegetables.",
+    "2. Lay a polish wrap flat and place a spoonful of vegetable mix in the center of the wrap.",
+    "3. Fold the bottom half of the wrap over the filling, then fold in the sides and roll up the wrap to form a tight cylinder.",
+    "4. Repeat with the remaining wraps and filling.",
+    "5. In a steamer basket, place the dumplings seam-side down.",
+    "6. Steam the dumplings over boiling water for 10-12 minutes, or until cooked through.",
+    "7. In a small bowl, mix together vegetable oil and a pinch of salt.",
+    "8. Serve the steamed dumplings with the dipping sauce and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "healthy",
+    "vegetarian",
+    "dip"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-polish-vegetable-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:21:19.700Z"
+}
