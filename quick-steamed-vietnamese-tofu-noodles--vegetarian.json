@@ -1,0 +1,92 @@
+{
+  "slug": "quick-steamed-vietnamese-tofu-noodles--vegetarian",
+  "title": "Vietnamese Tofu Noodle Soup",
+  "description": "A light and flavorful Vietnamese-inspired noodle soup made with steamed tofu and quick-cooked vegetables. Perfect for a quick and easy lunch.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "steamed"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish-free broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the fish-free broth to a boil in a large pot.",
+    "Reduce the heat and add the soy sauce, rice vinegar, and sugar. Stir to combine.",
+    "Add the steamed tofu and cook for 2-3 minutes.",
+    "Add the mushrooms, bell peppers, and bean sprouts. Cook for an additional 2-3 minutes.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Season with sesame oil and serve hot.",
+    "Garnish with sliced green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "noodle-soup",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-vietnamese-tofu-noodles--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:14:21.586Z"
+}
