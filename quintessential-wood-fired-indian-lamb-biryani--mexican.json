@@ -1,0 +1,92 @@
+{
+  "slug": "quintessential-wood-fired-indian-lamb-biryani--mexican",
+  "title": "Indian-Style Lamb Biryani",
+  "description": "A flavorful fusion of Indian and Mexican cuisines, featuring lamb and aromatic spices, cooked to perfection in a wood-fired clay pot.",
+  "cuisine": "mexican",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wood-fired clay pot over medium heat.",
+    "Add onion, ginger, cumin, coriander, turmeric, and red chili powder. Cook until onion is translucent.",
+    "Add lamb shoulder and cook until browned on all sides.",
+    "Add basmati rice, salt, and water. Stir well.",
+    "Cover the pot and cook over low heat for 20 minutes.",
+    "Turn off heat and let it rest for 5 minutes.",
+    "Fluff the biryani with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "biryani",
+    "indian-mexican",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-wood-fired-indian-lamb-biryani--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:56:49.987Z"
+}
