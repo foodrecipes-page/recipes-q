@@ -1,0 +1,89 @@
+{
+  "slug": "quick-fix-norwegian-beef-borscht--vegan",
+  "title": "Beefless Borscht",
+  "description": "A hearty, vegan take on the traditional Eastern European beet soup, using mushrooms for a meaty twist.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as cremini or shiitake"
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "White vinegar",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tbsp",
+      "notes": "make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the beets, carrots, onions, and garlic. Cook for 5 minutes, stirring occasionally.",
+    "Add the vegetable broth, tomato paste, and vinegar (if using). Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Stir in the ketchup. Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh dill or chives (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "borscht",
+    "vegan",
+    "soup",
+    "lentil-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-norwegian-beef-borscht--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:45:19.095Z"
+}
