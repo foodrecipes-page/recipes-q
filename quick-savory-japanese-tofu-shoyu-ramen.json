@@ -1,0 +1,79 @@
+{
+  "slug": "quick-savory-japanese-tofu-shoyu-ramen",
+  "title": "Japanese Tofu Ramen",
+  "description": "A quick and savory Japanese-inspired ramen dish featuring tofu and shoyu. Ready in under 30 minutes.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml",
+      "notes": null
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Cook ramen noodles according to package instructions. Drain and set aside.",
+    "In a large pot, combine vegetable broth and sliced ginger. Bring to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Add tofu to the pot and cook for an additional 3-4 minutes.",
+    "Stir in shoyu and cook for 1 minute.",
+    "To assemble the ramen, place noodles in a bowl, then top with tofu and vegetable broth.",
+    "Garnish with chopped green onion and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "quick",
+    "savory",
+    "ramen",
+    "tofu",
+    "shoyu"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": "25g",
+    "carbs": "70g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-japanese-tofu-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:07:45.557Z"
+}
