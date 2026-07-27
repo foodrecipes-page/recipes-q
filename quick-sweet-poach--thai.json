@@ -1,0 +1,84 @@
+{
+  "slug": "quick-sweet-poach--thai",
+  "title": "Sweet Poached Salmon with Mango Chutney",
+  "description": "A delicious Thai-inspired dish featuring poached salmon, sweet mango chutney, and fresh herbs.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "mango",
+      "amount": "2",
+      "notes": "ripe and diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "quick rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "sweet Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat poaching liquid to 145°F (63°C).",
+    "Poach salmon fillets for 8-10 minutes or until cooked through.",
+    "Meanwhile, combine mango, red onion, fish sauce, honey, and chili flakes in a bowl.",
+    "Mix well and adjust seasoning to taste.",
+    "To serve, place a poached salmon fillet on each plate, top with mango chutney, and garnish with sweet Thai basil.",
+    "Serve with cooked quick rice on the side.",
+    "Adjust seasoning as needed and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "grilled",
+    "mango",
+    "sweet",
+    "poach"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-sweet-poach--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:35:03.859Z"
+}
