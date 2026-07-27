@@ -1,0 +1,66 @@
+{
+  "slug": "quick-buttery-egyptian-tahini-pasta",
+  "title": "Egyptian Pasta with Tahini Sauce",
+  "description": "A creamy and flavorful pasta dish inspired by Egyptian cuisine, featuring a tahini sauce and quick-cooked pasta.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": "Quick-cooking pasta of your choice"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": "Creamy tahini paste"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter for added flavor"
+    },
+    {
+      "name": "Quick",
+      "amount": "2 cloves",
+      "notes": "Minced garlic for added depth"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "1 tsp",
+      "notes": "Ground cumin for a Middle Eastern twist"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a blender or food processor, combine tahini, buttery, Quick, and Egyptian, and blend until smooth.",
+    "Once the pasta is cooked, drain it and return it to the pot.",
+    "Add the tahini sauce to the pasta and toss to coat.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "tahini",
+    "egyptian",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-buttery-egyptian-tahini-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:01:09.455Z"
+}
