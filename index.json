@@ -20384,5 +20384,32 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-quenched-uruguayan-melon-salad--japanese",
+    "title": "Japanese Melon Salad",
+    "tags": [
+      "japanese",
+      "salad",
+      "melon",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-norwegian-beef-borscht--vegan",
+    "title": "Beefless Borscht",
+    "tags": [
+      "beets",
+      "borscht",
+      "vegan",
+      "soup",
+      "lentil-free"
+    ],
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
