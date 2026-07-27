@@ -20437,5 +20437,47 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quick-winey-argentinian-beef-skillet--japanese",
+    "title": "Tokyo-Style Skillet Beef Teriyaki",
+    "tags": [
+      "beef",
+      "skillet",
+      "japanesecuisine",
+      "teriyaki"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-sweet-poach--thai",
+    "title": "Sweet Poached Salmon with Mango Chutney",
+    "tags": [
+      "thai",
+      "fish",
+      "grilled",
+      "mango",
+      "sweet",
+      "poach"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-dense-turkish-baked-beans-pide--german",
+    "title": "Turkish-Style German Bean Pide",
+    "tags": [
+      "german",
+      "turkish",
+      "pide",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
