@@ -20505,5 +20505,32 @@
     "cuisine": "mexican",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quaintly-flaky-middle-eastern-kabocha-tagine--french",
+    "title": "French-Style Kabocha and Middle Eastern Tagine",
+    "tags": [
+      "french",
+      "middle-eastern",
+      "squash",
+      "tagine",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-kebab-aubergine-quesadilla--indian",
+    "title": "Aubergine Kebab",
+    "tags": [
+      "aubergine",
+      "kebab",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "q"
   }
 ]
