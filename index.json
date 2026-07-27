@@ -20479,5 +20479,31 @@
     "cuisine": "german",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-polish-vegetable-wrap--chinese",
+    "title": "Steamed Dumplings with Polish Wrap",
+    "tags": [
+      "chinese",
+      "healthy",
+      "vegetarian",
+      "dip"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-wood-fired-indian-lamb-biryani--mexican",
+    "title": "Indian-Style Lamb Biryani",
+    "tags": [
+      "lamb",
+      "biryani",
+      "indian-mexican",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
