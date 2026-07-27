@@ -1,0 +1,92 @@
+{
+  "slug": "quick-poached-thai-ground-poppy-seeds-noodles--german",
+  "title": "German Thai Noodle Stir Fry",
+  "description": "A spicy and savory stir fry made with Thai noodles, quick-cooked ground meat, and topped with crunchy seeds.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thai noodles",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Ground pork",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Quick stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced onions",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Sliced mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook Thai noodles according to package instructions.",
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add sliced onions and cook until translucent.",
+    "Add sliced bell peppers and cook for 2-3 minutes.",
+    "Add sliced mushrooms and cook until tender.",
+    "Add ground pork and cook until browned.",
+    "Add stir-fry sauce and stir to combine.",
+    "Add cooked noodles to the pan and toss to combine.",
+    "Top with poppy seeds and season with salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "thai",
+    "stir-fry",
+    "noodles",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-poached-thai-ground-poppy-seeds-noodles--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:10:03.140Z"
+}
