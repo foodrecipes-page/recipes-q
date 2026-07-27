@@ -1,0 +1,70 @@
+{
+  "slug": "quick-quenched-uruguayan-melon-salad--japanese",
+  "title": "Japanese Melon Salad",
+  "description": "A refreshing Japanese-inspired salad made with fresh melon and a hint of sweet and sour flavors.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "melon",
+      "amount": "1 small melon, diced"
+    },
+    {
+      "name": "quenched uruguayan salad",
+      "amount": "4 cups, torn"
+    },
+    {
+      "name": "quick pickled ginger",
+      "amount": "1/4 cup, thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the diced melon and torn salad.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, sugar, and salt until dissolved.",
+    "Pour the dressing over the melon and salad, and toss to combine.",
+    "Sprinkle the sesame seeds and pickled ginger over the top of the salad, and toss again to combine.",
+    "Serve immediately, garnished with additional sesame seeds and pickled ginger if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "salad",
+    "melon",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-quenched-uruguayan-melon-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:36:50.213Z"
+}
