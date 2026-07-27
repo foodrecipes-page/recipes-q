@@ -1,0 +1,100 @@
+{
+  "slug": "quenched-egyptian-dishes-tagine--gluten-free",
+  "title": "Egyptian Chicken Tagine",
+  "description": "A traditional Moroccan stew originating from Egypt, made with chicken and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "quenched almonds",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "egyptian dishes cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add cumin, ginger, garlic, onion, and cook for 2-3 minutes.",
+    "Add tomatoes, broth, salt, and pepper. Stir well.",
+    "Cover the pot and cook for 20-25 minutes or until the chicken is cooked through.",
+    "Garnish with almonds and serve over rice or couscous.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with a dollop of yogurt or a sprinkle of sumac.",
+    "Note: Traditionally, this dish is cooked in a clay tagine pot, which allows for even heat distribution and a delicious crust on the bottom.",
+    "If you don't have a tagine pot, a Dutch oven or large clay pot will work just as well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "moroccan",
+    "stew",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-egyptian-dishes-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:41:40.970Z"
+}
