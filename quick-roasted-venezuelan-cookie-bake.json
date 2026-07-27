@@ -1,0 +1,86 @@
+{
+  "slug": "quick-roasted-venezuelan-cookie-bake",
+  "title": "Venezuelan Beef Empanadas",
+  "description": "Delicious beef empanadas with a crispy crust, inspired by Venezuelan cuisine. Perfect for a snack or dinner.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for the dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for the dough"
+    },
+    {
+      "name": "Quick cookie crumbs",
+      "amount": "1 cup",
+      "notes": "for the crust"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Roasted garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Mix the flour, salt, and cookie crumbs in a bowl.",
+    "3. Add the beaten eggs to the bowl and mix until a dough forms.",
+    "4. Let the dough rest for 10 minutes.",
+    "5. Divide the dough into 8 equal pieces.",
+    "6. Roll out each piece into a thin circle.",
+    "7. Place a tablespoon of beef in the center of each circle.",
+    "8. Brush the edges with oil and fold the dough in half.",
+    "9. Seal the edges with a fork.",
+    "10. Brush the tops with oil and bake for 20-25 minutes.",
+    "11. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 22,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-roasted-venezuelan-cookie-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:14:50.067Z"
+}
