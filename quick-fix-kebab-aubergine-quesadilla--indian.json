@@ -1,0 +1,62 @@
+{
+  "slug": "quick-fix-kebab-aubergine-quesadilla--indian",
+  "title": "Aubergine Kebab",
+  "description": "A classic Indian-inspired dish, this aubergine kebab is marinated in spices and grilled to perfection. Serve with your favorite sides for a flavorful meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "amount": "2"
+    },
+    {
+      "name": "Quick fix kebab spice mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the aubergine into 1-inch cubes and place in a bowl.",
+    "Add the kebab spice mix, lemon juice, and minced garlic to the bowl and mix well.",
+    "Heat the oil in a pan over medium heat.",
+    "Add the marinated aubergine to the pan and cook for 5-6 minutes per side.",
+    "Once the aubergine is tender, remove from heat and let it rest for 2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aubergine",
+    "kebab",
+    "indian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-kebab-aubergine-quesadilla--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:49:56.556Z"
+}
