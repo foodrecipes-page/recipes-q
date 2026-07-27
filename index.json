@@ -5066,17 +5066,16 @@
   },
   {
     "slug": "quick-buttery-egyptian-tahini-pasta",
-    "title": "Quick Buttery Egyptian Tahini Pasta",
+    "title": "Egyptian Pasta with Tahini Sauce",
     "tags": [
-      "dairy-free",
-      "egyptian-cuisine",
-      "pasta-dish",
-      "quick-dinner",
-      "tahini-based",
-      "vegetarian"
+      "pasta",
+      "tahini",
+      "egyptian",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 18,
     "shard": "q"
   },
   {
@@ -8680,16 +8679,15 @@
   },
   {
     "slug": "quick-grilled-american-chicken-skewers",
-    "title": "Quick Grilled American Chicken Skewers",
+    "title": "Quick American Chicken Skewers",
     "tags": [
-      "american-cuisine",
-      "grilled-chicken",
-      "low-fodmap",
-      "quick-dinner",
-      "scallop-shell-recipe"
+      "chicken",
+      "grilled",
+      "american",
+      "skewers"
     ],
     "cuisine": "American",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "q"
   },
   {
@@ -20346,6 +20344,45 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-vietnamese-tofu-noodles--vegetarian",
+    "title": "Vietnamese Tofu Noodle Soup",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "noodle-soup",
+      "vietnamese"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-egyptian-dishes-tagine--french",
+    "title": "Braised Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "north-african"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-brunch-middle-eastern-hojicha-tagine--italian",
+    "title": "Middle Eastern-Italian Hojicha Brunch Tagine",
+    "tags": [
+      "italian",
+      "middle-eastern",
+      "hojicha",
+      "brunch",
+      "quinoa"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
