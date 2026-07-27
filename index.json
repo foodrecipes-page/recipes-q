@@ -20424,5 +20424,18 @@
     "cuisine": "Korean",
     "totalTimeMin": 45,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-egyptian-dishes-tagine--gluten-free",
+    "title": "Egyptian Chicken Tagine",
+    "tags": [
+      "chicken",
+      "moroccan",
+      "stew",
+      "easy-dinner"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
