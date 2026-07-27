@@ -1,0 +1,91 @@
+{
+  "slug": "quaintly-crispy-mexican-shrimp-fajitas--french",
+  "title": "Crispy Shrimp Fajitas avec Fromage",
+  "description": "A French twist on the Mexican classic, featuring succulent shrimp and crispy vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "quaintly crispy tortillas",
+      "amount": "4-6",
+      "notes": "preferably made from scratch"
+    },
+    {
+      "name": "mexican fajita seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded or crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush tortillas with olive oil and bake for 5-7 minutes, or until crispy.",
+    "In a large skillet, heat butter over medium-high heat.",
+    "Add garlic and cook for 1-2 minutes, or until fragrant.",
+    "Add shrimp and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Add sliced red onion and bell pepper to the skillet and cook for an additional 2-3 minutes.",
+    "Sprinkle fajita seasoning over the vegetables and stir to combine.",
+    "Warm tortillas in the oven for an additional 2-3 minutes, or until pliable.",
+    "Assemble fajitas by placing shrimp and vegetables onto tortillas, followed by a sprinkle of mexican cheese blend.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "mexican",
+    "shrimp",
+    "fajitas",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 24,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-crispy-mexican-shrimp-fajitas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:00:56.606Z"
+}
