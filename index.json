@@ -20408,5 +20408,21 @@
     "cuisine": "Eastern European",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-crispy-korean-almonds-muchim--gluten-free",
+    "title": "Crispy Korean-Style Fried Chicken with Spicy Gochujang Glaze and Crunchy Slaw",
+    "tags": [
+      "korean",
+      "fried",
+      "chicken",
+      "gluten-free",
+      "spicy",
+      "gochujang",
+      "slaw"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "q"
   }
 ]
