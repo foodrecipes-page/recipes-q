@@ -1,0 +1,110 @@
+{
+  "slug": "quick-crispy-korean-almonds-muchim--gluten-free",
+  "title": "Crispy Korean-Style Fried Chicken with Spicy Gochujang Glaze and Crunchy Slaw",
+  "description": "A Gluten-Free Korean-inspired dish that combines crispy fried chicken with a sweet and spicy gochujang glaze, crunchy slaw, and toasted almonds.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "2 lbs",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "More or less to taste"
+    },
+    {
+      "name": "Gochujang paste",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "Grated"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For slaw"
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": "For slaw"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "For slaw"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together rice flour, cornstarch, and Korean chili flakes. Add the chicken pieces and toss to coat.",
+    "2. In a separate bowl, whisk together the beaten egg and 1 tablespoon of water. Add the egg mixture to the chicken and toss to coat.",
+    "3. Heat the vegetable oil in a large skillet over medium-high heat. Fry the chicken in batches until golden brown and crispy, about 5-7 minutes per batch.",
+    "4. While the chicken is cooking, prepare the slaw by combining the shredded cabbage, grated carrots, and thinly sliced green onion in a bowl.",
+    "5. In a small bowl, whisk together the sesame oil, soy sauce, and honey. Pour the dressing over the slaw and toss to coat.",
+    "6. In a small saucepan, heat the gochujang paste over medium heat until warm and fragrant.",
+    "7. To assemble the dish, place a few pieces of the crispy chicken on a plate, followed by a spoonful of the slaw and a drizzle of the gochujang glaze.",
+    "8. Sprinkle toasted almonds over the top and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fried",
+    "chicken",
+    "gluten-free",
+    "spicy",
+    "gochujang",
+    "slaw"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-korean-almonds-muchim--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:28:52.275Z"
+}
