@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-rich-polish-rye-bread-toast--indian",
+  "title": "Rye Bread Toast with Indian Spices",
+  "description": "A simple and flavorful toast made with rye bread, topped with a blend of Indian spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rye Bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "1 slice",
+      "notes": "preferably toasted"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    " Toast the bread until lightly browned.",
+    "In a small bowl, mix together the garam masala, cumin powder, and red chili powder.",
+    "Spread a small amount of butter on each slice of toasted bread.",
+    "Sprinkle the spice mixture evenly over the butter.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-rich-polish-rye-bread-toast--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:18:31.019Z"
+}
