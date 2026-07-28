@@ -1,0 +1,82 @@
+{
+  "slug": "quick-crispy-thai-vegetable-nam-prik",
+  "title": "Crispy Thai Vegetable Spring Rolls",
+  "description": "A simple, flavorful recipe for crispy Thai-style spring rolls filled with crunchy vegetables. Enjoy as a snack or side dish.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring roll wrappers (quick)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "prik nam pla (Thai fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Fill a large bowl with warm water.",
+    "2. Soak the spring roll wrappers in the water for 10-15 minutes, or until soft and pliable.",
+    "3. Drain the wrappers and cut them into squares.",
+    "4. Heat the vegetable oil in a large skillet over medium-high heat.",
+    "5. Add the carrots, cucumber, and bean sprouts to the skillet and stir-fry for 3-4 minutes.",
+    "6. Add the prik nam pla and salt to the skillet and stir-fry for another minute.",
+    "7. To assemble the spring rolls, lay a wrapper square on a flat surface and add about 1 tablespoon of the vegetable mixture to the center of the wrapper.",
+    "8. Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "9. Repeat with the remaining wrappers and filling.",
+    "10. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "11. When the oil is hot, add a few of the spring rolls to the skillet and fry until crispy and golden brown, about 2-3 minutes on each side.",
+    "12. Repeat with the remaining spring rolls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetable",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-crispy-thai-vegetable-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:35:01.229Z"
+}
