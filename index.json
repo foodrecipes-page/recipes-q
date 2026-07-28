@@ -20739,5 +20739,17 @@
     "cuisine": "french",
     "totalTimeMin": 170,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fix-kebab-aubergine-quesadilla--italian",
+    "title": "Italian Aubergine Quesadilla",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "quesadilla"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "q"
   }
 ]
