@@ -1,0 +1,75 @@
+{
+  "slug": "quick-syrian-vermicelli-noodles--french",
+  "title": "French Vermicelli Bake",
+  "description": "A simple yet flavorful casserole made with vermicelli noodles, perfect for a weeknight dinner.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Quick chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Syrian feta cheese",
+      "amount": "1 cup, crumbled"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup, grated"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook vermicelli noodles according to package instructions.",
+    "In a large skillet, melt butter over medium heat.",
+    "Add Syrian feta cheese and cook until melted and slightly browned.",
+    "Stir in chicken broth and bring to a simmer.",
+    "Add cooked vermicelli noodles to the skillet and toss to coat.",
+    "Transfer the noodle mixture to a baking dish.",
+    "Top with Parmesan cheese and chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes, or until golden brown and heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "casserole",
+    "vermicelli",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-syrian-vermicelli-noodles--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T21:11:32.107Z"
+}
