@@ -1,0 +1,79 @@
+{
+  "slug": "quietly-quenched-ethiopian-chicken-doro-wot--german",
+  "title": "Ethiopian Chicken Doro Wot with German Twist",
+  "description": "A German inspired version of the traditional Ethiopian Doro Wot, featuring chicken cooked in a rich and aromatic sauce. This dish is a delicious fusion of cultures and cuisines.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ethiopian Berbere Spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Season the chicken thighs with salt and set aside.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5 minutes per side.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion, ginger, and garlic to the pot and cook until the onion is translucent.",
+    "Add the Berbere spice and cook for 1 minute.",
+    "Add the chicken broth and heavy cream to the pot and stir to combine.",
+    "Return the chicken to the pot and bring the sauce to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20-25 minutes.",
+    "Serve the chicken and sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "ethiopian",
+    "chicken",
+    "wot",
+    "doro"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-quenched-ethiopian-chicken-doro-wot--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:28:42.666Z"
+}
