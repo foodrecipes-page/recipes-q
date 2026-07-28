@@ -1,0 +1,86 @@
+{
+  "slug": "quick-fix-baked-irish-sausage-bake",
+  "title": "Irish Sausage Bake",
+  "description": "A hearty and comforting dish featuring Irish sausage, potatoes, and cheese. Perfect for a weeknight dinner.",
+  "cuisine": "irish",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "Baked beans",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded cheddar or mozzarella"
+    },
+    {
+      "name": "Fix",
+      "amount": "1 tsp",
+      "notes": "herbs and spices, e.g. thyme, rosemary"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the Irish sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the sliced onion, diced potatoes, and sliced carrots to the skillet. Cook for 10-12 minutes, or until the vegetables are tender.",
+    "Stir in the frozen peas and baked beans. Cook for an additional 2-3 minutes.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded cheese over the top.",
+    "Bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle with fix (herbs and spices).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "comfort-food",
+    "sausage",
+    "bake",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-baked-irish-sausage-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:27:29.028Z"
+}
