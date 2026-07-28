@@ -1,0 +1,81 @@
+{
+  "slug": "quick-springy-jamaican-chicken-curry--thai",
+  "title": "Thai Jamaican Chicken Curry",
+  "description": "Juicy chicken in a rich and flavorful curry sauce, inspired by the bold spices of Jamaican cuisine with a hint of Thai flavors. Serve with steamed rice or noodles for a satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "spring onions",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "quick curry sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same pan, add the chopped spring onions and cook until softened, about 3 minutes.",
+    "Add the Jamaican curry powder and cook for 1 minute, stirring constantly.",
+    "Pour in the quick curry sauce, coconut milk, fish sauce, and brown sugar. Stir to combine.",
+    "Return the chicken breast to the pan and simmer for 5-7 minutes, or until cooked through.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice or noodles.",
+    "Garnish with additional spring onions, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "jamaican",
+    "chicken",
+    "curry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-springy-jamaican-chicken-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:30:30.871Z"
+}
