@@ -1,0 +1,97 @@
+{
+  "slug": "quality-dense-russian-peanut-stew--french",
+  "title": "Bœuf Bourguignon",
+  "description": "A classic French dish originating from the Burgundy region, Bœuf Bourguignon is a hearty stew made with tender beef, mushrooms, and bacon.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "russian beef stew meat",
+      "amount": "1 pound",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": "added for a rich flavor"
+    },
+    {
+      "name": "quality bacon",
+      "amount": "6 slices",
+      "notes": "cut into lardons"
+    },
+    {
+      "name": "dense mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "quality red wine",
+      "amount": "2 cups",
+      "notes": "Cabernet Sauvignon or Merlot"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "quality tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "added for depth"
+    }
+  ],
+  "instructions": [
+    "Season the beef with salt and pepper.",
+    "In a large Dutch oven, cook the bacon over medium heat until browned.",
+    "Remove the bacon from the pot, leaving the drippings behind.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are softened.",
+    "Add the peanut butter to the pot and stir to combine.",
+    "Add the red wine, beef broth, and tomato paste to the pot, stirring to combine.",
+    "Return the bacon to the pot.",
+    "Add the mushrooms to the pot and stir to combine.",
+    "Bring the stew to a boil, then cover and transfer to the oven.",
+    "Braise the stew for 2-1/2 to 3 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-dense-russian-peanut-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:50:50.170Z"
+}
