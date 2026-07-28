@@ -4597,16 +4597,15 @@
   },
   {
     "slug": "quick-adventurous-norwegian-cod-roast",
-    "title": "Quick Adventurous Norwegian Cod Roast",
+    "title": "Pan-Seared Cod with Norwegian Roast Vegetables",
     "tags": [
-      "high-protein",
-      "low-carb",
+      "cod",
       "norwegian",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "vegetables"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "norwegian",
+    "totalTimeMin": 40,
     "shard": "q"
   },
   {
@@ -20554,6 +20553,33 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quaint-peppery-ukrainian-onion-skewers--italian",
+    "title": "Grilled Ukrainian Shrimp with Peppery Skewers",
+    "tags": [
+      "italian",
+      "grilled",
+      "shrimp",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-cheesy-venezuelan-chuck-roast-bowl--gluten-free",
+    "title": "Venezuelan-Style Chuck Bowl",
+    "tags": [
+      "gluten-free",
+      "beef",
+      "latin-american",
+      "cheesy",
+      "latin-inspired"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 255,
     "shard": "q"
   }
 ]
