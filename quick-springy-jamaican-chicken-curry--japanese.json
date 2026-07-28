@@ -1,0 +1,80 @@
+{
+  "slug": "quick-springy-jamaican-chicken-curry--japanese",
+  "title": "Jamaican Chicken Teriyaki",
+  "description": "A unique fusion of Jamaican and Japanese flavors, featuring chicken cooked in a sweet and spicy teriyaki sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spring onions",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together curry powder and jamaican jerk seasoning.",
+    "Rub the spice mixture all over the chicken breasts, making sure to coat evenly.",
+    "Heat a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5-6 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, combine soy sauce, honey, rice vinegar, and water in a small saucepan. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "Remove the chicken from the oven and let it rest for a few minutes before slicing into thin strips.",
+    "Serve the chicken with the teriyaki sauce spooned over the top. Garnish with chopped spring onions and serve over rice or noodles.",
+    "Optional: serve with steamed vegetables or a side of pickled ginger for added flavor and nutrition.",
+    "Cook time includes time for chicken to rest after cooking.",
+    "Note: if using a grill, cook the chicken for 5-7 minutes per side, or until cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "japanese",
+    "chicken",
+    "teriyaki",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-springy-jamaican-chicken-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:08:31.696Z"
+}
