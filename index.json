@@ -20712,5 +20712,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "q"
+  },
+  {
+    "slug": "quietly-quenched-ethiopian-chicken-doro-wot--german",
+    "title": "Ethiopian Chicken Doro Wot with German Twist",
+    "tags": [
+      "german",
+      "ethiopian",
+      "chicken",
+      "wot",
+      "doro"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "q"
+  },
+  {
+    "slug": "quality-dense-russian-peanut-stew--french",
+    "title": "Bœuf Bourguignon",
+    "tags": [
+      "beef",
+      "stew",
+      "french",
+      "casserole"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "q"
   }
 ]
