@@ -1,0 +1,92 @@
+{
+  "slug": "quick-cheesy-venezuelan-chuck-roast-bowl--gluten-free",
+  "title": "Venezuelan-Style Chuck Bowl",
+  "description": "A flavorful and hearty bowl filled with slow-cooked Venezuelan-style beef and topped with a cheesy, cilantro-infused sauce. This dish is perfect for a gluten-free dinner or lunch.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1.5 lbs beef chuck",
+      "amount": "2-3 lbs beef chuck",
+      "notes": "Cut beef into 1-inch cubes"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": "Chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup shredded cheese (cheddar or Monterey Jack)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside. Add onion and garlic to pot and cook until softened, about 3-4 minutes.",
+    "Add cumin, paprika, and beef broth to pot. Stir to combine. Bring to a boil, then reduce heat to low and simmer for 2-3 hours or until beef is tender.",
+    "Shred beef with two forks and return to pot. Stir in shredded cheese until melted. Season with salt and pepper to taste.",
+    "To make cilantro sauce, combine chopped cilantro and a squeeze of lime juice in a blender or food processor. Blend until smooth. Stir in shredded cheese until melted.",
+    "To assemble bowls, place beef mixture in the bottom of a bowl and top with cilantro sauce. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "latin-american",
+    "cheesy",
+    "latin-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 33
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-cheesy-venezuelan-chuck-roast-bowl--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:27:34.339Z"
+}
