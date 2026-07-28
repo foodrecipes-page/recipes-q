@@ -1,0 +1,79 @@
+{
+  "slug": "quaintly-flaky-middle-eastern-kabocha-tagine--gluten-free",
+  "title": "Eastern Stuffed Kabocha Squash",
+  "description": "A delicious and healthy gluten-free dish from the Middle East, stuffed with sweet kabocha squash and a mix of savory spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabocha Squash",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Quaintly Flaky Pastry",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Eastern Spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Middle Eastern Herbs (parsley, dill, mint)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tagine (or slow cooker)",
+      "amount": "1 unit"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the kabocha squash in half and scoop out the seeds.",
+    "In a bowl, mix together the eastern spices, middle eastern herbs, and olive oil.",
+    "Brush the pastry with a little olive oil and sprinkle with the spice mixture.",
+    "Place the squash halves on the pastry and spoon the yogurt over the top.",
+    "Fold the pastry over the squash and brush with a little olive oil.",
+    "Place the tagine or slow cooker over the squash and cover with a lid.",
+    "Cook for 45-50 minutes or until the pastry is golden brown and the squash is tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "stuffed-squash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaintly-flaky-middle-eastern-kabocha-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:15:50.517Z"
+}
