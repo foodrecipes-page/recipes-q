@@ -1,0 +1,65 @@
+{
+  "slug": "quenched-sweet-algerian-potatoes-wrap--italian",
+  "title": "Italian-Style Potato Wrap",
+  "description": "A simple and delicious Italian-inspired wrap filled with roasted potatoes, sweet vegetables, and a hint of Algerian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Sweet onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Algerian spices (cumin, coriander, paprika)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Quenched cheese (mozzarella)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Wrap (Italian flatbread)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Peel and slice the potatoes into 1/4-inch thick rounds.",
+    "Place the potatoes on a baking sheet lined with parchment paper.",
+    "Drizzle the potatoes with olive oil and sprinkle with Algerian spices.",
+    "Toss the potatoes to coat evenly and roast for 20-25 minutes or until tender.",
+    "While the potatoes are roasting, slice the sweet onions into thin rings.",
+    "Melt the quenched cheese in a pan over medium heat.",
+    "Add the sliced onions to the pan and sauté until softened.",
+    "Warm the wrap in the oven for 2-3 minutes.",
+    "Assemble the wrap by spreading the cheese and onion mixture on the wrap, then topping with roasted potatoes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-sweet-algerian-potatoes-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:54:44.186Z"
+}
