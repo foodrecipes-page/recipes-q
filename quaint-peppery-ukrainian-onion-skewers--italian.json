@@ -1,0 +1,61 @@
+{
+  "slug": "quaint-peppery-ukrainian-onion-skewers--italian",
+  "title": "Grilled Ukrainian Shrimp with Peppery Skewers",
+  "description": "A flavorful Italian-inspired dish featuring succulent shrimp skewers, marinated in a zesty Ukrainian-style sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quaint olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "peppery vodka",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ukrainian lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers, soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together olive oil, vodka, and lemon juice.",
+    "2. Add sliced onion to the marinade and let it sit for at least 30 minutes.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread marinated onion mixture onto skewers, leaving a small space between each piece.",
+    "5. Grill skewers for 8-10 minutes, turning occasionally, until the onion is caramelized and slightly charred.",
+    "6. Serve immediately, garnished with fresh parsley or basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "grilled",
+    "shrimp",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quaint-peppery-ukrainian-onion-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:30:29.998Z"
+}
