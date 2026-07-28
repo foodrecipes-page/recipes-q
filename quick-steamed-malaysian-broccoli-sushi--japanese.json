@@ -1,0 +1,74 @@
+{
+  "slug": "quick-steamed-malaysian-broccoli-sushi--japanese",
+  "title": "Steamed Broccoli with Spicy Malaysian Sauce",
+  "description": "A simple and flavorful Japanese-inspired side dish, featuring steamed broccoli smothered in a spicy Malaysian sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Quick Malaysian Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sushi Rice Vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine Japanese-style rice vinegar, soy sauce, sesame oil, sugar, grated ginger, and minced garlic.",
+    "Bring the mixture to a simmer over medium heat and cook for 2-3 minutes, or until the sauce has thickened slightly.",
+    "Meanwhile, steam the broccoli florets in a steamer basket until tender but still crisp.",
+    "In a large bowl, toss the steamed broccoli with the spicy Malaysian sauce until well coated.",
+    "Serve the broccoli immediately, garnished with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broccoli",
+    "malaysian-sauce",
+    "japanese",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-steamed-malaysian-broccoli-sushi--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:48:42.863Z"
+}
