@@ -1,0 +1,94 @@
+{
+  "slug": "quintessential-wood-fired-indian-lamb-biryani--keto",
+  "title": "Lamb Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish made with lamb, spices, and coconut milk, suitable for a keto diet.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "boneless, cut into 2-inch pieces"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "250ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "200g",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Ghee or Clarified Butter",
+      "amount": "20g",
+      "notes": "for browning"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp",
+      "notes": "whole"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee or clarified butter in a large saucepan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add lamb pieces and brown them on all sides, about 5 minutes.",
+    "Add coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add coconut milk and bring the mixture to a boil.",
+    "Add basmati rice and stir gently to combine.",
+    "Reduce heat to low, cover, and cook for 15-20 minutes or until the rice is cooked and the liquid is absorbed.",
+    "Fluff the biryani with a fork and garnish with chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "indian",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-wood-fired-indian-lamb-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:03:52.501Z"
+}
