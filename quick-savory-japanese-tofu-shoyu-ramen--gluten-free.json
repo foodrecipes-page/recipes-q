@@ -1,0 +1,76 @@
+{
+  "slug": "quick-savory-japanese-tofu-shoyu-ramen--gluten-free",
+  "title": "Gluten-Free Japanese-Style Tofu Ramen",
+  "description": "A flavorful and easy-to-make gluten-free Japanese-inspired ramen dish featuring pan-seared tofu and savory broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free soy sauce alternative"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying tofu"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "toasted, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the tofu cubes and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Pour in 2 cups of water and bring to a boil.",
+    "Add 2 tablespoons of shoyu and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Cook the ramen noodles according to package instructions and set aside.",
+    "To assemble the ramen, place noodles in a bowl, then add the pan-seared tofu, and pour the hot shoyu broth over the top.",
+    "Garnish with chopped green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "ramen",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-savory-japanese-tofu-shoyu-ramen--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:17:12.067Z"
+}
