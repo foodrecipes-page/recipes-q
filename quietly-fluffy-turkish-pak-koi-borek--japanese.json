@@ -1,0 +1,73 @@
+{
+  "slug": "quietly-fluffy-turkish-pak-koi-borek--japanese",
+  "title": "Koi Borek",
+  "description": "A classic Japanese-inspired borek pastry filled with koi fish-shaped dough and savory quiet, fluffy pak cheese.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quiet pastry dough",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "fluffy pak cheese",
+      "amount": "150g",
+      "notes": "softened"
+    },
+    {
+      "name": "turkish koi pastry cutters",
+      "amount": "1",
+      "notes": "for koi-shaped dough"
+    },
+    {
+      "name": "borek seasoning",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Roll out the quiet pastry dough to a thickness of 3mm.",
+    "Use the turkish koi pastry cutters to cut out koi-shaped dough.",
+    "Place a small amount of fluffy pak cheese in the center of each koi-shaped dough.",
+    "Brush the edges with water and fold the dough to form a triangle.",
+    "Brush the tops with beaten eggs for a golden glaze.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Brush with borek seasoning (if using) and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "pastry",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fluffy-turkish-pak-koi-borek--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:17:32.507Z"
+}
