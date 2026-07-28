@@ -12637,16 +12637,15 @@
   },
   {
     "slug": "quickly-air-fried-mediterranean-eggplant-skewers",
-    "title": "Quickly Air Fried Mediterranean Eggplant Skewers",
+    "title": "Mediterranean Skewers",
     "tags": [
-      "air-fryer",
-      "lacto-vegetarian",
       "mediterranean",
-      "midnight-craving",
-      "quick-snack"
+      "grilled",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -20685,6 +20684,33 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quenched-german-beef-stew-korean-brass-bowl--japanese",
+    "title": "Japanese Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "japanese",
+      "comfort-food"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 150,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-steamed-malaysian-broccoli-sushi--japanese",
+    "title": "Steamed Broccoli with Spicy Malaysian Sauce",
+    "tags": [
+      "broccoli",
+      "malaysian-sauce",
+      "japanese",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
     "shard": "q"
   }
 ]
