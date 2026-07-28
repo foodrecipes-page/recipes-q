@@ -1,0 +1,86 @@
+{
+  "slug": "quick-adventurous-norwegian-cod-roast",
+  "title": "Pan-Seared Cod with Norwegian Roast Vegetables",
+  "description": "A flavorful and nutritious Norwegian-inspired dish featuring pan-seared cod and a variety of roasted vegetables.",
+  "cuisine": "norwegian",
+  "diet": [
+    "adventurous",
+    "quick"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Red potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the cod fillets and pat them dry with paper towels.",
+    "Season the cod with salt, pepper, garlic powder, and thyme.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the cod fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes.",
+    "While the cod is baking, toss the carrots, Brussels sprouts, and red potatoes with the remaining 1 tablespoon of olive oil, salt, and pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet.",
+    "Roast the vegetables in the oven for 20-25 minutes, or until they are tender and lightly browned.",
+    "Serve the pan-seared cod with the roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod",
+    "norwegian",
+    "fish",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": "320",
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-adventurous-norwegian-cod-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:28:35.283Z"
+}
