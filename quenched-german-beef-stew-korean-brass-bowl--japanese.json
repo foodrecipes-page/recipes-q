@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-german-beef-stew-korean-brass-bowl--japanese",
+  "title": "Japanese Beef Stew",
+  "description": "A hearty and flavorful Japanese-inspired beef stew made with a variety of vegetables and served over a bed of steaming hot rice.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Brass",
+      "amount": "1 large head",
+      "notes": "such as bok choy or napa cabbage"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 large",
+      "notes": "for serving"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups beef broth",
+      "notes": ""
+    },
+    {
+      "name": "German",
+      "amount": "1 tablespoon soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "Korean",
+      "amount": "1 tablespoon Gochujang",
+      "notes": ""
+    },
+    {
+      "name": "Quenched",
+      "amount": "1/4 cup green onions, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and cook for an additional 5 minutes.",
+    "Add the beef broth, soy sauce, and Gochujang to the pot.",
+    "Return the beef to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Add the chopped bok choy to the pot and cook for an additional 5 minutes, or until wilted.",
+    "Serve the beef and stew over a bed of steaming hot rice.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "japanese",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-german-beef-stew-korean-brass-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:00:36.255Z"
+}
