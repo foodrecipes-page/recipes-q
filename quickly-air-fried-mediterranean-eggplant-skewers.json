@@ -1,0 +1,78 @@
+{
+  "slug": "quickly-air-fried-mediterranean-eggplant-skewers",
+  "title": "Mediterranean Skewers",
+  "description": "A flavorful and healthy Mediterranean-inspired dish featuring eggplant and vegetables grilled to perfection.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "1 medium, cut into 1-inch cubes"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1, cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1, cut into 1-inch slices"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, button or cremini"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread eggplant, red bell pepper, zucchini, and mushrooms onto skewers.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic powder, salt, and black pepper.",
+    "Brush the mixture onto both sides of the vegetables.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the vegetables are tender and lightly charred.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "grilled",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quickly-air-fried-mediterranean-eggplant-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:12:38.199Z"
+}
