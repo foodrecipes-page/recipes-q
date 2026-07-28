@@ -1,0 +1,56 @@
+{
+  "slug": "quick-fix-kebab-aubergine-quesadilla--italian",
+  "title": "Italian Aubergine Quesadilla",
+  "description": "A unique Italian twist on traditional quesadillas, featuring aubergine as the main ingredient. Serve as a snack or light meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "aubergine",
+      "amount": "1 medium"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "2"
+    },
+    {
+      "name": "quick fix cheese blend",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "kebab seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Slice the aubergine into thin strips and sauté until tender.",
+    "Place a quesadilla in the pan and sprinkle with the cheese and kebab seasoning.",
+    "Top with the cooked aubergine and fold the quesadilla in half.",
+    "Cook until the cheese is melted and the tortilla is crispy.",
+    "Flip and cook for an additional 2-3 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-kebab-aubergine-quesadilla--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:37:55.831Z"
+}
