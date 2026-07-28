@@ -1,0 +1,88 @@
+{
+  "slug": "quick-fix-norwegian-beef-borscht--gluten-free",
+  "title": "Norwegian Beef Borscht",
+  "description": "A hearty, gluten-free Norwegian-inspired beef borscht recipe, perfect for a cold winter's day.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef brisket, cut into 1-inch pieces",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and grated",
+      "notes": null
+    },
+    {
+      "name": "beets",
+      "amount": "2 medium, peeled and grated",
+      "notes": null
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium, finely chopped",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups, diced",
+      "notes": null
+    },
+    {
+      "name": "fix",
+      "amount": "1 tablespoon, sugar substitute",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "quick fix norwegian borscht mix",
+      "amount": "1 packet",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add beef broth, carrots, beets, onions, and tomatoes. Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Stir in quick fix norwegian borscht mix and cook for 10 minutes.",
+    "Taste and adjust sweetness with fix as needed.",
+    "Serve hot, topped with a dollop of sour cream.",
+    "Serve with gluten-free bread or crackers, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "borscht",
+    "norwegian",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-norwegian-beef-borscht--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:02:02.137Z"
+}
