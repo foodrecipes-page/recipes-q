@@ -6517,14 +6517,13 @@
   },
   {
     "slug": "quick-fix-baked-irish-sausage-bake",
-    "title": "Quick-Fix Baked Irish Sausage Bake",
+    "title": "Irish Sausage Bake",
     "tags": [
-      "comfort-food",
-      "easy",
-      "high-protein",
       "irish",
-      "one-pan",
-      "weeknight"
+      "comfort-food",
+      "sausage",
+      "bake",
+      "weeknight-dinner"
     ],
     "cuisine": "irish",
     "totalTimeMin": 45,
@@ -20635,6 +20634,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-fluffy-turkish-pak-koi-borek--mexican",
+    "title": "Mexican Borek",
+    "tags": [
+      "mexican",
+      "snack",
+      "cheese",
+      "turkey"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
