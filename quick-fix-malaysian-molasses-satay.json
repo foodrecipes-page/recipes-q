@@ -1,0 +1,98 @@
+{
+  "slug": "quick-fix-malaysian-molasses-satay",
+  "title": "Malaysian Satay with Sticky Molasses Sauce",
+  "description": "A classic Malaysian dish featuring marinated meat skewers served with a sweet and sticky molasses sauce. Perfect for a quick and delicious meal.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml",
+      "notes": null
+    },
+    {
+      "name": "molasses",
+      "amount": "50g",
+      "notes": "see notes for sauce recipe"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, fish sauce, lime juice, brown sugar, garlic, coriander, and salt.",
+    "Add the chicken pieces to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with peanut oil to prevent sticking.",
+    "Grill the satay for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, combine molasses, brown sugar, and lime juice in a small saucepan.",
+    "Bring the mixture to a boil over medium heat, stirring constantly.",
+    "Reduce the heat to low and simmer for 5 minutes, or until the sauce has thickened.",
+    "Serve the satay hot with the sticky molasses sauce.",
+    "Garnish with toasted peanuts or sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "satay",
+    "grilled",
+    "sticky-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-malaysian-molasses-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:46:28.229Z"
+}
