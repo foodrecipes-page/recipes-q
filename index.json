@@ -5708,17 +5708,14 @@
   },
   {
     "slug": "quick-crispy-thai-vegetable-nam-prik",
-    "title": "Quick Crispy Thai Vegetable Nam Prik",
+    "title": "Crispy Thai Vegetable Spring Rolls",
     "tags": [
-      "crispy",
-      "high-protein",
-      "one-pan",
-      "thai-cuisine",
-      "vegan-friendly",
-      "weeknight"
+      "thai",
+      "vegetable",
+      "snack"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "q"
   },
   {
@@ -20530,6 +20527,32 @@
       "vegetarian"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quintessential-wood-fired-indian-lamb-biryani--keto",
+    "title": "Lamb Biryani",
+    "tags": [
+      "lamb",
+      "biryani",
+      "indian",
+      "keto"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-savory-japanese-tofu-shoyu-ramen--gluten-free",
+    "title": "Gluten-Free Japanese-Style Tofu Ramen",
+    "tags": [
+      "gluten-free",
+      "japanese",
+      "ramen",
+      "tofu"
+    ],
+    "cuisine": "Japanese",
     "totalTimeMin": 30,
     "shard": "q"
   }
