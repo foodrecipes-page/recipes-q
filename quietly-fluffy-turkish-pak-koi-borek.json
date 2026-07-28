@@ -1,0 +1,75 @@
+{
+  "slug": "quietly-fluffy-turkish-pak-koi-borek",
+  "title": "Turkish Koi Borek",
+  "description": "A delicious Turkish-inspired pastry dish filled with koi and spices, served as a breakfast or snack option.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "quietly flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "fluffy butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "turkish spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, paprika, and sumac"
+    },
+    {
+      "name": "pak phyllo dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "koi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "borek cheese",
+      "amount": "1 cup",
+      "notes": "crumbly feta-style cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut phyllo dough into 4 equal pieces.",
+    "Brush each piece with butter.",
+    "Mix koi and spices, set aside.",
+    "Place a piece of phyllo dough on a flat surface.",
+    "Spread a quarter of the koi mixture onto the phyllo dough.",
+    "Top with a quarter of the borek cheese.",
+    "Fold the phyllo dough to form a triangle.",
+    "Brush the edges with butter.",
+    "Repeat with remaining dough and filling.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "breakfast",
+    "snack",
+    "pastries"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fluffy-turkish-pak-koi-borek",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:36:43.090Z"
+}
