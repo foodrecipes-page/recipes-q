@@ -20751,5 +20751,32 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "q"
+  },
+  {
+    "slug": "quick-syrian-vermicelli-noodles--french",
+    "title": "French Vermicelli Bake",
+    "tags": [
+      "french",
+      "casserole",
+      "vermicelli",
+      "noodles"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-norwegian-beef-borscht--gluten-free",
+    "title": "Norwegian Beef Borscht",
+    "tags": [
+      "beef",
+      "borscht",
+      "norwegian",
+      "gluten-free",
+      "lunch"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 80,
+    "shard": "q"
   }
 ]
