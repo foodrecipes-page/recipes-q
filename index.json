@@ -20674,5 +20674,17 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 60,
     "shard": "q"
+  },
+  {
+    "slug": "quenched-sweet-algerian-potatoes-wrap--italian",
+    "title": "Italian-Style Potato Wrap",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
