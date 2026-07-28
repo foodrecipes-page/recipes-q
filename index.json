@@ -20648,5 +20648,31 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-springy-jamaican-chicken-curry--japanese",
+    "title": "Jamaican Chicken Teriyaki",
+    "tags": [
+      "jamaican",
+      "japanese",
+      "chicken",
+      "teriyaki",
+      "curry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quaintly-flaky-middle-eastern-kabocha-tagine--gluten-free",
+    "title": "Eastern Stuffed Kabocha Squash",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "stuffed-squash"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
+    "shard": "q"
   }
 ]
