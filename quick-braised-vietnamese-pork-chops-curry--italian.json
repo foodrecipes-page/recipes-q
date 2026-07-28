@@ -1,0 +1,103 @@
+{
+  "slug": "quick-braised-vietnamese-pork-chops-curry--italian",
+  "title": "Italian-Style Braised Pork Chops with Quick Curry Sauce",
+  "description": "A fusion twist on traditional Italian braised pork chops, served with a flavorful and spicy quick curry sauce. Perfect for a cozy dinner with family and friends.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 (1-1.5 pounds)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork chops with salt and pepper.",
+    "In a large Dutch oven, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Sear the pork chops until browned on both sides, about 2-3 minutes per side.",
+    "Remove the pork chops from the pot and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pot.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the tomato paste (if using) and cook for 1 minute.",
+    "Add the white wine (or beef broth) and bring to a boil.",
+    "Add the chicken broth, sugar (if using), and balsamic vinegar (if using).",
+    "Return the pork chops to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2-3 hours, or until the pork chops are tender.",
+    "Remove the pot from the oven and let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "braised",
+    "curry",
+    "meat",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "32g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-braised-vietnamese-pork-chops-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:42:41.623Z"
+}
