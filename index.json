@@ -20595,5 +20595,46 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-braised-vietnamese-pork-chops-curry--italian",
+    "title": "Italian-Style Braised Pork Chops with Quick Curry Sauce",
+    "tags": [
+      "italian",
+      "pork",
+      "braised",
+      "curry",
+      "meat",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 140,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-simmered-malaysian-beef-curry--indian",
+    "title": "Malaysian Beef Curry",
+    "tags": [
+      "malaysian",
+      "beef",
+      "curry",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-fluffy-turkish-pak-koi-borek--japanese",
+    "title": "Koi Borek",
+    "tags": [
+      "japanese",
+      "snack",
+      "pastry",
+      "cheese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "q"
   }
 ]
