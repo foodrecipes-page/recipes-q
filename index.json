@@ -7123,14 +7123,15 @@
   },
   {
     "slug": "quick-fix-malaysian-molasses-satay",
-    "title": "Quick-Fix Malaysian Molasses Satay",
+    "title": "Malaysian Satay with Sticky Molasses Sauce",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "malaysian",
+      "satay",
+      "grilled",
+      "sticky-sauce"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "q"
   },
   {
@@ -14215,16 +14216,15 @@
   },
   {
     "slug": "quietly-fluffy-turkish-pak-koi-borek",
-    "title": "Quietly Fluffy Turkish Pak Koi Borek",
+    "title": "Turkish Koi Borek",
     "tags": [
-      "fermented-food",
-      "low-calorie",
-      "one-pan",
-      "seafood",
-      "turkish-food"
+      "turkish",
+      "breakfast",
+      "snack",
+      "pastries"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "q"
   },
   {
@@ -20580,6 +20580,20 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 255,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-springy-jamaican-chicken-curry--thai",
+    "title": "Thai Jamaican Chicken Curry",
+    "tags": [
+      "thai",
+      "jamaican",
+      "chicken",
+      "curry",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
     "shard": "q"
   }
 ]
