@@ -1,0 +1,81 @@
+{
+  "slug": "quietly-fluffy-turkish-pak-koi-borek--mexican",
+  "title": "Mexican Borek",
+  "description": "A twist on traditional Mexican dishes, this recipe combines crispy borek pastry with savory turkey and cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "turkish borek dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "turkey breast",
+      "amount": "1 pound, diced"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Roll out the Turkish borek dough to a thickness of 1/8 inch.",
+    "In a pan, sauté the diced onion and turkey breast until browned.",
+    "Add cumin and chili powder to the pan and stir.",
+    "Roll the borek dough into a large rectangle.",
+    "Place the turkey mixture in the center of the dough, leaving a 1 inch border.",
+    "Sprinkle shredded cheese over the turkey mixture.",
+    "Fold the dough over the filling and press edges to seal.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Cut into triangles and serve with salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "cheese",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-fluffy-turkish-pak-koi-borek--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:07:01.397Z"
+}
