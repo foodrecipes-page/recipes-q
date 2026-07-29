@@ -1,0 +1,79 @@
+{
+  "slug": "quenched-gooey-turkish-herring-kazandibi--keto",
+  "title": "Keto Turkish Kazandibi with Herring",
+  "description": "A unique keto dessert that combines the flavors of Turkey with the richness of herring.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Turkish kazandibi",
+      "amount": "1 package"
+    },
+    {
+      "name": "Herring",
+      "amount": "4 pieces",
+      "notes": "canned in water, drained"
+    },
+    {
+      "name": "Quenched cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Bake the kazandibi according to the package instructions.",
+    "In a blender, mix the cream cheese, honey, eggs, sweetener, and vanilla extract until smooth.",
+    "Once the kazandibi is done, let it cool for a few minutes.",
+    "Cut the kazandibi into small pieces and place them in a baking dish.",
+    "Pour the cream cheese mixture over the kazandibi.",
+    "Bake for an additional 15-20 minutes, or until the mixture is set.",
+    "Remove from the oven and let it cool for a few minutes.",
+    "Sprinkle with almond flour if desired.",
+    "Serve warm and enjoy!",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "turkish",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenched-gooey-turkish-herring-kazandibi--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:50:07.428Z"
+}
