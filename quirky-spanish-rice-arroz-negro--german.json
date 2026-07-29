@@ -1,0 +1,83 @@
+{
+  "slug": "quirky-spanish-rice-arroz-negro--german",
+  "title": "Traditional German Sausage and Rice Bowl",
+  "description": "A hearty, comforting dish featuring German sausage and flavorful rice. Perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quirky sausage (Frankfurter)",
+      "amount": "500g",
+      "notes": "you can use any brand of your choice"
+    },
+    {
+      "name": "arroz (Spanish rice)",
+      "amount": "250g",
+      "notes": "Spanish rice is a good choice here"
+    },
+    {
+      "name": "negro (black pepper)",
+      "amount": "to taste",
+      "notes": "add as much as you like"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "add as much as you like"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "beer (optional)",
+      "amount": "100ml",
+      "notes": "add a splash for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the quirky sausage and cook until browned on all sides.",
+    "Add the Spanish rice and stir to combine with the sausage and vegetables.",
+    "Add the black pepper, salt, and beer (if using) and stir to combine.",
+    "Transfer the mixture to a serving dish and serve hot.",
+    "Serve with additional beer on the side (optional)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "comfort-food",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quirky-spanish-rice-arroz-negro--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:56:58.335Z"
+}
