@@ -20830,5 +20830,68 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "q"
+  },
+  {
+    "slug": "quick-fix-malaysian-molasses-satay--french",
+    "title": "French Satay Chicken",
+    "tags": [
+      "chicken",
+      "grill",
+      "france",
+      "asian-fusion"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fried-italian-tomato-fritters--gluten-free",
+    "title": "Gluten-Free Fried Italian Fritters",
+    "tags": [
+      "italian",
+      "fritters",
+      "fried"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 23,
+    "shard": "q"
+  },
+  {
+    "slug": "quirky-spanish-rice-arroz-negro--german",
+    "title": "Traditional German Sausage and Rice Bowl",
+    "tags": [
+      "german",
+      "comfort-food",
+      "sausages"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-sweet-poach--french",
+    "title": "French Poached Salmon with Sweet Glaze",
+    "tags": [
+      "french",
+      "poach",
+      "salmon",
+      "glaze"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-roasted-dutch-chestnut-mushroom-stew--mexican",
+    "title": "Chestnut and Mushroom Stew",
+    "tags": [
+      "mexican",
+      "stew",
+      "chestnut",
+      "mushroom"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "q"
   }
 ]
