@@ -1,0 +1,76 @@
+{
+  "slug": "quick-portuguese-chocolate-cake--indian",
+  "title": "Cardamom Chocolate Cake",
+  "description": "Moist and flavorful cardamom-infused chocolate cake, perfect for any occasion. This unique dessert combines the warmth of spices with the richness of dark chocolate.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, at room temperature",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 9-inch round cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together flour, cocoa powder, sugar, and salt.",
+    "In a large mixing bowl, using an electric mixer, beat the butter until creamy, about 2 minutes.",
+    "Add eggs one at a time, beating well after each addition.",
+    "Beat in the vanilla extract and ground cardamom.",
+    "Gradually add the dry ingredients to the wet ingredients, beating until just combined.",
+    "Divide the batter evenly between the prepared pans and smooth the tops.",
+    "Bake for 30-35 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let the cakes cool in the pans for 10 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "cake",
+    "indian",
+    "cardamom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-portuguese-chocolate-cake--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:56:11.728Z"
+}
