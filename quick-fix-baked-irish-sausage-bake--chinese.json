@@ -1,0 +1,82 @@
+{
+  "slug": "quick-fix-baked-irish-sausage-bake--chinese",
+  "title": "Baked Irish Sausage with Quick Irish Fix",
+  "description": "A fusion of Irish flavors with Chinese technique, this dish combines the classic Irish sausage with a sweet and savory baked sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Quick fix sauce (soy sauce, hoisin sauce, rice vinegar)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Baked bake (brown sugar)",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the Irish sausage on the baking sheet.",
+    "In a small bowl, whisk together the Quick fix sauce and baked bake until smooth.",
+    "Brush the sauce mixture evenly over the sausage.",
+    "Bake the sausage for 20-25 minutes, or until cooked through.",
+    "While the sausage is baking, heat the sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger to the wok and stir-fry for 1 minute.",
+    "Add the green onions and snow peas to the wok and stir-fry for 2-3 minutes, or until the vegetables are tender.",
+    "Serve the baked sausage with the stir-fried vegetables and sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish-sausage",
+    "chinese-fusion",
+    "baked-sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-baked-irish-sausage-bake--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:17:51.596Z"
+}
