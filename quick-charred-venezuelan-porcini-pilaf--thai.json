@@ -1,0 +1,87 @@
+{
+  "slug": "quick-charred-venezuelan-porcini-pilaf--thai",
+  "title": "Charred Chicken and Porcini Pilaf",
+  "description": "A flavorful Thai-inspired dish featuring charred chicken and porcini pilaf, finished with a hint of Venezuelan spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "porcini mushrooms",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "quick rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "charred chili flakes",
+      "amount": "2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Venezuelan chimichurri",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "2. Add the chicken breast pieces and cook until browned on all sides, about 5-6 minutes.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "5. Add the porcini mushrooms and cook until fragrant, about 2-3 minutes.",
+    "6. Add the quick rice to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "7. Add the charred chili flakes, Venezuelan chimichurri, salt, and black pepper to the skillet.",
+    "8. Stir to combine and cook for 1 minute.",
+    "9. Add 2 cups of water to the skillet and bring to a boil.",
+    "10. Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed and the rice is tender.",
+    "11. Return the chicken to the skillet and stir to combine with the pilaf.",
+    "12. Serve hot and garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "pilaf",
+    "porcini"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-charred-venezuelan-porcini-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:14:09.991Z"
+}
