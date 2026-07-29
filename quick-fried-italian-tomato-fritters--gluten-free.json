@@ -1,0 +1,76 @@
+{
+  "slug": "quick-fried-italian-tomato-fritters--gluten-free",
+  "title": "Gluten-Free Fried Italian Fritters",
+  "description": "A tasty and crispy gluten-free Italian fritter recipe, perfect for a snack or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gluten-free all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a large bowl, combine the gluten-free flour, Italian seasoning, and breadcrumbs.",
+    "In a separate bowl, beat the egg and mix with the mozzarella cheese.",
+    "Add the diced tomato to the egg mixture and stir well.",
+    "Add the egg mixture to the flour mixture and mix until a dough forms.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the fritters for 2-3 minutes on each side, until golden brown and crispy.",
+    "Remove the fritters from the oil and place on a paper towel to drain excess oil.",
+    "Serve the fritters hot and enjoy!",
+    "Optional: You can also bake the fritters in a preheated oven at 375°F (190°C) for 10-12 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fritters",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fried-italian-tomato-fritters--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:22:14.833Z"
+}
