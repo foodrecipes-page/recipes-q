@@ -1,0 +1,70 @@
+{
+  "slug": "quenching-citrusy-indian-yogurt-lassi--thai",
+  "title": "Thai Citrusy Lassi",
+  "description": "A refreshing and tangy drink to quench your thirst, blending the flavors of Thailand with a dollop of yogurt.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quenching citrus mix (1 cup)",
+      "amount": "1/2 cup yogurt",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "yogurt (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lassi (1 tsp)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ice (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water (1 cup)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a blender, combine yogurt, quenching citrus mix, lassi, ice, and water.",
+    "2. Blend until smooth and creamy.",
+    "3. Taste and adjust sweetness with honey if needed.",
+    "4. Pour into glasses and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "refreshing",
+    "tangy",
+    "drink"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quenching-citrusy-indian-yogurt-lassi--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:37:27.550Z"
+}
