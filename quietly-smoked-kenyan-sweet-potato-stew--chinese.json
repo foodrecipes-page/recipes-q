@@ -1,0 +1,67 @@
+{
+  "slug": "quietly-smoked-kenyan-sweet-potato-stew--chinese",
+  "title": "Smoky Sweet Potato Stir Fry",
+  "description": "A Chinese-inspired stir fry featuring sweet potatoes, smoked vegetables, and a hint of Kenyan spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "quietly cooked mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked vegetables (such as bell peppers)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kenyan spices (such as curry powder and turmeric)",
+      "amount": "1 tsp",
+      "notes": "mixed together"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced mushrooms and smoked vegetables, stir-frying until they start to soften.",
+    "Add the Kenyan spices and stir to combine.",
+    "Add the sliced sweet potatoes and stir-fry for 5 minutes, or until they start to soften.",
+    "Continue to stir-fry for an additional 5-7 minutes, or until the sweet potatoes are tender and the vegetables are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stir-fry",
+    "sweet-potato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quietly-smoked-kenyan-sweet-potato-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:33:05.015Z"
+}
