@@ -1,0 +1,84 @@
+{
+  "slug": "quick-fix-malaysian-molasses-satay--french",
+  "title": "French Satay Chicken",
+  "description": "A French twist on the popular Southeast Asian satay dish, featuring chicken skewers marinated in a rich molasses-based sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup",
+      "notes": "or substitute with honey"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with tamari"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with coconut sugar"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "quick-cooking rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine molasses, soy sauce, brown sugar, and garlic. Blend until smooth.",
+    "Add chicken to the marinade and mix to coat. Cover and refrigerate for at least 30 minutes.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with vegetable oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "Serve skewers hot with a side of sticky rice and garnished with chopped cilantro.",
+    "Optional: serve with a side of fix sauce (see note)"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grill",
+    "france",
+    "asian-fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-malaysian-molasses-satay--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:11:36.867Z"
+}
