@@ -1,0 +1,90 @@
+{
+  "slug": "quick-fix-resinous-argentinian-masarepa-toast--japanese",
+  "title": "Argentinian-Style Toasted Masarepa Cakes with Resinous Glaze",
+  "description": "Crispy toasted masarepa cakes with a sweet and sticky resinous glaze, inspired by Japanese flavors and Argentinian ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "masarepa",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "resinous honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "argentinian-style bread crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine masarepa, eggs, milk, vegetable oil, salt, and black pepper. Mix well.",
+    "3. Stir in toasted sesame seeds and argentinian-style bread crumbs.",
+    "4. Using a 1/4 cup measuring cup, scoop masarepa mixture into a baking sheet lined with parchment paper.",
+    "5. Flatten each scoop slightly with a spatula.",
+    "6. Bake for 20-25 minutes or until golden brown.",
+    "7. While cakes are baking, prepare resinous glaze by whisking together resinous honey and vegetable oil.",
+    "8. Once cakes are done, brush with resinous glaze and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "japanese",
+    "breakfast",
+    "masarepa",
+    "resinous",
+    "glaze"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-fix-resinous-argentinian-masarepa-toast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:36:08.142Z"
+}
