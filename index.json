@@ -1747,17 +1747,16 @@
   },
   {
     "slug": "quality-crumbly-american-sausage-skillet",
-    "title": "Quality Crumbly American Sausage Skillet",
+    "title": "American Sausage Skillet",
     "tags": [
-      "american-dish",
-      "crumbly-sausage",
-      "easy-meal",
-      "one-pan",
-      "skillet-recipe",
-      "weeknight"
+      "american",
+      "breakfast",
+      "brunch",
+      "sausage",
+      "skillet"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "q"
   },
   {
@@ -20930,6 +20929,21 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 55,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-fix-resinous-argentinian-masarepa-toast--japanese",
+    "title": "Argentinian-Style Toasted Masarepa Cakes with Resinous Glaze",
+    "tags": [
+      "argentinian",
+      "japanese",
+      "breakfast",
+      "masarepa",
+      "resinous",
+      "glaze"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "q"
   }
 ]
