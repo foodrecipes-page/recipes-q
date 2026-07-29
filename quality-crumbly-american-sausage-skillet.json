@@ -1,0 +1,87 @@
+{
+  "slug": "quality-crumbly-american-sausage-skillet",
+  "title": "American Sausage Skillet",
+  "description": "A hearty, crumbly sausage skillet dish that's perfect for a satisfying breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "American sausage",
+      "amount": "1 pound",
+      "notes": "preferably crumbly"
+    },
+    {
+      "name": "quality skillet",
+      "amount": "",
+      "notes": "preferably cast-iron"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "assumed to be a cooking vessel"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheddar",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your skillet to 375°F (190°C).",
+    "Cook the sausage in the skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the sausage is browned, remove it from the skillet and set it aside.",
+    "Add the chopped onion to the skillet and cook until it's translucent.",
+    "Pour in the beaten eggs and stir them with the onion.",
+    "Add the cooked sausage back into the skillet and stir it into the eggs.",
+    "If using shredded cheddar, sprinkle it on top of the sausage and eggs.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the eggs are set.",
+    "Season with salt and pepper to taste.",
+    "Serve the sausage skillet hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "breakfast",
+    "brunch",
+    "sausage",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-crumbly-american-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:05:09.237Z"
+}
