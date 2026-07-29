@@ -1,0 +1,91 @@
+{
+  "slug": "quick-citrusy-korean-tofu-skillet--mexican",
+  "title": "Citrusy Korean Skillet Tofu",
+  "description": "A quick and zesty Mexican-inspired dish featuring marinated tofu, crispy skillet flavors, and the warmth of Korean chili flakes. Perfect for a weeknight dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain excess liquid"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Mixed citrus segments (orange, lemon, lime)",
+      "amount": "1 cup",
+      "notes": "Fresh and thinly sliced"
+    }
+  ],
+  "instructions": [
+    "1. Press and drain the tofu, then cut it into 1-inch cubes.",
+    "2. In a shallow dish, whisk together lime juice, olive oil, Korean chili flakes, cumin, garlic powder, salt, and black pepper.",
+    "3. Add the tofu to the marinade and coat evenly. Let it sit for at least 10 minutes, flipping halfway through.",
+    "4. Heat a large skillet over medium-high heat.",
+    "5. Remove the tofu from the marinade, letting any excess liquid drip off.",
+    "6. Add the tofu to the skillet and cook for 3-4 minutes per side, until golden brown and crispy.",
+    "7. Transfer the cooked tofu to a plate and cover with foil to keep warm.",
+    "8. In the same skillet, add the mixed citrus segments and cook for 2-3 minutes, until they start to caramelize.",
+    "9. Return the tofu to the skillet and toss with the citrus segments.",
+    "10. Serve immediately and garnish with additional lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "korean",
+    "tofu",
+    "skillet",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-citrusy-korean-tofu-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:40:09.579Z"
+}
