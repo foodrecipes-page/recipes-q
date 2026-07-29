@@ -20893,5 +20893,43 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quenching-citrusy-indian-yogurt-lassi--thai",
+    "title": "Thai Citrusy Lassi",
+    "tags": [
+      "thai",
+      "refreshing",
+      "tangy",
+      "drink"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 5,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-zesty-norwegian-beef-broth--german",
+    "title": "Beef Goulash",
+    "tags": [
+      "german",
+      "beef-stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 70,
+    "shard": "q"
+  },
+  {
+    "slug": "quick-portuguese-chocolate-cake--indian",
+    "title": "Cardamom Chocolate Cake",
+    "tags": [
+      "chocolate",
+      "cake",
+      "indian",
+      "cardamom"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "q"
   }
 ]
