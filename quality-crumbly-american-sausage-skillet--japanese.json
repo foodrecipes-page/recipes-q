@@ -1,0 +1,58 @@
+{
+  "slug": "quality-crumbly-american-sausage-skillet--japanese",
+  "title": "Japanese Sausage Skillet",
+  "description": "A hearty and flavorful Japanese-inspired skillet dish featuring American sausage and served with a side of steamed vegetables.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "American sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "Quality skillet",
+      "amount": "1",
+      "notes": "Preheat oven to 400°F (200°C)"
+    },
+    {
+      "name": "Crumbly",
+      "amount": "1/4 cup",
+      "notes": "Reserved for garnish"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "Vegetable or sesame oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet in the oven for 5 minutes.",
+    "2. Add oil to the preheated skillet and swirl to coat.",
+    "3. Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "4. Add your favorite steamed vegetables (e.g. broccoli, bell peppers) and cook until tender.",
+    "5. Garnish with crumbly and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "japanese",
+    "skillet",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quality-crumbly-american-sausage-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:17:44.963Z"
+}
