@@ -1,0 +1,81 @@
+{
+  "slug": "quick-zesty-norwegian-beef-broth--german",
+  "title": "Beef Goulash",
+  "description": "A hearty, comforting German beef stew made with a rich and flavorful broth.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "chuck or round, sliced"
+    },
+    {
+      "name": "broth",
+      "amount": "2 cups",
+      "notes": "beef or chicken"
+    },
+    {
+      "name": "quick",
+      "amount": "1 tsp",
+      "notes": "quick beef seasoning"
+    },
+    {
+      "name": "zesty",
+      "amount": "1 tsp",
+      "notes": "zesty seasoning blend"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1/2 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add broth, quick seasoning, zesty seasoning, and thyme.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Add water if desired to achieve desired consistency.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley or thyme if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quick-zesty-norwegian-beef-broth--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:51:07.306Z"
+}
