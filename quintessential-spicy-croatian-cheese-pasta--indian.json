@@ -1,0 +1,70 @@
+{
+  "slug": "quintessential-spicy-croatian-cheese-pasta--indian",
+  "title": "Spicy Indian Pasta Bake",
+  "description": "A unique fusion of Indian spices and Italian pasta, perfect for a quick weeknight dinner. This Spicy Indian Pasta Bake is a flavorful and spicy take on traditional pasta bake.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "quintessential",
+      "amount": "2 tbsp",
+      "notes": "Indian spice blend"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 tsp",
+      "notes": "Red pepper flakes or sriracha"
+    },
+    {
+      "name": "croatian",
+      "amount": "1 cup",
+      "notes": "Sour cream"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "Shredded mozzarella"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the Indian spice blend (quintessential) over medium heat.",
+    "Add the red pepper flakes (spicy) and cook for 1-2 minutes, until fragrant.",
+    "Stir in the sour cream (croatian) and cook until heated through.",
+    "In a large bowl, combine the cooked pasta, spicy sauce, and shredded mozzarella (cheese).",
+    "Transfer the pasta mixture to a baking dish and top with additional mozzarella cheese.",
+    "Bake in the preheated oven for 15-20 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with chopped fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pasta",
+    "spicy",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/quintessential-spicy-croatian-cheese-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:00:35.201Z"
+}
