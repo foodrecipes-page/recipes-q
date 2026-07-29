@@ -20945,5 +20945,44 @@
     "cuisine": "japanese",
     "totalTimeMin": 40,
     "shard": "q"
+  },
+  {
+    "slug": "quick-charred-venezuelan-porcini-pilaf--thai",
+    "title": "Charred Chicken and Porcini Pilaf",
+    "tags": [
+      "thai",
+      "chicken",
+      "pilaf",
+      "porcini"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "q"
+  },
+  {
+    "slug": "quality-crumbly-american-sausage-skillet--japanese",
+    "title": "Japanese Sausage Skillet",
+    "tags": [
+      "breakfast",
+      "japanese",
+      "skillet",
+      "sausage"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "q"
+  },
+  {
+    "slug": "quietly-smoked-kenyan-sweet-potato-stew--chinese",
+    "title": "Smoky Sweet Potato Stir Fry",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "stir-fry",
+      "sweet-potato"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "q"
   }
 ]
